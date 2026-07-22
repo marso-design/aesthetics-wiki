@@ -1,0 +1,9 @@
+# If you choose to commit the downloaded images (after verifying their
+# licenses), track them with Git LFS to keep the repo usable. Enable with:
+#   git lfs install
+#   (then remove the image ignore lines in .gitignore)
+images/**/*.jpg  filter=lfs diff=lfs merge=lfs -text
+images/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+images/**/*.png  filter=lfs diff=lfs merge=lfs -text
+images/**/*.gif  filter=lfs diff=lfs merge=lfs -text
+images/**/*.webp filter=lfs diff=lfs merge=lfs -text

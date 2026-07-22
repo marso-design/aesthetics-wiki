@@ -1,0 +1,35 @@
+[
+  {
+    "file": "Grandmashouse.jpg",
+    "local": "images/grandmacore/Grandmashouse.jpg",
+    "source_url": "https://static.wikia.nocookie.net/aesthetics/images/5/57/Grandmashouse.jpg/revision/latest?cb=20210128210655",
+    "page": "https://aesthetics.fandom.com/wiki/File:Grandmashouse.jpg",
+    "artist": null,
+    "license": null,
+    "license_url": null,
+    "description": null,
+    "downloaded": true
+  },
+  {
+    "file": "Ceramics.jpg",
+    "local": "images/grandmacore/Ceramics.jpg",
+    "source_url": "https://static.wikia.nocookie.net/aesthetics/images/d/d8/Ceramics.jpg/revision/latest?cb=20210128210634",
+    "page": "https://aesthetics.fandom.com/wiki/File:Ceramics.jpg",
+    "artist": null,
+    "license": null,
+    "license_url": null,
+    "description": null,
+    "downloaded": true
+  },
+  {
+    "file": "Missmarple.jpg",
+    "local": "images/grandmacore/Missmarple.jpg",
+    "source_url": "https://static.wikia.nocookie.net/aesthetics/images/a/a7/Missmarple.jpg/revision/latest?cb=20210128210432",
+    "page": "https://aesthetics.fandom.com/wiki/File:Missmarple.jpg",
+    "artist": null,
+    "license": null,
+    "license_url": null,
+    "description": null,
+    "downloaded": true
+  }
+]

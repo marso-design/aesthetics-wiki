@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# scrape artifacts
+*.part
+data/scrape.log
+data/failures.json
+
+# Image binaries are large and each carries its own (often unspecified)
+# license. By default we DO NOT commit the image files, only the per-folder
+# credits.json manifests. Remove the two lines below if you have verified the
+# image licenses and want to publish the binaries (use Git LFS: see
+# .gitattributes).
+images/**/*.jpg
+images/**/*.jpeg
+images/**/*.png
+images/**/*.gif
+images/**/*.webp
+images/**/*.JPG
+images/**/*.JPEG
+images/**/*.PNG
+!images/**/credits.json

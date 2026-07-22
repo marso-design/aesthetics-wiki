@@ -1,0 +1,157 @@
+---
+name: "Ultras"
+slug: "ultras"
+decade_of_origin: "1960s"
+key_motifs: ["Tifos (choreographed stadium displays)", "large banners", "flags", "flares", "smoke bombs", "drums", "synchronized chants", "graffiti", "club symbols"]
+key_colours: ["Club colors", "often monochromatic (black, team-specific hues)"]
+key_values: ["Fanatical support", "loyalty", "unity", "community", "identity", "intimidation", "anti-commercialization", "nonconformism", "self-expression", "collective belonging"]
+related_aesthetics: ["Blokecore", "Blokette", "Casuals", "Mod", "Paninaro", "Rave", "Skinhead"]
+related_media: ["Ultras", "The Real Football Factories", "The Rebels of The Stadiums", "The Syndrome by Andy Capp", "Skins by Gavin Watson"]
+source_url: "https://aesthetics.fandom.com/wiki/Ultras"
+license: "CC-BY-SA-4.0"
+retrieved: "2026-07-22"
+image_count: 27
+---
+
+# Ultras
+
+[Sensitive Content Notice](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki:Content_Warning_Policy "Aesthetics Wiki:Content Warning Policy") ⚠️
+
+The following article contains and discusses content that may be distressing to some readers.  
+**Reason for Warning:** This page discusses instances of football hooliganism and violence, as well as associations with extremist political ideologies and racist behavior.
+
+**Ultras** are organized groups of association football fans characterized by their fanatical support for their teams. Originating in Italy in the 1960s, the term is now used worldwide to describe these groups. Ultras are known for creating intense atmospheres in stadiums through elaborate displays (tifos), vocal support, choreographed chants, the use of musical instruments (like drums), and the use of pyrotechnics (flares, smoke bombs).
+
+They often organize travel to away games to support their team. In recent decades, the Ultras subculture has also become a focal point for resistance against the commercialization of football. While their primary focus is on passionate support, some groups have been associated with hooliganism and, in some cases, far-right or far-left political ideologies. The Ultras subculture has regional variations, such as [Casuals](https://aesthetics.fandom.com/wiki/Casuals "Casuals") in the UK, *Barra Bravas* in Hispanic America, and *Torcidas Organizadas* in Brazil.
+
+## History
+
+The Ultras subculture emerged in Italy during the 1960s, quickly becoming a defining aspect of association football fandom. The term "ultra" itself derives from words meaning "other" or "beyond," implying an insurgent or extremist stance. Following its initial development in Southern Europe, the movement spread globally.
+
+Over decades, the Ultras world has constantly evolved, mutated, and reinvented itself. This evolution has brought about significant contradictions within the subculture. For instance, while some Ultras terraces are profoundly politicized, members often maintain that politics should be kept out of the stadiums. The movement has also seen an escalation of violence over time, progressing from fist fights to incidents involving knives, flares, ambushes, and even firearms.
+
+Despite negative portrayals in the media, the Ultras movement exhibits a complex duality. While associated with violence and occasional links to organized crime like the mafia, it also demonstrates instances of altruism and provides sanctuary from such criminal elements. For example, the Cosenza Ultras, known for being devoutly anti-fascist, have squatted buildings confiscated from the mafia to house immigrants and destitute Italians, operated a food bank, and created Italy's first play-park for disabled children. Ultras also engage in broader social actions and collaborate with different social movements beyond the stadium.
+
+The desire for uncompromising unity and allegiance is a defining stance for Ultras, often expressed through slogans like "you can't mistrust the faith" or "never on your knees." This longing for absolutism, combined with the defense of territory and identity through colors and clothing, has led to a strong alignment between many terraces and far-right political ideologies, with the vast majority of Italian terraces today being controlled by far-right leaders. Conversely, Ultras also organize campaigns against the commercialization of football under the slogan 'Against Modern Football'.
+
+A notable incident showing the complexities of the Ultras world occurred on Boxing Day 2018 in Milan, where Inter Ultras, supported by groups like Varese's Blood & Honour (a neo-Nazi organization), ambushed Neapolitan Ultras. The ambush involved the use of homemade grenades, flares, and various weapons, resulting in fatalities, such as the accidental death of Daniele Belardinelli. This event, along with incidents of racial abuse during subsequent matches, contributed to negative public perception. However, investigations revealed that the violence was often ritualistic, and both police and Ultras sometimes exaggerated incidents to suit their own narratives, contributing to a cycle of disinformation. Despite being misunderstood, Ultras believe they have contributed positively to society, advocating that understanding them requires direct engagement with their way of life.
+
+## Visuals
+
+The Ultras subculture is characterized by a deliberate and highly organized visual language employed to create a specific atmosphere within football stadiums. Central to this aesthetic are **tifos**, which are elaborate, choreographed stadium displays involving large-scale mosaics, card stunts, and enormous hand-painted banners that can stretch across entire sections of the stands, sometimes featuring multiple layers and moving parts.
+
+Other prominent visual elements include numerous **flags** of various sizes, including giant flags, which bear the names and symbols of the Ultras groups or the football club itself. The extensive use of **pyrotechnics**, such as **flares and smoke bombs**, contributes a lot to the visual spectacle, filling the stadium with color and smoke.
+
+These visual components are elaborately planned and executed, serving as a demonstration of the subculture's collective identity and values. The aesthetic aims to encourage the home team while simultaneously intimidating opposing players and their supporters. Beyond the stadium, specific club symbols and group names are sometimes displayed through **graffiti and murals** in urban areas associated with the team. Individual members may also incorporate facial coverings like scarves or balaclavas, contributing to a unified, anonymous visual front within the group's collective display.
+
+## Fashion
+
+Fashion within the Ultras subculture is characterized by its role in fostering unity and security among group members, who recognize each other through a shared dress code. This adherence to a specific style holds a strong connection to the movement's roots, serving as a visual flag that declares belonging, even from a distance. The choice of attire reinforces the idea that an Ultra maintains their identity regardless of their everyday role.
+
+At the stadium, the fashion is typically technical, monochromatic, and understated, designed for collective presence. This often includes the use of scarves, balaclavas, or other coverings for the face, serving to ensure anonymity, protect from identification by authorities, and enhance the sense of unified group identity and intimidation. Outside the match environment, for leisure activities, the style can become more expressive, occasionally incorporating additional colors.
+
+Brands hold significant importance within this aesthetic, embodying the historical codes and meanings of the movement. Influential brands include Adidas, Fred Perry, Stone Island, and Burberry. Other commonly used brands are Ben Sherman, Aquascutum, Lyle & Scott, Umbro, and Lacoste. In more recent years, The North Face and Alpha Industries have gained prominence. Italian brands like Diadora, Ellesse, Sergio Tacchini, and C.P. Company are also favored. Newer brands such as the English Weekend Offender and Ma.strum, which are direct descendants of the Ultras aesthetic, have also found success within the community.
+
+While a common style exists for immediate recognition, this adherence to a dress code also allows for a form of depersonalization while simultaneously identifying a status. The fashion thus operates as a "declaration" of being an intrinsic part of society while simultaneously representing a movement that navigates its edges, allowing individuals to discreetly signal their allegiance. This established visual code has contributed to the aesthetic's international diffusion and its recent influence on mainstream streetwear trends.
+
+## Politics
+
+The Ultras subculture, while primarily defined by its fanatical support for football clubs, is also highly influenced by various and often extreme political ideologies. While some Ultra groups maintain an apolitical stance, many are directly linked to both far-right and far-left politics, including instances of neo-Nazism and fascism. For some factions, this politicization can become so central that support for their team may become secondary to their ideological objectives.
+
+Political views are explicitly articulated and displayed through various aesthetic elements. Ultras frequently incorporate political slogans and symbols onto their banners and flags, and integrate them into choreographed chants within the stadium. Historically, particularly in Italy during the 1970s, the movement emerged amidst periods of socio-political turmoil, leading members to adopt the attire of political street groups, such as green parkas and camouflage combat jackets, and utilize balaclavas or neckerchiefs to cover their faces, resembling urban guerrillas. Stadium discussions also featured political rhetoric and debates, with terms directly borrowed from political discourse.
+
+Political leanings vary by group and region. For instance, in Italy, some prominent Ultra groups align with the far-right (e.g., SS Lazio, Inter, Hellas Verona), while others are associated with the far-left (e.g., Livorno). Polish Ultra groups formed in the 1980s sometimes identified as fascist or national-socialist, opposing the communist government. Spanish ultraism is known for its stark division between fascist and anti-fascist, or separatist and nationalist, ideologies. Notable examples of politically engaged groups include Germany's FC St. Pauli's Ultra Sankt Pauli, which is known for its anti-fascist, anti-racist, anti-sexist, and anti-homophobic stance, and Cyprus's Gate-9 (Omonia), which retains traditional left-wing beliefs and displays symbols like Che Guevara's portrait.
+
+Beyond explicit ideological affiliations, a common political stance across many Ultra groups is their strong opposition to the commercialization of football. They often organize campaigns and protests under the unifying slogan "Against Modern Football" to reject perceived corporate influence in the sport. Ultras also engage in broader social and political actions, participating in or collaborating with various social movements outside the stadium environment.
+
+## Controversy
+
+The Ultras movement is often highly controversial and subject to negative portrayal due to various incidents and associations. While the primary objective of Ultras is to provide fanatical support for their teams, instances of football hooliganism and violence are frequently linked to their groups. Unlike hooligan firms, whose main aim is fighting, Ultras typically engage in violence as a secondary aspect of their support, often occurring outside stadiums.
+
+A significant area of controversy involves the political leanings of some Ultra groups. Certain factions are explicitly tied to extremist ideologies, including neo-Nazism and other forms of far-right politics, as well as, in some cases, far-left politics. This politicization can sometimes overshadow the support for the team itself. For example, some early Polish Ultra groups identified as fascist or national-socialist, and Spanish ultraism is known for its polarization between fascist and anti-fascist, or separatist and nationalist, ideologies.
+
+Additionally, some Ultra groups have been associated with organized crime, such as gangs and the mafia, particularly in Italy. The movement has also faced widespread criticism for inappropriate chanting, including racist chants directed at opposing players or rival clubs. Such behavior has led to penalties like stadium bans for clubs. Notable incidents, such as the attack on a Liverpool fan by Roma Ultras, have drawn international condemnation, highlighting the severe consequences of Ultra-related violence. Egyptian Ultras, for instance, have faced arrests and crackdowns due to their perceived involvement in illegal groups and violent offenses.
+
+## Media
+
+### Literature
+
+* Ultra: The Underworld of Italian Football (2020) by Tobias Jones
+* 1312: Among the Ultras: A Journey With the World's Most Extreme Fans (2020) by James Montague
+* Ultras. The passion and performance of contemporary football fandom (2020) by Mark Doidge, Radosław Kossakowski, & Svenja Mintert
+* The Rebels of The Stadiums by Pierluigi Spagnoli
+
+### Film
+
+* Ultras (2020)
+
+### Television
+
+* The Real Football Factories (2006)
+
+## Resources
+
+* [Ultras-Tifo](https://www.ultras-tifo.net/) - A major international website and forum dedicated to documenting Ultras culture, displays, and news from around the world.
+* [Ultrasshop.com](https://www.ultrasshop.com/) - An online store specializing in Ultra-specific merchandise (scarves, flags, choreography materials, clothing), indicating the commercial aspect within the subculture.
+* [PGwear Ultras Shop](https://pgwear.net/en/) - Another prominent online store for Ultra-specific clothing and accessories, reflecting the fashion choices within the movement.
+* [Ultras Factory](https://www.ultrasfactory.com/) - A European store supplying pyrotechnics and fan merchandise, highlighting the practical elements of Ultra displays.
+* [New insights into the complex subculture of the ultras movement](https://idrottsforum.org/joelis_doidgeetal201126/) - A review of the book "Ultras. The passion and performance of contemporary football fandom" by Mark Doidge, Radosław Kossakowski & Svenja Mintert, offering a scholarly perspective.
+* [Morocco's Marginalized Youth and the Rise of Football Ultras](https://merip.org/2022/11/moroccos-marginalized-youth-and-the-rise-of-football-ultras/) - An article from MERIP (Middle East Research and Information Project) providing a regional focus on Ultras.
+* ["Without the Ultras, there is no football": James Montague on fans and politics](https://lab.imedd.org/en/without-the-ultras-there-is-no-football-james-montague-on-fans-and-politics/) - An interview with journalist James Montague, author of books on Ultras, offering an expert perspective on their culture and controversies.
+
+## Gallery
+
+## References
+
+## Navigation
+
+| [Subcultures](https://aesthetics.fandom.com/wiki/Subculture "Subculture") | | |
+| --- | --- | --- |
+| Music-Based |
+| [Acid House](https://aesthetics.fandom.com/wiki/Acid_House "Acid House") • [Afropunk](https://aesthetics.fandom.com/wiki/Afropunk "Afropunk") • [B-Boy](https://aesthetics.fandom.com/wiki/B-Boy "B-Boy") • [Botswana Metalheads](https://aesthetics.fandom.com/wiki/Botswana_Metalheads "Botswana Metalheads") • [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") • [Electronic Body Music](https://aesthetics.fandom.com/wiki/Electronic_Body_Music "Electronic Body Music") • [Emo](https://aesthetics.fandom.com/wiki/Emo "Emo") • [Funk](https://aesthetics.fandom.com/wiki/Funk "Funk") • [Gabber](https://aesthetics.fandom.com/wiki/Gabber "Gabber") • [Goth](https://aesthetics.fandom.com/wiki/Goth "Goth") • [Gothic Belly Dance](https://aesthetics.fandom.com/wiki/Gothic_Belly_Dance "Gothic Belly Dance") • [Greaser](https://aesthetics.fandom.com/wiki/Greaser "Greaser") • [Grunge](https://aesthetics.fandom.com/wiki/Grunge "Grunge") • [Hip-Hop](https://aesthetics.fandom.com/wiki/Hip-Hop "Hip-Hop") • [Hippie](https://aesthetics.fandom.com/wiki/Hippie "Hippie") • [Industrial](https://aesthetics.fandom.com/wiki/Industrial "Industrial") • [Juggalo](https://aesthetics.fandom.com/wiki/Juggalo "Juggalo") • [Madchester](https://aesthetics.fandom.com/wiki/Madchester "Madchester") • [Metalhead](https://aesthetics.fandom.com/wiki/Metalhead "Metalhead") • [New Beat](https://aesthetics.fandom.com/wiki/New_Beat "New Beat") • [New Rave](https://aesthetics.fandom.com/wiki/New_Rave "New Rave") • [New Romantic](https://aesthetics.fandom.com/wiki/New_Romantic "New Romantic") • [Northern Soul](https://aesthetics.fandom.com/wiki/Northern_Soul "Northern Soul") • [Punk](https://aesthetics.fandom.com/wiki/Punk "Punk") • [Psychobilly](https://aesthetics.fandom.com/wiki/Psychobilly "Psychobilly") • [Rave](https://aesthetics.fandom.com/wiki/Rave "Rave") • [Rivethead](https://aesthetics.fandom.com/wiki/Rivethead "Rivethead") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Riot Grrrl](https://aesthetics.fandom.com/wiki/Riot_Grrrl "Riot Grrrl") • [Rockabilly](https://aesthetics.fandom.com/wiki/Rockabilly "Rockabilly") • [Rockers](https://aesthetics.fandom.com/wiki/Rockers "Rockers") • [Rude Boy](https://aesthetics.fandom.com/wiki/Rude_Boy "Rude Boy") • [UK Drill](https://aesthetics.fandom.com/wiki/UK_Drill "UK Drill") • [Visual Kei](https://aesthetics.fandom.com/wiki/Visual_Kei "Visual Kei") |
+| Lifestyle & Fashion |
+| [Ballroom Culture](https://aesthetics.fandom.com/wiki/Ballroom_Culture "Ballroom Culture") • [Biker](https://aesthetics.fandom.com/wiki/Biker "Biker") • [Black Ivy](https://aesthetics.fandom.com/wiki/Black_Ivy "Black Ivy") • [Bohemian](https://aesthetics.fandom.com/wiki/Bohemian "Bohemian") • [Bondage](https://aesthetics.fandom.com/wiki/Bondage "Bondage") • [Bro Culture](https://aesthetics.fandom.com/wiki/Bro_Culture "Bro Culture") • [Bro Hoe](https://aesthetics.fandom.com/wiki/Bro_Hoe "Bro Hoe") • [Casuals](https://aesthetics.fandom.com/wiki/Casuals "Casuals") • [Club Kids](https://aesthetics.fandom.com/wiki/Club_Kids "Club Kids") • [Cyberdelia](https://aesthetics.fandom.com/wiki/Cyberdelia "Cyberdelia") • [Decora](https://aesthetics.fandom.com/wiki/Decora "Decora") • [Disco](https://aesthetics.fandom.com/wiki/Disco "Disco") • [Flapper](https://aesthetics.fandom.com/wiki/Flapper "Flapper") • [Gutter Punk](https://aesthetics.fandom.com/wiki/Gutter_Punk "Gutter Punk") • [Hot Rod](https://aesthetics.fandom.com/wiki/Hot_Rod "Hot Rod") • [Hypebeast](https://aesthetics.fandom.com/wiki/Hypebeast "Hypebeast") • [Leather Subculture](https://aesthetics.fandom.com/wiki/Leather_Subculture "Leather Subculture") • [Lolita](https://aesthetics.fandom.com/wiki/Lolita "Lolita") • [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") • [Mall Ninja](https://aesthetics.fandom.com/wiki/Mall_Ninja "Mall Ninja") • [Mod](https://aesthetics.fandom.com/wiki/Mod "Mod") • [Mod Revival](https://aesthetics.fandom.com/wiki/Mod_Revival "Mod Revival") • [Nerd](https://aesthetics.fandom.com/wiki/Nerd "Nerd") • [Preppy](https://aesthetics.fandom.com/wiki/Preppy "Preppy") • [Scene](https://aesthetics.fandom.com/wiki/Scene "Scene") • [Skater](https://aesthetics.fandom.com/wiki/Skater "Skater") • [Steampunk](https://aesthetics.fandom.com/wiki/Steampunk "Steampunk") • [Surfer](https://aesthetics.fandom.com/wiki/Surfer "Surfer") • [Teddy Boys](https://aesthetics.fandom.com/wiki/Teddy_Boys "Teddy Boys") • [Tomboy](https://aesthetics.fandom.com/wiki/Tomboy "Tomboy") • **Ultras** • [Wota](https://aesthetics.fandom.com/wiki/Wota "Wota") |
+| Skinheads |
+| [Traditional](https://aesthetics.fandom.com/wiki/Skinhead "Skinhead") • Bootboy • Smoothie • [Oi! Skinhead](https://aesthetics.fandom.com/wiki/Oi!_Skinhead "Oi! Skinhead") • Redskin • SHARP • [Suedehead](https://aesthetics.fandom.com/wiki/Suedehead "Suedehead") • [Trojan Skinhead](https://aesthetics.fandom.com/wiki/Trojan_Skinhead "Trojan Skinhead") • White Power Skinhead |
+| Regional: Americas |
+| [Bobby-Soxer](https://aesthetics.fandom.com/wiki/Bobby-Soxer "Bobby-Soxer") (US) • [Buchón](https://aesthetics.fandom.com/wiki/Buch%C3%B3n "Buchón") (Mexico) • [Chonga](https://aesthetics.fandom.com/wiki/Chonga "Chonga") (US) • [Cholo](https://aesthetics.fandom.com/wiki/Cholo "Cholo") (US) • [Cholombiano](https://aesthetics.fandom.com/wiki/Cholombiano "Cholombiano") (Mexico) • [Colorido](https://aesthetics.fandom.com/wiki/Colorido "Colorido") (Brazil) • [Cumbiero](https://aesthetics.fandom.com/wiki/Cumbiero "Cumbiero") (Argentina) • [Flaite](https://aesthetics.fandom.com/wiki/Flaite "Flaite") (Chile) • [Flogger](https://aesthetics.fandom.com/wiki/Flogger "Flogger") (Argentina) • [Gaucho](https://aesthetics.fandom.com/wiki/Gaucho "Gaucho") (South America) • [Guido](https://aesthetics.fandom.com/wiki/Guido "Guido") (US) • [Mandrake](https://aesthetics.fandom.com/wiki/Mandrake "Mandrake") (Brazil) • [Milipili](https://aesthetics.fandom.com/wiki/Milipili "Milipili") (Argentina) • [Pachuco](https://aesthetics.fandom.com/wiki/Pachuco "Pachuco") (US) • [Pokemón](https://aesthetics.fandom.com/wiki/Pokem%C3%B3n "Pokemón") (Chile) • [Rolinga](https://aesthetics.fandom.com/wiki/Rolinga "Rolinga") (Argentina) • [Yuppie](https://aesthetics.fandom.com/wiki/Yuppie "Yuppie") (US) |
+| Regional: Europe |
+| [Bakala](https://aesthetics.fandom.com/wiki/Bakala "Bakala") (Spain) • [Bikiniarze](https://aesthetics.fandom.com/wiki/Bikiniarze "Bikiniarze") (Poland) • [Cani](https://aesthetics.fandom.com/wiki/Cani "Cani") (Spain) • [Chav](https://aesthetics.fandom.com/wiki/Chav "Chav") (UK) • [Choni](https://aesthetics.fandom.com/wiki/Choni "Choni") (Spain) • [Dizelaši](https://aesthetics.fandom.com/wiki/Dizela%C5%A1i "Dizelaši") (Serbia) • [Dresiarz](https://aesthetics.fandom.com/wiki/Dresiarz "Dresiarz") (Poland) • [Fjortis](https://aesthetics.fandom.com/wiki/Fjortis "Fjortis") (Sweden) • [Garçonne](https://aesthetics.fandom.com/wiki/Gar%C3%A7onne "Garçonne") (France) • [Gopnik](https://aesthetics.fandom.com/wiki/Gopnik "Gopnik") (Russia) • [Halbstarke](https://aesthetics.fandom.com/wiki/Halbstarke "Halbstarke") (Germany) • [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") (Russia) • [Krocha](https://aesthetics.fandom.com/wiki/Krocha "Krocha") (Austria) • [Lad Culture](https://aesthetics.fandom.com/wiki/Lad_Culture "Lad Culture") (UK) • [Maranza](https://aesthetics.fandom.com/wiki/Maranza "Maranza") (Italy) • [Minet](https://aesthetics.fandom.com/wiki/Minet "Minet") (France) • [New Partisans](https://aesthetics.fandom.com/wiki/New_Partisans "New Partisans") (Yugoslavia) • [New Primitivism](https://aesthetics.fandom.com/wiki/New_Primitivism "New Primitivism") (Yugoslavia) • [Paninaro](https://aesthetics.fandom.com/wiki/Paninaro "Paninaro") (Italy) • [Parisian Apaches](https://aesthetics.fandom.com/wiki/Parisian_Apaches "Parisian Apaches") (France) • [Partille-Johnny](https://aesthetics.fandom.com/wiki/Partille-Johnny "Partille-Johnny") (Sweden) • [PMC Ryodan](https://aesthetics.fandom.com/wiki/PMC_Ryodan "PMC Ryodan") (Russia/Ukraine) • [Poppare](https://aesthetics.fandom.com/wiki/Poppare "Poppare") (Sweden) • [Poppers](https://aesthetics.fandom.com/wiki/Poppers "Poppers") (Germany) • [Pijo](https://aesthetics.fandom.com/wiki/Pijo "Pijo") (Spain) • [Pokero](https://aesthetics.fandom.com/wiki/Pokero "Pokero") (Spain) • [Raggare](https://aesthetics.fandom.com/wiki/Raggare "Raggare") (Sweden) • [Raxet](https://aesthetics.fandom.com/wiki/Raxet "Raxet") (Spain) • [Roadman](https://aesthetics.fandom.com/wiki/Roadman "Roadman") (UK) • [Sloanie](https://aesthetics.fandom.com/wiki/Sloanie "Sloanie") (UK) • [Stilyagi](https://aesthetics.fandom.com/wiki/Stilyagi "Stilyagi") (Russia) • [Swingjugend](https://aesthetics.fandom.com/wiki/Swingjugend "Swingjugend") (Germany) • [Tecktonik](https://aesthetics.fandom.com/wiki/Tecktonik "Tecktonik") (France) • [Wixa](https://aesthetics.fandom.com/wiki/Wixa "Wixa") (Poland) • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé") (France/Southern Europe) • [Zazou](https://aesthetics.fandom.com/wiki/Zazou "Zazou") (France) |
+| Regional: Asia, Africa & Oceania |
+| [Ah Beng](https://aesthetics.fandom.com/wiki/Ah_Beng "Ah Beng") (Singapore) • [Angura Kei](https://aesthetics.fandom.com/wiki/Angura_Kei "Angura Kei") (Japan) • [Bills](https://aesthetics.fandom.com/wiki/Bills "Bills") (Congo) • [Bodikon](https://aesthetics.fandom.com/wiki/Bodikon "Bodikon") (Japan) • [Bogan](https://aesthetics.fandom.com/wiki/Bogan "Bogan") (Aus/NZ) • [Bosozoku](https://aesthetics.fandom.com/wiki/Bosozoku "Bosozoku") (Japan) • [Genderless Kei](https://aesthetics.fandom.com/wiki/Genderless_Kei "Genderless Kei") (Japan) • [Gyaru](https://aesthetics.fandom.com/wiki/Gyaru "Gyaru") (Japan) • [Gyaruo](https://aesthetics.fandom.com/wiki/Gyaruo "Gyaruo") (Japan) • [Jejemon](https://aesthetics.fandom.com/wiki/Jejemon "Jejemon") (Philippines) • [Jirai Kei](https://aesthetics.fandom.com/wiki/Jirai_Kei "Jirai Kei") (Japan) • [Kogal](https://aesthetics.fandom.com/wiki/Kogal "Kogal") (Japan) • [La Sape](https://aesthetics.fandom.com/wiki/La_Sape "La Sape") (Congo) • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku") (Japan) • [Shamate](https://aesthetics.fandom.com/wiki/Shamate "Shamate") (China) • [Sharpies](https://aesthetics.fandom.com/wiki/Sharpies "Sharpies") (Australia) • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") (Japan) • [Skhothane](https://aesthetics.fandom.com/wiki/Skhothane "Skhothane") (South Africa) • [Spirited Lad](https://aesthetics.fandom.com/wiki/Spirited_Lad "Spirited Lad") (China) • [Swenkas](https://aesthetics.fandom.com/wiki/Swenkas "Swenkas") (South Africa) • [Takenokozoku](https://aesthetics.fandom.com/wiki/Takenokozoku "Takenokozoku") (Japan) • [Yabi](https://aesthetics.fandom.com/wiki/Yabi "Yabi") (China) • [Zef](https://aesthetics.fandom.com/wiki/Zef "Zef") (South Africa) |
+| Digital, Internet & Related |
+| [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
+
+## Images
+
+- `images/ultras/F7ac80f8006859271de7bb73c8bab80a.jpg`
+- `images/ultras/Ac61cb89589c0a6b30ad8d3c43649b08.jpg`
+- `images/ultras/07e70390bb350aefd0ec7e1f814b9bca.jpg`
+- `images/ultras/Cd1d4f058bf9302b2c1d9ee845e066d1.jpg`
+- `images/ultras/8d3aab7896c9d4a35e69d3789122a85f.jpg`
+- `images/ultras/Eb74176c4083e33e87f9f7d987b4f71f.jpg`
+- `images/ultras/51434cfac088016dbf5006485c93f003.jpg`
+- `images/ultras/F39917d5b3ef388dbdda836d0d0b6641.jpg`
+- `images/ultras/0e4416c4e44806b31e23b84dd7040669.jpg`
+- `images/ultras/Fef89cfad61104bb4bdf4ef7a42ba3bc.jpg`
+- `images/ultras/2ed321c33b30b25a9aa9ed32365066a8.jpg`
+- `images/ultras/0ac11f8252700751bd47df69c466707b.jpg`
+- `images/ultras/Ed0a7e6cc4a079cf8dc43a53a152ee58.jpg`
+- `images/ultras/7b913a5fb4fa6f43c22ab8a8610b9193.jpg`
+- `images/ultras/31f4075207f50d6ad13ebbf5e840532e.jpg`
+- `images/ultras/48147e576de63042db98b8736fc9cf87.jpg`
+- `images/ultras/041f6843fdc832d5fa67045aebf28d79.jpg`
+- `images/ultras/5fb1ce1a6f7040684a620b4dac261348.jpg`
+- `images/ultras/D38a4790448cd2c5bf282fa04b18265c.jpg`
+- `images/ultras/9300cb9e9da98385b51fd2e0e8bc58fc.jpg`
+- `images/ultras/3271e4f94fb821434ea356591fab93f3.jpg`
+- `images/ultras/56588040e07b7206e10af5c4c4ec83cf.jpg`
+- `images/ultras/2fe374a66fca4030b2590dc85b439068.jpg`
+- `images/ultras/716ea4c3743a29f417c016355e061876.jpg`
+- `images/ultras/9548820ae9b63213902663f8279a50fd.jpg`
+- `images/ultras/SmokeBomb.png`
+- `images/ultras/250111435.jpg`
+
+## Source and attribution
+
+Text adapted from "Ultras" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ultras), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.

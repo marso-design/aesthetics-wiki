@@ -1,0 +1,97 @@
+---
+name: "Barber Beats"
+slug: "barber-beats"
+decade_of_origin: "Late 2010s"
+key_motifs: ["Classical sculptures", "mythological figures", "vinyl record aesthetics", "\"Acid Graphics", "\" elegant typography"]
+key_values: ["Nostalgia", "luxury", "melancholy", "sincerity", "relaxation"]
+related_aesthetics: ["Acid Design", "Vaporwave"]
+primary_platform: ["Bandcamp", "YouTube"]
+source_url: "https://aesthetics.fandom.com/wiki/Barber_Beats"
+license: "CC-BY-SA-4.0"
+retrieved: "2026-07-22"
+image_count: 1
+---
+
+# Barber Beats
+
+**Barber Beats** is a subgenre of [Vaporwave](https://aesthetics.fandom.com/wiki/Vaporwave "Vaporwave") that emerged in the late 2010s and gained popularity in the early 2020s. The style is defined by a more sincere, less ironic take on the Vaporwave ethos, trading the genre's characteristic reverb-heavy and warbled sound for a cleaner, downtempo, and more organic soundscape. Musically, it draws heavy influence from genres like trip-hop, nu-jazz, and instrumental hip-hop, creating a sound that is often described as suave, luxurious, and melancholic. The genre is also characterized by a distinct visual style that sets it apart from other Vaporwave trends, featuring sleek, elegant album art that often depicts heavily edited classical sculptures and mythological figures.
+
+## History
+
+The Barber Beats sound was pioneered by the anonymous artist Haircuts for Men, who began releasing music in the mid-2010s. The term itself was coined by the independent record label Aloe City Wrld to describe Haircuts for Men's specific downtempo production style.
+
+The genre's popularity exploded in the early 2020s, with a massive proliferation of artists and releases on platforms like YouTube and Bandcamp. Artists like Macroblank and Modest by Default became key figures in the scene, carrying the torch from Haircuts for Men and further solidifying the genre's sound and aesthetic. The rise of Barber Beats has been seen by some as a reaction to the perceived stagnation of the mainstream [Vaporwave](https://aesthetics.fandom.com/wiki/Vaporwave "Vaporwave") scene, offering a more mature and less meme-focused evolution of the sound.
+
+## Visuals
+
+Barber Beats has a unified and distinct visual style that differs from the neon, glitchy, and often cluttered look of traditional [Vaporwave](https://aesthetics.fandom.com/wiki/Vaporwave "Vaporwave"). The album art is typically minimalist and elegant, often featuring heavily edited images of classical or mythological sculptures set against a solid color or simple pattern. The aesthetic has been described as a "stripped-down kind of elegance" and has been linked to the graphic design style known as "[Acid Graphics](https://aesthetics.fandom.com/wiki/Acid_Design "Acid Design")." Album covers often incorporate vinyl-inspired framing and design elements, and many artists use Japanese characters in their track titles and album art, a practice inherited from Vaporwave.
+
+## Music
+
+The sound of Barber Beats is a departure from the "melted tape" quality of classic Vaporwave. It is characterized by a cleaner production style with a heavy emphasis on bass and a melodic, rather than chaotic, structure. The genre is almost entirely sample-based, drawing from a wide variety of sources including downtempo, trip-hop, nu-jazz, lounge music, and world music. The samples are often slowed down but are typically not as heavily distorted or saturated with reverb as in other Vaporwave subgenres, resulting in a more organic and accessible sound. The overall mood is sophisticated and relaxing, often compared to the background music of a high-end lounge or a late-night drive.
+
+## Controversy
+
+The primary criticism of Barber Beats from within the Vaporwave community centers on its creation process. Many producers in the genre use long, often unedited or minimally edited samples from other artists, sometimes even sampling and re-mixing entire tracks from older Vaporwave releases. This has led to debates about whether the genre is "low effort" and whether it is ethical for artists to sell physical releases (such as vinyl records and cassettes) of what is essentially a curated mixtape of other people's music. Proponents of the genre argue that this is simply an extension of the plunderphonics and DJ culture that has always been a part of Vaporwave, and that the curation and recontextualization of the samples is an art form in itself.
+
+## Gallery
+
+Cover art for Barbershop Simulator™ by slowerpace 音楽
+
+Cover art for The Great Escape by slowerpace 音楽
+
+Cover art for Anathema by Oblique Occasions
+
+Cover art for Magician Whisper by DΛRKNΣSS
+
+Cover art for HFM88 by Haircuts for Men
+
+Cover art for 痛みの永遠 by Macroblank
+
+Cover art for 絶望に負けた by Macroblank
+
+Cover art for Nothing Special, Nothing Wonderful by Haircuts for Men
+
+Cover art for 行方不明 by Macroblank
+
+Cover art for Praise the Sun God by Oscob
+
+Cover art for Forbidden Fruit by Monodrone
+
+Cover art for 送信者に戻る LP by Macroblank
+
+## References
+
+## Navigation
+
+| [V A P O R W A V E](https://aesthetics.fandom.com/wiki/Vaporwave "Vaporwave") 🌴 | | |
+| --- | --- | --- |
+| Primary Aesthetics |
+| [Vaporwave](https://aesthetics.fandom.com/wiki/Vaporwave "Vaporwave") ✪ [Mallsoft](https://aesthetics.fandom.com/wiki/Mallsoft "Mallsoft") ✪ [Slushwave](https://aesthetics.fandom.com/wiki/Slushwave "Slushwave") |
+| Fusion & Inspired |
+| **Barber Beats** ✪ [Future Funk](https://aesthetics.fandom.com/wiki/Future_Funk "Future Funk") ✪ [Dreampunk](https://aesthetics.fandom.com/wiki/Dreampunk "Dreampunk") ✪ [Vaporgoth](https://aesthetics.fandom.com/wiki/Vaporgoth "Vaporgoth") ✪ [Simpsonwave](https://aesthetics.fandom.com/wiki/Simpsonwave "Simpsonwave") |
+| Conceptual |
+| [Political 'Wave' Aesthetics](https://aesthetics.fandom.com/wiki/Political_%27Wave%27_Aesthetics "Political 'Wave' Aesthetics") ✪ [Signalwave](https://aesthetics.fandom.com/wiki/Signalwave "Signalwave") ✪ [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") |
+
+| [Internet Aesthetics](https://aesthetics.fandom.com/wiki/Category:Internet_Aesthetics "Category:Internet Aesthetics") | | |
+| --- | --- | --- |
+| Old Web & Y2K (Early 2010s & Before) |
+| [2010s Meme Maximalism](https://aesthetics.fandom.com/wiki/2010s_Meme_Maximalism "2010s Meme Maximalism") • [Acid Design](https://aesthetics.fandom.com/wiki/Acid_Design "Acid Design") • **Barber Beats** • [Bloghouse](https://aesthetics.fandom.com/wiki/Bloghouse "Bloghouse") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [Digital Horror](https://aesthetics.fandom.com/wiki/Digital_Horror "Digital Horror") • [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") • [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") • [Future Funk](https://aesthetics.fandom.com/wiki/Future_Funk "Future Funk") • [Glitch Art](https://aesthetics.fandom.com/wiki/Glitch_Art "Glitch Art") • [Internet Awesomesauce](https://aesthetics.fandom.com/wiki/Internet_Awesomesauce "Internet Awesomesauce") • [MLG](https://aesthetics.fandom.com/wiki/MLG "MLG") • [Net.art](https://aesthetics.fandom.com/wiki/Net.art "Net.art") • [Nightcore](https://aesthetics.fandom.com/wiki/Nightcore_(aesthetic) "Nightcore (aesthetic)") • [Old Web](https://aesthetics.fandom.com/wiki/Old_Web "Old Web") • [Seapunk](https://aesthetics.fandom.com/wiki/Seapunk "Seapunk") • [Signalwave](https://aesthetics.fandom.com/wiki/Signalwave "Signalwave") • [Silicon Dreams](https://aesthetics.fandom.com/wiki/Silicon_Dreams "Silicon Dreams") • [Simpsonwave](https://aesthetics.fandom.com/wiki/Simpsonwave "Simpsonwave") • [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") • [Vaporwave](https://aesthetics.fandom.com/wiki/Vaporwave "Vaporwave") • [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") • [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") • [Wholesome Meme](https://aesthetics.fandom.com/wiki/Wholesome_Meme "Wholesome Meme") • [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
+| Tumblr Era (Mid 2010s) |
+| [2010s Soft Kawaii](https://aesthetics.fandom.com/wiki/2010s_Soft_Kawaii "2010s Soft Kawaii") • [2014 Girly](https://aesthetics.fandom.com/wiki/2014_Girly "2014 Girly") • [2014 Tumblr](https://aesthetics.fandom.com/wiki/2014_Tumblr "2014 Tumblr") • [Art Hoe](https://aesthetics.fandom.com/wiki/Art_Hoe "Art Hoe") • [Babycore](https://aesthetics.fandom.com/wiki/Babycore "Babycore") • [Baddie](https://aesthetics.fandom.com/wiki/Baddie "Baddie") • [Deep Fried Meme](https://aesthetics.fandom.com/wiki/Deep_Fried_Meme "Deep Fried Meme") • [Gloomcore](https://aesthetics.fandom.com/wiki/Gloomcore "Gloomcore") • [Gorecore](https://aesthetics.fandom.com/wiki/Gorecore "Gorecore") • [Lo-fi Art](https://aesthetics.fandom.com/wiki/Lo-fi_Art "Lo-fi Art") • [Morute](https://aesthetics.fandom.com/wiki/Morute "Morute") • [Nymphet](https://aesthetics.fandom.com/wiki/Nymphet "Nymphet") • [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") • [Pastel Gore](https://aesthetics.fandom.com/wiki/Pastel_Gore "Pastel Gore") • [Pink Parisian](https://aesthetics.fandom.com/wiki/Pink_Parisian "Pink Parisian") • [Plant Mom](https://aesthetics.fandom.com/wiki/Plant_Mom "Plant Mom") • [Quality Tumblr](https://aesthetics.fandom.com/wiki/Quality_Tumblr "Quality Tumblr") • [Sadboi](https://aesthetics.fandom.com/wiki/Sadboi "Sadboi") • [Sadgirl](https://aesthetics.fandom.com/wiki/Sadgirl "Sadgirl") • [Soft Grunge](https://aesthetics.fandom.com/wiki/Soft_Grunge "Soft Grunge") • [Studyblr](https://aesthetics.fandom.com/wiki/Studyblr "Studyblr") • [Surreal Meme](https://aesthetics.fandom.com/wiki/Surreal_Meme "Surreal Meme") • [Trillwave](https://aesthetics.fandom.com/wiki/Trillwave "Trillwave") • [Trxsh](https://aesthetics.fandom.com/wiki/Trxsh "Trxsh") • [Vaporgoth](https://aesthetics.fandom.com/wiki/Vaporgoth "Vaporgoth") • [Witch House](https://aesthetics.fandom.com/wiki/Witch_House "Witch House") |
+| TikTok & Modern Era (2019-Present) |
+| [Aesthetic Rap](https://aesthetics.fandom.com/wiki/Aesthetic_Rap "Aesthetic Rap") • [Aliyahcore](https://aesthetics.fandom.com/wiki/Aliyahcore "Aliyahcore") • [Alt Kid](https://aesthetics.fandom.com/wiki/Alt_Kid "Alt Kid") • [Avant Basic](https://aesthetics.fandom.com/wiki/Avant_Basic "Avant Basic") • [Bimbocore](https://aesthetics.fandom.com/wiki/Bimbocore "Bimbocore") • [Brat Summer](https://aesthetics.fandom.com/wiki/Brat_Summer "Brat Summer") • [Clean Girl](https://aesthetics.fandom.com/wiki/Clean_Girl "Clean Girl") • [Coconut Girl](https://aesthetics.fandom.com/wiki/Coconut_Girl "Coconut Girl") • [Coquette](https://aesthetics.fandom.com/wiki/Coquette "Coquette") • [Cozy Gamer](https://aesthetics.fandom.com/wiki/Cozy_Gamer "Cozy Gamer") • [Cutecore](https://aesthetics.fandom.com/wiki/Cutecore "Cutecore") • [Cybercore](https://aesthetics.fandom.com/wiki/Cybercore "Cybercore") • [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") • [Danish Pastel](https://aesthetics.fandom.com/wiki/Danish_Pastel "Danish Pastel") • [Dopamine Dressing](https://aesthetics.fandom.com/wiki/Dopamine_Dressing "Dopamine Dressing") • [Draincore](https://aesthetics.fandom.com/wiki/Draincore "Draincore") • [Drift Phonk](https://aesthetics.fandom.com/wiki/Drift_Phonk "Drift Phonk") • [E-Boy](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Eclectic Grandpa](https://aesthetics.fandom.com/wiki/Eclectic_Grandpa "Eclectic Grandpa") • [E-Girl](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Femcel](https://aesthetics.fandom.com/wiki/Femcel_(anime_subculture) "Femcel (anime subculture)") • [Glitchbreak](https://aesthetics.fandom.com/wiki/Glitchbreak "Glitchbreak") • [Gorpcore](https://aesthetics.fandom.com/wiki/Gorpcore "Gorpcore") • [Haunted Mound](https://aesthetics.fandom.com/wiki/Haunted_Mound "Haunted Mound") • [Indie Kid](https://aesthetics.fandom.com/wiki/Indie_Kid "Indie Kid") • [Juminocore](https://aesthetics.fandom.com/wiki/Juminocore "Juminocore") • [Kawaii Gamer](https://aesthetics.fandom.com/wiki/Kawaii_Gamer "Kawaii Gamer") • [Krushclub](https://aesthetics.fandom.com/wiki/Krushclub "Krushclub") • [Lulicore](https://aesthetics.fandom.com/wiki/Lulicore "Lulicore") • [Mob Wife](https://aesthetics.fandom.com/wiki/Mob_Wife "Mob Wife") • [Nostalgiacore](https://aesthetics.fandom.com/wiki/Nostalgiacore "Nostalgiacore") • [Office Siren](https://aesthetics.fandom.com/wiki/Office_Siren "Office Siren") • [Opium](https://aesthetics.fandom.com/wiki/Opium "Opium") • [Pink Pilates Princess](https://aesthetics.fandom.com/wiki/Pink_Pilates_Princess "Pink Pilates Princess") • [Plazacore](https://aesthetics.fandom.com/wiki/Plazacore "Plazacore") • [Scenecore](https://aesthetics.fandom.com/wiki/Scenecore "Scenecore") • [Sigilkore](https://aesthetics.fandom.com/wiki/Sigilkore "Sigilkore") • [That Girl](https://aesthetics.fandom.com/wiki/That_Girl "That Girl") • [TikTok Preppy](https://aesthetics.fandom.com/wiki/TikTok_Preppy "TikTok Preppy") • [Tomato Girl Summer](https://aesthetics.fandom.com/wiki/Tomato_Girl_Summer "Tomato Girl Summer") • [Tropicalcore](https://aesthetics.fandom.com/wiki/Tropicalcore "Tropicalcore") • [Vanilla Girl](https://aesthetics.fandom.com/wiki/Vanilla_Girl "Vanilla Girl") • [VSCO Girl](https://aesthetics.fandom.com/wiki/VSCO_Girl "VSCO Girl") • [Wishcore](https://aesthetics.fandom.com/wiki/Wishcore "Wishcore") • [Wonyoungism](https://aesthetics.fandom.com/wiki/Wonyoungism "Wonyoungism") • [Y3K](https://aesthetics.fandom.com/wiki/Y3K "Y3K") • [Yabujincore](https://aesthetics.fandom.com/wiki/Yabujincore "Yabujincore") |
+| Surreal, Liminal & Horror |
+| [After Hours](https://aesthetics.fandom.com/wiki/After_Hours "After Hours") • [Analog Horror](https://aesthetics.fandom.com/wiki/Analog_Horror "Analog Horror") • [Bastardcore](https://aesthetics.fandom.com/wiki/Bastardcore "Bastardcore") • [Clowncore](https://aesthetics.fandom.com/wiki/Clowncore "Clowncore") • [Cryptidcore](https://aesthetics.fandom.com/wiki/Cryptidcore "Cryptidcore") • [Dreamcore](https://aesthetics.fandom.com/wiki/Dreamcore "Dreamcore") • [Fallen Angel](https://aesthetics.fandom.com/wiki/Fallen_Angel "Fallen Angel") • [Ghostcore](https://aesthetics.fandom.com/wiki/Ghostcore "Ghostcore") • [Goreweb](https://aesthetics.fandom.com/wiki/Goreweb "Goreweb") • [Liminal Space](https://aesthetics.fandom.com/wiki/Liminal_Space "Liminal Space") • [Medicalcore](https://aesthetics.fandom.com/wiki/Medicalcore "Medicalcore") • [Poolcore](https://aesthetics.fandom.com/wiki/Poolcore "Poolcore") • [Teethcore](https://aesthetics.fandom.com/wiki/Teethcore "Teethcore") • [Traumacore](https://aesthetics.fandom.com/wiki/Traumacore "Traumacore") • [Weirdcore](https://aesthetics.fandom.com/wiki/Weirdcore "Weirdcore") • [Xpiritualism](https://aesthetics.fandom.com/wiki/Xpiritualism "Xpiritualism") |
+| Nature, Fantasy & Academia |
+| [Adventurecore](https://aesthetics.fandom.com/wiki/Adventurecore "Adventurecore") • [Angelcore](https://aesthetics.fandom.com/wiki/Angelcore "Angelcore") • [Bloomcore](https://aesthetics.fandom.com/wiki/Bloomcore "Bloomcore") • [Cabincore](https://aesthetics.fandom.com/wiki/Cabincore "Cabincore") • [Chaotic Academia](https://aesthetics.fandom.com/wiki/Chaotic_Academia "Chaotic Academia") • [Coastal Cowgirl](https://aesthetics.fandom.com/wiki/Coastal_Cowgirl "Coastal Cowgirl") • [Coastal Grandmother](https://aesthetics.fandom.com/wiki/Coastal_Grandmother "Coastal Grandmother") • [Cottagecore](https://aesthetics.fandom.com/wiki/Cottagecore "Cottagecore") • [Cottagegoth](https://aesthetics.fandom.com/wiki/Cottagegoth "Cottagegoth") • [Crowcore](https://aesthetics.fandom.com/wiki/Crowcore "Crowcore") • [Dark Academia](https://aesthetics.fandom.com/wiki/Dark_Academia "Dark Academia") • [Fairycore](https://aesthetics.fandom.com/wiki/Fairycore "Fairycore") • [Fairy Grunge](https://aesthetics.fandom.com/wiki/Fairy_Grunge "Fairy Grunge") • [Forestpunk](https://aesthetics.fandom.com/wiki/Forestpunk "Forestpunk") • [Goblincore](https://aesthetics.fandom.com/wiki/Goblincore "Goblincore") • [Grandmacore](https://aesthetics.fandom.com/wiki/Grandmacore "Grandmacore") • [Green Academia](https://aesthetics.fandom.com/wiki/Green_Academia "Green Academia") • [Honeycore](https://aesthetics.fandom.com/wiki/Honeycore "Honeycore") • [Light Academia](https://aesthetics.fandom.com/wiki/Light_Academia "Light Academia") • [Lunarpunk](https://aesthetics.fandom.com/wiki/Lunarpunk "Lunarpunk") • [Mermaidcore](https://aesthetics.fandom.com/wiki/Mermaidcore "Mermaidcore") • [Naturecore](https://aesthetics.fandom.com/wiki/Naturecore "Naturecore") • [Princesscore](https://aesthetics.fandom.com/wiki/Princesscore "Princesscore") • [Regencycore](https://aesthetics.fandom.com/wiki/Regencycore "Regencycore") • [Romantic Academia](https://aesthetics.fandom.com/wiki/Romantic_Academia "Romantic Academia") • [Royalcore](https://aesthetics.fandom.com/wiki/Royalcore "Royalcore") • [Solarpunk](https://aesthetics.fandom.com/wiki/Solarpunk "Solarpunk") • [Spacecore](https://aesthetics.fandom.com/wiki/Spacecore "Spacecore") • [Whimsigothic](https://aesthetics.fandom.com/wiki/Whimsigothic "Whimsigothic") • [Witchcore](https://aesthetics.fandom.com/wiki/Witchcore "Witchcore") • [Wizardcore](https://aesthetics.fandom.com/wiki/Wizardcore "Wizardcore") |
+| Regional & Niche |
+| [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
+
+## Images
+
+- `images/barber-beats/BarberBeats.jpg`
+
+## Source and attribution
+
+Text adapted from "Barber Beats" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Barber_Beats), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.

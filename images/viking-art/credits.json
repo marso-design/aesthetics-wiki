@@ -1,0 +1,57 @@
+[
+  {
+    "file": "VikingVillage.jpg",
+    "local": "images/viking-art/VikingVillage.jpg",
+    "source_url": "https://static.wikia.nocookie.net/aesthetics/images/e/e4/VikingVillage.jpg/revision/latest?cb=20230303022509",
+    "page": "https://aesthetics.fandom.com/wiki/File:VikingVillage.jpg",
+    "artist": null,
+    "license": null,
+    "license_url": null,
+    "description": null,
+    "downloaded": true
+  },
+  {
+    "file": "Northern-viking-ship.jpg",
+    "local": "images/viking-art/Northern-viking-ship.jpg",
+    "source_url": "https://static.wikia.nocookie.net/aesthetics/images/9/9f/Northern-viking-ship.jpg/revision/latest?cb=20210127172920",
+    "page": "https://aesthetics.fandom.com/wiki/File:Northern-viking-ship.jpg",
+    "artist": null,
+    "license": null,
+    "license_url": null,
+    "description": null,
+    "downloaded": true
+  },
+  {
+    "file": "Longhouse.png",
+    "local": "images/viking-art/Longhouse.png",
+    "source_url": "https://static.wikia.nocookie.net/aesthetics/images/4/4a/Longhouse.png/revision/latest?cb=20210714205311",
+    "page": "https://aesthetics.fandom.com/wiki/File:Longhouse.png",
+    "artist": null,
+    "license": null,
+    "license_url": null,
+    "description": null,
+    "downloaded": true
+  },
+  {
+    "file": "Northern-longboat-steam.jpg",
+    "local": "images/viking-art/Northern-longboat-steam.jpg",
+    "source_url": "https://static.wikia.nocookie.net/aesthetics/images/4/45/Northern-longboat-steam.jpg/revision/latest?cb=20210127173556",
+    "page": "https://aesthetics.fandom.com/wiki/File:Northern-longboat-steam.jpg",
+    "artist": null,
+    "license": null,
+    "license_url": null,
+    "description": null,
+    "downloaded": true
+  },
+  {
+    "file": "Oseberg.png",
+    "local": "images/viking-art/Oseberg.png",
+    "source_url": "https://static.wikia.nocookie.net/aesthetics/images/6/66/Oseberg.png/revision/latest?cb=20210714205410",
+    "page": "https://aesthetics.fandom.com/wiki/File:Oseberg.png",
+    "artist": null,
+    "license": null,
+    "license_url": null,
+    "description": null,
+    "downloaded": true
+  }
+]

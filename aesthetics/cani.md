@@ -1,0 +1,93 @@
+---
+name: "Cani"
+slug: "cani"
+decade_of_origin: "1990s"
+key_motifs: ["Tracksuits", "bootleg sportswear", "gold jewelry", "baseball caps", "tribal tattoos", "scooters"]
+key_colours: ["Black", "white", "gold", "often with vibrant colors from football teams"]
+key_values: ["Group identity", "brand consciousness", "perceived aggression", "hypermasculinity"]
+related_aesthetics: ["Chav", "Choni (female counterpart)", "MDLR", "Pokero", "Racaille", "Reggaetonero"]
+source_url: "https://aesthetics.fandom.com/wiki/Cani"
+license: "CC-BY-SA-4.0"
+retrieved: "2026-07-22"
+image_count: 7
+---
+
+# Cani
+
+[Sensitive Content Notice](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki:Content_Warning_Policy "Aesthetics Wiki:Content Warning Policy") ⚠️
+
+The following article contains and discusses content that may be distressing to some readers.  
+**Reason for Warning:** This page documents a subculture described by a pejorative classist slur used against working-class youth in Spain. The stereotype is explicitly linked to themes of delinquency, perceived aggression, excessive alcohol use, and criminality, and is noted to occasionally tap into prejudices against the Spanish Roma community. Viewer discretion is advised.
+
+**Cani** is a term used in Spain to describe a youth subculture that originated in the 1990s, primarily associated with working-class young men in the southern region of Andalusia. The aesthetic is defined by a specific style of sportswear, an affinity for gold jewelry, and a "bad boy" persona. The term itself is often considered a pejorative, classist slur used to stereotype and ridicule working-class youth, though it is sometimes used ironically or as a self-identifier.
+
+## History
+
+The Cani subculture first emerged in the working-class neighborhoods of Andalusia in the 1990s. The classic 2000s Cani was heavily associated with a specific look and a taste for music like flamenco-pop and early [reggaeton](https://aesthetics.fandom.com/wiki/Reggaeton "Reggaeton"). This figure was often caricatured in Spanish media and humor, most famously in the viral YouTube video "*Soy Cani*" by Zorman, which cemented the stereotype in the public consciousness. While the term's exact origin is not known, it is thought to be derived from Karl Kani, a popular [hip-hop](https://aesthetics.fandom.com/wiki/Hip-hop "Hip-hop") brand.
+
+By the 2020s, the aesthetic and its cultural context evolved into the [MDLR](https://aesthetics.fandom.com/wiki/MDLR "MDLR") trend. Popularized by the Spanish-Moroccan rapper Morad, "MDLR" (an acronym for the French *Mec de la Rue*, or "boy from the street") reflects the experiences of modern working-class and migrant youth in Spain's peripheral neighborhoods. While the look has changed, sociologists and cultural critics note a direct lineage from the Cani, framing the MDLR movement as a self-aware reclamation of a working-class identity that was previously mocked.
+
+## Fashion
+
+The Cani aesthetic is centered on brand-name sportswear and conspicuous accessories, often featuring counterfeit or bootleg items.
+
+The "classic" Cani look of the 2000s included tracksuits, muscle shirts, and bootleg football team jerseys. Accessories were central, with a heavy emphasis on gold jewelry such as large chains and rings, as well as piercings in the eyebrow or lip. Baseball caps worn sideways or backward, often from brands like Nike, were also a key element.
+
+The modern MDLR style has updated this uniform. While tracksuits remain a staple, the look now incorporates puffer jackets, balaclavas, and fanny packs worn across the chest. The brand consciousness continues, but with an updated set of preferred labels. The overall silhouette remains rooted in functional, comfortable streetwear.
+
+## Slang
+
+There is a particular slang and lingo associated with the [Choni](https://aesthetics.fandom.com/wiki/Choni "Choni") and Cani subcultures. Cani slang is mainly derived from 1990s gangster films and traditional phrases of the southern dialects of European Spanish, including Andalusian, Murcian, and Canarian Spanish. Another prominent trait in the texting of both Canis and Chonis is writing in a disordered and exaggerated way, for example, "*todo loco*" (completely crazy) becomes "*tOh LoKoh*".
+
+### Common Phrases
+
+* "*Ta flama*": A phrase used to compliment or "flex" a newly bought item, especially a car or motorcycle.
+* "*¿Me entiende?*" (Do you get me?): A rhetorical question commonly used as a filler at the end of a sentence.
+* "*Ira*": A colloquial shortening of the Spanish verb *mira* (look), used to draw attention to something.
+
+## Controversy and Classism
+
+The term "Cani" has been heavily criticized for being a classist and (sometimes) racially motivated slur used to demonize working-class youth. The stereotype associates the subculture with delinquency, aggression, and a lack of culture, tapping into long-standing prejudices against the working class and, in some cases, the Spanish Roma (*Caló*) community.
+
+Sociologists have compared the phenomenon to the demonization of the "[Chav](https://aesthetics.fandom.com/wiki/Chav "Chav")" in the United Kingdom. The caricature of the Cani was used for years as a form of ridicule. However, the evolution into the self-proclaimed MDLR subculture is seen by many as a significant cultural shift. By adopting the "boy from the street" label, modern adherents are said to be reclaiming their identity, turning a previously mocked stereotype into a symbol of class pride and resilience. As sociologist Iago Moreno notes, "for the first time, it is the migrant working-class youth who are setting a cultural trend, having always been on the margins."
+
+## Gallery
+
+YouTuber Zorman dressed up as a Cani.
+
+Logo of the iconic 2000s Spanish brand "El Niño", edited to resemble a Cani.
+
+## References
+
+## Navigation
+
+| [Subcultures](https://aesthetics.fandom.com/wiki/Subculture "Subculture") | | |
+| --- | --- | --- |
+| Music-Based |
+| [Acid House](https://aesthetics.fandom.com/wiki/Acid_House "Acid House") • [Afropunk](https://aesthetics.fandom.com/wiki/Afropunk "Afropunk") • [B-Boy](https://aesthetics.fandom.com/wiki/B-Boy "B-Boy") • [Botswana Metalheads](https://aesthetics.fandom.com/wiki/Botswana_Metalheads "Botswana Metalheads") • [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") • [Electronic Body Music](https://aesthetics.fandom.com/wiki/Electronic_Body_Music "Electronic Body Music") • [Emo](https://aesthetics.fandom.com/wiki/Emo "Emo") • [Funk](https://aesthetics.fandom.com/wiki/Funk "Funk") • [Gabber](https://aesthetics.fandom.com/wiki/Gabber "Gabber") • [Goth](https://aesthetics.fandom.com/wiki/Goth "Goth") • [Gothic Belly Dance](https://aesthetics.fandom.com/wiki/Gothic_Belly_Dance "Gothic Belly Dance") • [Greaser](https://aesthetics.fandom.com/wiki/Greaser "Greaser") • [Grunge](https://aesthetics.fandom.com/wiki/Grunge "Grunge") • [Hip-Hop](https://aesthetics.fandom.com/wiki/Hip-Hop "Hip-Hop") • [Hippie](https://aesthetics.fandom.com/wiki/Hippie "Hippie") • [Industrial](https://aesthetics.fandom.com/wiki/Industrial "Industrial") • [Juggalo](https://aesthetics.fandom.com/wiki/Juggalo "Juggalo") • [Madchester](https://aesthetics.fandom.com/wiki/Madchester "Madchester") • [Metalhead](https://aesthetics.fandom.com/wiki/Metalhead "Metalhead") • [New Beat](https://aesthetics.fandom.com/wiki/New_Beat "New Beat") • [New Rave](https://aesthetics.fandom.com/wiki/New_Rave "New Rave") • [New Romantic](https://aesthetics.fandom.com/wiki/New_Romantic "New Romantic") • [Northern Soul](https://aesthetics.fandom.com/wiki/Northern_Soul "Northern Soul") • [Punk](https://aesthetics.fandom.com/wiki/Punk "Punk") • [Psychobilly](https://aesthetics.fandom.com/wiki/Psychobilly "Psychobilly") • [Rave](https://aesthetics.fandom.com/wiki/Rave "Rave") • [Rivethead](https://aesthetics.fandom.com/wiki/Rivethead "Rivethead") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Riot Grrrl](https://aesthetics.fandom.com/wiki/Riot_Grrrl "Riot Grrrl") • [Rockabilly](https://aesthetics.fandom.com/wiki/Rockabilly "Rockabilly") • [Rockers](https://aesthetics.fandom.com/wiki/Rockers "Rockers") • [Rude Boy](https://aesthetics.fandom.com/wiki/Rude_Boy "Rude Boy") • [UK Drill](https://aesthetics.fandom.com/wiki/UK_Drill "UK Drill") • [Visual Kei](https://aesthetics.fandom.com/wiki/Visual_Kei "Visual Kei") |
+| Lifestyle & Fashion |
+| [Ballroom Culture](https://aesthetics.fandom.com/wiki/Ballroom_Culture "Ballroom Culture") • [Biker](https://aesthetics.fandom.com/wiki/Biker "Biker") • [Black Ivy](https://aesthetics.fandom.com/wiki/Black_Ivy "Black Ivy") • [Bohemian](https://aesthetics.fandom.com/wiki/Bohemian "Bohemian") • [Bondage](https://aesthetics.fandom.com/wiki/Bondage "Bondage") • [Bro Culture](https://aesthetics.fandom.com/wiki/Bro_Culture "Bro Culture") • [Bro Hoe](https://aesthetics.fandom.com/wiki/Bro_Hoe "Bro Hoe") • [Casuals](https://aesthetics.fandom.com/wiki/Casuals "Casuals") • [Club Kids](https://aesthetics.fandom.com/wiki/Club_Kids "Club Kids") • [Cyberdelia](https://aesthetics.fandom.com/wiki/Cyberdelia "Cyberdelia") • [Decora](https://aesthetics.fandom.com/wiki/Decora "Decora") • [Disco](https://aesthetics.fandom.com/wiki/Disco "Disco") • [Flapper](https://aesthetics.fandom.com/wiki/Flapper "Flapper") • [Gutter Punk](https://aesthetics.fandom.com/wiki/Gutter_Punk "Gutter Punk") • [Hot Rod](https://aesthetics.fandom.com/wiki/Hot_Rod "Hot Rod") • [Hypebeast](https://aesthetics.fandom.com/wiki/Hypebeast "Hypebeast") • [Leather Subculture](https://aesthetics.fandom.com/wiki/Leather_Subculture "Leather Subculture") • [Lolita](https://aesthetics.fandom.com/wiki/Lolita "Lolita") • [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") • [Mall Ninja](https://aesthetics.fandom.com/wiki/Mall_Ninja "Mall Ninja") • [Mod](https://aesthetics.fandom.com/wiki/Mod "Mod") • [Mod Revival](https://aesthetics.fandom.com/wiki/Mod_Revival "Mod Revival") • [Nerd](https://aesthetics.fandom.com/wiki/Nerd "Nerd") • [Preppy](https://aesthetics.fandom.com/wiki/Preppy "Preppy") • [Scene](https://aesthetics.fandom.com/wiki/Scene "Scene") • [Skater](https://aesthetics.fandom.com/wiki/Skater "Skater") • [Steampunk](https://aesthetics.fandom.com/wiki/Steampunk "Steampunk") • [Surfer](https://aesthetics.fandom.com/wiki/Surfer "Surfer") • [Teddy Boys](https://aesthetics.fandom.com/wiki/Teddy_Boys "Teddy Boys") • [Tomboy](https://aesthetics.fandom.com/wiki/Tomboy "Tomboy") • [Ultras](https://aesthetics.fandom.com/wiki/Ultras "Ultras") • [Wota](https://aesthetics.fandom.com/wiki/Wota "Wota") |
+| Skinheads |
+| [Traditional](https://aesthetics.fandom.com/wiki/Skinhead "Skinhead") • Bootboy • Smoothie • [Oi! Skinhead](https://aesthetics.fandom.com/wiki/Oi!_Skinhead "Oi! Skinhead") • Redskin • SHARP • [Suedehead](https://aesthetics.fandom.com/wiki/Suedehead "Suedehead") • [Trojan Skinhead](https://aesthetics.fandom.com/wiki/Trojan_Skinhead "Trojan Skinhead") • White Power Skinhead |
+| Regional: Americas |
+| [Bobby-Soxer](https://aesthetics.fandom.com/wiki/Bobby-Soxer "Bobby-Soxer") (US) • [Buchón](https://aesthetics.fandom.com/wiki/Buch%C3%B3n "Buchón") (Mexico) • [Chonga](https://aesthetics.fandom.com/wiki/Chonga "Chonga") (US) • [Cholo](https://aesthetics.fandom.com/wiki/Cholo "Cholo") (US) • [Cholombiano](https://aesthetics.fandom.com/wiki/Cholombiano "Cholombiano") (Mexico) • [Colorido](https://aesthetics.fandom.com/wiki/Colorido "Colorido") (Brazil) • [Cumbiero](https://aesthetics.fandom.com/wiki/Cumbiero "Cumbiero") (Argentina) • [Flaite](https://aesthetics.fandom.com/wiki/Flaite "Flaite") (Chile) • [Flogger](https://aesthetics.fandom.com/wiki/Flogger "Flogger") (Argentina) • [Gaucho](https://aesthetics.fandom.com/wiki/Gaucho "Gaucho") (South America) • [Guido](https://aesthetics.fandom.com/wiki/Guido "Guido") (US) • [Mandrake](https://aesthetics.fandom.com/wiki/Mandrake "Mandrake") (Brazil) • [Milipili](https://aesthetics.fandom.com/wiki/Milipili "Milipili") (Argentina) • [Pachuco](https://aesthetics.fandom.com/wiki/Pachuco "Pachuco") (US) • [Pokemón](https://aesthetics.fandom.com/wiki/Pokem%C3%B3n "Pokemón") (Chile) • [Rolinga](https://aesthetics.fandom.com/wiki/Rolinga "Rolinga") (Argentina) • [Yuppie](https://aesthetics.fandom.com/wiki/Yuppie "Yuppie") (US) |
+| Regional: Europe |
+| [Bakala](https://aesthetics.fandom.com/wiki/Bakala "Bakala") (Spain) • [Bikiniarze](https://aesthetics.fandom.com/wiki/Bikiniarze "Bikiniarze") (Poland) • **Cani** (Spain) • [Chav](https://aesthetics.fandom.com/wiki/Chav "Chav") (UK) • [Choni](https://aesthetics.fandom.com/wiki/Choni "Choni") (Spain) • [Dizelaši](https://aesthetics.fandom.com/wiki/Dizela%C5%A1i "Dizelaši") (Serbia) • [Dresiarz](https://aesthetics.fandom.com/wiki/Dresiarz "Dresiarz") (Poland) • [Fjortis](https://aesthetics.fandom.com/wiki/Fjortis "Fjortis") (Sweden) • [Garçonne](https://aesthetics.fandom.com/wiki/Gar%C3%A7onne "Garçonne") (France) • [Gopnik](https://aesthetics.fandom.com/wiki/Gopnik "Gopnik") (Russia) • [Halbstarke](https://aesthetics.fandom.com/wiki/Halbstarke "Halbstarke") (Germany) • [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") (Russia) • [Krocha](https://aesthetics.fandom.com/wiki/Krocha "Krocha") (Austria) • [Lad Culture](https://aesthetics.fandom.com/wiki/Lad_Culture "Lad Culture") (UK) • [Maranza](https://aesthetics.fandom.com/wiki/Maranza "Maranza") (Italy) • [Minet](https://aesthetics.fandom.com/wiki/Minet "Minet") (France) • [New Partisans](https://aesthetics.fandom.com/wiki/New_Partisans "New Partisans") (Yugoslavia) • [New Primitivism](https://aesthetics.fandom.com/wiki/New_Primitivism "New Primitivism") (Yugoslavia) • [Paninaro](https://aesthetics.fandom.com/wiki/Paninaro "Paninaro") (Italy) • [Parisian Apaches](https://aesthetics.fandom.com/wiki/Parisian_Apaches "Parisian Apaches") (France) • [Partille-Johnny](https://aesthetics.fandom.com/wiki/Partille-Johnny "Partille-Johnny") (Sweden) • [PMC Ryodan](https://aesthetics.fandom.com/wiki/PMC_Ryodan "PMC Ryodan") (Russia/Ukraine) • [Poppare](https://aesthetics.fandom.com/wiki/Poppare "Poppare") (Sweden) • [Poppers](https://aesthetics.fandom.com/wiki/Poppers "Poppers") (Germany) • [Pijo](https://aesthetics.fandom.com/wiki/Pijo "Pijo") (Spain) • [Pokero](https://aesthetics.fandom.com/wiki/Pokero "Pokero") (Spain) • [Raggare](https://aesthetics.fandom.com/wiki/Raggare "Raggare") (Sweden) • [Raxet](https://aesthetics.fandom.com/wiki/Raxet "Raxet") (Spain) • [Roadman](https://aesthetics.fandom.com/wiki/Roadman "Roadman") (UK) • [Sloanie](https://aesthetics.fandom.com/wiki/Sloanie "Sloanie") (UK) • [Stilyagi](https://aesthetics.fandom.com/wiki/Stilyagi "Stilyagi") (Russia) • [Swingjugend](https://aesthetics.fandom.com/wiki/Swingjugend "Swingjugend") (Germany) • [Tecktonik](https://aesthetics.fandom.com/wiki/Tecktonik "Tecktonik") (France) • [Wixa](https://aesthetics.fandom.com/wiki/Wixa "Wixa") (Poland) • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé") (France/Southern Europe) • [Zazou](https://aesthetics.fandom.com/wiki/Zazou "Zazou") (France) |
+| Regional: Asia, Africa & Oceania |
+| [Ah Beng](https://aesthetics.fandom.com/wiki/Ah_Beng "Ah Beng") (Singapore) • [Angura Kei](https://aesthetics.fandom.com/wiki/Angura_Kei "Angura Kei") (Japan) • [Bills](https://aesthetics.fandom.com/wiki/Bills "Bills") (Congo) • [Bodikon](https://aesthetics.fandom.com/wiki/Bodikon "Bodikon") (Japan) • [Bogan](https://aesthetics.fandom.com/wiki/Bogan "Bogan") (Aus/NZ) • [Bosozoku](https://aesthetics.fandom.com/wiki/Bosozoku "Bosozoku") (Japan) • [Genderless Kei](https://aesthetics.fandom.com/wiki/Genderless_Kei "Genderless Kei") (Japan) • [Gyaru](https://aesthetics.fandom.com/wiki/Gyaru "Gyaru") (Japan) • [Gyaruo](https://aesthetics.fandom.com/wiki/Gyaruo "Gyaruo") (Japan) • [Jejemon](https://aesthetics.fandom.com/wiki/Jejemon "Jejemon") (Philippines) • [Jirai Kei](https://aesthetics.fandom.com/wiki/Jirai_Kei "Jirai Kei") (Japan) • [Kogal](https://aesthetics.fandom.com/wiki/Kogal "Kogal") (Japan) • [La Sape](https://aesthetics.fandom.com/wiki/La_Sape "La Sape") (Congo) • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku") (Japan) • [Shamate](https://aesthetics.fandom.com/wiki/Shamate "Shamate") (China) • [Sharpies](https://aesthetics.fandom.com/wiki/Sharpies "Sharpies") (Australia) • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") (Japan) • [Skhothane](https://aesthetics.fandom.com/wiki/Skhothane "Skhothane") (South Africa) • [Spirited Lad](https://aesthetics.fandom.com/wiki/Spirited_Lad "Spirited Lad") (China) • [Swenkas](https://aesthetics.fandom.com/wiki/Swenkas "Swenkas") (South Africa) • [Takenokozoku](https://aesthetics.fandom.com/wiki/Takenokozoku "Takenokozoku") (Japan) • [Yabi](https://aesthetics.fandom.com/wiki/Yabi "Yabi") (China) • [Zef](https://aesthetics.fandom.com/wiki/Zef "Zef") (South Africa) |
+| Digital, Internet & Related |
+| [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
+
+## Images
+
+- `images/cani/Cani.jpg`
+- `images/cani/Canis3.jpg`
+- `images/cani/Canis.jpg`
+- `images/cani/Cani1.png`
+- `images/cani/Cani4.jpg`
+- `images/cani/Canis1.jpg`
+- `images/cani/Canis2.jpg`
+
+## Source and attribution
+
+Text adapted from "Cani" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cani), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
