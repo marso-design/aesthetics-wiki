@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/palette-wall.png" alt="A wall of colour palettes derived from internet aesthetics" width="840">
+
 # Aesthetics Wiki Skill
 
 **A Claude skill that gives Claude a local, queryable knowledge base of 1,201 internet visual aesthetics.**
@@ -125,6 +127,8 @@ scripts/scrape.py      # pull everything from the wiki (resumable)
 scripts/build_index.py # rebuild data/index.json from the files
 scripts/lookup.py      # query CLI (resolve, search, related, by colour/decade/motif)
 scripts/fetch_image.py # fetch an aesthetic's images on demand for local viewing
+scripts/palette.py     # derive hex palettes from reference images
+scripts/make_showcase.py # render the palette-wall hero from data/palettes.json
 ```
 
 ## Regenerate from source
