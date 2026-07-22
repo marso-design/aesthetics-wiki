@@ -136,7 +136,7 @@ def main():
     d.line([(margin, foot_y - 24), (W - margin, foot_y - 24)], fill=(34, 34, 42),
            width=2)
     d.text((margin + 2, foot_y), "MARSO  DESIGN", font=f_foot, fill=INK)
-    tail = "github.com/marso-design/aesthetics-wiki"
+    tail = "marso.design"
     d.text((W - margin - d.textlength(tail, font=f_foot), foot_y), tail,
            font=f_foot, fill=FAINT)
 

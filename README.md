@@ -157,6 +157,6 @@ Not affiliated with, endorsed by, or sponsored by the Aesthetics Wiki or Fandom,
 
 <div align="center">
 
-Built by **[Marso Design](https://github.com/marso-design)** - brand, site, and product UI, shipped.
+Built by **[Marso Design](https://marso.design)** - brand, site, and product UI, shipped.
 
 </div>
