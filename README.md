@@ -32,6 +32,22 @@ MediaWiki API, cleaned into portable markdown, and indexed for fast lookup.
 - **Apply it** - turn an aesthetic into a moodboard, a real hex palette / design tokens, or a style direction for an outfit, room, brand, or site. The skill gives the direction; you build.
 - **Blend it** - fuse two aesthetics into a coherent direction.
 
+## Moodboards
+
+Point the skill at any aesthetic and it renders a moodboard from the data -
+palette, motifs, and era - with **no third-party photos**, so it is free to use:
+
+<p align="center">
+<img src="assets/moodboards/vaporwave.png" width="49%">
+<img src="assets/moodboards/cottagecore.png" width="49%">
+<img src="assets/moodboards/dark-academia.png" width="49%">
+<img src="assets/moodboards/barbiecore.png" width="49%">
+</p>
+
+```bash
+python scripts/make_moodboard.py cottagecore     # any slug, or --all
+```
+
 ## At a glance
 
 | | |
@@ -129,6 +145,7 @@ scripts/lookup.py      # query CLI (resolve, search, related, by colour/decade/m
 scripts/fetch_image.py # fetch an aesthetic's images on demand for local viewing
 scripts/palette.py     # derive hex palettes from reference images
 scripts/make_showcase.py # render the palette-wall hero from data/palettes.json
+scripts/make_moodboard.py # render a per-aesthetic moodboard from data/palettes.json
 ```
 
 ## Regenerate from source

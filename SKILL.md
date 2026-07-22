@@ -71,7 +71,9 @@ After the CLI points you to a file, read `aesthetics/<slug>.md` for the depth
   `--find` on X's colours/motifs to surface cousins the wiki did not cross-link.
 - **Moodboard / style guide** - read the entry, list `key_colours`, `key_motifs`,
   `related_media`, and reference specific files from `images/<slug>/`. Note the
-  image licensing caveat below before reusing any image externally.
+  image licensing caveat below before reusing any image externally. For a
+  shareable visual moodboard, run `python scripts/make_moodboard.py <slug>` - it
+  renders the palette + motifs into an image with no third-party photos.
 - **"Style my <outfit/room/brand/playlist/website> as <aesthetic>"** - translate
   `key_motifs`, `key_values`, and the hex `palette` into concrete choices for that
   medium. For UI/web/brand work, use `palette` directly as design tokens (CSS
