@@ -41,6 +41,13 @@ def load_env():
             if not line or line.startswith("#") or "=" not in line:
                 continue
             k, _, v = line.partition("=")
+            v = v.strip()
+            if v[:1] not in ('"', "'"):
+                # strip an inline comment (a '#' preceded by whitespace or at start)
+                for i, ch in enumerate(v):
+                    if ch == "#" and (i == 0 or v[i - 1].isspace()):
+                        v = v[:i]
+                        break
             os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
 
 

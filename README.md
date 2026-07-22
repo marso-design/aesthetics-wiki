@@ -34,25 +34,38 @@ MediaWiki API, cleaned into portable markdown, and indexed for fast lookup.
 
 ## Moodboards
 
-Point the skill at any aesthetic and it renders a moodboard from the data -
-palette, motifs, and era - with **no third-party photos**, so it is free to use:
+Ask about any aesthetic and the skill builds a moodboard from its **own data** -
+no scraped third-party photos. Two modes:
+
+**Generated** - bring your own image API for rich, photo-based moodboards.
+Examples below from Nano Banana 2 (Gemini 3.1 Flash Image):
 
 <p align="center">
-<img src="assets/moodboards/vaporwave.png" width="49%">
+<img src="assets/generated/vaporwave.png" width="32%">
+<img src="assets/generated/frutiger-aero.png" width="32%">
+<img src="assets/generated/cyberpunk.png" width="32%">
+<img src="assets/generated/liminal-space.png" width="32%">
+<img src="assets/generated/dark-academia.png" width="32%">
+<img src="assets/generated/coquette.png" width="32%">
+</p>
+
+**Palette** - the free, no-key fallback, generated from the derived palette + motifs:
+
+<p align="center">
 <img src="assets/moodboards/cottagecore.png" width="49%">
-<img src="assets/moodboards/dark-academia.png" width="49%">
 <img src="assets/moodboards/barbiecore.png" width="49%">
 </p>
 
 ```bash
-python scripts/make_moodboard.py cottagecore     # any slug, or --all
+python scripts/make_moodboard.py cottagecore     # free, no key (palette moodboard)
+python scripts/gen_moodboard.py cottagecore      # photo moodboard (needs an image API)
 ```
 
-### Bring your own image model (optional)
+### Bring your own image model
 
-Want photo-based moodboards instead of palette blocks? Point the skill at any
-image API and it builds the prompt from the aesthetic's data (motifs, palette,
-mood) and generates a moodboard. No key set = the palette moodboard above is used.
+Point the skill at any image API and it builds the prompt from the aesthetic's
+data (motifs, palette, mood), then generates the moodboard. No key = the palette
+moodboard above is used instead.
 
 ```bash
 cp .env.example .env      # add your key (git-ignored, never committed)
