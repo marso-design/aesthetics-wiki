@@ -73,7 +73,10 @@ After the CLI points you to a file, read `aesthetics/<slug>.md` for the depth
   `related_media`, and reference specific files from `images/<slug>/`. Note the
   image licensing caveat below before reusing any image externally. For a
   shareable visual moodboard, run `python scripts/make_moodboard.py <slug>` - it
-  renders the palette + motifs into an image with no third-party photos.
+  renders the palette + motifs into an image with no third-party photos. If the
+  user has configured an image API in `.env` (see README), you can instead run
+  `python scripts/gen_moodboard.py <slug>` for a photo-based moodboard; fall back
+  to `make_moodboard.py` when no key is set.
 - **"Style my <outfit/room/brand/playlist/website> as <aesthetic>"** - translate
   `key_motifs`, `key_values`, and the hex `palette` into concrete choices for that
   medium. For UI/web/brand work, use `palette` directly as design tokens (CSS

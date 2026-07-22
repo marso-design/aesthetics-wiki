@@ -48,6 +48,21 @@ palette, motifs, and era - with **no third-party photos**, so it is free to use:
 python scripts/make_moodboard.py cottagecore     # any slug, or --all
 ```
 
+### Bring your own image model (optional)
+
+Want photo-based moodboards instead of palette blocks? Point the skill at any
+image API and it builds the prompt from the aesthetic's data (motifs, palette,
+mood) and generates a moodboard. No key set = the palette moodboard above is used.
+
+```bash
+cp .env.example .env      # add your key (git-ignored, never committed)
+python scripts/gen_moodboard.py cottagecore --dry-run   # preview the prompt, no cost
+python scripts/gen_moodboard.py cottagecore             # generate
+```
+
+Default is Gemini 3.1 Flash Image ("Nano Banana 2"); OpenAI-compatible models
+work too via `IMAGE_PROVIDER` / `IMAGE_MODEL` / `IMAGE_API_BASE`.
+
 ## At a glance
 
 | | |
