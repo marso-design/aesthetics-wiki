@@ -72,7 +72,8 @@ def gen_gemini(prompt, model, key, base):
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseModalities": ["IMAGE"]},
     }
-    r = requests.post(url, params={"key": key}, json=body, timeout=180)
+    # key goes in a header, never the URL, so it cannot leak into error messages
+    r = requests.post(url, headers={"x-goog-api-key": key}, json=body, timeout=180)
     r.raise_for_status()
     data = r.json()
     for cand in data.get("candidates", []):
@@ -156,7 +157,8 @@ def main():
                 f.write(img)
             print("wrote", out)
         except Exception as exc:  # noqa: BLE001
-            print("FAIL %s: %s" % (slug, exc))
+            msg = str(exc).replace(key, "***") if key else str(exc)
+            print("FAIL %s: %s" % (slug, msg))
 
 
 if __name__ == "__main__":
