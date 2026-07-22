@@ -5,6 +5,7 @@ aka: ["Carnevale di Venezia", "Carneval de Venèsia"]
 decade_of_origin: "1162"
 key_motifs: ["Masks", "revelry", "gondolas", "costumes", "mystery"]
 key_colours: ["Gold", "Red", "Purple", "Black", "White"]
+palette: ["#A29E97", "#6C5345", "#0D0909", "#4A3B35", "#1F1C19", "#6A7176"]
 key_values: ["mystery", "elegance", "luxury", "anonymity", "wealth", "hedonism", "mischief"]
 related_aesthetics: ["Brazilian Carnival", "Fanfare", "Baroque", "Rococo", "Clowncore"]
 source_url: "https://aesthetics.fandom.com/wiki/Venetian_Carnival"

@@ -1,6 +1,7 @@
 ---
 name: "Aesthetic Visual Index"
 slug: "aesthetic-visual-index"
+palette: ["#D6D0C6", "#0E0E14", "#90948D", "#864557", "#A6BEB6", "#EFEDEE"]
 source_url: "https://aesthetics.fandom.com/wiki/Aesthetic_Visual_Index"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

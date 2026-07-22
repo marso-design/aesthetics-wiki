@@ -5,6 +5,7 @@ aka: ["Muscadins (for men)"]
 decade_of_origin: "1790s (1795-1799)"
 key_motifs: ["Exaggerated neoclassical fashion", "sheer/transparent fabrics", "oversized cravats", "large hats", "disheveled hair", "antique-inspired tunics", "sandals", "reticules", "knotted clubs/canes", "monocles"]
 key_colours: ["Light fabrics", "white", "pastels (for women); varied colors for men's garments (e.g., velvet, nankin)"]
+palette: ["#FFFFFF", "#827D65", "#190F13", "#43473C", "#452410", "#98A291"]
 key_values: ["Hedonism", "extravagance", "rebellion against revolutionary austerity", "political statement (anti-Jacobin)", "social distinction", "pleasure-seeking", "frivolity", "theatricality", "irony"]
 related_aesthetics: ["Dandy", "Directoire Style", "Neoclassicism", "Rococo"]
 related_media: ["Caricatures by Carle Vernet", "Journal des Incroyables"]

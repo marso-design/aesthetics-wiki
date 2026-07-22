@@ -5,6 +5,7 @@ aka: ["KRUSHCLUB! (stylized)", "Odecore (used by Odetari)"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Stars", "hearts", "pixels", "glowing filters", "2000s imagery", "low-poly models", "scanline filters"]
 key_colours: ["Monochrome (black, white, grey)"]
+palette: ["#090A0A", "#999998", "#2C2D2D", "#C8C9C8", "#6A6A6A", "#4D4E4E"]
 related_aesthetics: ["Brazilian Phonk", "Cybercore", "HexD", "Hyperpop", "Sigilkore", "Scenecore", "Y2K Futurism"]
 primary_platform: ["SoundCloud", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Krushclub"

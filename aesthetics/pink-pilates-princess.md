@@ -3,6 +3,7 @@ name: "Pink Pilates Princess"
 slug: "pink-pilates-princess"
 key_motifs: ["hyper feminine athleisure", "green juice", "face masks", "lululemon", "matcha", "leg warmers", "silky pyjamas", "pilates", "self-care and wellness", "lip oils", "uggs", "wired headphones", "victoria's secret"]
 key_colours: ["Pastel Pink", "White", "Silver", "Pastels"]
+palette: ["#5A4746", "#1C2327", "#CAC6CA", "#786964", "#B68484", "#C994A1"]
 related_aesthetics: ["2014 Girly", "Ballet", "Pink Princess", "That Girl", "Dollette", "Wonyoungism"]
 source_url: "https://aesthetics.fandom.com/wiki/Pink_Pilates_Princess"
 license: "CC-BY-SA-4.0"

@@ -6,6 +6,7 @@ decade_of_origin: "Late 18th to mid 19th centuries"
 key_motifs: ["Nature (especially untamed, wild, and sublime)", "ruins", "the medieval past", "folk traditions", "nationalism", "heroism", "the supernatural", "exoticism", "dreams", "intense emotion (awe, horror, terror)"]
 key_values: ["Emotion and intuition over reason", "individualism", "imagination", "subjectivity", "transcendence", "freedom"]
 related_aesthetics: ["Costumbrismo", "Dandy", "Gothic", "Orientalism", "Pre-Raphaelite", "Symbolism", "Young Poland"]
+palette: ["#271F1E", "#5A4D3F", "#726650", "#91785E", "#9D8D75", "#B9A993"]
 source_url: "https://aesthetics.fandom.com/wiki/Romanticism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

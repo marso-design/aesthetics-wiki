@@ -4,6 +4,7 @@ slug: "larme-kei"
 decade_of_origin: "2012"
 key_motifs: ["Makeup", "ribbons", "bows", "pearls"]
 key_colours: ["Varied", "with pink and black as the most themed photo spreads"]
+palette: ["#2C252C", "#EAE3E3", "#D3AEB2", "#A59791", "#CCC9CE", "#926D64"]
 key_values: ["Sophistication", "femininity", "youth"]
 related_aesthetics: ["Babygirl", "Balletcore", "Dark Nymphet", "Girly (Japanese)", "Lovecore", "Nymphet", "Mote Kei", "Coquette"]
 related_media: ["Larme Magazine"]

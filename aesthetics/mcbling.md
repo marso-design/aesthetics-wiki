@@ -5,6 +5,7 @@ aka: ["Trashy Y2K", "Glam Y2K", "2000s Glam", "2000s Trashy"]
 decade_of_origin: "2000s"
 key_motifs: ["Rhinestones", "glitter", "Juicy Couture tracksuits", "Von Dutch trucker hats", "low-rise jeans", "visible thongs", "flip phones", "paparazzi photos", "tabloid culture"]
 key_colours: ["Hot pink", "baby pink", "metallics (gold and silver)", "black", "white"]
+palette: ["#2E2226", "#A85D75", "#A0325F", "#FFFEFE", "#A88889", "#564B62"]
 key_values: ["Celebrity", "fame", "luxury", "consumerism", "\"new money\" attitude", "partying", "\"trashy\" glamour"]
 related_aesthetics: ["Baddie", "Barbiecore", "Bimbocore", "Bro Hoe", "Bubblegum Bitch", "Bubblegum Bling (revival)", "Fjortis", "Frutiger Aero", "Groovival", "Millennium Disco", "Guido", "Indie Sleaze", "Recession Pop", "Scene", "Surf Crush", "Trailer Park Princess", "Tweencore", "UrBling", "Y2K Futurism"]
 primary_platform: ["MySpace", "Perez Hilton (blog)"]

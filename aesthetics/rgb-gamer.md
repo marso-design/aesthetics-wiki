@@ -5,6 +5,7 @@ aka: ["RGB Gamer Room/Setup"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Gaming/PC setups", "RGB lights", "geometric and futuristic designs"]
 key_colours: ["Pink", "Purple", "Blue", "White", "Black", "Red", "Green", "Yellow", "Neons"]
+palette: ["#150A36", "#090319", "#690BCE", "#4F5BA6", "#43099D", "#3B2E74"]
 related_aesthetics: ["Cyberpunk", "E-Girl", "Hexatron", "Kawaii Gamer", "Synthwave", "2020 TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/RGB_Gamer"
 license: "CC-BY-SA-4.0"

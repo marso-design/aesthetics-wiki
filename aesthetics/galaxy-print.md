@@ -4,6 +4,7 @@ slug: "galaxy-print"
 decade_of_origin: "Early 2010s"
 key_motifs: ["Nebulas", "stars", "constellations", "cosmic imagery", "hipster mustaches", "unicorns", "aliens", "Tumblr Girl", "anime characters", "dreamcatchers"]
 key_colours: ["Deep purples", "blues", "pinks", "often with bright neon accents"]
+palette: ["#323144", "#7671AE", "#546B86", "#FFFFFF", "#DEC9DC", "#9EA7C9"]
 key_values: ["Creativity", "individuality", "fun", "online self-expression"]
 related_aesthetics: ["2010s Meme Maximalism", "2010s Summer Nostalgia", "Hipster", "Indie Sleaze", "Pastel Goth", "Positivity Kawaii", "Spacecore", "Unicorncore"]
 primary_platform: ["Tumblr", "Instagram"]

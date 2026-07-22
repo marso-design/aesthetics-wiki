@@ -4,6 +4,7 @@ slug: "theriancore"
 decade_of_origin: "2010s–2020s"
 key_motifs: ["Theta-Delta (ΘΔ) symbols", "\"spirit edit\" digital scribbles", "DIY paper-mache animal masks", "faux-fur tails", "low-angle forest photography"]
 key_colours: ["Muted earth tones (moss green, charcoal, rust, brown, cream)", "stark white (for digital line art)"]
+palette: ["#0F1010", "#21251D", "#67655A", "#383528", "#948575", "#C3C0BA"]
 key_values: ["Visual escapism", "nature appreciation", "DIY crafting", "digital anonymity"]
 related_aesthetics: ["Forestpunk", "Goblincore", "Naturecore", "Vulture Culture"]
 primary_platform: ["TikTok", "Tumblr", "Instagram", "Pinterest"]

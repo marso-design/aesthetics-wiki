@@ -6,6 +6,7 @@ key_motifs: ["Classical sculptures", "mythological figures", "vinyl record aesth
 key_values: ["Nostalgia", "luxury", "melancholy", "sincerity", "relaxation"]
 related_aesthetics: ["Acid Design", "Vaporwave"]
 primary_platform: ["Bandcamp", "YouTube"]
+palette: ["#293672", "#120F10", "#9D8285", "#7D3A3B", "#432127", "#795061"]
 source_url: "https://aesthetics.fandom.com/wiki/Barber_Beats"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

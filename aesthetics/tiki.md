@@ -5,6 +5,7 @@ aka: ["Polynesian Pop"]
 decade_of_origin: "1930s"
 key_motifs: ["Paradise", "the jungle", "island life"]
 key_colours: ["Khaki", "olive green", "red", "orange", "aqua blue"]
+palette: ["#140A0A", "#271D19", "#56503D", "#AF6438", "#412F22", "#71AEA0"]
 key_values: ["Escapism", "relaxation"]
 related_aesthetics: ["Americana", "Lowbrow", "Tropical", "Vacation Dadcore", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Tiki"

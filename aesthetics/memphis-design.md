@@ -5,6 +5,7 @@ aka: ["Memphis Art", "Memphis", "Memphis-Milano"]
 decade_of_origin: "1980s"
 key_motifs: ["Geometric shapes", "zig zagged lines"]
 key_colours: ["Pink", "blue", "yellow", "black", "white", "red", "purple", "teal"]
+palette: ["#BD7541", "#FAF68D", "#35413D", "#161620", "#B7B8A1", "#787160"]
 key_values: ["Experimentation"]
 related_aesthetics: ["Arcadecore", "Avant Basic", "Bauhaus", "Corporate Memphis", "Cyberpunk", "Early Cyber", "Cyberdelic", "De Stijl", "Deco-Luxe", "Decoplex", "Dopamine", "Factory Pomo", "Flat Design", "Frasurbane", "Future Funk", "Global Village Coffeehouse", "Grunge", "Hair Metal", "Kidcore", "Mallsoft", "Memphis Lite", "Memphis Jr.", "Minimalism", "Neubrutalism", "New Wave", "Pacific Punk Wave", "Pop Art", "Radical Design", "Synthwave", "Toyism", "Utopian Scholastic", "Vaporwave", "Wacky Pomo", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Memphis_Design"

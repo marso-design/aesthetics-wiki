@@ -4,6 +4,7 @@ slug: "new-look"
 decade_of_origin: "Late-1940s"
 key_motifs: ["Hourglass silhouette", "full skirts", "luxurious fabrics"]
 key_colours: ["Beige", "navy blue", "monochrome"]
+palette: ["#3C3938", "#EAE5E2", "#181616", "#5F5B58", "#B2AEAB", "#9C9A98"]
 key_values: ["Hyperfeminity", "opulence", "sensuality"]
 related_aesthetics: ["Art Deco", "Art Nouveau", "Impressionism", "Old Hollywood", "Power Dressing", "Regency", "Romantic Academia", "Surrealism", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/New_Look"

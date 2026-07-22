@@ -5,6 +5,7 @@ aka: ["Lowriders"]
 decade_of_origin: "1940s"
 key_motifs: ["pinstripes", "murals", "chrome/gold trim", "whitewall tires", "wired rims"]
 key_colours: ["pink", "orange", "green", "purple", "blue"]
+palette: ["#131029", "#878B90", "#5B6A86", "#273760", "#60414D", "#E3E3E2"]
 related_aesthetics: ["Cholo", "Gangsta Rap", "Urbancore", "UrBling"]
 source_url: "https://aesthetics.fandom.com/wiki/Chicano_Lowrider"
 license: "CC-BY-SA-4.0"

@@ -5,6 +5,7 @@ aka: ["Twilight Autumn", "2000s Autumn", "Dark Y2K"]
 decade_of_origin: "2010s/2020s"
 key_motifs: ["Late 2000s fashion", "fog", "vampires."]
 key_colours: ["Brown", "dark green", "grey", "black", "dark red", "beige", "earth tones"]
+palette: ["#0D1518", "#010102", "#2F3838", "#E6EEF1", "#48504B", "#244A57"]
 key_values: ["Nostalgia", "romanticization of fall", "the woods", "school", "vampires"]
 related_aesthetics: ["Dark Naturalism", "Fairy Grunge", "Fantasy", "FantasY2K", "Female Horror Game Protagonist Fashion", "Krushclub", "Vampire", "Werewolf"]
 source_url: "https://aesthetics.fandom.com/wiki/Twilightcore"

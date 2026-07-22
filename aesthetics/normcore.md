@@ -4,6 +4,7 @@ slug: "normcore"
 decade_of_origin: "2010s"
 key_motifs: ["Plain silhouettes", "brand-less basics", "suburban utility", "technical gear", "\"dad\" fashion"]
 key_colours: ["Navy", "gray", "white", "beige", "washed-out denim", "black"]
+palette: ["#46332F", "#191D21", "#5B5D50", "#D7D1C4", "#C1BAAE", "#7F7161"]
 key_values: ["Functionality", "anonymity", "anti-trend", "adaptability", "comfort"]
 related_aesthetics: ["Eclectic Grandpa", "Gorpcore", "Menocore", "Minimalism", "Vacation Dadcore"]
 primary_platform: ["Tumblr", "Instagram"]

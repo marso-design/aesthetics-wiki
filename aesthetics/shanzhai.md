@@ -4,6 +4,7 @@ slug: "shanzhai"
 aka: ["Chinafakes", "Chinese knock-offs", "Off-brands", "Xing Ling (Brazil: derogatory)", "Chinese Shirpotryob (Russia, Post-Soviet Space: derogatory)"]
 related_aesthetics: ["Bubblegum Dance", "Dollar Store Vernacular", "Funfair Kitsch", "Hypebeast", "Too Cool", "Xpiritualism", "Fotonight Web", "New Ugly", "Shirpotryob"]
 subgenres: ["Zhing-zhong"]
+palette: ["#1C2027", "#767674", "#3A363A", "#536267", "#959D99", "#E4DFD7"]
 source_url: "https://aesthetics.fandom.com/wiki/Shanzhai"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -4,6 +4,7 @@ slug: "lolcore"
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Pop culture prints (cartoons, fast food)", "bright colors", "kitsch", "oversized accessories", "clashing patterns", "maximalism"]
 key_colours: ["Bright primary and secondary colors", "often clashing"]
+palette: ["#1B1A25", "#DEBBA4", "#9B958E", "#EDEFF2", "#AD7666", "#AB5249"]
 key_values: ["Humor", "silliness", "anti-minimalism", "playful consumerism", "self-mockery"]
 related_aesthetics: ["Candycore", "Internet Awesomesauce", "Kidcore", "Maximalism", "Pop Art", "Snackwave"]
 source_url: "https://aesthetics.fandom.com/wiki/LOLcore"

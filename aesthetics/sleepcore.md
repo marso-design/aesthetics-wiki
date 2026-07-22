@@ -5,6 +5,7 @@ aka: ["Sleepycore", "drowsycore"]
 decade_of_origin: "2010s"
 key_motifs: ["Stuffed animals", "pajamas", "stars", "moons", "clouds", "nightlights", "blankets", "pillows", "cough medicine", "warm milk", "herbal tea", "owls", "sheep", "story books"]
 key_colours: ["Soft pink", "light blue", "dark blue", "pale green", "pale yellow", "white", "lavender"]
+palette: ["#C9B5B1", "#363C4D", "#87A5B1", "#FFFFFF", "#5E777D", "#887882"]
 key_values: ["Comfort", "relaxation", "self care", "tranquility", "nostalgia"]
 related_aesthetics: ["Cozycore"]
 source_url: "https://aesthetics.fandom.com/wiki/Sleepcore"

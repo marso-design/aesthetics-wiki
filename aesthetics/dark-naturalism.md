@@ -4,6 +4,7 @@ slug: "dark-naturalism"
 decade_of_origin: "2020s"
 key_motifs: ["Pressed flowers", "open windows", "murder mysteries", "cryptid hunting", "field notes", "plaid", "linen", "forest fog"]
 key_colours: ["Sage green", "maroon", "oxblood", "cream", "forest green", "charcoal"]
+palette: ["#2F3635", "#5E7677", "#4A5A55", "#182223", "#8DA3A6", "#CEDDE1"]
 related_aesthetics: ["Appalachian Gothic", "Dark Academia", "Dark Nautical", "Gloomcore", "Naturecore", "Vulture Culture"]
 primary_platform: ["Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Naturalism"

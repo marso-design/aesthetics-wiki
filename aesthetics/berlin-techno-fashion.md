@@ -5,6 +5,7 @@ aka: ["Berghain Aesthetic", "Berlin Clubwear"]
 decade_of_origin: "Late-1980s, Early-1990s"
 key_motifs: ["Anonymity", "practicality", "self-expression", "utilitarianism", "fetishwear elements", "subversion of commercial fashion"]
 key_colours: ["Black", "dark tones"]
+palette: ["#040E10", "#C3C2B9", "#49554D", "#33433D", "#657B72", "#D3D4CE"]
 key_values: ["Comfort", "confidence", "freedom", "self-expression", "anti-capitalism (historically)"]
 related_aesthetics: ["Bondage", "Cybergoth", "Electronic Body Music", "Fetish Goth", "Industrial", "Rivethead", "Techwear"]
 related_media: ["Berlin Bouncer (documentary)", "Trainspotting (film)"]

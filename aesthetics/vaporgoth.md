@@ -5,6 +5,7 @@ aka: ["Deathdream", "Spookwave", "Blackvapor"]
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Glitch art", "technological decay", "dark ambient textures", "dystopian transmissions", "horror imagery", "cryptic text"]
 key_colours: ["Black", "white", "muted greys", "occasional digital blues or greens"]
+palette: ["#0A1109", "#393C53", "#1D323F", "#59607E", "#707596", "#8F96AD"]
 key_values: ["Darkness", "alienation", "dread", "technological horror", "surrealism"]
 related_aesthetics: ["Industrial", "Glitch Art", "Weirdcore", "Vaporwave"]
 primary_platform: ["Bandcamp"]

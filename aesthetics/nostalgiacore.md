@@ -6,6 +6,7 @@ key_motifs: ["Empty playgrounds", "old classrooms", "childhood bedrooms", "outda
 key_values: ["Nostalgia", "reminiscence", "memory", "melancholy", "childhood", "the passage of time"]
 related_aesthetics: ["2010s Summer Nostalgia", "Dreamcore", "Kidcore", "Liminal Space", "Traumacore", "Weirdcore"]
 primary_platform: ["TikTok", "Tumblr", "Pinterest"]
+palette: ["#120F09", "#233224", "#434E36", "#6D664D", "#6C4F37", "#718163"]
 source_url: "https://aesthetics.fandom.com/wiki/Nostalgiacore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

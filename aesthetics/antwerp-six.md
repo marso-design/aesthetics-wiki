@@ -4,6 +4,7 @@ slug: "antwerp-six"
 decade_of_origin: "Mid-1980s"
 key_motifs: ["Deconstruction", "asymmetry", "minimalism", "monochromatic palettes", "exposed seams/linings", "oversized tailoring", "intellectual rebellion", "androgyny"]
 key_colours: ["Black", "charcoal grey", "off-white", "muted earth tones (for deconstructive designers); saturated prints", "bright colors (for Dries Van Noten/Walter Van Beirendonck)"]
+palette: ["#DED9D0", "#A69689", "#070802", "#24241E", "#7A6D60", "#BAB9B1"]
 key_values: ["Avant-garde", "anti-fashion", "intellectualism", "craftsmanship", "individuality", "non-conformity"]
 related_aesthetics: ["Archive", "Deconstructivism", "Goth", "Romantic Goth", "Minimalism"]
 primary_platform: ["High-fashion runways", "London Trade Shows"]

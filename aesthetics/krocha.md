@@ -5,6 +5,7 @@ aka: ["Kracher", "Netlog Styler"]
 decade_of_origin: "Late 2000s"
 key_motifs: ["Vokuhila (mullet) hairstyle", "neon colors", "Palestinian scarves (Keffiyeh)", "large belt buckles", "artificial tans", "V-neck shirts"]
 key_colours: ["Bright neons (pink, green, yellow) contrasted with black and white"]
+palette: ["#070606", "#A79B8D", "#68665E", "#593329", "#B8BCB8", "#8C6E5B"]
 key_values: ["Partying", "consumerism", "social status", "trend-following", "fun"]
 related_aesthetics: ["Gabber", "Hands Up", "Partille-Johnny", "Tecktonik", "Scene", "Rave"]
 primary_platform: ["Netlog"]

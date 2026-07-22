@@ -5,6 +5,7 @@ aka: ["SoCal Barbie"]
 decade_of_origin: "Mid-2000s"
 key_motifs: ["Graphic tees (Ed Hardy, Metal Mulisha)", "trucker hats", "heavy eyeliner", "two-toned hair (blonde and black)", "Monster Energy drinks", "lifted trucks", "tattoos"]
 key_colours: ["Pink", "black", "white", "red"]
+palette: ["#060304", "#BD8A5A", "#3E312F", "#7C5546", "#FEFEFE", "#877461"]
 key_values: ["Partying", "thrill-seeking", "edginess", "tomboy femininity", "\"DGAF\" (Don't Give A F*#@) attitude"]
 related_aesthetics: ["Biker", "Bro Culture", "McBling", "Olderbrothercore", "Post-Grunge Maximalism", "Scene", "Tomboy", "UrBling"]
 source_url: "https://aesthetics.fandom.com/wiki/Bro_Hoe"

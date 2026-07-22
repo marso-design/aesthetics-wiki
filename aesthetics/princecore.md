@@ -3,6 +3,7 @@ name: "Princecore"
 slug: "princecore"
 key_motifs: ["Medieval or balletic costumes", "crowns", "medieval prince wear", "medieval armor", "light colors", "historic masculinity or androgyny", "jewelry"]
 key_colours: ["Blue", "gold", "silver", "green", "white", "purple", "red"]
+palette: ["#15171B", "#B1ADA3", "#372F21", "#838781", "#A99B89", "#C1C0B8"]
 key_values: ["Elitism", "politeness", "wealth", "royalty", "charm", "romanticism", "fulfillment"]
 related_aesthetics: ["Kingcore", "Knightcore", "Princesscore", "Queencore", "Royalcore", "New Romantic", "Lolita", "Romantic Academia"]
 related_media: ["The Chronicles of Narnia: Prince Caspian(2008)", "Pippin(1981)", "The Prince and The Pauper(1973)", "Hamlet(1996)", "Coming to America(1988)", "Adventures of Prince Achmed(1926)"]

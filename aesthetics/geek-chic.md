@@ -5,6 +5,7 @@ decade_of_origin: "Mid-2000s"
 key_motifs: ["Thick horn-rimmed glasses", "sweater vests", "argyle patterns", "button-down shirts", "bow ties", "suspenders"]
 key_values: ["Intelligence as fashion", "irony", "nostalgia (for school uniforms)", "subverting stereotypes"]
 related_aesthetics: ["Dark Academia", "Light Academia", "Indie Sleaze", "Office Siren", "Preppy", "Scene", "Twee"]
+palette: ["#E4E5E4", "#595C5C", "#191A1A", "#9A877A", "#302F2E", "#D8CCBA"]
 source_url: "https://aesthetics.fandom.com/wiki/Geek_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

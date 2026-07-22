@@ -5,6 +5,7 @@ aka: ["Poolrooms", "Liminal Pool", "Dreampools"]
 decade_of_origin: "2010s"
 key_motifs: ["Water", "pools", "light shining through water", "tiles"]
 key_colours: ["Shades of blue", "white and teal"]
+palette: ["#488B8A", "#8AA79F", "#51A39D", "#6C8990", "#364E56", "#677276"]
 related_aesthetics: ["Cleancore", "Dreamcore", "Kidcore", "Liminal Space", "Minimalism", "Ocean Grunge", "Seapunk", "Vaporwave", "Weirdcore", "Y2K Futurism"]
 related_media: ["Backrooms"]
 source_url: "https://aesthetics.fandom.com/wiki/Poolcore"

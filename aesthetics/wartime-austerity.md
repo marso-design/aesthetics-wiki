@@ -5,6 +5,7 @@ aka: ["Utility Dressing", "World War II Fashion", "Clothes Rationing"]
 decade_of_origin: "1940s"
 key_motifs: ["Utility clothing", "tailored suits", "practical dresses", "restricted fabrics", "minimal embellishments", "sturdy shoes", "menswear-inspired elements for women", "repurposed old clothes", "siren suits", "gas mask bags", "luminous accessories"]
 key_colours: ["Muted tones", "somber colors", "practical colors (e.g., browns, greys, olives, navy)", "occasional white for visibility"]
+palette: ["#7F7F7C", "#080706", "#5F5853", "#48433F", "#A9A39D", "#C4C2BE"]
 key_values: ["Resource conservation", "practicality", "resilience", "ingenuity", "national unity", "efficiency over luxury", "adaptability", "durability"]
 related_aesthetics: ["Film Noir", "Harlem Renaissance", "New Look", "Old Hollywood"]
 related_media: ["Kitty Foyle (film, 1940)", "Make Do and Mend (1943 newsreel film)"]

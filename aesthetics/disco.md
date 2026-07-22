@@ -4,6 +4,7 @@ slug: "disco"
 decade_of_origin: "1970s"
 key_motifs: ["Disco balls", "flashing lights", "dance floors", "glitter", "sequins", "androgynous fashion", "platform shoes", "bell-bottoms"]
 key_colours: ["Metallic colors", "neon colors", "red", "yellow", "orange", "multi-colors"]
+palette: ["#0A071F", "#2D2B31", "#70717C", "#54515E", "#55363E", "#A1A3A3"]
 key_values: ["Escapism", "freedom of expression", "communal energy", "glamour", "nightlife culture"]
 related_aesthetics: ["Ballroom Culture", "Funk", "Glam Rock", "Italo Disco", "Millennium Disco", "New Wave", "Psychedelia", "Groovival", "Synthwave", "Ultramodern Revival"]
 related_media: ["Saturday Night Fever", "Thank God It's Friday"]

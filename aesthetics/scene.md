@@ -5,6 +5,7 @@ aka: ["Scene Kid", "Scenester", "Trendie"]
 decade_of_origin: "2000s"
 key_motifs: ["Teased \"raccoon tail\" hair", "side-swept bangs", "skinny jeans", "band tees", "studded belts", "bright accessories", "heavy eyeliner", "animal prints", "checkerboard patterns"]
 key_colours: ["Black contrasted with bright neon colors (hot pink, electric blue, lime green)"]
+palette: ["#180C11", "#4A5957", "#252F33", "#7F6054", "#563334", "#798480"]
 key_values: ["Individuality", "self-expression", "internet culture", "music scenes (Warped Tour)", "playful rebellion"]
 related_aesthetics: ["Colorido", "Club Kid", "E-Girl", "E-Boy", "Emo", "Fashioncore", "Flogger", "Geek Chic", "Glitter Graphics", "Hipster", "Hyperpop", "Kandi Raver", "Partille-Johnny", "Party Rock", "Punk", "Scenecore", "Scene Tween", "Teenpunk"]
 primary_platform: ["MySpace"]

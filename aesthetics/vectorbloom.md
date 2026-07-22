@@ -4,6 +4,7 @@ slug: "vectorbloom"
 decade_of_origin: "Early 2000s"
 key_motifs: ["Flourishes", "flower patterns", "vector-based psychedelic shapes", "explorations of natural forms", "hybrid creatures", "multi-layered imagery"]
 key_colours: ["Pink", "red", "purple", "blue", "green", "yellow", "black (contrast)", "white"]
+palette: ["#FFFFFF", "#E98A7C", "#543745", "#D45456", "#E2C5B2", "#869993"]
 key_values: ["Maximalism", "psychedelic fantasy", "technological opulence"]
 related_aesthetics: ["Art Nouveau", "Frutiger Aero", "McBling", "Psychedelia", "Superflat Pop", "Supergraphic Ultramodern", "Vectordelia"]
 source_url: "https://aesthetics.fandom.com/wiki/Vectorbloom"

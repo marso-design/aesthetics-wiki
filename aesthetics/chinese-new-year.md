@@ -5,6 +5,7 @@ aka: ["Chunjie", "Spring Festival"]
 decade_of_origin: "Ancient times (at least 1000 BC)"
 key_motifs: ["The New Year's Eve dinner", "firecrackers", "lanterns", "the '福' character", "the winter"]
 key_colours: ["Red and gold"]
+palette: ["#67574F", "#200D09", "#3D1C13", "#B06050", "#63261E", "#959393"]
 key_values: ["Family", "bringing fortune", "celebration", "abundance", "rituals", "identity"]
 related_aesthetics: ["Guochao", "HanfuNeo-Chinese Style"]
 related_media: ["The Spring Festival Gala"]

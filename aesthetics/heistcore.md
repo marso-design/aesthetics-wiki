@@ -3,6 +3,7 @@ name: "Heistcore"
 slug: "heistcore"
 decade_of_origin: "1920s"
 related_aesthetics: ["Old Money", "Golden Age of Detective Fiction"]
+palette: ["#3C332E", "#251F1C", "#5A554D", "#776D62", "#C0BEBA", "#8E8E87"]
 source_url: "https://aesthetics.fandom.com/wiki/Heistcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["Wotaku", "Idol Otaku"]
 decade_of_origin: "2000s"
 key_values: ["Idol worship"]
 related_aesthetics: ["Animecore", "Itasha", "Girly Kei", "Otaku", "Ryousangata Otaku (Personal Aesthetics Wiki)"]
+palette: ["#111010", "#332725", "#B4ACB4", "#DBD5D2", "#A88F97", "#E7C0BD"]
 source_url: "https://aesthetics.fandom.com/wiki/Wota"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

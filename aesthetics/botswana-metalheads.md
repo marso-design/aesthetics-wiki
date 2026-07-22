@@ -5,6 +5,7 @@ aka: ["Marok", "Hellbangers", "Metal Cowboys"]
 decade_of_origin: "1990s – Early 2000s"
 key_motifs: ["Leather trousers/jackets", "cowboy hats and boots", "DIY studs and chains", "use of animal skulls/bones (as natural elements)", "stage names (e.g., Vulture, Gunsmoke, Dead Demon Rider)"]
 key_colours: ["Black", "silver (studs)", "muted earth tones", "leather/cattlehide"]
+palette: ["#7C7874", "#0A0A07", "#CFD4DA", "#303132", "#595451", "#B6B7B9"]
 key_values: ["Warrior spirit", "authenticity", "community", "defiance", "social justice", "reclaiming the blues influence on metal music"]
 related_aesthetics: ["Death Metal", "Metalhead", "Western"]
 primary_platform: ["Local Festivals (Vulture Thrust Metal Fest)"]

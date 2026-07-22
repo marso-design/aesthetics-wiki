@@ -4,6 +4,7 @@ slug: "sovietwave"
 decade_of_origin: "2010s"
 key_motifs: ["Hammers and sickles", "Soviet Futurism", "Soviet nostalgia", "space", "the Cold War", "the Red Army", "Cosmonauts", "panel houses"]
 key_colours: ["Red", "white", "yellow"]
+palette: ["#133748", "#1A1B24", "#4A3631", "#A09BA3", "#779099", "#73382D"]
 key_values: ["Communism", "Utopianism", "Militarism", "Patriotism", "Red Nationalism", "nostalgia"]
 related_aesthetics: ["Doomer", "Heroic Realism", "Laborwave", "Ostalgie", "Socialist Realism", "Stalker", "Synthwave", "Vaporwave", "Yugo-Nostalgia"]
 related_media: ["Eastern European New Wave"]

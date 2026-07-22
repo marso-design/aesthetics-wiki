@@ -4,6 +4,7 @@ slug: "minet"
 aka: ["Minets du Drugstore", "Bande du Drugstore", "Blousons Dorés"]
 decade_of_origin: "1960s"
 related_aesthetics: ["Americana", "Beatnik", "Britpop", "Dandy", "French New Wave", "Mod", "Paninaro", "Preppy", "Teddy Boy", "Yé-yé (opposition)"]
+palette: ["#292624", "#151314", "#3F3B37", "#7A7673", "#524E49", "#D1C8C0"]
 source_url: "https://aesthetics.fandom.com/wiki/Minet"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

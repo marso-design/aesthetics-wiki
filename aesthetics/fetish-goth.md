@@ -4,6 +4,7 @@ slug: "fetish-goth"
 decade_of_origin: "1990s"
 key_motifs: ["Leather", "latex", "PVC", "corsets", "harnesses", "chokers (especially O-rings)", "fishnets", "chains", "spikes", "platform boots"]
 key_colours: ["Black", "red", "silver"]
+palette: ["#27312A", "#466F56", "#020202", "#827773", "#534544", "#151B19"]
 key_values: ["Self-expression", "confidence", "sexual empowerment", "transgression", "dark glamour"]
 related_aesthetics: ["Berlin Techno Fashion", "Bondage", "Goth", "Cybergoth", "Industrial", "Punk", "Rivethead"]
 primary_platform: ["Goth clubs", "fetish events"]

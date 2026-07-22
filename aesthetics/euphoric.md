@@ -5,6 +5,7 @@ aka: ["Euphoria Aesthetic", "Euphoriacore"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Glitter tears", "rhinestones", "dramatic lighting", "neon colors", "cut-out clothing", "Y2K fashion", "skater grunge"]
 key_colours: ["Purple", "blue", "magenta", "indigo", "hot pink"]
+palette: ["#3C123E", "#1A0917", "#74387B", "#AD94B8", "#9F3CA4", "#19193E"]
 key_values: ["Emotional expression", "self-discovery", "rebellion", "vulnerability", "drama"]
 related_aesthetics: ["McBling", "Indie Sleaze", "Skater", "Grunge"]
 primary_platform: ["TikTok", "Instagram"]

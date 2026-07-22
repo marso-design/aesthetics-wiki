@@ -7,6 +7,7 @@ key_motifs: ["Zabiv (group street fights)", "VK fight footage", "branded sportsw
 key_values: ["Physical dominance", "group loyaltY", "street reputation"]
 related_aesthetics: ["Casuals", "Gopnik", "PMC Ryodan", "Ultras"]
 primary_platform: ["VKontakte (VK)"]
+palette: ["#010102", "#181B25", "#5A596F", "#3D4357", "#E3DCEB", "#BEA2AB"]
 source_url: "https://aesthetics.fandom.com/wiki/Ofnik"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["Happy Rock", "Banda Colorida", "Happy Punk"]
 decade_of_origin: "Late 2000s–Early 2010s"
 key_motifs: ["Colorful skinny jeans", "customized t-shirts", "straight hair with colored streaks", "statement sunglasses"]
 key_colours: ["Vibrant", "often neon", "primary and secondary colors (red, yellow, blue, green, purple)"]
+palette: ["#212C34", "#DFDFD8", "#FEFFFF", "#C5AB91", "#CC8B72", "#7D8B84"]
 key_values: ["Optimism", "fun", "youth", "friendship", "positivity", "pop-rock music"]
 related_aesthetics: ["Scene", "Emo", "Floggers", "Jejemon"]
 related_media: ["MTV Brasil", "Capricho magazine"]

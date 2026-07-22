@@ -5,6 +5,7 @@ aka: ["French Country", "French Eclectic"]
 decade_of_origin: "17th-18th Century"
 key_motifs: ["Natural materials", "toile", "floral patterns", "cabriole legs", "arched doorways"]
 key_colours: ["Warm neutrals", "muted tones", "gold accents"]
+palette: ["#211C18", "#BAAA97", "#989080", "#5D5648", "#3E3227", "#796855"]
 key_values: ["Rustic elegance", "comfort", "simplicity"]
 related_aesthetics: ["Cottagecore", "Country", "Gustavian"]
 source_url: "https://aesthetics.fandom.com/wiki/French_Provincial_Style"

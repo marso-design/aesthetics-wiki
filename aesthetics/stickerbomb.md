@@ -5,6 +5,7 @@ aka: ["Sticker Slapping", "Sticker Bombing", "Slap Tagging"]
 decade_of_origin: "2000s"
 key_motifs: ["Dense overlapping stickers", "JDM symbols (Shoshinsha mark, Rising Sun)", "corporate logo parodies", "graffiti tags", "vector characters"]
 key_colours: ["CMYK", "black", "white", "high-contrast"]
+palette: ["#191B1E", "#B8BA9D", "#F5F5F2", "#899689", "#C26D67", "#6A6960"]
 related_aesthetics: ["Graffiti Pop", "Maximalism", "Shibuya Punk", "Skater", "Superflat Pop", "Urbancore", "UrBling", "Vectordelia"]
 related_media: ["Need for Speed: Underground", "DJ Hero", "The Amazing World of Gumball", "Splatoon", "Jet Set Radio"]
 source_url: "https://aesthetics.fandom.com/wiki/Stickerbomb"

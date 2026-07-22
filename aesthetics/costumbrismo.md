@@ -5,6 +5,7 @@ aka: ["Costumisme (Catalan)", "Costumismo (Galician)", "Kostunbrismo (Basque)"]
 decade_of_origin: "19th century"
 key_motifs: ["Everyday life scenes", "regional clothing", "architecture", "social gatherings", "religious imagery", "archetypes"]
 key_colours: ["Natural colours"]
+palette: ["#A27943", "#372B1F", "#57462F", "#73522D", "#B89768", "#DEC091"]
 key_values: ["Tradition", "community", "realism", "social observation", "regionalism", "longing"]
 related_aesthetics: ["Impressionism", "Majismo", "Realism", "Renovador Movement", "Romanticism", "Spanish Golden Age"]
 source_url: "https://aesthetics.fandom.com/wiki/Costumbrismo"

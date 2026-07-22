@@ -5,6 +5,7 @@ aka: ["Grotesque Cute", "Creepy Cute"]
 decade_of_origin: "2000s"
 key_motifs: ["Horror", "monsters", "blood", "eyeballs"]
 key_colours: ["Black", "red", "purple", "hot pink", "neon green"]
+palette: ["#6A6B85", "#211022", "#342B45", "#6C2E58", "#B47CA9", "#F7F7F7"]
 related_aesthetics: ["Busukawaii", "Cutegore", "Decora", "Dokukawaii", "Halloween", "Horror", "Pastel Gore", "Pastel Goth", "Psychobilly", "Superflat", "Yami Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Gurokawa"
 license: "CC-BY-SA-4.0"

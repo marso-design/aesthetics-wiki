@@ -5,6 +5,7 @@ aka: ["Aesthetic Movement", "The Cult of Beauty"]
 decade_of_origin: "Late-19th century (approximately 1860s-1900s)"
 key_motifs: ["Peacocks", "lilies", "sunflowers", "irises", "Japanese motifs (fans, screens)", "classical figures", "flowing lines", "intricate patterns"]
 key_colours: ["Jewel tones (emerald green, sapphire blue, ruby red)", "Gold", "Ivory", "Peacock blue"]
+palette: ["#878467", "#212428", "#442C1E", "#293C4A", "#5C3F26", "#4B5450"]
 key_values: ["Art for art's sake", "beauty", "sensuality", "refinement", "individualism"]
 related_aesthetics: ["Anglo-Japanese Style", "Arts and Crafts", "Art Nouveau", "Decadence", "Japonisme", "Orientalism", "Pre-Raphaelite", "Romanticism", "Victorian"]
 related_media: ["The Picture of Dorian Gray", "Poems and Ballads (Swinburne)", "Studies in the History of the Renaissance", "Yellow Book"]

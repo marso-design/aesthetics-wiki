@@ -5,6 +5,7 @@ aka: ["EBM-head (synonym specific to EBM fans)"]
 decade_of_origin: "Late 1980s"
 key_motifs: ["Military surplus", "combat boots", "band shirts", "industrial hardware", "barcodes", "trenchcoats", "goggles", "dark sunglasses", "post-apocalyptic utility", "fetishwear (gas masks, latex)"]
 key_colours: ["Black", "charcoal", "olive drab", "grey", "rusted steel"]
+palette: ["#060404", "#3F575A", "#1E1A1A", "#F6F7F6", "#47352C", "#90888C"]
 key_values: ["Individualism", "anti-conformity", "anti-consumerism", "technological critique", "dystopian realism", "confrontation"]
 related_aesthetics: ["Berlin Techno Fashion", "Bondage", "Cybergoth", "Cyberpunk", "Electronic Body Music", "Fetish Goth", "Goth", "Industrial", "Metalhead", "Neofolk", "Post-Punk", "Punk"]
 related_media: ["Electro-industrial", "EBM", "Industrial Rock", "Cyberpunk literature (e.g., Neuromancer)"]

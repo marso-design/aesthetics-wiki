@@ -5,6 +5,7 @@ aka: ["Propaganda Graphic Design"]
 decade_of_origin: "1920s-1930s (Peak)"
 key_motifs: ["Idealized figures", "bold typography", "realistic style", "strong messaging", "symbolic imagery", "\"hero\" archetype"]
 key_colours: ["Red", "white", "blue", "yellow", "black", "national colours"]
+palette: ["#18151C", "#524C54", "#ABA09B", "#EADBC7", "#841B19", "#FEFEFB"]
 key_values: ["Patriotism", "duty", "strength", "sacrifice", "national pride"]
 related_aesthetics: ["American Kitsch", "Mexican Muralism", "Plakatstil", "Politicalwave", "Realism", "Romanticism", "Socialist Realism", "Sots Art", "Sovietwave", "Totalitarian Kitsch"]
 related_media: ["Propaganda posters"]

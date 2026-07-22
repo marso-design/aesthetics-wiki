@@ -5,6 +5,7 @@ aka: ["Zhonghua niang", "Japanese-Sino Feng (日式中华风)"]
 decade_of_origin: "1990s (as character trope)"
 key_motifs: ["Pandas", "dango atama", "Chaina-fuku", "kung fu"]
 related_aesthetics: ["Chinoiserie", "guochao", "moe"]
+palette: ["#262841", "#5F6584", "#8089A0", "#9C716F", "#6C3946", "#E0D7CB"]
 source_url: "https://aesthetics.fandom.com/wiki/Chuugoku_Musume"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

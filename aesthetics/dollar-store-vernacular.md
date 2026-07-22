@@ -4,6 +4,7 @@ slug: "dollar-store-vernacular"
 decade_of_origin: "1990s"
 key_motifs: ["Infomercials", "pop up ads", "dollar store packaging"]
 key_colours: ["Red", "yellow", "orange", "blue", "green", "black"]
+palette: ["#355E8E", "#FCFEFF", "#0E1245", "#27294E", "#A86D51", "#E3DEBD"]
 related_aesthetics: ["Acidgrafix", "Chicha", "Funfair Kitsch", "Four Colors", "Internet Awesomesauce", "Old Web", "Shanzhai", "Skeuomorphism", "Vaporwave", "Xpiritualism"]
 related_media: ["Windows Destruction"]
 source_url: "https://aesthetics.fandom.com/wiki/Dollar_Store_Vernacular"

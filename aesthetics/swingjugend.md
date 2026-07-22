@@ -5,6 +5,7 @@ aka: ["Swing Youth", "Swings", "Schlurfs (Austria)"]
 decade_of_origin: "Late 1930s"
 key_motifs: ["Plaid jackets", "long hair", "umbrellas", "swing music", "dancing", "British & American fashion", "lipstick and makeup"]
 key_colours: ["Varies", "often featuring checked patterns and brighter colors than military uniforms"]
+palette: ["#262828", "#121213", "#585A56", "#474845", "#6C6E69", "#EAEAE7"]
 key_values: ["Individuality", "freedom", "non-conformism", "internationalism", "love of life", "self-determination"]
 related_aesthetics: ["Jazz Age", "Stilyagi", "Zazou"]
 source_url: "https://aesthetics.fandom.com/wiki/Swingjugend"

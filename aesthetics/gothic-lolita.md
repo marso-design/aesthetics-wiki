@@ -4,6 +4,7 @@ slug: "gothic-lolita"
 decade_of_origin: "1990s"
 key_motifs: ["Crosses", "bats", "religious iconography", "chandeliers", "castles", "coffins", "deep red roses"]
 key_colours: ["Black", "white", "deep jewel tones (maroon, navy, crimson, purple)"]
+palette: ["#1A1D23", "#605753", "#373639", "#A9A9A9", "#FDFDF8", "#6C797B"]
 key_values: ["Elegance", "darkness", "mystery", "drama", "Victorian-era aesthetics"]
 related_aesthetics: ["Aristocrat", "Classic Lolita", "Goth", "Lolita", "Romantic Goth", "Sweet Lolita", "Victorian", "Victorian Goth", "Visual Kei"]
 primary_platform: ["Gothic & Lolita Bible (magazine)"]

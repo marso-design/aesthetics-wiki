@@ -5,6 +5,7 @@ aka: ["Shock Rap", "Psycho Rap", "Horror Hip Hop", "Death Rap"]
 decade_of_origin: "Late 1980s – Early 1990s"
 key_motifs: ["Explicit gore", "masks/theatrical makeup", "horror film samples", "occult symbols (Satanism)", "mental illness", "psychological dystopia"]
 key_colours: ["Black", "red", "muted earth tones", "blood red"]
+palette: ["#010101", "#3C3C3C", "#2A2A2A", "#515151", "#7C7C7C", "#181818"]
 key_values: ["Shock value", "transgression", "nihilism", "anti-commercialism"]
 related_aesthetics: ["Death Metal", "Gangsta Rap", "Horror", "Juggalo", "Trap Metal"]
 related_media: ["Slasher Films", "Splatter Films", "The Fear (1995 Film)"]

@@ -4,6 +4,7 @@ slug: "naarmcore"
 decade_of_origin: "2020s"
 key_motifs: ["Puffer jackets", "cargo pants", "parachute pants", "hiking shoes (e.g., Salomons)", "beanies"]
 key_colours: ["Neutral and earth tones (khaki, black, grey, beige)"]
+palette: ["#16181B", "#CCC7BD", "#AAA39A", "#86817B", "#4D4D4B", "#746960"]
 related_aesthetics: ["Gorpcore", "Normcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Naarmcore"
 license: "CC-BY-SA-4.0"

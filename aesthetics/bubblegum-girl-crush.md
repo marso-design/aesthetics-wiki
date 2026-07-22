@@ -3,6 +3,7 @@ name: "Bubblegum Girl Crush"
 slug: "bubblegum-girl-crush"
 decade_of_origin: "2010s"
 key_colours: ["Pastel or bubblegum color palette", "dark + bubblegum colors"]
+palette: ["#9666AF", "#30101C", "#734DA4", "#B77E7A", "#54396C", "#DFB79B"]
 key_values: ["Bold", "bubbly", "vibrate", "confidence"]
 related_aesthetics: ["Girl Crush", "Cyberpop", "Kandi Raver"]
 source_url: "https://aesthetics.fandom.com/wiki/Bubblegum_Girl_Crush"

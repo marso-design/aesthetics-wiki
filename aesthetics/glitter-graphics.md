@@ -1,6 +1,7 @@
 ---
 name: "Glitter Graphics"
 slug: "glitter-graphics"
+palette: ["#9B2528", "#3B2A33", "#537277", "#7C9A99", "#E5E8F4", "#A3BEA9"]
 source_url: "https://aesthetics.fandom.com/wiki/Glitter_Graphics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

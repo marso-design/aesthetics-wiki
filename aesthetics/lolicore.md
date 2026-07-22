@@ -4,6 +4,7 @@ slug: "lolicore"
 decade_of_origin: "2000s"
 key_motifs: ["High-pitched anime samples", "recontextualization of slice-of-life anime", "censorship bars", "gore/blood splatters", "visual noise (\"deep-fried\" images)", "juxtaposition of mundane real-world men with anime girls"]
 key_colours: ["Pastels", "neon", "black", "red"]
+palette: ["#1F264E", "#FFFFCD", "#C2E8EC", "#8D9E87", "#DAB0AB", "#F1D0CB"]
 key_values: ["Satire of otaku culture", "shock value", "ironic detachment", "taboo themes", "internet culture"]
 related_aesthetics: ["Akibapop", "Animecore", "Bubblegum Dance", "Cutecore", "Glitchbreak", "Kawaii", "Maidcore", "Otaku", "OtoMAD", "Weeaboo"]
 primary_platform: ["4chan", "SoundCloud", "YouTube", "Bandcamp"]

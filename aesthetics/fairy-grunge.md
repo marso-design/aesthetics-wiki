@@ -5,6 +5,7 @@ aka: ["Grunge Fairycore", "Grunge Fairy"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Dark clothing", "moss", "crystals", "fairies", "forests"]
 key_colours: ["brown", "black", "green", "earthy tones"]
+palette: ["#968E81", "#54514B", "#181717", "#6B695C", "#3B3430", "#DED6C5"]
 key_values: ["Nature", "escapism", "individualism", "creativity", "rebellion"]
 related_aesthetics: ["Avant Apocalypse", "Cottagecore", "Cyber Grunge", "Fairycore", "FantasY2K", "Female Horror Game Protagonist Fashion", "Goblincore", "Grunge", "Kinderwhore", "Mori Kei", "Mythpunk", "Strega", "Winter Bimbo", "Twilightcore"]
 subgenres: ["Fairy Hippie"]

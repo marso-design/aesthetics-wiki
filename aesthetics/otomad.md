@@ -5,6 +5,7 @@ aka: ["音MAD", "Sound MAD", "Kichiku (China)"]
 decade_of_origin: "Late 2000s"
 key_motifs: ["Visual-audio synchronization", "mirroring/symmetry effects", "pitch-shifted imagery", "kinetic typography", "chroma key compositing"]
 key_colours: ["High saturation", "rainbow", "neon red (Red Zone)"]
+palette: ["#052953", "#F1F2F1", "#357589", "#66B571", "#C2C29B", "#E6D5A7"]
 key_values: ["Technical precision", "collaborative chaos", "remix culture", "absurdity"]
 related_aesthetics: ["Akibapop", "Lolicore", "Major League Gaming", "Surreal Meme"]
 primary_platform: ["Nico Nico Douga", "Bilibili", "YouTube"]

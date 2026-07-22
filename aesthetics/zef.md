@@ -5,6 +5,7 @@ decade_of_origin: "2000s"
 key_motifs: ["DIY fashion", "kitsch", "customized cars", "gold jewelry", "esoteric symbols", "working-class signifiers"]
 key_values: ["Reclaiming stereotypes", "unapologetic attitude", "individuality", "shock value", "anti-establishment irony"]
 related_aesthetics: ["Chav", "Hipness Purgatory", "Juggalo", "Kitsch", "McBling", "Rave"]
+palette: ["#16110F", "#42342D", "#A0938E", "#615A55", "#7C6F67", "#D4D1CF"]
 source_url: "https://aesthetics.fandom.com/wiki/Zef"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -7,6 +7,7 @@ key_motifs: ["Nuclear-based power", "space travel", "hover technology", "bright 
 key_values: ["Endless technological advancement", "pulp comic vibes", "pessimistic views"]
 related_aesthetics: ["Cyberpunk", "Decopunk", "Dieselpunk", "Modernism", "Punk", "Raygun Gothic (polar opposite)", "Retrofuturism", "Rocketpunk", "Space Age", "Atomic Age", "Googie", "Mid-Century Modern"]
 related_media: ["Futurama and Red Dwarf"]
+palette: ["#32252A", "#9BAAA2", "#767A78", "#DC802B", "#3A3D4A", "#65595A"]
 source_url: "https://aesthetics.fandom.com/wiki/Atompunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

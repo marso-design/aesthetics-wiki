@@ -5,6 +5,7 @@ aka: ["Vectorheart Revival"]
 decade_of_origin: "2010s"
 key_motifs: ["Striking vector shapes", "45-/60-degree diagonal lines", "futuristic typography", "monochromatic color palette"]
 key_colours: ["Black", "White (Primary)", "Others (Accents)"]
+palette: ["#000000", "#454545", "#222624", "#686961", "#A8A584", "#EEF859"]
 related_aesthetics: ["Acid Design", "Cyberminimalism", "Cyberpunk", "Hexatron", "Neo-Y2K", "Neubrutalism", "Vectorbloom", "Vectorheart"]
 source_url: "https://aesthetics.fandom.com/wiki/Neo-Vectorheart"
 license: "CC-BY-SA-4.0"

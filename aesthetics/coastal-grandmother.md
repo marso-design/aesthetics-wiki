@@ -5,6 +5,7 @@ aka: ["Coastal Granddaughter"]
 decade_of_origin: "2022"
 key_motifs: ["Linen fabrics", "white wine", "fresh flowers", "coastal decor (wicker, pottery)", "farmers' markets", "beach houses"]
 key_colours: ["White", "cream", "beige", "navy", "sky blue"]
+palette: ["#CBB7A5", "#A4AFC2", "#3E4042", "#D4C7BF", "#515C63", "#736657"]
 key_values: ["Comfort", "simple luxury", "understated elegance", "relaxation", "mature lifestyle"]
 related_aesthetics: ["Après-ski", "Coastal Cowgirl", "Coastal Style", "Eclectic Grandpa", "Grandmillenial", "Grandparentcore", "Nautical", "Preppy"]
 source_url: "https://aesthetics.fandom.com/wiki/Coastal_Grandmother"

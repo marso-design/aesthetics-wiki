@@ -5,6 +5,7 @@ aka: ["Bohemianism", "Boho"]
 decade_of_origin: "19th Century"
 key_motifs: ["Flowing skirts and dresses", "peasant blouses", "natural fabrics (cotton, linen, suede)", "layered jewelry", "embroidery", "fringe", "artistic pursuits"]
 key_colours: ["Earthy tones (brown, terracotta, sand)", "jewel tones (deep red, purple, emerald)"]
+palette: ["#2B593E", "#9D8D77", "#765D55", "#192D25", "#BAA696", "#967265"]
 key_values: ["Artistic expression", "freedom", "non-conformity", "creativity", "anti-materialism", "spiritualism"]
 related_aesthetics: ["Beatnik", "Boho-Chic", "Gutter Punk", "Hippie", "Arts and Crafts Movement", "Pre-Raphaelite", "Romanticism"]
 source_url: "https://aesthetics.fandom.com/wiki/Bohemian"

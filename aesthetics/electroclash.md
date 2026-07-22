@@ -5,6 +5,7 @@ aka: ["Synthcore", "Retro-Electro", "Tech Pop", "Nouveau Disco"]
 decade_of_origin: "Late 1990s–Early 2000s"
 key_motifs: ["Analog synthesizers", "vocoders", "Liquid Sky revival", "retrofuturistic imagery", "DIY fashion", "punk attitude", "irony", "performance art"]
 key_colours: ["Black", "metallic silver", "and bright", "stark neon colors"]
+palette: ["#DA4861", "#000000", "#DA7F87", "#D91055", "#624041", "#C9BAA6"]
 key_values: ["Ironic detachment", "hedonism", "artistic performance", "retrofuturism", "electronic experimentation", "punk attitude"]
 related_aesthetics: ["Bloghouse", "Indie Sleaze", "EBM", "Minimal Wave", "New Romantic", "New Wave", "Recession Pop", "Rave"]
 related_media: ["Liquid Sky (1982 film)"]

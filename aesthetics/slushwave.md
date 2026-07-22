@@ -4,6 +4,7 @@ slug: "slushwave"
 decade_of_origin: "2010s"
 key_motifs: ["Old Japanese media", "deep space and cosmos", "ethereal and celestial landscapes"]
 key_colours: ["White", "dark purple", "blue", "black"]
+palette: ["#13375A", "#06060D", "#7E66CC", "#15192B", "#4F3EA8", "#335D90"]
 key_values: ["Immersion & atmosphere", "diluted perception", "sadness", "nostalgia", "futurism (vague)"]
 related_aesthetics: ["Vaporwave", "Dreampunk", "Mallsoft", "Cyberpunk", "Cybercore", "Webcore", "Y2K Futurism", "Xpiritualism", "Signalwave", "Aliencore (adjacent)", "Lo-fi Art (visuals)"]
 primary_platform: ["Bandcamp", "SoundCloud", "Spotify", "YouTube"]

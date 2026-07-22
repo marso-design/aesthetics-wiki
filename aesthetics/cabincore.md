@@ -4,6 +4,7 @@ slug: "cabincore"
 decade_of_origin: "Early 2020s"
 key_motifs: ["Cabins", "forests", "campfires", "flannels", "hiking", "baking", "hot drinks"]
 key_colours: ["Deep browns", "auburn. Darker shades of red", "maroon", "burgundy", "etc. All shades of green", "white", "burnt orange"]
+palette: ["#2B261E", "#725C40", "#504B37", "#0D0F09", "#978D60", "#777354"]
 key_values: ["Getting away from it all.", "Closeness and appreciation to nature", "all while sitting back", "observing", "and reflecting on life."]
 related_aesthetics: ["Adventurecore", "Après-ski", "Campcore", "Comfy/Cozy", "Cottagecore", "Dark Academia", "Gorpcore", "Northerness", "Forestpunk", "Goblincore", "Naturecore"]
 source_url: "https://aesthetics.fandom.com/wiki/Cabincore"

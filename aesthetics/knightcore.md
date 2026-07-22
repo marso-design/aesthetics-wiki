@@ -2,6 +2,7 @@
 name: "Knightcore"
 slug: "knightcore"
 key_colours: ["Silver", "brown", "red", "royal blue", "dark green"]
+palette: ["#1B211C", "#525746", "#B9C1C4", "#879291", "#A87057", "#9D513D"]
 key_values: ["Chivalry", "faith", "patriotism", "courage", "honesty", "loyalty", "generosity", "justice"]
 related_aesthetics: ["Bardcore", "Dark Fantasy", "Fantasy", "Medieval", "Medievalcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Knightcore"

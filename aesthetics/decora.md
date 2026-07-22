@@ -5,6 +5,7 @@ aka: ["Decora Kei"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Excessive layering of accessories (particularly hair clips)", "face stickers (plasters)", "bright primary colors", "plastic toys", "child-like motifs", "layered socks", "tutus", "surgical masks"]
 key_colours: ["Rainbow palette (all bright/neon primary colors)", "Pink", "yellow", "blue", "Black (for Dark Decora)", "Pastel rainbow palette"]
+palette: ["#282C36", "#607172", "#8F837E", "#F2F4F9", "#CAD5CC", "#C1B0A3"]
 key_values: ["Child-like innocence", "anti-fashion (rejection of high fashion)", "maximalism", "playfulness", "energy", "non-conformity"]
 related_aesthetics: ["Candycore", "Cyberpop", "Dopamine", "Fairy Kei", "Harajuku Fashion", "Kandi Raver", "Kidcore", "Oshare Kei", "Poppare", "Uchuu Kei", "Yabi"]
 subgenres: ["Dark decora", "Hadeko", "monochromatic", "duelcora", "Fairy-kei", "Decora Lolita", "Oshi Decora", "Cyber decora", "pink decora"]

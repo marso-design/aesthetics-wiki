@@ -4,6 +4,7 @@ slug: "busukawaii"
 aka: ["Busukawa", "Ugly Cute", "Kimokawaii"]
 decade_of_origin: "2000s"
 key_colours: ["Primary and pastel colors"]
+palette: ["#3E0F2C", "#7B563B", "#714D5C", "#C27457", "#A4634D", "#533832"]
 related_aesthetics: ["Kawaii", "Gurokawa", "Internet Awesomesauce", "Weirdcore", "Wholesome Meme"]
 source_url: "https://aesthetics.fandom.com/wiki/Busukawaii"
 license: "CC-BY-SA-4.0"

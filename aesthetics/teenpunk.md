@@ -5,6 +5,7 @@ aka: ["Punk Princess"]
 decade_of_origin: "Late 1990s-Early 2010s"
 key_motifs: ["Skulls", "checkerboard patterns", "stars", "fishnets", "neon hair extensions", "composition notebooks", "Vans sneakers", "guitars", "hearts", "graffiti/paint splatters"]
 key_colours: ["Black", "pink", "white", "red"]
+palette: ["#40333C", "#B89F94", "#090810", "#EDEFEE", "#1A1825", "#7A4D54"]
 key_values: ["Rebellion", "nostalgia", "commercialized edginess", "angst", "playful non-conformity"]
 related_aesthetics: ["Emo", "Glitter Graphics", "Mallgoth", "Parisian Girly", "Punk", "Scene", "Skater", "Tweencore", "Vectordelia"]
 source_url: "https://aesthetics.fandom.com/wiki/Teenpunk"

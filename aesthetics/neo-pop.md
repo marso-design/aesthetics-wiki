@@ -5,6 +5,7 @@ aka: ["New Pop"]
 decade_of_origin: "1980s"
 key_motifs: ["Everyday objects", "kitsch", "celebrity icons", "cartoon characters", "consumer goods", "appropriation", "balloon animals"]
 key_colours: ["Bright", "saturated", "commercial colors"]
+palette: ["#1D131D", "#3B373E", "#CA9167", "#72888C", "#B85F51", "#A52D31"]
 key_values: ["Appropriation", "critique of consumerism", "embracing banality", "blurring lines between high art and mass culture"]
 related_aesthetics: ["Dadaism", "Global Village Coffeehouse", "Minimalism", "Pop Art", "Superflat", "Lowbrow"]
 source_url: "https://aesthetics.fandom.com/wiki/Neo-Pop"

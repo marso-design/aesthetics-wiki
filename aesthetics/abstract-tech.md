@@ -5,6 +5,7 @@ aka: ["Abstract Futuristic", "Cyber", "Digital", "High-Tech", "Sci-Fi Interface"
 decade_of_origin: "c. 1990s-2000s"
 key_motifs: ["glowing lines", "concentric arcs/circles", "hexagons", "circuits", "binary code", "connected dots", "robotics"]
 key_colours: ["blue", "black", "white"]
+palette: ["#0C5E87", "#010C20", "#063554", "#2E8AAE", "#37668F", "#83A2B8"]
 key_values: ["technological advancement", "digital transformation", "connectivity"]
 related_aesthetics: ["★Subgenres", "DORFic", "Hexatron", "Related aesthetics", "Cyberprep", "Cyberpunk", "Dark Aero", "Frutiger Aero", "Frutiger Eco", "Glassmorphism", "Med-Tech Visions", "Metalheart", "Robotcore", "Skeuomorphism", "TechnoNeko2000", "Vectorheart", "Y2K Futurism"]
 related_media: ["Minority Report", "Iron Man (MCU)", "TRON: Legacy", "other Digital Age sci-fi", "technology stock images"]

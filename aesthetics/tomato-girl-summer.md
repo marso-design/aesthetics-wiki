@@ -5,6 +5,7 @@ aka: ["Tomato Girl"]
 decade_of_origin: "2020s"
 key_motifs: ["Sun-drenched landscapes", "red linen", "Mediterranean cuisine", "straw bags", "silk headscarves", "espadrilles", "al fresco dining"]
 key_colours: ["Tomato red", "white", "cream", "olive green", "cerulean blue"]
+palette: ["#1D1711", "#EFF0F5", "#323E3A", "#616247", "#609197", "#B7A08A"]
 key_values: ["Escapism", "romanticization", "\"Glocal\" tourism", "curated leisure"]
 related_aesthetics: ["Coastal Grandmother", "Picniccore", "Strawberry Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Tomato_Girl_Summer"

@@ -5,6 +5,7 @@ aka: ["Welwitschia Emo", "Facebook Alt", "Whimsical Emo"]
 decade_of_origin: "Late 1990s–Early 2000s"
 key_motifs: ["Cracked dolls", "butterflies", "bows", "stitches", "blood", "decayed forests", "grunge filters", "plaid/stripes"]
 key_colours: ["Black", "red", "deep purple", "pink (for morbid innocence contrast)"]
+palette: ["#1C0607", "#493F4A", "#80727E", "#450507", "#28252A", "#E1E0E8"]
 key_values: ["Morbid innocence", "angst", "sadness", "tragic beauty"]
 related_aesthetics: ["Dark Fantasy", "Emo", "Glitter Graphics", "Gothic Lolita", "Gurokawa", "Mallgoth", "Morute", "Whimsigothic"]
 primary_platform: ["DeviantArt", "MySpace", "Facebook"]

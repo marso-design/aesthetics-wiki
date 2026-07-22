@@ -5,6 +5,7 @@ aka: ["Tavernwave"]
 decade_of_origin: "2020s"
 key_motifs: ["Medieval music instruments (lutes, harps, flutes, drums); Old English or archaic lyrical adaptations; imagery of medieval fantasy; peasant or historical garb in visual contexts; humorous anachronism"]
 key_colours: ["Muted yellows", "blues", "reds", "neutrals; earthy tones often with a sepia-like visual filter for associated imagery"]
+palette: ["#1C1312", "#DEC7A2", "#EEDDBE", "#9A8168", "#4F2B21", "#B4A68E"]
 key_values: ["Humor", "nostalgia for a fictionalized past", "escapism", "creative reinterpretation", "online community engagement"]
 related_aesthetics: ["Dragoncore", "Dungeonpunk", "Fantasy", "Knightcore", "Medieval", "Medieval Fantasy"]
 related_media: ["The Witcher (Jaskier)", "Dungeons & Dragons (Bard class)", "medieval fantasy literature and media"]

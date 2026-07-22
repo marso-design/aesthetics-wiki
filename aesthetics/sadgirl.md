@@ -5,6 +5,7 @@ aka: ["Sad Girl"]
 decade_of_origin: "2010s"
 key_motifs: ["Runny mascara", "rainy weather", "black tights", "cigarettes", "introspective quotes (Plath, Poe)", "tragic female figures (Ophelia, Juliet)", "VHS filters", "sad faces", "self-deprecating text"]
 key_colours: ["Predominantly desaturated and monochromatic (black, gray, dull blue)", "with occasional stark contrast (dull reds, black eyeliner)"]
+palette: ["#000000", "#585955", "#AAA49F", "#232725", "#333938"]
 key_values: ["Self-expression", "emotional vulnerability", "romanticization of sadness", "finding beauty in pain", "validation", "anti-perfectionism"]
 related_aesthetics: ["E-Girl", "Emo Rap", "Euphoric", "Pastel Grunge", "Sadboi (counterpart)", "Soft Grunge", "Waif"]
 primary_platform: ["Tumblr", "Instagram", "TikTok (revival)"]

@@ -3,6 +3,7 @@ name: "Chunyu"
 slug: "chunyu"
 decade_of_origin: "Early 2020"
 related_aesthetics: ["Asian Baby Girl", "Coquette"]
+palette: ["#191111", "#9F8076", "#D6BDB5", "#786D66", "#CAAB9F", "#A6958D"]
 source_url: "https://aesthetics.fandom.com/wiki/Chunyu"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

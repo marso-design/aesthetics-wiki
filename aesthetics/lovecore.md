@@ -5,6 +5,7 @@ aka: ["Heartcore", "Crushcore", "Cupidcore", "Valentinecore"]
 decade_of_origin: "2010s"
 key_motifs: ["Hearts", "love letters", "kisses", "bouquets", "cherubs", "Valentine's Day cards", "lipstick prints"]
 key_colours: ["Red", "pink", "white"]
+palette: ["#E1ADBB", "#9A0100", "#DF90A9", "#EEC7D5", "#C76D79", "#BB8596"]
 key_values: ["Romantic love", "affection", "sweetness", "nostalgia", "positivity"]
 related_aesthetics: ["Angelcore", "Coquette", "Cottagecore", "Dollette", "Kawaii", "Larme Kei", "Pridecore", "Rococo", "Romantic Academia", "Sanriocore"]
 primary_platform: ["Tumblr", "TikTok", "Pinterest"]

@@ -5,6 +5,7 @@ aka: ["Kinki", "Kinky"]
 decade_of_origin: "1970s - 1980s"
 key_motifs: ["Low-rise flared jeans", "open-chested shirts", "leather jackets", "high-top sneakers", "Seat 124 or 1430 cars", "cassette tapes"]
 key_colours: ["Denim blue", "black", "white", "earthy tones"]
+palette: ["#2B2A27", "#110D0B", "#414238", "#78776D", "#B6B6B1", "#8696A0"]
 key_values: ["Survival", "\"living fast", "\" delinquency as rebellion", "loyalty to the neighborhood (el barrio)"]
 related_aesthetics: ["Cani", "Choni", "MDLR", "Movida Madrileña (contrast)", "Raxet"]
 related_media: ["Navajeros", "El Pico", "Deprisa", "Yo", "el Vaquilla"]

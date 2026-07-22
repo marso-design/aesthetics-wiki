@@ -5,6 +5,7 @@ aka: ["Komunizm Nostalgia", "Polish People's Republic Nostalgia"]
 decade_of_origin: "Post-1989 (as nostalgia/aesthetic)"
 key_motifs: ["Warm ice cream (Lody na ciepło)", "zapiekanka (open-face sandwich)", "Polo-Cockta (soft drink)", "Junak motorcycles", "Trabant cars", "communist-era public interior design (pubs, cultural centers)", "Socialist Realist kitsch"]
 key_colours: ["Muted pastels", "grey", "red (as accent)", "communist-era branding colors"]
+palette: ["#B2100C", "#778185", "#7F1107", "#A4999B", "#A7B1B4", "#CCD2D3"]
 key_values: ["Social solidarity", "perceived economic stability", "lost authenticity", "collective memory"]
 related_aesthetics: ["Ostalgie", "Soviet Nostalgia", "Yugo-Nostalgia"]
 primary_platform: ["Nostalgia Industry (rebranded products)", "Socialist Vintage Pubs", "Museums dedicated to the Polish People's Republic"]

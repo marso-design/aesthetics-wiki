@@ -4,6 +4,7 @@ slug: "maidcore"
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Nijiura Maids (including OCs)", "anime/otaku art style", "glitch effects", "pseudonyms", "lo-fi production"]
 key_colours: ["Dark", "moody palettes (black, grey, muted colors) with digital or neon accents"]
+palette: ["#1A0A11", "#010001", "#3A3532", "#FFFFFF", "#69606A", "#252222"]
 key_values: ["Anonymity", "emotional expression (depressive-aggressive)", "experimentation", "online community"]
 related_aesthetics: ["Glitchbreak", "Lolicore", "Maid", "Witch House"]
 source_url: "https://aesthetics.fandom.com/wiki/Maidcore"

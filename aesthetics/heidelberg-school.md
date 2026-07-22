@@ -5,6 +5,7 @@ aka: ["Australian Impressionism"]
 decade_of_origin: "1880s"
 key_motifs: ["\"En Plein Air settings\"", "display of humid rural environments", "peoples' interaction with nature and the country", "simple daily life in Australia", "loose and rapid brushstrokes", "bright colours and shading", "landscape composition"]
 key_colours: ["Warm muted colours such as golden yellows", "ochre yellows and oranges", "deep brownish reds", "light mossy yellow green shades", "muted blue palettes"]
+palette: ["#585844", "#3D332A", "#937F5D", "#846C4A", "#B3A987"]
 key_values: ["Authenticity of life", "Australian nationalism", "appreciation for rural environments", "romanticised viewpoints of living in the country"]
 related_aesthetics: ["Impressionism", "Barbizon School"]
 source_url: "https://aesthetics.fandom.com/wiki/Heidelberg_School"

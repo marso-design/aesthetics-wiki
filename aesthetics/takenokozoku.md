@@ -5,6 +5,7 @@ aka: ["Bamboo Shoot Tribe"]
 decade_of_origin: "Mid-1970s"
 key_motifs: ["Harem pants", "loose-fitting jumpsuits", "ribbons", "bows", "fringe"]
 key_colours: ["Vivid colors", "including red", "pink", "violet", "and other bright shades"]
+palette: ["#100D14", "#717E8A", "#535568", "#222B3E", "#B1BBB5", "#E9E9E2"]
 key_values: ["Individualism", "group identity", "freedom of expression"]
 related_aesthetics: ["Gyaru"]
 source_url: "https://aesthetics.fandom.com/wiki/Takenokozoku"

@@ -5,6 +5,7 @@ aka: ["Bubblegum Eurodance"]
 decade_of_origin: "1990s"
 key_motifs: ["Plastic textures", "high-saturation color palettes", "cartoons", "CGI mascots", "Euro-futurism", "childhood toys", "space travel"]
 key_colours: ["Neon pink", "electric blue", "lime green", "bright orange", "silver"]
+palette: ["#14191E", "#F1F6F7", "#E6BAB7", "#29A0CD", "#336FA1", "#AC7275"]
 key_values: ["Escapism", "irony", "playfulness", "artificiality", "nostalgia"]
 related_aesthetics: ["Akibapop", "Bubbleglam", "Club Kids", "Kandi Raver", "McBling", "Rave", "Silicon Dreams", "Y2K Futurism"]
 related_media: ["Dance Dance Revolution", "Dancemania", "\"Butterfly\" Toy Phones", "Aqua's \"Barbie Girl\" Video", "Bubblegum Dancer (forum)"]

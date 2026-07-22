@@ -3,6 +3,7 @@ name: "Scene Tween"
 slug: "scene-tween"
 decade_of_origin: "2010s"
 key_colours: ["Black", "green", "blue", "pink", "rainbow", "purple"]
+palette: ["#494854", "#311921", "#638479", "#B32D46", "#755087", "#CA556D"]
 related_aesthetics: ["Scene", "Kidcore", "McBling", "Tweencore", "Internet Awesomesauce", "Cyber Stylin'", "Groovival", "Nostalgiacore"]
 source_url: "https://aesthetics.fandom.com/wiki/Scene_Tween"
 license: "CC-BY-SA-4.0"

@@ -5,6 +5,7 @@ aka: ["Dunhuang (style)"]
 decade_of_origin: "4th century"
 key_motifs: ["Feitian", "zaojing", "Buddhas", "Bodhisattvas", "narrative mural", "landscape"]
 key_colours: ["Vivid saturated mineral colors"]
+palette: ["#5D4A46", "#181618", "#677370", "#3A3A44", "#879792", "#CAB19D"]
 key_values: ["Buddhism"]
 related_aesthetics: ["Guochao", "Wei and Jin Dynasties", "Tang Dynasty", "Song Dynasty", "Yuan Dynasty"]
 source_url: "https://aesthetics.fandom.com/wiki/Dunhuang_Feng"

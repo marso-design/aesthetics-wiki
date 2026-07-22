@@ -4,6 +4,7 @@ slug: "skinhead"
 decade_of_origin: "1960s"
 key_motifs: ["Shaved or closely cropped hair", "Doc Martens boots", "braces (suspenders)", "button-down shirts (Ben Sherman, Fred Perry)", "straight-leg jeans or trousers (Levi's 501, Sta-Prest)", "bomber jackets", "Harrington jackets"]
 key_colours: ["Often solid", "working-class colours: black", "oxblood", "navy", "white", "grey", "sometimes with tartan or check patterns"]
+palette: ["#090909", "#424141", "#212121", "#707070", "#555555", "#C6C6C6"]
 key_values: ["Working-class identity", "rebellion against counterculture", "sometimes associated with territorialism and football subcultures; diverse political affiliations emerged later"]
 related_aesthetics: ["2 Tone", "Mod", "Punk", "Reggae", "Rude Boy", "Teddy Boys"]
 subgenres: ["Gay Skinheads (LGBTQ+)", "Redskin (anti-fascist)", "SHARP (anti-racist)", "Suedehead (evolution)", "Trojan Skinhead (original)", "White Power Skinhead (racist)"]

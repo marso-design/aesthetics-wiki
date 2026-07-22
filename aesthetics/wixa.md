@@ -5,6 +5,7 @@ aka: ["Vixa", "Wiksa", "Wixapol", "Polish Neo-Gabber", "Vixa Pixa"]
 decade_of_origin: "Late 1990s (Original); 2010s (Revival)"
 key_motifs: ["Tracksuits", "workwear", "tribal tattoos", "glowsticks", "Polish internet memes", "satirical national/religious imagery (e.g., Pope John Paul II)", "Dresiarz culture"]
 key_colours: ["Black", "white", "and yellow", "often with neon accents"]
+palette: ["#191614", "#36342E", "#607366", "#A4917F", "#F4EFE6", "#BDB6A5"]
 key_values: ["Irreverence", "irony", "anti-purism", "hedonism", "high-energy clubbing", "satirical social commentary"]
 related_aesthetics: ["Cybersigilism", "Dresiarz", "Gabber", "Hands Up", "Rave", "Ultras", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Wixa"

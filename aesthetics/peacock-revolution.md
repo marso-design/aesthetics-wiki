@@ -5,6 +5,7 @@ aka: ["Swinging London", "Freakbeat", "Soft Mod", "Peacock Mod", "Smooth Mod", "
 decade_of_origin: "Mid 1960s"
 key_motifs: ["Feminine male fashion", "tight silhouettes", "bright patterns", "long hair", "makeup", "unconventional textiles (corduroy, paisley, brocade, etc.)", "bright colours", "vivid patterns", "embroidery", "slim fits", "large lapels", "cravats", "Nehru jackets", "frilly shirts", "kipper ties", "flared pants"]
 key_colours: ["All (mostly bright and vivid)"]
+palette: ["#868388", "#9BA4A7", "#060A0B", "#BDB4AB", "#CCCDC4", "#76A3B2"]
 key_values: ["Modernity", "hedonism", "sexual liberation", "breaking gender fashion norms"]
 related_aesthetics: ["Acid Design", "Acid House", "Art Nouveau", "Beatnik", "Bohemian", "Camp", "Cool Britannia", "Corporate Hippie", "Dandy", "Dolly Girl", "Flower Power", "Freakbeat", "Glam Rock", "Groovival", "Hippie", "Mid-Century Medieval", "Mod", "Northern Soul", "Pop Art", "Psychedelia", "Romanticism", "Vintage", "Yé-yé"]
 related_media: ["60s British Invasion and psychedelic rock bands"]

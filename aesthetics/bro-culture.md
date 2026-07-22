@@ -6,6 +6,7 @@ key_motifs: ["Greek letters", "man caves", "sports attire", "working out", "Mons
 key_values: ["Fraternity culture", "masculinity", "elitism/narcissism", "status", "the collegiate life"]
 related_aesthetics: ["Chav", "Country", "Guido", "Lad Culture", "Normcore", "Bro Hoe", "Olderbrothercore"]
 related_media: ["Animal House", "The Man Show", "Sports", "ESPN", "r/Kyle", "The Fast and the Furious"]
+palette: ["#A8BAC1", "#553C41", "#2A242E", "#18101D", "#7C7778", "#87564A"]
 source_url: "https://aesthetics.fandom.com/wiki/Bro_Culture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

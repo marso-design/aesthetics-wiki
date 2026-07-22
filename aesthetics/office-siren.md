@@ -5,6 +5,7 @@ aka: ["Bayonettacore", "Corpcore", "Corporate Girlie"]
 decade_of_origin: "2020s"
 key_motifs: ["Rectangular glasses (\"Bayonetta glasses\")", "pencil skirts", "tailored button-downs", "stilettos", "sleek hair", "form-fitting silhouettes"]
 key_colours: ["Grey", "black", "brown", "cream", "muted neutrals", "with red accents"]
+palette: ["#090504", "#D4C4B3", "#1D1C1C", "#807976", "#B9A397", "#FCFCFA"]
 key_values: ["Ambition", "confidence", "mystery", "sensuality", "professionalism", "power"]
 related_aesthetics: ["Corpcore", "Corporate Goth", "Dark Academia", "Femme Fatale", "Geek Chic", "Minimalism", "Power Dressing", "Yuppie"]
 primary_platform: ["TikTok"]

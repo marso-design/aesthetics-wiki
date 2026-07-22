@@ -5,6 +5,7 @@ aka: ["Libby Lu Kid", "Tween Diva"]
 decade_of_origin: "1990s"
 key_motifs: ["Ornate", "playful", "frilly designs", "pop culture references", "\"Diva\" motifs"]
 key_colours: ["Pink", "purple", "violet", "baby pink"]
+palette: ["#FFFDFC", "#BC4456", "#5C3747", "#956371", "#D3C8BB", "#9C93A3"]
 related_aesthetics: ["Barbiecore", "Cyber Stylin'", "Kidcore", "Global Village Coffeehouse", "McBling", "Parisian Girly", "Groovival", "Scene Tween", "Shoe Diva", "Tweencore", "Wacky Pomo"]
 source_url: "https://aesthetics.fandom.com/wiki/Curly_Girly"
 license: "CC-BY-SA-4.0"

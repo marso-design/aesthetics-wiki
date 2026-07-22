@@ -5,6 +5,7 @@ aka: ["Chavvy", "Chavette", "Charver"]
 decade_of_origin: "Late 1990s–Early 2000s"
 key_motifs: ["Branded sportswear", "tracksuits", "baseball caps", "puffer jackets", "large gold jewelry (hoop earrings, chains)", "specific designer patterns (e.g., Burberry check)"]
 key_colours: ["Varies", "often white", "black", "grey", "with accents from sportswear brands"]
+palette: ["#493025", "#B4A09B", "#12100F", "#7B2C20", "#2A241E", "#93756D"]
 key_values: ["Working-class youth culture", "brand aspiration", "consumerism", "street style"]
 related_aesthetics: ["Blokecore", "Casuals", "Lad Culture", "McBling", "Roadman", "Ultras"]
 source_url: "https://aesthetics.fandom.com/wiki/Chav"

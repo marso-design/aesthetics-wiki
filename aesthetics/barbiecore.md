@@ -3,6 +3,7 @@ name: "Barbiecore"
 slug: "barbiecore"
 decade_of_origin: "2020s (with roots in early 2000s McBling fashion)"
 key_colours: ["Holographic", "hot pink", "lavender", "pastel pink", "violet"]
+palette: ["#927AA4", "#642938", "#E662A8", "#BE627A", "#856181", "#D090A8"]
 key_values: ["Beauty", "self care", "fashion", "female friendship"]
 related_aesthetics: ["Bimbocore", "Bubblegum Bitch", "Coconut Girl", "Curly Girly", "Living Doll", "McBling"]
 related_media: ["Barbie", "Disney tween shows", "Nickelodeon tween shows", "Bratz", "MyScene"]

@@ -5,6 +5,7 @@ aka: ["Dark Fusion Belly Dance", "Tribal Goth"]
 decade_of_origin: "1990s"
 key_motifs: ["Belly dance costuming", "dreadlocks", "piercings", "tribal tattoos", "natural materials (bone, wood, stone)", "skulls", "lace"]
 key_colours: ["Black", "dark earth tones", "deep reds", "purple"]
+palette: ["#383B38", "#020102", "#1F1D1E", "#65493E", "#A5A09B", "#6A7370"]
 key_values: ["Artistic expression", "fusion", "dance", "primal energy", "community"]
 related_aesthetics: ["Ethnogoth", "Goth", "Hippie Goth", "Steampunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Gothic_Belly_Dance"

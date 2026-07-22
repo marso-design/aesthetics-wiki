@@ -5,6 +5,7 @@ aka: ["Trill Era", "Swag Era"]
 decade_of_origin: "Late 2000s"
 key_motifs: ["90s Memphis tape aesthetics", "Pen & Pixel art", "purple tint (\"leaned out\")", "retro video games (N64/PS1)", "VHS degradation", "angel statues", "Fiji Water", "marijuana", "gold teeth (grills)"]
 key_colours: ["Black", "purple", "gold", "white"]
+palette: ["#140708", "#CBB1BA", "#D6D3D0", "#5E6875", "#6E909C", "#262D37"]
 related_aesthetics: ["Cloud Rap", "Draincore", "Emo Rap", "Frutiger Aero", "Glitch Art", "Hip-Hop", "Horrorcore", "Lo-fi Art", "Meme Rap", "Nerdcore", "Old Web", "Pen & Pixel", "Phonk", "Sadboi", "Seapunk", "Slimepunk", "Swag", "Trap Metal", "Vaporwave", "Webcore", "Witch House", "Xpiritualism", "Y2K Futurism"]
 primary_platform: ["SoundCloud", "Bandcamp"]
 source_url: "https://aesthetics.fandom.com/wiki/Trillwave"

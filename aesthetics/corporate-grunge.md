@@ -5,6 +5,7 @@ aka: ["Grunge™", "Neugrunge"]
 decade_of_origin: "1990s"
 key_motifs: ["Rough textures", "typewriter fonts", "distressed font", "label makers", "grainy overlays", "industrial decay", "collage imagery", "glitch & VHS artifacts"]
 key_colours: ["Soot black", "paper beige", "sepia brown", "muddy earth tones"]
+palette: ["#73361B", "#DEDDD3", "#170B08", "#2E241F", "#C5B38F", "#A45D3A"]
 key_values: ["Controlled rebellion", "dilution", "anti-consumerist aesthetic"]
 related_aesthetics: ["Corporate Gen-X Cyber", "Early Cyber", "Cyberpunk", "Gen X Soft Club", "Grunge", "Industrial", "Sepia Blur", "Teenpunk", "UrBling", "Horror-Grunge", "Metalheart", "Cyberdelic", "Raver", "Rivethead", "Mission School", "Nu-Metal", "Y2K Futurism", "Alternative", "Memphis Design"]
 subgenres: ["Early Cyber", "<big>'''Corporate Gen-X Cyber", "Grunge", "Sepia Blur", "Cyberdelic'''</big>"]

@@ -5,6 +5,7 @@ aka: ["ABG", "Asian Baby Gangster"]
 decade_of_origin: "1990s"
 key_motifs: ["Raves", "parties", "boba", "tattoos", "dyed hair", "nightlife"]
 key_colours: ["Black"]
+palette: ["#907C74", "#BFA89E", "#010102", "#291C23", "#E2C8B8", "#534D57"]
 key_values: ["Rebellion against stereotypes", "individuality", "femininity", "freedom"]
 related_aesthetics: ["Baddie", "Femme Fatale", "Sukeban"]
 source_url: "https://aesthetics.fandom.com/wiki/Asian_Baby_Girl"

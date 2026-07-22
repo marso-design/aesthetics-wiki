@@ -4,6 +4,7 @@ slug: "pop-art"
 decade_of_origin: "1950s"
 key_motifs: ["Consumer goods", "mass media imagery", "celebrity portraits", "comics", "bold lines", "Ben-Day dots", "commercial art techniques"]
 key_colours: ["Saturated primary and secondary colors"]
+palette: ["#F9ED20", "#D0A099", "#65AD86", "#2D1619", "#7A706C", "#DA193F"]
 key_values: ["Critique and celebration of consumerism", "mass culture", "anti-elitism", "humor", "irony", "rejecting abstract expressionism"]
 related_aesthetics: ["Catholic Kitsch", "Chicha", "Figuration Narrative", "Internet Awesomesauce", "Lowbrow", "Neo-Pop", "Nouveau Réalisme", "Radical Design", "Shibuya-Kei", "Sots Art", "Superflat", "Toyism"]
 source_url: "https://aesthetics.fandom.com/wiki/Pop_Art"

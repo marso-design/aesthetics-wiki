@@ -4,6 +4,7 @@ slug: "heroin-chic"
 decade_of_origin: "Early 1990s"
 key_motifs: ["Pale skin", "dark circles", "stringy hair", "thinness", "androgyny"]
 key_colours: ["Black", "white", "red"]
+palette: ["#060707", "#3A3A3B", "#FDFDFD", "#B7B7B6", "#818381", "#9C9E9C"]
 key_values: ["Nihilism", "rebellion", "unhealthy beauty standards"]
 related_aesthetics: ["Coquette", "Grunge", "Kinderwhore", "Lobotomy Chic", "Pastel Grunge", "Poverty Chic", "Slavic Doll", "Succubus Chic", "Waif"]
 related_media: ["Calvin Klein's Obsession campaign"]

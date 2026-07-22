@@ -4,6 +4,7 @@ slug: "beach-goth"
 aka: ["Aloha Goth", "Surf Goth"]
 key_motifs: ["Skulls and bones", "bats"]
 key_colours: ["Black", "white"]
+palette: ["#242227", "#A19B98", "#595257", "#3F3D44", "#B2AEAA", "#817B7A"]
 related_aesthetics: ["Goth", "Summer Aesthetic", "Tropicalcore"]
 primary_platform: ["TikTok", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Beach_Goth"

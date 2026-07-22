@@ -5,6 +5,7 @@ aka: ["Landevejens Farende Svende", "Stodder", "Knights of the Road"]
 decade_of_origin: "Early 20th Century"
 key_motifs: ["Modified prams (barnevogn)", "heavily pinned vests", "corduroy clothing", "wide-brimmed hats", "wooden walking sticks", "companion dogs", "beer crates", "tents"]
 key_colours: ["Earth tones", "faded black", "denim blue", "brass (pins/medals)"]
+palette: ["#60371B", "#38271C", "#6C553D", "#A08761", "#8B5E35", "#9A1009"]
 key_values: ["Autonomy", "hierarchy", "anti-materialism", "communal loyalty", "rejection of social safety nets"]
 related_aesthetics: ["Bohemian", "Crust Punk", "Gutter Punk"]
 related_media: ["Landevejsriddere og glade musikanter (1972 DR Documentary); Hus Forbi (Newspaper)"]

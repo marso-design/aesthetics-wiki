@@ -5,6 +5,7 @@ aka: ["Butcher House Aesthetic", "Rural Horrorcore", "Sematarycore"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["True Religion jeans (\"Trueys\")", "New Rock boots", "chainsaws", "taxidermy", "deep-fried rural landscapes", "\"Harold\" (the scarecrow logo)", "box cutters", "Realtree camouflage"]
 key_colours: ["Deep fried orange", "blood red", "black", "forest green"]
+palette: ["#371E23", "#030102", "#4D4145", "#796A6B", "#73484B", "#B89176"]
 key_values: ["Rural isolation", "misanthropy", "\"mythologizing the mundane", "\" DIY ethos", "occultism"]
 related_aesthetics: ["Black Metal", "Chicago Drill", "Deep Fried Meme", "Folk Horror", "Goreweb", "Horrorcore", "Keller Synth", "Opium", "Pen & Pixel", "Post-Grunge Maximalism", "Trap Metal", "Witch House", "Vintage Americana"]
 source_url: "https://aesthetics.fandom.com/wiki/Haunted_Mound"

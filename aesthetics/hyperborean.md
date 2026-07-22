@@ -7,6 +7,7 @@ key_motifs: ["Classical statuary", "Nordic warriors", "esoteric symbols (Black S
 key_values: ["Far-right ideologies", "esoteric Nazism", "anti-immigration sentiments", "traditionalism (often presented through a lens of irony and memetic chaos)"]
 related_aesthetics: ["Dark Triad", "Doomer", "Epunk", "Fashwave", "Political 'Wave' Aesthetics"]
 primary_platform: ["4chan", "Discord", "TikTok"]
+palette: ["#000001", "#070626", "#4D6B8F", "#909AB5", "#ADC2D2", "#F5FBFC"]
 source_url: "https://aesthetics.fandom.com/wiki/Hyperborean"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

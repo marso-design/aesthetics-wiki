@@ -6,6 +6,7 @@ decade_of_origin: "Early 1980s"
 key_motifs: ["The \"X\" symbol", "athletic apparel", "band logos", "clean-cut appearance", "military-style haircuts"]
 key_values: ["Abstinence (from alcohol, drugs, tobacco)", "self-control", "clarity", "rebellion against hedonism"]
 related_aesthetics: ["Jock", "Punk", "Skater"]
+palette: ["#000000", "#E4DBC9", "#FFFFFF", "#A88E87", "#2B2A27", "#B6B3B4"]
 source_url: "https://aesthetics.fandom.com/wiki/Straight_Edge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

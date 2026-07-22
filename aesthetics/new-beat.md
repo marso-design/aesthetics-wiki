@@ -5,6 +5,7 @@ aka: ["Belgian New Beat"]
 decade_of_origin: "Late 1980s (1987–1989)"
 key_motifs: ["Smiley faces", "Bomma badges (gravestone portraits)", "cycling shorts", "BDSM-inspired gear", "religious iconography (crosses)", "BOY London branding", "car logos (Volkswagen, Mercedes-Benz)"]
 key_colours: ["Black", "often with accents of yellow and red"]
+palette: ["#282626", "#564348", "#141412", "#C4BEBB", "#6D6767", "#F1EFEA"]
 key_values: ["Hedonism", "experimentation", "underground club culture", "androgyny", "dark humor"]
 related_aesthetics: ["Acid House", "Electronic Body Music", "Rave", "Gabber", "New Wave"]
 related_media: ["The Sound of Belgium (2012 documentary)", "Mortal Kombat (for the \"Techno Syndrome\" soundtrack)"]

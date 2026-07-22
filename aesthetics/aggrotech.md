@@ -5,6 +5,7 @@ aka: ["Harsh EBM", "Terror EBM", "Hellektro", "Endzeit Elektro"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Gas masks", "biohazard symbols", "tactical gear", "body horror", "heavy machinery", "aggressive synthesizers"]
 key_colours: ["Neon green", "acid yellow", "blood red", "black"]
+palette: ["#08070A", "#CCCED8", "#201816", "#5A616D", "#A4978A", "#3F2D27"]
 key_values: ["Misanthropy", "apocalypticism", "techno-nihilism"]
 related_aesthetics: ["Cybergoth", "Cyberpunk", "Electronic Body Music", "Industrial", "Post-Apocalyptic"]
 source_url: "https://aesthetics.fandom.com/wiki/Aggrotech"

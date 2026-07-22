@@ -4,6 +4,7 @@ slug: "junglecore"
 decade_of_origin: "2020s, unknown"
 key_motifs: ["Tropical plants and flowers", "big swaying leafy trees", "waterfalls", "mystery", "photography", "jungle animals", "ruins"]
 key_colours: ["Green", "jungle-green", "jade", "bold colors", "natural tones like khaki and olive"]
+palette: ["#1D2F23", "#334530", "#546548", "#35623D", "#898F70", "#CFD2B7"]
 key_values: ["Connection with the Earth", "calmness", "adventuress", "being bold", "or down-to-earth", "wildlife preservation", "environmental protection", "natural philosophy and conservation", "ecotourism", "spiritual"]
 related_aesthetics: ["Summer", "Tropical", "Natural Philosophy", "Naturecore", "Adventurecore", "Earthcore", "Bohemian", "Forestpunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Junglecore"

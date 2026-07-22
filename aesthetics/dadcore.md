@@ -5,6 +5,7 @@ aka: ["Divorced Dadcore", "Adam Sandler Style"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Stonewashed denim", "jorts", "chunky sneakers", "promotional t-shirts", "cargo pockets", "windbreakers", "baseball caps"]
 key_colours: ["Heather grey", "stonewashed blue", "khaki", "navy", "faded primary tones"]
+palette: ["#100E10", "#2A2A2A", "#54392C", "#6C6E6D", "#53524D", "#775542"]
 key_values: ["Practicality", "comfort", "anti-consumerism", "nostalgia", "intentional imperfection"]
 related_aesthetics: ["Eclectic Grandpa", "Gorpcore", "Indie Sleaze", "Normcore", "Vacation Dadcore"]
 primary_platform: ["TikTok", "Instagram", "Pinterest"]

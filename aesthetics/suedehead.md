@@ -5,6 +5,7 @@ aka: ["Mini-Mods"]
 decade_of_origin: "Early 1970s"
 key_motifs: ["Prince of Wales check", "Dogtooth patterns", "Crombie coats", "Loafers", "Butterfly collars", "Sta-Prest trousers"]
 key_colours: ["Muted pastels", "blue", "green", "red", "gold"]
+palette: ["#79706B", "#463C38", "#CDCAC8", "#191513", "#BDB6B2", "#675C58"]
 key_values: ["Sharp dressing", "working-class pride", "stylistic sophistication"]
 related_aesthetics: ["Casuals", "Glam Rock", "★Skinhead", "Mod", "Mod Revival"]
 related_media: ["Bronco Bullfrog (Film)", "Suedehead (Novel by Richard Allen)"]

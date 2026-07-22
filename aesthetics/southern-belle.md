@@ -4,6 +4,7 @@ slug: "southern-belle"
 decade_of_origin: "Antebellum Era (c. 1820s–1860s)"
 key_motifs: ["Hoop skirts", "corsets", "wide-brimmed hats", "parasols", "plantations", "cotillion balls", "magnolias"]
 key_colours: ["Often light pastels", "white", "floral prints"]
+palette: ["#566444", "#3E3D31", "#908F65", "#C2B686", "#74694A"]
 key_values: ["Hospitality", "charm", "propriety", "traditional femininity", "family honor", "purity"]
 related_aesthetics: ["Cottagecore", "Old Money", "Preppy", "Regency"]
 related_media: ["Gone with the Wind", "The Birth of a Nation", "Jezebel"]

@@ -5,6 +5,7 @@ aka: ["VK", "V-Kei", "V系"]
 decade_of_origin: "1980s"
 key_motifs: ["Androgyny", "elaborate costumes", "dramatic makeup", "extravagant hairstyles (often brightly colored and spiked)", "historical and fantastical themes"]
 key_colours: ["Varies widely by sub-genre", "from all-black to vibrant", "multi-colored palettes"]
+palette: ["#867B7A", "#333B45", "#050306", "#16161E", "#4A4C55", "#A4A2A5"]
 key_values: ["Visual self-expression", "artistic freedom", "theatricality", "rebellion against conformity", "musical diversity"]
 related_aesthetics: ["Glam Rock", "Goth", "Gothic Lolita", "Punk", "New Romantic", "Angura Kei"]
 subgenres: ["Oshare Kei", "Tanbi Kei"]

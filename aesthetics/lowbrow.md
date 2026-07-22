@@ -5,6 +5,7 @@ aka: ["Pop Surrealism", "Newbrow", "Nobrow"]
 decade_of_origin: "Late 1960s-Present"
 key_motifs: ["Cartoons", "pop culture icons", "retro imagery", "surreal figures", "humor", "rebellion", "counterculture", "kitsch"]
 key_colours: ["Vibrant/saturated colors"]
+palette: ["#7D402E", "#6A6656", "#292E37", "#9E9782", "#D3C0A7", "#7CC0C0"]
 key_values: ["Anti-establishment", "accessibility", "individual expression", "subcultural influence", "challenging artistic norms"]
 related_aesthetics: ["Art Singulier", "B-Movie Horror", "Chicha", "Dieselpunk", "Global Village Coffeehouse", "Hot Rod", "Kustom Kulture", "Mission School", "Neo-Pop", "Pop Art", "Psychedelia", "Punk", "Superflat", "Superflat Pop", "Surfer", "Surrealism", "Tiki"]
 related_media: ["Juxtapoz Magazine", "Last Gasp (publisher)"]

@@ -5,6 +5,7 @@ aka: ["Nouvelle Vague"]
 decade_of_origin: "Late 1950s"
 key_motifs: ["Natural lighting", "location shooting", "handheld filming", "jump cuts", "improvisation"]
 key_colours: ["Greyscale"]
+palette: ["#838383", "#696969", "#A3A3A3", "#0B0B0B", "#C4C4C4", "#555555"]
 key_values: ["Auteur theory", "realism", "innovation", "rebellion", "cinephilia"]
 related_aesthetics: ["Film Noir", "Italian Neorealism", "Mod", "Modernism", "Post-Punk", "Realism", "Yé-yé"]
 source_url: "https://aesthetics.fandom.com/wiki/French_New_Wave"

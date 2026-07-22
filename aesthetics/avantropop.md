@@ -5,6 +5,7 @@ aka: ["Avant Garde Prefuse"]
 decade_of_origin: "2000s"
 key_motifs: ["Asymmetrical geometric shapes", "diagonal lines", "CMYK color palettes", "soft gradients", "triangular or square patterns", "and colorful polygonal designs", "vector-based graphics", "striped patterns commonly in Black & White", "typefaces like \"ITC Avant Garde Gothic\"", "\"Lot\"", "and \"Val\""]
 key_colours: ["Neon colors", "purple", "magenta", "red", "blue", "green", "yellow", "orange", "black", "white"]
+palette: ["#000002", "#353433", "#59686F", "#DADBD8", "#8D8787", "#ABABA8"]
 related_aesthetics: ["Avant-garde", "Bright Tertiaries", "Dark Aero", "Frutiger Aero", "Flat Design", "Internet Awesomesauce", "McBling", "Memphis Design", "Memphis Lite", "Monochrome Luxe", "Shibuya Punk", "Superflat Pop", "UrBling", "Vectordelia", "Y2K Futurism"]
 related_media: ["\"Noods\"", "\"Let's Go!/Prefuse\"", "and \"CHECK it\" eras of Cartoon Network"]
 source_url: "https://aesthetics.fandom.com/wiki/Avantropop"

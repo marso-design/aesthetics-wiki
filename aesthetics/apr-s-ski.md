@@ -5,6 +5,7 @@ aka: ["After-ski"]
 decade_of_origin: "1950s"
 key_motifs: ["Knit sweaters (especially Fair Isle)", "turtlenecks", "puffer jackets", "ski chalets", "fireplaces", "fondue", "mulled wine", "vintage ski posters"]
 key_colours: ["Creams", "whites", "deep reds", "navy blue", "forest green", "earth tones"]
+palette: ["#757175", "#763E37", "#2C2629", "#A6A6A6", "#C3C3C4", "#A67353"]
 key_values: ["Coziness", "socializing", "relaxation", "comfort", "rustic luxury"]
 related_aesthetics: ["Cabincore", "Coastal Grandmother", "Old Money", "Winter"]
 primary_platform: ["Lifestyle blogs", "Instagram"]

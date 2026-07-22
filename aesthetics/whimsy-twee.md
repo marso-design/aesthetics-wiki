@@ -5,6 +5,7 @@ aka: ["Whimsical Twee", "Applecore", "Igari (on Roblox)"]
 decade_of_origin: "Mid-2020s"
 key_motifs: ["Playful patterns (dots, stripes, swirls, gingham)", "colorful layering", "nostalgic childhood imagery", "Mod-inspired makeup"]
 key_colours: ["Bright colors", "primary colors", "red", "purple", "green"]
+palette: ["#3F211A", "#9C2F22", "#A68552", "#857D51", "#54432B", "#7F5B37"]
 key_values: ["Childlike wonder", "self-expression", "creativity", "carefree attitude", "90s/2000s nostalgia"]
 related_aesthetics: ["Clovercore", "Geek Chic", "Picniccore", "Heisei Retro", "Juminocore", "Kidcore", "Mod", "Mori Kei", "Pianocore", "Trinketcore", "Twee"]
 source_url: "https://aesthetics.fandom.com/wiki/Whimsy_Twee"

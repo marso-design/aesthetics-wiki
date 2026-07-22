@@ -4,6 +4,7 @@ slug: "dionysism"
 decade_of_origin: "13th-7th centuries BC"
 key_motifs: ["Wine", "sex and phalluses", "disorderly conduct", "feast"]
 key_colours: ["Red", "black", "brown", "party colors"]
+palette: ["#27110E", "#886957", "#AE876E", "#502718", "#744224", "#DBB192"]
 key_values: ["Hedonism", "partying", "freedom", "loyalty"]
 related_aesthetics: ["Classicism", "Cuddle Party", "Devilcore", "Hellenic", "Lovecore", "McBling"]
 source_url: "https://aesthetics.fandom.com/wiki/Dionysism"

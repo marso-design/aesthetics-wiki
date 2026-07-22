@@ -5,6 +5,7 @@ aka: ["CGA"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Pumpkin spice lattes", "chunky knit scarves", "pumpkin patches", "falling leaves", "UGG boots"]
 key_colours: ["Warm neutrals (beige, cream, tan, brown)", "earth tones", "maroon", "burnt orange"]
+palette: ["#403127", "#834232", "#B69F7B", "#847363", "#D2C6A8", "#C47E49"]
 key_values: ["Comfort", "coziness", "tradition", "nostalgia", "simple pleasures", "curated domesticity"]
 related_aesthetics: ["Autumn Aesthetic", "Basic White Girl", "Cinnamon Girl", "Normcore", "VSCO Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn"

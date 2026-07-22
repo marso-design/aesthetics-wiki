@@ -5,6 +5,7 @@ aka: ["New Indie", "TikTok Indie"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Smiley faces", "rainbows", "polymer clay jewelry", "fruit imagery", "butterfly clips", "bandanas", "dyed front hair strands", "bucket hats", "chunky sneakers", "graphic tees", "skate culture elements", "nature scenes", "urban imagery (e.g., skateparks, convenience stores)", "1960s-esque graphics"]
 key_colours: ["Bright", "vivid colors (including neon hues)", "high-contrast palettes", "natural tones for clothing backdrops"]
+palette: ["#765A38", "#AB6B2B", "#3D3037", "#51504A", "#968646", "#A12C22"]
 key_values: ["Freedom", "individuality", "friendship", "casual living", "main character energy", "self-awareness", "ironic expression"]
 related_aesthetics: ["2020 TikTok", "Avant Basic", "Cuddle Party", "Kidcore", "Plant Mom", "Psychedelia", "Skater", "Vaporwave", "VSCO Girl", "Y2K"]
 related_media: ["Coming-of-age films (often associated with A24 productions)"]

@@ -4,6 +4,7 @@ slug: "cluttercore"
 decade_of_origin: "2020s"
 key_motifs: ["Curated collections", "sentimental objects", "gallery walls", "overflowing bookshelves", "plants", "eclectic decor", "layered textiles"]
 key_colours: ["Any", "but often highly saturated and varied"]
+palette: ["#523C39", "#271A1B", "#67635F", "#87877D", "#714D44", "#ADA391"]
 key_values: ["Authenticity", "creativity", "individuality", "nostalgia", "comfort", "storytelling"]
 related_aesthetics: ["Cacareco Girl", "Cottagecore", "Goblincore", "Grandmacore", "Maximalism"]
 source_url: "https://aesthetics.fandom.com/wiki/Cluttercore"

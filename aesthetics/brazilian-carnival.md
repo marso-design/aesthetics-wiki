@@ -5,6 +5,7 @@ aka: ["Carnaval Brasileiro"]
 decade_of_origin: "1800s"
 key_motifs: ["Parades", "revelry", "samba", "joy", "costumes"]
 key_colours: ["Vibrant colors", "gold"]
+palette: ["#543C38", "#626D6C", "#0F0A0C", "#A7725C", "#2C2122", "#895144"]
 key_values: ["Joy", "festivities", "fun", "excitement", "harmony", "charm"]
 related_aesthetics: ["Brazilian Bombshell", "Mandrake", "Manguebeat", "Venetian Carnival", "Easter"]
 source_url: "https://aesthetics.fandom.com/wiki/Brazilian_Carnival"

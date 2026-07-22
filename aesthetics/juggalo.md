@@ -7,6 +7,7 @@ key_motifs: ["The Hatchetman logo", "Faygo soda", "evil clown imagery", "\"whoop
 key_values: ["Family", "loyalty", "anti-elitism", "embracing outsider status"]
 related_aesthetics: ["Clowncore", "Horrorcore", "Nu-Metal"]
 related_media: ["Insane Clown Posse's \"Joker's Cards\" albums", "Big Money Hustlas"]
+palette: ["#060202", "#161619", "#626063", "#503637", "#A18679", "#2E242C"]
 source_url: "https://aesthetics.fandom.com/wiki/Juggalo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

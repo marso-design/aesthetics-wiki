@@ -5,6 +5,7 @@ aka: ["Dizelaš (singular)"]
 decade_of_origin: "1990s"
 key_motifs: ["Tracksuits (often tucked into socks)", "bomber jackets", "Diesel brand jeans", "gold chains", "shaved heads", "athletic sneakers"]
 key_colours: ["Varies", "often bold and bright colors on tracksuits"]
+palette: ["#0E0E10", "#585E65", "#412B31", "#A18584", "#A6ADAE", "#261F28"]
 key_values: ["Toughness", "materialism", "street culture", "Serbian nationalism", "rejection of mainstream norms"]
 related_aesthetics: ["Chav", "Dresiarz", "Gopnik", "Yugo-Nostalgia"]
 related_media: ["Turbo-folk and Eurodance music"]

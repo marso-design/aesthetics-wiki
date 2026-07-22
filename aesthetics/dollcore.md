@@ -4,6 +4,7 @@ slug: "dollcore"
 decade_of_origin: "2010s"
 key_motifs: ["ball-jointed dolls", "porcelain dolls"]
 related_aesthetics: ["Balletcore", "Coquette", "Cyber Doll", "Dollette", "Girly Kei", "Kawaii", "Larme Kei", "Lolita", "Morute"]
+palette: ["#E5BBCB", "#27211F", "#0B0A07", "#494341", "#D1AAA7", "#98837D"]
 source_url: "https://aesthetics.fandom.com/wiki/Dollcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

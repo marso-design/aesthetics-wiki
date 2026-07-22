@@ -5,6 +5,7 @@ aka: ["Liminality", "Liminalcore", "Liminal aesthetic", "Anemoiacore", "Liminal 
 decade_of_origin: "2000s/Late 2010s"
 key_motifs: ["Empty indoor/outdoor areas", "white noise"]
 key_colours: ["Cream yellow", "typical building colors", "black and grey for shadows"]
+palette: ["#0A0806", "#8C7651", "#636457", "#B29562", "#181D22", "#363737"]
 key_values: ["Uncanniness", "surreality", "nostalgia", "familiarity", "discomfort", "comfort"]
 related_aesthetics: ["2020 TikTok", "After Hours", "Dreamcore", "Glitch Art", "Mizuiro", "Poolcore", "Precisionism", "Surrealism", "Traumacore", "Urbancore", "Vaporwave", "Weirdcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Liminal_Space"

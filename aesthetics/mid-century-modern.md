@@ -5,6 +5,7 @@ aka: ["MCM"]
 decade_of_origin: "c. 1945–1969"
 key_motifs: ["Clean lines", "organic and geometric forms", "functionality over ornament", "open-plan spaces", "large windows", "integration with nature"]
 key_colours: ["Earthy tones (wood, greens, browns) mixed with pops of bold color (mustard yellow, orange, turquoise)"]
+palette: ["#1E2933", "#4E3C2A", "#8196A7", "#ABB8C1", "#787250", "#D4D6D3"]
 key_values: ["Simplicity", "functionality", "optimism", "modernity", "connection to nature"]
 related_aesthetics: ["Streamline Moderne", "Googie", "Space Age", "Atompunk", "Bauhaus", "Scandinavian Design"]
 source_url: "https://aesthetics.fandom.com/wiki/Mid-Century_Modern"

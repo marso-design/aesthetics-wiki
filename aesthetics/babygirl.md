@@ -5,6 +5,7 @@ aka: ["Babydoll", "Little Princess"]
 decade_of_origin: "2010s"
 key_motifs: ["Pastel colors", "frills", "lace", "bows", "stuffed animals", "pacifiers (as accessories)", "pigtails", "Mary Janes", "hearts"]
 key_colours: ["Pastel pink", "baby blue", "lavender", "white", "cream"]
+palette: ["#A4878E", "#A8A5AD", "#775553", "#C2BECB", "#DEC9D5", "#EAE6F2"]
 key_values: ["Nostalgia", "comfort", "self-care", "healing", "innocence", "personal freedom", "reclamation of girlhood"]
 related_aesthetics: ["Babycore", "Coquette", "Kawaii", "Nymphet", "Pastel Goth", "Puppygirl", "Sanriocore", "Soft Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Babygirl"

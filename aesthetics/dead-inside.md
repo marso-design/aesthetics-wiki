@@ -5,6 +5,7 @@ aka: ["zxc ghoul"]
 decade_of_origin: "2010s"
 key_motifs: ["Depression", "misanthropy", "self-importance", "anime"]
 key_colours: ["Black", "white", "red"]
+palette: ["#BCBCBC", "#E3E2E4", "#111112", "#858484", "#514F4F", "#FCFCFD"]
 related_aesthetics: ["Animecore", "Drain", "E-Boy", "Emo", "Goth", "Hyperpop", "PMC Ryodan", "Sadboi", "Trxsh"]
 related_media: ["Dota 2", "Tokyo Ghoul"]
 source_url: "https://aesthetics.fandom.com/wiki/Dead_Inside"

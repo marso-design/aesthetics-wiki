@@ -5,6 +5,7 @@ aka: ["2014 Summer Aesthetic", "Summer 2016 Vibes", "King Kylie Era", "Tumblr Tr
 decade_of_origin: "Early-to-Mid 2010s"
 key_motifs: ["Palm trees (especially silhouetted at sunset)", "ocean and pool scenes", "beach bonfires", "high-waisted shorts", "floppy hats", "large sunglasses", "flamingo floaties", "Arizona Iced Tea", "fads like the Ice Bucket Challenge and Pokémon Go (2016)", "\"Keep Calm\" memes"]
 key_colours: ["Rose Gold", "Sun-bleached white", "saturated teal/blue", "neon pink/purple (from filters)", "golden yellow/orange (sun flare)"]
+palette: ["#3D2535", "#A4B2BE", "#774054", "#DBCFC1", "#CC6C82", "#EEF0E2"]
 key_values: ["Care-free illusion", "peace and joy", "instant celebrity", "youthful freedom", "sun worship"]
 related_aesthetics: ["2014 Tumblr", "Basic Girl", "Electropop 08", "Galaxy Print", "Nostalgiacore", "Seapunk", "VSCO Girl"]
 primary_platform: ["Vine", "Musically", "Tumblr", "Instagram (2013-2016)", "WeHeartIt", "TikTok (revival)"]

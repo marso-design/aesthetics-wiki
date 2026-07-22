@@ -5,6 +5,7 @@ aka: ["Swedish Neoclassicism"]
 decade_of_origin: "Late 18th century (c. 1772-1809)"
 key_motifs: ["Carved ribbons", "medallions", "laurel wreaths", "fluted legs", "gilded accents", "checked or striped fabrics"]
 key_colours: ["Pale greys", "blues", "creamy whites", "soft yellows", "muted greens"]
+palette: ["#8C8E88", "#A89C8F", "#372D25", "#514E44", "#6E6C62", "#B0B1AD"]
 key_values: ["Elegance", "restraint", "light", "harmony", "simplified classicism"]
 related_aesthetics: ["Neoclassicism", "French Provincial Style", "Rococo", "Shabby Chic"]
 source_url: "https://aesthetics.fandom.com/wiki/Gustavian"

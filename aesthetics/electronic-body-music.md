@@ -5,6 +5,7 @@ aka: ["EBM", "Body Music", "Körpermusik"]
 decade_of_origin: "Late 1970s / Early 1980s"
 key_motifs: ["High-and-tight haircuts (The Fresh Cut)", "bomber jackets (MA-1)", "Doc Martens", "Socialist Realist graphics", "Cyrillic typography", "industrial architecture", "bodybuilding/fitness imagery"]
 key_colours: ["Black", "grey", "red", "white", "olive drab"]
+palette: ["#454442", "#1E1D1D", "#000000", "#EE2E38", "#CFCBC2", "#9C9A98"]
 key_values: ["Discipline", "work ethic", "physicality", "repetition", "provocation"]
 related_aesthetics: ["Aggrotech (subgenre)", "Brutalism", "Constructivism", "Cybergoth", "Electroclash", "Industrial", "Italo Disco", "Leather Subculture", "Minimal Wave", "New Beat", "Rivethead"]
 source_url: "https://aesthetics.fandom.com/wiki/Electronic_Body_Music"

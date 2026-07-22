@@ -4,6 +4,7 @@ slug: "impressionism"
 decade_of_origin: "1870s - 1880s"
 key_motifs: ["Scenes of modern life", "landscapes", "leisure activities (boating, cafés, dances)", "urban scenes", "effects of changing light and atmosphere"]
 key_colours: ["Bright", "often unmixed colors; emphasis on natural light; broken color; avoidance of black paint"]
+palette: ["#203134", "#624332", "#58675E", "#85A3A4", "#7D6A55", "#998B77"]
 key_values: ["Capturing the fleeting moment; visual sensation over fine detail; observation of modern life; rejection of academic tradition"]
 related_aesthetics: ["Barbizon School", "Japonisme", "Post-Impressionism", "Realism"]
 related_media: ["Painting"]

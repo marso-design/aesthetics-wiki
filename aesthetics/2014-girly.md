@@ -4,6 +4,7 @@ slug: "2014-girly"
 aka: ["Tumblr It Girl", "Rosyblog", "girly"]
 decade_of_origin: "2012-2016"
 key_colours: ["Various shades of pink", "cream white", "beige", "and mint"]
+palette: ["#C8A991", "#CDC4B2", "#A67763", "#E7DBD1", "#FDF9F1"]
 key_values: ["kindess", "femininity", "and being grateful. most values are learnt from Audrey Hepburn"]
 related_aesthetics: ["2014 Tumblr", "Barbiecore", "Pale Grunge", "Pink Princess", "Quality Tumblr", "Shabby Chic"]
 related_media: ["Tumblr", "TikTok"]

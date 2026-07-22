@@ -4,6 +4,7 @@ slug: "archive-fashion"
 aka: ["Archive fashion"]
 decade_of_origin: "2010s"
 key_colours: ["Black", "grey"]
+palette: ["#C5CACE", "#0B0E0F", "#898783", "#B2AAA3", "#68625C", "#26292A"]
 related_aesthetics: ["Antwerp Six", "Avant-Garde", "Opium", "Visual Kei", "Hedi Boy", "Punk", "Emo", "Indie Sleaze", "Onii Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Archive_Fashion"
 license: "CC-BY-SA-4.0"

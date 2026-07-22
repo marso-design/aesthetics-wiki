@@ -5,6 +5,7 @@ aka: ["Chinese Bronze Age", "Pre‑Qin Period"]
 decade_of_origin: "c. 2070–221 BCE"
 key_motifs: ["Bronze ritual vessels and wares"]
 key_colours: ["Patina", "gold"]
+palette: ["#020305", "#A19F96", "#C0BCB3", "#6A6A5C", "#7F817A", "#423E36"]
 source_url: "https://aesthetics.fandom.com/wiki/Bronze_Age_China"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

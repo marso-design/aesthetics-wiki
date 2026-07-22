@@ -5,6 +5,7 @@ aka: ["Neo-Noir"]
 decade_of_origin: "1980s"
 key_motifs: ["Crime", "Neon lights", "Nightlife"]
 key_colours: ["Purple", "blue", "red"]
+palette: ["#030307", "#1D152E", "#202F5A", "#1E4D7A", "#452E5E", "#4780A0"]
 related_aesthetics: ["Cyberpunk", "French New Wave", "Synthwave", "Film Noir"]
 related_media: ["Blade Runner"]
 source_url: "https://aesthetics.fandom.com/wiki/Neon_Noir"

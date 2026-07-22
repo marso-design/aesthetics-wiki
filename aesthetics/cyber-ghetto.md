@@ -4,6 +4,7 @@ slug: "cyber-ghetto"
 decade_of_origin: "2010s"
 key_motifs: ["Elements of Seapunk", "Kawaii", "Grunge", "late 90s/early 00s urban fashion", "old school Hip-Hop", "late Hip-Hop", "electronic music", "aliens", "colored hair", "unconventional fashion"]
 key_colours: ["Bright", "vibrant colors", "black", "silvers", "holographic color shifts"]
+palette: ["#090713", "#ADAFA3", "#EECCC8", "#F8F1F0", "#86464C", "#302835"]
 key_values: ["Self-love", "originality", "thinking out of the box"]
 related_aesthetics: ["2014 Tumblr", "Afrofuturism", "Alien", "Baddie", "Cyberpunk", "E-Girl", "Grunge", "Health Goth", "Hip-Hop", "Kawaii", "Rave", "Seapunk", "Vaporwave", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Cyber_Ghetto"

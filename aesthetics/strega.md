@@ -4,6 +4,7 @@ slug: "strega"
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Pentacles", "layered clothing", "flowing dresses", "high boots", "moon", "sun", "feathers", "gender-neutral clothing"]
 key_colours: ["Black", "dark gray", "browns", "earth tones (greens, reds, violets)"]
+palette: ["#090708", "#252022", "#3B3D3A", "#918C80", "#5E695B", "#88716A"]
 related_aesthetics: ["Dark Fantasy", "Cottagecore", "Cottagegore", "Forestpunk", "Goth", "Goblincore", "Gothic Lolita", "Mori Kei", "Romantic Goth"]
 source_url: "https://aesthetics.fandom.com/wiki/Strega"
 license: "CC-BY-SA-4.0"

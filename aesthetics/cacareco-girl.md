@@ -4,6 +4,7 @@ slug: "cacareco-girl"
 decade_of_origin: "2020s"
 key_motifs: ["Trinkets (cacarecos)", "keychains", "maximalist bag decoration", "collectible toys (Labubu, Sylvanian Families)", "stripes", "funky objects (e.g., sardines)"]
 key_colours: ["Vibrant and eclectic (pinks, greens, reds, blues)"]
+palette: ["#CEC6BB", "#151518", "#27272A", "#696952", "#B99689", "#A46B6A"]
 key_values: ["Maximalism", "nostalgia", "self-expression", "authenticity", "emotional comfort", "anti-minimalism"]
 related_aesthetics: ["Cluttercore", "Heisei Retro", "Juminocore", "Kidcore", "Milipili", "Trinketcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Cacareco_Girl"

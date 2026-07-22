@@ -5,6 +5,7 @@ aka: ["Machinepunk"]
 decade_of_origin: "Renaissance inspiration (14th–17th centuries)"
 key_motifs: ["Clockwork mechanisms", "gears", "springs", "automatons", "ornithopters", "polished lenses", "intricate carvings"]
 key_colours: ["Gold", "bronze", "brass", "wood tones", "silver"]
+palette: ["#B1AC96", "#0E0807", "#8A6D4D", "#5F5E54", "#653C1D", "#403C33"]
 related_aesthetics: ["Baroque", "Dungeonpunk", "Italian Renaissance", "Steampunk"]
 related_media: ["Assassin's Creed II (video game)", "Dishonored 2 (video game)", "Hugo (film)"]
 source_url: "https://aesthetics.fandom.com/wiki/Clockpunk"

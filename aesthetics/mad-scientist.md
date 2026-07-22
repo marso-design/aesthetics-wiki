@@ -2,6 +2,7 @@
 name: "Mad Scientist"
 slug: "mad-scientist"
 key_colours: ["Neon purple and green", "white", "steel", "turquoise", "blue"]
+palette: ["#030202", "#293134", "#0E2020", "#2A6361", "#5A9C90", "#526C6C"]
 key_values: ["Hubris", "experimentation", "eschewing morality for knowledge", "destruction"]
 related_aesthetics: ["Science Academia"]
 source_url: "https://aesthetics.fandom.com/wiki/Mad_Scientist"

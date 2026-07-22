@@ -5,6 +5,7 @@ aka: ["Tropi-Kitsch", "Tiki Liminal", "2000's Tropical", "Tropical Nostalgia", "
 decade_of_origin: "90s-2000s"
 key_motifs: ["Stereotypical Hawaiian motifs", "tiki masks", "aquariums", "resorts", "water parks", "fish tanks", "palm trees", "fire", "pineapples", "hotel rooms", "neon lights", "Water slides", "steel guitars"]
 key_colours: ["Rich/dark hues", "red", "green", "blue", "yellow", "tan", "dark purple", "neon colors"]
+palette: ["#151A1C", "#805D48", "#344660", "#375D79", "#263145", "#583025"]
 related_aesthetics: ["Tropical", "Dreamcore", "Nautical", "Liminal Space", "Poolcore", "Vacation Dadcore", "Tiki", "Helvetica Aqua Aero"]
 source_url: "https://aesthetics.fandom.com/wiki/Tropideco"
 license: "CC-BY-SA-4.0"

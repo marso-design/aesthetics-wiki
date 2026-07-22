@@ -5,6 +5,7 @@ aka: ["Wellness Kawaii", "Western Kawaii"]
 decade_of_origin: "2010s"
 key_motifs: ["Inspirational quotes", "mascots", "cuteness", "puns"]
 key_colours: ["Pink", "pastels"]
+palette: ["#E7988F", "#E5C7D7", "#FFFBEB", "#AE7268", "#C4B9A8", "#F2CB8B"]
 key_values: ["Positivity", "optimism", "inspiration", "wholesomeness"]
 related_aesthetics: ["2014 Tumblr", "Galaxy Print", "Kawaii", "Live Laugh Love", "Soft Girl", "Tweencore"]
 source_url: "https://aesthetics.fandom.com/wiki/Positivity_Kawaii"

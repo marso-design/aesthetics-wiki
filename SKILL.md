@@ -27,9 +27,12 @@ CLI to find the right aesthetic, then read only that one file.
   colours, motifs, values, related, subgenres, platforms, summary, image count).
   Large; query it with the CLI rather than reading it whole.
 - `aesthetics/<slug>.md` - full entry. Frontmatter fields:
-  `name, aka, decade_of_origin, creators, key_motifs, key_colours, key_values,
-  related_aesthetics, subgenres, primary_platform, related_media, source_url,
-  image_count`. Body is the full description (history, fashion, media, etc.).
+  `name, aka, decade_of_origin, creators, key_motifs, key_colours, palette,
+  key_values, related_aesthetics, subgenres, primary_platform, related_media,
+  source_url, image_count`. Body is the full description (history, fashion, etc.).
+  `palette` is a list of hex colours **derived from the aesthetic's actual
+  reference images** (ranked by coverage) - use it as the real, buildable colour
+  basis; `key_colours` is the wiki's prose description of the palette.
 - `images/<slug>/` - reference images + `credits.json` (per-image source URL,
   uploader, license where the wiki recorded one). The `credits.json` manifest is
   always present; the image binaries may or may not be downloaded locally (they
@@ -70,8 +73,10 @@ After the CLI points you to a file, read `aesthetics/<slug>.md` for the depth
   `related_media`, and reference specific files from `images/<slug>/`. Note the
   image licensing caveat below before reusing any image externally.
 - **"Style my <outfit/room/brand/playlist/website> as <aesthetic>"** - translate
-  `key_motifs`, `key_colours`, and `key_values` into concrete choices for that
-  medium. Cite the aesthetic and offer 1-2 related aesthetics to blend.
+  `key_motifs`, `key_values`, and the hex `palette` into concrete choices for that
+  medium. For UI/web/brand work, use `palette` directly as design tokens (CSS
+  variables, a Tailwind theme, etc.), pairing motifs/values into type, layout, and
+  imagery direction. Cite the aesthetic and offer 1-2 related aesthetics to blend.
 - **Combine two aesthetics** - read both entries, find shared and contrasting
   motifs/colours, and propose a coherent fusion; name the overlap if the wiki has
   a subgenre for it.

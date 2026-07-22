@@ -4,6 +4,7 @@ slug: "tenniscore"
 decade_of_origin: "2020s"
 key_motifs: ["Tennis skirts", "polo shirts", "tennis dresses", "visors", "sweatbands", "tennis bracelets"]
 key_colours: ["White", "green", "navy"]
+palette: ["#748A90", "#BCB5A6", "#574832", "#1B2C30", "#6A6459", "#C2906F"]
 key_values: ["Athleticism", "classic style", "preppiness", "luxury", "leisure"]
 related_aesthetics: ["Balletcore", "Barbiecore", "Blokecore", "Blokette", "Normcore", "Old Money", "Preppy", "Summer"]
 source_url: "https://aesthetics.fandom.com/wiki/Tenniscore"

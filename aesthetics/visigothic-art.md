@@ -3,6 +3,7 @@ name: "Visigothic Art"
 slug: "visigothic-art"
 decade_of_origin: "5th-8th Century"
 key_colours: ["Gold", "red", "blue"]
+palette: ["#A3C7ED", "#3F382C", "#B8AE98", "#6D6654", "#DADFD8", "#DDC18A"]
 key_values: ["Religion"]
 related_aesthetics: ["Byzantine", "Hellenic", "Imperial Roman", "Medieval", "Pre-Romanesque", "Romanesque", "Southern French Gothic"]
 source_url: "https://aesthetics.fandom.com/wiki/Visigothic_Art"

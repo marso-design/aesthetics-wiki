@@ -4,6 +4,7 @@ slug: "marshmallow-girl"
 decade_of_origin: "2010s"
 key_motifs: ["Softness", "roundness (in silhouette)", "loose-fitting clothing", "comfortable fashion", "cute expressions", "food imagery (as depicted by idols)"]
 key_colours: ["Often bright", "cheerful palettes"]
+palette: ["#413535", "#E7EBE0", "#89837F", "#994E4D", "#C8807B", "#CE9B92"]
 key_values: ["Body positivity", "self-acceptance", "cuteness (kawaii) for all sizes", "challenging conventional beauty norms", "individuality", "joy", "comfort"]
 related_aesthetics: ["Gyaru", "Kawaii", "Soft Girl"]
 related_media: ["La Farfa magazine", "Chubbiness (J-Pop group)", "la BIG 3 (J-Pop group)"]

@@ -3,6 +3,7 @@ name: "Cholo"
 slug: "cholo"
 decade_of_origin: "1930s"
 key_colours: ["Black", "Grey", "White", "Brown", "Blue"]
+palette: ["#0F1011", "#535A5C", "#333536", "#A5A19A", "#7D7A76", "#8D8F8E"]
 key_values: ["Hispanic pride", "Anti-assimilation"]
 related_aesthetics: ["Baddie", "Chicha", "Cholombiano", "Chonga", "Gangsta Rap", "Hip-Hop", "Pachuco"]
 source_url: "https://aesthetics.fandom.com/wiki/Cholo"

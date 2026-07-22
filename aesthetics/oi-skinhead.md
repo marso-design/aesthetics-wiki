@@ -5,6 +5,7 @@ aka: ["Street Punk Skin", "80s Skinhead", "Second Wave Skinhead"]
 decade_of_origin: "Late 1970s (c. 1977–1979)"
 key_motifs: ["Bleached denim", "MA-1 flight jackets", "shaven heads", "high boots", "working-class solidarity", "football terrace culture"]
 key_colours: ["Oxblood", "black", "bleached white", "olive drab"]
+palette: ["#131010", "#666D6A", "#A7A6A2", "#4A413F", "#847E79", "#C7C3BD"]
 key_values: ["Class pride", "street authenticity", "\"boot-to-the-bollocks\" rage", "anti-intellectualism"]
 related_aesthetics: ["Bootboy", "Casuals", "Gabber", "Punk", "★Skinhead", "Suedehead", "Trojan Skinhead"]
 related_media: ["Strength Thru Oi! (Compilation)", "Capital Offence (Crown Court)"]

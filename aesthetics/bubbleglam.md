@@ -4,6 +4,7 @@ slug: "bubbleglam"
 decade_of_origin: "1990s"
 key_motifs: ["Silk", "Excessive makeup", "blown out looks"]
 key_colours: ["Orange", "Pink"]
+palette: ["#C4C3AE", "#362128", "#797775", "#EEEFE8", "#74C0C5", "#A30618"]
 related_aesthetics: ["Bubblegum Dance", "McBling", "Gen X Soft Club", "Groovival", "Y2K", "Y2K Futurism", "Space Age", "Mod"]
 source_url: "https://aesthetics.fandom.com/wiki/Bubbleglam"
 license: "CC-BY-SA-4.0"

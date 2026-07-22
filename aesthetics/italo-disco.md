@@ -5,6 +5,7 @@ decade_of_origin: "Late 1970s"
 key_motifs: ["Futurism", "laser grids", "space travel", "robots", "neon lights", "chrome", "airbrushed graphics", "palm trees", "glamorous fashion"]
 key_values: ["Escapism", "romanticism", "futurism", "melancholy", "glamour", "sincerity"]
 related_aesthetics: ["Disco", "Disco Polo", "Laser Grid", "Lithuanian Eurodisco", "Paninaro", "Synthwave", "Vaporwave", "New Wave"]
+palette: ["#37334B", "#080305", "#6B6375", "#365F7B", "#1B282F", "#BE6261"]
 source_url: "https://aesthetics.fandom.com/wiki/Italo_Disco"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

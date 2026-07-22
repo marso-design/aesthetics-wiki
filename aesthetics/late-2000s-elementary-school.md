@@ -4,6 +4,7 @@ slug: "late-2000s-elementary-school"
 decade_of_origin: "2000s"
 key_motifs: ["Books", "school supplies", "nostalgic memories"]
 key_colours: ["Rainbow"]
+palette: ["#FFFFFF", "#FFE225", "#FBEF94", "#B1A03F"]
 key_values: ["Fun", "Learning"]
 related_aesthetics: ["Kid Science", "Kidcore", "Utopian Scholastic"]
 source_url: "https://aesthetics.fandom.com/wiki/Late_2000s_Elementary_School"

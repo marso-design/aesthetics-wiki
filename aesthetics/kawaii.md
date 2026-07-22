@@ -4,6 +4,7 @@ slug: "kawaii"
 decade_of_origin: "1970s"
 key_motifs: ["Childlike simplicity (rounded forms, large eyes)", "anthropomorphic animals (Sanrio/San-X characters)", "soft or pastel colors", "small toys/trinkets", "stylized emotional expressions (exaggerated happiness/sadness)"]
 key_colours: ["Pastel colors", "soft pinks", "blues", "and purples"]
+palette: ["#D7A1B5", "#ECCCD7", "#B46D88", "#FBE2F0", "#CECCD8"]
 key_values: ["Affirmation of innocence", "finding beauty in the small/simple", "escapism through fantasy", "positive emotion", "and acceptance of the imperfect"]
 related_aesthetics: ["Animecore", "Busukawaii", "Cutecore", "Dokukawaii", "Dollcore", "Decora", "Erokawa", "Fairy Kei", "Femboy", "Girly (Japanese)", "Gurokawa", "Harajuku Fashion", "Heisei Retro", "Jojifuku", "Kawaii Gamer", "Kuromicore", "Living Doll", "Lolicore", "Lolita", "Magical Girls", "Maid", "Marshmallow Girl", "Mizuiro", "Moe", "Nanchatte Seifuku", "Pastel Goth", "Positivity Kawaii", "Sanriocore", "Superflat", "Sweet Lolita", "Wota", "Yami Kawaii", "Yume Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Kawaii"

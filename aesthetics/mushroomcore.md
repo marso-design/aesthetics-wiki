@@ -6,6 +6,7 @@ decade_of_origin: "Early 2020s"
 creators: ["🍄 Mushroomcore 🍄 (Facebook group)"]
 key_motifs: ["Fungi (especially Amanita muscaria)", "forest floors", "moss", "fairy rings", "foraging", "snails", "frogs", "gnomes"]
 key_colours: ["Earthy tones (browns, creams, muted reds)", "moss green"]
+palette: ["#2C3323", "#43413D", "#151813", "#948F75", "#72604C", "#9EB7A8"]
 key_values: ["Connection to nature", "wonder", "mysticism", "sustainability", "finding beauty in decay"]
 related_aesthetics: ["Cottagecore", "Dark Naturalism", "Earthcore", "Fairycore", "Forestpunk", "Goblincore", "Mori Kei", "Naturecore", "Witchcore"]
 primary_platform: ["Facebook", "TikTok", "Pinterest", "Instagram"]

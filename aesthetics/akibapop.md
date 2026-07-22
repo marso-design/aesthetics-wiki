@@ -5,6 +5,7 @@ aka: ["Denpa song", "A-Pop", "Moe-Denpa", "Moe song"]
 decade_of_origin: "Early 2000s"
 key_motifs: ["High-pitched vocals", "catchy melodies", "nonsensical lyrics", "repetition", "otaku themes"]
 key_colours: ["Bright colours", "pink", "pastels"]
+palette: ["#3E4C60", "#F9F8F8", "#D993A9", "#9286A1", "#C24F81", "#F6CECE"]
 key_values: ["Bizarreness", "catchiness", "cuteness", "energy", "chaos"]
 related_aesthetics: ["Bubblegum Dance", "Colorful Pop", "Denpa", "Dokukawaii", "Lolicore", "Moe", "Otaku"]
 related_media: ["Doujin music", "Touhou Project", "Japanese rhythm games (e.g., Sound Voltex, Benami series, Beatmania, Yunyun Syndrome!? Rhythm Psychosis)"]

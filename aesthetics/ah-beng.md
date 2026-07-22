@@ -7,6 +7,7 @@ key_motifs: ["Rebonded/dyed Hair (blonde/red)", "loud and flashy Accessories (ch
 key_values: ["Materialism", "anti-intellectualism", "loyalty (to gang/clique)", "hedonism", "anti-establishment (unintentionally)"]
 related_aesthetics: ["Bogan", "Bōsōzoku", "Chav", "Mat Rempit", "McBling"]
 related_media: ["Phua Chu Kang Pte Ltd (Sitcom)", "Army Daze (Film)"]
+palette: ["#32302E", "#100B0C", "#54565B", "#68707F", "#909095", "#D09476"]
 source_url: "https://aesthetics.fandom.com/wiki/Ah_Beng"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

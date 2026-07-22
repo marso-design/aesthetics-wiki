@@ -6,6 +6,7 @@ key_motifs: ["Punk aesthetics (mohawks, leather jackets, patches)", "Islamic ico
 key_values: ["Individual interpretation of Islam", "anti-establishment ethos", "social justice", "questioning orthodoxy", "cultural fusion"]
 related_aesthetics: ["Punk", "Queercore"]
 related_media: ["The Taqwacores (novel and film)"]
+palette: ["#3F4148", "#0E162A", "#292F3D", "#556A74", "#7A8689", "#98B989"]
 source_url: "https://aesthetics.fandom.com/wiki/Taqwacore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

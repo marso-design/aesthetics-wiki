@@ -1,6 +1,7 @@
 ---
 name: "Antique"
 slug: "antique"
+palette: ["#090302", "#582810", "#BA7240", "#854018", "#EAE7E0", "#240F08"]
 source_url: "https://aesthetics.fandom.com/wiki/Antique"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

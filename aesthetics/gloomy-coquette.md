@@ -5,6 +5,7 @@ aka: ["Gloomy Dollette"]
 decade_of_origin: "2020s"
 key_motifs: ["Girlhood", "vintage femininity", "melancholy"]
 key_colours: ["Gray", "white", "and pink"]
+palette: ["#232022", "#62615F", "#786F6F", "#413D3D", "#988E8B", "#ADA39F"]
 related_aesthetics: ["Coquette", "Delicate Sweet", "Dollette", "Mochette", "Morute", "Waif"]
 source_url: "https://aesthetics.fandom.com/wiki/Gloomy_Coquette"
 license: "CC-BY-SA-4.0"

@@ -4,6 +4,7 @@ slug: "forestpunk"
 decade_of_origin: "2010s"
 key_motifs: ["Dense forests", "fog", "rivers", "bushcraft", "foraging", "camping", "wildlife (deer, crows)", "cabins", "bonfires"]
 key_colours: ["Earth tones (dark green, brown, grey)", "black", "muted reds"]
+palette: ["#303631", "#1A2426", "#090B0F", "#424F47", "#E0CEB9", "#80705A"]
 key_values: ["Nature conservation", "self-sustainability", "anti-consumerism", "wilderness", "resilience", "primal connection", "DIY ethos"]
 related_aesthetics: ["Cabincore", "Cottagecore", "Cryptidcore", "Dark Naturalism", "Gloomcore", "Goblincore", "Mori Kei", "Mushroomcore", "Naturecore", "Neofolk", "Northerness"]
 source_url: "https://aesthetics.fandom.com/wiki/Forestpunk"

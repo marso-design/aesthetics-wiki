@@ -5,6 +5,7 @@ aka: ["Chinese Sci-Fi Futurism", "Socialist Cyberpunk"]
 decade_of_origin: "2010s"
 key_motifs: ["Infrastructure", "space exploration", "electronics", "artificial intelligence", "Chinese cities"]
 key_colours: ["Red", "blue", "beige", "metallics"]
+palette: ["#A29587", "#141313", "#272C29", "#7D5D4C", "#525B4B", "#708379"]
 key_values: ["Cultural identity", "reflection and prospect on modern technology"]
 related_aesthetics: ["Afrofuturism", "Guochao", "Indigenous Futurisms", "Neo-Chinese Style", "Silkpunk", "Y3K"]
 related_media: ["The Three-Body Problem"]

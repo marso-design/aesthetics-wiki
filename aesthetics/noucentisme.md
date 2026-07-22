@@ -4,6 +4,7 @@ slug: "noucentisme"
 decade_of_origin: "c. 1906–1923"
 key_motifs: ["Classical forms", "Mediterranean landscapes", "idealized rural life", "order", "clarity", "balanced compositions", "arches and columns"]
 key_colours: ["Muted and earthy tones", "ochre", "white", "beige", "soft blues and greens"]
+palette: ["#241814", "#A29786", "#312E27", "#635D50", "#4A2119", "#464136"]
 key_values: ["Order", "reason", "classicism", "civility", "Catalan identity (\"Catalanitat\")", "Mediterraneanism", "rejection of Modernisme"]
 related_aesthetics: ["Art Deco", "Classicism", "Modernisme", "Neoclassicism"]
 source_url: "https://aesthetics.fandom.com/wiki/Noucentisme"

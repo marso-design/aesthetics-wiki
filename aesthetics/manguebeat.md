@@ -5,6 +5,7 @@ aka: ["Manguebit"]
 decade_of_origin: "1990s"
 key_motifs: ["Mangroves", "crabs", "parabolic dish in the mud", "fusion of traditional and modern", "social critique"]
 key_colours: ["Vibrant (white, blue, yellow, red, green)", "reflecting maracatu aesthetics"]
+palette: ["#FFFFFF", "#E9E8E9", "#44778D", "#273046", "#C09A87", "#692C24"]
 key_values: ["Self-expression", "cultural resistance", "appreciation of Brazilian Northeastern culture", "social and environmental critique", "artistic renewal"]
 related_aesthetics: ["Psychedelia", "Rave", "Hip-Hop", "Funk"]
 primary_platform: ["Music festivals", "local scene", "later national and international media"]

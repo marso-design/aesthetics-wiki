@@ -6,6 +6,7 @@ key_motifs: ["Baggy clothing (jeans, hoodies)", "wallet chains", "spiky hair", "
 key_values: ["Angst", "rage", "defiance", "emotiveness", "decaying visuals", "atmospheric sludge", "industrial settings"]
 related_aesthetics: ["Alternative", "Cyber Grunge", "Grunge", "90s Cool", "Horrorcore", "Hip-Hop", "Industrial", "Y2K", "Juggalo", "Graffiti Pop", "Mallgoth", "Metal", "Skater", "Olderbrothercore", "Post-Grunge Maximalism"]
 related_media: ["Ergo Proxy", "Queen of the Damned", "Total Request Live", "What's Nu?", "WWF/E"]
+palette: ["#0B0907", "#1E1E1B", "#ADA191", "#5A5C5A", "#57402E", "#958273"]
 source_url: "https://aesthetics.fandom.com/wiki/Nu-Metal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

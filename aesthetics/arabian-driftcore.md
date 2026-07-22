@@ -5,6 +5,7 @@ aka: ["Arab Drift", "Arab Driftcore", "Saudi Drift"]
 decade_of_origin: "Early 2010s"
 key_motifs: ["Honda Civics drifting", "car fumes", "eyes of Arabian women (often with makeup]]", "Middle Eastern scenery and occasionally Arabic scripture", "face piercings", "cigarettes"]
 key_colours: ["Dark colours like blacks", "greys", "browns", "deep reds and white"]
+palette: ["#1F1111", "#88765A", "#FFFFFF", "#B7B2A3", "#645F53", "#CCD3CF"]
 related_aesthetics: ["Arabian Nights", "Arabfunny", "Xpiritualism", "Weirdcore", "Urbancore", "Sextrance"]
 source_url: "https://aesthetics.fandom.com/wiki/Arabian_Driftcore"
 license: "CC-BY-SA-4.0"

@@ -5,6 +5,7 @@ aka: ["Dream Music"]
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Rainy cityscapes", "neon lights", "cyberpunk themes", "surrealism", "glitch art", "loneliness", "dreams"]
 key_colours: ["Deep blues", "purples", "black", "neon accents"]
+palette: ["#101928", "#3B355C", "#1C3246", "#8A498D", "#6F3684", "#84BDD4"]
 key_values: ["Atmosphere", "futurism", "introspection", "originality (sample-free music)", "narrative"]
 related_aesthetics: ["Cyberpunk", "Glitch Art", "Lo-fi", "Neon Noir", "Slushwave", "Synthwave", "Vaporwave"]
 primary_platform: ["Bandcamp", "SoundCloud"]

@@ -8,6 +8,7 @@ key_values: ["Confusion", "disorientation", "dread", "alienation", "nostalgia (a
 related_aesthetics: ["Blogspot Scene", "After Hours", "Bastardcore", "Dreamcore", "Glitch Art", "Glitter Graphics", "Kidcore", "Liminal Space", "Net.art", "Surrealism", "Vaporwave", "Webcore", "Xpiritualism"]
 primary_platform: ["Tumblr"]
 related_media: ["Soup 0.9", "Yume Nikki", "LSD Dream Emulator"]
+palette: ["#080408", "#7A8483", "#C4AC88", "#37403B", "#5C6A5A", "#694D43"]
 source_url: "https://aesthetics.fandom.com/wiki/Weirdcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

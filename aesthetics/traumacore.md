@@ -4,6 +4,7 @@ slug: "traumacore"
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Childhood innocence juxtaposed with trauma", "loss of innocence", "distorted nostalgia", "dolls", "angels", "blood", "religious imagery", "handwritten text", "visceral imagery (guts)"]
 key_colours: ["Pastel colors (particularly pink)", "white", "grey", "red"]
+palette: ["#383943", "#1A1519", "#C1BBB1", "#66474F", "#F9CCE5", "#696D59"]
 key_values: ["Coping", "emotional expression", "validation", "processing trauma"]
 related_aesthetics: ["Dreamcore", "Liminal Space", "Morute", "Sadgirl", "Sanriocore", "Weirdcore", "Yami Kawaii"]
 primary_platform: ["Tumblr", "Pinterest", "TikTok"]

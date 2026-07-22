@@ -4,6 +4,7 @@ slug: "mud-jar"
 decade_of_origin: "12th–16th Centuries"
 key_motifs: ["Intricate brickwork", "geometric tilework (azulejos)", "carved stucco (yesería)", "elaborate wooden ceilings (artesonado)", "horseshoe arches", "blind arcades"]
 key_colours: ["Terracotta", "brick red", "earth tones", "with vibrant blues", "greens", "and whites from tilework"]
+palette: ["#2B190E", "#493728", "#987558", "#7B6A59", "#66513F", "#B39573"]
 key_values: ["Cultural syncretism", "coexistence (convivencia)", "ornamentation", "craftsmanship"]
 related_aesthetics: ["Gothic Architecture", "Moorish Revival", "Romanesque"]
 source_url: "https://aesthetics.fandom.com/wiki/Mudéjar"

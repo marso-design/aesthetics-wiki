@@ -6,6 +6,7 @@ key_motifs: ["Nostalgic Spanish pop culture (TV, ads)", "political figures", "re
 key_values: ["Nostalgia", "irony", "national/regional identity", "social commentary", "surrealism"]
 related_aesthetics: ["Vaporwave", "SovietwaveShared focus on \"Lost Futures\" and nostalgia for a specific country's past political/cultural era.", "Synthwave"]
 primary_platform: ["Reddit (r/spainwave)"]
+palette: ["#696F82", "#251849", "#BBB9BE", "#9D97AC", "#E0D7D7", "#BB748D"]
 source_url: "https://aesthetics.fandom.com/wiki/Spainwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

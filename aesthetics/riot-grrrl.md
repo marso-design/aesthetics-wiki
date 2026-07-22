@@ -4,6 +4,7 @@ slug: "riot-grrrl"
 decade_of_origin: "Early 1990s"
 key_motifs: ["DIY zines and publications; handwritten text and collage; visible protest slogans; reclaimed derogatory terms; unpolished aesthetics"]
 key_colours: ["Black", "pink", "red", "white", "ivory", "dark grey"]
+palette: ["#A2878B", "#030203", "#1A1A19", "#484646", "#FFFFFF", "#D1D0CF"]
 key_values: ["Feminism", "anti-consumerism", "rejection of the mainstream", "DIY ethos", "female empowerment", "social activism"]
 related_aesthetics: ["Grunge", "Kinderwhore", "Punk", "Queercore"]
 related_media: ["The Punk Singer (2013)", "Girls to the Front: The True Story of the Riot Grrrl Revolution (2010)", "Revolution Girl Style Now! (cassette, 1991)"]

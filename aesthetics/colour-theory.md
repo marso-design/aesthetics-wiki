@@ -1,6 +1,7 @@
 ---
 name: "Colour Theory"
 slug: "colour-theory"
+palette: ["#FFFFFF", "#C9B8A0", "#637A87", "#EB8C49", "#334872", "#241044"]
 source_url: "https://aesthetics.fandom.com/wiki/Colour_Theory"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

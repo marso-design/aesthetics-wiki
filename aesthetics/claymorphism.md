@@ -4,6 +4,7 @@ slug: "claymorphism"
 decade_of_origin: "2020s"
 key_motifs: ["3D \"inflated\" shapes", "clay/Play-Doh textures", "inner and outer shadows", "pastel colors", "rounded corners", "diverse people", "everyday scenarios"]
 key_colours: ["Pastel blue", "pink", "white", "soft gradients"]
+palette: ["#FFFFFF", "#D26075", "#F49498", "#7DC6BE", "#4A3944", "#E4ECF8"]
 key_values: ["Friendliness", "accessibility", "playfulness", "tactility"]
 related_aesthetics: ["Corporate Memphis", "Glassmorphism", "Neumorphism", "Minimalism", "Skeuomorphism"]
 source_url: "https://aesthetics.fandom.com/wiki/Claymorphism"

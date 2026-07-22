@@ -5,6 +5,7 @@ aka: ["Frutiger Evil", "Frutiger Hell"]
 decade_of_origin: "2024"
 key_motifs: ["Pollution", "Destruction", "Red water/Lava/Blood", "Skeletons", "Edited frutiger motifs to make them fit the aesthetics's \"evil\" and/or apocalyptic nature."]
 key_colours: ["Red", "Green", "Brown", "Grey", "Black."]
+palette: ["#211410", "#A6B393", "#606457", "#78846E", "#C9B594", "#979080"]
 related_aesthetics: ["Frutiger Aero"]
 primary_platform: ["Reddit", "r/FrutevilAero"]
 source_url: "https://aesthetics.fandom.com/wiki/Frutevil_Aero"

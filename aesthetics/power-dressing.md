@@ -5,6 +5,7 @@ aka: ["Power Suit"]
 decade_of_origin: "Late 1970s–1980s"
 key_motifs: ["Wide shoulder pads", "tailored suits (for women)", "blazers", "pencil skirts", "\"power ties\" (for men)", "briefcases"]
 key_colours: ["Conservative palettes: navy blue", "charcoal grey", "black", "often accented with a bold color like red"]
+palette: ["#1A1614", "#8D827D", "#D0C8C8", "#5E5551", "#E9E5D9", "#352722"]
 key_values: ["Ambition", "authority", "professionalism", "confidence", "gender equality in the workplace"]
 related_aesthetics: ["Corpcore", "Minimalism", "New Money", "Preppy", "Yuppie"]
 related_media: ["Working Girl (film)", "Dynasty (TV series)"]

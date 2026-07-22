@@ -5,6 +5,7 @@ aka: ["Prep", "Preppie"]
 decade_of_origin: "c. 1910s–1950s (classic era)"
 key_motifs: ["Ivy League universities", "sailing", "tennis", "polo", "country clubs", "classic sportswear"]
 key_colours: ["Navy blue", "khaki", "white", "hunter green", "burgundy", "pastel pink and yellow"]
+palette: ["#1F1E24", "#583532", "#A5806B", "#B3C7CB", "#6A6568", "#C7AE97"]
 key_values: ["Tradition", "\"Old Money", "\" understated class", "leisure", "academic achievement", "conformity to social norms"]
 related_aesthetics: ["Bon Chic", "Bon Genre", "Dark Academia", "Geek Chic", "Light Academia", "Nautical", "Old Money", "Paninaro", "Plazacore", "Sloanie", "Southern Belle", "Yuppie"]
 subgenres: ["2000s Preppy", "Black Ivy", "Ivy League", "Japanese Ivy Style", "Trad Style", "TikTok Preppy"]

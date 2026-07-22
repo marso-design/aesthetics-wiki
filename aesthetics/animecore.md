@@ -5,6 +5,7 @@ aka: ["Otakucore"]
 decade_of_origin: "1990s (Origins)2010s (Aesthetic)"
 key_motifs: ["2000s moe anime characters", "anime figurines", "posters", "cluttered desks", "CRT monitors", "glitter graphics (Blingee, PicMix)", "low-quality images"]
 key_colours: ["Bright", "saturated colors", "often with a neon or pastel tint"]
+palette: ["#C58399", "#85475E", "#F0C1C6", "#FAECE8", "#CDDBD3", "#D7B2B1"]
 key_values: ["Nostalgia for 2000s anime culture", "intense fandom", "visual maximalism", "online community"]
 related_aesthetics: ["Bubblegum Dance (music)", "Cutecore", "E-Girl", "Femcel", "Kawaii", "Kawaii Gamer", "Lolicore", "Nightcore (aesthetic)", "Otaku", "Scenecore", "Superflat", "TechnoNeko2000", "Webcore", "Weeaboo"]
 related_media: ["Lucky Star", "Azumanga Daioh", "the Touhou Project series", "Vocaloid"]

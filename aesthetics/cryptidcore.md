@@ -4,6 +4,7 @@ slug: "cryptidcore"
 decade_of_origin: "2010s"
 key_motifs: ["Cryptids", "urban legends", "abandoned buildings", "dark forests"]
 key_colours: ["Muted", "glow-in-the-dark"]
+palette: ["#231C19", "#453025", "#694532", "#6A6053", "#FFFFFF", "#A17A5E"]
 key_values: ["Adventure", "mystery", "curiosity"]
 related_aesthetics: ["Aliencore", "After Hours", "Liminal Space", "Witchcore", "Goblincore", "Adventurecore", "Midwest Gothic", "Suburban Gothic", "Analog Horror"]
 related_media: ["Gravity Falls", "Twin Peaks", "Unsolved Mysteries", "The Twilight Zone", "The X-Files", "The SCP Foundation", "The Adventure Zone: Amnesty"]

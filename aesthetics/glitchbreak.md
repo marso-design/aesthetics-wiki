@@ -5,6 +5,7 @@ aka: ["Sewercore", "Laincore", "Dreambreak"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Amen break", "atmospheric pads", "glitchy anime artwork", "melancholic or depressive themes", "Y2K internet aesthetics"]
 key_colours: ["Muted palettes", "purple", "black", "neons"]
+palette: ["#030305", "#13191B", "#393540", "#516560", "#D5D1D8", "#7D6F80"]
 key_values: ["Nostalgia", "introspection", "online identity", "genre fusion"]
 related_aesthetics: ["Cybercore", "Femcel Weeaboo", "Glitch Art", "Glitchcore", "Lolicore", "Maidcore", "Rave", "Webcore", "Y2K"]
 primary_platform: ["TikTok", "Spotify", "SoundCloud"]

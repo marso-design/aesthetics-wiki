@@ -5,6 +5,7 @@ aka: ["Japanese Artcore", "Renaissance Hardcore"]
 decade_of_origin: "Early 2000s"
 key_motifs: ["Classical piano and strings", "high-tempo breakbeats", "anime-styled characters", "fantasy elements (crystals, feathers)", "Gothic architecture"]
 key_colours: ["Cool-toned palettes: blue", "purple", "and white", "often with high contrast"]
+palette: ["#0E0F18", "#68708B", "#EDE3E2", "#1A283E", "#AEA3B3", "#CEC9D0"]
 key_values: ["Melodrama", "elegance", "technical complexity", "fusion of classical and electronic music"]
 related_aesthetics: ["Baroque", "Colorful Pop", "Gothic", "Gothic Lolita"]
 related_media: ["Arcaea", "Cytus II", "CHUNITHM", "KALPA", "Maimai DX", "O.N.G.E.K.I."]

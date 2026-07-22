@@ -3,6 +3,7 @@ name: "Ouji"
 slug: "ouji"
 decade_of_origin: "Late 90s/Early 2000s"
 related_aesthetics: ["Aristocrat", "Dandy", "Lolita", "Gothic Lolita", "Military Lolita", "Visual Kei", "Victorian", "Victorian Goth", "Steampunk"]
+palette: ["#342B24", "#1E1815", "#D6D2CF", "#C7B6A7", "#615244", "#F6F5F7"]
 source_url: "https://aesthetics.fandom.com/wiki/Ouji"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

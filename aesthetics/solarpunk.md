@@ -5,6 +5,7 @@ decade_of_origin: "Coined c. 2000s
 Gained prevalence in the 2010s."
 key_motifs: ["Stained glass solar panels", "plant life", "art noveau", "cluttered visuals", "African and Asian patterns."]
 key_colours: ["Green", "yellow", "blue", "white"]
+palette: ["#1E3D2C", "#63B3C2", "#A6C9CD", "#A2A998", "#E1EBEF", "#407F7C"]
 key_values: ["Inclusion", "community", "environmental awareness", "local businesses over corporations", "renewable energy."]
 related_aesthetics: ["Afrofuturism", "Art Nouveau", "Avant Apocalypse", "Biopunk", "Cottagecore", "Cyberprep", "Cyberpunk (contrasts)", "Frutiger Aero", "Frutiger Eco", "Lunarpunk", "Technozen", "Naturecore", "Steampunk (contrasts)", "Indigenous Futurisms"]
 source_url: "https://aesthetics.fandom.com/wiki/Solarpunk"

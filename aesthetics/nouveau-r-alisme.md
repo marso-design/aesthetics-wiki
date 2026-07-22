@@ -5,6 +5,7 @@ aka: ["New Realism"]
 decade_of_origin: "Early 1960s"
 key_motifs: ["Everyday objects", "discarded or industrial materials", "decollage", "accumulations", "compression"]
 key_colours: ["Varies", "often bold and industrial"]
+palette: ["#212628", "#B3B1A6", "#D4C7B4", "#F0B650", "#F3F7F7", "#7E4437"]
 key_values: ["Appropriation of the real", "social commentary", "anti-aesthetic", "anti-consumerism"]
 related_aesthetics: ["Arte Povera", "Avant-garde", "Figuration Narrative", "Neo-Pop", "Pop Art", "Social Realism", "Surrealism"]
 source_url: "https://aesthetics.fandom.com/wiki/Nouveau_Réalisme"

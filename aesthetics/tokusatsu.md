@@ -5,6 +5,7 @@ aka: ["Special Filming", "Tokugi"]
 decade_of_origin: "1950s-Present"
 key_motifs: ["Creature suits (kaiju, monsters, aliens)", "transforming heroes (Henshin)", "miniature city sets", "exaggerated combat", "futuristic technology", "masked superheroes", "giant robots"]
 key_colours: ["Often vibrant primary colors", "metallic sheens", "dark monster tones", "explosive effects"]
+palette: ["#8BABB1", "#1C2429", "#474140", "#607376", "#969693", "#ABCFEE"]
 key_values: ["Heroism", "justice", "humanity's spirit", "fight against evil/fascism", "appreciation for life", "technological wonder"]
 related_aesthetics: ["Atompunk", "Cyberpunk", "Dieselpunk", "Magical Girl", "Mecha", "Retrofuturism", "Synthwave", "Y2K Futurism"]
 primary_platform: ["Film", "Television"]

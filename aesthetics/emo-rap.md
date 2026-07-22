@@ -5,6 +5,7 @@ aka: ["Emo Hip-Hop", "Sad Rap", "Emo Trap", "Depressed Rap", "Bop-Punk"]
 decade_of_origin: "2010s"
 key_motifs: ["Trap beats", "sung vocals", "melancholic melodies", "dark lyrics"]
 key_colours: ["Black", "white", "red", "purple"]
+palette: ["#060705", "#A2A19A", "#FFFFFF", "#E1D5C5", "#957B67", "#9D1503"]
 key_values: ["Emotional vulnerability", "expression of sadness", "mental health awareness"]
 related_aesthetics: ["Dead Inside", "Drain", "E-Boy", "E-Girl", "Emo", "Grunge", "Hip-Hop", "Sadboi", "Sadgirl", "Trap Metal", "Trxsh", "Witch House"]
 related_media: ["SoundCloud"]

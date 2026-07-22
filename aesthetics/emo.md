@@ -7,6 +7,7 @@ decade_of_origin: "1980s (First Wave)
 2000s (Third Wave/Mainstream Subculture)"
 key_motifs: ["Side-swept bangs (fringe)", "skinny jeans", "band t-shirts", "studded belts", "Converse sneakers", "heavy eyeliner", "confessional lyrics"]
 key_colours: ["Primarily black", "often with accents of red", "white", "or dark jewel tones"]
+palette: ["#010001", "#BFADAF", "#828E7A", "#1D2024", "#E1DCDC", "#665F60"]
 key_values: ["Emotional vulnerability", "introspection", "sensitivity", "angst", "heartbreak", "musical identity"]
 related_aesthetics: ["Scene", "Fashioncore", "Goth", "Punk", "Grunge", "Midwest Emo", "Indie Sleaze", "E-Girl", "E-Boy", "Glitter Graphics", "Emo Rap", "Teenpunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Emo"

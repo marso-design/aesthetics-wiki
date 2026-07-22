@@ -5,6 +5,7 @@ aka: ["Hot Rodding", "Hot Rod Culture"]
 decade_of_origin: "1930s (gained popularity post-WWII)"
 key_motifs: ["Stripped-down pre-1949 Fords (Model Ts, Model As, '32 Deuce Coupe)", "exposed engines", "chopped roofs", "pinstriping", "flames", "chrome", "dry lake racing", "drag racing"]
 key_colours: ["Chrome", "deep glossy lacquer colors (red, black, yellow)", "primer/matte black (Rat Rods)"]
+palette: ["#37332D", "#120C0B", "#5F554B", "#CAC0B0", "#A97C5D", "#98583C"]
 key_values: ["Speed", "technical innovation", "anti-conformity", "self-expression", "hands-on craftsmanship", "Americana"]
 related_aesthetics: ["Americana", "Greaser", "Kustom Kulture", "Pin-up", "Raggare", "Rockabilly", "Route 66"]
 primary_platform: ["Dry lake beds", "drag strips", "car shows", "Hot Rod Magazine"]

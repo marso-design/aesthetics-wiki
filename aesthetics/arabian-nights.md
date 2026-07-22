@@ -7,6 +7,7 @@ key_values: ["Cultural pride", "beauty", "tradition", "modernity"]
 related_aesthetics: ["Orientalism", "Royalcore"]
 primary_platform: ["TikTok"]
 related_media: ["Aladdin (1992)"]
+palette: ["#272324", "#483321", "#4B443C", "#8C7B68", "#6D635A", "#AB9886"]
 source_url: "https://aesthetics.fandom.com/wiki/Arabian_Nights"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

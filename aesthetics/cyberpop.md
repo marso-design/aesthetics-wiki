@@ -5,6 +5,7 @@ aka: ["Cyber"]
 decade_of_origin: "1990s"
 key_motifs: ["Retro-futurism"]
 key_colours: ["Neon"]
+palette: ["#2F2D2E", "#F0EFEC", "#CED4D9", "#CCB5B9", "#808B99", "#CE837E"]
 key_values: ["Envisioning the future as incredibly bright and neon. Affiliated with dance and party culture."]
 related_aesthetics: ["Club Kids", "Cybergoth", "Cyberprep", "Cyberpunk", "Decora", "Dokukawaii", "Harajuku Fashion", "Kandi Raver", "Raver", "Retrofuturism", "Shibuya Punk", "Uchuu Kei", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Cyberpop"

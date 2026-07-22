@@ -5,6 +5,7 @@ aka: ["Chaos Academia"]
 decade_of_origin: "2010s"
 key_motifs: ["illegible notes", "disorganized desks", "dusty records", "messy handwriting", "ragged fabrics", "torn and stained pages"]
 key_colours: ["White", "beige", "gray", "woody brown", "tan"]
+palette: ["#1F1D1D", "#684B39", "#9C998C", "#857062", "#C0AA96", "#566760"]
 key_values: ["Disorganization", "philosophy", "curiosity", "learning", "rejection of elitism", "niche subjects"]
 related_aesthetics: ["Dark Academia", "Light Academia"]
 related_media: ["To Kill a Mockingbird", "Naked Lunch"]

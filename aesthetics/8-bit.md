@@ -6,6 +6,7 @@ decade_of_origin: "1980s"
 key_motifs: ["Extremely limited color palettes", "minimal animation", "blocky graphics", "lack of outlines or shading", "lettering with blocky dropshadows"]
 related_aesthetics: ["Arcadecore", "Cassette Futurism", "Early Cyber", "Lo-Fi", "Low Poly", "PC-98", "Pixelscape", "Pixel UI", "Programmer Art", "Shanzhai"]
 related_media: ["Sprite comics"]
+palette: ["#46420E", "#000000", "#9FFCEC", "#69B3AD", "#2A332C", "#547560"]
 source_url: "https://aesthetics.fandom.com/wiki/8-Bit"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

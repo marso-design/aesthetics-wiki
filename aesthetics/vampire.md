@@ -5,6 +5,7 @@ aka: ["Vampirecore", "Modern Vampire"]
 decade_of_origin: "19th Century (Modern Archetype)"
 key_motifs: ["Fangs", "blood", "bats", "coffins", "castles", "moonlight", "aristocratic attire", "dark romanticism"]
 key_colours: ["Black", "deep red", "white", "silver"]
+palette: ["#030303", "#7C7878", "#281616", "#888E8D", "#564C49", "#E9E8E8"]
 key_values: ["Immortality", "forbidden knowledge", "transgression", "elegance", "tragedy"]
 related_aesthetics: ["Darkest Academia", "Dark Academia", "Goth", "Gothic", "Halloween", "Romantic Goth", "Victorian Goth", "Witchcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Vampire"

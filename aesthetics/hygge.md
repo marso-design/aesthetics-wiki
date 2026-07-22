@@ -4,6 +4,7 @@ slug: "hygge"
 decade_of_origin: "c. 1800s (dates back to the Middle Ages)"
 key_motifs: ["Candles", "warm drinks", "gatherings", "natural materials"]
 key_colours: ["Warm", "soft tones"]
+palette: ["#21140A", "#3B2213", "#BBA07E", "#825231", "#624E40", "#D7CBB3"]
 key_values: ["Comfort", "togetherness", "simplicity", "well-being"]
 related_aesthetics: ["Autumn", "Comfy/Cozy", "Cottagecore", "Japandi", "Minimalism", "Northerness", "Scandi Girl Winter", "Scandinavian Design", "Winter"]
 related_media: ["\"The Little Book of Hygge\" by Meik Wiking"]

@@ -5,6 +5,7 @@ aka: ["Surge", "Hexxed", "Hex"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Bitcrushed audio", "compressed images", "anime characters", "2000s video games", "Old Web graphics", "distortion", "glitter graphics", "esoteric symbols"]
 key_colours: ["White", "pink", "purple", "black", "holographic colors"]
+palette: ["#9CD6C8", "#0F020F", "#6B8180", "#544968", "#C19594", "#E1DADC"]
 key_values: ["Nostalgia", "mystery", "surrealism"]
 related_aesthetics: ["Animecore", "Cybersigilism", "Drain", "Glitch Art", "Trillwave", "Vaporwave", "Webcore", "Xpiritualism"]
 subgenres: ["Sextrance", "Sigilkore", "Krushclub"]

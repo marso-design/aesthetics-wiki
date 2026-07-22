@@ -5,6 +5,7 @@ aka: ["Bestial Black Metal", "War Black Metal"]
 decade_of_origin: "Late 1980s"
 key_motifs: ["War", "nuclear holocaust", "chaos", "Satanism", "blasphemy", "bullet belts", "spikes"]
 key_colours: ["Black", "white", "red"]
+palette: ["#010101", "#CFC8BC", "#B3AFA8", "#777373", "#494749", "#1F1E1F"]
 key_values: ["Aggression", "chaos", "primitivism", "anti-religion"]
 related_aesthetics: ["Black Metal", "Death Metal", "Metal", "Post-Apocalyptic", "Punk"]
 source_url: "https://aesthetics.fandom.com/wiki/War_Metal"

@@ -5,6 +5,7 @@ aka: ["NSK"]
 decade_of_origin: "1980s"
 key_motifs: ["Black cross (Malevich)", "stags", "industrial imagery", "appropriation of totalitarian art (Nazi Kitsch, Socialist Realism)", "avant-garde symbols"]
 key_colours: ["Red", "black", "white"]
+palette: ["#3E312D", "#090507", "#DCCBAF", "#655549", "#241F26", "#F1ECDF"]
 key_values: ["Collective identity", "retro-avant-garde principles", "challenging national identity", "critique of ideology through \"over-identification\""]
 related_aesthetics: ["Constructivism", "Dadaism", "Industrial", "Martial Industrial", "Nazi Chic", "Socialist Realism", "Suprematism", "Totalitarian Kitsch"]
 source_url: "https://aesthetics.fandom.com/wiki/Neue_Slowenische_Kunst"

@@ -5,6 +5,7 @@ aka: ["Vintage Indie", "Indie Grunge"]
 decade_of_origin: "1980s"
 key_motifs: ["Records and CDs", "books", "muted color palette", "moody atmosphere", "Polaroids", "poetry"]
 key_colours: ["Neutrals", "blue", "red", "green"]
+palette: ["#1E231F", "#747A77", "#A79285", "#503D36", "#715E52", "#525A55"]
 key_values: ["Individualism", "philosophy", "independence", "overcoming adversity"]
 related_aesthetics: ["Bloghouse", "Indie Kid", "Indie Sleaze", "Dark Academia", "Doomer", "Light Academia", "Romantic Academia", "Alternative", "Cuddle Party", "French New Wave", "Bravú", "Grunge", "Lo-Fi", "Madchester", "New Rave", "Poppare", "Britpop", "Skater", "Twee", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Indie"

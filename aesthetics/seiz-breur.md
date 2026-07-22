@@ -5,6 +5,7 @@ aka: ["Ar Seiz Breur"]
 decade_of_origin: "1920s–1940s"
 key_motifs: ["Triskelion", "hermine", "wood engraving", "waves", "folklore", "pilgrimage", "nature", "Celtic knots", "marine life", "religious and folklorical imagery"]
 key_colours: ["Black", "white", "muted colors", "earth tones", "gold"]
+palette: ["#363535", "#585758", "#121010", "#827877", "#E6DBC5", "#FFFFFF"]
 key_values: ["Breton nationalism", "anti-centralization", "cultural revival", "rejection of mass-produced tourist art", "synthesis of tradition and modernism"]
 related_aesthetics: ["Arts and Crafts", "Art Deco", "Bauhaus"]
 source_url: "https://aesthetics.fandom.com/wiki/Seiz_Breur"

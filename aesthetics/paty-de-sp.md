@@ -5,6 +5,7 @@ aka: ["Paty", "Patycore", "Paty Girl", "Patty", "Patricinha", "Burguesa", "Mauri
 decade_of_origin: "2000s (pre-concept), early 2020s"
 key_motifs: ["Black leather and shiny clothes", "silver accessories", "selfies"]
 key_colours: ["Black", "white", "silver", "pink", "blue"]
+palette: ["#32241F", "#75472F", "#C3A486", "#C09162", "#9A9574", "#A8805B"]
 key_values: ["Elegance", "beauty", "chic", "sensuality", "self-confidence", "self-love"]
 related_aesthetics: ["Milipili", "Mandrake", "Bimbocore", "Bubblegum Bitch", "Baddie"]
 primary_platform: ["TikTok"]

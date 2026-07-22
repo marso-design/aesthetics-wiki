@@ -5,6 +5,7 @@ aka: ["Softie (masculine)"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Oversized tops (sweaters, t-shirts, hoodies, cardigans, overshirts)", "straight-leg/baggy pants", "layered clothing", "relaxed fit", "vintage feel", "artfully tousled hair (curtains, shaggy cuts, bangs)", "minimal/light facial hair", "intellectual/artistic items"]
 key_colours: ["Muted tones (faded blue, yellow, dusty pink)", "earthy tones (brown, green, rust orange)", "soft pastels (lavender)", "neutral shades (beige, cream, gray)"]
+palette: ["#433636", "#212229", "#938884", "#919EB2", "#FDEFF1", "#516884"]
 related_aesthetics: ["Art Hoe", "E-Boy", "Femboy", "Hallyu", "Kawaii", "Skater", "Soft Girl (counterpart)", "Soft Grunge", "VSCO Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Boy"
 license: "CC-BY-SA-4.0"

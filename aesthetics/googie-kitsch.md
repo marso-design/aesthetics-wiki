@@ -4,6 +4,7 @@ slug: "googie-kitsch"
 decade_of_origin: "late 1970s"
 key_motifs: ["colorful George Nelson clocks", "boomerang tables"]
 related_aesthetics: ["Diner Kitsch", "Pacific Punk Wave", "Y2K", "Wacky Pomo", "Retrofuturism", "Raygun Gothic"]
+palette: ["#ECBA48", "#72B9AD", "#150E1A", "#783448", "#7E5854", "#331E2B"]
 source_url: "https://aesthetics.fandom.com/wiki/Googie_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

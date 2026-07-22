@@ -5,6 +5,7 @@ aka: ["Pink Parisian Chic"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Loopy illustrations", "high-heeled shoes", "shopping bags", "cocktails", "stylized female figures", "Parisian iconography", "frills and bows"]
 key_colours: ["Pink", "yellow", "green", "white", "blue", "purple"]
+palette: ["#FFFFFF", "#2B1F21", "#3AB7E3", "#992D32", "#BD8178", "#E1D3BF"]
 key_values: ["Glamour", "femininity", "consumerism", "urban lifestyle", "playful indulgence"]
 related_aesthetics: ["Curly Girly", "McBling", "Parisian Girly", "Vectordelia"]
 source_url: "https://aesthetics.fandom.com/wiki/Shoe_Diva"

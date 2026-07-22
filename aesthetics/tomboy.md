@@ -5,6 +5,7 @@ aka: ["Cool-Girl", "Masculine Girl", "Boyish Girl"]
 decade_of_origin: "Term: 1533Application to group: 1890s"
 key_motifs: ["Sports", "the outdoors", "video games", "skateboarding", "surfing", "rollerskating", "cars", "motorcycles", "traditionally masculine activities", "LGBTQ+ culture"]
 key_colours: ["White", "black", "red", "blue", "green", "grey", "purple", "orange"]
+palette: ["#0B0B11", "#D1CCC3", "#434451", "#A8AAAE", "#9A8883", "#CBADA3"]
 key_values: ["Feminism", "rejection of gender norms", "masculinity", "androgyny"]
 related_aesthetics: ["90s Cool", "Adventurecore", "Bro Hoe", "Femboy (counterpart)", "Girl Crush", "Grunge", "Olderbrothercore", "Skater"]
 source_url: "https://aesthetics.fandom.com/wiki/Tomboy"

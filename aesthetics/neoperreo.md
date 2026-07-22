@@ -5,6 +5,7 @@ aka: ["Neo-Perreo"]
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Exaggerated makeup", "false nails", "tattoos", "high fashion mixed with street style", "futuristic/net art visuals"]
 key_colours: ["Varies", "often features bold and vibrant colors or dark", "gothic-inspired palettes"]
+palette: ["#1C1B1E", "#7F7A7D", "#C88090", "#5A5B66", "#2D2D32", "#A85C6B"]
 key_values: ["Inclusivity", "feminism", "LGBTQ+ empowerment", "sexual liberation", "DIY ethos", "anti-commercialism"]
 related_aesthetics: ["Bimbocore", "Cyberpunk", "Goth", "Motomami", "Neo-Y2K", "Raxet", "Reggaetonero"]
 source_url: "https://aesthetics.fandom.com/wiki/Neoperreo"

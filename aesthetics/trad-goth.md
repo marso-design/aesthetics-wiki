@@ -5,6 +5,7 @@ aka: ["Traditional Goth", "Batcaver"]
 decade_of_origin: "Late 1970s–1980s"
 key_motifs: ["Big backcombed hair", "heavy black eyeliner", "pale skin", "ripped fishnets", "leather jackets", "band t-shirts", "winklepickers", "DIY elements"]
 key_colours: ["Primarily black", "with accents of white", "red", "or purple"]
+palette: ["#0B0B0A", "#333230", "#52524F", "#CCCAC8", "#656462", "#E5E1DE"]
 key_values: ["DIY ethos", "androgyny", "musical identity", "macabre humor", "rebellion", "artistic expression"]
 related_aesthetics: ["Deathrock", "Glam Rock", "Goth", "New Romantic", "Post-Punk", "Punk"]
 source_url: "https://aesthetics.fandom.com/wiki/Trad_Goth"

@@ -3,6 +3,7 @@ name: "Qin and Han Dynasties"
 slug: "qin-and-han-dynasties"
 decade_of_origin: "1st century"
 key_colours: ["Black", "red"]
+palette: ["#0A0A0A", "#4C463D", "#2E2C27", "#9A9A90", "#685245", "#7B756A"]
 source_url: "https://aesthetics.fandom.com/wiki/Qin_and_Han_Dynasties"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

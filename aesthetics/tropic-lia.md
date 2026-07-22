@@ -5,6 +5,7 @@ aka: ["Tropicalism"]
 decade_of_origin: "1920s"
 key_motifs: ["Freedom", "rock music", "national instruments", "social movements"]
 key_colours: ["Vibrant colors"]
+palette: ["#2C442A", "#030403", "#4B4C2E", "#1F1F13", "#736E2D", "#9F8C49"]
 key_values: ["Individual Freedom", "Democracy", "Patriotism"]
 related_aesthetics: ["Hipster", "Hippie", "Psychedelia", "Tropical", "Brazilian Carnival", "Pop Art", "Glam Rock", "Brazilcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Tropicália"

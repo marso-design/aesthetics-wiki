@@ -5,6 +5,7 @@ aka: ["Flowercore", "Floral Aesthetic"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Flowers (wildflowers, roses, poppies, tulips)", "botanical prints", "gardens", "pressed flowers", "chintz fabric", "fruit trees"]
 key_colours: ["Naturalistic palettes (greens, whites, pastels)", "dark florals (deep blues, blacks, rich reds)"]
+palette: ["#525337", "#372A22", "#784C30", "#8E6A47", "#6C6A57", "#94876F"]
 key_values: ["Connection to nature", "quiet lifestyle", "nostalgia", "well-being", "romanticism"]
 related_aesthetics: ["Cottagecore", "Gardencore", "Grandmacore", "Naturecore", "Romantic Academia"]
 source_url: "https://aesthetics.fandom.com/wiki/Bloomcore"

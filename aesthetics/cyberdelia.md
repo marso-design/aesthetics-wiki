@@ -5,6 +5,7 @@ aka: ["Cyberdelic"]
 decade_of_origin: "1980s"
 key_motifs: ["Early CGI", "kaleidoscopic patterns", "acid colors", "fractal forms", "psychedelic visuals", "rave culture imagery"]
 key_colours: ["Rainbow", "neon", "fluorescent colors"]
+palette: ["#DD9C34", "#A78C67", "#34292B", "#A44D33", "#EAD672", "#CB6E31"]
 related_aesthetics: ["Acid Design", "Acid House", "Cyberpunk", "Demoscene", "Early Cyber", "Glitch Art", "Groovival", "Hippie", "Low Poly", "Psychedelia", "Raver", "Vaporwave", "Y2K Futurism"]
 related_media: ["Hackers", "The Lawnmower Man", "LSD: Dream Emulator", "Worlds.com"]
 source_url: "https://aesthetics.fandom.com/wiki/Cyberdelia"

@@ -5,6 +5,7 @@ aka: ["Gabba", "Gabbercultuur"]
 decade_of_origin: "Early 1990s"
 key_motifs: ["Shaved heads", "tracksuits (especially Australian L'Alpina)", "bomber jackets", "Nike Air Max sneakers", "the Hakken dance"]
 key_colours: ["Varies by sportswear brand"]
+palette: ["#3B3B44", "#080812", "#6F7E8B", "#E7DDD3", "#C0C6C6", "#B19E9A"]
 key_values: ["Working-class pride", "hedonism", "intensity", "community (\"friendship\")", "anti-pretension", "DIY ethic"]
 related_aesthetics: ["Rave", "New Beat", "Acid House", "Skinhead", "Tänzelcore", "Wixa"]
 source_url: "https://aesthetics.fandom.com/wiki/Gabber"

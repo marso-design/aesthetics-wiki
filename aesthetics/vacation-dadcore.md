@@ -5,6 +5,7 @@ aka: ["Loco", "Tropical Kitsch"]
 decade_of_origin: "2010s (as a defined aesthetic)"
 key_motifs: ["Hawaiian shirts", "poolside settings", "beaches", "moustaches", "aviator sunglasses", "cocktails", "day drinking"]
 key_colours: ["Bright reds", "blues", "yellows", "and pinks", "often paired with beige", "tan", "or white"]
+palette: ["#060405", "#8FBCC8", "#9A6357", "#312726", "#D5D4D3", "#1A3753"]
 key_values: ["Relaxation", "leisure", "fun", "comfort", "nostalgia", "kitsch"]
 related_aesthetics: ["Nautical", "Tiki", "Tropical", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Vacation_Dadcore"

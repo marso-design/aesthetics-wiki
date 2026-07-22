@@ -5,6 +5,7 @@ aka: ["Deconstructivist Architecture"]
 decade_of_origin: "Late 1980s"
 key_motifs: ["Fragmentation", "asymmetry", "instability", "controlled chaos", "skewed lines", "non-rectilinear shapes", "voids (functional and cognitive)", "follies (ornamental structures)"]
 key_colours: ["Muted metallics (titanium, steel)", "exposed concrete", "glass", "white"]
+palette: ["#6487AA", "#1F221B", "#473E31", "#8FB2D2", "#938F89", "#455B64"]
 key_values: ["Challenging modernist dogma", "dismantling hierarchies (form/function)", "experimentation", "rejection of harmony and unity"]
 related_aesthetics: ["Brutalism", "Constructivism", "Postmodernism"]
 source_url: "https://aesthetics.fandom.com/wiki/Deconstructivism"

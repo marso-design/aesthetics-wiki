@@ -5,6 +5,7 @@ aka: ["Popcorn", "Oldies Popcorn"]
 decade_of_origin: "Late 1960s"
 key_motifs: ["Slow swing dance", "obscure vinyl records", "vintage aesthetics (1950s/1960s Americana)", "formal attire", "crowded dance halls", "neon signs", "beer consumption"]
 key_colours: ["Dark", "opulent colors (reflective of the atmosphere)"]
+palette: ["#5A5D57", "#484947", "#201B1C", "#CECAC2", "#B4B1A9", "#E7E4DF"]
 key_values: ["Exclusivity", "style", "self-respect", "community", "decadence", "historical reverence"]
 related_aesthetics: ["Northern Soul (parallel)", "New Beat (successor)"]
 primary_platform: ["Clubs and Dance Halls (The Popcorn, The Groove)"]

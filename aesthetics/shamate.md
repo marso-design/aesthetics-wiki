@@ -3,6 +3,7 @@ name: "Shamate"
 slug: "shamate"
 decade_of_origin: "2000s"
 related_aesthetics: ["Emo", "Goth", "Jejemon", "Pokemón", "Punk", "Scene", "Too Cool", "Visual Kei", "Xpiritualism", "Yabi"]
+palette: ["#26242C", "#B1A299", "#525865", "#090637", "#707784", "#C3846F"]
 source_url: "https://aesthetics.fandom.com/wiki/Shamate"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

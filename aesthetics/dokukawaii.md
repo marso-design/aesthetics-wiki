@@ -4,6 +4,7 @@ slug: "dokukawaii"
 aka: ["Dokukawa", "Neon Gore"]
 decade_of_origin: "2010s"
 key_colours: ["Rainbow", "neon colors"]
+palette: ["#F7EB00", "#101353", "#FBF9C2", "#C7A6A0", "#EE5B9C", "#8C6E7C"]
 related_aesthetics: ["Animecore", "Colorful Pop", "Gurokawa", "Medicalcore", "Pastel Gore", "Superflat", "Yami Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Dokukawaii"
 license: "CC-BY-SA-4.0"

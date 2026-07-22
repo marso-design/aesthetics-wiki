@@ -5,6 +5,7 @@ aka: ["Wiesn", "d'Wiesn"]
 decade_of_origin: "1800s"
 key_motifs: ["Beer", "food", "traditional Bavarian costumes", "parades", "music"]
 key_colours: ["Green", "yellow", "red", "brown", "blue and white"]
+palette: ["#47362D", "#130F12", "#6F7D75", "#FFFFFF", "#814932", "#B87C4B"]
 key_values: ["Drinking", "parades", "music", "celebration of Bavarian culture"]
 related_aesthetics: ["Saint Patrick's Day", "Autumn"]
 source_url: "https://aesthetics.fandom.com/wiki/Oktoberfest"

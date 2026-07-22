@@ -7,6 +7,7 @@ key_motifs: ["Multiculturalism", "bizarre/surreal imagery", "low quality digital
 key_values: ["Confusion", "discomfort", "foreignness", "nostalgia", "lack of context", "surrealism", "the uncanny"]
 related_aesthetics: ["Blogspot Scene", "Digital Horror", "Dollar Store Vernacular", "Draincore", "Fotonight Web", "Glitch Art", "Glitter Graphics", "Goreweb", "HexD", "Keller Synth", "Net.art", "Old Web", "Rave", "Shanzhai", "Weirdcore", "Webcore", "Yabujincore (mainstream subgenre)"]
 related_media: ["SoundCloud Underground", "Instagram", "VK", "4chan", "Telegram", "Newgrounds", "old Flash content", "foreign websites", "online forums"]
+palette: ["#151E2B", "#383646", "#416B7B", "#D6CFC7", "#EAEDE6", "#A8CFCB"]
 source_url: "https://aesthetics.fandom.com/wiki/Xpiritualism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

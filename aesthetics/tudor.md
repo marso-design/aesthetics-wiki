@@ -5,6 +5,7 @@ aka: ["Elizabethan Era"]
 decade_of_origin: "1485-1603"
 key_motifs: ["Tudor rose", "heraldry", "ornate patterns", "classical elements", "symbolism (e.g., pearls for purity, pansies for thought)", "Tudor hood"]
 key_colours: ["Rich jewel tones (e.g., deep reds, blues, greens, purples)", "gold", "black", "white", "earthy tones for lower classes"]
+palette: ["#100B09", "#2B1C16", "#DEDDDB", "#5C503E", "#845E34", "#8F764D"]
 key_values: ["Hierarchy", "wealth", "status", "piety", "national identity", "order"]
 related_aesthetics: ["Baroque", "Gothic Architecture", "Italian Renaissance", "Jacobean"]
 source_url: "https://aesthetics.fandom.com/wiki/Tudor"

@@ -5,6 +5,7 @@ aka: ["Wacky Postmodern"]
 decade_of_origin: "1990s"
 key_motifs: ["Cartoon imagery", "spirals", "slime", "eccentricity", "junk food", "gross-out humor"]
 key_colours: ["Purple", "green", "yellow", "orange"]
+palette: ["#68716E", "#524542", "#1D1B1C", "#302F2F", "#9DAB98", "#CF764E"]
 related_aesthetics: ["Googie Kitsch", "Groovival", "Jumbled Font", "Kidcore", "Kid Science", "Mad Scientist", "Memphis Lite", "Memphis Jr.", "Mid-Century Modern", "Rad Dog", "Neon Ooze", "Slimepunk", "Global Village Coffeehouse", "Utopian Scholastic", "Factory Pomo", "Vaporwave", "Silicon Dreams", "Memphis Design", "Y2K Futurism", "Skeuomorphism", "Whimsicraft", "Fleischer Style", "Lowbrow", "Shoe Diva", "Festival Marketplace", "Mission School", "Vectordelia"]
 source_url: "https://aesthetics.fandom.com/wiki/Wacky_Pomo"
 license: "CC-BY-SA-4.0"

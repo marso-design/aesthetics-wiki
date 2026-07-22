@@ -4,6 +4,7 @@ slug: "xo"
 decade_of_origin: "Late 2000s/Early 2010s"
 key_motifs: ["Addiction", "self-loathing", "promiscuity", "manipulation", "detachment from reality", "heavy drug usage"]
 key_colours: ["Black", "White", "Greyscale", "Yellow", "Red", "Blue"]
+palette: ["#0B0B0B", "#EFEFEE", "#ACADAC", "#373737", "#595959", "#959595"]
 key_values: ["Understanding the dark side of heavy drug usage", "manipulation", "and sex."]
 related_aesthetics: ["Dark Nymphet", "Grunge", "Indie Sleaze", "Pale Grunge", "Sadboi"]
 source_url: "https://aesthetics.fandom.com/wiki/XO"

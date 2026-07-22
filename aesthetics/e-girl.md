@@ -5,6 +5,7 @@ aka: ["Electronic Girl"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Winged eyeliner", "heavy blush", "drawn-on hearts/tears", "colorful dyed hair (often \"e-girl streaks\")", "layered clothing", "pleated skirts", "chains", "anime and gaming references"]
 key_colours: ["Often black and pink", "but can include a wide range of pastels and bright colors"]
+palette: ["#6F665E", "#462D47", "#292928", "#B0786B", "#7E17BA", "#E0A18B"]
 key_values: ["Internet culture", "online identity", "gaming", "anime", "self-expression", "performative sadness"]
 related_aesthetics: ["Aesthetic Rap", "Alt Kid", "Drain", "E-Boy", "Emo", "Emo Rap", "Femboy", "Kawaii Gamer", "Jirai Kei", "Mallgoth", "Nu-Goth", "Nyashka", "Pastel Goth", "Puppygirl", "Sadgirl", "Scene", "Scenecore", "Soft Grunge"]
 primary_platform: ["TikTok", "Discord"]

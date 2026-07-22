@@ -3,6 +3,7 @@ name: "Shenxian-fu"
 slug: "shenxian-fu"
 decade_of_origin: "2020s"
 key_colours: ["Contrasting red and blue"]
+palette: ["#B4A078", "#3C3126", "#9D3E38", "#676F68", "#D3CCC7", "#987A52"]
 related_aesthetics: ["Wei and Jin Dynasties"]
 source_url: "https://aesthetics.fandom.com/wiki/Shenxian-fu"
 license: "CC-BY-SA-4.0"

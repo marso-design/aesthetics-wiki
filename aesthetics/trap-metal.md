@@ -5,6 +5,7 @@ aka: ["Ragecore", "Death Rap", "Hardcore Trap", "Industrial Trap", "Screamo Trap
 decade_of_origin: "Late 2010s"
 key_motifs: ["Loud distorted 808 patterns", "industrial effects", "heavy harsh vocals", "horror themes", "occult symbols", "dystopian/cyberpunk imagery", "anime/manga references"]
 key_colours: ["Black", "red", "muted tones", "neon accents"]
+palette: ["#FFFFFF", "#AB8983", "#D3C4BF", "#100304", "#393130", "#C40D0C"]
 key_values: ["Aggression", "nihilism", "rebellion", "shock value", "emotional turmoil", "anti-mainstream sentiment"]
 related_aesthetics: ["Drift Phonk", "E-Boy", "Emo Rap", "Hip-Hop", "Horrorcore", "Industrial", "Meme Rap", "Metalhead", "Necrotrap (subgenre)", "Nu-Metal", "Punk", "Trillwave"]
 primary_platform: ["SoundCloud", "YouTube"]

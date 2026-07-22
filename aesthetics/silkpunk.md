@@ -4,6 +4,7 @@ slug: "silkpunk"
 aka: ["Sino-punk"]
 decade_of_origin: "2010's"
 key_colours: ["gold", "bronze", "red"]
+palette: ["#5E3829", "#FFFFFF", "#D0A984", "#28211D", "#160A09", "#A2947B"]
 related_aesthetics: ["Steampunk"]
 related_media: ["Dandelion Dynasty series", "Avatar the Last Airbender"]
 source_url: "https://aesthetics.fandom.com/wiki/Silkpunk"

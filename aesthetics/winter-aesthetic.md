@@ -5,6 +5,7 @@ aka: ["Romanticized Winter", "Wintercore"]
 decade_of_origin: "2010s"
 key_motifs: ["Snowflakes", "fireplaces", "cozy blankets", "candles", "hot cocoa", "pine trees", "knitted textures", "fairy lights"]
 key_colours: ["White", "ice blue", "silver", "grey", "combined with warm neutrals (cream, beige) and festive accents (deep red, forest green)"]
+palette: ["#ADA39F", "#61382F", "#2D2D30", "#1B1514", "#BFB9B8", "#848386"]
 key_values: ["Coziness", "comfort", "warmth", "slowness", "mindfulness", "nostalgia", "magic"]
 related_aesthetics: ["Après-ski", "Autumn Aesthetic", "Christmas", "Cozycore", "Hygge", "Winter Bimbo"]
 source_url: "https://aesthetics.fandom.com/wiki/Winter_Aesthetic"

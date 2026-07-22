@@ -4,6 +4,7 @@ slug: "military-goth"
 decade_of_origin: "1990s (as an unnamed stylistic tendency within goth and rivethead fashion); 2020s (as a named social media aesthetic)"
 key_motifs: ["Military caps", "goth makeup", "structured jackets", "epaulettes", "ammunition belts", "gas masks", "plague doctor masks", "leather harnesses", "combat boots", "bullet belts"]
 key_colours: ["Black", "olive drab", "dark green", "charcoal"]
+palette: ["#020202", "#8B858A", "#212427", "#F8F9FA", "#52494D", "#393B3E"]
 key_values: ["Dark theatricality", "intimidation", "disciplined aggression"]
 related_aesthetics: ["Fetish Goth", "Goth", "Military Chic", "Rivethead", "Visual Kei"]
 primary_platform: ["Pinterest", "TikTok"]

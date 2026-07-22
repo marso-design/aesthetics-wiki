@@ -4,6 +4,7 @@ slug: "cybercore"
 decade_of_origin: "2020s"
 key_motifs: ["Early internet UI (dialogue boxes, cursors)", "retro anime", "flip phones", "butterflies", "angels", "celestial imagery (planets, stars)", "hearts", "scanlines", "glows", "gradients"]
 key_colours: ["Saturated blue", "silver", "white", "with pink and pastel accents"]
+palette: ["#050D38", "#13119E", "#8491D9", "#5676CB", "#4954BB", "#93AAE1"]
 key_values: ["Nostalgia", "digital escapism", "retro-futurism", "ethereal and melancholic moods"]
 related_aesthetics: ["Animecore", "Cyber Angel", "Glitchbreak", "Krushclub", "Mizuiro", "Neo-Y2K", "Y2K Futurism", "Webcore"]
 primary_platform: ["Pinterest", "TikTok"]

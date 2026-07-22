@@ -5,6 +5,7 @@ aka: ["Candy Coquette", "Candy Girl", "Cotton Candy Girl", "Bimbette", "Coquette
 decade_of_origin: "2010s"
 key_motifs: ["Bows", "sweets", "rollerskates", "popular little girls characters"]
 key_colours: ["Bubblegum pink and blue", "white", "and pastel colors"]
+palette: ["#B37483", "#FDF1FB", "#804F5B", "#D79DA9", "#FADDDB", "#CFC2CD"]
 related_aesthetics: ["Coquette", "Bimbocore", "Bubblegum Bitch", "Candycore", "Delicate Sweet", "Dollette", "McBling", "Nymphet", "Yume Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Bubblegum_Coquette"
 license: "CC-BY-SA-4.0"

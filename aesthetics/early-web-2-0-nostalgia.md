@@ -1,6 +1,7 @@
 ---
 name: "Early Web 2.0 Nostalgia"
 slug: "early-web-2-0-nostalgia"
+palette: ["#FCFFFC", "#16151E", "#5A626D", "#5C3239", "#97ADA4", "#9A837F"]
 source_url: "https://aesthetics.fandom.com/wiki/Early_Web_2.0_Nostalgia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

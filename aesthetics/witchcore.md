@@ -4,6 +4,7 @@ slug: "witchcore"
 aka: ["Witches of Instagram", "Hexcore", "Magicore", "Teen Witch", "Witch Tok", "Witchblr", "Wiccacore"]
 key_motifs: ["Frogs", "owls", "bats", "tarot cards", "magic", "brooms", "crystal balls", "potions", "old houses/architecture", "cats", "wands", "halloween", "woods/outdoors", "nature", "occult imagery"]
 key_colours: ["Black", "Green", "Orange", "Purple", "dark/dull colours"]
+palette: ["#696756", "#252223", "#978772", "#423933", "#ADA28C", "#C8BFB0"]
 key_values: ["The occult", "the unknown", "energy", "self-growth", "connection to nature", "female empowerment"]
 related_aesthetics: ["Angelcore", "Cabincore", "Cottagecore", "Cottagegore", "Cryptidcore", "Dark Fantasy", "Dragoncore", "Gothic", "Goblincore", "Halloween", "Hellenic", "Honeycore", "Horror", "Mallgoth", "Medieval Fantasy", "Mushroomcore", "Naturecore", "Strega", "Werewolf", "Whimsigothic", "Witch House"]
 related_media: ["The Craft (1996)", "Charmed (1998-2006)", "Practical Magic", "Harry Potter", "Sabrina the Teenage Witch"]

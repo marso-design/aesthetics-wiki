@@ -4,6 +4,7 @@ slug: "sukeban"
 decade_of_origin: "1960s"
 key_motifs: ["Customized school uniforms"]
 key_colours: ["Navy"]
+palette: ["#120D14", "#A9918E", "#4A3230", "#675C59", "#8B6E63", "#C4B2B5"]
 key_values: ["Rebellion"]
 related_aesthetics: ["Baddie", "Bosozoku", "Gyaru", "Yanki"]
 related_media: ["Sukeban Deka", "Tales of Yakjita College", "Hana no Asuka  Gumi!"]

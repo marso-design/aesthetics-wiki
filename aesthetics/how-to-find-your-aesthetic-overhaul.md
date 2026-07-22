@@ -1,6 +1,7 @@
 ---
 name: "How To Find Your Aesthetic Overhaul"
 slug: "how-to-find-your-aesthetic-overhaul"
+palette: ["#C8B5B3", "#E2D4D2", "#EAE9EC", "#A58D8C"]
 source_url: "https://aesthetics.fandom.com/wiki/How_To_Find_Your_Aesthetic_Overhaul"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

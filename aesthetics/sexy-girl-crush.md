@@ -4,6 +4,7 @@ slug: "sexy-girl-crush"
 decade_of_origin: "2010s"
 key_motifs: ["Strong female stage presence", "sexy-edgy choreography", "assertive lyrics", "mature themes", "sexy unconventional styling", "sexy androgynous elements"]
 key_colours: ["Black", "silver", "red or heavy nocturnal color palette"]
+palette: ["#FEFDFF", "#010104", "#66798E", "#C89DA3", "#251F22", "#514645"]
 key_values: ["Sexy", "sex appeal", "feminine", "feminist", "confidence", "female empowerment", "independence", "charisma", "boldness", "bad-ass", "eroticizing"]
 related_aesthetics: ["Sexy", "Girl Crush", "Femme Fatale"]
 source_url: "https://aesthetics.fandom.com/wiki/Sexy-Girl_Crush"

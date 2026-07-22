@@ -6,6 +6,7 @@ decade_of_origin: "1930s-1960s"
 key_motifs: ["Akzidenz-Grotesk", "Univers and Helvetica fonts", "asymmetric layouts", "grids", "limited color palettes"]
 key_values: ["Cleanliness", "readibility", "objectivity\"Swiss Style: The Principles", "the Typefaces & the Designers\" | printmag.com"]
 related_aesthetics: ["Bauhaus", "Constructivism", "De Stijl", "Flat Design", "Minimalism", "Modernism", "Plakatstil", "Precisionism", "Purism", "Suprematism"]
+palette: ["#FFFFFF", "#F6554B", "#EAE8D0", "#A3A4A4", "#572F2C", "#E5B2AA"]
 source_url: "https://aesthetics.fandom.com/wiki/International_Typographic_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

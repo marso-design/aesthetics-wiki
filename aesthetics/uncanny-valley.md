@@ -1,6 +1,7 @@
 ---
 name: "Uncanny Valley"
 slug: "uncanny-valley"
+palette: ["#CBCBCB", "#FFFFFF", "#221D1D", "#4B3527", "#D1BBA2", "#A28D78"]
 source_url: "https://aesthetics.fandom.com/wiki/Uncanny_Valley"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["Oozepunk"]
 decade_of_origin: "1980s-1990s"
 key_motifs: ["Slime", "trash"]
 key_colours: ["Green", "Purple", "Blue"]
+palette: ["#5F5A5F", "#A9B5B9", "#AE8E88", "#343138", "#1A141E", "#50886C"]
 related_aesthetics: ["Mad Scientist", "Slimepunk", "Wacky Pomo"]
 source_url: "https://aesthetics.fandom.com/wiki/Neon_Ooze"
 license: "CC-BY-SA-4.0"

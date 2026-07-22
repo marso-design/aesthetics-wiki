@@ -4,6 +4,7 @@ slug: "hacker-chic"
 decade_of_origin: "1990s"
 key_motifs: ["Computers", "Terminals"]
 key_colours: ["Faded and dull colours", "green", "blue"]
+palette: ["#0E1511", "#000000", "#646F62", "#808F7E", "#254B26", "#52416B"]
 key_values: ["Hacking", "Freedom of information", "Anti-corporatization"]
 related_aesthetics: ["Abstract Tech", "Cyberpunk", "Glitch Art", "Net.art", "Techwear", "Webcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Hacker_Chic"

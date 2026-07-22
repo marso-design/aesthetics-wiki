@@ -5,6 +5,7 @@ aka: ["Medical scientific stock imagery"]
 decade_of_origin: "1990s"
 key_motifs: ["Cells", "neurons", "organs", "brain", "DNA helix"]
 key_colours: ["Blue", "black", "red", "yellow"]
+palette: ["#02050D", "#25313E", "#498795", "#F6EFED", "#B9A7A1", "#CDD4D4"]
 related_aesthetics: ["Abstract Tech", "Corporate Gen-X Cyber", "Early Cyber", "Kid Science", "Metalheart", "Silicon Dreams"]
 related_media: ["Technology and science magazines", "news media"]
 source_url: "https://aesthetics.fandom.com/wiki/Med-Tech_Visions"

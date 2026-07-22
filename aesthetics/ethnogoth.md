@@ -4,6 +4,7 @@ slug: "ethnogoth"
 decade_of_origin: "2010s"
 key_motifs: ["Folk garments (kaftans)", "Kuchi jewelry", "silver and gold accessories", "turbans", "shaved heads", "intricate makeup"]
 key_colours: ["Black", "with metallic accents (silver, gold) and sometimes deep red or blue"]
+palette: ["#D7CCBD", "#090B09", "#61544C", "#1B1C1A", "#988578", "#2E2D2B"]
 key_values: ["Historical invocation", "artistic expression", "gender neutrality", "ornamentation"]
 related_aesthetics: ["Goth", "Romantic Goth", "Trad Goth", "Tribal Goth"]
 primary_platform: ["Instagram"]

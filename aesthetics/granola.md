@@ -5,6 +5,7 @@ aka: ["Granola Girl", "Granola Guy", "Crunchy"]
 decade_of_origin: "2010s"
 key_motifs: ["Hiking", "camping", "national parks", "reusable water bottles (Nalgene, Hydro Flask)", "fleece jackets", "flannel shirts", "Birkenstock sandals", "durable backpacks"]
 key_colours: ["Earthy tones (brown, olive green, beige, terracotta)", "deep blues", "muted colors"]
+palette: ["#B38A6B", "#2B2F21", "#7B5942", "#DADDD9", "#F8F8F8", "#747E6D"]
 key_values: ["Environmentalism", "sustainability", "outdoor adventure", "nature", "authenticity", "anti-materialism (in principle)"]
 related_aesthetics: ["Gorpcore", "Cabincore", "Hippie", "Naturecore", "Adventurecore", "VSCO Girl"]
 primary_platform: ["Instagram", "TikTok"]

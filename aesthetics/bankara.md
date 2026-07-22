@@ -3,6 +3,7 @@ name: "Bankara"
 slug: "bankara"
 decade_of_origin: "1900s"
 key_colours: ["Black"]
+palette: ["#858485", "#444444", "#5B5B5B", "#727272", "#292929", "#A0A0A0"]
 key_values: ["Disregard for appearance", "masculinity", "nationalism"]
 related_aesthetics: ["Yanki", "Taisho Roman (opposite)"]
 source_url: "https://aesthetics.fandom.com/wiki/Bankara"

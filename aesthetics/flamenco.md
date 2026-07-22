@@ -4,6 +4,7 @@ slug: "flamenco"
 decade_of_origin: "Late 18th century (modern-day form)"
 key_motifs: ["Polka dots", "floral patterns (especially roses)", "shawls", "fans", "castanets"]
 key_colours: ["Red", "black", "white; accent colors of gold", "yellow", "green"]
+palette: ["#110D11", "#25262A", "#41433B", "#91483D", "#812D2D", "#C3B7B0"]
 key_values: ["Emotional expression", "cultural heritage", "artistic virtuosity"]
 related_aesthetics: ["Majismo"]
 related_media: ["Carlos Saura's Flamenco trilogy (Bodas de Sangre, Carmen, El Amor Brujo)", "Flamenco"]

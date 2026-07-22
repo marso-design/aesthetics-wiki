@@ -4,6 +4,7 @@ slug: "messy-french-girl"
 decade_of_origin: "Early 2020s"
 key_motifs: ["Leather jackets", "slip dresses", "oversized blazers", "smudged eyeliner", "red lipstick", "cigarettes (derived from historical marketing)", "high-end accessories", "messy hair"]
 key_colours: ["Black", "red", "cream", "beige", "nude tones"]
+palette: ["#BCADA7", "#A07D6B", "#443C35", "#291F1B", "#795A44", "#D0C7C8"]
 key_values: ["Effortless elegance", "spontaneity", "chaos", "romance", "understated luxury"]
 related_aesthetics: ["French Girl", "Coquette", "Rockstar GF", "Downtown Girl", "Heroin Chic", "Indie Sleaze", "Waif"]
 source_url: "https://aesthetics.fandom.com/wiki/Messy_French_Girl"

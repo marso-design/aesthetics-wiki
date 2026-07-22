@@ -5,6 +5,7 @@ aka: ["Zombie Effect"]
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Dripping/melting slime", "exaggerated features", "cartoonish gore", "vibrant colors", "zombie-like details"]
 key_colours: ["Bright pinks", "blues", "greens", "yellows", "purples"]
+palette: ["#2E2529", "#0A0909", "#C6958E", "#826057", "#758C8F", "#1F462A"]
 key_values: ["Grotesque transformation", "anti-beauty", "surrealism", "digital manipulation"]
 related_aesthetics: ["Caricaturism", "Glitch Art", "Psychedelia", "Surrealism"]
 primary_platform: ["Instagram", "Tumblr", "PicsArt"]

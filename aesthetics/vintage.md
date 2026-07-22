@@ -1,6 +1,7 @@
 ---
 name: "Vintage"
 slug: "vintage"
+palette: ["#4B3731", "#0E2430", "#485E47", "#766943", "#8F9171", "#DAD1A8"]
 source_url: "https://aesthetics.fandom.com/wiki/Vintage"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -3,6 +3,7 @@ name: "Equestrian"
 slug: "equestrian"
 key_motifs: ["Horse Tack (bridles, saddles)", "Bits (often in a pattern)", "Stirrups (often in a pattern)", "Horses", "Riding Crops"]
 key_colours: ["Earth colors", "white", "tan", "blue"]
+palette: ["#B4A89B", "#1E140D", "#95948F", "#524A43", "#3A312C", "#887868"]
 related_aesthetics: ["Country", "Racing", "Western"]
 related_media: ["The Saddle Club"]
 source_url: "https://aesthetics.fandom.com/wiki/Equestrian"

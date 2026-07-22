@@ -4,6 +4,7 @@ slug: "cult-party-kei"
 decade_of_origin: "2010s"
 key_motifs: ["Vintage layers"]
 key_colours: ["Pale washed out colors"]
+palette: ["#BFAA9B", "#D0C6BB", "#533E30", "#B1CBC9", "#956F57", "#999590"]
 related_aesthetics: ["Balletcore", "Delicate Sweet", "Dolly Kei", "Fairy Kei", "Mori Kei", "Morute", "Pale", "Shabby Chic", "Traumacore", "Vintage", "Yume Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Cult_Party_Kei"
 license: "CC-BY-SA-4.0"

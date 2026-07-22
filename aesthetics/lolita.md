@@ -4,6 +4,7 @@ slug: "lolita"
 decade_of_origin: "Late 90s/Early 2000s"
 key_motifs: ["Depends on the substyle"]
 key_colours: ["Depends on the substyle"]
+palette: ["#231C16", "#909081", "#75726A", "#453D2F", "#C3B1A8", "#E3D2CD"]
 key_values: ["Femininity", "confidence", "independence from the male gaze", "and youth"]
 related_aesthetics: ["Coquette", "Dollcore", "Girly Kei", "Gothic", "Harajuku Fashion", "Hime Gyaru", "Kawaii", "Mori Kei", "Otome", "Ouji", "Rococo", "Romantic Goth", "Strega", "Victorian", "Visual Kei", "Yume Kawaii"]
 subgenres: ["Classic Lolita", "Gothic Lolita", "Hime Lolita", "Military Lolita", "Sweet Lolita", "Wa Lolita"]

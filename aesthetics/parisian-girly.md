@@ -5,6 +5,7 @@ aka: ["2000s Paris Trend", "Paris Party", "Paris Bling", "Oh Là Là Paris", "Tr
 decade_of_origin: "Late 2000s"
 key_motifs: ["The Eiffel Tower", "Breton stripes", "poodles", "fleurs-de-lis", "mannequins", "ornate mirrors"]
 key_colours: ["Pink", "black", "white"]
+palette: ["#160C11", "#3C3636", "#A89996", "#756A67", "#F3C3CF", "#982A56"]
 key_values: ["Femininity", "childhood", "chic", "romance", "glamour"]
 related_aesthetics: ["Curly Girly", "McBling", "Shoe Diva", "Teenpunk", "Vectorflourish", "Pink Parisian"]
 source_url: "https://aesthetics.fandom.com/wiki/Parisian_Girly"

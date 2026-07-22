@@ -6,6 +6,7 @@ key_motifs: ["Earmuffs", "fishnets (as sleeves and stockings)", "garter belts", 
 key_values: ["Unapologetic self-expression", "confidence", "creativity", "individuality"]
 related_aesthetics: ["Bubblegum Bling", "Cyberpunk", "Grunge", "Harajuku Fashion", "Kawaii"]
 primary_platform: ["TikTok"]
+palette: ["#9C9586", "#4A392F", "#262420", "#D9CEC6", "#BFBDB3", "#886B5B"]
 source_url: "https://aesthetics.fandom.com/wiki/Aliyahcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

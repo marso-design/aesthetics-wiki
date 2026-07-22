@@ -5,6 +5,7 @@ aka: ["Ladcore"]
 decade_of_origin: "2020s"
 key_motifs: ["Old football jerseys (especially 80s/90s)", "basic jeans", "old Adidas sneakers", "Adidas Samba"]
 key_colours: ["Team colors from football jerseys"]
+palette: ["#1C1618", "#90C6DA", "#3B4854", "#789392", "#892A31", "#647168"]
 key_values: ["Love for football", "nostalgia for classic football culture"]
 related_aesthetics: ["Anglo Gothic", "Blokette (blend)", "Brazilcore", "Britpop", "Casuals", "Jock", "Lad Culture", "Madchester", "Paninaro", "Tenniscore", "Ultras", "Urbancore"]
 related_media: ["British football YouTube channels", "British music (e.g., The Jam, The Stone Roses, The Streets)"]

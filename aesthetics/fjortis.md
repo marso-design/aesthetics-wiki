@@ -4,6 +4,7 @@ slug: "fjortis"
 decade_of_origin: "1990s (term), 2000s (aesthetic peak)"
 key_motifs: ["Idominsalva (white ointment)", "jawline foundation lines (\"Fjortisrand\")", "push-up bras", "oversized hoodies", "cheap cider/energy drinks"]
 key_colours: ["Neon pink", "orange (fake tan)", "white (lips)", "bleach blonde", "black"]
+palette: ["#6F472E", "#150B0F", "#91836D", "#C9B59A", "#C39A71", "#32211C"]
 key_values: ["Popularity", "social status", "partying", "conformity", "hyper-femininity (for women)"]
 related_aesthetics: ["Chav", "Gyaru", "Hands Up", "McBling", "Partille-Johnny", "Scene"]
 related_media: ["Playahead", "LunarStorm", "Bilddagboken (social media)", "Fjortisdunk (music)"]

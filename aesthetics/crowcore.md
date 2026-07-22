@@ -4,6 +4,7 @@ slug: "crowcore"
 aka: ["Corvidcore"]
 decade_of_origin: "Unknown"
 key_colours: ["Rustic Silvers", "Copper Tones", "White", "Green", "Black"]
+palette: ["#AC927E", "#2B1F17", "#58402A", "#DCCCBD", "#D2B49E", "#695D50"]
 key_values: ["Simplicity", "intelligence", "freedom", "and shiny things"]
 related_aesthetics: ["Cottagecore", "Cryptidcore", "Dragoncore", "Goblincore", "Naturecore", "Pirate", "Vulture Culture"]
 source_url: "https://aesthetics.fandom.com/wiki/Crowcore"

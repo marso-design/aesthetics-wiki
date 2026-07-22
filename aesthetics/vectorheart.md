@@ -4,6 +4,7 @@ slug: "vectorheart"
 decade_of_origin: "1990s"
 key_motifs: ["Striking vector shapes", "45- and/or 60-degree diagonal lines", "futuristic and/or experimental typography", "flat colors", "high-contrast colors", "maximalist-minimalism", "silhouettes", "icons", "occasional references to Japanese culture", "occasional criticism of capitalism and consumerism rooted in irony"]
 related_aesthetics: ["Abstract Tech", "Acid Design", "Cyberpunk", "Flat Design", "Gen X Soft Club", "Hexatron", "International Typographic Style", "Metalheart", "Neo-Vectorheart", "Old Web", "Racing", "Superflat Pop", "Supergraphic Ultramodern", "Urbancore", "Vectordelia", "Vectorflourish", "★Y2K Futurism"]
+palette: ["#FCFAFA", "#578E56", "#672D57", "#B4BCB2", "#F1342F", "#E9E3D9"]
 source_url: "https://aesthetics.fandom.com/wiki/Vectorheart"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

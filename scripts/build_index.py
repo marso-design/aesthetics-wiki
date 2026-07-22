@@ -19,8 +19,8 @@ DATA_DIR = os.path.join(ROOT, "data")
 # frontmatter keys carried into the index
 INDEX_KEYS = [
     "name", "slug", "aka", "decade_of_origin", "key_motifs", "key_colours",
-    "key_values", "related_aesthetics", "subgenres", "primary_platform",
-    "related_media", "source_url", "image_count",
+    "palette", "key_values", "related_aesthetics", "subgenres",
+    "primary_platform", "related_media", "source_url", "image_count",
 ]
 
 # body paragraphs to skip when picking a summary

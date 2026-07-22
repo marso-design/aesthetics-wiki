@@ -5,6 +5,7 @@ aka: ["Neo-Tribal", "Gen Z Tribal"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Sharp blackwork", "biomechanical filigree", "H.R. Giger influence", "metal band logos", "thorns", "barbed wire", "religious icons", "digital artifacts", "organic/mechanical fusion"]
 key_colours: ["Black", "charcoal", "silver"]
+palette: ["#000000", "#58535A", "#A5A1B4", "#FFFFFF", "#E8EBF1"]
 key_values: ["Bodily autonomy", "internet mysticism", "maximalism", "anti-minimalism", "transgressive expression"]
 related_aesthetics: ["Acid Design", "Cyber Grunge", "Cyberpunk", "Drain", "Krushclub", "Metalheart", "Post-Grunge Maximalism", "Sigilkore", "Y3K"]
 source_url: "https://aesthetics.fandom.com/wiki/Cybersigilism"

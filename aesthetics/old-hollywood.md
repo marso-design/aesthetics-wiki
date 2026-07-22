@@ -4,6 +4,7 @@ slug: "old-hollywood"
 decade_of_origin: "1920s-1930s"
 key_motifs: ["Film tape", "rotary phones", "vintage cars", "flower hats", "Large feathered boas", "black and white films", "jazz"]
 key_colours: ["Cream", "grey", "black", "deep Red", "emerald green", "dark colors", "lighter pastels"]
+palette: ["#525351", "#0A0A0A", "#2A2421", "#676562", "#D2174F", "#82847F"]
 related_aesthetics: ["Art Deco", "Burlesque", "Greaser", "Flapper", "Femme Fatale", "Hollywood Regency", "New Look", "Rockabilly"]
 source_url: "https://aesthetics.fandom.com/wiki/Old_Hollywood"
 license: "CC-BY-SA-4.0"

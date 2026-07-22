@@ -5,6 +5,7 @@ aka: ["Stone"]
 decade_of_origin: "Late 1980s–1990s"
 key_motifs: ["The Rolling Stones \"tongue and lips\" logo", "flared jeans", "band t-shirts", "choker necklaces", "platform sneakers", "shaggy flequillo haircut"]
 key_colours: ["Denim blue", "black", "white", "red"]
+palette: ["#22272A", "#A4B5B0", "#3F3837", "#697672", "#604543", "#E2EBE4"]
 key_values: ["Rock and roll", "neighborhood identity (barrio)", "football", "authenticity", "anti-pop sentiment"]
 related_aesthetics: ["Grunge", "Bohemian", "Hippie"]
 source_url: "https://aesthetics.fandom.com/wiki/Rolinga"

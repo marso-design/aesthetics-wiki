@@ -5,6 +5,7 @@ decade_of_origin: "mid-1970s"
 key_motifs: ["Cities", "modernist architecture", "vintage cars", "oceans/beaches", "random English words"]
 related_aesthetics: ["Bodikon", "Cyberpunk", "Future Funk", "Lo-Fi", "Memphis Design", "New Romantic", "New Wave", "Shibuya-Kei", "Synthwave", "Vaporwave", "Yé-yé"]
 related_media: ["\"Plastic Love\""]
+palette: ["#1C1924", "#203963", "#4C3848", "#4E6383", "#BF888D", "#6D3E4C"]
 source_url: "https://aesthetics.fandom.com/wiki/City_Pop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

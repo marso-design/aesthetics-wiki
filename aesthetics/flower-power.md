@@ -5,6 +5,7 @@ aka: ["Flower Children", "Flower Hippie"]
 decade_of_origin: "1960s"
 key_motifs: ["Flowers", "lush gardens", "pastoral"]
 key_colours: ["Red", "yellow", "blue"]
+palette: ["#2A2824", "#B55E4E", "#868067", "#151513", "#655C49", "#F0F0AF"]
 key_values: ["Non-violence", "utopianism"]
 related_aesthetics: ["Bohemian", "Corporate Hippie", "Ethereal", "Freakbeat", "Sunshine Pop", "Groovival", "Hippie", "Madchester", "Mid-Century Medieval", "Peacock Revolution", "Psychedelia", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Flower_Power"

@@ -5,6 +5,7 @@ aka: ["Skol Lulyn (Cornish)"]
 decade_of_origin: "c. 1880s–1910s"
 key_motifs: ["Cornish fishing communities", "rugged coastlines", "harbor scenes", "working-class life", "domestic interiors", "rural labor"]
 key_colours: ["Naturalistic palettes", "silvery light", "cool grays and blues", "earthy tones"]
+palette: ["#40332B", "#4C504D", "#77786F", "#A19584", "#CBC7BD", "#B4B0A5"]
 key_values: ["Realism", "truth to life", "social documentation", "appreciation for traditional labor", "depiction of natural light"]
 related_aesthetics: ["Barbizon School", "Impressionism", "Realism", "Social Realism"]
 source_url: "https://aesthetics.fandom.com/wiki/Newlyn_School"

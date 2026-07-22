@@ -3,6 +3,7 @@ name: "Viking Art"
 slug: "viking-art"
 decade_of_origin: "8th century"
 key_colours: ["brown", "green", "black", "blue"]
+palette: ["#383E3B", "#F7F7F7", "#22211B", "#9AA1A2", "#C1C4C8", "#7B7E64"]
 related_aesthetics: ["Northerness"]
 source_url: "https://aesthetics.fandom.com/wiki/Viking_Art"
 license: "CC-BY-SA-4.0"

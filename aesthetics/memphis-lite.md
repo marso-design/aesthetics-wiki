@@ -5,6 +5,7 @@ aka: ["Memphis", "90s Retro", "Contempo-Eclectic"]
 decade_of_origin: "1980s"
 key_motifs: ["Pastel CMYK colors", "squiggles and brushstrokes", "geometric abstraction with cubist influence"]
 key_colours: ["Bright primaries", "aqua", "teal", "purple", "magenta"]
+palette: ["#BB7A8A", "#FFFFFF", "#3E2D3B", "#B9ADA5", "#C3CAC4", "#201D29"]
 related_aesthetics: ["Art Deco", "Corporate Gen-X Cyber", "Corporate Grunge", "Cubism", "Deco-Luxe", "Decoplex", "Diner", "Factory Pomo", "Frasurbane", "Global Village Coffeehouse", "Laser Grid", "Memphis Design", "Memphis Jr.", "Monochrome Luxe", "Pacific Punk Wave", "Rad Dog", "Raygun Gothic", "Graffiti Pop", "Synthwave", "Vaporwave", "Wacky Pomo", "Whimsicraft"]
 source_url: "https://aesthetics.fandom.com/wiki/Memphis_Lite"
 license: "CC-BY-SA-4.0"

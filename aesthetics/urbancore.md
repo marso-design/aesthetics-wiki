@@ -5,6 +5,7 @@ aka: ["Urbanism", "Gangstacore", "Homiecore", "Ghettocore", "Streetcore", "Urbex
 decade_of_origin: "1990s"
 key_motifs: ["cityscapes", "graffiti", "concrete architecture", "parking lots", "skyscrapers", "alleyways", "streets", "streetwear", "expensive brands"]
 key_colours: ["neutrals - gray", "black", "beige; sometimes contrasted with bright paint colors", "otherwise any colors", "depending on the style"]
+palette: ["#080808", "#2C2E2F", "#404842", "#C1B5A2", "#918B7B", "#5A5D57"]
 key_values: ["Materialism", "expensive clothes (although you don't have to be materialistic to achieve this aesthetic)", "urban life"]
 related_aesthetics: ["Music:", "Grunge", "Hip-Hop", "Punk", "Witch House", "Visuals and Fashion:", "After Hours", "Art Hoe", "Baddie", "Boujee", "Brutalism", "Chicano Lowrider", "Doomer", "Drain", "Graffiti Pop", "Hypebeast", "Industrial Decay", "Liminal Space", "Shibuya Punk", "Skater", "Techwear", "Urban Fantasy"]
 source_url: "https://aesthetics.fandom.com/wiki/Urbancore"

@@ -5,6 +5,7 @@ aka: ["Canibalismo Urbanístico", "Maltrato da Paisaxe"]
 decade_of_origin: "1960s"
 key_motifs: ["Unfinished concrete frames", "exposed rebar", "bare facades", "mismatched materials", "clashing heights", "ornamental excess"]
 key_colours: ["Raw concrete grey", "oxidised brown", "dull orange brick", "weathered granite"]
+palette: ["#1E1717", "#3D3B39", "#61504A", "#7F6C62", "#94A1A1", "#7B8376"]
 key_values: ["N/A (resulted from a lack of urban planning)"]
 related_aesthetics: ["Brutalism", "Doomer (some social media interpretations)", "Industrial Decay"]
 source_url: "https://aesthetics.fandom.com/wiki/Feísmo"

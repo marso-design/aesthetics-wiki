@@ -5,6 +5,7 @@ aka: ["Yankees", "Kinshasa Cowboys", "Billism"]
 decade_of_origin: "Late 1950s"
 key_motifs: ["Cowboy hats (often Stetsons)", "leather boots", "bandanas/kerchiefs", "denim and plaid shirts", "Western-style names (e.g., John Wayne, Sherif)", "high levels of bravado/machismo"]
 key_colours: ["Brown (leather/hats)", "blue (denim)", "red/plaid (shirts/kerchiefs)"]
+palette: ["#171717", "#C0C0C0", "#494949", "#979796", "#636363", "#ABAAA9"]
 key_values: ["Manhood", "self-empowerment", "liberation", "resistance to colonial infantilization", "victory"]
 related_aesthetics: ["Dandy", "Greaser", "La Sape (shares sartorial focus/local origins)", "Western"]
 related_media: ["Pony Express (1953)", "Western films"]

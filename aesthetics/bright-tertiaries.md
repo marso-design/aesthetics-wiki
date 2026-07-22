@@ -4,6 +4,7 @@ slug: "bright-tertiaries"
 decade_of_origin: "2000s"
 key_motifs: ["Tertiary color palette", "round edges", "intricate patterns", "flourishes", "blocks of flat color", "subtle nature iconography"]
 key_colours: ["Lime green", "purple", "orange", "teal", "OR", "fuchsia", "cyan"]
+palette: ["#272928", "#6C8374", "#AFA58C", "#CBC8BE", "#FEFEFF", "#73554F"]
 key_values: ["Humanism"]
 related_aesthetics: ["Corporate Memphis", "Flat Design", "Four Colors", "Frutiger Aero", "Frutiger Eco", "Memphis Design", "Superflat Pop", "Vectordelia", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Bright_Tertiaries"

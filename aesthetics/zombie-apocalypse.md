@@ -5,6 +5,7 @@ aka: ["Zombiecore"]
 decade_of_origin: "1960s"
 key_motifs: ["Meat", "torn clothes", "empty cities", "post-apocalyptic scenery", "weapons (especially firearms)"]
 key_colours: ["Faded and dull colors", "reds", "greens", "purples", "teals", "pinks"]
+palette: ["#181818", "#49493E", "#9C9B86", "#7E7D69", "#32312E", "#6B5E4D"]
 key_values: ["Fatigue", "hunger", "survival"]
 related_aesthetics: ["Grunge", "Horror Punk", "Post-Apocalyptic"]
 source_url: "https://aesthetics.fandom.com/wiki/Zombie_Apocalypse"

@@ -5,6 +5,7 @@ aka: ["The Matrix Effect", "Bullet Time"]
 decade_of_origin: "1990s"
 key_motifs: ["Bullet time action", "martial arts movies", "slo-motion sequences", "CGI", "Y2K style costumes", "action", "cyberpunk settings", "digital rain", "Hollywood-style hacking/computer cracking"]
 key_colours: ["Green", "blue", "yellow", "black"]
+palette: ["#040405", "#1E4D5D", "#A1B2B5", "#8A9290", "#0D1B17", "#2E201D"]
 key_values: ["Lone savior complex", "a massive emphasis on \"cool\"", "Post-Matrix action film-making"]
 related_aesthetics: ["★Sub-Genres:", "Y2K Futurism", "Techwear", "Metalheart", "Nu-Metal", "Cyberdelic", "Cyber/Gen-X Corporate", "Related Aesthetics:", "Olderbrothercore", "Abstract Tech", "Alternative", "Berlin Techno Fashion", "Biopunk", "Corporate Grunge", "Cyberprep", "Cyberpunk", "Early Cyber", "Gen X Soft Club", "Grunge", "Hacker Chic", "Goth", "Mallgoth", "Industrial", "Cyberdelia", "Raver", "Y2K", "Chromecore", "Teenpunk", "Poster Gal"]
 related_media: ["The Crow", "The Matrix", "Blade", "Max Payne", "Splinter Cell", "GTA II & III", "Metal Gear Solid"]

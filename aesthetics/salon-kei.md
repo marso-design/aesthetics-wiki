@@ -3,6 +3,7 @@ name: "Salon Kei"
 slug: "salon-kei"
 aka: ["Saron", "Salon fashion", "Salon style", "Saron kei"]
 decade_of_origin: "2010s"
+palette: ["#45343C", "#F5F5F6", "#6E6360", "#A6988F", "#DDD1CA"]
 source_url: "https://aesthetics.fandom.com/wiki/Salon_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

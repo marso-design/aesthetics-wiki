@@ -5,6 +5,7 @@ aka: ["Racer", "Motorsports", "Auto Racing", "Car Racing", "Automobile Racing", 
 decade_of_origin: "1900s (early motorsports)"
 key_motifs: ["Racing vehicles", "motorsports", "speed", "checkered flags", "helmets", "sponsors", "tobacco and alcohol brand advertising"]
 key_colours: ["Red", "black", "white", "metallic silver/grey"]
+palette: ["#CFCBBA", "#292A2D", "#B5A79F", "#181315", "#7B93A2", "#8C2523"]
 key_values: ["Competition", "precision", "perfomance"]
 related_aesthetics: ["Biker", "Cyberpunk", "Techwear", "Vectorheart"]
 related_media: ["Formula 1", "Le Mans", "WRC", "NASCAR", "Drive to Survive"]

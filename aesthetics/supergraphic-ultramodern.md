@@ -5,6 +5,7 @@ aka: ["70s Ultra-Modern"]
 decade_of_origin: "1960s"
 key_motifs: ["Curves", "rounded shapes", "rainbows", "flat iconography", "plastics and shiny metals"]
 key_colours: ["Rainbow"]
+palette: ["#C45F4D", "#AF463E", "#E2926D", "#803030", "#ECC29E", "#D17A5F"]
 related_aesthetics: ["Cassette Futurism", "Disco", "Earth Tones", "Gen X Soft Club", "Groovival", "International Typographic Style", "Raygun Gothic", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Supergraphic_Ultramodern"
 license: "CC-BY-SA-4.0"

@@ -5,6 +5,7 @@ aka: ["Movida Galega"]
 decade_of_origin: "Late 1970s"
 key_motifs: ["Irreverence", "chaotic lyrics", "post-modern skepticism", "fusion of pop/punk/folk genres", "emphasis on appareance"]
 key_colours: ["High-contrast black and white", "pop brights (New Wave influence)"]
+palette: ["#B2C0C6", "#101019", "#E8D347", "#1D2235", "#3F425D", "#7A7177"]
 key_values: ["Freedom of expression", "skepticism towards authority", "modernity", "linguistic pride (for the Galician language)"]
 related_aesthetics: ["Bravú", "Movida Madrileña", "New Wave", "Punk", "Post-Punk"]
 source_url: "https://aesthetics.fandom.com/wiki/Movida_Viguesa"

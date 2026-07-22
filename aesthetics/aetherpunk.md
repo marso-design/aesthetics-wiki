@@ -5,6 +5,7 @@ aka: ["Arcanepunk", "Magicpunk"]
 key_motifs: ["Nature", "Pagan Imagery", "Gold everywhere"]
 key_values: ["Utopianism", "A fight against an evil dark force but not an industrial one"]
 related_aesthetics: ["Dungeonpunk", "Fantasy", "Steampunk"]
+palette: ["#6C655F", "#241916", "#A39270", "#A37547", "#4F3328", "#704B35"]
 source_url: "https://aesthetics.fandom.com/wiki/Aetherpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

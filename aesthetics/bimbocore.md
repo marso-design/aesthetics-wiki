@@ -5,6 +5,7 @@ aka: ["Bimbo Feminism", "Slutcore"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Pink everything", "glitter", "velour tracksuits", "mini skirts", "platform heels", "heavy makeup", "affirmations", "leftist political slogans"]
 key_colours: ["Hot pink", "baby pink", "magenta", "pastels"]
+palette: ["#EB7DA9", "#3D3535", "#7C585C", "#BC5C76", "#241C1C", "#B69E97"]
 key_values: ["Subversion and reclamation of femininity", "pro-sexuality", "anti-intellectualism (as a facade)", "body positivity", "self-love", "leftist politics"]
 related_aesthetics: ["Barbiecore", "McBling", "Y2K", "Baddie", "Guido", "Hyperpop", "Neoperreo", "Puppygirl", "Glitter Graphics"]
 primary_platform: ["TikTok"]

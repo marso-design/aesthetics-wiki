@@ -5,6 +5,7 @@ aka: ["Frosted Glass", "Acrylic Material"]
 decade_of_origin: "2020s"
 key_motifs: ["Translucency", "background blur", "frosted glass texture", "light borders", "vivid backgrounds"]
 key_colours: ["Transparent white", "vivid gradients (blue, purple, pink)"]
+palette: ["#209FF3", "#493C39", "#FFFFFF", "#5B6B71", "#949BD7", "#AFBCE2"]
 key_values: ["Depth", "hierarchy", "modernity", "seamlessness"]
 related_aesthetics: ["Claymorphism", "Flat Design", "Frutiger Aero", "Neumorphism", "Skeuomorphism", "Neo-Aero"]
 related_media: ["macOS Tahoe", "Windows 11", "iOS 26"]

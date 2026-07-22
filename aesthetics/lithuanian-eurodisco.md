@@ -5,6 +5,7 @@ aka: ["Lietuviškas Eurodiskas", "Village Disco"]
 decade_of_origin: "1990s"
 key_motifs: ["Cassette tapes", "holographic \"Euro Star\" stickers", "primitive 3D renders", "fractal backgrounds", "WordArt typography", "village culture houses"]
 key_colours: ["Saturated gradients", "metallic silver", "neon green", "hot pink", "red"]
+palette: ["#52677C", "#1E1E2B", "#8E9293", "#6E3D52", "#D89F73", "#ECE7E1"]
 key_values: ["Escapism", "naivety", "post-Soviet transition", "DIY production", "localization"]
 related_aesthetics: ["Disco Polo", "Italo Disco", "Turbo-Folk"]
 related_media: ["Andrew Miksys' \"DISKO\" series"]

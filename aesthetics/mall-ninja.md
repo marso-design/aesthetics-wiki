@@ -4,6 +4,7 @@ slug: "mall-ninja"
 decade_of_origin: "Early 2000s"
 key_motifs: ["Impracticality", "weaponry", "being badass"]
 key_colours: ["Camouflage colors", "iridescent rainbow"]
+palette: ["#9C9083", "#131217", "#26262A", "#7B8477", "#504241", "#5C6358"]
 key_values: ["Violence", "arrogance", "detachment from reality"]
 related_aesthetics: ["Animecore", "Nerd", "Tacticool"]
 source_url: "https://aesthetics.fandom.com/wiki/Mall_Ninja"

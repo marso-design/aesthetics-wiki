@@ -4,6 +4,7 @@ slug: "cagole"
 aka: ["Cagòla (Occitan)"]
 decade_of_origin: "1980s"
 key_colours: ["Light purpleish pinks", "mallow", "deep red"]
+palette: ["#120C0A", "#BA9881", "#E8EBEE", "#2B2120", "#7A453F", "#8C99B2"]
 key_values: ["Sexual promiscuity", "assertiveness", "Provençal pride"]
 related_aesthetics: ["Chav", "Chonga", "Choni", "Cocalar", "Gyaru", "McBling", "Racaille", "Raxet"]
 source_url: "https://aesthetics.fandom.com/wiki/Cagole"

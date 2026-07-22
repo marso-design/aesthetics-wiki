@@ -4,6 +4,7 @@ slug: "gangsta-rap"
 aka: ["G-Funk", "90's Hip-Hop"]
 decade_of_origin: "Mid 80's"
 key_colours: ["Black", "red", "blue", "green", "brown", "grey", "white"]
+palette: ["#020205", "#75726A", "#5C4F48", "#CDC8C4", "#B7B1A3", "#2C262B"]
 related_aesthetics: ["Hip-Hop", "Urbancore", "Cholo", "Chonga", "Grindhouse", "Horrorcore", "Meme Rap", "Rude Boy", "Chav", "UrBling", "West Coast Hip-Hop"]
 related_media: ["Death Row Records"]
 source_url: "https://aesthetics.fandom.com/wiki/Gangsta_Rap"

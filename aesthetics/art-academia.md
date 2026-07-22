@@ -3,6 +3,7 @@ name: "Art Academia"
 slug: "art-academia"
 key_motifs: ["Admiring art pieces", "staring at statues", "books", "painting", "drawing", "sketching", "jotting down notes", "poetry", "art museums"]
 key_colours: ["Cadmium yellow", "dark browns", "white", "the whole rainbow"]
+palette: ["#1A1A1B", "#B2A497", "#84827F", "#BDB8B2", "#75625B", "#DEDDDA"]
 key_values: ["Art", "knowledge", "curiosity", "literature", "music", "architecture"]
 related_aesthetics: ["Art Hoe", "Chaotic Academia", "Dark Academia", "Light Academia", "Studyblr", "Utopian Scholastic"]
 related_media: ["Lust for Life"]

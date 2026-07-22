@@ -5,6 +5,7 @@ aka: ["Blitz Kids"]
 decade_of_origin: "Late 1970s"
 key_motifs: ["Androgyny", "historical costumes (pirates, dandies)", "futurism", "sharp suits", "theatrical makeup"]
 key_colours: ["Black", "white", "primary colors", "metallics (gold, silver)"]
+palette: ["#0B0809", "#B8B2B8", "#1D1E1D", "#546E89", "#3E4346", "#CACAD7"]
 related_aesthetics: ["Electroclash", "Glam Rock", "Goth", "Italo Disco", "New Wave", "Post-Punk", "Rococopunk", "Visual Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/New_Romantic"
 license: "CC-BY-SA-4.0"

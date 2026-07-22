@@ -5,6 +5,7 @@ aka: ["Gothic Academia"]
 decade_of_origin: "16th Century"
 key_motifs: ["Books", "candles", "skulls", "crows", "ancient manuscripts", "forbidden knowledge", "blood", "supernatural", "darkness", "death", "writing."]
 key_colours: ["Black", "grey", "brown"]
+palette: ["#141110", "#655E54", "#2E2620", "#51453A", "#897F72", "#DABEA4"]
 key_values: ["Intellectualism", "mystery", "research", "occultism", "death", "immortality"]
 related_aesthetics: ["Dark Academia", "Gothic", "Goth", "Chaotic Academia", "Plaguecore", "Vampire", "Victorian", "Light Academia"]
 related_media: ["Dracula", "Frankenstein"]

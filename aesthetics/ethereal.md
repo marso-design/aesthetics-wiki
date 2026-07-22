@@ -3,6 +3,7 @@ name: "Ethereal"
 slug: "ethereal"
 decade_of_origin: "2010s-2020s"
 key_colours: ["Green", "pink", "white", "and blue"]
+palette: ["#654D3E", "#968872", "#3B3229", "#706455", "#BCA691", "#997159"]
 key_values: ["Kindness", "love", "tranquility", "compassion", "and calmness"]
 related_aesthetics: ["Angelcore", "Artcore", "Baroque", "Fairycore", "Softie", "Princesscore", "Princecore", "Royalcore", "Classic Lolita", "Lolita", "Pink Princess", "Rococo", "Mori Kei", "Delicate Sweet", "Cottagecore"]
 related_media: ["Disney", "Barbie"]

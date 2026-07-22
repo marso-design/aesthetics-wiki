@@ -5,6 +5,7 @@ aka: ["Lads"]
 decade_of_origin: "1990s"
 key_motifs: ["Football", "beer", "Britpop music", "\"lads' mags", "\" irreverent humor", "tracksuits", "polo shirts"]
 key_colours: ["Varies", "often associated with sportswear and football team colors"]
+palette: ["#06051D", "#5B5A58", "#282C3C", "#FFFEFE", "#ABA59B", "#798383"]
 key_values: ["Masculinity", "hedonism", "anti-intellectualism", "group identity (\"the lads\")", "banter"]
 related_aesthetics: ["Blokecore", "Britpop", "Casuals", "Chav", "Cool Britannia", "Gorpcore", "Normcore", "Ultras"]
 source_url: "https://aesthetics.fandom.com/wiki/Lad_Culture"

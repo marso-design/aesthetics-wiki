@@ -4,6 +4,7 @@ slug: "safari-chic"
 decade_of_origin: "1960s (high fashion codification)"
 key_motifs: ["Safari jacket (\"saharienne\")", "Bermuda shorts", "utility pockets", "belted waists", "animal prints (as accents)"]
 key_colours: ["Khaki", "beige", "camel", "tan", "olive green", "rust"]
+palette: ["#9E764E", "#825A3B", "#372F27", "#5C412D", "#605649", "#929692"]
 key_values: ["Adventure", "elegance", "functionality", "exploration", "naturalism"]
 related_aesthetics: ["Americana", "Military Chic", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Safari_Chic"

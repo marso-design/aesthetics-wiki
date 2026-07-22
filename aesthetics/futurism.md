@@ -5,6 +5,7 @@ aka: ["Italian Futurism"]
 decade_of_origin: "1909 - 1944"
 key_motifs: ["Speed", "technology", "youth", "violence", "industry", "cars", "airplanes", "\"lines of force\""]
 key_colours: ["Bright", "vibrant", "and jarring colors"]
+palette: ["#9BA4A8", "#24344B", "#538395", "#D6CEC2", "#65504B", "#FFFFFF"]
 key_values: ["Progress", "destruction of the past", "originality", "dynamism", "mechanization", "patriotism", "glorification of war"]
 related_aesthetics: ["Art Deco", "Constructivism", "Cubism", "Dadaism", "Surrealism", "Vorticism"]
 source_url: "https://aesthetics.fandom.com/wiki/Futurism"

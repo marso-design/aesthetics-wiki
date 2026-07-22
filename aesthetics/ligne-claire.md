@@ -5,6 +5,7 @@ aka: ["Klare Lijn (Dutch)", "Hergé Style", "Tintin Style"]
 decade_of_origin: "Mid-1940s to 1950s"
 key_motifs: ["Consistent line thickness", "minimal shading", "flat colors", "detailed backgrounds"]
 key_colours: ["Primary and secondary colors (often used in strong hues)"]
+palette: ["#97A197", "#6A4A34", "#B4CBD8", "#737463", "#B7E1F1", "#30302B"]
 key_values: ["Clarity", "simplicity", "straightforward storytelling"]
 related_aesthetics: ["Adventurecore", "Fleischer Style", "Vintage Hero"]
 related_media: ["The Adventures of Tintin", "Franco-Belgian comics"]

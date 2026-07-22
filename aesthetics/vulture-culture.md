@@ -4,6 +4,7 @@ slug: "vulture-culture"
 decade_of_origin: "2010s"
 key_motifs: ["Animal skulls and bones", "taxidermy", "wet specimens", "insects", "feathers", "natural decay", "forests", "curiosities"]
 key_colours: ["White", "brown", "tan", "green", "black"]
+palette: ["#CCC2B2", "#0F0C10", "#AB605A", "#EFE4D3", "#322B29", "#A09A92"]
 key_values: ["Ethical sourcing", "appreciation for nature and anatomy", "preservation", "anti-consumerism", "curiosity", "respect for the deceased animal"]
 related_aesthetics: ["Goblincore", "Crowcore", "Cottagegore", "Dark Academia", "Strega", "Forestpunk"]
 primary_platform: ["Tumblr", "Instagram", "Reddit"]

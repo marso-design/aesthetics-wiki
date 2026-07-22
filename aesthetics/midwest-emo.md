@@ -5,6 +5,7 @@ aka: ["Second Wave Emo", "Fourth Wave Emo", "Midwestern Emo", "Emo Revival"]
 decade_of_origin: "1990s"
 key_motifs: ["Emotions", "sadness", "suburban life", "twinkly guitars", "sports themes", "college experiences", "nostalgia", "weed"]
 key_colours: ["plaid patterns", "earth tones", "faded colors"]
+palette: ["#202C2A", "#4E6177", "#524C50", "#918F8F", "#3F3F38", "#AAB9B3"]
 key_values: ["friendship", "acceptance"]
 related_aesthetics: ["Doomer", "Emo", "Indie", "Normcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Midwest_Emo"

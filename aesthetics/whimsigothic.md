@@ -5,6 +5,7 @@ aka: ["Whimsigoth", "Whimsical Gothic", "Whimsical Mystical Gothic Celestial (fo
 decade_of_origin: "1980s-1990s"
 key_motifs: ["Warm colors", "supernatural beings"]
 key_colours: ["Deep blues and oranges", "bits of black/purple"]
+palette: ["#3B382F", "#241C16", "#0A0707", "#67402F", "#5C5C49", "#A28E6E"]
 key_values: ["Gothic themes with a warm and whimsical twist"]
 related_aesthetics: ["Cottagecore", "FantasY2K", "Gothic", "Grocery Girl Fall", "Hippie", "Hippie Goth", "Trinketcore", "Twee", "Whimsicraft", "Witchcore", "Welwitschia Goth"]
 source_url: "https://aesthetics.fandom.com/wiki/Whimsigothic"

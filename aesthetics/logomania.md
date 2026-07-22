@@ -2,6 +2,7 @@
 name: "Logomania"
 slug: "logomania"
 decade_of_origin: "1980s"
+palette: ["#4F3026", "#231C1D", "#FAFAF7", "#D4BA9C", "#645649", "#8F7459"]
 source_url: "https://aesthetics.fandom.com/wiki/Logomania"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

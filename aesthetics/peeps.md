@@ -4,6 +4,7 @@ slug: "peeps"
 aka: ["Gengarcore"]
 decade_of_origin: "Late 2010s"
 key_colours: ["Purple", "black", "green"]
+palette: ["#D3CFCA", "#0A0C1D", "#73438D", "#513860", "#352F44", "#1F212A"]
 related_aesthetics: ["E-Girl", "Goth", "Goth Punk", "Gyaru", "Jirai Kei", "Tomboy", "Yami Kawaii"]
 related_media: ["Pokémon"]
 source_url: "https://aesthetics.fandom.com/wiki/PEEPS"

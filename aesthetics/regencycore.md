@@ -3,6 +3,7 @@ name: "Regencycore"
 slug: "regencycore"
 decade_of_origin: "2020s"
 key_colours: ["White", "pastel colors"]
+palette: ["#120C08", "#5D5A48", "#C7C0B6", "#7A7E64", "#AE9F8D", "#312A1E"]
 related_aesthetics: ["Baroque", "Princesscore", "Regency", "Rococo", "Royalcore"]
 related_media: ["Bridgerton"]
 source_url: "https://aesthetics.fandom.com/wiki/Regencycore"

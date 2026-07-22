@@ -5,6 +5,7 @@ aka: ["Sad Boy"]
 decade_of_origin: "2010s"
 key_motifs: ["Lo-fi and distorted digital effects (VHS, glitching, pixelation)", "anime/cartoon edits (e.g., Bart Simpson)", "roses (often withered)", "bucket hats", "sportswear (Nike, Adidas)", "Arizona Iced Tea", "Fiji Water", "Japanese lettering", "digital manipulation of sadness", "cloud imagery"]
 key_colours: ["Desaturated blues and purples", "dark greys/black", "often contrasted with neon/pastel digital effects"]
+palette: ["#928281", "#0A0A0A", "#A2B1B1", "#60676E", "#1E1D1E", "#FEFEFE"]
 key_values: ["Emotional vulnerability", "irony", "nostalgia", "self-expression through hip-hop/trap", "reclaiming sensitivity"]
 related_aesthetics: ["Dead Inside", "Drain", "E-Boy", "Emo Rap", "Lo-fi Art", "Sadgirl (counterpart)", "Simpsonwave", "Soft Boy", "Trap Metal", "Trxsh", "Vaporwave"]
 primary_platform: ["Tumblr", "YouTube", "SoundCloud"]

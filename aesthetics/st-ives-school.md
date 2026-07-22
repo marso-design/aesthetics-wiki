@@ -3,6 +3,7 @@ name: "St Ives School"
 slug: "st-ives-school"
 decade_of_origin: "1920s (Early Origins)1940s-1960s"
 key_colours: ["Blue", "white", "grey"]
+palette: ["#272C40", "#5C5954", "#364D68", "#87765B", "#62716E", "#CFD6D5"]
 related_aesthetics: ["Avant-garde", "Constructivism", "Dark Nautical", "Impressionism", "Minimalism", "Modernism", "Nautical", "Newlyn School"]
 source_url: "https://aesthetics.fandom.com/wiki/St_Ives_School"
 license: "CC-BY-SA-4.0"

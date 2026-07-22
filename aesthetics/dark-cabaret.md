@@ -5,6 +5,7 @@ aka: ["Punk Cabaret", "Cabaret Noir", "Glam Cabaret", "Brechtian Punk Cabaret"]
 decade_of_origin: "1990s (with roots in the 1970s)"
 key_motifs: ["Macabre imagery", "theatricality", "vintage aesthetics (Weimar Victorian, Edwardian)", "circus/fairground elements", "vaudeville/burlesque themes", "psychological depth", "satire", "the grotesque", "historical references"]
 key_colours: ["Dark tones", "black", "red", "white (for face makeup)", "muted colors", "stark contrasts"]
+palette: ["#211715", "#242B2F", "#070504", "#58382D", "#A99B90", "#5F5D5C"]
 key_values: ["Theatricality", "emotional depth", "dark humor", "rebellion", "societal critique", "anti-establishment", "fascination with the unsettling"]
 related_aesthetics: ["Burlesque", "Clowncore", "Deathrock", "Edwardian", "Emo", "Goth", "Industrial", "Punk", "Steampunk", "Victorian", "Weimar Cabaret"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Cabaret"

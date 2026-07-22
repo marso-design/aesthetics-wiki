@@ -5,6 +5,7 @@ aka: ["Dark Dungeon Music", "Medieval Ambient"]
 decade_of_origin: "Early 1990s"
 key_motifs: ["Castles", "dungeons", "forests", "ancient lore", "melancholy", "adventure", "high fantasy", "winter landscapes"]
 key_colours: ["Muted tones", "greens", "greys", "browns", "black", "white (often found in album art)"]
+palette: ["#161616", "#EFEFEF", "#333F41", "#747777", "#5F605D", "#DEDEDD"]
 key_values: ["Escapism", "isolation", "introspection", "mystery", "atmosphere", "nostalgia"]
 related_aesthetics: ["Black Metal", "Dark Fantasy", "Martial Industrial", "Medieval Fantasy", "Neofolk"]
 subgenres: ["Comfy Synth", "Dungeon Rap", "Keller Synth", "Tänzelcore"]

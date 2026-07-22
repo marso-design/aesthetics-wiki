@@ -5,6 +5,7 @@ aka: ["Cheta", "Tincho (male variant)"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Low-rise pants", "crop tops", "ripped clothing", "platform boots", "glitter", "visible thongs", "small handbags"]
 key_colours: ["Black", "white", "denim", "with pops of color"]
+palette: ["#756B64", "#0E0C0D", "#A47F6D", "#A6A3A3", "#C6BFB6", "#684337"]
 key_values: ["Affluence", "trend-consciousness", "social status", "\"it girl\" persona", "party culture"]
 related_aesthetics: ["Y2K", "Cacareco Girl", "McBling", "Indie Sleaze", "Baddie", "Cayetana", "Boho-Chic", "Brat Summer"]
 primary_platform: ["TikTok", "Instagram"]

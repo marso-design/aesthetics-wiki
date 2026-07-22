@@ -4,6 +4,7 @@ slug: "camp"
 aka: ["Campy"]
 key_motifs: ["wigs", "large dresses", "Glitter"]
 key_colours: ["bright", "gaudy", "and noticeable colors"]
+palette: ["#393C42", "#4B191D", "#0A050A", "#71443D", "#1F1A1D", "#A77670"]
 key_values: ["Comedy", "over-dramatization", "Theatrics", "Excess", "Exaggeration", "Melodrama"]
 related_aesthetics: ["American Kitsch", "Burlesque", "Club Kids", "Dark Academia", "FantasY2K", "Glam Rock", "Golden Age of Detective Fiction", "Goth", "Gothabilly", "Gorecore", "Grocery Girl Fall", "Gyaru", "Halloween", "Horror", "Horror Punk", "Kitsch", "Mallgoth", "Mall Ninja", "Maximalism", "McBling", "Neo-Pop", "Old Hollywood", "Pin-up", "Pop Art", "Sots Art", "Stilyagi", "Trailer Park Princess"]
 source_url: "https://aesthetics.fandom.com/wiki/Camp"

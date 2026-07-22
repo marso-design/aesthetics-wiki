@@ -5,6 +5,7 @@ aka: ["Circuscore", "Clownpunk"]
 decade_of_origin: "1860s / 2010s"
 key_motifs: ["Clowns", "circuses", "bright colors", "rainbows"]
 key_colours: ["Red", "yellow", "and blue"]
+palette: ["#371719", "#3F484D", "#AD9C88", "#AA7652", "#9C131D", "#E4DABE"]
 key_values: ["Joy", "humor", "positivity"]
 related_aesthetics: ["2020 TikTok", "Burlesque", "Juggalo", "Kidcore", "Scene", "Decora", "Fanfare", "Visual Kei"]
 related_media: ["Popee The Performer", "Homestuck"]

@@ -4,6 +4,7 @@ slug: "zen-x"
 decade_of_origin: "1990s"
 key_motifs: ["Plants", "minimalism", "Japanese architecture and design", "Buddhist imagery", "yoga"]
 key_colours: ["Beige", "brown", "blue", "green", "white"]
+palette: ["#6A5D6B", "#9B8587", "#2C2429", "#E2C39D", "#BF9885", "#693C31"]
 key_values: ["Environmentalism", "conservation", "sustainability", "Zen"]
 related_aesthetics: ["Eco-Beige", "Frasurbane", "Gen X Soft Club", "Global Village Coffeehouse", "Japandi", "Rustic", "Shabby Chic", "Tranquil Serenity", "Technozen", "Tuscan Rustic"]
 source_url: "https://aesthetics.fandom.com/wiki/Zen-X"

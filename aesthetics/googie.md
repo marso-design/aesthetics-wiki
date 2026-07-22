@@ -5,6 +5,7 @@ aka: ["Googie Architecture", "Populuxe", "Doo Wop"]
 decade_of_origin: "Late 1940s"
 key_motifs: ["Upswept and cantilevered roofs", "starbursts", "atomic models", "chrome", "geometric shapes", "boomerangs", "flying saucers", "parabolas"]
 key_values: ["Futurism", "optimism", "motion", "Space Age wonder", "commercialism"]
+palette: ["#454949", "#6780A2", "#131B1E", "#487FB5", "#6C737A", "#949798"]
 source_url: "https://aesthetics.fandom.com/wiki/Googie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

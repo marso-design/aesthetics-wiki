@@ -4,6 +4,7 @@ slug: "northern-soul"
 decade_of_origin: "Late 1960s"
 key_motifs: ["Clenched fist logo", "rare vinyl records", "turntables", "vintage fliers and posters", "Fred Perry shirts", "baggy trousers"]
 key_colours: ["Greyscale (mainly in pre-colour photography)"]
+palette: ["#807569", "#565857", "#D3C5AE", "#363737", "#0B0B0A", "#ADA390"]
 key_values: ["Unity", "individuality", "working-class pride", "all-nighter", "anti-commercialism", "nostalgia"]
 related_aesthetics: ["Beatnik", "Belgian Popcorn", "Disco", "Glam Rock", "Madchester", "Mod", "Rude Boy", "Skinhead"]
 source_url: "https://aesthetics.fandom.com/wiki/Northern_Soul"

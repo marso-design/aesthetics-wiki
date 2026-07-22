@@ -4,6 +4,7 @@ slug: "glitchcore"
 aka: ["Eyestraincore"]
 decade_of_origin: "2020s"
 key_colours: ["Neon colors", "bright contrasting colors"]
+palette: ["#020013", "#498980", "#423362", "#FEFFF3", "#B48F83", "#A54C72"]
 related_aesthetics: ["2010s Meme Maximalism", "Animecore", "Early Cyber", "Glitch Art", "Glitchbreak", "Hyperpop", "Kidcore", "Krushclub", "Lolicore", "Scenecore", "Synthwave", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Glitchcore"
 license: "CC-BY-SA-4.0"

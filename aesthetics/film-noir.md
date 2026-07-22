@@ -5,6 +5,7 @@ aka: ["Melodrama (obsolete)"]
 decade_of_origin: "1930s"
 key_motifs: ["Violence", "sex", "mystery"]
 key_colours: ["Black", "grey", "white"]
+palette: ["#8B8B8B", "#141414", "#373737", "#565656", "#717171", "#D7D7D7"]
 key_values: ["Pessimism", "sexuality", "corruption"]
 related_aesthetics: ["After Hours", "Femme Fatale", "French New Wave", "Mafia Aesthetic", "Pin-up", "Spy Fiction", "Heistcore", "Wartime Austerity"]
 source_url: "https://aesthetics.fandom.com/wiki/Film_Noir"

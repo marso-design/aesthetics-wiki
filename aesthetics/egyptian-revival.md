@@ -4,6 +4,7 @@ slug: "egyptian-revival"
 decade_of_origin: "1820s"
 key_motifs: ["pylon gateways", "battered walls", "cavetto cornices", "obelisks"]
 key_colours: ["sandy beige", "ochre", "terracotta"]
+palette: ["#EEEAE8", "#0C0B09", "#3F3F36", "#59624C", "#7A6B5D", "#AE9B8A"]
 related_aesthetics: ["Ancient Egypt"]
 source_url: "https://aesthetics.fandom.com/wiki/Egyptian_Revival"
 license: "CC-BY-SA-4.0"

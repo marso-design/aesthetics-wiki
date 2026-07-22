@@ -5,6 +5,7 @@ aka: ["Acidgrafix", "Brutalism (mistakenly)"]
 decade_of_origin: "Late 2010s (revival); 1990s (origin)"
 key_motifs: ["Chrome/liquid metal typography", "wireframes", "geometric shapes", "dystopian imagery", "psychedelic patterns", "smiley faces"]
 key_colours: ["Black", "neons", "fluorescent colors"]
+palette: ["#000000", "#2C3333", "#5A6365", "#6B414E", "#959991", "#917277"]
 key_values: ["Individuality", "uniqueness", "visual dissonance", "cynical humor", "futurism"]
 related_aesthetics: ["Acid House", "Barber Beats", "Cyberdelia", "Cyberpunk", "Neo-Vectorheart", "Neubrutalism", "New Beat", "Psychedelia", "Rave", "Retrofuturism", "Vectorheart", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Acid_Design"

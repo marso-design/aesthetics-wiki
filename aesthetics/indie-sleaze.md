@@ -5,6 +5,7 @@ aka: ["Indie Über-Sleaze (original term)", "Hipster (colloquial)", "Post-Underg
 decade_of_origin: "Mid-to-late 2000s"
 key_motifs: ["Amateur flash photography", "smudged eyeliner", "messy hair", "ripped tights", "deep V-necks", "neon accents", "band t-shirts", "skinny jeans", "metallic fabrics", "American Apparel basics", "cigarettes"]
 key_colours: ["Black", "white", "neon pink", "neon green", "metallic silver"]
+palette: ["#010001", "#4A3938", "#7F7A75", "#845748", "#171419", "#BD9B88"]
 key_values: ["Hedonism", "irony", "performed authenticity", "nightlife documentation", "chaotic energy", "rejection of polish", "provocativeness", "sexuality"]
 related_aesthetics: ["Bloghouse", "Brat Summer (revival)", "Electroclash", "Geek Chic", "Hedi Boy", "Heroin Chic", "Hipster", "Indie", "Kinderwhore", "McBling", "New Rave", "Recession Pop", "Swag", "Twee", "Urbancore"]
 primary_platform: ["The Cobrasnake", "MySpace", "Music Blogs", "Facebook (Early albums)"]

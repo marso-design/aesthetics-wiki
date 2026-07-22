@@ -5,6 +5,7 @@ aka: ["Cherubcore"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Angels", "cherubs", "wings", "halos", "doves", "soft clouds", "sunbeams", "glitter"]
 key_colours: ["White", "gold", "light blue", "light yellow", "pastel pink"]
+palette: ["#ABA7A5", "#A18684", "#8A736C", "#C9C0B9", "#C2978B", "#DED5CA"]
 key_values: ["Beauty", "benevolence", "tranquility", "unearthliness", "purity", "gentleness"]
 related_aesthetics: ["Baroque", "Coquette", "Cottagecore", "Devilcore (opposite)", "Ethereal", "Fairycore", "Hellenic", "Neoclassicism", "Rococo"]
 subgenres: ["Fallen Angel"]

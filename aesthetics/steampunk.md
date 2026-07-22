@@ -4,6 +4,7 @@ slug: "steampunk"
 decade_of_origin: "1960s (aesthetic)1980s (term)2000s/2010s (popularization)"
 key_motifs: ["Victorian styles", "gears", "clocks", "screws", "coils", "boilers", "cogs", "springs", "steam engines", "brass", "top hats", "waistcoats", "crinoline", "goggles", "pipes", "tubes", "wheels", "dials"]
 key_colours: ["Bronze", "brown", "copper", "golden", "metallic"]
+palette: ["#080504", "#342920", "#6D6050", "#594433", "#CCC2B6", "#8B715B"]
 key_values: ["Craftsmanship", "optimism", "ingenuity", "self-sufficiency", "eclecticism"]
 related_aesthetics: ["Atompunk", "Art Nouveau", "Clockpunk", "Cyberpunk", "Dark Academia", "Dark Cabaret", "Decopunk", "Dieselpunk", "Gothic", "Lolita", "New Romantic", "Post-Apocalyptic", "Punk", "Raygun Gothic", "Retrofuturism", "Rococopunk", "Romantic Goth", "Silkpunk", "Victorian", "Victorian Goth"]
 source_url: "https://aesthetics.fandom.com/wiki/Steampunk"

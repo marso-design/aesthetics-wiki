@@ -5,6 +5,7 @@ aka: ["Les Fauves (The Wild Beasts)"]
 decade_of_origin: "1900s"
 key_motifs: ["Simplified forms", "flattened perspective", "vigorous brushwork", "landscapes", "portraits"]
 key_colours: ["Intense", "pure", "non-naturalistic colors", "often applied directly from the tube; strong and dissonant color contrasts"]
+palette: ["#798878", "#2E3C49", "#ABB092", "#D1D7C0", "#C47E5A", "#955850"]
 key_values: ["Emotional expression through color", "separation of color from descriptive reality", "painterly spontaneity"]
 related_aesthetics: ["Art Nouveau", "Cubism", "Expressionism", "Impressionism", "Modernism", "Post-Impressionism"]
 source_url: "https://aesthetics.fandom.com/wiki/Fauvism"

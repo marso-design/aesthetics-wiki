@@ -5,6 +5,7 @@ aka: ["Portuguese Late Gothic"]
 decade_of_origin: "15th-16th Century"
 key_motifs: ["Nautical motifs", "naturalism", "intricate details", "fantastical creatures", "Christianity"]
 key_colours: ["Gold", "earthy tones"]
+palette: ["#957864", "#657180", "#455061", "#573C26", "#32261C", "#775741"]
 related_aesthetics: ["Baroque", "Gothic", "Italian Renaissance", "Mudéjar", "Nautical", "Rococo", "Spanish Golden Age"]
 source_url: "https://aesthetics.fandom.com/wiki/Manueline"
 license: "CC-BY-SA-4.0"

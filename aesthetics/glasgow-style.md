@@ -5,6 +5,7 @@ aka: ["Glasgow School"]
 decade_of_origin: "1890s-1910s"
 key_motifs: ["The Glasgow Rose", "elongated human forms", "geometric lines", "Celtic knots", "Japanese-inspired motifs", "symbolism"]
 key_colours: ["Muted palettes", "purples", "greens", "ivory", "silver", "rose-pink"]
+palette: ["#E2C8A3", "#AD9D83", "#BFBC92", "#585044", "#6E7055", "#919270"]
 key_values: ["Symbolism", "spiritualism", "aestheticism", "artistic collaboration", "integrated design"]
 related_aesthetics: ["Aestheticism", "Art Nouveau", "Arts and Crafts Movement", "Celtic Revival", "Japonisme", "Symbolism"]
 source_url: "https://aesthetics.fandom.com/wiki/Glasgow_Style"

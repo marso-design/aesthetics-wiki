@@ -4,6 +4,7 @@ slug: "biopunk"
 key_values: ["Genetic manipulation", "biotechnology"]
 related_aesthetics: ["Cybergoth", "Cyberprep", "Cyberpunk", "Dieselpunk", "Science Academia", "Seapunk", "Solarpunk", "Stalker", "Steampunk"]
 related_media: ["Resident Evil", "Parasite Eve", "Akira", "Neon Genesis Evangelion", "Elfen Lied", "Stranger Things"]
+palette: ["#242827", "#08090E", "#234361", "#4D473A", "#936441", "#814A30"]
 source_url: "https://aesthetics.fandom.com/wiki/Biopunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

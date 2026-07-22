@@ -4,6 +4,7 @@ slug: "avant-garde"
 key_motifs: ["Unusual shapes and color combinations", "high fashion structure"]
 key_values: ["Divergence from norms", "experimentation"]
 related_aesthetics: ["Eclectic Grandpa", "Dau al Set", "Modernisme", "Nouveau Réalisme", "Opium", "Minimal Wave", "No Wave", "Renovador Movement", "Seiz Breur", "St Ives School", "Toyism", "Zenitism"]
+palette: ["#110F0D", "#4C494C", "#877C78", "#DBDDD9", "#9A9490", "#BDB3AC"]
 source_url: "https://aesthetics.fandom.com/wiki/Avant-garde"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

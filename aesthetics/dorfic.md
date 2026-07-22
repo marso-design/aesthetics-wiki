@@ -5,6 +5,7 @@ aka: ["PolySunk"]
 decade_of_origin: "2000s"
 key_motifs: ["Glass", "tech patterns", "office spaces", "robotics", "sunlight", "cleanliness", "futurism", "industrialism", "techwear", "business casual", "jumpsuits", "goggles/visors", "gloves", "protective gear", "geometry", "hexagons"]
 key_colours: ["Orange", "Yellow", "White (primary)", "Red", "Grey or Silver", "Black", "Blue (accents)"]
+palette: ["#FFFFFF", "#E6952D", "#FAB700", "#D9D8D1", "#70543E", "#C9B185"]
 key_values: ["Rebellion against corrupt corporations"]
 related_aesthetics: ["★Abstract Tech", "Cyberpunk", "Dark Aero", "★Frutiger Aero", "Minimalism", "Skeuomorphism", "Space Age", "Technozen", "Y2K Futurism", "Vectorheart"]
 source_url: "https://aesthetics.fandom.com/wiki/DORFic"

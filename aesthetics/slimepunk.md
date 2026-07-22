@@ -4,6 +4,7 @@ slug: "slimepunk"
 decade_of_origin: "2010s"
 key_motifs: ["Radioactive/Biohazard symbols", "Green glowing objects", "Needles", "Gas Masks", "Rubber gloves", "Mall Goth themes/clothing"]
 key_colours: ["Black", "Green", "Purple", "Red"]
+palette: ["#FFFFFF", "#223A3D", "#161B25", "#5E9B4F", "#4E5E63", "#752F2E"]
 key_values: ["Environmental awareness", "acceptance", "DIY culture", "fun"]
 related_aesthetics: ["Acid House", "Cleancore", "Y2K Futurism", "Goblincore", "Icepunk", "Mallgoth", "Seapunk", "Vaporwave"]
 related_media: ["Teenage Mutant Ninja Turtles", "You Can't Do That On Television", "Double Dare", "lots of old-school Nickelodeon programming"]

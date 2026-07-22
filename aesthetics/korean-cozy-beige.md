@@ -5,6 +5,7 @@ aka: ["Beige Milk Tea", "Korean Neutral Beige"]
 decade_of_origin: "Unknown"
 key_motifs: ["coffee", "stationery", "prints on the wall secured with washi tape", "simple home decor", "laptop for watching dramas"]
 key_colours: ["beige", "brown", "neutrals", "stripes", "plaid"]
+palette: ["#CCBDA8", "#765D43", "#B19B83", "#937C64", "#4B3724", "#F3F0EC"]
 key_values: ["slow living", "coziness", "minimalism"]
 related_aesthetics: ["Café Aesthetic", "Cozycore", "Vanilla Girl"]
 related_media: ["Line & Friends", "Rilakkuma. Sanrio. We Bare Bears"]

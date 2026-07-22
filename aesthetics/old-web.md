@@ -5,6 +5,7 @@ aka: ["Web 1.0 Aesthetic", "GeoCities Aesthetic", "1990s Web Design"]
 decade_of_origin: "1990s"
 key_motifs: ["Animated GIFs (under construction, spinning icons)", "visible HTML tables/frames", "guestbooks", "visitor counters", "\"web-safe\" colors", "tiled backgrounds", "pixel art", "low-resolution clip art", "glitter graphics"]
 key_colours: ["Web-safe palette (vibrant primary and secondary colors)", "neon text", "underlined blue hyperlinks"]
+palette: ["#CACDCC", "#040104", "#FFFFFF", "#B3B4B4", "#A06B5F", "#2B2029"]
 key_values: ["Decentralization", "amateur creativity", "community building", "nostalgia", "technological novelty"]
 related_aesthetics: ["Memphis Lite", "Global Village Coffeehouse", "Vaporwave (reinterpretation)", "Webcore (reinterpretation)", "Pixel UI", "Programmer Art", "Y2K Futurism", "Frutiger Aero"]
 primary_platform: ["GeoCities", "Angelfire", "Tripod", "Personal Homepages"]

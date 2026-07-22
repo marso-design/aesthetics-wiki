@@ -5,6 +5,7 @@ aka: ["Middle Ages"]
 decade_of_origin: "5th Century AD"
 key_values: ["Christianity", "feudalism"]
 related_aesthetics: ["Bardcore", "Romanesque", "Southern French Gothic", "Visigothic Art"]
+palette: ["#481B1A", "#AB5F40", "#8B7E71", "#D3B382", "#C5975F", "#6D5F59"]
 source_url: "https://aesthetics.fandom.com/wiki/Medieval"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

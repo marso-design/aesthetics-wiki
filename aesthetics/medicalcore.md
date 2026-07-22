@@ -4,6 +4,7 @@ slug: "medicalcore"
 aka: ["Hospitalcore", "Nursecore"]
 key_motifs: ["Pills", "bandages", "medical equipment"]
 key_colours: ["White", "red", "and some pastels (especially pink, lavender, blue, and mint)"]
+palette: ["#978B9B", "#DED8D7", "#C3A4AB", "#919FC0", "#C3B5CB", "#684847"]
 key_values: ["Sickness"]
 related_aesthetics: ["Cleancore", "Plaguecore", "Traumacore", "Yami Kawaii", "Morute", "Weirdcore", "Dreamcore", "Mochette"]
 source_url: "https://aesthetics.fandom.com/wiki/Medicalcore"

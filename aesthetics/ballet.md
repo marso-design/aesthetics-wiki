@@ -4,6 +4,7 @@ slug: "ballet"
 decade_of_origin: "15th Century"
 key_motifs: ["Tutus", "pointe shoes", "ribbons", "tights", "leotards", "ballet slippers", "barre", "stage lighting", "mirrors", "studios", "swans", "sugarplum fairies", "supernatural beings"]
 key_colours: ["White", "pink", "cream", "black", "gold", "silver"]
+palette: ["#EFEDE9", "#6B6A63", "#A09F96", "#CFCDC3", "#BBBAB0"]
 key_values: ["Expression of emotion through movement", "classical form", "discipline", "grace", "ethereal beauty", "storytelling"]
 related_aesthetics: ["Balletcore", "Fairycore", "Romanticism", "Pink Parisian"]
 related_media: ["The Red Shoes (1948)", "Black Swan (2010)", "Suspiria (1977)", "An American in Paris (1951)"]

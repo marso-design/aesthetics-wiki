@@ -4,6 +4,7 @@ slug: "brazilcore-fashion-trend"
 decade_of_origin: "2020s"
 key_motifs: ["Brazilian flag colors (green, yellow, blue)", "football jerseys", "streetwear", "Y2K elements", "favela fashion"]
 key_colours: ["Green", "yellow", "blue", "white"]
+palette: ["#637E72", "#242925", "#141110", "#B7BEB3", "#ECEAD4", "#533D2F"]
 key_values: ["National pride", "cultural reclamation", "football culture", "celebration", "Y2K nostalgia"]
 related_aesthetics: ["Blokecore", "Y2K", "Mandrake", "Brazilian Bombshell"]
 primary_platform: ["TikTok", "Instagram"]

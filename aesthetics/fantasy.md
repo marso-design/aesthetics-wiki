@@ -5,6 +5,7 @@ key_motifs: ["Magic", "swords", "sorcery", "potions", "dragons", "crystals", "bo
 key_values: ["Adventure", "creativity", "ambition", "companionship", "freespirit"]
 related_aesthetics: ["Adventurecore", "Animecore", "Bardcore", "Dark Fantasy", "Dragoncore", "Knightcore", "Witchcore", "Wizardcore"]
 related_media: ["Lord of The Rings", "The Chronicles of Narnia", "Dungeons and Dragons"]
+palette: ["#060607", "#191C18", "#303225", "#4E4934", "#898775", "#746A51"]
 source_url: "https://aesthetics.fandom.com/wiki/Fantasy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

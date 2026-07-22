@@ -5,6 +5,7 @@ aka: ["Gothicism", "Gothic Fiction", "Gothic Horror"]
 decade_of_origin: "Late 18th century (c. 1764)"
 key_motifs: ["Haunted castles", "crumbling ruins", "graveyards", "the supernatural (ghosts, vampires)", "psychological distress", "mystery", "decay", "wild landscapes", "the sublime"]
 key_colours: ["Predominantly dark palette: black", "grey", "deep reds", "and purples"]
+palette: ["#383638", "#171517", "#F3F8F7", "#888685"]
 key_values: ["Emotion over reason", "appreciation for the sublime and terrifying", "exploration of the dark side of human nature", "fascination with the past and the supernatural"]
 related_aesthetics: ["Catholic Horror", "Darkest Academia", "Dark Academia", "Goth", "Gothic Architecture", "Horror", "Regional Gothic", "Romanticism", "Vampire", "Victorian"]
 related_media: ["The Castle of Otranto", "Frankenstein", "Dracula", "the poetry of Edgar Allan Poe", "paintings by Caspar David Friedrich and Henry Fuseli"]

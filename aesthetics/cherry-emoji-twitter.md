@@ -5,6 +5,7 @@ aka: ["Cherry Pits", "Dark Femme Fatale", "Hoe Twitter (formerly)", "CET", "Cher
 decade_of_origin: "2010s"
 key_motifs: ["Cherries", "Hearts", "Lollipops", "Lips"]
 key_colours: ["Red", "Pink", "White"]
+palette: ["#30211C", "#515049", "#D9ABA1", "#A0988C", "#DAC5C2", "#7E725F"]
 key_values: ["Being shamelessly yourself", "Sexuality", "Respect for fellow hoes", "Being very bad while looking very good"]
 related_aesthetics: ["Baddie", "Bimbocore", "Bubblegum Bitch", "Femme Fatale", "Lovecore", "McBling", "Nymphet", "Rockabilly", "Tomato Girl Summer"]
 source_url: "https://aesthetics.fandom.com/wiki/Cherry_Emoji_Twitter"

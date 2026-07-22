@@ -3,6 +3,7 @@ name: "Fantasy Astronomy"
 slug: "fantasy-astronomy"
 key_motifs: ["Astrolabes", "ceiling frescoes", "bookshelves", "telescopes", "constellations"]
 key_colours: ["Navy blue", "bluish purple", "silver", "gold", "midnight blue"]
+palette: ["#010D13", "#282C36", "#E9DDCE", "#4B5667", "#C8CDCC", "#91807E"]
 related_aesthetics: ["Mad Scientist", "Nightcore (aesthetic)", "Science Academia", "Spacecore", "Wizardcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Fantasy_Astronomy"
 license: "CC-BY-SA-4.0"

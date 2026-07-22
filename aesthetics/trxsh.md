@@ -5,6 +5,7 @@ aka: ["Trash Gang Aesthetic"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Anime music videos (AMVs)", "devil horns", "sharp smiley mask", "tattoos", "chains", "Japanese text", "dark streetwear"]
 key_colours: ["Black", "white", "red"]
+palette: ["#000000", "#474A50", "#797277", "#AEAAA7", "#252528", "#E1DCD4"]
 key_values: ["Edginess", "melancholy", "underground rap culture"]
 related_aesthetics: ["Dead Inside", "E-Boy", "E-Girl", "Emo Rap", "Sadboi", "Simpsonwave", "Skater", "Trap Metal"]
 primary_platform: ["YouTube"]

@@ -5,6 +5,7 @@ aka: ["Route 66 Kitsch", "Mid-Century Roadside Americana", "Mother Road Aestheti
 decade_of_origin: "1950s"
 key_motifs: ["Googie architecture", "Programmatic/Mimetic Architecture (buildings shaped like products/animals)", "oversized \"Muffler Men\" statues", "mid-century neon signage", "chrome", "dry desert scenery", "vintage gas stations", "classic American cars (tail fins)"]
 key_colours: ["Desert Palette (dusty earth tones)", "neon", "chrome silver", "pastel pink/blue/mint"]
+palette: ["#AC9C8E", "#3975A5", "#19252C", "#82B4E3", "#897463", "#443F3C"]
 key_values: ["Freedom", "mobility", "technological optimism (post-WWII)", "autotourism", "nostalgia for the American Dream", "kitsch"]
 related_aesthetics: ["Americana", "Diner", "Googie", "Greaser", "Hot Rod", "Mid-Century Modern", "Rockabilly"]
 related_media: ["American Graffiti (1973)", "Pixar's CARS (2006)", "Nat King Cole's \"Route 66\" (song)"]

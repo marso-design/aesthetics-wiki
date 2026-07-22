@@ -5,6 +5,7 @@ aka: ["Chinese fashion trend", "National trend"]
 decade_of_origin: "2018"
 key_motifs: ["Qipao", "Dan headdress", "hand fan", "xiangyun", "Jianghu-style font"]
 key_colours: ["Saturated red", "turquoise", "blue", "and traditional Chinese palettes"]
+palette: ["#3A867B", "#6C0308", "#CC1D18", "#F73F3C", "#F9F1E3", "#A7C2A7"]
 key_values: ["National pride", "cultural confidence", "support for domestic brands"]
 related_aesthetics: ["Neo-Chinese Style", "Guo-feng", "Romantic Chinese Village", "Too Cool", "Ethno-Chic"]
 primary_platform: ["Baidu", "Weibo", "Xiaohongshu", "Douyin", "Tmall"]

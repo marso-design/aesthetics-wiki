@@ -4,6 +4,7 @@ slug: "wonderland"
 decade_of_origin: "1860s"
 key_motifs: ["Checkered floors", "dark forests", "unusual architecture", "pocket watches", "locked doors", "tea sets", "rabbits", "mirrors", "locks and keys", "key holes", "flamingos", "playing cards", "mushrooms", "roses", "gardens", "hedge mazes", "books", "cats"]
 key_colours: ["Muted colors", "Black", "White", "Light brown", "red", "blue"]
+palette: ["#080C0B", "#1F1A1A", "#E1CDA5", "#707063", "#ACA490", "#4C473A"]
 key_values: ["Feelings of being lost", "confidence", "knowledge", "nonsense"]
 related_aesthetics: ["Chaotic Academia", "Cottagecore", "Cottagegore", "Weirdcore", "Dreamcore"]
 related_media: ["Alice in Wonderland", "The Wizard of Oz"]

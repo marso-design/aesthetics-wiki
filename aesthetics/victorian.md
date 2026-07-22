@@ -4,6 +4,7 @@ slug: "victorian"
 decade_of_origin: "19th Century (1837-1901)"
 key_motifs: ["Ornate detailing", "Gothic Revival architecture", "industrial machinery", "gaslight", "pocket watches", "corsets", "top hats", "mourning rituals", "strict social codes", "intricate patterns", "dark romanticism", "scientific curiosity", "domesticity", "elaborate hairstyles", "crinolines", "bustles"]
 key_colours: ["Ochre", "russet", "beige", "brown", "taupe", "black", "white", "royal blue", "crimson", "deep jewel tones (emerald green, ruby red, sapphire blue)"]
+palette: ["#636362", "#090806", "#988E7B", "#242017", "#C5BA9A", "#494237"]
 key_values: ["Morality", "strict social codes", "domesticity", "industrial progress", "technological innovation", "scientific inquiry", "formality", "class hierarchy", "duty", "sentimentality", "knowledge", "romanticism"]
 related_aesthetics: ["Arts and Crafts Movement", "Dandy", "Dark Academia", "Edwardian", "Gothic", "Lolita", "Steampunk", "Victorian Goth", "Vintage British Sportsman"]
 related_media: ["Sherlock Holmes series (Arthur Conan Doyle)", "Works by Charles Dickens (e.g., Oliver Twist, Great Expectations)", "Works by Brontë sisters (e.g., Jane Eyre, Wuthering Heights)", "Works by Lewis Carroll (e.g., Alice's Adventures in Wonderland)"]

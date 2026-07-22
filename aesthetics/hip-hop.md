@@ -5,6 +5,7 @@ aka: ["Rap"]
 decade_of_origin: "1970s"
 key_motifs: ["Breakbeats", "rhythmic speech", "DJing techniques", "dance", "graffiti", "urban settings", "self-expression"]
 key_colours: ["Varies widely"]
+palette: ["#5A524A", "#1E1717", "#37302C", "#B4B2A4", "#A43737", "#6A7D82"]
 key_values: ["Creativity", "innovation", "self-expression", "community", "social commentary", "resilience"]
 related_aesthetics: ["B-Boy", "Chicago Drill", "Emo Rap", "Gangsta Rap", "Lo-fi", "Trap Metal", "Graffiti Pop", "Trillwave", "UrBling"]
 related_media: ["Hip-hop music", "music videos", "graffiti art", "dance performances", "films", "documentaries"]

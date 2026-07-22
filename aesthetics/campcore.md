@@ -4,6 +4,7 @@ slug: "campcore"
 decade_of_origin: "2010s"
 key_motifs: ["Campfires", "stargazing", "hiking", "trees", "tents", "campsites"]
 key_colours: ["Dark green", "dark orange", "dark brown", "greyish-brown"]
+palette: ["#9D8775", "#212325", "#5C574F", "#463B32", "#7A6450", "#B4A496"]
 related_aesthetics: ["Cabincore", "Adventurecore", "Comfy/Cozy", "Naturecore", "Natural Philosophy", "Earthcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Campcore"
 license: "CC-BY-SA-4.0"

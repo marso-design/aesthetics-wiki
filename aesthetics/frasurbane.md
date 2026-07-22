@@ -4,6 +4,7 @@ slug: "frasurbane"
 aka: ["90's Urbane"]
 decade_of_origin: "1990s"
 key_colours: ["Brown", "grey", "beige", "white", "black", "tan", "primary and secondary colors (often greens, blues and yellows)"]
+palette: ["#573829", "#281D1D", "#393436", "#865637", "#9D958E", "#A7764C"]
 related_aesthetics: ["Austurbane", "Bon Chic", "Bon Genre", "Corporate Grunge", "Corporate Memphis", "Earth Tones", "Eco-Beige", "Factory Pomo", "Festival Marketplace", "Global Village Coffeehouse", "Grunge", "Utopian Scholastic", "Memphis Design", "Mission School", "Neoclassical Pomo", "Tuscan Rustic", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Frasurbane"
 license: "CC-BY-SA-4.0"

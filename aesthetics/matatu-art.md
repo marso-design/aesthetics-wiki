@@ -5,6 +5,7 @@ aka: ["Manyanga", "Nganya"]
 decade_of_origin: "1970s"
 key_motifs: ["Graffiti portraiture", "celebrity imagery", "religious iconography", "sports team branding", "pop culture references", "slogans and text-based messaging"]
 key_colours: ["Vibrant multicolor schemes including neon", "metallic accents", "bright oranges", "yellows", "greens", "blues", "reds"]
+palette: ["#050B0D", "#413C45", "#161924", "#66674E", "#6E433B", "#A86A46"]
 key_values: ["Artistic expression", "competition", "identity", "accessibility", "youth culture"]
 related_aesthetics: ["Chicano Lowrider", "Funfair Kitsch", "Maximalism", "Reggae"]
 source_url: "https://aesthetics.fandom.com/wiki/Matatu_Art"

@@ -5,6 +5,7 @@ aka: ["Stilyaga (singular)"]
 decade_of_origin: "1940s"
 key_motifs: ["Bright clothing", "narrow trousers", "wide-brimmed hats", "tight skirts", "puffed sleeves", "pompadours", "ducktails", "bouffants", "beehives"]
 key_colours: ["Bright colors"]
+palette: ["#B1ABA4", "#96897F", "#31312B", "#E1D8CA", "#6D6857", "#93744E"]
 key_values: ["Individuality", "rebellion against conformity", "Westernization"]
 related_aesthetics: ["Americana", "Beatnik", "Bikiniarze", "Mid-Century Modern", "Pin-up", "Rockabilly", "Swingjugend", "Teddy Boy"]
 source_url: "https://aesthetics.fandom.com/wiki/Stilyagi"

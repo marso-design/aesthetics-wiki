@@ -5,6 +5,7 @@ aka: ["Frontier Sci-Fi", "Space Cowboy"]
 decade_of_origin: "1930s"
 key_motifs: ["Transhumanism", "cowboys", "frontiers", "space", "humanity's expansion"]
 key_colours: ["Depends on the variant", "but mostly colors used in the Wild West era."]
+palette: ["#64686B", "#404144", "#151518", "#302625", "#7E4D3E", "#F1E2DA"]
 key_values: ["Freedom", "survival", "exploration", "escape from monotony"]
 related_aesthetics: ["Americana", "Western", "Cottagecore", "Cassette Futurism", "Spacecore", "Space Cowgirl"]
 related_media: ["Cowboy Bebop", "Outlaw Star", "Trigun", "The Mandalorian", "Outer Wilds", "Borderlands (video game saga)"]

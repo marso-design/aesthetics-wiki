@@ -5,6 +5,7 @@ aka: ["Dishevelled English Woman"]
 decade_of_origin: "2020s (drawing inspiration from the early 2000s)"
 key_motifs: ["Layered knitwear", "midi skirts", "flared jeans", "tailored shirts", "oversized trench coats", "knee-high boots", "loafers", "claw clips", "messy updos", "skinny scarves", "large practical bags"]
 key_colours: ["Neutral tones (browns, beiges, greys)", "soft greens", "occasional pops of color (e.g., from opaque tights)"]
+palette: ["#FFFFFF", "#3F3531", "#68372B", "#282425", "#191210", "#705F53"]
 key_values: ["Embracing imperfection", "comfort", "authenticity", "practicality", "a sense of wit and relatability"]
 related_aesthetics: ["Britpop", "Clean Girl", "Coastal Grandmother", "Cottagecore", "Fisherman", "Indie Sleaze", "Whimsy Twee", "Y2K"]
 primary_platform: ["TikTok"]

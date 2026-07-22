@@ -4,6 +4,7 @@ slug: "early-cyber"
 decade_of_origin: "1970s/1980s"
 key_motifs: ["Pixelization", "thermography", "fractals", "visual distortions"]
 key_colours: ["Rainbow"]
+palette: ["#577EAA", "#87AEC9", "#FFFEEB", "#CCDDD7", "#745362", "#C0BDAE"]
 related_aesthetics: ["90s Cool", "Abstract Tech", "Acid Design", "Cassette Futurism", "Cyberdelia", "Cyberpunk", "Hacker", "Laser Grid", "Med-Tech Visions", "Memphis Lite", "Metalheart", "Pixel UI", "Psychedelia", "Raver", "Silicon Dreams", "Synthwave", "Vaporwave", "Vectorheart", "Y2K Futurism"]
 related_media: ["The Mind's Eye (1990)"]
 source_url: "https://aesthetics.fandom.com/wiki/Early_Cyber"

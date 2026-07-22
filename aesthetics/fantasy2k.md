@@ -5,6 +5,7 @@ aka: ["Medieval Y2K"]
 decade_of_origin: "1990s"
 key_motifs: ["crochet", "lace up details", "corsets/stays", "long skirts", "hip belts", "flare sleeves", "sheer fabric", "layering", "embellishments"]
 key_colours: ["jewel tones", "earth tones", "green", "brown", "orange", "red", "yellow", "blue"]
+palette: ["#38323A", "#552E30", "#211318", "#716162", "#927B7E", "#BE95B1"]
 related_aesthetics: ["Bohemian", "Camp", "Cottagecore", "Ethereal", "Fairycore", "Fairy Grunge", "Fantasy", "Kinderwhore", "Medieval Fantasy", "Mythpunk", "Renaissance Revival", "Twilightcore", "Whimsigothic", "Y2K"]
 related_media: ["A Knight's Tale (2001)", "The Mists of Avalon (2001)", "Ella Enchanted (2004)", "Robin Hood (2006-2009)", "Merlin (2008-2012)"]
 source_url: "https://aesthetics.fandom.com/wiki/FantasY2K"

@@ -5,6 +5,7 @@ aka: ["Greco-Roman"]
 decade_of_origin: "5th century BCE (Original Period)"
 key_motifs: ["Marble sculpture", "allusions to mythology", "drapery", "idealized nude figures", "architectural orders (Doric, Ionic, Corinthian)"]
 key_colours: ["Primarily white (in sculpture, due to lost paint)", "but originally featured bright", "saturated colors."]
+palette: ["#402B2F", "#5E3F3E", "#9F968B", "#88776D", "#716259", "#C6B49C"]
 key_values: ["Reason", "order", "harmony", "balance", "idealism", "restraint", "pursuit of truth and beauty"]
 related_aesthetics: ["Academic Art", "Baroque", "Hellenic", "Italian Renaissance", "Neoclassicism", "Roman Empire"]
 source_url: "https://aesthetics.fandom.com/wiki/Classicism"

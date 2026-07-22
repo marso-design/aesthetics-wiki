@@ -1,6 +1,7 @@
 ---
 name: "Status Symbol"
 slug: "status-symbol"
+palette: ["#292B2F", "#63514B", "#FFFFFF", "#A09A93", "#AEADAB", "#D2D0CC"]
 source_url: "https://aesthetics.fandom.com/wiki/Status_Symbol"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

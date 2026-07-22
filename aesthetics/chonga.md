@@ -4,6 +4,7 @@ slug: "chonga"
 decade_of_origin: "1980s-2000s"
 key_motifs: ["Expressive and loud fashion"]
 key_colours: ["Hot pink", "bright tones"]
+palette: ["#F61976", "#CCB9AE", "#1A0D0E", "#DB8269", "#693935", "#8C786A"]
 key_values: ["Working-class empowerment", "sexual liberation", "sassiness", "cultural pride"]
 related_aesthetics: ["Bimbocore", "Cholo", "Choni", "Gangsta Rap", "Hip-Hop", "McBling"]
 source_url: "https://aesthetics.fandom.com/wiki/Chonga"

@@ -4,6 +4,7 @@ slug: "ancient-egypt"
 decade_of_origin: "3150 BC─30 BC"
 key_motifs: ["Pyramids", "mummies", "sand", "gold", "tomb artwork", "winged solar disc"]
 key_colours: ["Gold", "white", "ivory", "brown", "black", "blue", "red"]
+palette: ["#B18150", "#321F13", "#714525", "#8C613A", "#C39D73", "#DBBB89"]
 related_aesthetics: ["Hellenic", "Art Deco", "Egyptian Revival"]
 source_url: "https://aesthetics.fandom.com/wiki/Ancient_Egypt"
 license: "CC-BY-SA-4.0"

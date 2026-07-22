@@ -5,6 +5,7 @@ aka: ["Astrocore"]
 decade_of_origin: "2020s"
 key_motifs: ["Stylized galaxies and nebulae", "rainbow-colored planets", "meteor showers/shooting stars", "glowing star lights (decor)", "pink/purple celestial bodies", "escapism through the cosmos", "dreamlike floating imagery"]
 key_colours: ["Violet", "indigo", "electric blue", "magenta", "black (space backgrounds)", "iridescent silver/glitter"]
+palette: ["#050506", "#1D2223", "#2D4454", "#515A6C", "#A597AA", "#6F8CA8"]
 key_values: ["Escapism", "wonder", "fantasy", "existential searching", "individuality", "dreaminess"]
 related_aesthetics: ["Aliencore", "Fantasy Astronomy", "Galaxy Print", "Signalwave", "Uchuu Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Spacecore"

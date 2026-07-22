@@ -5,6 +5,7 @@ aka: ["Retroslop/Rainbowslop (pejorative, primarily on Roblox)"]
 decade_of_origin: "2020s (drawing from Late 2000s-Mid 2010s)"
 key_motifs: ["Rage comics (Trollface, etc.)", "Nyan Cat", "Epic Face", "image macros", "Advice Animals", "splatters", "rainbow gradients", "Sparkledogs", "kaomoji"]
 key_colours: ["Bright primary and secondary colors", "rainbows"]
+palette: ["#160F2B", "#618C8B", "#2D2E48", "#675971", "#FAF1B2", "#A91C77"]
 key_values: ["\"Epicness", "\" random humor", "nostalgia", "controlled chaos", "\"cringe culture is dead\""]
 related_aesthetics: ["2010s Soft Kawaii", "Deep Fried Meme", "Galaxy Print", "Glitchcore", "Glitter Graphics", "Internet Awesomesauce", "MLG", "Scenecore", "Vectordelia", "Webcore"]
 primary_platform: ["TikTok", "Pinterest", "Roblox"]

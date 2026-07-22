@@ -5,6 +5,7 @@ aka: ["Creepy Cute Tumblr", "Morbid Cute", "Morbid Dolly", "Morbidette", "Sad Ba
 decade_of_origin: "Early 2010s"
 key_motifs: ["Death", "cuteness", "trauma", "horror", "girlhood", "religion", "depression"]
 key_colours: ["Pink", "white", "black", "and gray"]
+palette: ["#765B59", "#92776E", "#483936", "#CABABC", "#E0D6D5", "#A09993"]
 key_values: ["Depression", "nihilism", "vulnerability", "religious guilt", "interest in the macabre", "feeling dirty after abuse", "desire to be innocent", "nostalgia"]
 related_aesthetics: ["Catholic Horror", "Cult Party Kei", "Cutegore", "Delicate Sweet", "Gloomy Coquette", "Gothic", "Kinderwhore", "Midwest Gothic", "Mochette", "Nymphet", "Preacher's Daughter", "Slavic Violence Tumblr", "Southern Gothic", "Teethcore", "Traumacore", "Trailer Park Princess", "Waif", "Yami Kawaii"]
 related_media: ["Flowers in the Attic (film and book series)", "Other books/films by VC Andrews", "Mark Ryden's art", "Nicole Dollanganger", "Risa Mehmet's art", "Welcome to the Dollhouse (1995)"]

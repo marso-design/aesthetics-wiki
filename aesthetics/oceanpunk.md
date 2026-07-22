@@ -5,6 +5,7 @@ decade_of_origin: "1870s (concept)
 1990s (term and popularization)"
 key_motifs: ["Ocean", "ocean colonisation", "ships", "sea architecture", "Pirates"]
 key_colours: ["Blue", "green", "grey", "brown", "bronze", "metallic"]
+palette: ["#122229", "#1393B3", "#1A3943", "#0F5873", "#1E7992", "#1BACC9"]
 key_values: ["Ocean colonization", "exploration"]
 related_aesthetics: ["Nautical", "Nautical Fantasy", "Seapunk", "Steampunk", "Biopunk", "Ocean Grunge", "Pirate", "Dark Nautical"]
 related_media: ["Waterworld"]

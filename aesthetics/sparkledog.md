@@ -3,6 +3,7 @@ name: "Sparkledog"
 slug: "sparkledog"
 decade_of_origin: "2000s"
 key_colours: ["Rainbow", "black"]
+palette: ["#FFFFFF", "#030304", "#EC8CF1", "#5B2D46", "#7B5A79", "#C17096"]
 related_aesthetics: ["2010s Dark Fandom", "Hands Up", "Scene", "Poster Gal", "Furry"]
 source_url: "https://aesthetics.fandom.com/wiki/Sparkledog"
 license: "CC-BY-SA-4.0"

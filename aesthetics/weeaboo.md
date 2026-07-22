@@ -6,6 +6,7 @@ decade_of_origin: "mid 2000s"
 key_motifs: ["Graphic Tees", "Cosplay", "Merch"]
 key_values: ["Fandom", "Romanticization of Japan"]
 related_aesthetics: ["Animecore", "Scene", "Emo", "Mall Ninja", "Wota", "Otaku"]
+palette: ["#171111", "#8B4735", "#D4BBB1", "#A29093", "#B0725F", "#DAD1CC"]
 source_url: "https://aesthetics.fandom.com/wiki/Weeaboo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

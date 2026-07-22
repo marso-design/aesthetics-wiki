@@ -5,6 +5,7 @@ aka: ["Meridional Gothic", "Occitan Gothic", "Languedoc Gothic", "Toulousian Got
 decade_of_origin: "12th-14th centuries"
 key_motifs: ["Barrel vaults", "brickwork", "fortified churches", "austerity", "single nave"]
 key_colours: ["Red", "white", "earth tones"]
+palette: ["#9D826A", "#74859E", "#7F6955", "#15120F", "#3D3227", "#4F4A42"]
 key_values: ["Simplicity", "defense", "militarism", "Catholicism"]
 related_aesthetics: ["Cistercian", "Gothic", "Medieval", "Romanesque", "Visigothic"]
 source_url: "https://aesthetics.fandom.com/wiki/Southern_French_Gothic"

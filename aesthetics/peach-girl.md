@@ -5,6 +5,7 @@ aka: ["Peachy Beachy"]
 decade_of_origin: "2020s"
 key_motifs: ["Peaches", "soft blush", "dewy skin", "glossy lips", "sun-kissed glow", "simple clothing"]
 key_colours: ["Peach", "warm-toned pink", "soft orange", "coral", "apricot", "cream"]
+palette: ["#CBC7CB", "#B69792", "#E8E2E4", "#AA7672", "#C3B1AD", "#F3F5F9"]
 key_values: ["Freshness", "warmth", "natural beauty", "youthfulness", "effortless charm"]
 related_aesthetics: ["Blueberry Girl", "Coquette", "Soft Girl", "Strawberry Girl", "That Girl", "Tomato Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Peach_Girl"

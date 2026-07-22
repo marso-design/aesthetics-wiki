@@ -5,6 +5,7 @@ aka: ["Maillard Feng"]
 decade_of_origin: "2023 August"
 key_motifs: ["Leather", "fur", "experimenting with shades and textures"]
 key_colours: ["Brown", "caramel", "orange", "burgundy", "shades of red"]
+palette: ["#1A100E", "#D8D5CF", "#5B5551", "#623928", "#35241D", "#CDC3B9"]
 related_aesthetics: ["Autumn", "Dark Academia", "Dopamine", "Grandparentcore", "Grocery Girl Fall", "Japandi", "Lulicore", "Old Money"]
 source_url: "https://aesthetics.fandom.com/wiki/Maillard_Style"
 license: "CC-BY-SA-4.0"

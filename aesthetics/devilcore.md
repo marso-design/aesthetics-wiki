@@ -5,6 +5,7 @@ aka: ["Demoncore"]
 decade_of_origin: "2010s"
 key_motifs: ["Black wings", "horns", "weapons", "skeletons", "blasphemous images", "blood", "violence", "and misanthropy"]
 key_colours: ["Red", "grey", "and black", "occasionally other colors"]
+palette: ["#821204", "#201A1C", "#090303", "#513936", "#8C5D51", "#9F3836"]
 key_values: ["Sadistic pleasure or evil", "selfish goals"]
 related_aesthetics: ["Angelcore", "Casino", "Catholic Horror", "Gorecore", "Goth", "Opium", "Punk", "Neo-Tribal", "Sigilkore", "Succubus Chic", "Trxsh", "Black Metal"]
 source_url: "https://aesthetics.fandom.com/wiki/Devilcore"

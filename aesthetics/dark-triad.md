@@ -5,6 +5,7 @@ aka: ["Blackpill", "Lookism", "TikTokTekk"]
 decade_of_origin: "2020s"
 key_motifs: ["The Triad Pyramid logo", "black-and-white high-contrast filters", "sigma male archetype", "looksmaxxing \"before and after\" transitions", "facial symmetry", "\"hunter eyes", "\" tailored suits", "cigarette smoke", "statue imagery (e.g., Marcus Aurelius or David)", "gym progress footage", "hardtekk/drift phonk music"]
 key_colours: ["Black", "White", "Dark Grey", "Chrome"]
+palette: ["#000000", "#6A6869", "#171718", "#2B2A2B", "#EBEBEB", "#B3B2B2"]
 key_values: ["Ruthless discipline", "social manipulation", "emotional detachment", "physical perfectionism", "\"dark\" charisma"]
 related_aesthetics: ["Brazilian Phonk", "Dark Academia (shares focus on philosophy)", "Drift Phonk", "Hyperborean", "Krushclub (music-wise)"]
 primary_platform: ["TikTok", "YouTube Shorts", "Instagram Reels"]

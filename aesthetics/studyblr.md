@@ -3,6 +3,7 @@ name: "Studyblr"
 slug: "studyblr"
 decade_of_origin: "2010s"
 related_aesthetics: ["Art Academia", "Chaotic Academia", "Dark Academia", "Light Academia", "Romantic Academia", "Science Academia", "Theatre Academia"]
+palette: ["#927A72", "#AAA7A1", "#DCDEDF", "#3D2E2B", "#CAC1B7", "#F6F6F7"]
 source_url: "https://aesthetics.fandom.com/wiki/Studyblr"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

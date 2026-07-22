@@ -5,6 +5,7 @@ aka: ["Ball Culture", "Drag Ball Culture", "House-Ballroom Community"]
 decade_of_origin: "Late 19th Century (formal balls); 1960s/1970s (modern house system)"
 key_motifs: ["Categories (realness, runway, face, vogue performance)", "houses", "trophies", "chosen family", "walking", "voguing", "shade", "reading", "fashion as performance", "aspirational wealth"]
 key_colours: ["Diverse; often bright", "bold", "and luxurious", "reflecting aspirational fashion and glamour"]
+palette: ["#867761", "#C1C6B6", "#1C191B", "#030205", "#353332", "#5F4138"]
 key_values: ["Family", "community", "self-expression", "aspiration", "survival", "defiance", "competition", "glamour"]
 related_aesthetics: ["Burlesque", "Cyber Ghetto", "Disco", "Drag Culture", "Hip-Hop", "Queercore"]
 related_media: ["Paris Is Burning (1990 film)", "Pose (TV series)", "Legendary (TV series)", "Madonna's \"Vogue\" (song/video)"]

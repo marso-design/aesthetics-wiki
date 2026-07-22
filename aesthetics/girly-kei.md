@@ -5,6 +5,7 @@ aka: ["Gaari Kei"]
 decade_of_origin: "1990"
 key_motifs: ["Femininity", "frills", "light colors", "flowers", "bows"]
 key_colours: ["Depends on the substyle"]
+palette: ["#E0CCC4", "#1F1B1F", "#E8E1DE", "#B9AAA3", "#F8F4F3", "#433F39"]
 related_aesthetics: ["Dollcore", "French Girly", "Gyaru", "Jirai Kei", "Kawaii", "Kuromicore", "Larme Kei", "Lolita", "Mote Kei", "Wota", "Soft Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Girly_Kei"
 license: "CC-BY-SA-4.0"

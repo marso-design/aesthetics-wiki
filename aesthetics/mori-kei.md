@@ -5,6 +5,7 @@ aka: ["Mori Girl", "Mori Boy"]
 decade_of_origin: "2000s"
 key_motifs: ["Forests", "deer", "moss", "flowers", "hanging herbs", "wood nymphs", "baby animals", "greenery", "cottages", "fairy tales", "white dresses"]
 key_colours: ["Earth tones", "green", "brown", "white", "soft pinks", "yellow"]
+palette: ["#2D2D2B", "#E0D3CE", "#C7B9B0", "#F8F2F2", "#67473B", "#7E695C"]
 key_values: ["Love of the forest", "quiet hobbies", "reading", "drinking tea", "herbalism", "natural lifestyle"]
 related_aesthetics: ["Classic Lolita", "Cottagecore", "Cult Party Kei", "Dolly Kei", "Fairycore", "Fairy Grunge", "Forestpunk", "Goblincore", "Lolita", "Naturecore", "Otome", "Shabby Chic", "Strega"]
 related_media: ["Tasha Tudor", "KOKIA’s The Voice", "Vashti Bunyan’s Just Another Diamond Day", "Honey and Clover", "Heavenly Forest", "Studio Ghibli"]

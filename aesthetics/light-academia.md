@@ -4,6 +4,7 @@ slug: "light-academia"
 decade_of_origin: "2010s"
 key_motifs: ["European/British", "scholarly", "old books", "long corridors", "fields of grass surrounded by woods", "the hills", "art", "the classics"]
 key_colours: ["Beige", "cream", "light brown", "white", "plaid", "dim shades"]
+palette: ["#796A56", "#3E3124", "#968C7B", "#AFA696", "#F0EEEA", "#C7BDAE"]
 key_values: ["Positivity", "academics", "the classics", "poetry/literature"]
 related_aesthetics: ["Art Academia", "Bohemian", "Comfy/Cozy", "Cottagecore", "Classicism", "Dark Academia", "Green Academia", "Old Money", "Preppy", "Romantic Academia", "Studyblr", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Light_Academia"

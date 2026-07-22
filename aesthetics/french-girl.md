@@ -5,6 +5,7 @@ aka: ["French Chic", "Parisian Chic"]
 decade_of_origin: "1950s"
 key_motifs: ["Red lipstick", "Breton stripes", "trench coats", "ballet flats", "basket bags", "messy fringe (bangs)", "cigarettes (a marketing tactic by the tobacco industry)"]
 key_colours: ["Neutral palette (black, white, beige, navy)", "with a pop of red"]
+palette: ["#C5B9A3", "#4E3C22", "#E5E0DF", "#A8AB9B", "#E4CAB7", "#B2764B"]
 key_values: ["Effortlessness (nonchalance)", "natural beauty", "intellectualism", "confidence", "minimalism", "romanticism"]
 related_aesthetics: ["Bon Chic Bon Genre", "Chic Modernist", "French New Wave", "Yé-yé"]
 source_url: "https://aesthetics.fandom.com/wiki/French_Girl"

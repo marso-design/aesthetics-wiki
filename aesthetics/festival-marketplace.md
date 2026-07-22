@@ -4,6 +4,7 @@ slug: "festival-marketplace"
 decade_of_origin: "1980s"
 key_motifs: ["Serif fonts", "checkerboard print", "banners"]
 key_colours: ["Muted colors", "pastels", "strong primaries"]
+palette: ["#5AA1E4", "#6186A8", "#77BBEF", "#54595F", "#9CD7F7", "#7B5F57"]
 related_aesthetics: ["American Kitsch", "Factory Pomo", "Fanfare", "Liminal Space", "Mallsoft", "Memphis Design", "Memphis Lite", "Neoclassical PoMo", "Vintage Americana", "Monochrome Luxe", "Utopian Scholastic", "Whimsicraft"]
 source_url: "https://aesthetics.fandom.com/wiki/Festival_Marketplace"
 license: "CC-BY-SA-4.0"

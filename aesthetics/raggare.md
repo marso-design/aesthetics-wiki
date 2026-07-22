@@ -4,6 +4,7 @@ slug: "raggare"
 decade_of_origin: "1950s"
 key_motifs: ["Classic American cars", "pompadours", "denim", "leather", "Confederate battle flag"]
 key_colours: ["Chrome", "denim blue", "leather black"]
+palette: ["#1A1B1C", "#32362F", "#D2DFE7", "#6F705E", "#B0ADA9", "#545B4B"]
 key_values: ["Nostalgia", "rebellion", "automotive enthusiasm"]
 related_aesthetics: ["American Kitsch", "Americana", "Biker", "Greaser", "Rockabilly", "Teddy Boys"]
 related_media: ["Rock'n'roll music", "car magazines", "\"Raggare!\" (1959 film)"]

@@ -5,6 +5,7 @@ aka: ["Buffalo"]
 decade_of_origin: "1980s"
 key_motifs: ["MA-1 flight jackets", "boxer shorts", "kilts on men", "porkpie hats", "cowboy accessories", "pinning/clipping oversized suits", "sportswear mixed with couture"]
 key_colours: ["Black", "white", "olive drab", "indigo", "sepia"]
+palette: ["#403F3D", "#C2B8A6", "#090909", "#A19986", "#857862", "#CCCCBF"]
 key_values: ["Multiculturalism", "androgyny", "\"hard\" attitude", "independence", "street casting"]
 related_aesthetics: ["Americana", "Club Kids", "New Romantic", "Punk", "Rude Boy"]
 primary_platform: ["The Face", "i-D", "Arena"]

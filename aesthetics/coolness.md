@@ -1,6 +1,7 @@
 ---
 name: "Coolness"
 slug: "coolness"
+palette: ["#904926", "#255195", "#D04B28", "#D0B375", "#CF713A", "#E1CD80"]
 source_url: "https://aesthetics.fandom.com/wiki/Coolness"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

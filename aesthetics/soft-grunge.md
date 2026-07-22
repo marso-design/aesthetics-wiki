@@ -4,6 +4,7 @@ slug: "soft-grunge"
 aka: ["Pale Grunge"]
 decade_of_origin: "2010s"
 key_colours: ["Black", "white", "grey", "blue", "green"]
+palette: ["#1D2121", "#0D0F0F", "#7A7F80", "#5D6060", "#3D4641", "#9B9FA2"]
 related_aesthetics: ["Brat Summer", "E-Boy", "E-Girl", "Grunge", "Traumacore", "Sadgirl", "Pastel Grunge", "2014 Tumblr", "Vaporwave", "Weeaboo", "Minimalism", "Indie Sleaze", "Health Goth", "Skater"]
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Grunge"
 license: "CC-BY-SA-4.0"

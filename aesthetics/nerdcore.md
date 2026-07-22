@@ -5,6 +5,7 @@ decade_of_origin: "Late 1990s"
 key_motifs: ["Nerd culture", "science fiction", "role-playing games", "internet memes", "1980s-1990s video games", "early internet nostalgia", "fantasy", "computers"]
 key_values: ["Self-expression", "intelligence", "wit", "self-acceptance", "freedom of information", "pro-piracy"]
 related_aesthetics: ["Nerd", "Trillwave", "Hip-Hop", "Animecore", "Meme Rap", "Scene", "Old Web", "Gamercore", "Y2K Futurism"]
+palette: ["#ECDBC8", "#4FBABD", "#7D797B", "#F6EFF6", "#141C27", "#3B3C45"]
 source_url: "https://aesthetics.fandom.com/wiki/Nerdcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

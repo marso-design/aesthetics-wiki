@@ -5,6 +5,7 @@ aka: ["Vaporboogie"]
 decade_of_origin: "2010s"
 key_motifs: ["Looped anime GIFs", "VHS degradation", "neon typography", "Japanese bubble economy imagery", "disco lights", "spinning vinyl", "cassette tapes"]
 key_colours: ["Neon pink", "cyan", "violet", "magenta", "yellow"]
+palette: ["#16156C", "#143A7D", "#E47F83", "#6278AA", "#E6A4B9", "#94A3C0"]
 key_values: ["Hedonism", "escapism", "nostalgia", "retrofuturism", "energy"]
 related_aesthetics: ["City Pop", "Disco", "Kawaii", "New Wave", "Synthwave", "Vaporwave"]
 related_media: ["Urusei Yatsura", "Sailor Moon", "Kimagure Orange Road", "Interstella 5555"]

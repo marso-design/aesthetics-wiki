@@ -5,6 +5,7 @@ aka: ["Song China"]
 decade_of_origin: "10th century"
 key_motifs: ["Monumental landscapes", "the moon", "plum blossoms", "bird-and-flower", "Ru kiln"]
 key_colours: ["Tianqing cyan"]
+palette: ["#6F593C", "#322B23", "#AF9A7A", "#BDB090", "#A28363", "#474134"]
 key_values: ["Neo-Confucianism", "simplicity", "natural elegance", "scholarly refinement"]
 related_aesthetics: ["Hanfu"]
 source_url: "https://aesthetics.fandom.com/wiki/Song_Dynasty"

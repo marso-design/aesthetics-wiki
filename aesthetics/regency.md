@@ -4,6 +4,7 @@ slug: "regency"
 decade_of_origin: "Regency era"
 key_motifs: ["columns", "pediments", "lyres", "dolphins", "cameos", "urns", "laurel wreaths", "sphinxes", "griffins", "and anthemion (palmette) patterns."]
 key_colours: ["soft neutrals", "refined pastels", "and a few rich accent tones."]
+palette: ["#6F6E3F", "#B4A599", "#543C28", "#868454", "#B1947E", "#CBB9AB"]
 key_values: ["Elegance", "decorum", "the arts", "Charity", "compassion", "Harmony and proportion"]
 related_aesthetics: ["Classicism", "Dandy", "Hollywood Regency", "Light Academia", "Neoclassicism", "New Look", "Rococo", "Romantic Academia", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Regency"

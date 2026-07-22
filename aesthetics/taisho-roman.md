@@ -4,6 +4,7 @@ slug: "taisho-roman"
 aka: ["Taisho Romance", "Taisho Romantic", "Haikara"]
 decade_of_origin: "1920s"
 key_colours: ["Bright colors"]
+palette: ["#FFFFFF", "#2D2933", "#7B9BC7", "#623B44", "#61646B", "#A09796"]
 key_values: ["Individuality", "westernization", "technology", "consumerism", "democracy"]
 related_aesthetics: ["Art Deco", "Romanticism", "Neoclassicism", "Roaring 20s", "Nanchatte Seifuku", "Ukiyo-e", "Bankara (opposite)"]
 source_url: "https://aesthetics.fandom.com/wiki/Taisho_Roman"

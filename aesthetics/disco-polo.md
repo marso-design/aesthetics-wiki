@@ -5,6 +5,7 @@ aka: ["Polo Disco", "Sidewalk Music", "Backyard Music"]
 decade_of_origin: "Late 1980s"
 key_motifs: ["Low-budget CGI", "wedding parties", "aspirational luxury (limos, pools)", "rural discos", "green-screen effects"]
 key_colours: ["Vibrant and often clashing colors", "neons", "metallics (gold, silver)"]
+palette: ["#5C8793", "#0D0B0D", "#6B5B4E", "#C95A40", "#AFB79D", "#F8F5CE"]
 key_values: ["Love", "celebration", "joy", "nostalgia", "hedonism", "provincial pride"]
 related_aesthetics: ["Disco", "Dresiarz", "Italo Disco", "Grażynacore", "Vectordelia"]
 source_url: "https://aesthetics.fandom.com/wiki/Disco_Polo"

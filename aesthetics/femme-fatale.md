@@ -5,6 +5,7 @@ aka: ["Seductress", "Vixen", "Temptress", "Vamp", "Siren", "Enchantress", "Charm
 decade_of_origin: "1940s"
 key_motifs: ["Mystery", "intelligence", "beauty", "seduction", "power"]
 key_colours: ["Red", "black", "dark green", "dark blue", "metallic tones"]
+palette: ["#09090C", "#58413C", "#5E5B5B", "#303033", "#9D9189", "#331816"]
 key_values: ["Enticement", "scheming", "heartlessness", "lust"]
 related_aesthetics: ["Coquette", "Baddie", "Boujee", "Bubblegum Bitch", "Cherry Emoji Twitter", "Film Noir", "Mafia Aesthetic", "Mob Wife", "Spy Fiction", "Old Hollywood", "Pin-up"]
 source_url: "https://aesthetics.fandom.com/wiki/Femme_Fatale"

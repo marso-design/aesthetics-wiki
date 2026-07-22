@@ -5,6 +5,7 @@ aka: ["Formicapunk"]
 decade_of_origin: "1970s"
 key_motifs: ["Cassettes", "CRT monitors", "Microfiche readers", "third generation computers"]
 key_colours: ["Beige", "cream", "grey", "red", "green", "blue"]
+palette: ["#9B886D", "#12161D", "#776550", "#302C2A", "#3E4040", "#538195"]
 related_aesthetics: ["Atompunk", "Cyberpunk", "Dieselpunk", "Early Cyber", "Googie", "Earth Tones", "Hexatron", "Laser Grid", "Monochrome Luxe", "Mid-Century Modern", "Neon Noir", "Raygun Gothic", "Retrofuturism", "Space Age", "Synthwave", "Supergraphic Ultramodern", "Vaporwave", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Cassette_Futurism"
 license: "CC-BY-SA-4.0"

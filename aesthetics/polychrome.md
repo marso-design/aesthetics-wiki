@@ -4,6 +4,7 @@ slug: "polychrome"
 decade_of_origin: "2010s"
 key_motifs: ["blended abstract colors", "smears/splatters/slicks", "colored powders or smoke"]
 key_colours: ["high contrast hues"]
+palette: ["#3D2D43", "#0A0714", "#356176", "#17182B", "#7F9580", "#F4F2F0"]
 related_aesthetics: ["Geo-Boho", "Hexatron", "Metalheart"]
 source_url: "https://aesthetics.fandom.com/wiki/Polychrome"
 license: "CC-BY-SA-4.0"

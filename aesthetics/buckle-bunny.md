@@ -4,6 +4,7 @@ slug: "buckle-bunny"
 decade_of_origin: "1970s, possibly earlier"
 key_motifs: ["Rodeos", "plaid", "western imagery with a feminine twist"]
 key_colours: ["Blue", "brown", "pink", "red", "white"]
+palette: ["#3B3639", "#D8CFCB", "#A56B76", "#FFFEFD", "#EAE7E6", "#6B6969"]
 related_aesthetics: ["Western", "Country", "Cuntry", "Prairie", "Coquette", "Dollette", "Farmer's Daughter", "Trailer Park Princess"]
 source_url: "https://aesthetics.fandom.com/wiki/Buckle_Bunny"
 license: "CC-BY-SA-4.0"

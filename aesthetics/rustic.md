@@ -3,6 +3,7 @@ name: "Rustic"
 slug: "rustic"
 key_motifs: ["farmhouses", "unfinished wooden furniture or floors", "stone", "organic materials"]
 key_colours: ["browns and reds"]
+palette: ["#2B1E1C", "#52524B", "#3F3932", "#8A5E37", "#C0BAB2", "#8B8781"]
 related_aesthetics: ["Americana", "Cabincore", "Cottagecore", "Country", "Lumberjack", "Western"]
 source_url: "https://aesthetics.fandom.com/wiki/Rustic"
 license: "CC-BY-SA-4.0"

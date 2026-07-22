@@ -5,6 +5,7 @@ aka: ["2020s Medieval Revival", "Castlecore (Pinterest Predicts)", "Weirdieval",
 decade_of_origin: "2020s"
 key_motifs: ["Armor (chainmail, breastplates, corsets)", "hennins (princess hats)", "bonnets", "cloaks", "gothic and Catholic symbols", "tapestry prints"]
 key_colours: ["Metallics (silver, gold)", "dark hues (black, deep red)", "and earthy tones (brown, forest green)"]
+palette: ["#52463C", "#070606", "#6A635A", "#392920", "#AC9A88", "#DFD9D8"]
 key_values: ["Escapism", "empowerment", "subversion", "maximalism", "historical fantasy", "\"weird girl\" individuality"]
 related_aesthetics: ["Cottagecore", "Dark Academia", "Dark Fantasy", "Fairycore", "FantasY2K", "Goblincore", "Knightcore", "Medieval Fantasy", "Royalcore", "Princesscore", "Witchcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Medievalcore"

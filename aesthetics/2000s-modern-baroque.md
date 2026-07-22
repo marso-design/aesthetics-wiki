@@ -5,6 +5,7 @@ aka: ["Postmodern Baroque", "Neo-Baroque", "Plastic Baroque", "New Baroque"]
 decade_of_origin: "2000s"
 key_motifs: ["Ornate details", "gilded accents", "sumptuous fabrics", "floral embroidery", "a fusion of Baroque elements with modern lines and materials"]
 key_colours: ["Black and gold", "but also a broader range including rich hues (red, purple, teal, navy) and softer tones (lavenders, pinks, blues)"]
+palette: ["#FFFFFF", "#C9ADB4", "#2F2624", "#131113", "#8A7971", "#A19E96"]
 key_values: ["Opulence", "drama", "a reinterpretation of tradition", "a blend of old and new"]
 related_aesthetics: ["Baroque", "Curly Girly", "McBling", "Parisian Girly", "Vectorbloom"]
 source_url: "https://aesthetics.fandom.com/wiki/2000s_Modern_Baroque"

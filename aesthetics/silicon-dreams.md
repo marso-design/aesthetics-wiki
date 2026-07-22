@@ -5,6 +5,7 @@ aka: ["Early CGI", "80s/90s CGI", "Retro CGI", "Old CGI", "Drum 'n Bass CGI"]
 decade_of_origin: "1970s (first came into prominence in the 1980s)"
 key_motifs: ["Early CGI Animation / art", "surreal environments and 3D models"]
 related_aesthetics: ["Abstract Tech", "Cyberdelic", "Cybercore", "Demoscene", "Dreamcore", "Early Cyber", "Factory Pomo", "Frasurbane", "Frutiger Aero", "Laser Grid", "Liminal Space", "Low Poly", "Memphis Design", "Memphis Lite", "Med-Tech Visions", "Metalheart", "Neoclassical PoMo", "Seapunk", "Slimepunk", "Surrealism", "Synthwave", "Utopian Scholastic", "Vaporwave", "Webcore", "Weirdcore", "Xpiritualism", "Y2K Futurism"]
+palette: ["#3E0506", "#7E450C", "#7883B0", "#4CB1FD", "#941507", "#C98441"]
 source_url: "https://aesthetics.fandom.com/wiki/Silicon_Dreams"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

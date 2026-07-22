@@ -4,6 +4,7 @@ slug: "japanese-horror-game-protagonist"
 aka: ["Female Horror Game Protagonist", "Grunge Coquette", "Horror Coquette"]
 decade_of_origin: "2023"
 key_colours: ["White", "cream", "black", "red", "gray"]
+palette: ["#000000", "#FFFEFD", "#1C282F", "#9D9081", "#4C4239", "#111215"]
 related_aesthetics: ["Dark Coquette", "Dollette", "Fairy Grunge", "Grunge", "Horror", "Jirai Kei", "Kawaii", "Soft Grunge", "Twilightcore"]
 related_media: ["Fatal Frame", "Silent Hill"]
 source_url: "https://aesthetics.fandom.com/wiki/Japanese_Horror_Game_Protagonist"

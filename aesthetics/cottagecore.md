@@ -5,6 +5,7 @@ aka: ["Farmcore", "Countrycore"]
 decade_of_origin: "2010s (inspired by the 19th century)"
 key_motifs: ["Baking", "gardening", "foraging", "picnics", "farm animals", "wildflowers", "embroidery", "handmade crafts", "cottages"]
 key_colours: ["Earthy and natural tones (brown, moss green, beige)", "soft pastels", "faded floral prints", "gingham"]
+palette: ["#26311A", "#4D5F2F", "#16170C", "#686846", "#E2DABE", "#B59C6C"]
 key_values: ["Simplicity", "self-sufficiency", "harmony with nature", "domesticity", "nostalgia", "gentleness", "anti-modernism"]
 related_aesthetics: ["Cozy Gamer", "Edwardian", "Grandmacore", "Fairycore", "Goblincore", "Naturecore", "Mori Kei", "Plant Mom", "Romanticism", "Tradwife", "Witchcore", "Cozycore"]
 subgenres: ["Bloomcore", "Cottagegoth", "Gardencore", "Honeycore", "Jamcore", "Mushroomcore"]

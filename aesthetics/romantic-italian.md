@@ -3,6 +3,7 @@ name: "Romantic Italian"
 slug: "romantic-italian"
 key_motifs: ["Romance", "Italian imagery", "nature", "Western art"]
 key_colours: ["Neutrals", "pastels"]
+palette: ["#29241E", "#58433B", "#DBD0C8", "#CEB8B0", "#A0978C", "#796A5C"]
 key_values: ["Love", "passion", "culture", "relaxation"]
 related_aesthetics: ["Angelcore", "Cottagecore", "Hellenic", "Light Academia", "Lovecore", "Pink Parisian", "Romantic Academia", "Tomato Girl Summer"]
 source_url: "https://aesthetics.fandom.com/wiki/Romantic_Italian"

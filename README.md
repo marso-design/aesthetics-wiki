@@ -27,7 +27,7 @@ MediaWiki API, cleaned into portable markdown, and indexed for fast lookup.
 - **Explain it** - origin, motifs, colours, values, related aesthetics.
 - **Search it** - by colour palette, decade, mood, or motif.
 - **Connect it** - surface related and adjacent aesthetics.
-- **Build with it** - moodboards, style guides, or theme an outfit, room, brand, or website.
+- **Apply it** - turn an aesthetic into a moodboard, a real hex palette / design tokens, or a style direction for an outfit, room, brand, or site. The skill gives the direction; you build.
 - **Blend it** - fuse two aesthetics into a coherent direction.
 
 ## At a glance
@@ -35,19 +35,28 @@ MediaWiki API, cleaned into portable markdown, and indexed for fast lookup.
 | | |
 |---|---|
 | Aesthetics | **1,201** |
-| With structured palettes / relations | **1,125** |
+| With structured data (palettes / relations) | **1,125** |
+| Data-derived hex palettes | from 13,464 reference images |
 | Reference images catalogued | **13,464** |
 | Text size | ~18 MB |
 | Source | Aesthetics Wiki (CC-BY-SA 4.0) |
 
-## Install as a skill
+## Install
+
+As a Claude Code **plugin** (one command):
+
+```bash
+claude plugin install github:marso-design/aesthetics-wiki
+```
+
+Or as a plain **skill** (clone into your skills directory):
 
 ```bash
 git clone https://github.com/marso-design/aesthetics-wiki ~/.claude/skills/aesthetics-wiki
 ```
 
-It activates automatically when a request matches its description (see the front
-matter in [`SKILL.md`](SKILL.md)). No manual step needed.
+Either way it activates automatically when a request matches its description
+(see the front matter in [`SKILL.md`](SKILL.md)). No manual step needed.
 
 **Images are not shipped in the repo** (they are large and carry their own
 licenses). The text, structured data, and per-image `credits.json` manifests are
@@ -89,6 +98,7 @@ aka: ["Farmcore", "Countrycore"]
 decade_of_origin: "2010s (inspired by the 19th century)"
 key_motifs: ["Baking", "gardening", "foraging", "picnics", "wildflowers", ...]
 key_colours: ["Earthy and natural tones (brown, moss green, beige)", "soft pastels", ...]
+palette: ["#26311A", "#4D5F2F", "#16170C", "#686846", "#E2DABE", "#B59C6C"]  # derived from images
 key_values: ["Simplicity", "self-sufficiency", "harmony with nature", ...]
 related_aesthetics: ["Fairycore", "Goblincore", "Grandmacore", ...]
 subgenres: ["Bloomcore", "Cottagegoth", "Gardencore", ...]

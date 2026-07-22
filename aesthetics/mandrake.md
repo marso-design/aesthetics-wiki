@@ -5,6 +5,7 @@ aka: ["Nóia", "Mandraka", "Cria", "Funkeiro", "Funkeira", "Chave", "Maloka"]
 decade_of_origin: "Late 1980s - 1990s (music); 2000s (as a distinct style)"
 key_motifs: ["Brand-name sportswear", "gold jewelry", "mirrored sunglasses", "motorcycles", "tattoos", "funk parties (bailes funk)"]
 key_colours: ["Varies", "often high-contrast and incorporating team colors"]
+palette: ["#0D0D18", "#3F3A3E", "#1F2736", "#8F9199", "#6C6F76", "#70524A"]
 key_values: ["Ostentation", "social mobility", "street smarts", "community identity", "defiance"]
 related_aesthetics: ["Funk Carioca", "Gangsta Rap", "Paty de SP"]
 source_url: "https://aesthetics.fandom.com/wiki/Mandrake"

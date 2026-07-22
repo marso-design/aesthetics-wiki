@@ -5,6 +5,7 @@ aka: ["Coquette Academia"]
 decade_of_origin: "2010s"
 key_motifs: ["Reading and writing", "holding hands", "kissing", "cal mythology", "historical remnants"]
 key_colours: ["Browns", "beige", "tan", "cream", "grey", "white", "gold", "soft pink", "black", "reds", "navy", "deep ruby", "forest green", "light blue."]
+palette: ["#775442", "#927E6D", "#443836", "#B69A84", "#D3D1CF", "#B9B2A8"]
 key_values: ["Romance", "academics", "emotions", "individuality", "maturity", "curiosity", "learning", "self-discovery"]
 related_aesthetics: ["Art Academia", "Autumn", "Ballet", "Dark Academia", "Light Academia", "Lovecore", "Pink Parisian", "Post-Punk", "Romantic Italian", "Romanticism", "Strega", "Theatre Academia"]
 related_media: ["Virginia Astley's In Gardens Where We Feel Secure", "Pride and Prejudice", "Emma", "Much Ado About Nothing"]

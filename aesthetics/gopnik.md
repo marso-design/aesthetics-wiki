@@ -5,6 +5,7 @@ aka: ["Gopota", "Shpana", "Realniye patsani/real lads", "common bandit names (pa
 decade_of_origin: "Late 1980s–1990s"
 key_motifs: ["The \"Slav squat", "\" Adidas tracksuits", "sunflower seeds (семечки)", "vodka", "hardbass music", "Ushanka hats"]
 key_colours: ["Black", "white", "and blue (from tracksuits)"]
+palette: ["#587774", "#AE7A60", "#9E988F", "#16151E", "#4E5B4F", "#232834"]
 key_values: ["Working-class identity", "street culture", "collectivism/brotherhood", "anti-establishment attitude"]
 related_aesthetics: ["Chav", "Communist Chic", "Dizelaši", "Dresiarz", "Lyubery"]
 source_url: "https://aesthetics.fandom.com/wiki/Gopnik"

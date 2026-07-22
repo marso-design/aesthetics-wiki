@@ -2,6 +2,7 @@
 name: "Black Dandyism"
 slug: "black-dandyism"
 related_aesthetics: ["Dandy (reinterpretation)"]
+palette: ["#854A2C", "#996C46", "#211814", "#553221", "#B08F69"]
 source_url: "https://aesthetics.fandom.com/wiki/Black_Dandyism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

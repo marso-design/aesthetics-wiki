@@ -4,6 +4,7 @@ slug: "wei-and-jin-dynasties"
 decade_of_origin: "220 CE"
 key_motifs: ["Mountain seclusion"]
 key_values: ["Natural spiritualism", "individual freedom beyond Confucian ritual", "Xuanxue \"Non-being\" ontology"]
+palette: ["#1C1B1B", "#5D423D", "#6C6258", "#A88959", "#A79774", "#97634A"]
 source_url: "https://aesthetics.fandom.com/wiki/Wei_and_Jin_Dynasties"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

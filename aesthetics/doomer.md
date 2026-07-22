@@ -5,6 +5,7 @@ aka: ["Doomerwave"]
 decade_of_origin: "Late 2010s (as a meme and aesthetic)"
 key_motifs: ["Brutalist architecture", "decaying urban landscapes", "nighttime", "snow", "industrial decay", "cigarettes", "the Doomer Wojak"]
 key_colours: ["Muted and cold palette: grey", "navy blue", "black", "dim purples"]
+palette: ["#282A2A", "#4D5C65", "#3D4646", "#070A07", "#2A6983", "#929E96"]
 key_values: ["Pessimism", "nihilism", "alienation", "despair", "hopelessness", "introspection"]
 related_aesthetics: ["Brutalism", "Feísmo", "Incelcore", "Industrial Decay", "Post-Apocalyptic", "Post-Punk", "Sadboi", "Sovietwave"]
 primary_platform: ["4chan", "Reddit", "YouTube"]

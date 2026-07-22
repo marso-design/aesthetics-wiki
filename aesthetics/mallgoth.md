@@ -5,6 +5,7 @@ aka: ["Spooky Kid", "Alternative Kid"]
 decade_of_origin: "Late 1990s-Early 2000s"
 key_motifs: ["Baggy pants (Tripp NYC)", "chains and straps", "fishnet", "platform boots", "studded belts", "silver occult jewelry (ankhs, inverted crosses)"]
 key_colours: ["Primarily black", "accented with red", "purple", "and silver"]
+palette: ["#0C0B10", "#373435", "#45494F", "#6D7D82", "#EADFD2", "#7C5A59"]
 key_values: ["Teenage angst", "rebellion", "musical identity", "commercial accessibility", "dark humor"]
 related_aesthetics: ["Cybergoth", "E-Boy", "E-Girl", "Emo", "Goth", "Herki (Russian equivalent)", "Industrial", "Nu-Metal", "Scene"]
 source_url: "https://aesthetics.fandom.com/wiki/Mallgoth"

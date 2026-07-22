@@ -4,6 +4,7 @@ slug: "southern-gothic"
 decade_of_origin: "19th Century"
 key_motifs: ["Criticism of prejudice", "decay", "past vs. future"]
 related_aesthetics: ["After Hours", "Anglo Gothic", "Catholic Horror", "Goth", "Gothic", "Midwest Gothic", "New England Gothic", "Preacher's Daughter", "Regional Gothic", "Southern Belle", "Suburban Gothic", "Trad Goth", "Deathrock", "Cryptidcore"]
+palette: ["#0C0E0D", "#24261E", "#384133", "#5D5346", "#84827E", "#ADB3B3"]
 source_url: "https://aesthetics.fandom.com/wiki/Southern_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

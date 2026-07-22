@@ -4,6 +4,7 @@ slug: "juminocore"
 decade_of_origin: "2020s"
 key_motifs: ["Kawaii trinkets", "gacha toys", "cluttered displays", "character goods (Sanrio, Rilakkuma)", "retro tech (Nintendo DS)", "phone charms"]
 key_colours: ["Predominantly green", "white", "silver", "and blue", "with accents of beige", "red", "and orange"]
+palette: ["#4B4738", "#778069", "#BCC2A7", "#988872", "#BF8761", "#ECE8C1"]
 key_values: ["Nostalgia", "collecting", "curated clutter", "youthfulness", "positivity"]
 related_aesthetics: ["Cacareco Girl", "Clovercore", "Cozy Gamer", "Heisei Retro", "Trinketcore", "Whimsy Twee", "Wishcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Juminocore"

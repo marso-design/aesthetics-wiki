@@ -4,6 +4,7 @@ slug: "flogger"
 decade_of_origin: "Mid-to-late 2000s"
 key_motifs: ["Side-swept hair covering one eye", "colorful skinny jeans", "v-neck t-shirts", "Converse-style sneakers", "photo poses with peace signs"]
 key_colours: ["Bright", "often neon", "colors (pink, green, yellow, turquoise)"]
+palette: ["#0C090A", "#FFFFFE", "#1D1E21", "#D6BD9F", "#545854", "#869888"]
 key_values: ["Internet popularity", "social networking", "fashion", "self-documentation", "friendship"]
 related_aesthetics: ["Scene", "Bloghouse", "New Rave", "Indie Sleaze", "Emo", "Jejemon", "Colorido"]
 primary_platform: ["Fotolog.com"]

@@ -4,6 +4,7 @@ slug: "gay-nineties-revival"
 decade_of_origin: "1960s"
 key_motifs: ["Ferns", "fake Tiffany lamps", "brass and gold accents with medium-stained oak woods", "\"old timey\" letter fonts"]
 key_colours: ["Brown", "orange", "old gold"]
+palette: ["#5A5F5F", "#5E77A8", "#3C3D39", "#80816C", "#A48966", "#F3EEC1"]
 related_aesthetics: ["Soft Colonial Wanderlust"]
 source_url: "https://aesthetics.fandom.com/wiki/Gay_Nineties_Revival"
 license: "CC-BY-SA-4.0"

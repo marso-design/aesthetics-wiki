@@ -1,6 +1,7 @@
 ---
 name: "Philosophy"
 slug: "philosophy"
+palette: ["#553E3A", "#212124", "#A8A3B1", "#5A5B59", "#8D838D", "#966E6C"]
 source_url: "https://aesthetics.fandom.com/wiki/Philosophy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

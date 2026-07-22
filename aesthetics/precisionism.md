@@ -5,6 +5,7 @@ decade_of_origin: "Mid 1920s"
 key_motifs: ["Urban and industrial landscapes", "skyscrapers", "factories", "bridges", "liminality"]
 key_values: ["Industrialization", "modernization"]
 related_aesthetics: ["Cubism", "Futurism", "International Typographic Style", "Minimalism", "Modernism", "Liminal Space", "Photorealism", "Pop Art", "Purism", "Urbancore"]
+palette: ["#8E9B9F", "#1D1A24", "#CBC7B6", "#75716D", "#C0B59E", "#402D2A"]
 source_url: "https://aesthetics.fandom.com/wiki/Precisionism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -4,6 +4,7 @@ slug: "psychedelia"
 decade_of_origin: "1960s"
 key_motifs: ["Distorted visuals", "themes of love", "vibrant color palettes", "surreal imagery", "fluid shapes", "organic forms", "optical illusions", "altered states of consciousness", "experimental music techniques"]
 key_colours: ["Fluorescent colors", "saturated hues", "contrasting palettes", "rainbow gradients"]
+palette: ["#9B857E", "#534F57", "#130B0E", "#B8A998", "#302124", "#582424"]
 key_values: ["Counterculture", "exploration of consciousness", "altered perception", "artistic experimentation", "spiritual exploration", "anti-establishment sentiment"]
 related_aesthetics: ["Acid Design", "Acid House", "Art Nouveau", "Beatnik", "Chicha", "Corporate Hippie", "Cyberdelia", "Flower Power", "Freakbeat", "Hippie", "Madchester", "Manguebeat", "Mid-Century Medieval", "Peacock Revolution", "Pop Art", "Sunshine Pop", "Surrealism"]
 related_media: ["The Electric Kool-Aid Acid Test (book)", "Revolver (album)", "Sgt. Pepper's Lonely Hearts Club Band (album)"]

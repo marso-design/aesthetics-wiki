@@ -1,6 +1,7 @@
 ---
 name: "Lost Media"
 slug: "lost-media"
+palette: ["#1A1415", "#473235", "#6B7E71", "#F0EDD3", "#15575B", "#FEFEFE"]
 source_url: "https://aesthetics.fandom.com/wiki/Lost_Media"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

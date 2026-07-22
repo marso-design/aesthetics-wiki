@@ -5,6 +5,7 @@ aka: ["BCBG", "Bécebège", "Parisian Chic"]
 decade_of_origin: "Late 1970s - 1980s"
 key_motifs: ["Silk scarves (e.g., Hermès)", "trench coats", "pearl necklaces", "tailored suits", "cashmere sweaters", "loafers", "classic leather handbags"]
 key_colours: ["Neutral palette: navy blue", "beige", "grey", "white", "cream", "with occasional muted pastels"]
+palette: ["#ECECEC", "#4A382B", "#110F13", "#2C2B2E", "#644A34", "#776B67"]
 key_values: ["Understated elegance", "tradition", "discretion", "good manners", "quality craftsmanship", "inherited social status"]
 related_aesthetics: ["Chic Modernist", "Classicism", "Old Money", "Power Dressing", "Preppy", "Sloanie", "Sprezzatura"]
 source_url: "https://aesthetics.fandom.com/wiki/Bon_Chic,_Bon_Genre"

@@ -4,6 +4,7 @@ slug: "space-age"
 decade_of_origin: "1950s-1960s"
 key_motifs: ["Rockets", "satellites", "planets", "stars", "astronauts", "flying saucers", "atomic symbols", "streamlined shapes", "parabolas", "fins", "geodesic domes", "capsules", "clean lines", "futuristic vehicles"]
 key_colours: ["White", "silver", "chrome", "bright primary colors (red, blue, yellow)"]
+palette: ["#BFBFBD", "#0B0C0C", "#999898", "#5D5B5C", "#252429", "#AAAAA9"]
 key_values: ["Optimism", "technological progress", "utopianism", "scientific advancement", "exploration", "future orientation", "modernity", "convenience"]
 related_aesthetics: ["Atompunk", "Cassette Futurism", "Groovival", "Mod", "Mid-Century Modern", "Pop Art", "Raygun Gothic", "Retrofuturism", "Rocketpunk", "Shibuya-Kei", "Y2K Futurism"]
 related_media: ["The Jetsons", "Star Trek (original series)", "2001: A Space Odyssey", "The Day the Earth Stood Still", "It Came From Outer Space", "Invasion of the Body Snatchers"]

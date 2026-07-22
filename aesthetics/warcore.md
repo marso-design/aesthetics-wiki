@@ -4,6 +4,7 @@ slug: "warcore"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Tactical vests (chest rigs)", "combat boots", "cargo pants", "face masks", "utility belts", "holsters", "protective gear"]
 key_colours: ["Black", "khaki", "olive drab", "grey", "other desaturated tones"]
+palette: ["#B2B4B8", "#101317", "#6C7073", "#3A3E42", "#969594", "#212528"]
 key_values: ["Functionality", "preparedness", "intimidation", "self-expression", "dystopianism"]
 related_aesthetics: ["Cyberpunk", "Military Chic", "Post-Apocalyptic", "Tacticool", "Techwear"]
 primary_platform: ["TikTok", "4chan"]

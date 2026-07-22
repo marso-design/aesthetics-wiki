@@ -4,6 +4,7 @@ slug: "american-thanksgiving"
 decade_of_origin: "November 1621"
 key_motifs: ["Fall harvest", "turkeys", "pie", "family", "cornucopia", "pumpkins"]
 key_colours: ["Orange", "red", "brown", "yellow"]
+palette: ["#1F1A18", "#523124", "#958D8B", "#6B5C51", "#87361C", "#D48E49"]
 key_values: ["American tradition", "family", "domesticity", "gratefulness"]
 related_aesthetics: ["Americana", "Autumn", "Cosycore", "Christian Girl Autumn", "Historical Americana"]
 related_media: ["A Charlie Brown Thanksgiving"]

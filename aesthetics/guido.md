@@ -5,6 +5,7 @@ aka: ["Guidette (feminine)", "Cugine", "Goomba"]
 decade_of_origin: "1970s"
 key_motifs: ["Gym", "tanning", "laundry (GTL)", "gold chains", "rosaries", "Italian flags", "luxury cars", "nightclubs", "designer brands"]
 key_colours: ["Varies", "often features bold colors", "animal prints", "and the colors of the Italian flag (red, white, green)"]
+palette: ["#CB9675", "#13100F", "#7A8F9B", "#FBFBF6", "#BCB8B2", "#AD704A"]
 key_values: ["Italian-American pride", "masculinity (machismo)", "vanity", "group loyalty", "conspicuous consumption"]
 related_aesthetics: ["Baddie", "Bimbocore", "Chav", "Disco", "Greaser", "McBling", "Partille-Johnny", "Post-Grunge Maximalism"]
 source_url: "https://aesthetics.fandom.com/wiki/Guido"

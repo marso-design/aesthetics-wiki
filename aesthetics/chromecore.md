@@ -5,6 +5,7 @@ aka: ["Y2K Chromecore"]
 decade_of_origin: "Late 90s/2000s"
 key_motifs: ["Metallic and chrome textures", "molded curves and shapes"]
 key_colours: ["Silver", "gray", "white", "black", "blue"]
+palette: ["#FFFFFF", "#ACAEB2", "#9B9A9D", "#C3C3C7", "#D6D8DB", "#E9EAED"]
 related_aesthetics: ["Cybersigilism", "Frutiger Aero", "Metalheart", "Mizuiro", "Retrofuturism", "Technozen", "★Y2K Futurism"]
 related_media: ["Jetix"]
 source_url: "https://aesthetics.fandom.com/wiki/Chromecore"

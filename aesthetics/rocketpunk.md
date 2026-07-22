@@ -7,6 +7,7 @@ key_motifs: ["Rocketry", "space travel", "cylinders", "solar panels and radiator
 key_values: ["Human expansion into space"]
 related_aesthetics: ["Atompunk", "Raygun Gothic", "Retrofuturism", "Space Age", "Atomic Age", "Googie"]
 related_media: ["1950s-1960s sci-fi art", "2001: A Space Odyssey", "Kerbal Space Program", "Interstellar", "The Martian", "For All Mankind"]
+palette: ["#392A28", "#615E64", "#150F11", "#877B6B", "#A18E6F", "#ADA283"]
 source_url: "https://aesthetics.fandom.com/wiki/Rocketpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

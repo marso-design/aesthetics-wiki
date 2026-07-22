@@ -5,6 +5,7 @@ aka: ["McBling Revival", "Nu-Mcbling", "Neo-Mcbling<b>"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Glossy surfaces", "translucent materials", "metallics", "rhinestones", "sleek technology", "futuristic shapes", "airbrush art"]
 key_colours: ["Hot pink", "baby pink", "silver", "iridescent and pastel palettes"]
+palette: ["#B22C61", "#DE89C3", "#591125", "#96868E", "#CDBAC4", "#D85FA8"]
 key_values: ["Futuristic femininity", "sleek luxury", "glamour", "kitsch", "digital culture"]
 related_aesthetics: ["Aliyahcore", "Bimbocore", "Bubblegum Bitch", "Hyperpop", "McBling", "Neo-Y2K", "PC Music", "Y2K Futurism"]
 primary_platform: ["TikTok", "Instagram"]

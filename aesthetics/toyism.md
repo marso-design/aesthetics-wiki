@@ -4,6 +4,7 @@ slug: "toyism"
 decade_of_origin: "1990s-Present"
 key_motifs: ["Figurative storytelling", "dots", "distinct unmixed colors", "contemporary subjects", "hidden serious undertones"]
 key_colours: ["Vibrant unmixed colors"]
+palette: ["#ED0D86", "#A3B1A9", "#1E202E", "#353478", "#827970", "#7D2E42"]
 key_values: ["Collective creation", "social commentary", "high craftsmanship"]
 related_aesthetics: ["Avant-garde", "Figurative Art", "Neo-Pop", "Pop Art", "Surrealism"]
 source_url: "https://aesthetics.fandom.com/wiki/Toyism"

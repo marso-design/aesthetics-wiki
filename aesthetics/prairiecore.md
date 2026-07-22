@@ -5,6 +5,7 @@ aka: ["Uptown Prairie"]
 decade_of_origin: "1970s"
 key_motifs: ["horses", "the plains", "wood fences", "cattle", "wheat", "flowers", "meadow"]
 key_colours: ["light brown", "cool colors (especially green)", "white"]
+palette: ["#7D513E", "#4B3D2F", "#777454", "#D1C2B5", "#99785C", "#D1AF94"]
 key_values: ["Pioneering", "adventure", "hard work", "freedom", "eccentricity"]
 related_aesthetics: ["Adventurecore", "Americana", "Classic Lolita", "Cottagecore", "Gaucho", "Hippie", "Naturecore"]
 related_media: ["Little House on the Prairie series", "O Pioneers!", "The Oregon Trail"]

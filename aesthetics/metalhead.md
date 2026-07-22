@@ -5,6 +5,7 @@ aka: ["Heavy Metal Subculture", "Headbanger", "Hesher", "Mosher", "Thrasher"]
 decade_of_origin: "1970s"
 key_motifs: ["Leather and studs", "band logos/patches", "long hair (or shaved head)", "corna hand gesture", "alienation from mainstream society"]
 key_colours: ["Black", "white", "red", "muted denim/leather tones", "silver (studs/hardware)"]
+palette: ["#A0AEA6", "#050305", "#695B51", "#36383A", "#8B8775", "#687A73"]
 key_values: ["Authenticity (anti-poser)", "loyalty", "anti-commercialism (refusal to \"sell out\")", "devotion to metal music"]
 related_aesthetics: ["Goth", "Grunge", "Psychedelia", "Punk", "Rivethead"]
 subgenres: ["Black Metal", "Botswana Metalheads", "Crust Punk", "Death Metal", "Doom Metal", "Dungeon Synth", "Hair Metal", "Industrial Metal", "Kawaii Metal", "Nu-Metal", "Thrash Metal", "Viking Metal", "War Metal"]

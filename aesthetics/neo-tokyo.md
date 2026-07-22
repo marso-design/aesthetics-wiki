@@ -5,6 +5,7 @@ aka: ["Neon Tokyo"]
 decade_of_origin: "1980s"
 key_motifs: ["Megastructures", "neon-lit skyscrapers", "holographic advertisements", "dense urban sprawl", "Japanese signage", "rain-slicked streets", "flying vehicles", "biker gangs"]
 key_colours: ["Saturated neons (pink, blue, purple, red)", "deep blacks", "cool grays"]
+palette: ["#52417F", "#351B5A", "#07061C", "#0E202F", "#316299", "#234066"]
 key_values: ["Urban decay", "technological overreach", "corporate power", "social alienation", "youth rebellion"]
 related_aesthetics: ["Cyberpunk", "Biopunk", "Synthwave", "Vaporwave"]
 related_media: ["Akira", "Ghost in the Shell", "Blade Runner (as a key influence)"]

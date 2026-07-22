@@ -5,6 +5,7 @@ aka: ["Zoot Suiters"]
 decade_of_origin: "1930s-1940s"
 key_motifs: ["Zoot suits", "ducktail/pompadour hairstyles", "tattoos", "decorative chains", "flamboyant evening wear", "high-waisted pants", "long jackets with wide lapels", "feathered hats"]
 key_colours: ["Vibrant colors", "black", "white"]
+palette: ["#01020A", "#051167", "#2D1B1B", "#F5EBE5", "#574D38", "#6A838F"]
 key_values: ["Rebellion", "defiance", "cultural identity", "Mexican pride", "elegance", "non-conformity", "dandyism"]
 related_aesthetics: ["Cholo", "Dandy", "Greaser", "Harlem Renaissance", "Rockabilly", "Swing"]
 related_media: ["Zoot Suit (play)"]

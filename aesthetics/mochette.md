@@ -6,6 +6,7 @@ decade_of_origin: "2010s (origin)
 2020s (coined)"
 key_motifs: ["Bugs", "worms", "vermin/pests", "human anatomy and bodily fluids", "mold/fungi", "disease and injury", "raw meat", "abandoned places", "antiques worn with age", "old dolls and parts", "lace", "wild animals", "old weapons and tools", "saints and church iconography"]
 key_colours: ["Green", "pink", "brown", "white", "gray"]
+palette: ["#847A64", "#150F0B", "#504734", "#D0C5AA", "#B3A07E", "#FFFFFF"]
 key_values: ["Finding beauty in decay and death", "finding beauty in the 'ugly", "' nihilism", "acceptance of death"]
 related_aesthetics: ["Crowcore", "Cottagegore", "Dark Fairycore", "Fairy Grunge", "Forestpunk", "Gloomy Coquette", "Goblincore", "Kinderwhore", "Medicalcore", "Mori Kei", "Morute", "Soft Grunge", "Trailer Park Princess", "Vulture Culture"]
 primary_platform: ["Tumblr"]

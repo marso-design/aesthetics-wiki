@@ -5,6 +5,7 @@ aka: ["Street Chic", "Preppy Punk"]
 decade_of_origin: "Late 1990s – Early 2000s"
 key_motifs: ["Electric guitars", "animal prints (leopard/zebra)", "skulls with bows", "faux fur", "asymmetrical strap tops", "leather wristbands", "bedazzled text"]
 key_colours: ["Red", "hot pink", "black", "silver"]
+palette: ["#170E12", "#E1E1DA", "#B45979", "#A91F39", "#94939E", "#CEBCAB"]
 key_values: ["Commercialized rebellion", "high-energy pop-rock", "sanitized punk attitude", "1970s kitsch revival"]
 related_aesthetics: ["Electroclash", "McBling", "Teenpunk", "UrBling", "Vectorbloom"]
 primary_platform: ["Children's retail", "teen magazines", "MTV music videos"]

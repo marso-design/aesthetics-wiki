@@ -1,6 +1,7 @@
 ---
 name: "Metal"
 slug: "metal"
+palette: ["#000000", "#C1C4D3", "#212121", "#3B343C", "#726E78"]
 source_url: "https://aesthetics.fandom.com/wiki/Metal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

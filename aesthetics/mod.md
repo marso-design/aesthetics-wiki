@@ -5,6 +5,7 @@ aka: ["Modernist"]
 decade_of_origin: "Late 1950s"
 key_motifs: ["Tailored suits", "miniskirts", "A-line dresses", "polo shirts", "Union Jack", "RAF roundel", "motor scooters (Vespa, Lambretta)"]
 key_colours: ["Black and white contrasts", "bold primary colors (red, blue, yellow)", "orange", "turquoise"]
+palette: ["#3B3C3A", "#B79B59", "#130E0D", "#EDEADA", "#96663C", "#686358"]
 key_values: ["Modernism", "sophistication", "attention to detail", "consumerism", "androgyny", "rebellion against the older generation"]
 related_aesthetics: ["Beatnik", "Dolly Girl", "Hippie", "Mod Revival", "Northern Soul", "Peacock Revolution", "Pop Art", "Rockers", "Rude Boy", "Shibuya-Kei", "Skinhead", "Space Age", "Teddy Boys", "Yé-yé"]
 source_url: "https://aesthetics.fandom.com/wiki/Mod"

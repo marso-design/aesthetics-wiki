@@ -5,6 +5,7 @@ decade_of_origin: "1950s"
 key_motifs: ["Skateboards", "skate parks", "graffiti", "fisheye lenses", "worn-out skate shoes"]
 key_values: ["Creativity", "individuality", "freedom", "risk-taking", "perseverance", "anti-establishment attitude"]
 related_aesthetics: ["Alternative", "Bro Culture", "Grunge", "Hip-Hop", "Graffiti Pop", "Nu-Metal", "Olderbrothercore", "Punk", "Skate Punk", "Straight Edge", "Teenpunk"]
+palette: ["#25232B", "#7C848B", "#ACB0AD", "#564644", "#846757", "#0E0B0D"]
 source_url: "https://aesthetics.fandom.com/wiki/Skater"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

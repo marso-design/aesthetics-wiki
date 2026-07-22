@@ -5,6 +5,7 @@ aka: ["Early 80s Arcade"]
 decade_of_origin: "1980s"
 key_motifs: ["Arcade cabinets", "CRT screens", "vector graphics", "pixel art", "neon lights", "glowing joysticks and buttons", "patterned carpets", "tokens", "tickets"]
 key_colours: ["Black", "navy blue", "fluorescent and neon colors (especially pink, cyan, and green)"]
+palette: ["#4D6262", "#020113", "#29154E", "#A786A2", "#A66987", "#ACB1B9"]
 key_values: ["Nostalgia", "competition", "social gathering", "escapism", "fun"]
 related_aesthetics: ["8-Bit", "Glitch Art", "Kidcore", "Mallgoth", "Synthwave", "Vaporwave", "Webcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Arcadecore"

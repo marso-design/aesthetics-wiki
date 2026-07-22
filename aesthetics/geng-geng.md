@@ -5,6 +5,7 @@ aka: ["YoungStunna(s)", "Kiel the Great", "Astig"]
 decade_of_origin: "2020s"
 key_motifs: ["Baggy jeans", "oversized-layered clothing", "backward caps", "plaid neck-ties", "bandanas", "shades"]
 key_colours: ["Low-saturated colors"]
+palette: ["#979288", "#7A746C", "#5F6363", "#141719", "#524E48", "#AEA798"]
 key_values: ["Tough attitude"]
 related_aesthetics: ["Baddie", "Hypebeast", "Jejemon", "Skater", "Swag", "Techwear", "Urbancore"]
 primary_platform: ["Facebook", "Tiktok", "Instagram"]

@@ -5,6 +5,7 @@ aka: ["Beach Bunny", "Beach Coquette", "Coconut Dream", "Malibu Barbie"]
 decade_of_origin: "2020s"
 key_motifs: ["Beaches", "touristy boardwalk shops", "bikinis"]
 key_colours: ["Bright summery colors (pink, yellow, blue, green, orange, etc)"]
+palette: ["#D7C7BE", "#4F494B", "#A1BFCE", "#999090", "#AD6679", "#C78A87"]
 key_values: ["Fun", "relaxation", "youth", "femininity", "freedom"]
 related_aesthetics: ["2010s Summer Nostalgia", "Barbiecore", "Bubblegum Coquette", "Curly Girly", "Gyaru", "Manba", "Nymphet", "Tropicabana", "Tropical", "Tropicalcore", "Surf Crush", "Vintage Americana", "VSCO Girl"]
 primary_platform: ["TikTok"]

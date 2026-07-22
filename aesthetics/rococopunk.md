@@ -4,6 +4,7 @@ slug: "rococopunk"
 decade_of_origin: "Early 2010s"
 key_motifs: ["Frills", "lace", "18th-century silhouettes", "powdered wigs", "mohawks", "punk accessories"]
 key_colours: ["Pastels", "rich and vibrant colors"]
+palette: ["#000000", "#C9A396", "#E5D7CE", "#433237", "#625C64", "#1F161C"]
 key_values: ["Humor", "rebellion", "decadence", "excess", "anti-commercialism"]
 related_aesthetics: ["New Romantic", "Punk", "Rococo", "Steampunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Rococopunk"

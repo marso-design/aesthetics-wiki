@@ -4,6 +4,7 @@ slug: "y-y"
 decade_of_origin: "Early 1960s"
 key_motifs: ["Miniskirts", "A-line dresses", "geometric patterns", "go-go boots", "heavy eyeliner", "bob haircuts"]
 key_colours: ["Bright pastels (pink, yellow, baby blue)", "bold primary colors", "black and white contrasts"]
+palette: ["#81807D", "#101110", "#CAC8C7", "#494741", "#635C55", "#ADA89E"]
 key_values: ["Youthful optimism", "fun", "innocence", "romantic love", "modernity", "mild rebellion"]
 related_aesthetics: ["Coquette", "Flower Power", "Hippie", "Mod", "Peacock Revolution", "Pop Art", "Shibuya-Kei"]
 related_media: ["Salut les copains"]

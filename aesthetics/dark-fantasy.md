@@ -5,6 +5,7 @@ aka: ["Fantasy Horror"]
 decade_of_origin: "1970s (coined)"
 key_motifs: ["Crumbling stone architecture", "heavy fabrics", "iron and bone imagery", "magic with a grievous cost", "corvids", "morally compromised heroes", "gloomy urban or wild settings"]
 key_colours: ["Black", "crimson", "midnight blue", "dull silver", "deep forest green"]
+palette: ["#010101", "#1B1917", "#525158", "#C0C0C1", "#3C3033", "#8B7D7C"]
 key_values: ["Moral ambiguity", "deconstruction of fantasy tropes", "existential dread", "macabre beauty", "tragic fate"]
 related_aesthetics: ["Fantasy", "Gothic", "Goth", "Medieval Fantasy", "Romantic Goth", "Vampire"]
 related_media: ["A Song of Fire and Ice", "Berserk", "The Dark Tower Series", "The Vampire Chronicles", "Dark Souls", "Elden Ring", "Bloodborne", "Pan's Labyrinth", "Legend"]

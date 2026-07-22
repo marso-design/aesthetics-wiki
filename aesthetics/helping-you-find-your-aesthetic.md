@@ -1,6 +1,7 @@
 ---
 name: "Helping You Find Your Aesthetic"
 slug: "helping-you-find-your-aesthetic"
+palette: ["#C8B5B3", "#E2D4D2", "#EAE9EC", "#A58D8C"]
 source_url: "https://aesthetics.fandom.com/wiki/Helping_You_Find_Your_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

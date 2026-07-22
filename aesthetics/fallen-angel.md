@@ -5,6 +5,7 @@ aka: ["Dark Angelcore"]
 decade_of_origin: "2020s"
 key_motifs: ["Black or tattered wings", "classical ruins", "stormy skies", "dramatic shadows", "feathers", "fire", "swords"]
 key_colours: ["Black", "grey", "white", "deep blues", "gold accents"]
+palette: ["#040404", "#797776", "#9A8F8C", "#6B6462", "#474543", "#A6A6A5"]
 key_values: ["Rebellion", "tragedy", "sorrow", "pride", "misunderstood beauty", "fall from grace"]
 related_aesthetics: ["Angelcore", "Baroque", "Dark Academia", "Devilcore", "Romanticism"]
 primary_platform: ["Tumblr", "Pinterest"]

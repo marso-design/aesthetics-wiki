@@ -5,6 +5,7 @@ aka: ["Ottensian Dieselpunk"]
 key_motifs: ["Elements of Streamline Moderne"]
 related_aesthetics: ["Art Deco", "Atompunk", "Dieselpunk", "Deco-Luxe", "Decoplex", "Steampunk", "Streamline Moderne", "Factory Pomo", "Raygun Gothic"]
 related_media: ["BioShockBatman: The Animated SeriesDick TracyThe ShadowSkullgirlsMy Life as a Teenage Robot"]
+palette: ["#4B4138", "#B6ADA1", "#5A685C", "#0F0E0E", "#262221", "#807867"]
 source_url: "https://aesthetics.fandom.com/wiki/Decopunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

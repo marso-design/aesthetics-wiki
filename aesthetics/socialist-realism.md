@@ -5,6 +5,7 @@ aka: ["Soviet Realism"]
 decade_of_origin: "1920s-1980s"
 key_motifs: ["Workers", "peasants", "soldiers", "political leaders", "industry", "agriculture", "heroic struggles", "national symbols"]
 key_colours: ["Red", "yellow", "brown", "muted tones"]
+palette: ["#332524", "#4F4D4A", "#C23E1B", "#78675B", "#E7E7DE", "#919491"]
 key_values: ["Communism", "socialism", "patriotism", "heroism", "the working class", "revolutionary ideals", "social progress"]
 related_aesthetics: ["Constructivism", "Futurism", "Heroic Realism", "Laborwave", "Mexican Muralism", "Neue Slowenische Kunst", "New Partisans", "Ostalgie", "Realism", "Sots Art", "Soviet Nostalgia", "Sovietwave", "Totalitarian Kitsch", "Yugo-Nostalgia"]
 source_url: "https://aesthetics.fandom.com/wiki/Socialist_Realism"

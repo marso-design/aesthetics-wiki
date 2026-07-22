@@ -5,6 +5,7 @@ aka: ["Poor Art", "Impoverished Art"]
 decade_of_origin: "Late 1960s"
 key_motifs: ["Commonplace materials", "\"poor\" materials", "pre-industrial materials", "earth", "rocks", "wood", "metal", "fabric", "fire", "organic materials", "process", "transformation"]
 key_colours: ["Often earthy tones", "natural colours", "but also industrial colours (depending on materials used)"]
+palette: ["#E0DFDF", "#6D544A", "#342D2C", "#A29A91", "#C9C6C2"]
 key_values: ["Critique of consumerism", "anti-materialism", "anti-commercialism", "rejection of traditional art values", "emphasis on process", "connection to nature", "Italian cultural identity"]
 related_aesthetics: ["Dau al Set", "Industrial Decay", "Minimalism", "Nouveau Réalisme"]
 source_url: "https://aesthetics.fandom.com/wiki/Arte_Povera"

@@ -5,6 +5,7 @@ aka: ["Norse", "Viking", "Nordic", "Scandinavia"]
 decade_of_origin: "2010's"
 key_motifs: ["Nordic/Scandinavian areas", "Ancient Paganism", "Woods", "Old Living", "Darkness", "Norse Mythology", "hygge", "warmth", "outdoors", "candles", "baked goods"]
 key_colours: ["Black", "Navy Blue", "White", "muted browns", "reds", "greens", "and grays"]
+palette: ["#373E3F", "#0B070B", "#B4B9BC", "#8F979B", "#616C6A", "#231F21"]
 key_values: ["calm", "connection with nature", "inclusiveness", "togetherness"]
 related_aesthetics: ["Adventurecore", "Cabincore", "Cottagecore", "Crowcore", "Dark Naturalism", "Forestpunk", "Hygge", "Naturecore", "Slavic Doll", "Vulture Culture"]
 source_url: "https://aesthetics.fandom.com/wiki/Northerness"

@@ -5,6 +5,7 @@ aka: ["Neo Brutalism", "Neo Memphis"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Contrasting and off-putting color palettes", "unusual and grotesque typefaces", "hard shadows", "dark outlines"]
 key_colours: ["Rainbow"]
+palette: ["#FFFFFF", "#2C3743", "#0077FE", "#E2E5D2", "#CDA0EA", "#638898"]
 key_values: ["Breaking the conventions of design"]
 related_aesthetics: ["Acid Design", "Acidgrafix", "Austurbane", "Avant Basic", "Bauhaus", "Brutalism", "Corporate Memphis", "Cyberminimalism", "De Stijl", "Gen X Soft Club", "Flat Design", "Glassmorphism", "Glitch Art", "International Typographic Style", "Memphis Design", "Memphis Lite", "Minimalism", "Neo-Vectorheart", "Sportsbrut", "Superflat Pop", "Vaporwave", "Webcore", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Neubrutalism"

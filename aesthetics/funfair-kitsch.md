@@ -5,6 +5,7 @@ aka: ["Carnival Ride Art"]
 decade_of_origin: "1970s onwards"
 key_motifs: ["Airbrushed gradients", "pop culture iconography (copyright infringement)", "wide-eyed mascots", "bootleg cartoons", "RGB LED matrices", "hydraulic arms", "fiberglass shells"]
 key_colours: ["Neon pink", "electric blue", "high-visibility yellow", "fluorescent green"]
+palette: ["#2B2A30", "#696A69", "#6C8991", "#BEBBAC", "#405C71", "#A19185"]
 key_values: ["High visibility", "transience", "sensory overload", "hyper-consumerism", "safety-washing"]
 related_aesthetics: ["Casino", "Dollar Store Vernacular", "Fairground Baroque", "Lowbrow", "Matatu Art", "Pop Art", "Shanzhai"]
 source_url: "https://aesthetics.fandom.com/wiki/Funfair_Kitsch"

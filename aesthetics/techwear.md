@@ -4,6 +4,7 @@ slug: "techwear"
 decade_of_origin: "1990s"
 key_motifs: ["Articulated joints", "waterproof zippers", "modular attachments (MOLLE)", "sleek silhouettes", "hoods", "face masks"]
 key_colours: ["Black", "graphite", "olive", "navy", "grey"]
+palette: ["#938F92", "#0B0C0F", "#D0D5E0", "#70747D", "#343338", "#242225"]
 key_values: ["Utility", "functionality", "durability", "adaptability", "minimalism"]
 related_aesthetics: ["Berlin Techno Fashion", "Cyberpunk", "Gorpcore", "Hypebeast", "Tacticool"]
 source_url: "https://aesthetics.fandom.com/wiki/Techwear"

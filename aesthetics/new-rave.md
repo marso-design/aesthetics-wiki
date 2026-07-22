@@ -5,6 +5,7 @@ aka: ["Nu-Rave", "Neu-Rave"]
 decade_of_origin: "Mid-2000s (c. 2006–2008)"
 key_motifs: ["Glowsticks", "neon paint", "whistles", "psychedelic imagery", "skinny jeans", "band t-shirts"]
 key_colours: ["Bright", "fluorescent neon colors"]
+palette: ["#0C0C0F", "#91A092", "#292121", "#4D4F4E", "#9E786A", "#CCAF97"]
 key_values: ["Hedonism", "irony", "DIY ethos", "indie music scene", "party culture"]
 related_aesthetics: ["Indie Sleaze", "Bloghouse", "Rave", "Madchester", "Electroclash"]
 related_media: ["NME Magazine", "MySpace"]

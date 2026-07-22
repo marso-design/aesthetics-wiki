@@ -5,6 +5,7 @@ aka: ["Bodycon", "Bodykon", "One-Line Body Con", "Otachidai Gyaru"]
 decade_of_origin: "Mid-1980s to early-1990s"
 key_motifs: ["Wanren Bodikon hair-and-dress sets", "Tosakamaegami \"rooster\" bangs", "shoulder-padded power suits", "leopard and zebra print", "sequined dresses", "gold jewellery", "fur and feather boas", "Juli fans", "the otachidai platform"]
 key_colours: ["Neons", "bright colours"]
+palette: ["#1F1718", "#623A34", "#AC917E", "#8F3D37", "#726660", "#EDF0EE"]
 key_values: ["Sexiness", "strong confidence", "fun", "conspicuous consumption"]
 related_aesthetics: ["City Pop", "Italo Disco", "Japanese Ivy Style", "Takenokozoku"]
 related_media: ["Sailor Moon", "Boys Over Flowers (Hana Yori Dango)", "Bubble Fiction: Boom or Bust"]

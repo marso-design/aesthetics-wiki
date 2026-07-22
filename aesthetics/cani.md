@@ -4,6 +4,7 @@ slug: "cani"
 decade_of_origin: "1990s"
 key_motifs: ["Tracksuits", "bootleg sportswear", "gold jewelry", "baseball caps", "tribal tattoos", "scooters"]
 key_colours: ["Black", "white", "gold", "often with vibrant colors from football teams"]
+palette: ["#242930", "#15141A", "#A67A6C", "#647169", "#654B40", "#454140"]
 key_values: ["Group identity", "brand consciousness", "perceived aggression", "hypermasculinity"]
 related_aesthetics: ["Chav", "Choni (female counterpart)", "MDLR", "Pokero", "Racaille", "Reggaetonero"]
 source_url: "https://aesthetics.fandom.com/wiki/Cani"

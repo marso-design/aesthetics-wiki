@@ -5,6 +5,7 @@ aka: ["Kandi Kid"]
 decade_of_origin: "1990s"
 key_motifs: ["Pony beads", "elaborate cuffs", "perler bead art", "cartoon characters", "neon colors", "PLUR acronym"]
 key_colours: ["Full rainbow spectrum", "especially bright and neon colors"]
+palette: ["#010102", "#02035D", "#09087D", "#3F3C72", "#080A2A", "#EFD5BC"]
 key_values: ["Peace", "Love", "Unity", "Respect (PLUR)", "friendship", "creativity", "self-expression", "community", "DIY ethos"]
 related_aesthetics: ["Rave", "Decora", "Kidcore", "Scene", "Scenecore", "Cyberpop"]
 source_url: "https://aesthetics.fandom.com/wiki/Kandi_Raver"

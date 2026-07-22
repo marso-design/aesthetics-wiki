@@ -4,6 +4,7 @@ slug: "shuimo-feng"
 aka: ["Ink-wash style", "Shuimo Feng"]
 key_motifs: ["Negative space", "landscape", "flowers and birds", "bamboo and rocks"]
 key_colours: ["Black", "white", "gray", "mutes"]
+palette: ["#B9C1C5", "#1B1C1E", "#B2AEAB", "#656362", "#7D8B8C", "#FFFEFE"]
 key_values: ["Xieyi"]
 related_aesthetics: ["Neo-Chinese Style"]
 source_url: "https://aesthetics.fandom.com/wiki/Shuimo_Feng"

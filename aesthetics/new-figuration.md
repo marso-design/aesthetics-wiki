@@ -5,6 +5,7 @@ aka: ["Neofiguration", "Neo-Figurative Art", "Nueva Figuración"]
 decade_of_origin: "1950s-1960s"
 key_motifs: ["Human figures", "distortion", "abstraction", "social commentary", "depictions of suffering"]
 key_colours: ["Varies", "often bold and expressive"]
+palette: ["#2C4435", "#17161B", "#537E80", "#895C43", "#BEB9AB", "#6A3128"]
 key_values: ["Social critique", "Freedom of expression", "Individuality"]
 related_aesthetics: ["Cubism", "Expressionism", "Figuration Narrative", "Surrealism"]
 source_url: "https://aesthetics.fandom.com/wiki/New_Figuration"

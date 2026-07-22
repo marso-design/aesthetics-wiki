@@ -5,6 +5,7 @@ aka: ["Muralismo Mexicano"]
 decade_of_origin: "1920s-1950s"
 key_motifs: ["Indigenous imagery", "revolutionary themes", "historical narratives", "social commentary", "national identity", "fresco painting"]
 key_colours: ["Vibrant colors"]
+palette: ["#100A10", "#784F43", "#AA968C", "#4A3835", "#73696A", "#B5724D"]
 key_values: ["Social justice", "revolution", "education", "national pride", "indigenous representation", "accessibility of art"]
 related_aesthetics: ["Art Deco", "Avant-garde", "Classicism", "Cubism", "Expressionism", "Futurism", "Modernism", "Orientalism", "Socialist Realism"]
 source_url: "https://aesthetics.fandom.com/wiki/Mexican_Muralism"

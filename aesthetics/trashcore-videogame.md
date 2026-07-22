@@ -4,6 +4,7 @@ slug: "trashcore-videogame"
 decade_of_origin: "2000s (likely)"
 key_motifs: ["Low-poly 3D", "crude art", "mixed assets", "limited animation", "strobing colours"]
 key_colours: ["Bright neons", "dingy browns/greys", "high contrast"]
+palette: ["#000000", "#3D414A", "#82836C", "#BB0B3C", "#540A42", "#834D57"]
 related_aesthetics: ["8-Bit", "Low Poly", "Digital Horror", "Weirdcore"]
 primary_platform: ["Itch.io", "Steam", "Independent game-distributing sites"]
 source_url: "https://aesthetics.fandom.com/wiki/Trashcore_(videogame)"

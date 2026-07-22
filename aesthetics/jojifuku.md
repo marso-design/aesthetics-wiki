@@ -5,6 +5,7 @@ aka: ["Shoujo fashion", "Heisei Joshi"]
 decade_of_origin: "2010s"
 key_motifs: ["Children's Japanese brands and mascots from the 1989-2000s", "fruit motifs (especially strawberries)", "candy", "stuffed animals", "plaid patterns", "randoseru backpacks"]
 key_colours: ["Pastel", "bright", "and neon colors"]
+palette: ["#B78592", "#F9F9FC", "#E3AA93", "#C5CFD1", "#774652", "#E1C6BF"]
 key_values: ["Nostalgia", "childhood", "innocence", "cuteness"]
 related_aesthetics: ["Bubblegum Coquette", "Cutecore", "Fairy Kei", "Heisei Retro", "Kidcore", "Nanchatte Seifuku", "Yume Kawaii", "Shoujo Girl"]
 related_media: ["Nakayoshi Magazine", "Ciao Magazine"]

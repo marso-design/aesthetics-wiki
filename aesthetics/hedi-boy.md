@@ -5,6 +5,7 @@ aka: ["Hedi Bro", "Haute Indie Sleaze"]
 decade_of_origin: "Early 2000s (original), 2020s (revival)"
 key_motifs: ["Ultra-skinny silhouette", "black coffee and cigarettes (as props)", "performance art of attitude/bravado", "sunglasses worn indoors", "the \"underlook\" (pose)"]
 key_colours: ["Jet black", "dark grey", "white", "dark neutrals"]
+palette: ["#070606", "#2D2C2E", "#5C5858", "#DEDBD8", "#3D3E46", "#A6C7D8"]
 key_values: ["Self-aware irony", "rebellion", "rock 'n' roll romanticism", "androgyny", "disdain for mainstream comfort/baggy fashion"]
 related_aesthetics: ["Archive", "Bloghouse", "Emo", "Indie Sleaze", "Goth", "Punk"]
 primary_platform: ["TikTok", "Reddit (menswear forums)", "High Fashion Runways (Dior Homme, Saint Laurent, Celine)"]

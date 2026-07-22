@@ -3,6 +3,7 @@ name: "Medieval Fantasy"
 slug: "medieval-fantasy"
 key_motifs: ["Magic", "knights", "castles", "crowns", "swords"]
 key_colours: ["Purple", "red", "blue", "green", "brown", "tan"]
+palette: ["#A9A9A9", "#2F3939", "#181D1C", "#444F50", "#939493"]
 key_values: ["Escapism", "chivalry"]
 related_aesthetics: ["Bardcore", "Fantasy", "Knightcore", "Royalcore", "Dragoncore", "Witchcore", "Cottagecore"]
 related_media: ["Legend of Zelda", "Lord of the Rings", "A Song of Ice and Fire"]

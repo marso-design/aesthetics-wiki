@@ -7,6 +7,7 @@ key_motifs: ["Juxtaposition", "jumpstyle dance", "Arabic/Russian/Japanese text",
 key_values: ["Absurdism", "brainrot", "virality", "irony", "chaotic confusion", "\"cursed\" re-contextualization"]
 related_aesthetics: ["Arabfunny", "Cybersigilism", "Keller Synth", "Webcore", "Weirdcore", "Xpiritualism"]
 primary_platform: ["TikTok"]
+palette: ["#000003", "#444B4F", "#FDFFFF", "#9A9A93", "#847C74", "#E7E9E0"]
 source_url: "https://aesthetics.fandom.com/wiki/Yabujincore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

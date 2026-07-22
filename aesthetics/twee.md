@@ -5,6 +5,7 @@ aka: ["Twee Pop"]
 decade_of_origin: "Mid-to-late 1980s"
 key_motifs: ["Childlike innocence", "vintage objects", "delicate imagery", "idiosyncratic elements", "eclectic color blends", "hearts", "Manic Pixie Dream Girl archetype"]
 key_colours: ["Pastel hues", "bright primary and secondary colors (often in eclectic combinations)"]
+palette: ["#553228", "#110F10", "#C5C0A4", "#6A6358", "#B43A38", "#FDAE29"]
 key_values: ["Nerdiness", "sweetness", "romanticism", "shyness", "carefree attitude", "simplicity", "suspicion of adulthood", "essential goodness", "cultivation of passion projects", "rejection of conventional \"cool\"", "romanticization of the nerd/geek/dork/virgin archetypes"]
 related_aesthetics: ["Art Hoe", "Cybertwee", "Dolly Girl", "Dreamy Indie Girlhood", "Geek Chic", "Hipness Purgatory", "Poppare", "Hipster", "Indie", "Shibuya-Kei", "Whimsy Twee"]
 related_media: ["Twee: The Gentle Revolution in Music", "Books", "Television", "Fashion", "and Film (2014) by Marc Spitz"]

@@ -5,6 +5,7 @@ aka: ["Alienwave"]
 decade_of_origin: "1990s"
 key_motifs: ["Aliens", "outer space", "UFOs"]
 key_colours: ["Black", "green", "violet", "magenta", "cyan"]
+palette: ["#796BA5", "#DDE7EF", "#222226", "#000000", "#5A4A81", "#D7B5D0"]
 key_values: ["Apathy", "exploration", "individualism", "mystery"]
 related_aesthetics: ["Atompunk", "Cryptidcore", "Psychedelia", "Raygun Gothic", "Retrofuturism", "Space Age", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Aliencore"

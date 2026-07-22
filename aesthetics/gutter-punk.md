@@ -5,6 +5,7 @@ aka: ["Traveler Punk", "Crusty", "Punk Hobo", "Hobo-Punk", "Punk Nomad", "Punkab
 decade_of_origin: "1970s–1980s"
 key_motifs: ["Dreadlocks or Mohawks", "facial tattoos/piercings", "heavy patches/studs", "tattered clothing", "dogs/pets (as traveling companions)", "street busking"]
 key_colours: ["Black", "muted earth tones", "weathered fabric colors"]
+palette: ["#B4B4A7", "#2A2B2A", "#191718", "#4C5657", "#73584D", "#4E3F39"]
 key_values: ["Anti-capitalism", "DIY ethos", "transience", "absolute freedom", "refusal of labor"]
 related_aesthetics: ["Anarcho-Punk", "Bohemian", "Crust Punk", "Folk Punk"]
 related_media: ["The Decline of Western Civilization III (1998 film)"]

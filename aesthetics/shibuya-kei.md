@@ -5,6 +5,7 @@ aka: ["Shibuya Style (渋谷系)"]
 decade_of_origin: "1990s"
 key_motifs: ["1960s European fashion", "mod aesthetics", "op art", "retro-futurism", "vinyl records", "pop art graphics"]
 key_colours: ["Bright", "saturated colors (orange, yellow, pink, lime green)", "often with bold black and white patterns"]
+palette: ["#ECE4D6", "#1E1822", "#AF2825", "#C6AE7B", "#CA5946", "#F9F9F8"]
 key_values: ["Eclecticism", "nostalgia", "sophistication", "cosmopolitanism", "consumerism as curation"]
 related_aesthetics: ["City Pop", "Mod", "Pop Art", "Shibuya Punk", "Space Age", "Sunshine Pop", "Twee", "Yé-yé"]
 source_url: "https://aesthetics.fandom.com/wiki/Shibuya-Kei"

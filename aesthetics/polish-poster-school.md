@@ -4,6 +4,7 @@ slug: "polish-poster-school"
 decade_of_origin: "1950s"
 key_motifs: ["Painterly gesture", "surrealism", "metaphor", "dark humor", "symbolic heads/figures", "morbid imagery (skulls, bones)", "minimalist shapes", "vibrant colors derived from folk art"]
 key_colours: ["Vibrant reds", "yellows", "and blues (often isolated color pops against muted backgrounds)"]
+palette: ["#13111D", "#FFFFFF", "#E03045", "#D9CFCF", "#6A8F7C", "#5D504F"]
 key_values: ["Artistic freedom (subversion)", "intellectual advertisement", "emotional commentary", "fine art over commercialism", "anti-Hollywood standardization"]
 related_aesthetics: ["Constructivism", "Expressionism", "Surrealism", "Symbolism"]
 source_url: "https://aesthetics.fandom.com/wiki/Polish_Poster_School"

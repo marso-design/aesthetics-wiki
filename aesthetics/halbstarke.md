@@ -5,6 +5,7 @@ aka: ["Half-Strong", "Rowdys"]
 decade_of_origin: "Mid-1950s"
 key_motifs: ["Leather jackets", "denim jeans", "quiff/pompadour (Elvistolle)", "checked shirts", "boots", "scooters/motorcycles (Vespas)", "street-corner loitering"]
 key_colours: ["Black (leather)", "blue (denim)", "white/red (checked shirts)"]
+palette: ["#A5A6A2", "#1D1F19", "#757673", "#464843", "#91928F", "#585A56"]
 key_values: ["Revolt against parental authority", "anti-conformity", "rejection of middle-class \"Spießigkeit\" (squareness)", "speed", "rhythm", "anti-authoritarianism"]
 related_aesthetics: ["Greaser", "Rockabilly"]
 related_media: ["Die Halbstarken (1956 Film)", "...denn sie wissen nicht", "was sie tun (Rebel Without a Cause, 1955)", "Der Wilde (The Wild One, 1953)"]

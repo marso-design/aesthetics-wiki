@@ -4,6 +4,7 @@ slug: "suprematism"
 decade_of_origin: "1910s"
 key_motifs: ["Basic geometric forms (squares, circles, crosses, rectangles)", "flat planes of color", "non-objective compositions", "forms floating in space"]
 key_colours: ["Limited palettes", "including black", "white", "red", "and other pure colors", "typically against a white background"]
+palette: ["#F2E4C6", "#F6F6F2", "#DCCE9F", "#1D120D", "#292736", "#4C332F"]
 key_values: ["Supremacy of pure artistic feeling", "non-objectivity", "spiritual liberation through abstraction", "rejection of mimetic representation", "a universal artistic language"]
 related_aesthetics: ["Bauhaus", "Constructivism", "Cubism", "De Stijl", "Futurism", "International Typographic Style", "Minimalism", "Neue Slowenische Kunst"]
 source_url: "https://aesthetics.fandom.com/wiki/Suprematism"

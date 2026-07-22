@@ -4,6 +4,7 @@ slug: "teen-crush"
 decade_of_origin: "Late 2010s"
 key_motifs: ["School uniforms", "varsity lettering", "cargo pants", "combat boots", "bright hair dye", "plaid patterns"]
 key_colours: ["Neon pink", "electric blue", "yellow", "black", "white"]
+palette: ["#090D14", "#262930", "#DCDCD7", "#B0715C", "#989390", "#C2C5C4"]
 key_values: ["Confidence", "non-conformity", "youth", "energy"]
 related_aesthetics: ["Girl Crush", "High Teen", "Neon Tech", "Avant Apocalypse", "rave"]
 source_url: "https://aesthetics.fandom.com/wiki/Teen_Crush"

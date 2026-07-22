@@ -6,6 +6,7 @@ decade_of_origin: "1st century
 325 (standarized by Council of Nicaea)"
 key_motifs: ["Chickens", "bunnies", "easter eggs", "baskets", "lambsDue to its strong connection with Christianity", "almost no usages appears in commercial adaptations"]
 key_colours: ["Pastel colors", "green", "white", "yellow"]
+palette: ["#2A3026", "#546940", "#919D7A", "#78744D", "#F0EDD8", "#634231"]
 key_values: ["Jesus", "Meeting", "Resurrection"]
 related_aesthetics: ["Christmas", "Halloween", "Saint Patrick's Day", "Spring"]
 source_url: "https://aesthetics.fandom.com/wiki/Easter"

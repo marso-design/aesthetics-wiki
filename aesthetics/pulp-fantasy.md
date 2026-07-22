@@ -3,6 +3,7 @@ name: "Pulp Fantasy"
 slug: "pulp-fantasy"
 decade_of_origin: "1960s"
 related_aesthetics: ["Airbrush Surrealism"]
+palette: ["#A2776A", "#556F7E", "#130F16", "#454C61", "#98A9B1", "#3E3139"]
 source_url: "https://aesthetics.fandom.com/wiki/Pulp_Fantasy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

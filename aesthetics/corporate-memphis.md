@@ -5,6 +5,7 @@ aka: ["Alegria", "Big Tech Art Style", "Blob Web", "Globohomo", "Humans of Flat"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Flat vector illustrations", "disproportionate bodies (small heads, bendy limbs)", "pastel or vibrant solid colors", "lack of facial features", "geometric shapes"]
 key_colours: ["Blue", "purple", "yellow", "pastel tones"]
+palette: ["#FFFFFF", "#FD576C", "#D2E9E9", "#473C5A", "#FFDDD9", "#F09883"]
 key_values: ["Inclusivity", "minimalism", "scalability", "friendliness", "mass appeal"]
 related_aesthetics: ["Claymorphism", "Flat Design", "Minimalism", "Neubrutalism", "Memphis Design (namesake)"]
 source_url: "https://aesthetics.fandom.com/wiki/Corporate_Memphis"

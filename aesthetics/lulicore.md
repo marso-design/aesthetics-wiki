@@ -5,6 +5,7 @@ aka: ["可露丽风 (kělùlì fēng)", "Canelé Style"]
 decade_of_origin: "2020s"
 key_motifs: ["Canelés", "desserts"]
 key_colours: ["Brown", "mocha mousse", "pastels"]
+palette: ["#AC7460", "#564C41", "#312924", "#A29580", "#D8D196", "#FEF2B0"]
 key_values: ["Sweetness", "gentleness"]
 related_aesthetics: ["Dopamine Dressing", "Maillard Style"]
 primary_platform: ["Rednote (Xiaohongshu)"]

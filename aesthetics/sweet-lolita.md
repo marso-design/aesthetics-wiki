@@ -2,6 +2,7 @@
 name: "Sweet Lolita"
 slug: "sweet-lolita"
 key_colours: ["Pastel"]
+palette: ["#D8C4CC", "#4B433B", "#BAAAAA", "#90938B", "#626958", "#B7BEC5"]
 related_aesthetics: ["Cult Party Kei", "Delicate Sweet", "Fairy Kei", "Hime Lolita", "Lolita", "Pastel", "Yume Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Sweet_Lolita"
 license: "CC-BY-SA-4.0"

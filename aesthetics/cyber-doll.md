@@ -4,6 +4,7 @@ slug: "cyber-doll"
 decade_of_origin: "Mid-2020s"
 key_motifs: ["Heavily edited facial features", "porcelain doll-like appearance", "artificial aesthetic", "uncanny valley effect", "digital manipulation"]
 key_colours: ["Muted and gloomy tones"]
+palette: ["#0F0B0E", "#BAAFA8", "#98938F", "#595452", "#7F7A76", "#E2DFDA"]
 key_values: ["Digital self-expression", "artificial beauty", "transformation of identity"]
 related_aesthetics: ["Cyber Angel", "Dollcore", "E-Girl (socially)", "Jirai Kei", "Kogal", "Living Doll", "Morute", "Nanchatte Seifuku", "Xpiritualism"]
 source_url: "https://aesthetics.fandom.com/wiki/Cyber_Doll"

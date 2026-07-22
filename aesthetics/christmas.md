@@ -4,6 +4,7 @@ slug: "christmas"
 aka: ["Xmas"]
 key_motifs: ["Baby Jesus", "Christmas trees", "Santa Claus", "Christmas stockings", "holly", "mistletoe", "presents"]
 key_colours: ["Red", "Green", "White", "Gold"]
+palette: ["#5F3421", "#2D1A10", "#40351C", "#746145", "#D8CEBD", "#AA8260"]
 key_values: ["Love", "Kindness", "Generosity", "Peace"]
 related_aesthetics: ["Winter"]
 source_url: "https://aesthetics.fandom.com/wiki/Christmas"

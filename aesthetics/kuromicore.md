@@ -4,6 +4,7 @@ slug: "kuromicore"
 aka: ["Kuromiotaku"]
 decade_of_origin: "2010s"
 key_colours: ["Warm white", "pink", "black", "pastel purple"]
+palette: ["#222124", "#0D0D10", "#373235", "#BB9FAC", "#D1BCBD", "#8E7780"]
 related_aesthetics: ["Animecore", "E-Girl", "Girly (Japanese)", "Kawaii", "Jirai Kei", "Kidcore", "Pastel", "Pastel Goth", "Sanriocore", "Traumacore", "Yami Kawaii", "2020 Alt"]
 related_media: ["Onegai My Melody", "Kuromi's Pretty Journey"]
 source_url: "https://aesthetics.fandom.com/wiki/Kuromicore"

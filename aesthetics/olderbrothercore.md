@@ -4,6 +4,7 @@ slug: "olderbrothercore"
 decade_of_origin: "2020s (drawing from 1990s-2000s)"
 key_motifs: ["Retro gaming (Xbox, PS2)", "CRT TVs", "CD/DVD collections", "band posters", "messy bedrooms", "junk food", "lo-fi digital photography", "Monster Energy drinks"]
 key_colours: ["Black", "green (especially lime/Xbox green)", "blue", "red"]
+palette: ["#0D0A0A", "#57605B", "#868C8A", "#1C2020", "#A98B5D", "#333A3B"]
 key_values: ["Freedom", "rebellion", "mischief", "relaxation", "fun"]
 related_aesthetics: ["Bastardcore", "Bro Hoe", "Brostep", "Emo", "Epunk", "Grunge", "Mall Ninja", "Nu-Metal", "Post-Grunge Maximalism", "Skater", "Teenpunk", "Y2K Futurism"]
 primary_platform: ["TikTok"]

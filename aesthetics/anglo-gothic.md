@@ -5,6 +5,7 @@ aka: ["Dark Anglo"]
 decade_of_origin: "1990s"
 key_motifs: ["Drizzling rain", "overcast skies", "cheap tea and biscuits", "melancholy", "council estates"]
 key_colours: ["Blue", "grey", "brown", "green"]
+palette: ["#275D8B", "#0E1011", "#163956", "#394353", "#95B7D0", "#48779A"]
 key_values: ["Working class values", "dissatisfaction", "depression"]
 related_aesthetics: ["After Hours", "Liminal Space", "Chav", "Dark Academia", "Regional Gothic", "Suburban Gothic", "Goth", "Trad Goth", "Post-Punk", "Cryptidcore", "Britpop"]
 related_media: ["BGMedia", "Grime music", "Arctic Monkeys", "The Full Monty"]

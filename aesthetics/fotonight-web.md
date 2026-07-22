@@ -4,6 +4,7 @@ slug: "fotonight-web"
 decade_of_origin: "2000s/2020s"
 key_motifs: ["Nature", "Glossy Textures", "Skeuomorphism", "Low Quality Image Montages", "Non-Sensical/Dream-like Visuals", "Chinese Bootlegs/Knockoffs", "Foreign Languages (mainly Chinese)", "imagery related to Chinese culture", "Mickey Mouse and Disney related imagery"]
 key_colours: ["Blue", "Green", "Yellow", "White", "Orange", "Fuchsia", "i.e. Tertiary color palette"]
+palette: ["#7C5A35", "#3092B0", "#9CCFD0", "#56BEC1", "#A49A5B", "#F1F9FE"]
 key_values: ["Chinese knockoffs attempting to emulate Frutiger Aero"]
 related_aesthetics: ["Arabfunny", "Bright Tertiaries", "Dollar Store Vernacular", "Dreamcore", "★Frutiger Aero", "Frutiger Eco", "Helvetica Aqua Aero", "★Shanzhai", "Skeuomorphism", "Too Cool", "Weirdcore", "★Xpiritualism", "Zen Tranquility"]
 source_url: "https://aesthetics.fandom.com/wiki/Fotonight_Web"

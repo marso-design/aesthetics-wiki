@@ -5,6 +5,7 @@ aka: ["Mafiacore", "Mobster Chic"]
 decade_of_origin: "20th Century (Media Portrayals)"
 key_motifs: ["Sharp suits", "fedoras", "pinstripes", "overcoats", "cigars", "classic luxury cars", "dimly lit restaurants", "Tommy guns"]
 key_colours: ["Black", "white", "grey", "deep reds"]
+palette: ["#171615", "#939393", "#58544F", "#403B37", "#6C6C6C", "#D8D8D8"]
 key_values: ["Family loyalty", "honor codes", "secrecy (omertà)", "ambition", "betrayal (all media tropes)"]
 related_aesthetics: ["Dark Academia", "Film Noir", "Femme Fatale", "Mob Wife", "Old Money", "Playboy", "Yakuza Aesthetic"]
 related_media: ["The Godfather trilogy", "Goodfellas", "The Sopranos", "Scarface", "Casino"]

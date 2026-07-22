@@ -5,6 +5,7 @@ aka: ["Art Heaux", "Art Ho"]
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Selfies collaged with famous art", "nature imagery (plants, flowers)", "sketchbooks", "paint palettes", "Kånken backpacks"]
 key_colours: ["Primary colors (especially yellow)", "earth tones"]
+palette: ["#B8B7AD", "#F7F5F8", "#10253E", "#3A312A", "#56625D", "#AB6B2B"]
 key_values: ["Creativity", "self-expression", "diversity", "centering artists of color", "passion for art", "connection to nature"]
 related_aesthetics: ["Art Academia", "VSCO Girl", "Indie", "Cottagecore", "Plant Mom"]
 primary_platform: ["Tumblr", "Instagram"]

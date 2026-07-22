@@ -5,6 +5,7 @@ aka: ["Siglo de Oro (Golden Century)"]
 decade_of_origin: "c. 1492 - 1681"
 key_motifs: ["Catholic religious scenes (saints, martyrs, biblical narratives)", "royal portraiture", "still lifes (bodegones)", "dramatic use of light and shadow (tenebrism)", "mythological subjects"]
 key_colours: ["Somber and dramatic palette with deep blacks", "rich reds", "earthy browns", "and brilliant golds; strong contrasts of light and shadow"]
+palette: ["#AB947C", "#3D372C", "#614F3F", "#7291B3", "#C4AC91", "#8D755C"]
 key_values: ["Catholic faith and piety", "royal power (Habsburg prestige)", "honor", "realism", "dramatic intensity", "humanism"]
 related_aesthetics: ["Baroque", "Dutch Golden Age", "Flemish Baroque", "Italian Renaissance", "Mannerism"]
 source_url: "https://aesthetics.fandom.com/wiki/Spanish_Golden_Age"

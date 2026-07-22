@@ -6,6 +6,7 @@ decade_of_origin: "2000s"
 creators: ["Alexandre Barousdin and Cyril Blanc (event organizers)"]
 key_motifs: ["Mohawks and mullet hairstyles", "skinny jeans", "bright colors", "futuristic graphics", "eagles (Tecktonik trademark)", "stars"]
 key_colours: ["Black and white", "contrasted with bright neon colors"]
+palette: ["#020202", "#86989A", "#A07166", "#4E575C", "#1B1518", "#DEB29C"]
 key_values: ["Dance", "self-expression", "club culture", "energy", "individuality"]
 related_aesthetics: ["Bloghouse", "Electroclash", "Emo", "Hands Up", "Indie Sleaze", "Krocha", "Partille-Johnny", "Rave", "Scene"]
 source_url: "https://aesthetics.fandom.com/wiki/Tecktonik"

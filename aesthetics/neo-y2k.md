@@ -5,6 +5,7 @@ aka: ["Y2K Revival"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Saturated colors", "chrome/metallic forms (Metalheart)", "Eastern graphic design elements", "retro-futurism", "early digital graphics", "abstract shapes"]
 key_colours: ["Highly saturated blues", "pinks", "greens; metallic silver/chrome"]
+palette: ["#B2A9B2", "#6871A5", "#1A1C29", "#4A404C", "#FEFFFF", "#313242"]
 key_values: ["Nostalgia", "technological revival", "creative expression", "digital culture"]
 related_aesthetics: ["Bubblegum Bling", "Cybercore", "Cybersigilism", "Metalheart", "Neo-Aero", "Vectorheart", "Y2K Futurism", "Y3K"]
 source_url: "https://aesthetics.fandom.com/wiki/Neo-Y2K"

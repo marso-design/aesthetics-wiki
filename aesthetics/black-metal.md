@@ -5,6 +5,7 @@ aka: ["Trve Kvlt (aesthetic)"]
 decade_of_origin: "1980s (First Wave), 1990s (Second Wave)"
 key_motifs: ["Satanism", "Dark fantasy", "Fear", "Nature", "Misanthropy", "Paganism"]
 key_colours: ["Black", "White"]
+palette: ["#0C0C0C", "#252423", "#555351", "#DAD9D8", "#8F8C8A"]
 related_aesthetics: ["Metal", "Speed Metal", "Thrash Metal", "Death Metal", "Dungeon Synth", "Tänzelcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Black_Metal"
 license: "CC-BY-SA-4.0"

@@ -5,6 +5,7 @@ aka: ["Web 2.0 Gloss"]
 decade_of_origin: "2000s"
 key_motifs: ["Skeuomorphism", "glossy textures", "\"Humanism\"", "use of nature", "bokeh", "bubbles", "Frutiger fonts", "glass", "auroras"]
 key_colours: ["Blue", "green", "white", "tertiary colours"]
+palette: ["#0C0F10", "#4E87A4", "#F65769", "#DBD4C0", "#393532", "#17354F"]
 related_aesthetics: ["Abstract Tech", "Bright Tertiaries", "Chromecore", "Cleancore", "Cyberprep", "Dollar Store Vernacular", "Flat Design", "Gen X Soft Club", "Glassmorphism", "Hexatron", "Hands Up", "Recession Pop", "Retrofuturism", "Seapunk", "Silicon Dreams", "Skeuomorphism", "Solarpunk", "Superflat Pop", "TechnoNeko2000", "Tranquil Spa Graphics", "Trillwave", "Tropical", "Vaporwave", "Vectordelia", "Vectorflourish", "Webcore", "Y2K Futurism"]
 subgenres: ["Dark Aero", "DORFic", "Four Colors", "Frutiger Eco", "Neo-Aero (Revival)", "Technozen", "Vectorbloom"]
 source_url: "https://aesthetics.fandom.com/wiki/Frutiger_Aero"

@@ -5,6 +5,7 @@ aka: ["Marine Style", "Beach House", "Style Bord de Mer (French)"]
 decade_of_origin: "Early 20th Century"
 key_motifs: ["Natural materials", "light wood", "woven fibers", "nautical elements"]
 key_colours: ["Blue", "white", "neutrals"]
+palette: ["#66645E", "#413D3B", "#C5C2BC", "#D3D3D4", "#A39A8D", "#E3E5E8"]
 key_values: ["Relaxation", "Lightness", "Naturalness", "Maritime Inspiration", "Serenity"]
 related_aesthetics: ["Coastal Cowgirl", "Coastal Grandmother", "Dark Nautical", "Minimalism", "Nautical", "Rustic", "Scandinavian Design", "Shabby Chic", "Tropical"]
 source_url: "https://aesthetics.fandom.com/wiki/Coastal_Style"

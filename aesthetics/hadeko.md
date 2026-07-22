@@ -4,6 +4,7 @@ slug: "hadeko"
 decade_of_origin: "2000"
 key_motifs: ["bright rainbows"]
 key_colours: ["Rainbow palettes"]
+palette: ["#32323E", "#150F27", "#575450", "#686D68", "#DBAC42", "#B7B39D"]
 related_aesthetics: ["Kidcore", "Decora", "Harajuku"]
 source_url: "https://aesthetics.fandom.com/wiki/Hadeko"
 license: "CC-BY-SA-4.0"

@@ -5,6 +5,7 @@ aka: ["Colorpuke"]
 decade_of_origin: "2020s"
 key_motifs: ["Bright colors", "rainbows", "glitter graphics (Blingees/PicMix)", "checkers", "2000s memes", "kandi bracelets", "layered clothing", "Monster Energy drinks", "pop culture references (Monster High, Sanrio, 2010s memes)"]
 key_colours: ["Neon colors", "rainbow palettes", "bright pink", "black", "lime green"]
+palette: ["#373441", "#010001", "#C99A81", "#F1F2F3", "#67857C", "#D6D4C8"]
 key_values: ["Nostalgia (for the 2000s/early 2010s)", "rejection of \"cringe culture", "\" self-expression", "internet culture"]
 related_aesthetics: ["2010s Meme Maximalism", "2020 Alt", "Animecore", "Decora", "E-Girl", "Glitchcore", "Hands Up", "Internet Awesomesauce", "Kandi Raver", "Kidcore", "Krushclub", "Scene", "Sigilkore", "Webcore"]
 primary_platform: ["TikTok", "SoundCloud", "Neocities", "Roblox"]

@@ -5,6 +5,7 @@ aka: ["Insanitycore", "EXEcore"]
 decade_of_origin: "2010s"
 key_motifs: ["Monochrome color palette (black-red-white)", "blood splatters", "glowing eyes", "kitchen knives", "glitch/static", "surgical masks", "\"Desmotivaciones\" posters", "red spider lilies", "chains"]
 key_colours: ["Black", "blood red", "dark grey", "white"]
+palette: ["#4C1010", "#423435", "#030101", "#161313", "#C59295", "#915354"]
 key_values: ["Madness as power", "trauma", "emotional release", "rebellion against innocence", "the \"corruption\" of childhood media"]
 related_aesthetics: ["Brostep", "Digital Horror", "Emo", "Gorecore", "Nightcore (aesthetic)", "Welwitschia Goth", "Yandere"]
 primary_platform: ["YouTube", "DeviantArt", "Google+", "Amino", "Wattpad", "Quotev", "Desmotivaciones.es (in Spanish)"]

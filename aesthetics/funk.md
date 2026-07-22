@@ -5,6 +5,7 @@ aka: ["Funky", "Groovy"]
 decade_of_origin: "1960s"
 key_motifs: ["Flared silhouettes", "platform footwear", "psychedelic patterns", "Afro hairstyles", "sequins", "velvet", "bold geometric designs"]
 key_colours: ["Bright primary colors", "neon hues", "vibrant purples", "oranges", "blues", "golds", "earth tones (later in 1970s)"]
+palette: ["#B4B290", "#050307", "#3A241B", "#C0825B", "#777463", "#704030"]
 key_values: ["Self-expression", "individuality", "cultural pride", "liberation", "energetic movement", "rebellion against convention"]
 related_aesthetics: ["Afrofuturism", "Bohemian", "Disco", "Future Funk", "Glam Rock", "Hippie", "Maximalism", "Mod", "Pop Art", "Psychedelia", "Vectordelia"]
 related_media: ["Shaft", "Super Fly", "Car Wash"]

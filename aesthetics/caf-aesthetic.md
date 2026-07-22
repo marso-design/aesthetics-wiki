@@ -4,6 +4,7 @@ slug: "caf-aesthetic"
 decade_of_origin: "1999 with the rise of the Third Wave of Coffee"
 key_motifs: ["Cafés", "coffee", "books", "espresso machine", "people working", "cameras", "latte art"]
 key_colours: ["dark brown", "black", "mustard", "forest green", "maroon", "navy", "grey"]
+palette: ["#150C07", "#A69080", "#534C40", "#BCB0A6", "#776A5D", "#4F3320"]
 related_aesthetics: ["After Hours", "Comfy/Cozy", "Dark Academia", "Foodie", "Light Academia", "Lo-Fi", "Indie", "Global Village Coffeehouse"]
 source_url: "https://aesthetics.fandom.com/wiki/Café_Aesthetic"
 license: "CC-BY-SA-4.0"

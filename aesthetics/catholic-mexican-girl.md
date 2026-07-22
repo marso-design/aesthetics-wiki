@@ -5,6 +5,7 @@ aka: ["Latina Fairy", "Mexican Fairy"]
 decade_of_origin: "2020s"
 key_motifs: ["White cotton/linen dresses", "red accents (ribbons/flowers)", "crucifixes", "rosaries", "braids", "colonial architecture", "veladoras"]
 key_colours: ["White", "red", "gold", "black"]
+palette: ["#AA9B8C", "#B7ADA4", "#181311", "#7B6457", "#372F2C", "#4F433D"]
 key_values: ["Romanticization of religious tradition", "hyper-femininity", "\"Old World\" nostalgia"]
 related_aesthetics: ["Baroque", "Coquette", "Tradcath Coquette", "Tradwife"]
 source_url: "https://aesthetics.fandom.com/wiki/Catholic_Mexican_Girl"

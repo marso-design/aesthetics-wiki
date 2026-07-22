@@ -5,6 +5,7 @@ aka: ["Mahou Shoujo"]
 decade_of_origin: "1960s"
 key_motifs: ["Transformation magic", "color coded costumes", "youth", "coming of age"]
 key_colours: ["Any", "but typically pink and gold"]
+palette: ["#BB5D7E", "#543F64", "#FDFAFA", "#F0E5E1", "#EEC6D1", "#C3A2AF"]
 key_values: ["Saving the World", "Femininity", "Courage", "Friendship"]
 related_aesthetics: ["Animecore", "Fairy Kei", "Kawaii", "Moe", "Nanchatte Seifuku", "Shoujo", "Yume Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Magical_Girl"

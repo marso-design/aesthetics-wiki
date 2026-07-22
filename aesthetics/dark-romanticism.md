@@ -6,6 +6,7 @@ key_motifs: ["Nature", "the supernatural", "occultism", "demons", "ghosts"]
 key_values: ["Moral failure", "self-destruction", "punishment", "individualism"]
 related_aesthetics: ["Romanticism"]
 related_media: ["Frankenstein by Mary Shelley"]
+palette: ["#807C70", "#605E56", "#171A19", "#3A372F", "#9D9B92", "#CBC9BF"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Romanticism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

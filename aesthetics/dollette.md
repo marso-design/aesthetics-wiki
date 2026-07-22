@@ -4,6 +4,7 @@ slug: "dollette"
 decade_of_origin: "2010s"
 key_motifs: ["Florals", "lip gloss", "perfume", "nail polish", "ribbons", "lacy fashion"]
 key_colours: ["Pink", "white", "beige", "red", "pastel colors"]
+palette: ["#C6B2A4", "#CAC7C2", "#A88D7A", "#DFDCD9", "#FEFEFE"]
 key_values: ["Romance", "luxury", "self-care", "hyperfemininity"]
 related_aesthetics: ["Balletcore", "Coconut Girl", "Coquette", "Dollcore", "Nymphet", "Dark Nymphet", "Ethereal", "Princesscore", "Fairycore", "McBling", "Bubblegum Coquette", "Barbiecore", "Bimbocore", "Angelcore", "Preppy", "Romantic Academia", "Cottagecore", "Delicate Sweet", "Soft Boy", "Soft Girl", "Wonyoungism"]
 source_url: "https://aesthetics.fandom.com/wiki/Dollette"

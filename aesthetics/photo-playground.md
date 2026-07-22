@@ -4,6 +4,7 @@ slug: "photo-playground"
 decade_of_origin: "2000s"
 key_motifs: ["Flash animation", "photo collages", "play", "parks", "toys"]
 key_colours: ["Bright Green", "blue", "purple"]
+palette: ["#9CA73C", "#609A77", "#2F3623", "#D2DDDE", "#765537", "#6D7752"]
 key_values: ["Nostalgia", "childhood innocence", "playfulness", "comfort"]
 related_aesthetics: ["Kidcore"]
 primary_platform: ["Television", "Web games", "Video games"]

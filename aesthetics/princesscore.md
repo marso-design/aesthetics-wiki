@@ -4,6 +4,7 @@ slug: "princesscore"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Puff-sleeve dresses", "corsets", "tulle", "lace", "tiaras", "ball gowns", "pearls", "opulent fabrics"]
 key_colours: ["Pastels (especially pink)", "white", "cream", "gold"]
+palette: ["#967862", "#675F4F", "#0F0A07", "#2B281A", "#5B2427", "#424841"]
 key_values: ["Elegance", "romance", "femininity", "escapism", "kindness", "grace"]
 related_aesthetics: ["Coquette", "Cottagecore", "Ethereal", "Pink Princess", "Royalcore", "Light Academia"]
 primary_platform: ["TikTok", "Instagram", "Pinterest"]

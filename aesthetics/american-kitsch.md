@@ -4,6 +4,7 @@ slug: "american-kitsch"
 aka: ["1950s Commercial Illustrations"]
 decade_of_origin: "1920s"
 related_aesthetics: ["50s Suburbia", "Americana", "Camp", "Diner", "Heroic Realism", "Pin-up", "Raggare", "Vintage Americana"]
+palette: ["#3B3436", "#7A7C61", "#A8AC87", "#994530", "#B8794D", "#DEE0C1"]
 source_url: "https://aesthetics.fandom.com/wiki/American_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

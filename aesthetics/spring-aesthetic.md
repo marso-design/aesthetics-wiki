@@ -4,6 +4,7 @@ slug: "spring-aesthetic"
 decade_of_origin: "The beginning of time"
 key_motifs: ["budding flowers", "baby animals"]
 key_colours: ["bright colours (similar to budding plants)", "light green", "brown", "pastels"]
+palette: ["#525546", "#A78357", "#201F1B", "#866847", "#353631", "#C8A36E"]
 key_values: ["renewal", "nature", "beauty in the natural world"]
 related_aesthetics: ["Aesthetic Similarities:", "Cottagecore", "Easter", "Mori Kei", "Naturecore", "Saint Patrick's Day", "Other Seasons:", "Summer", "Autumn", "Winter"]
 source_url: "https://aesthetics.fandom.com/wiki/Spring_Aesthetic"

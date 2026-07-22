@@ -5,6 +5,7 @@ aka: ["Lo-fi Design\"Past imperfect: The art of lo-fi design\" on ceros.com"]
 decade_of_origin: "2010s"
 key_motifs: ["Anime scenery", "cozy interiors", "rainy windows", "sleeping pets", "houseplants", "headphones", "cityscapes at night", "VHS/analog artifacts"]
 key_colours: ["Muted colors", "pastels", "warm indoor lighting", "cool outdoor tones (purples, blues)"]
+palette: ["#755BAA", "#0B0C0F", "#172335", "#392B5E", "#233A49", "#555580"]
 key_values: ["Nostalgia", "calmness", "relaxation", "introspection", "comfort", "authenticity", "studying"]
 related_aesthetics: ["Animecore", "Cassette Futurism", "City Pop", "Coffee House", "Cozy Gamer", "Dreampunk", "Sadboi", "Vaporwave", "Slushwave"]
 primary_platform: ["YouTube", "Twitch"]

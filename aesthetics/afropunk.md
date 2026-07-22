@@ -6,6 +6,7 @@ key_motifs: ["DIY aesthetics", "Afrofuturist elements", "African-inspired prints
 key_values: ["Rebellion", "independence", "anti-conformity", "social justice", "self-expression", "Black liberation"]
 related_aesthetics: ["Afrofuturism", "Alternative", "Funk", "Punk", "Hip-Hop", "Nu-Metal", "Rockabilly"]
 related_media: ["Afro-Punk (2003 film)", "Afropunk Festival"]
+palette: ["#18191A", "#B4CCC9", "#EDF3F0", "#2F3634", "#58665F", "#7C908A"]
 source_url: "https://aesthetics.fandom.com/wiki/Afropunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

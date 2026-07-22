@@ -4,6 +4,7 @@ slug: "orientalism"
 decade_of_origin: "c. 1820s–1900"
 key_motifs: ["Harems", "odalisques", "bazaars", "snake charmers", "deserts", "caravans", "tigers", "hookah pipes", "Islamic architecture"]
 key_colours: ["Rich", "jewel-toned colors; strong contrasts of light and shadow; use of gold and opulent textures"]
+palette: ["#272014", "#685332", "#6F3123", "#AA9C75", "#905133", "#91895F"]
 key_values: ["Exoticism", "fantasy", "sensuality", "nostalgia", "escapism", "assertion of a Western cultural perspective"]
 related_aesthetics: ["Academic Art", "Arabian Nights", "Chinoiserie", "Japonisme", "Millennium Orientalism", "Moorish Revival", "Rococo", "Romanticism", "Turquerie"]
 source_url: "https://aesthetics.fandom.com/wiki/Orientalism"

@@ -5,6 +5,7 @@ aka: ["Dystopian"]
 decade_of_origin: "Biblical stories, 19th Century works"
 key_motifs: ["Destroyed cities", "dead foilage", "minimal human population."]
 key_colours: ["Earth tones", "greys", "dull colors"]
+palette: ["#18120E", "#A09A7E", "#B5B08F", "#6B624D", "#514738", "#32291E"]
 key_values: ["Survival", "thievery", "gang loyalty (depending)"]
 related_aesthetics: ["Avant Apocalypse", "Brutalism", "Cyberpunk", "Doomer", "Electronic Body Music", "Industrial Decay", "Industrial Gothic", "Plaguecore", "Salvagepunk", "Soft Apocalypse", "Stalker", "Retrofuturism", "Warcore"]
 related_media: ["Fallout", "Mad Max", "Bird Box", "The Walking Dead", "Most of the Shin Megami Tensei franchise"]

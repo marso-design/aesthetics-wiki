@@ -5,6 +5,7 @@ aka: ["Frutiger Metro", "Abstract Vector Art", "Vector Maximalism"]
 decade_of_origin: "2000s"
 key_motifs: ["Swirling vines", "splats", "butterflies", "sunbursts", "silhouettes of dancers/crowds", "speakers", "headphones", "turntables", "microphones", "halftone dots", "striped circles", "flowing gradients", "bokeh", "arrow clusters"]
 key_colours: ["Cyan", "magenta", "lime green", "orange", "black", "white (high-contrast CMYK palette)"]
+palette: ["#DC9A32", "#9DC55E", "#FFFFFF", "#5B6657", "#B60B37", "#020000"]
 key_values: ["Digital humanism", "maximalism", "dynamism", "optimism", "creativity", "\"organized chaos\""]
 related_aesthetics: ["2010s Meme Maximalism", "Colorful Pop", "Corporate Hippie", "Graffiti Pop", "Flat Design", "Frutiger Aero", "Groovival", "Hands Up", "Indie Sleaze", "McBling", "New Rave", "Recession Pop", "Superflat Pop", "UrBling", "Vectorbloom", "Wacky Pomo"]
 related_media: ["Just Dance (1-3)", "Rayman Origins", "iPod silhouette commercials", "Xbox 360 Dashboard"]

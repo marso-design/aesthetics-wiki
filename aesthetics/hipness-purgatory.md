@@ -5,6 +5,7 @@ aka: ["Twee Hipsterdom"]
 decade_of_origin: "2000s"
 key_motifs: ["Loose drawings", "common objects"]
 key_colours: ["Black", "white", "blue", "yellow", "Green", "Orange"]
+palette: ["#FDFDFD", "#BE8E78", "#473539", "#B14450", "#59CF93", "#758979"]
 key_values: ["Irony", "\"Retroness\"", "and a Twee/Indie/Hipster vibe"]
 related_aesthetics: ["Beatnik", "Bohemian", "Genericana", "Hipster", "Indie", "Indiecraft", "Indie Sleaze", "Internet Awesomesauce", "Mission School", "Twee", "Urbancore", "UrBling"]
 source_url: "https://aesthetics.fandom.com/wiki/Hipness_Purgatory"

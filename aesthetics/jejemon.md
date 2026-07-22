@@ -5,6 +5,7 @@ decade_of_origin: "Late 2000s to Early 2010s"
 related_aesthetics: ["Emo", "Hip-Hop", "Hipster", "Scene", "Swag"]
 primary_platform: ["Adobe Photoshop", "Blingee", "Friendster", "Facebook", "Picnik", "PicsArt", "piZap", "Yahoo! Messenger"]
 related_media: ["Katekyo Hitman Reborn!", "Naruto", "One Piece"]
+palette: ["#090617", "#182532", "#3A3B42", "#675D5C", "#AE9D9B", "#A08580"]
 source_url: "https://aesthetics.fandom.com/wiki/Jejemon"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

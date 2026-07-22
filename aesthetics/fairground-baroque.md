@@ -5,6 +5,7 @@ aka: ["Fairground Arts", "Arts Forains (French)"]
 decade_of_origin: "Mid-19th century (peak: Belle Époque, 1880–1914)"
 key_motifs: ["Hand-carved woodwork", "gold-leaf ornamentation", "neoclassical sculpture", "painted medallions", "bas-relief friezes", "bevelled mirrors", "twisted brass poles", "lithograph posters", "calliope organs", "painted canvas backdrops"]
 key_colours: ["Deep red", "gold leaf", "ivory", "forest green", "royal blue", "polychrome"]
+palette: ["#030302", "#99825B", "#472413", "#59482E", "#755635", "#BCA981"]
 key_values: ["Craftsmanship", "spectacle", "wonder", "transience", "community", "artisan tradition"]
 related_aesthetics: ["Art Nouveau", "Baroque", "Burlesque", "Dark Circus", "Funfair Kitsch", "Rococo", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Fairground_Baroque"

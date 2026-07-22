@@ -1,6 +1,7 @@
 ---
 name: "Retro"
 slug: "retro"
+palette: ["#1F1848", "#3E2061", "#9E425A", "#E9BE8E", "#F0E8BA", "#5B4A60"]
 source_url: "https://aesthetics.fandom.com/wiki/Retro"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

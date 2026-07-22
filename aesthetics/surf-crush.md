@@ -5,6 +5,7 @@ aka: ["Coconut Girl"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Hawaiian prints", "surf boards", "puka shells"]
 key_colours: ["Yellow", "Orange", "Blue"]
+palette: ["#161522", "#CE9B98", "#6C3E34", "#ECE7D4", "#A16B59", "#C89844"]
 key_values: ["Surf"]
 related_aesthetics: ["Art Hoe", "Coconut Girl", "Frutiger Aero", "McBling", "Poolcore", "Summer", "Superflat Pop", "Tiki", "UrBling"]
 source_url: "https://aesthetics.fandom.com/wiki/Surf_Crush"

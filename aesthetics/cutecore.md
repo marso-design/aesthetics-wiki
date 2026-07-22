@@ -5,6 +5,7 @@ aka: ["Cutegore", "Kawaii Kei (Western TikTok term for the non-gory variant)"]
 decade_of_origin: "2020s"
 key_motifs: ["Juxtaposition of kawaii with horror", "blood splatters", "bandages", "medical equipment", "fast food packaging"]
 key_colours: ["Pastels (pink, yellow, blue)", "white", "red (blood)"]
+palette: ["#F2C3BB", "#FEF9FC", "#B69A9F", "#4F3A3C", "#F8CBE2", "#C6C2C1"]
 key_values: ["Trauma processing", "morbid curiosity", "regression", "rejection of sanitization"]
 related_aesthetics: ["Animecore", "Bubblegum Dance", "Femcel", "Gurokawa", "Heisei Retro", "Horror", "Jojifuku", "Kawaii", "Lolicore", "Pastel Gore", "Sanriocore", "Traumacore", "Yami Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Cutecore"

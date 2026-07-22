@@ -5,6 +5,7 @@ aka: ["Black Girl Boho"]
 decade_of_origin: "2020s"
 key_motifs: ["Pan-African and earthy colors", "Egyptian symbols", "beads"]
 key_colours: ["Orange", "green", "brown", "yellow", "red", "black and white"]
+palette: ["#120E0D", "#5C604D", "#252925", "#AF6934", "#A18B60", "#434238"]
 key_values: ["Cultural and ancestral pride", "mysticism", "spirituality", "connection with the Earth", "Black identity", "femininity and the divine feminine"]
 related_aesthetics: ["Afro-Punk", "Afrofuturism", "Art Hoe", "Black Dandyism", "Bohemian", "Boho-Chic", "Ethno-Chic", "Funk", "Hippie"]
 primary_platform: ["TikTok"]

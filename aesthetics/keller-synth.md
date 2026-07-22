@@ -5,6 +5,7 @@ aka: ["Tänzelcore (specific subgenre with heavier electronic influence)"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Woodcut wizards", "the \"Nose Thumb\" gesture", "Triskelion (three-legged sun)", "Amanita muscaria mushrooms", "medieval font", "deep-fried digital artifacts"]
 key_colours: ["Neon green", "black", "white", "other neon tones"]
+palette: ["#080636", "#6C616A", "#1579CC", "#FBF5F3", "#1F2123", "#363134"]
 key_values: ["Mischief", "obscurity", "aggression", "absurdity", "party culture"]
 related_aesthetics: ["Black Metal", "Deep Fried Meme", "Dungeon Synth", "Egg Punk", "Haunted Mound", "HexD", "Witch House", "Yabujincore"]
 primary_platform: ["TikTok", "Soundcloud", "RateYourMusic"]

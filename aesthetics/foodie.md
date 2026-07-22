@@ -6,6 +6,7 @@ key_motifs: ["Food presented in artistic and aesthetically-pleasing ways"]
 key_values: ["Enjoying great tasting and great looking food"]
 related_aesthetics: ["Animecore", "Café Aesthetic", "Candycore", "Honeycore", "Kidcore", "Grocery Girl Fall", "Hallyu", "Lovecore", "Peoplehood", "Picniccore", "Tropical", "Vacation Dadcore"]
 related_media: ["Food Wars", "Hell's Kitchen", "Master Chef", "Chopped", "Diners Drive-Ins and Dives", "24 Hours to Hell and Back"]
+palette: ["#958B75", "#5D341C", "#C4B494", "#37281F", "#6D5C47", "#8C623F"]
 source_url: "https://aesthetics.fandom.com/wiki/Foodie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

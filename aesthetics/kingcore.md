@@ -3,6 +3,7 @@ name: "Kingcore"
 slug: "kingcore"
 key_motifs: ["Control", "leadership", "war", "crowns", "royal lifestyle", "treachery", "tyrant"]
 key_colours: ["Gold", "royal blue", "black", "white", "purple", "red"]
+palette: ["#978978", "#2F2A2B", "#030203", "#4D4644", "#7D6C5D", "#B2AB9A"]
 key_values: ["Power", "money", "hedonism", "conquest", "status", "duty", "country", "intelligence", "skill"]
 related_aesthetics: ["Knightcore", "Princecore", "Princesscore", "Queencore", "Royalcore", "Lolita", "Fantasy", "New Romantic", "Fairycore", "Strega", "Forestpunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Kingcore"

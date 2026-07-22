@@ -5,6 +5,7 @@ aka: ["Yamikawa", "Sickly Cute"]
 decade_of_origin: "2010s"
 key_motifs: ["Medical iconography (pills, syringes, bandages, eye patches)", "self-harm/suicide tools (razors, nooses)", "negative or cynical text messages (\"Die!,\" \"Go to Hell\")", "cute animals and shoujo imagery with dark undertones"]
 key_colours: ["Black", "red", "pink", "purple", "lavender"]
+palette: ["#B091C0", "#C93FA6", "#371037", "#B9B5D1", "#6F3C67", "#D991A9"]
 key_values: ["Cute appearance but inner darkness", "cathartic expression", "challenging mental health taboos"]
 related_aesthetics: ["Jirai Kei", "Kuromicore", "Medicalcore", "Morute", "Pastel Goth", "PEEPS", "Traumacore", "Yume Kawaii"]
 related_media: ["Wrist-Cut Transformation Subculture✡Menhera"]

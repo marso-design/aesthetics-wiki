@@ -4,6 +4,7 @@ slug: "avant-basic"
 decade_of_origin: "2020s"
 key_motifs: ["Checkerboard", "wavy lines", "pastel patterns", "curved shapes"]
 key_colours: ["Pastel blues", "pinks", "greens", "oranges"]
+palette: ["#333833", "#868371", "#C4AC92", "#9B4D40", "#B1876C", "#C7C8BD"]
 key_values: ["Playfulness", "retro", "maximalism", "kitsch", "creativity"]
 related_aesthetics: ["Danish Pastel", "Dopamine", "Gen Z Maximalism", "Indie Kid", "Kidcore", "Maximalism", "Memphis Design", "Mid-Century Modern", "Neubrutalism", "Psychedelia", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Avant_Basic"

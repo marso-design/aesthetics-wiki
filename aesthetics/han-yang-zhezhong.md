@@ -5,6 +5,7 @@ aka: ["Han-Western Eclectic"]
 decade_of_origin: "2010s"
 key_motifs: ["Hanfu", "lace", "parasols", "Western accessories"]
 related_aesthetics: ["Lolita", "Guochao", "Zhonghua-feng Lolita", "Neo-Chinese Style", "Ming Dynasty", "Taisho Roman"]
+palette: ["#262B2A", "#4D4A3E", "#DFE0DC", "#B09F8E", "#B7B4A9", "#D0C7B6"]
 source_url: "https://aesthetics.fandom.com/wiki/Han-Yang_Zhezhong"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

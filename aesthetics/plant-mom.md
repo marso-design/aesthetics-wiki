@@ -5,6 +5,7 @@ aka: ["Plant Parent", "Plant Dad"]
 decade_of_origin: "2010s"
 key_motifs: ["Potted plants", "succulents", "watering cans", "sunlight", "terracotta", "macramé", "misting bottles"]
 key_colours: ["Green", "Earth Tones", "Mustard Yellow", "Terracotta", "White"]
+palette: ["#FFFFFF", "#2B3728", "#70736E", "#C1C4B9", "#635E56", "#AB9E89"]
 key_values: ["Nurturing", "patience", "environmentalism", "mindfulness", "growth"]
 related_aesthetics: ["Art Hoe", "Boho", "Cottagecore", "Grandmacore", "Granola", "Naturecore"]
 related_media: ["Instagram", "TikTok"]

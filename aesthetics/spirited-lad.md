@@ -5,6 +5,7 @@ aka: ["Jingshen Xiaohuo", "Jingshen Xiaomei"]
 decade_of_origin: "2010s"
 related_aesthetics: ["Shamate"]
 primary_platform: ["Douyin", "Kuaishou"]
+palette: ["#FFFFFF", "#101111", "#626253", "#9B8C77", "#D7CCC3", "#C6B5A9"]
 source_url: "https://aesthetics.fandom.com/wiki/Spirited_Lad"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -4,6 +4,7 @@ slug: "avant-apocalypse"
 decade_of_origin: "2020s"
 key_motifs: ["Deconstruction", "asymmetry", "layering", "neutral tones", "cut-outs", "unconventional silhouettes"]
 key_colours: ["Earth tones", "beige", "white", "grey"]
+palette: ["#8B8378", "#1E1D18", "#BAB3AE", "#746354", "#3B3329", "#5B5647"]
 key_values: ["Expression of freedom", "body-consciousness"]
 related_aesthetics: ["Cyber Grunge", "Fairy Grunge", "Plaguecore", "Post-Apocalyptic", "Soft Apocalypse", "Solarpunk", "Subversive Basics", "Y2K Futurism"]
 related_media: ["Dystopian films (e.g., Dune)", "Sci-fi"]

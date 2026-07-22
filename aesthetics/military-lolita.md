@@ -3,6 +3,7 @@ name: "Military Lolita"
 slug: "military-lolita"
 key_motifs: ["Structured jackets", "epaulettes", "gold buttons and braids", "medals and insignia", "pleated skirts", "military-style caps", "weaponry (as props)"]
 key_colours: ["Black", "navy", "deep green", "khaki", "burgundy"]
+palette: ["#181D22", "#838D8B", "#494F4E", "#787061", "#393533", "#FEFEFE"]
 key_values: ["Elegance", "discipline", "strength", "formality", "power"]
 related_aesthetics: ["Lolita", "Military Chic", "Nazi Chic", "Ouji"]
 source_url: "https://aesthetics.fandom.com/wiki/Military_Lolita"

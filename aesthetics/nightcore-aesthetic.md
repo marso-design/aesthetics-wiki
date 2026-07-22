@@ -4,6 +4,7 @@ slug: "nightcore-aesthetic"
 decade_of_origin: "2000s"
 key_motifs: ["Full moons (often oversized)", "2000s moe art style", "moonlight", "celestial bodies", "falling petals or feathers", "distressed or injured angels/vampires", "romantic and melancholic anime characters"]
 key_colours: ["Deep navy blue", "electric blue", "bright white", "violet"]
+palette: ["#1F1D38", "#1C3889", "#5073B1", "#909DC4", "#BDC8DF", "#F3F5F4"]
 key_values: ["Nostalgia", "romance", "melancholy", "purity", "digital fantasy"]
 related_aesthetics: ["Animecore", "Fantasy Astronomy", "Hands Up", "TechnoNeko2000"]
 primary_platform: ["YouTube (music video thumbnails)", "wallpaper websites", "imageboards"]

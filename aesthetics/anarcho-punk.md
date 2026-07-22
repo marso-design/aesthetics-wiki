@@ -6,6 +6,7 @@ key_motifs: ["DIY clothing (patches, studs, stencils)", "anarchy symbol (Ⓐ)", 
 key_values: ["Anarchism", "anti-authoritarianism", "anti-capitalism", "anti-war", "DIY ethos", "animal rights", "environmentalism"]
 related_aesthetics: ["Crustpunk", "Folk Punk", "Gutter Punk", "Punk", "Riot Grrrl"]
 primary_platform: ["Zines", "independent record labels", "protests", "squats"]
+palette: ["#010101", "#5C5C5C", "#989898", "#B1B1B1", "#818181", "#3E3E3E"]
 source_url: "https://aesthetics.fandom.com/wiki/Anarcho-Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

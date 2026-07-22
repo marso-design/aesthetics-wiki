@@ -3,6 +3,7 @@ name: "Otome"
 slug: "otome"
 decade_of_origin: "1970s"
 key_colours: ["earthy", "muted", "or vintage-inspired color palettes"]
+palette: ["#AB9283", "#816961", "#BBBCBD", "#ACABA6", "#838179", "#45433C"]
 related_aesthetics: ["Lolita", "Mori Kei", "Shabby Chic"]
 source_url: "https://aesthetics.fandom.com/wiki/Otome"
 license: "CC-BY-SA-4.0"

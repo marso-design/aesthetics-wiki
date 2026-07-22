@@ -4,6 +4,7 @@ slug: "balletcore"
 decade_of_origin: "2020s"
 key_motifs: ["Ballet-inspired fashion"]
 key_colours: ["Pink", "white", "black", "gray", "nude"]
+palette: ["#262423", "#615B51", "#A4A098", "#D4D0CE", "#7E7667", "#C8BCB9"]
 key_values: ["Femininity"]
 related_aesthetics: ["Ballet", "Coquette", "Cult Party Kei", "Dollcore", "Dollette", "French Girly", "Larme Kei", "Wishcore", "Wonyoungism"]
 source_url: "https://aesthetics.fandom.com/wiki/Balletcore"

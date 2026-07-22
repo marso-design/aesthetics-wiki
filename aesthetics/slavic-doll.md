@@ -5,6 +5,7 @@ aka: ["Russian Doll", "Doll Era", "Dollface", "Prada Effect"]
 decade_of_origin: "2000s (Initial Popularity)2020s (Resurgence)"
 key_motifs: ["High cheekbones", "almond-shaped eyes", "long blonde hair", "delicate features", "tall and slim physique", "aloof expression", "feminine clothing", "fur", "luxury brands"]
 key_colours: ["Muted tones", "black", "white", "beige"]
+palette: ["#020404", "#A79B90", "#BEB3A9", "#665A4F", "#302D29", "#7D736A"]
 key_values: ["Femininity", "beauty", "grace", "elegance", "aloofness"]
 related_aesthetics: ["Brazilian Bombshell", "Coquette", "Heroin Chic", "Waif", "Winter Bimbo", "Y2K"]
 source_url: "https://aesthetics.fandom.com/wiki/Slavic_Doll"

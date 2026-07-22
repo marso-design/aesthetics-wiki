@@ -5,6 +5,7 @@ aka: ["Cheeky Victorian Revival"]
 decade_of_origin: "Late 1980s"
 key_motifs: ["Vintage items", "vintage illustrations of animals and nature", "air balloons", "carnival and boardwalks", "mail art", "compasses", "binoculars"]
 key_colours: ["Brown", "muted colors. sepia"]
+palette: ["#27170F", "#FFFFFE", "#342D26", "#C0CAC8", "#C4B090", "#979686"]
 key_values: ["Vintage", "journey", "wonder", "exploration", "whimsical masculinity", "irony", "privileging of nature/ecology"]
 related_aesthetics: ["Adventure Pulp", "Art Nouveau", "Chinoiserie", "Dadaism", "Dieselpunk", "Gay Nineties Revival", "Hipness Purgatory", "Hipster", "Japonisme", "Orientalism", "Steampunk", "Utopian Scholastic", "Vintage"]
 related_media: ["Bioshock Infinite"]

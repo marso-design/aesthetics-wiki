@@ -5,6 +5,7 @@ aka: ["Fishermancore", "Sardinecore"]
 decade_of_origin: "2020s"
 key_motifs: ["Nautical themes", "cable-knit textures", "stripes", "marine life (sardines, lobsters, fish)", "fishing gear (nets, lines) reimagined"]
 key_colours: ["Navy blue", "red", "cream", "charcoal gray", "earthy tones (greens, beiges)", "bright rainwear colors"]
+palette: ["#B5C2C7", "#0F0E11", "#CEDADF", "#C3AF97", "#646365", "#282D3A"]
 key_values: ["Comfort", "practicality", "laid-back attitude", "connection to nature", "understated chic"]
 related_aesthetics: ["Coastal Grandmother", "Dark Nautical", "Eclectic Grandpa", "Nautical"]
 related_media: ["Jacques Cousteau documentaries", "The Life Aquatic with Steve Zissou (Wes Anderson film)", "The Lighthouse (2019 film)"]

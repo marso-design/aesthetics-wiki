@@ -5,6 +5,7 @@ aka: ["Dres", "Dresy"]
 decade_of_origin: "Late 1980s–1990s"
 key_motifs: ["Tracksuits", "bootleg sportswear", "sneakers", "shaved heads", "car culture (especially older BMWs)", "pit bull-type dogs"]
 key_colours: ["Varies by sportswear"]
+palette: ["#090708", "#322633", "#9E948F", "#B6AFAE", "#575050", "#D0CAC7"]
 key_values: ["Toughness", "materialism", "street credibility", "anti-intellectualism", "group loyalty"]
 related_aesthetics: ["Chav", "Disco Polo", "Gopnik", "Ultras", "Wixa"]
 source_url: "https://aesthetics.fandom.com/wiki/Dresiarz"

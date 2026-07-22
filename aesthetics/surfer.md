@@ -5,6 +5,7 @@ aka: ["Surf Culture"]
 decade_of_origin: "1950s (modern subculture)"
 key_motifs: ["Waves", "surfboards", "beaches", "palm trees", "sun", "Hawaiian flower prints", "tiki imagery", "vintage woodies", "ocean wildlife"]
 key_colours: ["Blue", "green", "white", "yellow", "earthy tones"]
+palette: ["#A58381", "#AF6548", "#C39A8D", "#6E4A34", "#E4CABE", "#CA8C6F"]
 key_values: ["Freedom", "connection to nature", "laid-back attitude", "dedication to sport", "community", "escapism"]
 related_aesthetics: ["Skater", "Summer", "Surf Crush", "Tiki", "Tropical", "Vacation Dadcore"]
 related_media: ["Gidget (1959 film)", "The Endless Summer (1966 film)", "The Beach Boys (music)"]

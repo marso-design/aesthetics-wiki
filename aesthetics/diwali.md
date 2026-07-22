@@ -5,6 +5,7 @@ aka: ["Deepavali", "Deepawali", "Divali", "Dewali", "दीपावली"]
 decade_of_origin: "AD 600s-1000s"
 key_motifs: ["Oil lamps", "fireworks", "rangoli floor art"]
 key_colours: ["Maroon", "gold", "red", "orange", "black"]
+palette: ["#F8CA13", "#460D25", "#1C0604", "#C38848", "#1F063A", "#86402B"]
 key_values: ["Dharma", "Hinduism", "harmony", "spirituality", "peace", "goodness", "knowledge", "good over evil"]
 source_url: "https://aesthetics.fandom.com/wiki/Diwali"
 license: "CC-BY-SA-4.0"

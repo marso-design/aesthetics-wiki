@@ -5,6 +5,7 @@ aka: ["Toothcore"]
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Loose teeth", "teeth as objects (jewelry, ritualistic patterns)", "the Tooth Fairy", "dental anxiety", "body horror", "morbid anatomy"]
 key_colours: ["Muted pinks and whites"]
+palette: ["#FFFFFF", "#D8C0B8", "#9D6962", "#A38D86", "#52483E", "#CCA79E"]
 key_values: ["Uncanniness", "surrealism", "fascination with the grotesque", "bodily autonomy", "coping with anxiety"]
 related_aesthetics: ["Goblincore", "Gurokawa", "Medicalcore", "Morute", "Weirdcore", "Dreamcore"]
 primary_platform: ["Tumblr"]

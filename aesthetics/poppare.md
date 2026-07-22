@@ -4,6 +4,7 @@ slug: "poppare"
 decade_of_origin: "1990s"
 key_motifs: ["A-line bob hairstyles", "Mod-inspired clothing", "heavy eyeliner", "star stickers under the eyes", "striped shirts"]
 key_colours: ["Black and white (Panda)", "bright pastels (Glitter)", "primary colors"]
+palette: ["#100C0A", "#75432E", "#372F24", "#887961", "#6E5D4A", "#D4BCA4"]
 key_values: ["Nostalgia", "Mod revival", "indie rock culture", "youthful melancholy"]
 related_aesthetics: ["Alternative", "Britpop", "Decora", "Emo", "Fairy Kei", "Indie", "Mod", "Nautical", "Twee"]
 source_url: "https://aesthetics.fandom.com/wiki/Poppare"

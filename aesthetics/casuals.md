@@ -5,6 +5,7 @@ aka: ["Dressers", "Perry Boys", "Trendies", "Scallies"]
 decade_of_origin: "Late 1970s-Early 1980s"
 key_motifs: ["Designer sportswear", "Italian designer brands", "European sportswear", "high-end casual wear", "smart attire"]
 key_colours: ["Varied", "emphasis on specific brand colours"]
+palette: ["#120E17", "#5D6566", "#A09E99", "#3C2C2D", "#8F847A", "#263546"]
 key_values: ["Exclusivity", "status", "regional identity", "football culture", "competitive dressing"]
 related_aesthetics: ["Blokecore", "Britpop", "Lad Culture", "Madchester", "Mod", "Paninaro", "Skinhead", "Ultras"]
 related_media: ["ID", "The Firm", "The Football Factory", "Green Street", "Casuals: The Story of the Legendary Terrace Fashion"]

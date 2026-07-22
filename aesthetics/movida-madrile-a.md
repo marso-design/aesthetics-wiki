@@ -5,6 +5,7 @@ aka: ["The Madrid Scene", "La Edad de Oro del Pop Español"]
 decade_of_origin: "Late 1970s"
 key_motifs: ["DIY fashion", "nightlife", "artistic experimentation", "transgression", "kitsch", "Catholic iconography (reappropriated)", "urban decay"]
 key_colours: ["Black", "red", "fuchsia", "electric blue", "and other bold", "high-contrast combinations"]
+palette: ["#141011", "#836470", "#3C3637", "#AE9691", "#753752", "#D9D0D0"]
 key_values: ["Freedom of expression", "hedonism", "creativity", "sexual liberation", "anti-fascism", "breaking taboos", "modernity"]
 related_aesthetics: ["Basque Radical Rock", "Camp", "Goth", "Movida Viguesa", "New Wave", "New Romantic", "Punk", "Post-Punk", "Quinqui (contrast)"]
 source_url: "https://aesthetics.fandom.com/wiki/Movida_Madrileña"

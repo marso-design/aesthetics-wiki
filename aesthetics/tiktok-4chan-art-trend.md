@@ -5,6 +5,7 @@ aka: ["Lottie Clone", "4chancore"]
 decade_of_origin: "Mid-2020s (peak 2023–2024)"
 key_motifs: ["Moe art style", "2000s imageboard iconography", "4-leaf clovers", "Adobe Flash-style animations", "CRT filters", "\"moot-tan\""]
 key_colours: ["Pastels", "specifically \"medical\" pink and mint green"]
+palette: ["#FFFFFF", "#643643", "#9B8183", "#E2B3A6", "#E4D2C5", "#96B5AB"]
 key_values: ["Anemoia (longing for an era not experienced)", "irony", "shock value", "chronically online toxicity"]
 related_aesthetics: ["2010s Meme Maximalism", "Animecore", "Clovercore", "Cutegore", "Femcel", "Incelcore", "Lolicore", "Moe"]
 primary_platform: ["TikTok"]

@@ -4,6 +4,7 @@ slug: "french-girly"
 decade_of_origin: "late 2010s"
 key_motifs: ["Vintage French architecture", "roses", "girly fashion"]
 key_colours: ["Pink", "beige", "white", "black"]
+palette: ["#FFFFFF", "#5D5047", "#A29C94", "#827E7D", "#BBB5A9", "#DBD7D1"]
 related_aesthetics: ["Balletcore", "Girly (Japanese)", "Larme Kei", "Pink Parisian", "Rococo", "Jirai Kei"]
 related_media: ["Emily in Paris"]
 source_url: "https://aesthetics.fandom.com/wiki/French_Girly"

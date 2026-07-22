@@ -4,6 +4,7 @@ slug: "teddy-boys"
 aka: ["Teds", "Teddies"]
 decade_of_origin: "1950s"
 key_colours: ["plain colors"]
+palette: ["#0C0C10", "#62606A", "#45454A", "#9F9EA6", "#BCBCBE", "#808180"]
 key_values: ["rebellion", "criminal behavior / violence"]
 related_aesthetics: ["Minet", "Mod", "New Romantic", "Popper", "Raggare", "Rude Boy", "Scuttlers", "Stilyagi", "Zazou"]
 source_url: "https://aesthetics.fandom.com/wiki/Teddy_Boys"

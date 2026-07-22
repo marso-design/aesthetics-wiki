@@ -5,6 +5,7 @@ aka: ["Kidult"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["1990s toys", "bright rainbows", "cartoon characters", "childhood nostalgia", "primary colors", "retro patterns"]
 key_colours: ["Bright primary colors", "rainbow palettes", "neon accents"]
+palette: ["#CBBFB7", "#32161F", "#464D47", "#C06A48", "#E5D8BE", "#A0633D"]
 key_values: ["Nostalgia", "childhood innocence", "playfulness", "reclaiming childhood", "comfort"]
 related_aesthetics: ["Alt Kid", "Arcadecore", "Babycore", "Cacareco Girl", "Candycore", "Clowncore", "Scene Tween", "Decora", "Dopamine Dressing", "Indie Kid", "Juminocore", "Nostalgiacore", "Photo Playground", "Sanriocore", "Scenecore", "Wacky Pomo", "Webcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Kidcore"

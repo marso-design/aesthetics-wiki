@@ -5,6 +5,7 @@ aka: ["Year 3000", "Meta Fashion", "Digital Clothing", "Aespacore (Fandom-Based)
 decade_of_origin: "2020s"
 key_motifs: ["Form-fitting \"second skin\" silhouettes", "metallic/chrome fabrics", "bug-eyed/ultra-slim sunglasses", "AI and avatar concepts", "intricate hardware details", "glitch effects", "digital prints"]
 key_colours: ["Metallic silver", "glossy black", "neon/fluorescent accents", "holographic iridescence"]
+palette: ["#10141F", "#818DB8", "#4B4E7A", "#2C2846", "#EBEDF8", "#B6AEB9"]
 key_values: ["Futurism", "dystopia", "digital identity", "post-human narratives", "sustainability", "technological integration", "anxieties surrounding AI"]
 related_aesthetics: ["Bubblegum Bling", "Cyberpunk", "Cybersigilism", "Metalheart", "Neo-Y2K", "Techwear", "Opium", "Y2K Futurism"]
 related_media: ["aespa (Music Group)", "XG (Music Group)", "Mugler (Fashion House)", "Dress to Impress (Video Game)"]

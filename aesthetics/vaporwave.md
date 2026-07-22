@@ -6,6 +6,7 @@ decade_of_origin: "Early 2010s"
 creators: ["James Ferraro", "Daniel Lopatin", "Ramona Xavier"]
 key_motifs: ["Hellenic statues", "1990s web design and CGI", "Japanese text", "glitch art", "palm trees", "obsolete technology (Windows 95, VHS)", "corporate logos"]
 key_colours: ["Pastel pink and cyan", "purple", "neon gradients"]
+palette: ["#203D5B", "#ECA2EC", "#588699", "#ADB2C2", "#58CECD", "#AAD6E6"]
 key_values: ["Nostalgia (often for a fabricated past)", "anti-capitalist critique (ambiguous)", "irony", "technological melancholy", "surrealism"]
 related_aesthetics: ["Cassette Futurism", "Classicism", "Cleancore", "Demoscene", "Glitch Art", "Italo Disco", "Liminal Space", "Lo-fi", "Memphis Design", "Memphis Lite", "Neoclassical PoMo", "PC Music", "Retrofuturism", "Seapunk", "Synthwave", "Webcore", "Old Web", "Utopian Scholastic", "Y2K Futurism"]
 subgenres: ["Barber Beats", "Dreampunk", "Future Funk", "Mallsoft", "Signalwave", "Slushwave", "Simpsonwave", "Spainwave", "Vaporgoth"]

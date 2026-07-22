@@ -4,6 +4,7 @@ slug: "minimal-wave"
 decade_of_origin: "Late 1970s (initial musical period); 2000s (term coinage and subsequent renewed interest)"
 key_motifs: ["Monochrome imagery", "geometric abstraction", "tape grain/noise", "oscilloscopes", "stark typography", "footage from vintage movies (social media uploads)"]
 key_colours: ["Black", "white", "grey"]
+palette: ["#000000", "#12191B", "#D2CCD0", "#F4EBF4", "#8D898A", "#4B4C4D"]
 key_values: ["Detachment", "existentialism", "DIY ethos", "anti-commercialism", "lo-fi authenticity", "nostalgia for cassette culture"]
 related_aesthetics: ["Constructivism", "DIY Punk", "Electroclash", "Electronic Body Music", "Goth", "Industrial", "Minimalism", "New Beat", "New Wave", "No Wave", "Post-Punk"]
 related_media: ["Minimal Wave Records"]

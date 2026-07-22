@@ -4,6 +4,7 @@ slug: "moe"
 decade_of_origin: "1990s-2000s"
 key_motifs: ["Oversized emotive eyes", "soft and rounded facial geometry", "chibi proportions", "kemonomimi", "maid dresses", "pastel or high-saturation hair"]
 key_colours: ["Pastels", "soft pinks", "lavenders", "and blues"]
+palette: ["#E8D2D4", "#A54442", "#C9B9B5", "#5E6A6A", "#CA8180", "#F8F9FB"]
 key_values: ["Cuteness. innocence. endearing vulnerability", "parasocial affection"]
 related_aesthetics: ["Animecore", "Cutecore", "Erokawa", "Itasha", "Kawaii", "Maid", "Magical Girl", "Neko", "Otaku", "Superflat", "Weeaboo", "Wota"]
 related_media: ["CGDCT (\"Cute Girls Doing Cute Things\") genre", "visual novels", "bishōjo games"]

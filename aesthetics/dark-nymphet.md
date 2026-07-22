@@ -5,6 +5,7 @@ aka: ["Dark American Lolita", "Dark Coquette", "Vamp Coquette"]
 decade_of_origin: "2010s"
 key_motifs: ["Youth", "adolescence", "gloominess", "beauty", "coping with trauma"]
 key_colours: ["Black", "red", "white", "grey"]
+palette: ["#A6A198", "#23110F", "#735448", "#372824", "#8A665C", "#988375"]
 related_aesthetics: ["Nymphet", "Waif", "Gothic Lolita", "Kinderwhore", "Coquette", "Dollette", "Morute", "Femme Fatale", "Succubus Chic"]
 related_media: ["Lolita (1997, 1962)"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Nymphet"

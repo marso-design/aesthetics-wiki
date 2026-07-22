@@ -4,6 +4,7 @@ slug: "tropicabana"
 decade_of_origin: "1990s"
 key_motifs: ["Sunsets", "floral patterns", "tropical imagery", "fruit", "beaches"]
 key_colours: ["Pink", "orange", "turquoise", "lime green", "yellow"]
+palette: ["#D2CFD3", "#929681", "#903241", "#EAECF0", "#C56F58", "#A4C0C5"]
 key_values: ["Outspokenness", "fun", "ambition", "creativity", "freedom", "environmental conservation"]
 related_aesthetics: ["Coconut Girl", "Curly Girly", "Flower Power", "Frutiger Aero", "Hippie", "Surf Crush", "Tiki", "Tweencore", "Tropical", "Tropicalcore", "Y2K"]
 subgenres: ["Tropicabana interior design"]

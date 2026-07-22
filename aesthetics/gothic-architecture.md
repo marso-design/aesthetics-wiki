@@ -5,6 +5,7 @@ aka: ["Opus Francigenum (original term)"]
 decade_of_origin: "Late 12th century"
 key_motifs: ["Pointed arches", "rib vaults", "flying buttresses", "large stained glass windows", "verticality", "elaborate tracery"]
 key_colours: ["The effect of light and stained glass was used", "encompassing a wide spectrum of colours within the interiors. Exterior stone often appeared in shades of gray and white."]
+palette: ["#A9BBCF", "#141211", "#6D7E8F", "#B8CDE3", "#2B2A29", "#534F4C"]
 key_values: ["Divine light", "vertical aspiration towards God", "structural innovation", "communal expression of faith and civic pride"]
 related_aesthetics: ["Gothic", "Italian Renaissance", "Manueline", "Medieval", "Modernisme", "Mudéjar", "Romanesque", "Southern French Gothic", "Spanish Golden Age", "Byzantine"]
 source_url: "https://aesthetics.fandom.com/wiki/Gothic_Architecture"

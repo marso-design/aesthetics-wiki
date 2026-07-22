@@ -4,6 +4,7 @@ slug: "nerd"
 decade_of_origin: "1950s"
 key_motifs: ["Prescribed glasses", "suspenders", "bowties", "high white socks", "long or short button-down shirts", "slacks", "braces", "dress shoes", "buck teeth", "an unfashionable sense"]
 key_colours: ["Any colors", "such as red", "green", "brown", "blue and grey particularly"]
+palette: ["#101111", "#FFFFFF", "#80917F", "#C9B593", "#4E5A56", "#D7D5C6"]
 key_values: ["Interests in the STEM field", "academic study life", "high-paying job success", "wealth", "professionalism", "maintaining the status quo", "social democracy/liberalism"]
 related_aesthetics: ["Cyberpunk", "Nerdcore", "Spacecore", "Steampunk", "Studyblr"]
 related_media: ["Doctor Who", "Star Trek", "Star Wars", "The IT Crowd", "Napoleon Dynamite", "The Outcasts (2017)"]

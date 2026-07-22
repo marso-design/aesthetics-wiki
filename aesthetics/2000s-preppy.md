@@ -5,6 +5,7 @@ aka: ["Girly Preppy", "Rich Girl", "Popular Girl", "Preppy Y2K", "Pretty Preppy"
 decade_of_origin: "2000s"
 key_motifs: ["Wealth", "popularity", "femininity", "elitism"]
 key_colours: ["Light and bright colors", "a lot of pink", "black and white"]
+palette: ["#5A3B2D", "#606059", "#1A1C18", "#7B998C", "#925D54", "#B6A992"]
 related_aesthetics: ["Barbiecore", "Basic Girl", "Boujee", "Bubblegum Bitch", "High School Dream", "Old Money", "Preppy", "Surfer", "Tweencore"]
 related_media: ["Clueless", "Gossip Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/2000s_Preppy"

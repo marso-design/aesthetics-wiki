@@ -4,6 +4,7 @@ slug: "horror"
 decade_of_origin: "Ancient folklore; Late 18th century (as a distinct literary genre)"
 key_motifs: ["Monsters", "death", "gore", "darkness", "psychological distress", "the unknown", "the uncanny", "body horror", "masks"]
 key_colours: ["Varies by subgenre; commonly uses high contrast", "deep shadows (black)", "blood red", "and unsettling palettes"]
+palette: ["#212924", "#080809", "#8D8366", "#E40607", "#B8C8A0", "#850B0E"]
 key_values: ["Exploration of fear", "mortality", "the unknown", "societal anxieties", "transgression of norms"]
 related_aesthetics: ["Analog Horror", "B-Movie Horror", "Body Horror", "Catholic Horror", "Cosmic Horror", "Digital Horror", "Folk Horror", "Gorecore", "Gothic", "Gurokawa", "Halloween", "Horrorcore", "Horror Punk", "Psychobilly", "Traumacore", "Vampire", "Werewolf"]
 related_media: ["Dracula", "the works of H.P. Lovecraft and Edgar Allan Poe", "The Exorcist", "Halloween (film series)", "The Shining", "Silent Hill (video game series)", "Creepypasta"]

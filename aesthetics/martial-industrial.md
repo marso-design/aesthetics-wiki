@@ -5,6 +5,7 @@ aka: ["Military Pop"]
 decade_of_origin: "1980s"
 key_motifs: ["War", "totalitarianism", "military parades", "European history", "historical speeches", "propaganda art", "esoteric symbolism"]
 key_colours: ["Black", "grey", "olive drab", "red", "earth tones"]
+palette: ["#9E968D", "#0F0F0C", "#852224", "#44453F", "#20261C", "#737577"]
 key_values: ["Order", "discipline", "tradition", "anti-egalitarianism", "historical reverence", "hierarchy"]
 related_aesthetics: ["Dungeon Synth", "Industrial", "Neofolk", "Neue Slowenische Kunst"]
 source_url: "https://aesthetics.fandom.com/wiki/Martial_Industrial"

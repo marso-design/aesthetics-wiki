@@ -5,6 +5,7 @@ aka: ["UKG", "2-step"]
 decade_of_origin: "1990s"
 key_motifs: ["Italian designer labels", "all-over prints", "champagne", "Reebok Classics", "pirate radio"]
 key_colours: ["Varies", "often bold and flashy prints with gold and silver accents"]
+palette: ["#030307", "#515A5E", "#926B56", "#432F29", "#232223", "#862F26"]
 key_values: ["Aspiration", "glamour", "hedonism", "multiculturalism", "smoothness"]
 related_aesthetics: ["Britpop", "Casuals", "Rave", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/UK_Garage"

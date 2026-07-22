@@ -4,6 +4,7 @@ slug: "denpa"
 decade_of_origin: "1990s"
 key_motifs: ["Juxtaposition of mundane environments with psychological distortion", "technology as a source of alienation or external influence", "urban isolation (e.g., rooftops, empty streets)", "distorted sensory experiences (dreams, hallucinations, static)", "tangled wires and utility poles", "high-contrast shadows"]
 key_colours: ["Varies; often deep blue", "black", "static grey", "or deceptively bright pastels"]
+palette: ["#1E547C", "#4D151D", "#152327", "#859BAF", "#721E24", "#1D2B5F"]
 key_values: ["Themes of social withdrawal (often depicted as a response to societal anxieties)", "distorted perception of reality (derealization)", "exploration of mental instability", "preoccupation with delusion", "existential questioning of reality and identity", "analyzing the appeal of superficial fantasy worlds"]
 related_aesthetics: ["Akibapop", "Corporate Grunge", "Cyberpunk", "Divine Machinery", "Otaku", "Surrealism"]
 related_media: ["Subarashiki Hibi", "CROSS†CHANNEL", "Saya no Uta", "Shizuku", "Serial Experiments Lain", "Neon Genesis Evangelion", "Paranoia Agent", "Welcome to the NHK", "Cure", "August in the Water", "All About Lily Chou-Chou", "NEEDY STREAMER OVERLOAD"]

@@ -5,6 +5,7 @@ aka: ["Hipster Goth"]
 decade_of_origin: "2010s"
 key_motifs: ["Occult and alchemical symbols", "moons", "triangles", "wide-brimmed hats", "harnesses", "platform boots", "round sunglasses"]
 key_colours: ["Monochromatic (black, white, grey)"]
+palette: ["#636968", "#080808", "#908687", "#212225", "#9BA2A1", "#37363A"]
 key_values: ["Modernism", "minimalism", "occultism", "internet culture", "fashion-forwardness"]
 related_aesthetics: ["Goth", "Health Goth", "Hipster", "Pastel Goth", "Trad Goth", "Witch House"]
 primary_platform: ["Tumblr", "Instagram"]

@@ -5,6 +5,7 @@ aka: ["Internet Art", "Telematic Art"]
 decade_of_origin: "1990s"
 key_motifs: ["Web browsers", "HTML code", "hyperlinks", "glitches", "online forms", "early website aesthetics", "social networking", "digital data"]
 key_colours: ["The basic color schemes of early websites (primarily)"]
+palette: ["#545454", "#030303", "#313131", "#1E4C1F", "#141A14", "#888888"]
 key_values: ["Connectivity", "interactivity", "immateriality", "challenging traditional art structures", "exploring the internet as a medium and subject"]
 related_aesthetics: ["Cyberpunk", "Demoscene", "Glitch Art", "Hacker", "New Media Art", "Old Web", "Programmer Art", "Weirdcore", "Xpiritualism"]
 source_url: "https://aesthetics.fandom.com/wiki/Net.art"

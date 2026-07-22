@@ -4,6 +4,7 @@ slug: "gibson-girl"
 decade_of_origin: "1890s"
 key_motifs: ["S-bend corset silhouette", "pompadour/bouffant hairstyle", "shirtwaists", "long skirts", "large hats"]
 key_colours: ["Primarily black and white (as per the illustrations)"]
+palette: ["#323232", "#5C514B", "#1F1C1C", "#98918C", "#C9C8C6", "#EEE4D3"]
 key_values: ["Independence", "confidence", "athleticism", "femininity", "sophistication", "an idealized modernity"]
 related_aesthetics: ["Art Nouveau", "Edwardian"]
 primary_platform: ["Magazines (e.g., Life, Collier's Weekly)"]

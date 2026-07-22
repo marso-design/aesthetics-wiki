@@ -4,6 +4,7 @@ slug: "girl-crush"
 decade_of_origin: "Early 1990s (initial elements)Late 2000s (formalization)"
 key_motifs: ["Strong female stage presence", "powerful choreography", "assertive lyrics", "mature themes", "unconventional styling", "hoydenish/androgynous elements"]
 key_colours: ["Dark tones", "black", "red", "silver", "neon accents"]
+palette: ["#1B1B1E", "#D9D9D9", "#3F3541", "#CBC2BA", "#786667", "#EFEDE9"]
 key_values: ["Confidence", "female empowerment", "independence", "charisma", "boldness", "subversion of traditional gender roles"]
 related_aesthetics: ["Rebels", "Cyber Grunge", "Hallyu", "Hip-Hop", "Punk", "Rave", "Techwear", "Avant Apocalypse", "Tomboy", "Urbancore"]
 related_media: ["Music videos by groups like 2NE1", "BLACKPINK", "EVERGLOW", "(G)I-DLE", "MAMAMOO"]

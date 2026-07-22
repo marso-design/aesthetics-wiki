@@ -5,6 +5,7 @@ aka: ["Starflesh"]
 decade_of_origin: "Early 2010s"
 key_motifs: ["Animals", "teeth", "claws", "ice", "eyes", "flesh", "blood", "water", "scales", "mermaids/sirens", "fish", "glass", "body horror"]
 key_colours: ["White", "icy blues", "red", "iridescent-colors", "black", "mint", "light/dark green"]
+palette: ["#757780", "#A1A8AC", "#848F9A", "#394448", "#FFFFFF", "#D4DADE"]
 key_values: ["Emptiness", "coldness", "surreality", "horror", "uncanniness", "calmness", "and/or rage"]
 related_aesthetics: ["Icepunk", "Horror", "Mochette", "Bastardcore", "Fairy Grunge", "Dark Fantasy", "Winter Aesthetic", "Fantasy", "Meatcore", "Weirdcore", "Dreamcore"]
 primary_platform: ["Tumblr", "TikTok"]

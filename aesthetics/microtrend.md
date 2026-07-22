@@ -1,6 +1,7 @@
 ---
 name: "Microtrend"
 slug: "microtrend"
+palette: ["#FFFFFF", "#A6A89B", "#5E5446", "#3B3327", "#EDE183", "#9C877B"]
 source_url: "https://aesthetics.fandom.com/wiki/Microtrend"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

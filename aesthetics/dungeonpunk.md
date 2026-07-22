@@ -6,6 +6,7 @@ decade_of_origin: "1990s"
 key_motifs: ["Magitek (magic as technology)", "industrialized magic", "noir themes", "urban decay in a fantasy setting", "social inequality", "anti-heroes"]
 key_values: ["Cynicism", "pragmatism", "survival", "social commentary"]
 related_aesthetics: ["Cyberpunk", "Dark Fantasy", "Dieselpunk", "Fantasy", "Steampunk"]
+palette: ["#A18739", "#4A3519", "#6A471D", "#CCBA69", "#8E6F2F", "#BDA74E"]
 source_url: "https://aesthetics.fandom.com/wiki/Dungeonpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

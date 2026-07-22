@@ -5,6 +5,7 @@ aka: ["1980s Country-Victorian-Folk Americana Style", "Country/Victorian Romanti
 decade_of_origin: "Late 1970s"
 key_motifs: ["Holding onto country life whilst elsewhere", "femininity", "comfort", "coziness"]
 key_colours: ["Pastels"]
+palette: ["#6B7291", "#987566", "#70514D", "#35313D", "#A9B6C8", "#9099AA"]
 related_aesthetics: ["Americana", "Barbiecore", "Coquette", "Cottagecore", "Country", "Danish Pastel", "Morute", "Shabby Chic"]
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Countriana"
 license: "CC-BY-SA-4.0"

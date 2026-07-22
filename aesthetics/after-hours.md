@@ -5,6 +5,7 @@ aka: ["Kenopsia"]
 decade_of_origin: "2010s"
 key_motifs: ["Darkness", "emptiness", "familiarity", "tranquility", "melancholy"]
 key_colours: ["Darker colors due to shadows", "Gold", "Yellow"]
+palette: ["#060707", "#1F3139", "#191918", "#4F5149", "#726E5E", "#4B3829"]
 related_aesthetics: ["City Pop", "Doomer", "Ethereal", "Film Noir", "Industrial Decay", "Liminal Space", "Lo-Fi", "Mallsoft", "Post-Apocalyptic", "Seapunk", "Synthwave", "Urbancore", "Vaporwave"]
 related_media: ["No Players Online"]
 source_url: "https://aesthetics.fandom.com/wiki/After_Hours"

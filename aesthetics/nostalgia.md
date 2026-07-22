@@ -1,6 +1,7 @@
 ---
 name: "Nostalgia"
 slug: "nostalgia"
+palette: ["#3F3C3C", "#FFFFFF", "#140D0F", "#292829", "#B87689", "#A83765"]
 source_url: "https://aesthetics.fandom.com/wiki/Nostalgia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

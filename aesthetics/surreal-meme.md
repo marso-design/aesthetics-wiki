@@ -4,6 +4,7 @@ slug: "surreal-meme"
 decade_of_origin: "2010s"
 key_motifs: ["Crude 3D renders", "gradients", "stock photography", "serif fonts", "celestial backgrounds", "glitch effects", "specific recurring characters (Meme Man, Orang)"]
 key_colours: ["Gradient orange", "void black", "deep blue", "digital green"]
+palette: ["#212F4D", "#45E6F4", "#FFFFFF", "#CED3D6", "#C08A77", "#785A54"]
 key_values: ["Absurdity", "irony", "confusion", "anti-humor", "rejection of narrative"]
 related_aesthetics: ["Arabfunny", "Deep Fried Meme", "Heart Emoji Meme", "MLG", "Weirdcore", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Surreal_Meme"

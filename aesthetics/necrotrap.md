@@ -4,6 +4,7 @@ slug: "necrotrap"
 decade_of_origin: "2020s"
 key_motifs: ["Militant and warfare imagery", "horror and slasher film elements", "gore and body horror", "occult imagery", "hacking and cyberwarfare visuals", "deliberately degraded image processing", "clay figures (legacy)"]
 key_colours: ["Dark tones"]
+palette: ["#2C2E3A", "#050312", "#4C434B", "#877075", "#B5ACB7", "#4D2626"]
 key_values: ["Aggression", "animalistic intensity", "controlled distortion", "world-building", "shock value"]
 related_aesthetics: ["Analog Horror", "Horrorcore", "Industrial", "Trap Metal", "Warcore"]
 primary_platform: ["SoundCloud", "Discord"]

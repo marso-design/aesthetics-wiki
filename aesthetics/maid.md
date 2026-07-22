@@ -4,6 +4,7 @@ slug: "maid"
 decade_of_origin: "2000s"
 key_motifs: ["Maid dresses", "aprons", "frilly/laced clothing", "feather dusters", "thigh-high socks"]
 key_colours: ["Pastels and contrasts like black and white", "pink and blue"]
+palette: ["#1F1917", "#E0D1C9", "#9D7C6A", "#D3BEB2", "#3D3C3D", "#AD9E93"]
 key_values: ["Cuteness", "service", "playfulness", "elegance", "kawaii culture"]
 related_aesthetics: ["Animecore", "Bondage", "Erokawa", "Femboy", "Jersey Maid", "Kawaii", "Kawaii Gamer", "Maidcore", "Tacticool", "Weeaboo"]
 source_url: "https://aesthetics.fandom.com/wiki/Maid"

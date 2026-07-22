@@ -5,6 +5,7 @@ aka: ["Nordic Design", "Scandinavian Modern"]
 decade_of_origin: "1950s (popularization)"
 key_motifs: ["Clean lines", "organic forms", "natural light"]
 key_colours: ["Pale colors", "earth tones"]
+palette: ["#BFB5AB", "#1A191A", "#82A7BC", "#A59584", "#333232", "#686B69"]
 key_values: ["Functionality", "simplicity", "natural materials"]
 related_aesthetics: ["Art Deco", "Art Nouveau", "Arts and Crafts Movement", "Bauhaus", "Clean Girl", "Coastal Style", "Hygge", "Japandi", "Mid-Century Modern", "Minimalism", "Modernism", "Scandi Girl Winter", "Technozen"]
 source_url: "https://aesthetics.fandom.com/wiki/Scandinavian_Design"

@@ -4,6 +4,7 @@ slug: "gorpcore"
 decade_of_origin: "2010s"
 key_motifs: ["Utilitarianism", "layering", "technical fabrics", "earthy and muted color palettes", "comfort", "durability", "logos of outdoor brands"]
 key_colours: ["Earthy tones (brown, green, grey, khaki)", "black", "white", "with occasional bright pops (orange, yellow, blue, red)"]
+palette: ["#8E9396", "#0A0D10", "#525A58", "#C6BEAE", "#2E3132", "#4F403F"]
 key_values: ["Functionality", "practicality", "comfort", "durability", "preparedness", "appreciation for nature (aestheticized)"]
 related_aesthetics: ["Cabincore", "Granola", "Health Goth", "Lad Culture", "Naarmcore", "Normcore", "Techwear", "Ultras"]
 source_url: "https://aesthetics.fandom.com/wiki/Gorpcore"

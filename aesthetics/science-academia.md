@@ -5,6 +5,7 @@ aka: ["Scientific Academia", "STEM Academia"]
 decade_of_origin: "2020s"
 key_motifs: ["Lab coats", "science diagrams", "microscopes", "chalk boards", "universities", "museums", "laboratories", "scientific specimens"]
 key_colours: ["Neutral tones", "earthy tones", "midnight blue", "forest green", "dark red"]
+palette: ["#8A8784", "#5A5855", "#1C1712", "#78736E", "#9F9F9F", "#4C4136"]
 key_values: ["Rigor", "precision", "curiosity", "learning", "discovery"]
 related_aesthetics: ["Chaotic Academia", "Dark Academia", "Light Academia", "Green Academia", "Spacecore", "Medicalcore", "Mad Scientist", "Studyblr", "Utopian Scholastic"]
 related_media: ["A Brief History of Time", "Mind Hunters", "The Big Bang Theory", "Dr. Jekyll and Mr. Hyde", "The SCP Foundation"]

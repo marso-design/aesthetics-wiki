@@ -5,6 +5,7 @@ aka: ["Art hors-les-normes", "art en marge", "art cru", "création franche"]
 decade_of_origin: "1970s"
 key_motifs: ["Spontaneity", "personal expression", "non-academic techniques", "diverse styles", "exploration of individual realities", "rejection of intellectualism"]
 key_colours: ["Bright colors"]
+palette: ["#398CA0", "#921823", "#2A6983", "#3A2138", "#54A9B5", "#5FC1D8"]
 key_values: ["Individual creativity", "freedom from artistic norms", "authenticity", "personal vision", "emotional expression", "intuitive creation"]
 related_aesthetics: ["Art Brut", "Cubism", "Lowbrow", "Superflat", "Surrealism"]
 source_url: "https://aesthetics.fandom.com/wiki/Art_Singulier"

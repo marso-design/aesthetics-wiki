@@ -5,6 +5,7 @@ aka: ["Boho Goth", "Bohemian Goth", "Gypsy Goth"]
 decade_of_origin: "1980s"
 key_motifs: ["Stars", "moons", "sunbursts", "lace", "Celtic symbols", "tie dye", "botanical patterns"]
 key_colours: ["Black", "brown", "forest green", "deep purple", "burgundy"]
+palette: ["#373027", "#584A3E", "#AEA18A", "#110E0D", "#FFFFFF", "#6B6958"]
 key_values: ["Balance of life and death", "environmentalism", "individualism", "dark romanticism", "mysticism and spirituality"]
 related_aesthetics: ["Goth", "Whimsigothic", "Gothabilly", "Hippie", "Bohemian", "Psychedelia", "Groovival", "Nu-Goth", "Fairy Grunge"]
 source_url: "https://aesthetics.fandom.com/wiki/Hippie_Goth"

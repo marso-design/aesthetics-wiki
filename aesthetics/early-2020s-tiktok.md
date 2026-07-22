@@ -1,6 +1,7 @@
 ---
 name: "Early 2020s TikTok"
 slug: "early-2020s-tiktok"
+palette: ["#705542", "#2E252E", "#4B4655", "#96734F", "#CDBAA2", "#9C5647"]
 source_url: "https://aesthetics.fandom.com/wiki/Early_2020s_TikTok"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

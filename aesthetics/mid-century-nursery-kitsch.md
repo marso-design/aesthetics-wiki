@@ -5,6 +5,7 @@ aka: ["Rushton-Style Toys", "Rubber-Face Kitsch", "Vintage Nursery", "Soft Zoo K
 decade_of_origin: "1950s"
 key_motifs: ["Rubber-faced plush animals", "ceramic animal figurines and planters", "anthropomorphized animals with infant-like features", "pastel gift wrapping and greeting card illustration", "bow and ribbon detailing", "rosy airbrushed cheeks"]
 key_colours: ["Baby pink", "powder blue", "butter yellow", "mint green", "cream", "white"]
+palette: ["#878E94", "#A68E80", "#A0726B", "#D4D0ED", "#685E5E", "#C7A7A1"]
 related_aesthetics: ["American Kitsch", "Babycore", "Delicate Sweet", "Kawaii", "Morute"]
 source_url: "https://aesthetics.fandom.com/wiki/Mid-Century_Nursery_Kitsch"
 license: "CC-BY-SA-4.0"

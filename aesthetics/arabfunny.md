@@ -4,6 +4,7 @@ slug: "arabfunny"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Arabic text", "random viral videos", "red clickbait circles and arrows", "Peter Griffin", "low quality .JPEG compression", "Arabic music/ringtones", "emojis", "loud sirens", "low quality 3D animations", "\"FREE DOWNLOAD\" buttons"]
 key_colours: ["Red", "green", "white", "black (Pan-Arab colors)", "neon green"]
+palette: ["#FFFFFF", "#627779", "#0C132B", "#3F3A37", "#B2BFAE", "#B47368"]
 key_values: ["Irony", "satire", "sensory overload", "absurdism", "\"shitposting\""]
 related_aesthetics: ["Deep Fried Meme", "Major League Gaming", "Surreal Meme", "Weirdcore", "Yabujincore"]
 primary_platform: ["Reddit (r/arabfunny)", "Instagram", "YouTube"]

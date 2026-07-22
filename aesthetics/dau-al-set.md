@@ -4,6 +4,7 @@ slug: "dau-al-set"
 decade_of_origin: "c. 1948–1951"
 key_motifs: ["Surrealist imagery", "fantastic creatures", "mythological figures", "symbolism", "magic", "dreamlike landscapes", "automatism", "the irrational"]
 key_colours: ["Varies by artist", "often dark and earthy palettes"]
+palette: ["#2B2E2C", "#181612", "#464946", "#676862", "#918A7D", "#DBE4E5"]
 key_values: ["Avant-gardism", "artistic freedom", "anti-Francoism", "Catalan cultural revival", "philosophical exploration", "mysticism"]
 related_aesthetics: ["Art Informel", "Dadaism", "Magic Realism", "Surrealism"]
 primary_platform: ["Dau al Set (magazine)"]

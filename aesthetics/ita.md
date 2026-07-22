@@ -5,6 +5,7 @@ aka: ["Itasha (Cars)", "Itansha (Motorbikes)", "Itachari", "(Bicycles)", "Itabas
 decade_of_origin: "2000s"
 key_motifs: ["Anime and video game characters", "bright colors", "Japanese text", "patterns inspired by fictional characters"]
 key_colours: ["Bright colours"]
+palette: ["#0A0A12", "#516071", "#1B2F48", "#8B6561", "#9E918A", "#6B8795"]
 key_values: ["Cringe", "\"pain\"", "expressing support for your fandom"]
 related_aesthetics: ["Animecore", "Cyberpunk", "Racing", "Sextrance", "Weeaboo", "Wota"]
 source_url: "https://aesthetics.fandom.com/wiki/Ita"

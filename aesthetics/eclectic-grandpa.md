@@ -5,6 +5,7 @@ aka: ["Grandpacore"]
 decade_of_origin: "2020s"
 key_motifs: ["Oversized topcoats", "cardigans", "high-waisted trousers", "sensible footwear"]
 key_colours: ["Neutral tones", "earthy colours"]
+palette: ["#8C9397", "#1A191D", "#2F343A", "#BABABF", "#D8D3D2", "#B4A096"]
 key_values: ["Comfort", "practicality", "individuality", "confidence"]
 related_aesthetics: ["Avant-garde", "Blokecore", "Coastal Grandmother", "Dark Academia", "Grandparentcore", "Normcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Eclectic_Grandpa"

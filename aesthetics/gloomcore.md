@@ -3,6 +3,7 @@ name: "Gloomcore"
 slug: "gloomcore"
 key_motifs: ["Dull", "clouded backgrounds; forests; seashores; rain", "mist and fog; dilapidated structures."]
 key_colours: ["Muted shades of green", "brown", "and grey."]
+palette: ["#0F181D", "#5B686B", "#99A4B1", "#6F7F86", "#3A4C50", "#C7CBD1"]
 key_values: ["Peace; liminality; enjoyment of solitude; love for all things mysterious and dark."]
 related_aesthetics: ["Changelingcore", "Cottagegore", "Crowcore", "Cryptidcore", "Dark Naturalism", "Dreamcore", "Goblincore", "Liminal Space", "Vulture Culture"]
 source_url: "https://aesthetics.fandom.com/wiki/Gloomcore"

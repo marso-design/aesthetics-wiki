@@ -4,6 +4,7 @@ slug: "cyberpunk"
 decade_of_origin: "1980s"
 key_motifs: ["Neon-lit cityscapes", "cybernetics and prosthetics", "rain-slicked streets", "towering megastructures", "computer terminals", "hackers", "holograms", "Japanese kanji", "tactical gear", "wires and cables"]
 key_colours: ["Black", "neon blue", "neon pink", "neon purple", "silver", "chrome"]
+palette: ["#203A50", "#020107", "#3E5B70", "#251C25", "#071B31", "#573F3F"]
 key_values: ["High-Tech/Low-Life", "anti-authoritarianism", "transhumanism", "skepticism of corporate power", "digital dystopia"]
 related_aesthetics: ["90s Cool", "Abstract Tech", "Berlin Techno Fashion", "Biopunk", "Brutalism", "Cassette Futurism", "Cyberdelia", "Cyber Ghetto", "Cyberpop", "Cyberprep", "Cybertwee", "Dreampunk", "Early Cyber", "Electronic Body Music", "Glitch Art", "Hexatron", "Neo-Tokyo", "Neon Noir", "PC-98", "Retrofuturism", "Rivethead", "Synthwave", "Steampunk", "Techwear", "Vaporwave", "Vectorheart", "Y2K Futurism"]
 related_media: ["Neuromancer", "Blade Runner", "Akira", "Ghost in the Shell", "The Matrix", "Johnny Mnemonic", "Cyberpunk 2077", "Deus Ex", "Shadowrun"]

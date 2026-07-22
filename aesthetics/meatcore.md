@@ -4,6 +4,7 @@ slug: "meatcore"
 aka: ["Fleshcore"]
 key_motifs: ["Raw meat and flesh", "organs", "blood", "bone", "body horror."]
 key_colours: ["Red", "reddish white", "pink"]
+palette: ["#FFFFFF", "#D07E82", "#270F12", "#942B29", "#B1484C", "#947B77"]
 key_values: ["Discordance", "Discomfort", "Disgust", "and in some cases", "Feminism and Body Positivity"]
 related_aesthetics: ["Gorecore", "Devilcore", "Weirdcore", "Starrflesh", "Teethcore", "Cannibalcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Meatcore"

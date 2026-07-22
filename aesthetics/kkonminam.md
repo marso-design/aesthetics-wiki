@@ -5,6 +5,7 @@ aka: ["Flower Boy"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Smooth", "fair skin", "meticulous grooming and styling", "slim or boyish features", "use of cosmetics (foundation, eyeliner)", "preppy and cruise-like outfits", "floral/feminine prints", "blended masculinity"]
 key_colours: ["Pastels", "white", "soft tones"]
+palette: ["#E2AFDF", "#E3C48F", "#E6E4CD", "#AF7875", "#CFA2BD", "#F8F8F6"]
 key_values: ["Aesthetic perfection", "emotional sensitivity", "politeness", "challenging the patriarchy"]
 related_aesthetics: ["Hallyu", "Ulzzang", "Metrosexual (Western equivalent)", "Soft Boy"]
 related_media: ["Boys Over Flowers (K-Drama)", "The City of the Rising Sun (Film)"]

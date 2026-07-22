@@ -7,6 +7,7 @@ key_motifs: ["Gradient lips", "straight eyebrows", "puppy dog eyeliner", "aegyo-
 key_values: ["Cuteness", "innocence", "natural beauty (curated)", "online popularity"]
 related_aesthetics: ["Baddie", "E-Girl", "Hallyu", "Kawaii", "Soft Girl", "Wonyoungism"]
 primary_platform: ["Cyworld (originally)", "Instagram"]
+palette: ["#C3B0A1", "#130F0E", "#776B5F", "#54483C", "#3F342C", "#DFCCBC"]
 source_url: "https://aesthetics.fandom.com/wiki/Ulzzang"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

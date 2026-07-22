@@ -4,6 +4,7 @@ slug: "japandi"
 decade_of_origin: "2010s"
 key_motifs: ["Natural materials", "wood", "bamboo", "asymmetry", "imperfection"]
 key_colours: ["White", "grey", "green", "beige", "brown", "muted blue"]
+palette: ["#C8C1B7", "#A79B8B", "#988A77", "#3B2A1A", "#7F715E", "#5F503E"]
 key_values: ["Hygge and Wabi-Sabi philosophy", "functionality", "simplicity", "sustainability"]
 related_aesthetics: ["Hygge", "Maillard Style", "Minimalism", "Modernism", "Rustic", "Scandinavian Design", "Technozen", "Wabi-Sabi"]
 source_url: "https://aesthetics.fandom.com/wiki/Japandi"

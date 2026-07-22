@@ -5,6 +5,7 @@ aka: ["Safetycore", "Hygienicore", "Safety Goth", "Showercore", "Antibacterial"]
 decade_of_origin: "2010s"
 key_motifs: ["Clean objects", "sanitizing items", "recently cleaned places", "cleaning sprays", "soaps", "shampoo", "conditioner", "body wash", "sponges", "sterile environments", "laundry pods", "clean water", "hygiene products aimed at children", "bath toys", "rubber ducks", "bubbles", "pajamas", "robes"]
 key_colours: ["Pale blue", "white", "teal", "mint green", "pastels", "vibrant colors"]
+palette: ["#0297B6", "#97BEE0", "#6597CF", "#869FC2", "#1D5289", "#B6C8CB"]
 key_values: ["Cleanliness", "hygiene", "anxiety", "nostalgia"]
 related_aesthetics: ["Babycore", "Frutiger Aero", "Icepunk", "Kawaii", "Kidcore", "Minimalism", "Poolcore", "Vacation Dadcore", "Vaporwave", "Zen Tranquility"]
 source_url: "https://aesthetics.fandom.com/wiki/Cleancore"

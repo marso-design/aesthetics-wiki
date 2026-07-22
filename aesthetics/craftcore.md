@@ -4,6 +4,7 @@ slug: "craftcore"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Patchwork", "quilting", "crochet", "chunky knits", "embroidery", "beading", "macramé", "tie-dye"]
 key_colours: ["Varies widely", "often vibrant and eclectic", "but can also be natural and earthy"]
+palette: ["#191915", "#764340", "#6D7B82", "#A7A599", "#DAD6D1", "#B78270"]
 key_values: ["Authenticity", "sustainability", "individuality", "nostalgia", "mindfulness", "DIY ethos"]
 related_aesthetics: ["Boho-Chic", "Cottagecore", "Grandmacore", "Pearlcore", "Whimsicraft"]
 source_url: "https://aesthetics.fandom.com/wiki/Craftcore"

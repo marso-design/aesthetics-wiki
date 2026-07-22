@@ -4,6 +4,7 @@ slug: "stargirl"
 decade_of_origin: "2020s"
 key_motifs: ["Y2K and Cyber Grunge motifs", "luxury", "stars", "glitter"]
 key_colours: ["Grey", "gold", "red", "black"]
+palette: ["#FFFFFF", "#DCD5CC", "#110C0D", "#B6B3AB", "#5B5956", "#403A39"]
 key_values: ["Luxury", "celebrity status"]
 related_aesthetics: ["Y2K", "Cyber Grunge", "Krushclub", "Rockstar GF", "XO"]
 source_url: "https://aesthetics.fandom.com/wiki/Stargirl"

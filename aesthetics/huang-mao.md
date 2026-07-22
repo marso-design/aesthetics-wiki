@@ -3,6 +3,7 @@ name: "Huang-mao"
 slug: "huang-mao"
 aka: ["Huang-mao"]
 related_aesthetics: ["Shamate", "Ah Beng"]
+palette: ["#1C1D20", "#857363", "#606F65", "#A7B2AA", "#3B3531", "#EFEEEF"]
 source_url: "https://aesthetics.fandom.com/wiki/Huang-mao"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

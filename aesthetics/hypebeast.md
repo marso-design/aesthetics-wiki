@@ -7,6 +7,7 @@ key_motifs: ["Prominent brand logos", "limited-edition sneakers", "graphic print
 key_values: ["Exclusivity", "brand consciousness", "social status", "trend-following", "conspicuous consumption"]
 related_aesthetics: ["Emo Rap", "Health Goth", "Hip-Hop", "Paninaro", "Swag", "Techwear", "Urbancore"]
 primary_platform: ["Instagram", "online resale markets (StockX, GOAT)"]
+palette: ["#18151C", "#514C4F", "#E8E7EC", "#C6C6CD", "#AEAAAF", "#8C8284"]
 source_url: "https://aesthetics.fandom.com/wiki/Hypebeast"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

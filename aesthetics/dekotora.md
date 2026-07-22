@@ -2,6 +2,7 @@
 name: "Dekotora"
 slug: "dekotora"
 decade_of_origin: "1975"
+palette: ["#AED9F8", "#121A17", "#546560", "#6D7671", "#333D37", "#889FA0"]
 source_url: "https://aesthetics.fandom.com/wiki/Dekotora"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["Barroco"]
 decade_of_origin: "c. 1600 - 1750"
 key_motifs: ["Dramatic movement", "swirling forms", "monumental scale", "chiaroscuro (strong light/dark contrast)", "religious ecstasy", "martyrdom", "classical mythology", "elaborate ornamentation"]
 key_colours: ["Deep", "rich colors (crimson, indigo, ochre)", "dramatic contrasts of light and shadow", "extensive use of gold and bronze"]
+palette: ["#24251C", "#58432A", "#A69D80", "#888974", "#B1AE9A", "#BDBFB1"]
 key_values: ["Opulence", "grandeur", "sensuousness", "drama", "movement", "tension", "emotional exuberance", "passion"]
 related_aesthetics: ["Italian Renaissance", "Mannerism", "Rococo", "Spanish Golden Age", "Modern Interpretations:", "Angelcore", "Royalcore", "2000s 'Modern Baroque'"]
 source_url: "https://aesthetics.fandom.com/wiki/Baroque"

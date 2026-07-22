@@ -5,6 +5,7 @@ aka: ["Decadent Movement"]
 decade_of_origin: "Late-19th century"
 key_motifs: ["Exotic flowers (orchids, lilies)", "artificiality", "morbid beauty", "opium poppies", "absinthe", "Salomé", "androgyny", "decay"]
 key_colours: ["Deep purples", "blacks", "golds", "jewel tones (emerald, ruby, sapphire)", "sickly greens"]
+palette: ["#F8F8F8", "#070707", "#B3B3B3", "#4A4A4A", "#E4E4E4", "#737373"]
 key_values: ["Self-indulgence", "sensuality", "artifice", "the macabre", "anti-bourgeois sentiment", "transgression"]
 related_aesthetics: ["Aestheticism", "Goth", "Pre-Raphaelite", "Symbolism"]
 related_media: ["Against Nature", "The Picture of Dorian Gray", "Salomé (Wilde)", "The Yellow Book", "À rebours"]

@@ -5,6 +5,7 @@ aka: ["Low Polygon Mesh", "PS1", "N64", "DS"]
 decade_of_origin: "Originated from the 1990s, intentional aesthetic emerged in the 2010s"
 key_motifs: ["Low polygon amount", "simple low-resolution textures", "flat shading"]
 key_colours: ["Simple colors"]
+palette: ["#151211", "#45392D", "#80CBDD", "#6E634B", "#22C1C6", "#3398BA"]
 related_aesthetics: ["8-Bit", "Analog Horror", "Kidcore", "Liminal Space", "Krushclub", "Modernism", "Programmer Art", "Silicon Dreams", "Shanzhai", "Webcore", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Low_Poly"
 license: "CC-BY-SA-4.0"

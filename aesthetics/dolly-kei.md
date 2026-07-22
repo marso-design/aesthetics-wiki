@@ -5,6 +5,7 @@ aka: ["Antique Kei"]
 decade_of_origin: "2010s"
 key_motifs: ["Faux furs", "fairy tales", "herbs", "antiques", "animal bones"]
 key_colours: ["Black", "jewel tones"]
+palette: ["#3F1C0D", "#130503", "#8C471B", "#BC7238", "#E09A54", "#6D280D"]
 related_aesthetics: ["Cult Party Kei", "Medieval", "Mori Kei", "Cottagecore"]
 related_media: ["The Brother's Grimm and Hans Christian Anderson books"]
 source_url: "https://aesthetics.fandom.com/wiki/Dolly_Kei"

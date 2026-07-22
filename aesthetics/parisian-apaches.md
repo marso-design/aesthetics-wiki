@@ -5,6 +5,7 @@ aka: ["Apaches de Paris", "Apacherie"]
 decade_of_origin: "1890s–1910s"
 key_motifs: ["Flared trousers", "striped jerseys", "sashes or scarves (\"ceinture de flanelle\")", "casquette caps", "knives", "the Apache revolver"]
 key_colours: ["Often red", "blue", "and white", "reflecting worker's clothing"]
+palette: ["#CCBEA8", "#1C1C1A", "#847D6A", "#4F4E45", "#343330", "#746555"]
 key_values: ["Street pride", "defiance", "anti-bourgeois sentiment", "hypermasculinity", "territoriality"]
 related_aesthetics: ["Art Nouveau", "Bohemian"]
 source_url: "https://aesthetics.fandom.com/wiki/Parisian_Apaches"

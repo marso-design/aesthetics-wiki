@@ -5,6 +5,7 @@ aka: ["Jazz Age", "Années folles (Crazy Years)"]
 decade_of_origin: "1920s"
 key_motifs: ["Jazz music", "speakeasies", "flapper fashion", "Art Deco architecture", "automobiles", "radio", "silent films"]
 key_colours: ["Black", "gold", "silver", "deep jewel tones (emerald, sapphire, ruby)"]
+palette: ["#8D8F90", "#B5B7B8", "#656768", "#18191A", "#4A4E4F", "#D7D8D8"]
 key_values: ["Modernity", "excess", "liberation", "social rebellion", "prosperity", "optimism", "technological innovation"]
 related_aesthetics: ["Art Deco", "Decopunk", "Dieselpunk", "Flapper", "Garçonne", "Mafia Aesthetic", "Weimar Cabaret"]
 related_media: ["The Great Gatsby", "Chicago", "Metropolis", "The Artist"]

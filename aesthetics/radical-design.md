@@ -5,6 +5,7 @@ aka: ["Radical Surrealism (CARI)"]
 decade_of_origin: "1960s"
 key_motifs: ["Unconventional forms", "irony", "critique of consumerism", "speculation on future cities"]
 key_colours: ["Bold and varied"]
+palette: ["#0E151C", "#E5E6E5", "#A26239", "#811D19", "#1A303F", "#A59B71"]
 key_values: ["Challenging norms", "experimentation", "social and political commentary", "questioning beauty standards"]
 related_aesthetics: ["Anti-Design", "Memphis Design", "Pop Art"]
 source_url: "https://aesthetics.fandom.com/wiki/Radical_Design"

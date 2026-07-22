@@ -5,6 +5,7 @@ aka: ["Dark Carnival", "Haunted Circus", "Creepy Clown"]
 decade_of_origin: "1980s (via horror media)"
 key_motifs: ["Striped circus tents", "creepy clown tropes", "distressed ringmaster attire", "clown makeup", "harlequin diamonds", "marionettes", "iron cages", "freak show banners", "candlelit carousels", "fog", "evil jesters"]
 key_colours: ["Black", "white", "crimson red", "deep gold", "sepia"]
+palette: ["#060406", "#4C5859", "#35312E", "#331414", "#5F3931", "#847665"]
 related_aesthetics: ["Burlesque", "Clowncore", "Dark Cabaret", "Fairground Baroque", "Venetian Carnival"]
 related_media: ["It (1986/1990/2017)", "Something Wicked This Way Comes (1983)", "Carnivàle (2003–2005)", "American Horror Story: Freak Show (2014)", "The Night Circus (2011)"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Circus"

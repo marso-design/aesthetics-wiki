@@ -1,6 +1,7 @@
 ---
 name: "Criticism of Aesthetics"
 slug: "criticism-of-aesthetics"
+palette: ["#431775", "#F9F9F8", "#759564", "#746C7C", "#C1B69E", "#EBD27E"]
 source_url: "https://aesthetics.fandom.com/wiki/Criticism_of_Aesthetics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

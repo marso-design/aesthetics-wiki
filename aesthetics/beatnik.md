@@ -4,6 +4,7 @@ slug: "beatnik"
 decade_of_origin: "Late 1950s"
 key_motifs: ["Literature (poetry, novels, essays)", "Jazz/Bebop/Hard Bop music", "existentialism and Eastern philosophy", "rejection of materialism and conformity", "spiritual exploration", "altered states of consciousness"]
 key_colours: ["Monochrome (stereotypical)", "but varied"]
+palette: ["#BABABA", "#080808", "#8D8D8D", "#D4D4D4", "#1B1B1B", "#E7E7E7"]
 key_values: ["Individual freedom", "nonconformity", "artistic expression", "spiritual exploration", "anti-materialism"]
 related_aesthetics: ["Bohemian", "Dark Academia", "Hippie", "Hipster", "Post-Punk", "Psychedelia", "Rude Boy"]
 source_url: "https://aesthetics.fandom.com/wiki/Beatnik"

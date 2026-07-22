@@ -5,6 +5,7 @@ aka: ["Mata Nero", "Frutiger Ego"]
 decade_of_origin: "2000s"
 key_motifs: ["Black piano gloss", "Skeuomorphism", "Glossy & graphite textures", "Aero glass", "Neon highlights", "Auroras"]
 key_colours: ["Black", "Gray", "White", "Chrome (primary)", "Blue", "Green", "Red", "Yellow (accents)"]
+palette: ["#010001", "#29323B", "#1E1E23", "#6A7D7F", "#604C53", "#9ABBAF"]
 related_aesthetics: ["Abstract Tech", "Recession Pop", "Flat Design", "★Frutiger Aero", "Hexatron", "Metalheart", "Skeuomorphism", "Vectordelia", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Aero"
 license: "CC-BY-SA-4.0"

@@ -4,6 +4,7 @@ slug: "uptown-girl"
 decade_of_origin: "Early 2020"
 key_motifs: ["Perfect feminine clothes and makeup"]
 key_colours: ["White", "pink", "pastels"]
+palette: ["#211718", "#706E68", "#5A4840", "#FEFFFB", "#9F9A8F", "#CFBBA3"]
 key_values: ["Being polished and elegant with femininity", "Having fun and being happy", "Elegance"]
 related_aesthetics: ["Downtown Girl (adjacent)", "Coquette", "Delicate Sweet", "Vanilla Girl", "Preppy", "Clean Girl", "Shoe Diva", "French Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Uptown_Girl"

@@ -5,6 +5,7 @@ aka: ["Nymphette", "Vintage Americana Coquette", "American Lolita", "Lolitacore"
 decade_of_origin: "1950's/2010s Tumblr"
 key_motifs: ["Youth", "adolescence", "freedom", "vintage"]
 key_colours: ["Red", "white", "pink", "baby blue"]
+palette: ["#830A1C", "#5B6051", "#A99489", "#D5BBBE", "#956562", "#DFD6D5"]
 related_aesthetics: ["Babygirl", "Bubblegum Coquette", "Chunyu", "Coconut Girl", "Coquette", "Dark Nymphet", "Slavic Doll", "Soft Girl", "Waif", "Winter Bimbo", "Cherry Emoji Twitter", "Larme Kei", "Kinderwhore"]
 related_media: ["Lolita (1962)", "Lolita (1997)"]
 source_url: "https://aesthetics.fandom.com/wiki/Nymphet"

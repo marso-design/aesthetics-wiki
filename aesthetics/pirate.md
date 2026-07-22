@@ -3,6 +3,7 @@ name: "Pirate"
 slug: "pirate"
 aka: ["Piratecore", "Piratewave"]
 key_colours: ["Sea green", "turquoise", "blue", "white", "brown", "gold"]
+palette: ["#44372D", "#5B4E38", "#B3B595", "#130F0B", "#28221D", "#999274"]
 related_aesthetics: ["Adventurecore", "Crowcore", "Dark Nautical", "Nautical"]
 source_url: "https://aesthetics.fandom.com/wiki/Pirate"
 license: "CC-BY-SA-4.0"

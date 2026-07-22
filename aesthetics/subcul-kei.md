@@ -4,6 +4,7 @@ slug: "subcul-kei"
 aka: ["サブカル (Sabukaru)", "Subculture Jirai"]
 decade_of_origin: "2010-2020"
 related_aesthetics: ["Animecore", "Blingeecore", "Emo", "Goth", "PEEPS", "Punk", "Visual Kei", "Mizuiro", "Yabi"]
+palette: ["#606469", "#484651", "#2E2930", "#888786", "#873D43", "#A8A5A4"]
 source_url: "https://aesthetics.fandom.com/wiki/Subcul_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

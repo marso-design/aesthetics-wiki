@@ -4,6 +4,7 @@ slug: "utopian-scholastic"
 decade_of_origin: "1980s"
 key_motifs: ["Museums", "photo collages", "science/social studies-related imagery"]
 key_colours: ["Bright and chromatic"]
+palette: ["#31232E", "#415150", "#0E0E0F", "#709FB1", "#807871", "#AB9A90"]
 related_aesthetics: ["Factory Pomo", "Festival Marketplace", "Dreamcore", "Frasurbane", "Frutiger Aero", "Global Village Coffeehouse", "Neoclassical PoMo", "Kid Science", "Surrealism", "Memphis Lite", "Wacky Pomo", "Y2K Futurism", "Silicon Dreams", "Vaporwave", "Pixel UI", "Old Web", "Webcore", "Whimsicraft", "Zen-X"]
 related_media: ["Discovery Channel", "educational videos", "edutainment games", "New Age music (often with pan flutes)", "early CGI"]
 source_url: "https://aesthetics.fandom.com/wiki/Utopian_Scholastic"

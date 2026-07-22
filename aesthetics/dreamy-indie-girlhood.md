@@ -5,6 +5,7 @@ aka: ["Female Gaze"]
 decade_of_origin: "2010s"
 key_motifs: ["Girlhood", "DIY", "adventure"]
 key_colours: ["Pastels"]
+palette: ["#4A5140", "#2A322C", "#9A9382", "#656658", "#8B7F70", "#B0A699"]
 related_aesthetics: ["Coquette", "Ethereal", "Girls' Sleepover", "Larme Kei", "Nymphet", "Twee"]
 primary_platform: ["Tumblr"]
 related_media: ["The Virgin Suicides"]

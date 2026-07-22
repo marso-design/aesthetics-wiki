@@ -4,6 +4,7 @@ slug: "blueberry-girl"
 decade_of_origin: "2020s"
 key_motifs: ["Blueberries", "books", "ocean and water imagery", "cozy interiors", "art", "cats", "denim", "silver jewelry"]
 key_colours: ["Shades of blue (especially light/powder blue)", "white", "cream", "silver", "black"]
+palette: ["#1B2028", "#B8B8B3", "#869BA7", "#4F4844", "#AB9F8D", "#8B8578"]
 key_values: ["Introspection", "creativity", "calmness", "intellect", "nostalgia", "comfort"]
 related_aesthetics: ["Art Hoe", "Clean Girl", "Coastal Grandmother", "Strawberry Girl", "Tomato Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Blueberry_Girl"

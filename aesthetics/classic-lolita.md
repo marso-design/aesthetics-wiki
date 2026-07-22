@@ -2,6 +2,7 @@
 name: "Classic Lolita"
 slug: "classic-lolita"
 related_aesthetics: ["Lolita", "Mori Kei", "Prairie", "Victorian"]
+palette: ["#35241E", "#D2CABE", "#7C7266", "#A49E91", "#C1B7A7", "#514D46"]
 source_url: "https://aesthetics.fandom.com/wiki/Classic_Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

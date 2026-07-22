@@ -1,6 +1,7 @@
 ---
 name: "Dark Culture"
 slug: "dark-culture"
+palette: ["#FFFFFE", "#030205", "#69605D", "#302927", "#E6E7E0", "#9E9C8D"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Culture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

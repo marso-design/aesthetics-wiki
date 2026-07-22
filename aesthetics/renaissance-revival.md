@@ -4,6 +4,7 @@ slug: "renaissance-revival"
 decade_of_origin: "1990s"
 key_motifs: ["Corsets", "Elizabethan ruffs", "bodices", "long dresses", "fairies"]
 key_colours: ["Gold", "Brown", "sepia", "black"]
+palette: ["#161515", "#E5C884", "#D57A27", "#D94F19", "#753121", "#E2AC5C"]
 related_aesthetics: ["Baroque", "Ethereal", "Fairycore", "Frasurbane", "FantasY2K", "Hellenic", "Italian Renaissance", "Mid-Century Medieval", "Sepia Blur", "Tudor", "Vintage", "Whimsigoth"]
 related_media: ["Ever After (1998)", "Romeo + Juliet", "Elizabeth (1998)"]
 source_url: "https://aesthetics.fandom.com/wiki/Renaissance_Revival"

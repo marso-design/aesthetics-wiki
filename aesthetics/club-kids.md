@@ -6,6 +6,7 @@ key_motifs: ["Outrageous costumes", "theatrical makeup", "DIY fashion", "gender 
 key_values: ["Individuality", "self-expression", "creativity", "fame", "inclusivity", "hedonism"]
 related_aesthetics: ["Anti-Fashion", "Ballroom", "Camp", "Cybergoth", "New Romantic", "Rave"]
 related_media: ["Party Monster: The Shockumentary (1998)", "Party Monster (2003 film)"]
+palette: ["#030204", "#928887", "#CA9C98", "#F5EFEE", "#101419", "#63605E"]
 source_url: "https://aesthetics.fandom.com/wiki/Club_Kids"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

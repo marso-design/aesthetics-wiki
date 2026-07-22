@@ -5,6 +5,7 @@ aka: ["Młoda Polska", "Polish Neo-Romanticism", "Polish Modernism"]
 decade_of_origin: "1890s-1910s"
 key_motifs: ["Symbolic flora", "folk patterns", "melancholic figures"]
 key_colours: ["Earthy tones", "gold", "deep blues"]
+palette: ["#6C98D0", "#2A2C23", "#8A8776", "#C4B7A0", "#625D4E", "#7A7461"]
 key_values: ["National identity", "patriotism", "artistic freedom", "spiritual expression", "pessimism"]
 related_aesthetics: ["Art Nouveau", "Arts and Crafts Movement", "Expressionism", "Impressionism", "Modernism", "Orientalism", "Post-Impressionism", "Romanticism", "Symbolism", "Young Germany", "Zakopane Style"]
 source_url: "https://aesthetics.fandom.com/wiki/Young_Poland"

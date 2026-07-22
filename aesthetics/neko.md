@@ -4,6 +4,7 @@ slug: "neko"
 decade_of_origin: "1920s2000s (modern)"
 key_motifs: ["Catgirls", "fluffiness", "bows and ribbons", "bells", "gloves", "stockings", "frills", "paws", "maid cafes"]
 key_colours: ["Pink", "lilac", "yellow", "rose gold", "gold", "black"]
+palette: ["#E8D2D3", "#332C3C", "#FEFEFE", "#9E9295", "#CFCABF", "#7E727A"]
 key_values: ["Cuteness", "childishness", "femininity", "mischievousness", "playfulness"]
 related_aesthetics: ["Animecore", "Erokawa", "Puppygirl", "Sanriocore", "Yume Kawaii"]
 related_media: ["Neko Musume", "The Star of the Cottonland", "Tokyo Mew Mew", "Nekopara"]

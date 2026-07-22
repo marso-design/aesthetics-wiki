@@ -5,6 +5,7 @@ aka: ["cosmism"]
 decade_of_origin: "1900s"
 key_motifs: ["Cosmic nebulae", "interstellar landscapes", "avant-garde geometric compositions"]
 key_colours: ["Black", "blue", "metallics"]
+palette: ["#070707", "#5B4837", "#A1733F", "#8E9797", "#69675E", "#17181B"]
 related_aesthetics: ["Futurism", "Russian Futurism", "Indigenous Futurisms", "Afrofuturism", "Gulf Futurism", "Retrofuturism"]
 source_url: "https://aesthetics.fandom.com/wiki/Russian_Cosmism"
 license: "CC-BY-SA-4.0"

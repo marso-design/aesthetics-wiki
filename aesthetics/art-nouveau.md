@@ -5,6 +5,7 @@ aka: ["Modern Style (Britain)", "Glasgow Style (Scotland)", "Jugendstil (Germany
 decade_of_origin: "1890s–1910s"
 key_motifs: ["\"Whiplash\" curves", "sinuous lines", "stylized natural forms (flowers, insects, vines)", "female figures", "peacock feathers"]
 key_colours: ["Muted palettes including olive green", "mustard yellow", "brown", "lilac", "and sage", "often with accents of gold and silver"]
+palette: ["#9A938A", "#171618", "#5A5A57", "#363433", "#7F7469", "#4D4741"]
 key_values: ["Integration of fine and applied arts", "rejection of historicism", "ornamentation based on nature", "use of modern materials"]
 related_aesthetics: ["Aestheticism", "Arts and Crafts", "Art Deco", "Glasgow Style (regional)", "Japonisme", "Modernisme (regional)", "Symbolism", "Post-Impressionism", "Psychedelia"]
 source_url: "https://aesthetics.fandom.com/wiki/Art_Nouveau"

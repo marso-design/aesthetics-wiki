@@ -5,6 +5,7 @@ aka: ["Pulp", "Splatter"]
 decade_of_origin: "1970s"
 key_motifs: ["The unfulfilled American dream", "low-budget effects", "problematic characters"]
 key_colours: ["Gritty", "moody"]
+palette: ["#050405", "#860A27", "#2A1F1A", "#FFFFFF", "#9A7C77", "#C10E26"]
 key_values: ["Social Commentary"]
 related_aesthetics: ["Gangsta Rap", "Horror", "UrBling", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Grindhouse"

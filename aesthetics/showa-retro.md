@@ -3,6 +3,7 @@ name: "Showa Retro"
 slug: "showa-retro"
 decade_of_origin: "1950s"
 key_colours: ["red", "green", "orange"]
+palette: ["#BC8A57", "#241F24", "#DBC393", "#FFFFFF", "#593127", "#B76740"]
 related_aesthetics: ["Heisei Retro", "Shoujo", "Wabi-Sabi", "Tokusatsu", "Retrofuturism", "Mecha"]
 source_url: "https://aesthetics.fandom.com/wiki/Showa_Retro"
 license: "CC-BY-SA-4.0"

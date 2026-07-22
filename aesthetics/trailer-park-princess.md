@@ -5,6 +5,7 @@ aka: ["Trashy Coquette", "Trashette", "Trailer Park Trash", "Trailer Park Darlin
 decade_of_origin: "2010s (drawing inspiration from the 1950s-1970s)"
 key_motifs: ["Trailer parks and poverty", "American cultural imagery", "over-the-top feminine clothing", "sex/kink and DDLG", "dolls"]
 key_colours: ["Pink", "cherry red", "general washed-out colors"]
+palette: ["#C89FA1", "#D4BDB9", "#9B8C86", "#15131D", "#2B2528", "#615857"]
 key_values: ["Kitsch", "sex positivity", "not caring what others think", "making the best with what you have", "finding ways to romanticize one's own poor upbringing"]
 related_aesthetics: ["Americana", "Camp", "Coquette", "Cuntry", "Farmer's Daughter", "Kinderwhore", "Midwest Gothic", "Morute", "Nymphet", "Shabby Chic", "Southern Gothic", "Traumacore", "Vintage Americana"]
 related_media: ["Pink Flamingos (1972)"]

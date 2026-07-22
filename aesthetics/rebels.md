@@ -5,6 +5,7 @@ aka: ["Bad-Boyz or Boy Crush"]
 decade_of_origin: "Late 2000s"
 key_motifs: ["Powerful stage presence and presentation", "brash assertive lyrics", "darker unconventional stylings", "intense choreography", "experimental EDM sounds"]
 key_colours: ["Black", "red or nocturnal color palettes", "and post-apocalyptic colors"]
+palette: ["#958F91", "#5D5A61", "#080914", "#242735", "#3C3A44", "#B4B3B7"]
 key_values: ["Rebellious", "empowerment", "motivational", "freedom", "confidence", "independence", "charisma", "boldness."]
 related_aesthetics: ["Girl Crush", "Hallyu", "Techwear", "Warcore", "Urbancore", "Cyberpunk", "Cyber Grunge", "Avant Apocalypse", "Hip-hop", "Rave"]
 source_url: "https://aesthetics.fandom.com/wiki/Rebels"

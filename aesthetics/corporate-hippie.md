@@ -5,6 +5,7 @@ aka: ["Capitalist Hippie", "Corporate Psychedelia", "Psychsploitation", "Hippie 
 decade_of_origin: "1960s"
 key_motifs: ["Distorted or warped visuals", "themes of love", "bright colors", "abstract flourishes and shapes"]
 key_colours: ["All"]
+palette: ["#45372F", "#8D886D", "#D1AF8B", "#ADAB91", "#C4C1B3", "#955B49"]
 key_values: ["Peace", "love"]
 related_aesthetics: ["Beatnik", "Cyberdelic", "Flower Power", "Groovival", "Hippie", "Lovecore", "Psychedelia", "Pop Art", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Corporate_Hippie"

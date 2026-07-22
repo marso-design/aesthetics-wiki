@@ -4,6 +4,7 @@ slug: "military-chic"
 decade_of_origin: "19th Century (modern origins)"
 key_motifs: ["Military jackets", "combat boots", "camouflage print", "cargo pockets", "epaulettes", "brass buttons", "khaki and olive tones"]
 key_colours: ["Khaki", "olive drab", "tan", "brown", "black"]
+palette: ["#161311", "#B9A88F", "#322F26", "#CCC1AA", "#484336", "#89694B"]
 key_values: ["Strength", "functionality", "confidence", "authority", "toughness", "elegance"]
 related_aesthetics: ["Cyber Grunge", "Military Lolita", "Rivethead", "Safari Chic", "Warcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Military_Chic"

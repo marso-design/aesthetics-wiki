@@ -5,6 +5,7 @@ aka: ["Art Moderne", "Streamline Design", "Style Paquebot"]
 decade_of_origin: "1930s–1940s"
 key_motifs: ["Curved corners", "horizontal lines (\"speed lines\")", "smooth and unadorned surfaces", "glass block", "chrome accents", "porthole windows"]
 key_colours: ["Often white or pale earth tones", "with accents of chrome and steel"]
+palette: ["#1C1A1C", "#93A4AD", "#918878", "#676C6D", "#C2BCAD", "#FFFFFF"]
 key_values: ["Speed", "efficiency", "modernity", "technology", "motion", "functionality"]
 related_aesthetics: ["Art Deco", "Dieselpunk", "Decopunk", "Factory Pomo", "Mid-Century Modern", "Raygun Gothic"]
 source_url: "https://aesthetics.fandom.com/wiki/Streamline_Moderne"

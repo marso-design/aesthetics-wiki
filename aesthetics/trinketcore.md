@@ -5,6 +5,7 @@ aka: ["I-Spy"]
 decade_of_origin: "2000s"
 key_motifs: ["Magic", "odd antiques", "trinkets", "stars", "books", "Polaroid photos", "autumn", "rainy days", "vintage/nostalgic imagery", "board games", "cards", "space"]
 key_colours: ["Muted colors", "yellow", "glow-in-the-dark hues", "blue", "purple"]
+palette: ["#7C7A65", "#33292A", "#1D1323", "#55443A", "#F9FCF8", "#AF9B78"]
 key_values: ["Curiosity", "exploration", "oddness", "magic"]
 related_aesthetics: ["Cacareco Girl", "Crowcore", "Grocery Girl Fall", "Indiecraft", "Juminocore", "Whimsigothic", "Twee"]
 source_url: "https://aesthetics.fandom.com/wiki/Trinketcore"

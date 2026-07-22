@@ -1,6 +1,7 @@
 ---
 name: "Political 'Wave' Aesthetics"
 slug: "political-wave-aesthetics"
+palette: ["#F5B91A", "#492E51", "#130B17", "#D1C8AE", "#90B6AC", "#6F796F"]
 source_url: "https://aesthetics.fandom.com/wiki/Political_'Wave'_Aesthetics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

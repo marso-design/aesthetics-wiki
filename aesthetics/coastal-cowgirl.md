@@ -4,6 +4,7 @@ slug: "coastal-cowgirl"
 decade_of_origin: "2020s"
 key_motifs: ["Seashells", "cowgirl hats", "the beach"]
 key_colours: ["Baby blue", "cream", "tan"]
+palette: ["#E4DCD1", "#5C4E4E", "#C6D1E4", "#A5BAD1", "#A0A6AD"]
 related_aesthetics: ["Coastal Grandmother", "Coastal Style", "Beach Girl", "Western", "Minimalism", "Rusticcore", "Tomato Girl Summer"]
 source_url: "https://aesthetics.fandom.com/wiki/Coastal_Cowgirl"
 license: "CC-BY-SA-4.0"

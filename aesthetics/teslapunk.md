@@ -4,6 +4,7 @@ slug: "teslapunk"
 decade_of_origin: "2000s19th century (concept)"
 key_motifs: ["Victorian style", "electricity", "teslacoils", "screws", "steam engines", "brass", "top hats", "waistcoats", "crinoline", "goggles", "electric power"]
 key_colours: ["Light blue", "bronze"]
+palette: ["#0F1114", "#132A2C", "#314F53", "#51565B", "#392B30", "#4E7781"]
 key_values: ["Consciously advocates  widely available cheap (or free)", "clean", "and often highly portable electrical energy to replace all previous energy sources"]
 related_aesthetics: ["Atompunk", "Cyberpunk", "Decopunk", "Dieselpunk", "Retrofuturism", "Steampunk", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Teslapunk"

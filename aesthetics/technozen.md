@@ -4,6 +4,7 @@ slug: "technozen"
 decade_of_origin: "2000s"
 key_motifs: ["Technology", "nature", "minimalism", "glossy textures", "matte textures", "bamboo", "wood", "Four Colors", "Asian and Scandinavian interior design"]
 key_colours: ["White", "matte silver", "light blue", "light green", "black (sometimes)"]
+palette: ["#BAA88A", "#D5D4C9", "#FFFFFF", "#907E66", "#E9E8E7", "#B9C4A9"]
 key_values: ["Harmony with nature and technology", "minimalism", "health & wellbeing"]
 related_aesthetics: ["Chromecore", "Flat Design", "Four Colors", "★Frutiger Aero", "Gen X Soft Club", "Japandi", "★Minimalism", "Eco-Beige", "Gen-X Home (predecessor)", "Tranquil Serenity", "Vaporwave", "Vectorheart", "Zen-X (predecessor)"]
 source_url: "https://aesthetics.fandom.com/wiki/Technozen"

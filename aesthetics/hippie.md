@@ -1,6 +1,7 @@
 ---
 name: "Hippie"
 slug: "hippie"
+palette: ["#19110E", "#32312B", "#533E31", "#8C8674", "#5F5A50", "#7D6450"]
 source_url: "https://aesthetics.fandom.com/wiki/Hippie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

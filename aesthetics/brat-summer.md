@@ -5,6 +5,7 @@ aka: ["Brat Girl", "Brat Girl Summer"]
 decade_of_origin: "2020s"
 key_motifs: ["Lime green (\"brat green\")", "low-resolution font", "party culture", "smudged eyeliner", "strappy tops", "miniskirts"]
 key_colours: ["Lime green", "black", "white"]
+palette: ["#8DD00A", "#060711", "#201916", "#3D3F28", "#B89380", "#F2E4D6"]
 key_values: ["Carefree attitude", "confidence", "messy self-acceptance", "hedonism", "irony", "chaos"]
 related_aesthetics: ["Indie Sleaze", "Soft Grunge", "Y2K"]
 primary_platform: ["TikTok", "Twitter (X)"]

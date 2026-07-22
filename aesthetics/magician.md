@@ -5,6 +5,7 @@ aka: ["Magiciancore", "Stage-Magician Core", "Magic-Showcore", "Illusionistcore"
 decade_of_origin: "1700s-present"
 key_motifs: ["Top hats", "playing cards", "crystal balls", "rabbits"]
 key_colours: ["Burgundy", "deep blue", "emerald green", "purple", "black"]
+palette: ["#1C201F", "#A1866F", "#BEA38D", "#423D36", "#604E43", "#835D46"]
 key_values: ["Wonder", "fame", "trickery", "mystique", "illusions", "flamboyance", "deception", "showmanship"]
 related_aesthetics: ["Witchcore", "Wizardcore", "Steampunk", "Fanfare"]
 source_url: "https://aesthetics.fandom.com/wiki/Magician"

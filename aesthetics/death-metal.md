@@ -3,6 +3,7 @@ name: "Death Metal"
 slug: "death-metal"
 decade_of_origin: "1980s"
 key_colours: ["Red", "Orange", "Black", "White"]
+palette: ["#000000", "#271D22", "#383F47", "#746C6E", "#948E92", "#4A191F"]
 related_aesthetics: ["Metal", "Black Metal", "Gorecore", "Horror"]
 source_url: "https://aesthetics.fandom.com/wiki/Death_Metal"
 license: "CC-BY-SA-4.0"

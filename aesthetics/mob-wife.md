@@ -4,6 +4,7 @@ slug: "mob-wife"
 decade_of_origin: "2020s"
 key_motifs: ["Animal prints", "faux fur", "designed bags", "black boots"]
 key_colours: ["Black", "gold", "yellow", "red"]
+palette: ["#030303", "#A6907F", "#4B4039", "#816C5D", "#CBB9A8", "#725340"]
 key_values: ["Opulence", "luxury", "glamour", "materialism", "Italian-American inspiration"]
 related_aesthetics: ["Boujee", "Clean Girl", "Femme Fatale", "Mafia Aesthetic", "Maximalism", "Rockstar GF"]
 related_media: ["The Sopranos", "Goodfellas"]

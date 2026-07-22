@@ -6,6 +6,7 @@ key_motifs: ["Liminal spaces", "Millennial buildings of China: Khrushchyovka", "
 key_values: ["Nostalgia"]
 related_aesthetics: ["Dreamcore", "Millennial Feng", "Liminal Space", "Minsu Horror", "Nostalgiacore"]
 primary_platform: ["Bilibili", "Douyin", "Rednote"]
+palette: ["#242527", "#5C5650", "#304C68", "#88766C", "#8A8F90", "#A59D93"]
 source_url: "https://aesthetics.fandom.com/wiki/Chinese_Dreamcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

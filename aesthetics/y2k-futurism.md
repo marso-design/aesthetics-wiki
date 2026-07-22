@@ -5,6 +5,7 @@ aka: ["Y2K Aesthetic", "Cyber Y2K", "Kaybug"]
 decade_of_origin: "1990s"
 key_motifs: ["Abstract 3D graphics (\"blobs\")", "translucent or transparent materials", "metallic textures", "chrome", "sleek typography", "futuristic interfaces"]
 key_colours: ["Cool-toned palettes", "icy blue", "silver", "glossy white", "black", "with accents of bright orange and lime green"]
+palette: ["#112630", "#7E818E", "#547388", "#504669", "#A7AAB7", "#A9C8DD"]
 key_values: ["Techno-utopianism", "optimism for the new millennium", "digital futurism", "sleek minimalism"]
 related_aesthetics: ["90s Cool", "Abstract Tech", "Bubblegum Dance", "Chromecore", "Corporate Grunge", "Cybercore (reinterpretation)", "Cyberpunk", "DORFic", "Frutiger Aero", "Millennium Disco", "Gen X Soft Club", "Low Poly", "Groovival", "McBling", "Metalheart", "Neo-Y2K (revival)", "Retrofuturism", "Seapunk", "Shibuya Punk", "Superflat Pop", "Vectorheart"]
 related_media: ["The Matrix", "Space Channel 5", "Wipeout", "Jet Set Radio", "Toonami"]

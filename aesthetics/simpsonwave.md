@@ -4,6 +4,7 @@ slug: "simpsonwave"
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Clips from The Simpsons (classic era)", "VHS distortion", "pastel/purple color grading", "glitches", "melancholic text", "surrealism"]
 key_colours: ["Washed-out purples", "pinks", "and blues"]
+palette: ["#4E154A", "#3B3B68", "#10050E", "#22191D", "#924675", "#701945"]
 key_values: ["Nostalgia", "melancholy", "surrealism", "dreamy ennui", "deconstruction"]
 related_aesthetics: ["Vaporwave", "Lo-fi Art", "Glitch Art", "Emo Rap", "Sadboi"]
 primary_platform: ["YouTube", "Vine"]

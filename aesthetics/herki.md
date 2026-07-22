@@ -5,6 +5,7 @@ aka: ["Gotka", "Gotyushka"]
 decade_of_origin: "Late 1990s – Early 2000s"
 key_motifs: ["HIM band imagery", "the \"Шапка-виллевалка\" (Ville Valo Beanie)", "ankh symbolism", "Soviet-era interior photography (grandmother's carpet)", "exaggerated black eyeliner"]
 key_colours: ["Black", "red", "pink/purple (subdued accents)", "white (pale makeup)"]
+palette: ["#6B6958", "#8C705A", "#171514", "#58493B", "#848B75", "#2A2A28"]
 key_values: ["Performing sadness/alienation", "romanticizing death", "superficiality", "musical fandom (HIM/Lacrimosa)"]
 related_aesthetics: ["Emo", "Goth", "Mallgoth (American equivalent)", "Soviet Nostalgia"]
 primary_platform: ["Vkontakte (VK)", "LiveJournal"]

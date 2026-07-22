@@ -4,6 +4,7 @@ slug: "edwardian"
 decade_of_origin: "1901-1910"
 key_motifs: ["Elegance", "opulence", "formality", "leisure activities", "social stratification", "transition to modernism"]
 key_colours: ["Lighter pastels", "creams", "whites", "gold accents", "jewel tones"]
+palette: ["#F6E7BF", "#15161A", "#3C3932", "#9B9787", "#D6CFBC", "#BEBBB1"]
 key_values: ["Prosperity", "social change", "optimism", "leisure", "class distinction", "refinement"]
 related_aesthetics: ["Art Nouveau", "Baroque", "Decadence", "Gibson Girl", "Roaring Twenties", "Victorian", "Modern Interpretations:", "Cottagecore", "Dark Cabaret", "Goth", "Lolita", "Victorian Goth"]
 related_media: ["A Room with a View (1908 novel)", "Howard's End (1910 novel)", "The Age of Innocence (1920 novel)", "Downton Abbey (TV series, early seasons)"]

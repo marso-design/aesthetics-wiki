@@ -5,6 +5,7 @@ aka: ["Yumekawaii", "Yumekawa"]
 decade_of_origin: "2013"
 key_motifs: ["Strawberry milk", "sailor uniforms", "magical girl imagery"]
 key_colours: ["Pastels"]
+palette: ["#D68FBF", "#D6BFDA", "#A28EBF", "#BBC7E7", "#A669A0", "#B0A6CE"]
 key_values: ["Dreams", "softness", "pale colors", "cuteness"]
 related_aesthetics: ["Animecore", "Babycore", "Decora", "Fairy Kei", "Harajuku Fashion", "Kawaii", "Magical Girls", "Mizuiro", "Pastel", "Shoujo", "Unicorncore", "Yami Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Yume_Kawaii"

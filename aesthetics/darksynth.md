@@ -5,6 +5,7 @@ aka: ["Dark Synthwave", "Dreadwave", "Slasher Synth"]
 decade_of_origin: "Early 2010s"
 key_motifs: ["Cyberpunk dystopia", "occultism", "satanic symbols (pentagrams, inverted crosses)", "80s horror/sci-fi", "ultra-violence", "skulls", "neon noir"]
 key_colours: ["Black", "deep red", "electric blue", "magenta", "neon highlights"]
+palette: ["#09080A", "#523A6F", "#253248", "#221021", "#9387AB", "#826491"]
 key_values: ["Aggression", "darkness", "intensity", "nostalgia for dark 80s media", "rebellion"]
 related_aesthetics: ["Cyberpunk", "Goth", "Horror", "Industrial", "Metal", "Neon Noir", "Synthwave"]
 related_media: ["Hotline Miami (video game)", "John Carpenter films"]

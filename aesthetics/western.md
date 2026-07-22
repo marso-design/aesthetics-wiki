@@ -5,6 +5,7 @@ aka: ["Cowboy", "Cowgirl", "Wild West", "Wild Wild West", "Old West", "Bang Bang
 decade_of_origin: "1860s"
 key_motifs: ["Cowboy hats", "Horses", "Cacti", "Revolvers", "Leather clothing"]
 key_colours: ["Muted tones", "Browns", "Red", "Orange"]
+palette: ["#96664E", "#472A24", "#170F0D", "#848B8B", "#662F24", "#615651"]
 key_values: ["Remembrance", "Pioneering spirit", "Independence"]
 related_aesthetics: ["Americana", "Cottagecore", "Country", "Desert", "Gaucho", "Prairie", "Rusticcore"]
 related_media: ["Red Dead Redemption", "Old Western films"]

@@ -5,6 +5,7 @@ aka: ["Seattle Sound"]
 decade_of_origin: "1980s"
 key_motifs: ["Flannel shirts", "ripped jeans", "band t-shirts", "Doc Martens", "oversized sweaters", "long unkempt hair"]
 key_colours: ["Earthy and muted tones: brown", "army green", "grey", "burgundy", "faded denim"]
+palette: ["#262322", "#F3F3F3", "#C8CCD0", "#736051", "#5D3F2F", "#AAA196"]
 key_values: ["Anti-consumerism", "authenticity", "apathy", "rebellion", "social alienation", "angst"]
 related_aesthetics: ["Alternative", "Graffiti Pop", "Metalhead", "Punk", "Indie", "Sepia Blur", "Indie Sleaze", "Heroin Chic"]
 subgenres: ["Corporate Grunge", "Kinderwhore", "Soft Grunge", "Pastel Grunge"]

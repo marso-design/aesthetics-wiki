@@ -3,6 +3,7 @@ name: "Erokawa"
 slug: "erokawa"
 decade_of_origin: "2005"
 key_colours: ["Pink", "White"]
+palette: ["#513A32", "#E9CEC0", "#FDFBEE", "#968C7E", "#D7B0A4", "#9E4F54"]
 related_aesthetics: ["Animecore", "Kawaii", "Maid", "Moe", "Neko"]
 related_media: ["Ecchi or R-18 Girls' Love/Yuri manga"]
 source_url: "https://aesthetics.fandom.com/wiki/Erokawa"

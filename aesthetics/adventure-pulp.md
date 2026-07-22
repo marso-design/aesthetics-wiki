@@ -4,6 +4,7 @@ slug: "adventure-pulp"
 decade_of_origin: "1930s (original), 1980s (modern revival)"
 key_motifs: ["Ancient ruins", "dense jungles", "old maps", "esoteric artifacts", "prop planes", "fedoras", "treasure hunting"]
 key_colours: ["Brown", "khaki", "ochre", "off-white", "earth tones"]
+palette: ["#0E0907", "#1F2D17", "#84715D", "#ABA683", "#3F4034", "#D4D0B1"]
 key_values: ["Adventuring", "discovery", "competency", "scholasticism", "escaping the mundane"]
 related_aesthetics: ["Adventurecore", "Dieselpunk", "Safari Chic", "Steampunk", "Tiki", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Adventure_Pulp"

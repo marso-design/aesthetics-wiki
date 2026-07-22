@@ -4,6 +4,7 @@ slug: "ultras"
 decade_of_origin: "1960s"
 key_motifs: ["Tifos (choreographed stadium displays)", "large banners", "flags", "flares", "smoke bombs", "drums", "synchronized chants", "graffiti", "club symbols"]
 key_colours: ["Club colors", "often monochromatic (black, team-specific hues)"]
+palette: ["#1E1A1D", "#676757", "#0F0409", "#47322A", "#F5F5E2", "#A3A58F"]
 key_values: ["Fanatical support", "loyalty", "unity", "community", "identity", "intimidation", "anti-commercialization", "nonconformism", "self-expression", "collective belonging"]
 related_aesthetics: ["Blokecore", "Blokette", "Casuals", "Mod", "Paninaro", "Rave", "Skinhead"]
 related_media: ["Ultras", "The Real Football Factories", "The Rebels of The Stadiums", "The Syndrome by Andy Capp", "Skins by Gavin Watson"]

@@ -4,6 +4,7 @@ slug: "cozy-gamer"
 decade_of_origin: "2020s"
 key_motifs: ["Houseplants", "mechanical keyboards", "plushies", "pixel art", "warm fairy lights", "wood textures", "pegboards", "mugs"]
 key_colours: ["Sage green", "cream", "soft brown", "pastel pink", "warm white"]
+palette: ["#844E2C", "#312A1F", "#A69E8E", "#7E796B", "#9B8270", "#B3C4C5"]
 key_values: ["Escapism", "comfort", "mindfulness", "slow living", "soft productivity"]
 related_aesthetics: ["Cottagecore", "Cozycore", "Juminocore", "Kawaii Gamer", "Lo-fi Art", "Naturecore", "Witchcore"]
 primary_platform: ["TikTok", "Pinterest", "YouTube"]

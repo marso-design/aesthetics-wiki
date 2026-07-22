@@ -4,6 +4,7 @@ slug: "high-school-dream"
 decade_of_origin: "1980s"
 key_motifs: ["Pep rally posters", "gymnasiums", "dance decorations", "lockers", "notebooks", "binders"]
 key_colours: ["The school colors", "baby!"]
+palette: ["#181818", "#B6BCB9", "#7F806A", "#CBD5DE", "#51382D", "#51574A"]
 key_values: ["\"Live while you're young", "\" finding who you are", "friendship", "overcoming obstacles", "teenagerhood"]
 related_aesthetics: ["Americana", "Emo", "Goth", "Lo-Fi", "Nerd", "Normcore", "Nu-Metal", "Punk", "TikTok Preppy"]
 related_media: ["Mean Girls (2004)", "High School Musical franchise", "Clueless (1995)"]

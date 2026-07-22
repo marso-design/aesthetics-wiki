@@ -5,6 +5,7 @@ aka: ["Cottagegore", "Dark Cottagecore"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Overgrown gardens", "poisonous plants", "animal bones", "fog and rain", "cemeteries", "dark forests", "witchcraft elements"]
 key_colours: ["Muted earth tones: faded brown", "moss green", "grey", "and black"]
+palette: ["#666E54", "#42453C", "#1E211A", "#0A0906", "#8E8C79", "#C1B9AD"]
 key_values: ["Appreciation for the darker aspects of nature", "solitude", "decay and rebirth", "mixing pastoralism with the macabre"]
 related_aesthetics: ["Cottagecore", "Crowcore", "Dark Academia", "Dark Fantasy", "Fairy Grunge", "Folk Horror", "Forestpunk", "Goblincore", "Southern Gothic", "Strega", "Vulture Culture", "Witchcore"]
 related_media: ["Over the Garden Wall", "The Witch (2015)", "music by Dead Can Dance"]

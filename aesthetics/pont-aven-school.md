@@ -4,6 +4,7 @@ slug: "pont-aven-school"
 decade_of_origin: "Late 1880s–Early 1890s"
 key_motifs: ["Breton peasant life", "religious processions (pardons)", "rural landscapes", "strong outlines (cloisonnism)", "flat planes of color"]
 key_colours: ["Bold", "non-naturalistic colors (e.g., yellow skies, red fields)", "large", "flat areas of color"]
+palette: ["#251D21", "#A1A086", "#293533", "#5D5F52", "#95614A", "#958467"]
 key_values: ["Anti-naturalism", "synthesis of observation and feeling", "simplification of form", "spiritual expression", "\"primitivism\""]
 related_aesthetics: ["Post-Impressionism", "Synthetism", "Symbolism", "Nabis"]
 source_url: "https://aesthetics.fandom.com/wiki/Pont-Aven_School"

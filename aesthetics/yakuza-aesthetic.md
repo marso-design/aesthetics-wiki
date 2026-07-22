@@ -5,6 +5,7 @@ aka: ["Gokudō", "Ninkyō Dantai"]
 decade_of_origin: "20th Century (Media Portrayals)"
 key_motifs: ["Full-body tattoos (irezumi)", "sharp suits", "sunglasses", "katana swords", "neon-lit cityscapes (e.g., Kabukicho)", "missing pinky fingers (yubitsume)"]
 key_colours: ["Black", "white", "and grey (suits)", "contrasted with the vibrant colors of tattoos"]
+palette: ["#A2A5A9", "#656565", "#1D1817", "#4E3D37", "#817C79", "#E9E7E5"]
 key_values: ["Honor", "loyalty", "chivalry (ninkyō)", "duty", "sacrifice", "adherence to a strict code (all fictional tropes)"]
 related_aesthetics: ["Cyberpunk", "Film Noir", "Mafia Aesthetic"]
 related_media: ["Yakuza (Like a Dragon) video game series", "Battles Without Honor and Humanity (film series)", "Outrage (film series)", "Tokyo Vice (TV series)"]

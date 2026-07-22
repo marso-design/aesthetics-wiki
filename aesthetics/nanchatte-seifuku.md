@@ -6,6 +6,7 @@ decade_of_origin: "2000s"
 key_motifs: ["Anything related to school life."]
 key_values: ["Friendship", "teamwork", "academic rigor", "competive spirit"]
 related_aesthetics: ["Animecore", "Cyber Doll", "High School Dream", "Gyaru", "Kogal", "Magical Girls", "Preppy", "Yandere", "Nautical"]
+palette: ["#242325", "#080809", "#3D3E40", "#685D58", "#8D8784", "#F1EFEF"]
 source_url: "https://aesthetics.fandom.com/wiki/Nanchatte_Seifuku"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

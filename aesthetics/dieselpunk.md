@@ -4,6 +4,7 @@ slug: "dieselpunk"
 decade_of_origin: "2000s (term coinage)"
 key_motifs: ["Diesel-powered machinery", "riveted surfaces", "engine turning", "aviation", "vacuum tubes", "Art Deco", "Streamline Moderne", "propaganda art", "pulp fiction"]
 key_colours: ["Black", "grey", "muted industrial tones", "metallic shades"]
+palette: ["#CFC5BA", "#221C1F", "#888483", "#B4ABA5", "#4A545C", "#433C3B"]
 key_values: ["Technological advancement", "societal change", "war", "rebellion", "dystopia", "utopia", "human-machine interaction", "noir elements"]
 related_aesthetics: ["Adventure Pulp", "Art Deco", "Atompunk", "Cyberpunk", "Decopunk", "Film Noir", "Heroic Realism", "Post-Apocalyptic", "Raygun Gothic", "Retrofuturism", "Steampunk", "Streamline Moderne"]
 related_media: ["The Man in the High Castle", "Sky Captain and the World of Tomorrow", "Wolfenstein: The New Order", "BioShock", "Mad Max"]

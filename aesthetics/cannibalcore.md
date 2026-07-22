@@ -3,6 +3,7 @@ name: "Cannibalcore"
 slug: "cannibalcore"
 key_motifs: ["Cannibalism as a metaphor for love", "blood", "flesh", "organs", "body parts", "obsession", "sex and ownership of the body"]
 key_colours: ["Red", "pink", "black"]
+palette: ["#FFFFFF", "#1A1406", "#C7ADA7", "#AF8C8A", "#997372", "#5A5652"]
 related_aesthetics: ["Gorecore", "Horror", "Meatcore", "Yandere"]
 source_url: "https://aesthetics.fandom.com/wiki/Cannibalcore"
 license: "CC-BY-SA-4.0"

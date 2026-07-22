@@ -5,6 +5,7 @@ aka: ["Minsu Horror"]
 decade_of_origin: "1990s (flim)2020s (video game)"
 key_motifs: ["Chinese funeral and marriage customs", "dim rural spaces"]
 key_colours: ["Red", "black", "white"]
+palette: ["#020101", "#1F1A1E", "#3D302E", "#7B524B", "#76342F", "#BCA496"]
 related_aesthetics: ["Chinese Dreamcore", "Folk Horror", "Horror", "Jiangshi Horror"]
 related_media: ["Paper Bride series"]
 source_url: "https://aesthetics.fandom.com/wiki/Chinese_Folk_Horror"

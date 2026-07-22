@@ -4,6 +4,7 @@ slug: "live-laugh-love"
 decade_of_origin: "2000s"
 key_motifs: ["Brush scripts", "wooden textures", "blackboard textures", "word art signs", "Rae Dunn pottery"]
 key_colours: ["pink", "white", "black", "beige", "brown"]
+palette: ["#788491", "#3B4049", "#5F6771", "#C7CDD0", "#999FA4", "#E6EDEE"]
 key_values: ["Family", "positivity", "self-serving irony", "self-love"]
 related_aesthetics: ["2014 Girly", "Cottagecore", "Modern Farmhouse", "Positivity Kawaii", "Shabby Chic", "Soft Countriana", "Whimsicraft"]
 related_media: ["Eat Pray Love", "justgirlythings"]

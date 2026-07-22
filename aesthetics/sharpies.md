@@ -6,6 +6,7 @@ decade_of_origin: "1960s-1970s"
 key_motifs: ["Ultra-tight Connys (cardigans)", "high-waisted flared pants", "mullets", "platform shoes", "tattoos", "pierced ears", "gang names", "suburban territory"]
 key_values: ["Rebellion", "working-class identity", "territorialism", "bravado", "anti-hippie sentiment", "masculinity", "self-expression through uniform"]
 related_aesthetics: ["Biker", "Greaser", "Mod", "Rockers", "Rockabilly", "Preppy", "Skinhead"]
+palette: ["#787B6F", "#272720", "#4B473A", "#C4B499", "#A79779", "#DCD3C2"]
 source_url: "https://aesthetics.fandom.com/wiki/Sharpies"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

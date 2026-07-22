@@ -4,6 +4,7 @@ slug: "d-a-de-muertos"
 aka: ["Day of the Dead", "Día de los Muertos"]
 key_motifs: ["Bright colours", "skulls", "butterflies", "pan de muerto", "face paint", "candles", "ofrendas", "marigolds", "calaveras", "skeletons"]
 key_colours: ["Orange", "red", "purple", "black"]
+palette: ["#5A2926", "#DC5815", "#795654", "#180B0C", "#DF5DAF", "#AE7B67"]
 key_values: ["Life", "death", "light", "darkness"]
 related_aesthetics: ["Autumn Aesthetic", "Halloween Aesthetic"]
 source_url: "https://aesthetics.fandom.com/wiki/Día_De_Muertos"

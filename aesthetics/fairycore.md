@@ -5,6 +5,7 @@ aka: ["Faecore", "Faerycore", "Faeriecore"]
 decade_of_origin: "2020s"
 key_motifs: ["Fairy wings", "sparkles", "glitter", "mushrooms", "butterflies", "flowers", "moss", "soft animals", "elf ears"]
 key_colours: ["Pastel colours", "earth tones", "soft greens", "pinks", "and yellows"]
+palette: ["#232D1B", "#484030", "#666148", "#6F7C53", "#BFB48F", "#889A68"]
 key_values: ["Magic", "nature", "tranquility", "escapism", "optimism", "kindness"]
 related_aesthetics: ["Changelingcore", "Cottagecore", "Fairy Grunge", "Fantasy", "Goblincore", "Mori Kei", "Mushroomcore", "Naturecore", "Soft Girl", "Strega", "Witchcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Fairycore"

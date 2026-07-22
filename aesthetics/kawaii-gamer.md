@@ -5,6 +5,7 @@ aka: ["Gamer Girl", "Kawaii Streamer", "Pastel E-Girl", "Weeaboo E-Girl"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Gaming PCs", "cat ear headphones", "anime", "plushies", "Nendorids", "Asian snacks/ drinks", "cat-paws"]
 key_colours: ["Pastels (typically pink", "purple and blue)"]
+palette: ["#C5ACC8", "#A182A3", "#4D1956", "#BA487D", "#CB648A", "#733D78"]
 key_values: ["Cuteness"]
 related_aesthetics: ["Animecore", "Cozy Gamer", "Cybertwee", "E-Girl", "Femcel Weeaboo", "Kawaii", "Living Doll", "Lo-Fi", "Magical Girls", "Mizuiro"]
 related_media: ["My Hero Academia", "Danganronpa", "Demon Slayer", "Osu!", "Overwatch", "Sanrio", "Pokémon"]

@@ -5,6 +5,7 @@ aka: ["Corridos Tumbados", "Regional Urbano"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Designer streetwear (Gucci, Louis Vuitton)", "striking jewelry (heavy chains, unique pendants)", "luxury cars", "dark lighting/smoke", "balaclavas (in performance)", "references to drugs/violence/ostentatious wealth"]
 key_colours: ["Black", "gold", "white", "red (associated with luxury logos and jewelry)"]
+palette: ["#16130B", "#444A47", "#696867", "#262A23", "#BDAFA8", "#E5E8E7"]
 key_values: ["Ostentation of wealth", "defiance", "self-assertion", "\"street\" style", "superación personal (overcoming adversity)"]
 related_aesthetics: ["Gangsta Rap", "Hip-Hop", "Tumbette (hybrid)", "Narcocorrido"]
 primary_platform: ["Spotify", "TikTok", "YouTube"]

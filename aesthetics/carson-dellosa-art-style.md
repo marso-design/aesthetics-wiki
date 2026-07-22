@@ -5,6 +5,7 @@ aka: ["90s Classroom Art"]
 decade_of_origin: "1970s (established 1976)"
 key_motifs: ["Oblong eyes", "exaggerated smiles", "waving characters", "token diversity", "die-cut shapes"]
 key_colours: ["Primary colors", "flat gradients", "pink (for noses/blush)"]
+palette: ["#FFFFFF", "#3A4242", "#9B8A69", "#6FBC61", "#29A3AC", "#E08E5E"]
 related_aesthetics: ["Global Village Coffeehouse", "Kidcore", "Nostalgiacore", "Preschool Pop"]
 source_url: "https://aesthetics.fandom.com/wiki/Carson-Dellosa_Art_Style"
 license: "CC-BY-SA-4.0"

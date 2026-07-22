@@ -4,6 +4,7 @@ slug: "pmc-ryodan"
 decade_of_origin: "2020s"
 key_motifs: ["Black hoodies with white spider symbol", "anime imagery", "online gaming references (DotA 2)", "maps of \"battle\" for Aviapark"]
 key_colours: ["Black", "white"]
+palette: ["#938980", "#B4B0AA", "#010102", "#636666", "#CCCDCC", "#4E413F"]
 key_values: ["Fandom of Hunter x Hunter", "online gaming communities", "localized conflicts", "anti-establishment sentiment (in some interpretations)", "response to perceived \"gopnik\" aggression"]
 related_aesthetics: ["Dead Inside", "E-Boy", "Herki", "Gopnik (rival)"]
 related_media: ["Hunter x Hunter", "DotA 2", "Telegram", "VK"]

@@ -5,6 +5,7 @@ aka: ["Catalan Modernism", "Catalan Art Nouveau"]
 decade_of_origin: "c. 1888 - 1911"
 key_motifs: ["Organic forms", "natural motifs (plants, animals, geology)", "curvilinear \"whiplash\" lines", "symbolism", "stained glass", "trencadís mosaics", "wrought ironwork"]
 key_colours: ["Vibrant polychromy", "rich jewel tones", "earthy and natural tones"]
+palette: ["#6B4730", "#33302B", "#856F53", "#7BA8B7", "#A47446", "#C49970"]
 key_values: ["Catalan cultural revival (Renaixença)", "national identity", "artistic freedom", "integration of the arts (Gesamtkunstwerk)", "innovation with materials"]
 related_aesthetics: ["Art Nouveau", "Arts and Crafts", "Gothic Revival", "Symbolism"]
 source_url: "https://aesthetics.fandom.com/wiki/Modernisme"

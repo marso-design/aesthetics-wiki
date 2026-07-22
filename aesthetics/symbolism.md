@@ -5,6 +5,7 @@ aka: ["Symbolist Movement"]
 decade_of_origin: "Late-19th century"
 key_motifs: ["Dreams", "visions", "myths", "the occult", "the erotic", "death", "the subconscious"]
 key_colours: ["Often muted or evocative colours; use of light and shadow to create mood"]
+palette: ["#35302A", "#93795D", "#6F7467", "#765E48", "#4F483A", "#F2E0C1"]
 key_values: ["Subjectivity", "emotion", "spirituality", "the power of suggestion", "exploration of inner experience"]
 related_aesthetics: ["Aestheticism", "Art Nouveau", "Decadence", "Romanticism", "Synthetism"]
 source_url: "https://aesthetics.fandom.com/wiki/Symbolism"

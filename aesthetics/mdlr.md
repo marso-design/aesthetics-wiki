@@ -5,6 +5,7 @@ aka: ["Mec de la Rue"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Tracksuits", "puffer jackets", "fanny packs", "balaclavas", "scooters", "neighborhood life"]
 key_colours: ["Varies", "often dark and neutral tones from sportswear brands"]
+palette: ["#1A2EBB", "#08090A", "#372E21", "#574C43", "#978371", "#D0D1D3"]
 key_values: ["Street life", "neighborhood loyalty", "anti-authoritarianism", "class pride", "friendship", "resilience"]
 related_aesthetics: ["Cani", "Chav", "Racaille", "UK Drill"]
 source_url: "https://aesthetics.fandom.com/wiki/MDLR"

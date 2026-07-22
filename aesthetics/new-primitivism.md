@@ -7,6 +7,7 @@ key_motifs: ["The \"small person\" (petty criminals, coalminers, taxi drivers, p
 key_values: ["Self-irony", "anti-establishment", "local patriotism", "humor", "anti-intellectualism (ostensible)", "resistance to foreign cultural trends"]
 related_aesthetics: ["Camp", "Kitsch", "New Partisans", "New Wave", "Punk", "Surrealism"]
 related_media: ["Das ist Walter (Zabranjeno Pušenje, 1984)", "Mitovi i legende o Kralju Elvisu (Elvis J. Kurtović & His Meteors, 1984)", "Top lista nadrealista (Radio/TV sketch show)"]
+palette: ["#221D1D", "#3C4147", "#8C6B65", "#B19A89", "#3E60B1", "#71433E"]
 source_url: "https://aesthetics.fandom.com/wiki/New_Primitivism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

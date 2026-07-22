@@ -5,6 +5,7 @@ aka: ["Second Summer of Love", "Baggy"]
 decade_of_origin: "1980s"
 key_motifs: ["Bucket hats", "baggy clothing", "psychedelia", "raving", "1960s iconography/inspiration", "indie"]
 key_colours: ["All", "vibrant and saturated/psychedelic"]
+palette: ["#5F7A7F", "#423840", "#0D080C", "#E8DEBB", "#FCFDDD", "#B6A592"]
 key_values: ["Local pride", "musical innovation", "drugs (particularly MDMA)", "hedonism (e.g. nightclubs)", "youth rebellion"]
 related_aesthetics: ["Acid Design", "Acid House", "Britpop", "Casuals", "Freakbeat", "Groovival", "Hippie", "Indie", "Lad Culture", "Mod", "New Rave", "Northern Soul", "Post-Punk", "Psychedelia", "Punk", "Rave"]
 source_url: "https://aesthetics.fandom.com/wiki/Madchester"

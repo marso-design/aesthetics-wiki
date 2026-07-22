@@ -5,6 +5,7 @@ aka: ["Witkiewicz Style"]
 decade_of_origin: "1890s-1910s"
 key_motifs: ["Sunrays", "floral carving", "Goral motifs", "hearts"]
 key_colours: ["Wood tones", "stone grey", "green"]
+palette: ["#DCDCDC", "#3B2113", "#854A24", "#A96733", "#594938", "#C7945F"]
 key_values: ["Goral culture", "national identity", "connection with nature", "traditional craftmanship"]
 related_aesthetics: ["Art Nouveau", "Arts and Crafts Movement", "Romanticism", "Young Poland"]
 source_url: "https://aesthetics.fandom.com/wiki/Zakopane_Style"

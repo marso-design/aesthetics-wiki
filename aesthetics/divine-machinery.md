@@ -4,6 +4,7 @@ slug: "divine-machinery"
 decade_of_origin: "2020s (with roots in earlier art movements)"
 key_motifs: ["Wires", "screens", "transmission towers", "hardware", "religious symbolism", "angels", "retro computer displays", "BSOD", "bundles of cables", "motherboards", "robotics", "broken or malfunctioning technology", "TV static", "crosses", "angelic or divine figures"]
 key_colours: ["Dark colors", "blue", "green", "black", "red"]
+palette: ["#000000", "#212224", "#737D91", "#8C99B0", "#3B474F", "#51271D"]
 key_values: ["Comparison of technological creation to divine creation", "identification of humanity with gods and machinery with angels", "connection between biological forms", "religious motifs", "and mechanical structures", "exploration of artificial intelligence", "transhumanism", "and conflict between religion and scientific progress"]
 related_aesthetics: ["Abstract Tech", "Cyber Angel", "Denpa", "Tradcath Coquette"]
 related_media: ["Serial Experiments Lain", "Ghost in The Shell", "Neon Genesis Evangelion", "The Matrix", "2001: A Space Odyssey", "Ex Machina"]

@@ -4,6 +4,7 @@ slug: "geo-boho"
 decade_of_origin: "Early 2010s"
 key_motifs: ["Triangular grids", "Native American imagery", "New Age imagery", "lo-mo filters", "line-based vector graphics"]
 key_colours: ["beiges and muted colors"]
+palette: ["#03070A", "#E9E0DF", "#404242", "#2E211A", "#B3B0AD", "#89776C"]
 related_aesthetics: ["Boho-Chic", "Eco-Beige", "Hipster", "Tranquil Spa Graphics", "Technozen", "Global Village Coffeehouse"]
 source_url: "https://aesthetics.fandom.com/wiki/Geo-Boho"
 license: "CC-BY-SA-4.0"

@@ -4,6 +4,7 @@ slug: "hipster"
 decade_of_origin: "1940s90s-2000s (Repopularization)"
 key_motifs: ["Vintage", "bikes", "music"]
 key_colours: ["Any colors; either dissonant", "intentionally unstylish colors", "nature-based earth tones", "or gothic/artist black"]
+palette: ["#312D2A", "#151211", "#5E888E", "#5E524B", "#932F36", "#DECDC5"]
 key_values: ["Independence", "creativity", "artistry", "education", "rejection of corporate or mainstream products and attitudes", "veganism", "sustainability", "alternative music", "vintage style"]
 related_aesthetics: ["Beatnik", "Bloghouse", "Dandy", "Indie", "Galaxy Print", "Hipness Purgatory", "2014 Tumblr", "Recession Pop", "Emo", "Grunge", "Hippie", "Indie Sleaze", "Lumberjack", "Minimalism", "Nerd", "Normcore", "Nu-Goth", "Folk Punk", "Party Rock", "Scene", "Stilyagi", "Yabi"]
 source_url: "https://aesthetics.fandom.com/wiki/Hipster"

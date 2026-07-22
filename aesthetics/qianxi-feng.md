@@ -5,6 +5,7 @@ aka: ["00s China", "(Chinese) Y2K", "Boom-Era Nostalgia", "Beauty of the Boom Ye
 decade_of_origin: "2000s (origin)2020s (nostalgia)"
 key_motifs: ["Chinese and other East Asian pop culture and fashion of the 2000s"]
 key_colours: ["Bright colors"]
+palette: ["#5B8DBE", "#262830", "#563B50", "#8C8D8F", "#6E6D67", "#AE9284"]
 key_values: ["Abundance", "ambition", "individual expression", "confidence", "optimism"]
 related_aesthetics: ["Heisei Retro", "Y2K", "Retro Hong Kong", "Chinese Dreamcore", "Gyaru", "Girl Crush"]
 source_url: "https://aesthetics.fandom.com/wiki/Qianxi_Feng"

@@ -5,6 +5,7 @@ aka: ["Goeng-si fiction"]
 decade_of_origin: "1980s"
 key_motifs: ["Jiangshi in Qing Dynasty official robes", "yellow Taoist fulu"]
 related_aesthetics: ["Wuxia"]
+palette: ["#537A82", "#1F2C2E", "#B78A7F", "#091112", "#434557", "#E9E3CE"]
 source_url: "https://aesthetics.fandom.com/wiki/Jiangshi_fiction"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

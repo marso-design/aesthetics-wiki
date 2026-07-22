@@ -4,6 +4,7 @@ slug: "brazilian-bombshell"
 decade_of_origin: "2000s"
 key_motifs: ["Wavy hair", "sun-kissed skin", "lingerie", "fashion shows", "Victoria's Secret Wings"]
 key_colours: ["Vibrant colours"]
+palette: ["#190D09", "#748090", "#D59177", "#745544", "#AC5B52", "#46332B"]
 key_values: ["Confidence", "sexiness", "sensuality", "athleticism"]
 related_aesthetics: ["Barbiecore", "Bimbocore", "Heroin Chic (contrasts)", "McBling", "Slavic Doll (contrasts)", "Y2K"]
 source_url: "https://aesthetics.fandom.com/wiki/Brazilian_Bombshell"

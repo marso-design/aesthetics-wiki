@@ -1,6 +1,7 @@
 ---
 name: "Stimboard"
 slug: "stimboard"
+palette: ["#7EC7D5", "#A54585", "#C07F82", "#E7C4BC", "#F8F6FD", "#D0A090"]
 source_url: "https://aesthetics.fandom.com/wiki/Stimboard"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

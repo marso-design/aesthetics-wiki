@@ -5,6 +5,7 @@ aka: ["Key West Cutie", "Lizzy Grant Summer"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Palm trees", "flamingos", "beachside motels", "ice cream", "heart-shaped sunglasses", "sunscreen", "dolphins", "pools and floaties", "ferris wheels"]
 key_colours: ["Pastel blue", "pink", "and yellow"]
+palette: ["#A5D6EF", "#444F56", "#C6A6A1", "#917E7C", "#706D6E", "#F9E2D6"]
 related_aesthetics: ["Barbiecore", "Bubblegum Coquette", "Coconut Girl", "Delicate Sweet", "Gloomy Coquette", "Surf Crush", "Trailer Park Princess", "Tropicabana", "Tropicalcore", "Vintage Americana"]
 primary_platform: ["Tumblr", "Pinterest"]
 source_url: "https://aesthetics.fandom.com/wiki/Key_West_Kitten"

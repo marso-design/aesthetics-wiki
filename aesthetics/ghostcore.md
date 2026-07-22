@@ -4,6 +4,7 @@ slug: "ghostcore"
 decade_of_origin: "2010s"
 key_motifs: ["Ghosts", "cemeteries", "dark rustic atmospheres", "sheets", "haunted houses", "abandoned places", "discomforting modeling positions", "unexplainable phenomena involving photos of ghosts", "grainy photos", "silence"]
 key_colours: ["Black", "white", "muted natural colors"]
+palette: ["#3E3732", "#595451", "#1B1613", "#837F75", "#BAAD9B", "#F0F0F0"]
 key_values: ["Individual freedom", "expression", "feeling formless and otherworldly", "hauntings", "the occult", "humour"]
 related_aesthetics: ["Cottagegore", "Cryptidcore", "Dark Naturalism", "Ethereal", "Goth", "Goblincore", "Gloomcore"]
 related_media: ["Corpse Party", "Tokyo Ghoul", "Deadman Wonderland"]

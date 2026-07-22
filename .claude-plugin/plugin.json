@@ -1,0 +1,21 @@
+{
+  "name": "aesthetics-wiki",
+  "displayName": "Aesthetics Wiki",
+  "version": "0.1.0",
+  "description": "A deep, queryable knowledge base of 1,201 internet visual aesthetics, each with structured data and a colour palette derived from real reference images. Helps you identify, understand, compare, and apply any aesthetic.",
+  "author": {
+    "name": "Marso Design",
+    "url": "https://github.com/marso-design"
+  },
+  "homepage": "https://github.com/marso-design/aesthetics-wiki",
+  "repository": "https://github.com/marso-design/aesthetics-wiki",
+  "license": "MIT",
+  "keywords": [
+    "aesthetics",
+    "design",
+    "moodboard",
+    "design-system",
+    "claude-skill",
+    "ai"
+  ]
+}

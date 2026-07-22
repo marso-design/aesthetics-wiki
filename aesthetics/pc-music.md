@@ -6,6 +6,7 @@ decade_of_origin: "2010s"
 creators: ["A. G. Cook"]
 key_motifs: ["Glossy CGI", "corporate branding", "early 2000s web design", "hyper-real textures (water, metal, plastic)", "devised pop star personas"]
 key_colours: ["Hyper-saturated pinks", "blues", "neons", "metallic silver"]
+palette: ["#0000FF", "#221ECA", "#BDB5D8", "#7269AE", "#EA3441", "#F0B3BC"]
 key_values: ["Artificiality", "consumerism (critique/celebration)", "internet culture", "experimental pop", "nostalgia"]
 related_aesthetics: ["Bubblegum Bling", "Hyperpop", "Neo-Aero", "Neo-Y2K", "Seapunk", "Vaporwave", "Y2K Futurism"]
 primary_platform: ["SoundCloud"]

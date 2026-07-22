@@ -6,6 +6,7 @@ key_motifs: ["Motor scooters (Vespa, Lambretta)", "RAF roundels", "tailored suit
 key_values: ["Nostalgia (for 1960s Mod culture)", "sharp style", "youth rebellion", "musical identity"]
 related_aesthetics: ["Mod", "Punk", "New Wave", "Casuals", "2 Tone"]
 related_media: ["Quadrophenia (1979 film)"]
+palette: ["#1B0415", "#9C857C", "#625D63", "#4E424C", "#4E2931", "#B39C8E"]
 source_url: "https://aesthetics.fandom.com/wiki/Mod_Revival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

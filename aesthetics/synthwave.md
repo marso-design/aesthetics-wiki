@@ -4,6 +4,7 @@ slug: "synthwave"
 decade_of_origin: "Mid-2000s"
 key_motifs: ["Neon grids", "wireframe landscapes", "striped sunsets", "1980s supercars (Testarossa, Countach)", "palm trees", "VHS tracking static", "chrome typography"]
 key_colours: ["Magenta", "cyan", "violet", "neon pink", "deep blue", "black"]
+palette: ["#2A0E4E", "#382670", "#020106", "#98278F", "#6669B5", "#614FA5"]
 key_values: ["Nostalgia", "retrofuturism", "escapism", "cinematic atmosphere"]
 related_aesthetics: ["Cassette Futurism", "Cyberpunk", "Italo Disco", "Laser Grid", "Memphis Design", "Neon Noir", "New Wave", "Vaporwave", "Yuppie"]
 subgenres: ["Darksynth", "Sovietwave"]

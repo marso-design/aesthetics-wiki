@@ -1,6 +1,7 @@
 ---
 name: "SoundCloud Rap"
 slug: "soundcloud-rap"
+palette: ["#111210", "#FFFFFF", "#ABA69D", "#CCC7C2", "#B91C0C", "#726A5D"]
 source_url: "https://aesthetics.fandom.com/wiki/SoundCloud_Rap"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -4,6 +4,7 @@ slug: "ganguro"
 decade_of_origin: "Mid-1990s"
 key_motifs: ["Deep artificial tans", "bleached hair (blonde/silver)", "heavy black eyeliner", "white concealer (as lipstick/eyeshadow)", "platform boots", "mini skirts", "hibiscus flowers"]
 key_colours: ["Vibrant and neon colors contrasted with the dark tan"]
+palette: ["#6F86B4", "#272020", "#3F3B43", "#9F6C5C", "#AD867D", "#8F4A3F"]
 key_values: ["Rebellion", "non-conformity", "rejection of traditional beauty standards", "fun", "club culture"]
 related_aesthetics: ["Gyaru", "Kogal", "Manba", "Yamanba"]
 related_media: ["Egg Magazine", "Popteen Magazine", "Ego System"]

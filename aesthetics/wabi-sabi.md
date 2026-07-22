@@ -6,6 +6,7 @@ decade_of_origin: "~1300s A.D."
 key_motifs: ["Simplicity", "imperfections", "rust/verdigris", "nicks/scratches", "organic shapes (esp. plants)", "asymmetry/lopsidedness"]
 key_values: ["irregularity", "roughness", "incompleteness", "deliberate imperfection"]
 related_aesthetics: ["Art Academia", "Japandi", "Showa Retro", "Mizuiro Kaiwai"]
+palette: ["#6A6262", "#DDDBE0", "#73767A", "#2C2628", "#8D8D88", "#B5AFA5"]
 source_url: "https://aesthetics.fandom.com/wiki/Wabi-Sabi"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

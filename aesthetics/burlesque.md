@@ -3,6 +3,7 @@ name: "Burlesque"
 slug: "burlesque"
 decade_of_origin: "17th Century"
 key_colours: ["Red", "black", "white", "yellow"]
+palette: ["#3A2B25", "#C5482D", "#0F0709", "#97887B", "#7E6D61", "#645347"]
 key_values: ["Parody", "satire", "comedy", "sexuality", "drama", "exaggeration", "flamboyance", "extravaganza"]
 related_aesthetics: ["Art Nouveau", "Ballroom Culture", "Camp", "Caricaturism", "Dark Cabaret", "Clowncore", "Fanfare", "Glam Rock", "Kitsch Las Vegas", "Old Hollywood", "Pin-up", "Roaring 20s", "Rockabilly", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Burlesque"

@@ -5,6 +5,7 @@ aka: ["Ráchet (less common; used in normative Spanish)\"ráchet", "adaptación 
 decade_of_origin: "Late-2010s"
 key_motifs: ["Tracksuits", "large hoop earrings", "fanny packs", "elaborate nails", "fishnet clothing", "faux fur", "platform shoes", "high hairstyles"]
 key_colours: ["Black", "gold", "bright colors", "animal prints"]
+palette: ["#2A2422", "#151110", "#48383C", "#6B6772", "#834730", "#D5C8C1"]
 key_values: ["Provocation", "empowerment", "extravagance", "confidence", "self-expression", "reclaiming \"choni\" aesthetics"]
 related_aesthetics: ["Chav", "Choni", "Hip-Hop", "McBling", "Neoperreo"]
 primary_platform: ["TikTok"]

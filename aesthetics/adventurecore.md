@@ -4,6 +4,7 @@ slug: "adventurecore"
 decade_of_origin: "2010s"
 key_motifs: ["Exploration", "the great outdoors", "maps", "compasses", "hiking gear", "dense forests", "misty mountains"]
 key_colours: ["Earth tones (green, brown, dark blue, off-white)"]
+palette: ["#0F4899", "#5F7A97", "#2A3C56", "#A2A9A5", "#556071", "#284978"]
 key_values: ["Curiosity", "exploration", "yearning for the unknown", "connection to nature"]
 related_aesthetics: ["Adventure Pulp", "Cabincore", "Campcore", "Goblincore", "Naturecore"]
 related_media: ["Gravity Falls", "Over the Garden Wall", "The Legend of Zelda: Breath of the Wild"]

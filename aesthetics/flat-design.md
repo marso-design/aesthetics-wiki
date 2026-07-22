@@ -5,6 +5,7 @@ aka: ["Vector Minimalism"]
 decade_of_origin: "2010s"
 key_motifs: ["Current technology", "visual organization and cleanliness", "simplistic design"]
 key_colours: ["White", "light grey", "light blue", "light green"]
+palette: ["#FFFFFF", "#12181D", "#F1A54A", "#96353F", "#6A6B6A", "#F4EAD7"]
 related_aesthetics: ["Bauhaus", "Cyberminimalism", "International Typographic Style", "Memphis Design", "Minimalism", "Neubrutalism", "Plakatstil", "Neumorphism"]
 subgenres: ["Corporate Memphis"]
 source_url: "https://aesthetics.fandom.com/wiki/Flat_Design"

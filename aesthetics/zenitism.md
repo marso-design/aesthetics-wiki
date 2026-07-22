@@ -4,6 +4,7 @@ slug: "zenitism"
 decade_of_origin: "1921–1926"
 key_motifs: ["The \"Barbarogenius", "\" machines", "the modern city", "airplanes", "Balkan folklore motifs", "geometric abstraction", "dynamic typography"]
 key_colours: ["Often black", "white", "and red"]
+palette: ["#030303", "#E2CE9F", "#8E7B57", "#C2AD7A", "#50412A"]
 key_values: ["Anti-traditionalism", "Balkan cultural revival", "synthesis of \"East\" and \"West", "\" pacifism", "primitivism"]
 related_aesthetics: ["Constructivism", "Cubism", "Dadaism", "Expressionism", "Futurism", "Signalism"]
 primary_platform: ["ZENIT (journal)"]

@@ -5,6 +5,7 @@ aka: ["Motorbiker", "Outlaw Biker"]
 decade_of_origin: "1950s"
 key_motifs: ["Leather", "smoking", "revving", "violence", "sex", "motorcycles"]
 key_colours: ["Black", "red", "gray"]
+palette: ["#1D2122", "#454947", "#908271", "#3D3432", "#E6D6CB", "#9ABBB0"]
 related_aesthetics: ["Bosozoku", "Grunge", "Gyaru", "Metal", "Motomami", "Post-Apocalyptic", "Punk", "Racing", "Raggare", "Surfer"]
 source_url: "https://aesthetics.fandom.com/wiki/Biker"
 license: "CC-BY-SA-4.0"

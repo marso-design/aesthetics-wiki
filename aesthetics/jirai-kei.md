@@ -5,6 +5,7 @@ aka: ["Jirai Onna", "Jirai Joshi", "Landmine Girl"]
 decade_of_origin: "2020s"
 key_motifs: ["Ribbons", "bows", "lace", "ruffles", "Peter Pan collars", "heart-shaped hardware", "crosses", "Sanrio characters (especially Kuromi, My Melody)", "pleading face emoji", "fake knives/guns", "box-cutters", "razors", "cigarettes", "alcohol", "energy drinks", "pills", "syringes", "plushies", "self-harm imagery"]
 key_colours: ["Black", "muted pink", "white", "grey", "red"]
+palette: ["#050506", "#AF9FA2", "#E5DEDE", "#CFBEC5", "#574E49", "#84645F"]
 key_values: ["Subversion of traditional femininity", "embracing dark stereotypes", "obsessive tendencies", "romanticization of self-destructive behaviors", "reclaiming derogatory labels"]
 related_aesthetics: ["E-Girl", "Girly Kei", "Kawaii", "Kuromicore", "Larme Kei", "PEEPS", "Sanriocore", "Vampire", "Yami Kawaii", "Yandere"]
 subgenres: ["Subcul Kei"]

@@ -5,6 +5,7 @@ aka: ["Gangstas with Waifus", "Celebrities with Anime Characters"]
 decade_of_origin: "2010s"
 key_motifs: ["Real-life figures (gangsters, rappers, politicians) with anime characters", "juxtaposing \"tough\" and \"cute\" aesthetics", "warm color filters", "often humorous or ironic."]
 key_colours: ["Muted colors", "bright colors", "neon colors"]
+palette: ["#160E1F", "#2F303B", "#545C65", "#888D92", "#BCACA6", "#8C6361"]
 key_values: ["Humor", "irony", "juxtaposition", "satire", "cultural blending"]
 related_aesthetics: ["Future Funk", "Pen & Pixel", "Meme Rap", "Moe", "MLG", "Lolicore", "Trillwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Moe_Swag"

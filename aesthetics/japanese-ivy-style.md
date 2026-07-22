@@ -5,6 +5,7 @@ aka: ["Ametora (American Traditional)", "Japanese Preppy", "J-Preppy"]
 decade_of_origin: "1960s"
 key_motifs: ["Button-down shirts", "chinos", "blazers", "penny loafers", "cardigans", "letterman jackets", "meticulous attention to detail"]
 key_colours: ["Navy blue", "khaki", "white", "grey", "madras plaid", "seersucker stripes"]
+palette: ["#393C3F", "#C1B7A8", "#262627", "#888A8B", "#5F514C", "#887369"]
 key_values: ["Authenticity", "craftsmanship", "academic approach to style", "reverence for tradition", "understated coolness"]
 related_aesthetics: ["Black Ivy", "Preppy"]
 related_media: ["Magazines (Men's Club, Popeye)", "Books (Take Ivy, Ametora)"]

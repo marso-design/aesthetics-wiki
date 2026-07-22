@@ -5,6 +5,7 @@ aka: ["Lumbersexual", "Urban Lumberjack"]
 decade_of_origin: "Late 2000s"
 key_motifs: ["Flannel shirts (especially buffalo plaid)", "selvedge denim", "work boots", "beards", "axes", "forests", "cabins"]
 key_colours: ["Red", "black", "brown", "denim blue", "khaki", "olive green"]
+palette: ["#6D6254", "#53544C", "#212222", "#9F8B63", "#110D0F", "#4C3627"]
 key_values: ["Authenticity", "ruggedness", "masculinity", "craftsmanship", "durability", "connection to nature"]
 related_aesthetics: ["Adventurecore", "Cabincore", "Grunge", "Hipster", "Normcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Lumberjack"

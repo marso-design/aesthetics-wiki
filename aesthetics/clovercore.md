@@ -4,6 +4,7 @@ slug: "clovercore"
 decade_of_origin: "Late 1990s–Early 2000s"
 key_motifs: ["Four-leaf clovers", "ladybugs", "musical notes", "\"sparkle\" or \"glitter\" graphics", "lace borders", "polka dots", "nameless mascots (bears, pandas, hamsters)", "English phrases about luck and dreams"]
 key_colours: ["Lime green", "grass green", "white", "soft pink"]
+palette: ["#C39F68", "#FEFFFF", "#91865D", "#7A5944", "#D2DABD", "#59A355"]
 key_values: ["Luck", "happiness", "innocence", "childhood nostalgia", "nature-themed playfulness"]
 related_aesthetics: ["Frutiger Eco", "Global Village Coffeehouse", "Heisei Retro", "Juminocore", "Puppycore", "Whimsy Twee"]
 source_url: "https://aesthetics.fandom.com/wiki/Clovercore"

@@ -4,6 +4,7 @@ slug: "greaser"
 decade_of_origin: "1950s"
 key_motifs: ["Pompadour hair", "leather jackets or jean jackets", "T-shirts", "cuffed-up pants or denim pants", "boots", "feminine scarf", "sunglasses", "delinquency", "youth", "cigarettes", "switchblades", "souped-up cars", "motorcycles"]
 key_colours: ["Black", "white", "red"]
+palette: ["#121817", "#3D3D37", "#BDB2A3", "#7F7B70", "#545046", "#FEFFFC"]
 key_values: ["Freedom", "enjoying life", "chilling out with friends", "self-defense", "bravery", "gang loyalty", "family", "rejection of societal norms or mainstream culture", "anti-capitalism", "democratic socialism/anarchism"]
 related_aesthetics: ["Americana", "Bobby-Soxer", "Guido", "Halbstarke", "Old Hollywood", "Punk", "Raggare", "Rockabilly"]
 related_media: ["Cry-Baby", "Grease", "The Outsiders"]

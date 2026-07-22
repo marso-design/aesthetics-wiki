@@ -4,6 +4,7 @@ slug: "deathrock"
 decade_of_origin: "Late 1970s"
 key_motifs: ["B-Movie horror", "spider webs", "bats", "zombies", "cemeteries", "surrealism", "DIY aesthetics", "ripped fishnets"]
 key_colours: ["Black", "white", "with accents of blood red", "purple", "or blue"]
+palette: ["#000000", "#B8B2B1", "#807B75", "#505053", "#33343A", "#D8D3D0"]
 key_values: ["Theatricality", "DIY ethos", "macabre humor", "rebellion", "androgyny"]
 related_aesthetics: ["B-Movie Horror", "Goth", "Horror Punk", "Post-Punk", "Punk", "Psychobilly"]
 related_media: ["The Return of the Living Dead (film)", "Only Theatre of Pain (album by Christian Death)", "New Wave Theatre (TV show)"]

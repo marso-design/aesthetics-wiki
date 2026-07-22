@@ -5,6 +5,7 @@ aka: ["ギャル男"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Voluminous \"sujimori\" hair", "tanned skin", "layered accessories", "tight-fitting clothes", "brand logos"]
 key_colours: ["Varies by substyle", "but often includes black", "white", "gold", "and animal prints"]
+palette: ["#4B2A38", "#FBFCF9", "#595D6D", "#242630", "#9B9C93", "#DFDFCF"]
 key_values: ["Youth rebellion", "fashion", "partying", "materialism", "glamour"]
 related_aesthetics: ["Gyaru (female)", "Onii Kei", "Bosozoku"]
 source_url: "https://aesthetics.fandom.com/wiki/Gyaruo"

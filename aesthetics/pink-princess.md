@@ -5,6 +5,7 @@ aka: ["Rocococore", "Modern Rococo"]
 decade_of_origin: "1930s"
 key_motifs: ["Pink bows", "white cats", "swans", "bunnies", "ballerinas", "silk pajamas", "champagne", "macarons", "luxury chocolates", "cake with pink frosting", "pearls", "diamonds"]
 key_colours: ["Pink", "white", "gold"]
+palette: ["#CEBFB8", "#4F3829", "#A58A78", "#6C594B", "#F4FCFC", "#8B654D"]
 key_values: ["Self-love", "kindness", "compassion", "generosity"]
 related_aesthetics: ["Pink Parisian", "Princesscore", "Rococo", "Romantic Academia", "Dollette"]
 source_url: "https://aesthetics.fandom.com/wiki/Pink_Princess"

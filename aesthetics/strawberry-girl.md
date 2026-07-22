@@ -5,6 +5,7 @@ aka: ["Strawberry Girl Summer", "Strawberry Shortcake Aesthetic"]
 decade_of_origin: "2020s"
 key_motifs: ["Strawberries", "pink/red blush", "faux freckles", "glossy lips", "gingham", "linen fabric", "canvas totes"]
 key_colours: ["Pink", "red", "white", "cream"]
+palette: ["#68733A", "#553624", "#927A64", "#9B352F", "#C4B2A0", "#9B9B77"]
 key_values: ["Freshness", "youthfulness", "sweetness", "romanticized summer", "natural beauty"]
 related_aesthetics: ["Balletcore", "Cottagecore", "Coquette", "Lovecore", "Peach Girl", "Picniccore", "Soft Girl", "Tomato Girl", "Whimsy Twee"]
 related_media: ["Strawberry Shortcake series (influence)"]

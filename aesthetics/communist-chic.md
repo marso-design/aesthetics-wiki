@@ -5,6 +5,7 @@ aka: ["Che Chic", "Chekist Chic", "Commie Chic"]
 decade_of_origin: "Mid-1970s"
 key_motifs: ["Guerrillero Heroico (Che Guevara)", "Faux Cyrillic", "Hammer and sickle", "red flags", "red/yellow stars", "The Communist Manifesto", "Soviet-style ushankas"]
 key_colours: ["Black", "red", "yellow"]
+palette: ["#2F1513", "#6C6F6E", "#9F211A", "#333946", "#C84241", "#B18C81"]
 key_values: ["Shock value", "appropriation or subversion of totalitarian symbols", "counterculture", "irony", "nostalgia"]
 related_aesthetics: ["Laborwave", "Nazi Chic", "New Partisans", "Punk", "Soviet Nostalgia", "Winter Bimbo"]
 source_url: "https://aesthetics.fandom.com/wiki/Communist_Chic"

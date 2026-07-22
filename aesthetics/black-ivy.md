@@ -4,6 +4,7 @@ slug: "black-ivy"
 aka: ["Black Elite", "Bougee", "Black Establishment", "Black Ivy League"]
 key_motifs: ["Sunday best", "preppy fashion elements", "African pattern elements", "black sunglasses", "jeans", "sneakers", "jewelry", "HBCU sweaters", "sportswear elements"]
 key_colours: ["Pastels", "earth tones", "dark blues", "black"]
+palette: ["#3D3C41", "#231E20", "#73645D", "#88847C", "#DCDDD7", "#B7AEA4"]
 key_values: ["Community", "self-expression", "cultivation", "integrity", "femininity", "masculinity"]
 related_aesthetics: ["Preppy", "Disco", "Hip-Hop", "Vintage British Sportsman"]
 related_media: ["Harlem Community News", "Our Time Press", "The New York Beacon", "Washington Informer", "The Washington Sun", "Chicago Defender", "Los Angeles Sentinel", "Bay State Banner", "HBCU newsletters", "BET networks", "Harpo Productions", "Tyler Perry Studios", "Westbrook Inc.", "IMO - Michelle Obama", "This is Keke Palmer", "Essence", "Black Enterprise", "Blavity", "Ebony Magazine", "Jet (historically)"]

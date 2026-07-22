@@ -3,6 +3,7 @@ name: "Beach Day"
 slug: "beach-day"
 key_motifs: ["Sand", "the ocean", "beach bags", "seashells", "sunglasses", "sunsets"]
 key_colours: ["Yellow", "blue", "coral"]
+palette: ["#4F808A", "#2B2C29", "#78A0AF", "#C49C9C", "#764B3A", "#F9F3DC"]
 key_values: ["Summer life", "going to the beach", "relaxation"]
 related_aesthetics: ["Summer", "Tropical", "Surfer", "Surf Crush"]
 source_url: "https://aesthetics.fandom.com/wiki/Beach_Day"

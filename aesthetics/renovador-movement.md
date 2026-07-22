@@ -6,6 +6,7 @@ decade_of_origin: "1920s–1930s"
 key_motifs: ["Galician culture", "portraits", "modernism", "religious iconography", "still lifes", "\"Gallaecia\" typography"]
 key_values: ["Galician regionalism", "intellectualism", "modernization", "innovation", "satire", "retranca (a uniquely Galician form of irony/humor)"]
 related_aesthetics: ["Art Nouveau", "Cubism", "Expressionism", "Surrealism"]
+palette: ["#766D60", "#65513F", "#17120D", "#403630", "#FFFFFF", "#C8C5C5"]
 source_url: "https://aesthetics.fandom.com/wiki/Renovador_Movement"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["1960s / 1970s Medieval Revival"]
 decade_of_origin: "1950s"
 key_motifs: ["Embroidery", "lush gardens", "castles", "knights"]
 key_colours: ["Red", "yellow", "blue"]
+palette: ["#E6EEEA", "#403738", "#C8D0CE", "#584946", "#322524", "#8C6458"]
 key_values: ["Community", "craftsmanship", "honor", "artistry", "dreams", "courtly love"]
 related_aesthetics: ["Aestheticism", "Bohemian", "Beatnik", "Corporate Hippie", "Ethereal", "Fantasy", "Flower Power", "Groovival", "Hippie", "Knightcore", "Medieval Fantasy", "Psychedelia", "Peacock Revolution", "Renaissance Revival", "Vintage"]
 related_media: ["Lord of the Rings", "Donkeyskin", "Monty Python and the Holy Grail"]

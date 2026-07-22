@@ -4,6 +4,7 @@ slug: "dark-academia"
 decade_of_origin: "Mid-2010s (peak popularity in the early 2020s)"
 key_motifs: ["Books", "libraries", "classical art", "ancient history", "poetry", "writing", "candles", "old architecture", "tweed jackets", "pleated skirts"]
 key_colours: ["Black", "brown", "dark green", "burgundy", "tan", "cream"]
+palette: ["#100A05", "#9F988F", "#3A2B22", "#BEBDBA", "#463F37", "#7A6F65"]
 key_values: ["Intellectualism", "self-discovery", "romanticism", "mystery", "rebellion", "decadence"]
 related_aesthetics: ["Beatnik", "Darkest Academia", "Chaotic Academia", "Dandy", "Gothic", "Light Academia", "Old Money", "Preppy", "Romantic Academia", "Studyblr", "Thought Daughter", "Whimsigoth", "Victorian"]
 related_media: ["The Secret History", "Dead Poets Society", "Kill Your Darlings", "Harry Potter"]

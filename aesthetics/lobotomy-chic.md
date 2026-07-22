@@ -5,6 +5,7 @@ aka: ["Dissociative Pout", "Selfie Nihilism"]
 decade_of_origin: "2020s"
 key_motifs: ["Dissociation", "pouty-face", "catholic imagery", "nostalgia", "esoteric references", "messiness", "artificial authenticity", "online culture and web 'it' girls"]
 key_colours: ["Grey", "brown", "white", "beige-yellow", "light blue"]
+palette: ["#181C17", "#B6B9B7", "#929791", "#6E736A", "#454942", "#C6CDCC"]
 key_values: ["Detachment", "nihilism", "meta-irony", "femininity", "dark humor", "broadness", "self-awareness"]
 related_aesthetics: ["Cuntry", "Dark Nymphet", "Grunge", "Heroin Chic", "Indie", "Indie Sleaze", "Kinderwhore", "Midwest Gothic", "Morute", "Preacher's Daughter", "Slavic Doll", "Trailer Park Princess", "Twilightcore", "Waif", "Weirdcore"]
 primary_platform: ["Instagram"]

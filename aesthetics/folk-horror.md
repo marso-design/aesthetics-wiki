@@ -5,6 +5,7 @@ aka: ["Rural Horror"]
 decade_of_origin: "1970s"
 key_motifs: ["cults", "demons", "urban legends", "ghosts", "animal masks/skins", "rituals", "darkness and shadows", "goblins", "isolated areas", "paganism", "rural land"]
 key_colours: ["muted earthly tones", "black", "white"]
+palette: ["#010101", "#32241C", "#574E45", "#76695D", "#3E3835", "#AAA58F"]
 key_values: ["religion", "belief", "fear of the unknown", "superstition vs modernity"]
 related_aesthetics: ["Catholic Horror", "Cottagegoth", "Devilcore", "Gloomcore", "Haunted Mound", "Horror", "Southern Gothic"]
 related_media: ["The Wicker Man", "Witchfinder General", "The Blood on Satan's Claw", "Midsommar"]

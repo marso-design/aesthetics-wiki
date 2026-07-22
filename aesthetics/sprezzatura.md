@@ -7,6 +7,7 @@ key_motifs: ["Apparent effortlessness", "concealed art", "subtle imperfection", 
 key_values: ["Nonchalance", "grace", "dignity", "authenticity", "confidence", "individuality", "comfort"]
 related_aesthetics: ["Bon Chic Bon Genre", "Metrosexual", "Old Money"]
 related_media: ["The Book of the Courtier (1528) by Baldassare Castiglione"]
+palette: ["#1A1818", "#ADB8B5", "#78858A", "#322E28", "#86674B", "#E6E2D7"]
 source_url: "https://aesthetics.fandom.com/wiki/Sprezzatura"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

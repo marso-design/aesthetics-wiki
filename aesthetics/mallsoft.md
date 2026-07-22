@@ -5,6 +5,7 @@ aka: ["Mallwave"]
 decade_of_origin: "2010s"
 key_motifs: ["Shopping malls", "atrium architecture", "food courts", "indoor fountains", "neon signage", "consumerist decay"]
 key_colours: ["Pink", "teal", "mint green", "purple", "white", "gold"]
+palette: ["#2E2330", "#C7C9D6", "#445662", "#AA7086", "#7A4961", "#736D75"]
 key_values: ["Nostalgia", "hyper-consumerism", "liminality", "comfort", "isolation"]
 related_aesthetics: ["After Hours", "Liminal Space", "Memphis Design", "Vaporwave"]
 primary_platform: ["Bandcamp", "YouTube", "4chan"]

@@ -5,6 +5,7 @@ decade_of_origin: "1970s"
 key_motifs: ["Minimalism", "monochromatic color schemes", "trench coats", "button-up shirts", "slim trousers", "Dr. Martens", "abstract art", "German Expressionism", "architectural lines"]
 key_values: ["Introspection", "intellectualism", "anti-commercialism", "DIY ethos", "existentialism", "artistic experimentation"]
 related_aesthetics: ["DIY Punk", "Deathrock", "Doomer", "Industrial", "Goth", "Minimal Wave", "Neofolk", "No Wave", "Normcore", "Punk", "Trad Goth"]
+palette: ["#4C4F52", "#0A0A0A", "#EDEDED", "#7F8285", "#313233", "#1E1E1F"]
 source_url: "https://aesthetics.fandom.com/wiki/Post-Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

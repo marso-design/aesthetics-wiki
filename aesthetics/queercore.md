@@ -5,6 +5,7 @@ aka: ["Homocore", "Queerpunk"]
 decade_of_origin: "Early 1980s"
 key_motifs: ["Pink triangle", "leather"]
 key_colours: ["Black", "white", "pink"]
+palette: ["#030202", "#4F3736", "#6D635B", "#CFD1CB", "#2F2526", "#A47261"]
 key_values: ["LGBTQ pride", "anti-capitalism", "rejection of respectability politics and assimilationism"]
 related_aesthetics: ["La Movida", "Punk", "Taqwacore"]
 source_url: "https://aesthetics.fandom.com/wiki/Queercore"

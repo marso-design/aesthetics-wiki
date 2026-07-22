@@ -4,6 +4,7 @@ slug: "gra-ynacore"
 decade_of_origin: "2010s"
 key_motifs: ["Glitter graphics", "animals", "books", "hearts", "coffee", "flowers", "positive phrases", "diminutive language"]
 key_colours: ["Red", "brown", "pink", "yellow", "blue"]
+palette: ["#BF9D77", "#4F331A", "#9E7649", "#EFE1D5", "#9F362C", "#EBC0AB"]
 key_values: ["Kitsch sentimentality", "nostalgia for socialist-era Poland", "communal warmth"]
 related_aesthetics: ["Disco Polo", "Glitter Graphics", "Live Laugh Love", "Old Web"]
 source_url: "https://aesthetics.fandom.com/wiki/Grażynacore"

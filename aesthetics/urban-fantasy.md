@@ -3,6 +3,7 @@ name: "Urban Fantasy"
 slug: "urban-fantasy"
 key_motifs: ["Magic", "noise", "tall buildings", "crowds of people", "busy streets", "poorly maintained infrastructure"]
 key_colours: ["Loud", "bold colours"]
+palette: ["#1A121B", "#C6885E", "#9C644E", "#322027", "#553332", "#DAA06C"]
 key_values: ["Escapism"]
 related_aesthetics: ["Dragoncore", "Dungeonpunk", "Fantasy", "FantasY2K", "Urbancore", "Vampire", "Witchcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Urban_Fantasy"

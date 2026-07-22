@@ -5,6 +5,7 @@ aka: ["Dandyism"]
 decade_of_origin: "Late 18th & 19th Centuries"
 key_motifs: ["Impeccable tailoring", "cravats", "top hats", "walking canes", "gloves", "polished boots", "nonchalance"]
 key_colours: ["Subdued palettes (dark blue, black, white)", "with attention to fabric and cut"]
+palette: ["#0D0D12", "#21212B", "#6A6A78", "#A9A9B3", "#C4C3CD", "#908F9C"]
 key_values: ["Elegance", "self-cultivation", "nonchalance (sprezzatura)", "individualism", "refined taste", "quiet superiority", "artifice over nature"]
 related_aesthetics: ["Aestheticism", "La Sape", "Metrosexual", "Regency", "Sprezzatura", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Dandy"

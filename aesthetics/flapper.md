@@ -3,6 +3,7 @@ name: "Flapper"
 slug: "flapper"
 decade_of_origin: "1920s"
 key_colours: ["Black", "beige", "brown", "and white mixed with Deco brights in violet", "jade and metallics"]
+palette: ["#100F0E", "#B6B2AD", "#403E3B", "#76726F", "#CECAC5", "#5E5955"]
 key_values: ["Freedom", "Consumer culture"]
 related_aesthetics: ["Americana", "Art Deco", "Electro Swing", "Garçonne", "Modernism", "Old Hollywood", "Roaring 20s", "Vintage", "Weimar Cabaret"]
 source_url: "https://aesthetics.fandom.com/wiki/Flapper"

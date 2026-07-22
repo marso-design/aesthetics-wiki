@@ -5,6 +5,7 @@ aka: ["VHS Horror"]
 decade_of_origin: "Mid-to-Late 2010s"
 key_motifs: ["Nostalgia", "static", "glitches", "psychological dread", "ambiguous threats", "corrupted broadcasts", "hidden messages"]
 key_colours: ["Monochromatic (black and white)", "desaturated", "limited use of blue", "red", "green"]
+palette: ["#3B3E4E", "#1B1826", "#100A42", "#8A7E7B", "#B6B681", "#6E676A"]
 key_values: ["Unsettling the familiar", "loss of control", "fear of malfunctioning technology", "questioning authority", "cosmic horror"]
 related_aesthetics: ["Digital Horror", "Glitch Art", "Horror", "Liminal Space", "Signalwave", "Weirdcore"]
 related_media: ["The Mandela Catalogue", "Gemini Home Entertainment", "Local 58 TV"]

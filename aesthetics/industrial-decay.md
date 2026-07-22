@@ -4,6 +4,7 @@ slug: "industrial-decay"
 aka: ["Urban Decay"]
 key_motifs: ["Abandoned factories", "crumbling buildings", "rust", "corrosion", "decay", "overgrown vegetation", "urban ruins"]
 key_colours: ["Muted colors", "grays", "browns", "rust tones"]
+palette: ["#211E19", "#0D0908", "#3B3930", "#747165", "#544F41", "#A79F8D"]
 key_values: ["Nostalgia for the industrial past", "critique of industrialism", "beauty in decay", "the passage of time", "human impact on the environment"]
 related_aesthetics: ["After Hours", "Arte Povera", "Brutalism", "Cyber Grunge", "Doomer", "Industrial Gothic", "Post-Apocalyptic", "Soft Apocalypse"]
 source_url: "https://aesthetics.fandom.com/wiki/Industrial_Decay"

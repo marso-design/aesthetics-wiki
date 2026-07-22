@@ -5,6 +5,7 @@ aka: ["Kolombia", "Punks Tropicalizados"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Patilludo hairstyle", "oversized clothing", "Mexican religious icons (Virgin of Guadalupe, San Judas Tadeo)", "Colombian flag colors", "hand-woven escapularios (scapulars)"]
 key_colours: ["Bright tropical colors", "Colombian flag Colors (yellow, blue, red)", "plaid patterns", "black", "white"]
+palette: ["#F1F3F2", "#0D0F10", "#546B62", "#879178", "#8D7162", "#CBC4A7"]
 key_values: ["Local pride", "cultural hybridization", "anti-establishment (unintentionally)", "community", "passion for cumbia music"]
 related_aesthetics: ["Cholo", "Cumbiero", "Hip-Hop", "Pachuco", "Reggaetonero"]
 related_media: ["I'm No Longer Here (Ya no estoy aquí) (2019 Film)"]

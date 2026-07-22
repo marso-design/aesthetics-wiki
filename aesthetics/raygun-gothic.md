@@ -7,6 +7,7 @@ key_motifs: ["Nuclear-based power", "Space travel and spacesuits", "Fantastical 
 key_values: ["Endless technological advancement", "Abstracted architecture", "Pulp comic vibes", "Optimistic views"]
 related_aesthetics: ["Art Deco", "Atompunk", "Cassette Futurism", "Dieselpunk", "Diner", "Googie", "Retrofuturism", "Rocketpunk", "Space Age", "Streamline Moderne", "Factory Pomo"]
 related_media: ["The Jetsons", "My Life as a Teenage Robot", "Colonel Bleep"]
+palette: ["#9F9E8D", "#FCF9F9", "#424143", "#55695F", "#D7BC80", "#FBDE9E"]
 source_url: "https://aesthetics.fandom.com/wiki/Raygun_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

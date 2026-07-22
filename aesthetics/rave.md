@@ -5,6 +5,7 @@ aka: ["Rave Culture", "Raver"]
 decade_of_origin: "Late-1980s"
 key_motifs: ["Psychedelic patterns", "neon lights", "glowsticks", "kandi", "pacifiers", "smoke", "smiley face", "PLUR hand sign", "fluorescent clothing"]
 key_colours: ["Neon", "black", "fluorescent"]
+palette: ["#030707", "#040363", "#5E348D", "#2F2F59", "#1D0F49", "#A25EBA"]
 key_values: ["Individuality", "freedom", "community", "self-expression", "hedonism", "PLUR (Peace, Love, Unity, Respect)"]
 related_aesthetics: ["Acid Design", "Asian Baby Girl", "Cyberdelic", "Cybergoth", "Cyberpop", "Cyberpunk", "Graffiti Pop", "Disco", "Electroclash", "Glitch Art", "Krocha", "New Rave", "Northern Soul", "Pokero", "Psychedelia", "Scene", "Tecktonik", "Xpiritualism", "Y2K Futurism"]
 subgenres: ["Acid House", "Bakala", "Berlin Techno Fashion", "Gabber", "Kandi Raver", "Madchester", "New Beat", "UK Garage", "Wixa"]

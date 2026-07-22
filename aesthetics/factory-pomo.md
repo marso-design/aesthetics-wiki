@@ -3,6 +3,7 @@ name: "Factory Pomo"
 slug: "factory-pomo"
 decade_of_origin: "1980s"
 related_aesthetics: ["Art Deco", "Bauhaus", "Constructivism", "Corporate Grunge", "Cyberdelia", "Decopunk", "Dieselpunk", "Early Cyber", "Festival Marketplace", "Frasurbane", "Deco-Luxe", "Decoplex", "Global Village Coffeehouse", "Memphis Design", "Memphis Lite", "Industrial Americana", "Industrial Gothic", "Neoclassical Pomo", "Raygun Gothic", "Silicon Dreams", "Streamline Moderne", "Utopian Scholastic", "Wacky Pomo", "Whimsigothic", "Vaporwave", "Whimsicraft"]
+palette: ["#FFFFFF", "#2D2E31", "#A58163", "#4C4F5C", "#181B1F", "#BAB6A7"]
 source_url: "https://aesthetics.fandom.com/wiki/Factory_Pomo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

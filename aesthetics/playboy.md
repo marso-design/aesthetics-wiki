@@ -5,6 +5,7 @@ aka: ["Jet Set", "Bon Vivant"]
 decade_of_origin: "Mid-20th century"
 key_motifs: ["Luxury sports cars", "yachts", "private jets", "casinos", "tailored suits", "expensive watches", "beautiful women"]
 key_colours: ["Classic", "rich palettes: black", "navy", "white", "with accents of gold or silver"]
+palette: ["#060607", "#1D1514", "#6D594C", "#3F3027", "#8F8274", "#5D3528"]
 key_values: ["Hedonism", "sophistication", "charm", "wealth", "freedom from convention"]
 related_aesthetics: ["Baddie", "Boujee", "Casino", "Femme Fatale", "Heistcore", "Mafia Aesthetic", "New Money", "Old Money", "Yuppie"]
 related_media: ["James Bond film series", "The Wolf of Wall Street (2013)", "Miami Vice"]

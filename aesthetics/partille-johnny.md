@@ -5,6 +5,7 @@ aka: ["PJ"]
 decade_of_origin: "Late 2000s"
 key_motifs: ["Hair wax", "rubber bands on legs", "reflex vests", "oversized smartphones", "chewing tobacco (snus)"]
 key_colours: ["Orange (fake tan)", "neon (reflex vests)", "white (lips/details)", "denim blue"]
+palette: ["#A3958D", "#0B0806", "#5C331D", "#835032", "#796F6E", "#584E4A"]
 key_values: ["Validation", "conformity", "meticulous grooming", "attention-seeking"]
 related_aesthetics: ["Fjortis", "Guido", "Hands Up", "Krocha", "McBling", "Metrosexual", "Scene", "Tecktonik"]
 related_media: ["Bilddagboken (Swedish social media)", "Basshunter (musician)"]

@@ -4,6 +4,7 @@ slug: "hellenic"
 aka: ["Ancient Greek"]
 key_motifs: ["Pomegranates", "gold coins", "bow and arrows", "wine", "grapes", "laurel wreaths", "white marble", "Greek god statues", "Greek mythology", "gold"]
 key_colours: ["White", "gold", "silver", "black", "red", "blue", "beige"]
+palette: ["#77675D", "#473536", "#B59881", "#8E867B", "#D8BCA4", "#C7CBC9"]
 key_values: ["Appreciation and or love for Greek mythology or ancient Greece", "loyalty", "intelligence", "hospitality", "creativity", "Athleticism"]
 related_aesthetics: ["Angelcore", "Classicism", "Dionysism", "Hollywood Regency", "Lovecore", "Neoclassicism", "Noucentisme", "Visigothic Art", "Witchcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Hellenic"

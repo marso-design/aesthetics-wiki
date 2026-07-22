@@ -1,6 +1,7 @@
 ---
 name: "Aesthetics Wiki"
 slug: "aesthetics-wiki"
+palette: ["#232726", "#AAB5B6", "#707C81", "#908C84", "#121111", "#EBF4F7"]
 source_url: "https://aesthetics.fandom.com/wiki/Aesthetics_Wiki"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

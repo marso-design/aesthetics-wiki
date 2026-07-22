@@ -5,6 +5,7 @@ aka: ["Lighthousecore", "Sailorcore"]
 decade_of_origin: "2020s"
 key_motifs: ["Lighthouses", "rugged coastlines", "stormy weather", "cabins", "docks", "rope", "the sea", "sea monsters", "storms", "lanterns", "gas lamps", "sturdy boots", "sea shanties", "sailing ships", "anchors", "fishing net"]
 key_colours: ["Chartreuse", "cyan", "various shades of blue", "sea green", "white", "black", "sandy brown"]
+palette: ["#272425", "#7D8F9C", "#72787A", "#545E64", "#B0B0AF", "#DCDEDF"]
 key_values: ["Fear of the unknown", "isolation", "exploration"]
 related_aesthetics: ["Coastal Style", "Cottagecore", "Forestpunk", "Nautical", "Ocean Grunge", "Newlyn School", "Pirate", "St Ives School", "Witchcore"]
 related_media: ["The Lighthouse (2019)", "The Finest Hours (2016)", "Moby Dick by Herman Melville", "some of H.P. Lovecraft's stories", "The Longest Johns", "The Dreadnoughts", "Stan Rogers", "Poldark (2015-2019)", "And Then There Were None by Agatha Christie", "Mamma Mia (2008)"]

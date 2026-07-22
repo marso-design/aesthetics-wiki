@@ -2,6 +2,7 @@
 name: "Tanbi Kei"
 slug: "tanbi-kei"
 related_aesthetics: ["Aristocrat", "Visual Kei", "Lolita", "Rococo"]
+palette: ["#0A0809", "#1B1E1F", "#7E6F69", "#C89F83", "#5D3632", "#F9F8F0"]
 source_url: "https://aesthetics.fandom.com/wiki/Tanbi_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

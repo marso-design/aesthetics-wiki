@@ -4,6 +4,7 @@ slug: "bosozoku"
 aka: ["Kaminarizoku"]
 decade_of_origin: "1950's"
 related_aesthetics: ["Yanki", "Sukeban"]
+palette: ["#040305", "#24281F", "#353F2A", "#56504F", "#716B6A", "#8A8188"]
 source_url: "https://aesthetics.fandom.com/wiki/Bosozoku"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

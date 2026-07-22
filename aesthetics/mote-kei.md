@@ -4,6 +4,7 @@ slug: "mote-kei"
 decade_of_origin: "Late 2000s"
 key_motifs: ["Attractiveness", "simplicity"]
 key_colours: ["Neutrals"]
+palette: ["#3E352F", "#865D4A", "#E7E3E2", "#8A7D71", "#CBA79A", "#FBF8FA"]
 related_aesthetics: ["Girly Kei", "Gyaru", "Larme Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Mote_Kei"
 license: "CC-BY-SA-4.0"

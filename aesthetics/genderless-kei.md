@@ -5,6 +5,7 @@ aka: ["Genderless Fashion (ジェンダーレス系)"]
 decade_of_origin: "2010s"
 key_motifs: ["Androgyny", "makeup on men", "colored contact lenses", "dyed hair", "slim silhouettes", "delicate accessories"]
 key_colours: ["Varies", "often includes pastels or monochromatic palettes"]
+palette: ["#1F2124", "#8E8F97", "#D6DBDC", "#BBAFB1", "#685C5E", "#F9F9F5"]
 key_values: ["Freedom of expression", "anti-conformity", "beauty over gender", "individuality"]
 related_aesthetics: ["Kawaii", "Soft Boy", "Visual Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Genderless_Kei"

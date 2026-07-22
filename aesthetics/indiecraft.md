@@ -3,6 +3,7 @@ name: "Indiecraft"
 slug: "indiecraft"
 decade_of_origin: "Mid-2000s"
 key_colours: ["Brown and muted colors"]
+palette: ["#4B5D55", "#171B22", "#A38C70", "#D8C5A8", "#322D2A", "#83896A"]
 related_aesthetics: ["Hipness Purgatory", "Indie", "Kidcore", "Skeuomorphism", "Whimsicraft"]
 source_url: "https://aesthetics.fandom.com/wiki/Indiecraft"
 license: "CC-BY-SA-4.0"

@@ -2,6 +2,7 @@
 name: "Pițipoancă"
 slug: "pi-ipoanc"
 related_aesthetics: ["Chav", "Choni", "Cocalar", "McBling"]
+palette: ["#C0B3A8", "#2F1A1C", "#C7957A", "#999386", "#876656", "#A86D56"]
 source_url: "https://aesthetics.fandom.com/wiki/Pițipoancă"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

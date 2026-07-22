@@ -4,6 +4,7 @@ slug: "post-impressionism"
 decade_of_origin: "c. 1886–1905"
 key_motifs: ["Varies by artist: Still lifes (Cézanne)", "sunflowers and starry nights (Van Gogh)", "Breton and Tahitian life (Gauguin)", "Parisian leisure (Seurat)"]
 key_colours: ["Varies by artist: Intense", "symbolic color (Van Gogh, Gauguin); Dotted pure color (Seurat); Structured", "form-building color (Cézanne)"]
+palette: ["#5F654F", "#38583F", "#232C23", "#858E70", "#A5BEAE", "#D0C9B7"]
 key_values: ["Rejection of Impressionism's limitations", "emphasis on symbolic content", "personal expression", "formal order", "and structure"]
 related_aesthetics: ["Cubism", "Expressionism", "Fauvism", "Impressionism", "Pont-Aven School", "Symbolism", "Synthetism"]
 source_url: "https://aesthetics.fandom.com/wiki/Post-Impressionism"

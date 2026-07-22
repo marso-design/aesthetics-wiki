@@ -5,6 +5,7 @@ aka: ["Scandi Girl", "Scandinavian It Girl", "Scandinavian Style"]
 decade_of_origin: "Late-2010s"
 key_motifs: ["Natural fibers", "layering"]
 key_colours: ["Neutrals"]
+palette: ["#343436", "#CAE0F6", "#A57231", "#6F7371", "#7F888F", "#A28B70"]
 key_values: ["Practicality", "comfort", "minimalism"]
 related_aesthetics: ["Basic Girl", "Clean Girl", "Hygge", "Minimalism", "Northerness", "Old Money", "Scandinavian Design", "Tomato Girl Summer", "Vanilla Girl", "Winter"]
 source_url: "https://aesthetics.fandom.com/wiki/Scandi_Girl_Winter"

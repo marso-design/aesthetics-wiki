@@ -4,6 +4,7 @@ slug: "realism"
 decade_of_origin: "1840s"
 key_motifs: ["Rural laborers", "the working class", "scenes of everyday life", "unidealized nudes", "landscapes without romanticization", "social commentary"]
 key_colours: ["Earthy tones", "somber palettes", "faithful representation of natural light", "avoidance of artificial or overly dramatic color"]
+palette: ["#151111", "#AD9A86", "#3B2D28", "#6C5E4E", "#957C63", "#C4B7A5"]
 key_values: ["Truth and accuracy", "observation of contemporary life", "rejection of idealization and Romantic emotionalism", "social consciousness"]
 related_aesthetics: ["Barbizon School", "Costumbrismo", "Impressionism", "Photorealism", "Social Realism"]
 source_url: "https://aesthetics.fandom.com/wiki/Realism"

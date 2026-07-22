@@ -6,6 +6,7 @@ key_motifs: ["Characters", "creatures", "reoccurrence of eyes (e.g. mushrooms wi
 key_values: ["To portray events and things within dreams; nostalgia", "anemoia", "or comfort; questioning self-identity and reality"]
 related_aesthetics: ["Liminal Space", "Nostalgiacore", "Kidcore", "Weirdcore", "Yami Kawaii", "Gurokawa", "Webcore", "Traumacore"]
 primary_platform: ["TikTok"]
+palette: ["#241721", "#839CC4", "#557994", "#753148", "#545D57", "#7F5E5F"]
 source_url: "https://aesthetics.fandom.com/wiki/Dreamcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

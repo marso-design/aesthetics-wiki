@@ -4,6 +4,7 @@ slug: "plazacore"
 decade_of_origin: "2020s"
 key_motifs: ["Tweed", "hair bows", "headbands", "Peter Pan collars", "pearl jewelry", "Mary Janes", "houndstooth and plaid patterns"]
 key_colours: ["Pastels (especially powder pink and baby blue)", "black and white", "neutrals", "with accents of bright red or royal blue"]
+palette: ["#09090E", "#332322", "#BDADA4", "#D0C0B8", "#84726B", "#938F85"]
 key_values: ["Elegance", "sophistication", "preppy style", "nostalgia", "playful luxury"]
 related_aesthetics: ["Old Money", "Preppy", "Coquette", "Light Academia"]
 primary_platform: ["TikTok", "Instagram"]

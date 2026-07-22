@@ -5,6 +5,7 @@ aka: ["The Wonyoung Effect", "Wonyoung Motivation"]
 decade_of_origin: "2020s"
 key_motifs: ["Self-care routines", "pilates/exercise", "healthy eating", "studying", "luxury beauty products (Dior, Miu Miu)", "pink", "coquette details (bows, pearls)"]
 key_colours: ["Pastel pink", "white", "cream"]
+palette: ["#CCBBAF", "#AFA799", "#413B36", "#E6E0D7", "#776F63", "#9D8775"]
 key_values: ["Self-improvement", "discipline", "confidence", "hyper-femininity", "productivity", "\"glowing up\""]
 related_aesthetics: ["Coquette", "Pink Pilates Princess", "That Girl", "Balletcore", "Dollette", "Romantic Academia", "Pink Parisian"]
 primary_platform: ["TikTok", "YouTube", "Pinterest"]

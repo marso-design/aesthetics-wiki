@@ -5,6 +5,7 @@ aka: ["Tacky Cool"]
 decade_of_origin: "2010s"
 key_motifs: ["Buddhist iconography", "traditional Chinese culture", "references to internet culture"]
 key_colours: ["Vibrant colours", "green", "blue", "teal", "pink", "red"]
+palette: ["#172742", "#33726B", "#8FCFCB", "#D1A587", "#58A4A6", "#84766D"]
 key_values: ["Rural pride", "tackiness", "avant-garde"]
 related_aesthetics: ["Cottagecore", "Frutiger Aero", "Romantic Chinese Village", "Shamate", "Shanzhai", "Webcore", "Xpiritualism", "Yabi"]
 source_url: "https://aesthetics.fandom.com/wiki/Too_Cool"

@@ -5,6 +5,7 @@ aka: ["Traditional Wife", "Trad Girl"]
 decade_of_origin: "Late 2010s–2020s"
 key_motifs: ["Vintage-style dresses", "aprons", "baking", "clean homes", "domestic tasks", "submission to husband", "traditional family structures"]
 key_colours: ["soft pastels", "floral prints", "gingham"]
+palette: ["#BAB0A9", "#0C0D0A", "#7D6B59", "#232114", "#AF9E8E", "#444842"]
 key_values: ["Traditional gender roles", "domesticity", "anti-feminism", "family", "submission", "homemaking"]
 related_aesthetics: ["50s Suburbia", "Cottagecore", "Vintage Americana", "Old Money", "Soft Girl"]
 primary_platform: ["TikTok", "Instagram", "YouTube"]

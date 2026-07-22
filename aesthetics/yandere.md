@@ -5,6 +5,7 @@ aka: ["Yanderecore"]
 decade_of_origin: "2000s"
 key_motifs: ["Knives", "heart eyes", "obsession"]
 key_colours: ["Pink", "red", "white", "black"]
+palette: ["#FE98C2", "#200A14", "#FEFFFE", "#EE78BD", "#A07884", "#EFD3D7"]
 related_aesthetics: ["Animecore", "Cutegore", "Erokawa", "Gurokawa", "Lovecore", "Nanchatte Seifuku", "Traumacore", "Yami Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Yandere"
 license: "CC-BY-SA-4.0"

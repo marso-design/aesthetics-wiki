@@ -4,6 +4,7 @@ slug: "uchuu-kei"
 decade_of_origin: "2000s"
 key_motifs: ["Outer space (uchuu)", "aliens (uchuujin)", "planets", "stars", "rockets", "futuristic elements", "geometric shapes", "rings/shoulder details"]
 key_colours: ["Pastel shades (foundation)", "fluorescent/neon colors", "cool tones (blue, purple)", "metallic silver"]
+palette: ["#E896AC", "#ED9FD1", "#FFFFFF", "#663B6F", "#DECAD2", "#A7CACA"]
 key_values: ["Futurism", "playfulness", "pop culture", "escapism"]
 related_aesthetics: ["Aliencore", "Cyberpop", "Decora", "Fairy Kei", "Spacecore", "Yume Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Uchuu_Kei"

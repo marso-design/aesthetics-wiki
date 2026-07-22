@@ -5,6 +5,7 @@ aka: ["Flowery Pop", "Sweet And Sunny"]
 decade_of_origin: "2000s"
 key_motifs: ["Flowers", "kawaii motifs", "graffiti", "urban vinyl figures", "vibrant colors", "white/pale background"]
 key_colours: ["Rainbow"]
+palette: ["#577843", "#D7BC93", "#2F2019", "#EDEDEA", "#817455", "#44A281"]
 related_aesthetics: ["Avantropop", "Four Colors", "Frutiger Aero", "Graffiti Pop", "Groovival", "Internet Awesomesauce", "Kawaii", "Lowbrow", "McBling", "Neo-Pop", "Pop Art", "Shibuya Punk", "★Superflat", "Vectorbloom", "Vectordelia", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Superflat_Pop"
 license: "CC-BY-SA-4.0"

@@ -5,6 +5,7 @@ aka: ["Deepfried", "Nuked Memes"]
 decade_of_origin: "2010s"
 key_motifs: ["Excessive JPEG artifacts", "lens flare eyes", "the \"B\" (🅱️) emoji", "extreme saturation", "HDR sharpening", "noise filters"]
 key_colours: ["Fried yellow", "saturated red", "laser blue"]
+palette: ["#02010C", "#02D2BB", "#FFFFFF", "#CDC4A7", "#A01F29", "#CCA46F"]
 key_values: ["Irony", "noise", "absurdity", "digital decay", "anti-censorship"]
 related_aesthetics: ["Arabfunny", "Goreweb", "Haunted Mound", "Major League Gaming", "Meme Rap", "Surreal Meme", "Tänzelcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Deep_Fried_Meme"

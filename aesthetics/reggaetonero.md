@@ -6,6 +6,7 @@ decade_of_origin: "Late 1990s (music)
 Mid-2000s (subculture massification)"
 key_motifs: ["Gold and silver chains", "visible tattoos", "baseball caps (worn forward or backward)", "designer sunglasses", "muscular/toned physique (men)", "fitted/tight clothing (women)", "piercings", "diamonds"]
 key_colours: ["Black", "white", "gold", "silver (or platinum)"]
+palette: ["#0B0A11", "#4F5B62", "#A8ACA8", "#6D686C", "#F3F5F4", "#4D3D4B"]
 key_values: ["Flexing (display of status and wealth)", "eroticism", "street authenticity"]
 related_aesthetics: ["Cholombiano", "Chonga", "Cumbiero", "Gangsta Rap", "Hip-Hop", "Neoperreo", "Pokemón"]
 related_media: ["Tumberos (2002 TV Series)", "El Bonaerense (2002 Film)", "El polaquito (2003 Film)"]

@@ -5,6 +5,7 @@ aka: ["GVC", "Millennium Global Village", "Millennium-Era Urbane-Sophistication 
 decade_of_origin: "1980s"
 key_motifs: ["Stylized tribal/ancient imagery (Kokopelli, spirals, hieroglyphs)", "earth tones", "handcrafted textures (woodcuts, rough paper)", "nature motifs (suns, waves, trees)"]
 key_colours: ["Earth tones (brown, beige, terracotta, olive green)", "muted colors"]
+palette: ["#110C0B", "#2C2932", "#FFFDDA", "#EFC563", "#722D2E", "#AB5942"]
 key_values: ["Multiculturalism", "geniality", "ecology", "inclusiveness", "authenticity (often superficial)"]
 related_aesthetics: ["Bohemian", "Cubism", "Curly Girly", "Earth Tones", "Eco-Beige", "Frasurbane", "Lowbrow", "Memphis Design", "Sepia Blur", "Mission School", "Neo-Pop", "New Wave Tropical", "Nouveau Organic", "Pastel Southwestern", "Soft Colonial Wanderlust", "Utopian Scholastic", "Whimsicraft"]
 source_url: "https://aesthetics.fandom.com/wiki/Global_Village_Coffeehouse"

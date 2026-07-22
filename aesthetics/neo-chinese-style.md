@@ -5,6 +5,7 @@ aka: ["New Chinese Style", "Xinzhongshi (新中式)", "Neo-Chinese fashion"]
 decade_of_origin: "Late 20th Century-Present"
 key_motifs: ["Mandarin collars", "frog closures", "traditional Chinese embroidery", "Chinese knots", "reinterpreted Qipao/Hanfu silhouettes", "natural fabrics", "traditional patterns (flowers, birds, dragons)", "simplified forms"]
 key_colours: ["Neutral tones", "earthy tones", "pastels", "rich traditional colors"]
+palette: ["#3D2C26", "#1D1A19", "#595149", "#BDB2AC", "#C7CAC6", "#8F7970"]
 key_values: ["Cultural identity", "fusion of tradition and modernity", "national pride", "individuality", "comfort", "practicality"]
 related_aesthetics: ["Cyberpunk", "Guochao", "Too Cool", "Yabi", "Y2K", "Jiangnan Water Town"]
 primary_platform: ["Xiaohongshu", "Douyin", "Weibo"]

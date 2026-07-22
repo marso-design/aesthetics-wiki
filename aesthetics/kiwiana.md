@@ -4,6 +4,7 @@ slug: "kiwiana"
 decade_of_origin: "Around the middle of the 20th century"
 key_motifs: ["National icons of New Zealand"]
 related_media: ["Footrot Flats", "Goodnight Kiwi", "Hairy Maclary and Friends", "Mrs. Wishy-Washy"]
+palette: ["#1E2134", "#55A6B1", "#3985AC", "#FFFFFC", "#185C76", "#442B41"]
 source_url: "https://aesthetics.fandom.com/wiki/Kiwiana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

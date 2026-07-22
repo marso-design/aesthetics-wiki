@@ -5,6 +5,7 @@ aka: ["Batcaver", "Positive Punk (historically)", "Grufti (German)"]
 decade_of_origin: "Late 1970s"
 key_motifs: ["Gothic literature", "Victorian mourning aesthetics", "horror films", "vampire lore", "death and decay", "romanticism", "melancholia", "religious and occult iconography"]
 key_colours: ["Black", "deep purple", "crimson", "emerald green", "white accents"]
+palette: ["#4F4B46", "#7E7872", "#C4BDB5", "#020306", "#EAE8E7", "#352E30"]
 key_values: ["Individualism", "creativity", "intellectualism", "introspection", "dark romanticism", "anti-conformity"]
 related_aesthetics: ["Cybergoth", "Dark Romanticism", "Deathrock", "Glam Rock", "Gothic", "Gothic Lolita", "Industrial", "Mallgoth", "Metalhead", "Minimal Wave", "Neofolk", "New Romantic", "New Wave", "Post-Punk", "Rivethead", "Steampunk", "Vampire"]
 subgenres: ["Corporate Goth", "Deathrock", "Ethnogoth", "Fetish Goth", "Gothabilly", "Gothic Belly Dance", "Military Goth", "Nu-Goth", "Romantic Goth", "Trad Goth"]

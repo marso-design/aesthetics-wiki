@@ -4,6 +4,7 @@ slug: "naturecore"
 decade_of_origin: "2020s"
 key_motifs: ["Forests", "mountains", "plants", "flowers", "wild animals", "natural landscapes"]
 key_colours: ["Greens", "browns", "earth tones", "white"]
+palette: ["#6F704C", "#566135", "#82885C", "#212515", "#959C6B", "#44422B"]
 key_values: ["Appreciation of nature", "environmentalism", "tranquility", "escapism", "sustainability"]
 related_aesthetics: ["Adventurecore", "Cabincore", "Cottagecore", "Cozy Gamer", "Dark Naturalism", "Fairycore", "Goblincore", "Mori Kei", "Mushroomcore", "Plant Mom", "Prairie", "Vulture Culture"]
 source_url: "https://aesthetics.fandom.com/wiki/Naturecore"

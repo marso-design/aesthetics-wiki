@@ -5,6 +5,7 @@ aka: ["Mode fashion"]
 decade_of_origin: "1982-1990s"
 key_motifs: ["darkness", "mystery", "unpredictability"]
 key_colours: ["only black"]
+palette: ["#FFFFFF", "#D0D0D0", "#0C090A", "#B3B3B3", "#E3E3E3", "#A1A0A0"]
 key_values: ["rejection", "emancipation"]
 related_aesthetics: ["Nu-Goth", "Goth"]
 source_url: "https://aesthetics.fandom.com/wiki/Karasu_Zoku"

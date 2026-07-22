@@ -4,6 +4,7 @@ slug: "sandalpunk"
 aka: ["Bronzepunk"]
 key_motifs: ["Ancient Greco-Roman architecture", "futuristic technology"]
 key_colours: ["White marble", "gold", "metal gray", "blue"]
+palette: ["#FFFFFF", "#060606", "#877C73", "#2D2924", "#63574D", "#4F3B30"]
 related_aesthetics: ["Steampunk", "Hellenic"]
 source_url: "https://aesthetics.fandom.com/wiki/Sandalpunk"
 license: "CC-BY-SA-4.0"

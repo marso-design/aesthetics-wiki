@@ -4,6 +4,7 @@ slug: "cybergoth"
 decade_of_origin: "Late 1990s"
 key_motifs: ["Synthetic dreadfalls (cyberlox)", "goggles", "gas masks", "biohazard symbols", "circuit patterns", "platform boots", "PVC and vinyl clothing"]
 key_colours: ["Black contrasted with bright neon or UV-reactive colors (green, pink, blue, orange)"]
+palette: ["#08090F", "#1D242B", "#33363C", "#DEDFD8", "#FBF3FA", "#626562"]
 key_values: ["Futurism", "technology", "dystopian themes", "electronic music", "club culture", "individuality"]
 related_aesthetics: ["Aggrotech", "Brostep", "Cyberpunk", "Fetish Goth", "Industrial", "Rivethead", "Raver", "Techwear"]
 source_url: "https://aesthetics.fandom.com/wiki/Cybergoth"

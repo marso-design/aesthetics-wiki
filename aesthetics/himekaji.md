@@ -5,6 +5,7 @@ aka: ["Casual princess"]
 decade_of_origin: "2008-2012"
 key_motifs: ["Girly fashion", "lace", "floral patterns like roses"]
 key_colours: ["Neutral colors and pastels such as dusty or light pink", "beige", "brown", "white"]
+palette: ["#B89982", "#7B5A48", "#C4B9A3", "#DAD5C2", "#FEFDFC", "#E7E6D8"]
 key_values: ["Playful girliness"]
 related_aesthetics: ["Gyaru", "Hime Gyaru", "Dollette", "Coquette", "Kawaii", "Living Doll", "Princesscore"]
 primary_platform: ["Real life fashion subculture", "Twitter", "Tumblr", "and in 2020s", "TikTok"]

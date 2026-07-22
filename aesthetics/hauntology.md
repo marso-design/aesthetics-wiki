@@ -5,6 +5,7 @@ aka: ["Spectral Studies", "Lost Future"]
 decade_of_origin: "2000s (music/aesthetic movement)"
 key_motifs: ["Specific aural decay (vinyl crackle, warped tape)", "aesthetic of 1970s British Public Information Films (PIFs)", "Brutalist architecture", "children's educational program aesthetics (faded colors, unsettling graphics)", "library music cover art", "analog media (VHS artifacts)"]
 key_colours: ["Muted earth tones", "faded pastels", "dull greens", "institutional yellow", "analog artifact colors (VHS tracking lines)"]
+palette: ["#080606", "#22201A", "#45433E", "#DFDEDD", "#56584F", "#FCFDFE"]
 key_values: ["Nostalgia for lost utopianism", "dread", "cultural memory", "temporal disjunction", "mourning for the future"]
 related_aesthetics: ["Analog Horror", "Liminal Space", "Signalwave", "Vaporwave"]
 related_media: ["Scarfolk Council", "The Caretaker's Everywhere at the End of Time"]

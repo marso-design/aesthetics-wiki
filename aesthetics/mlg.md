@@ -5,6 +5,7 @@ aka: ["Major League Gaming", "Montage Parodies"]
 decade_of_origin: "2010s"
 key_motifs: ["Hitmarkers", "air horns", "Doritos", "Mountain Dew", "360 noscopes", "lens flares", "Illuminati", "rainbow frogs", "cigarettes (often in combination with 8-bit glasses)"]
 key_colours: ["Rainbow (over-saturated)", "neon green", "gold"]
+palette: ["#191947", "#82575D", "#274376", "#FEFFFE", "#9C2542", "#8A8981"]
 key_values: ["Satire", "absurdity", "sensory overload", "nostalgia"]
 related_aesthetics: ["2010s Meme Maximalism", "Arabfunny", "Brostep", "Deep Fried Meme", "Internet Awesomesauce", "Meme Rap", "Surreal Meme", "Yabujincore"]
 related_media: ["YouTube Poop", "Call of Duty Montages"]

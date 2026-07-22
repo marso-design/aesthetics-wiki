@@ -4,6 +4,7 @@ slug: "afrofuturism"
 decade_of_origin: "1950s-Present"
 key_motifs: ["Technology", "cosmology", "diaspora", "reclamation"]
 key_colours: ["Metallic", "deep blues", "earth tones"]
+palette: ["#4F9CBC", "#203037", "#61363A", "#B9926E", "#97CFA9", "#966346"]
 key_values: ["Liberation", "innovation", "heritage", "future vision"]
 related_aesthetics: ["Art Hoe", "Cyber Ghetto", "Cyberpunk", "Funk", "Indigenous Futurisms", "Retrofuturism", "Solarpunk", "Synthwave"]
 related_media: ["Black Panther", "Sun Ra", "Grace Jones", "Octavia Butler", "Samuel R. Delany"]

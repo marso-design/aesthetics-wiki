@@ -5,6 +5,7 @@ aka: ["Picnic", "Jamcore"]
 decade_of_origin: "Unknown"
 key_motifs: ["Gingham blankets", "woven baskets", "sandwiches", "fruit"]
 key_colours: ["Creme", "light pink", "red", "purple", "orange", "yellow"]
+palette: ["#3F2323", "#D8DBDA", "#B6BAB9", "#BE9B8D", "#817C7A", "#DDC6BB"]
 key_values: ["Spending time surrounded in nature"]
 related_aesthetics: ["Art Hoe", "Cottagecore", "Fairycore", "Foodie", "Grandparentcore", "Honeycore", "Naturecore", "Lovecore"]
 source_url: "https://aesthetics.fandom.com/wiki/Picniccore"

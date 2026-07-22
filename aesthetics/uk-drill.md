@@ -4,6 +4,7 @@ slug: "uk-drill"
 decade_of_origin: "2010s"
 key_motifs: ["Balaclavas", "puffer jackets", "tracksuits", "tech vests", "designer brands (Nike, Moncler)", "luxury cars", "street settings"]
 key_colours: ["Black", "dark grey"]
+palette: ["#181A1E", "#3D3128", "#424544", "#747876", "#A0BDD1", "#9E8D7F"]
 key_values: ["Authenticity", "street credibility", "success", "loyalty", "defiance"]
 related_aesthetics: ["Chav", "Chicago Drill", "Techwear", "Ultras"]
 primary_platform: ["YouTube", "TikTok"]

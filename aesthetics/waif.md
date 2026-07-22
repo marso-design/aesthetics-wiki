@@ -5,6 +5,7 @@ aka: ["Femcel", "Waifspo", "Nepotism Girl", "Female Manipulator", "Girlblogger",
 decade_of_origin: "Early 2020s"
 key_motifs: ["Thinness", "eating disorders", "luxury brands", "cigarettes", "Diet Coke", "ballet", "classic literature", "messy bedrooms"]
 key_colours: ["Black", "pink", "beige", "white", "red"]
+palette: ["#120F09", "#524B3F", "#B6A08A", "#C2B9B3", "#8F867F", "#403524"]
 key_values: ["Preoccupation with beauty and thinness", "performative narcissism", "intellectual pretension", "embracing \"unlikable\" traits and female protagonists"]
 related_aesthetics: ["Balletcore", "Coquette", "Dark Nymphet", "Dollette", "Femcel", "Heroin Chic", "Lobotomy Chic", "Morute", "Nymphet", "Preppy", "Sadgirl", "Slavic Doll", "Thought Daughter", "Tradcath Coquette", "Trailer Park Princess"]
 primary_platform: ["Tumblr", "Whisper", "Pinterest"]

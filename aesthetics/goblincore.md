@@ -5,6 +5,7 @@ aka: ["Gremlincore", "Greedcore", "Gobblecore"]
 decade_of_origin: "2020s"
 key_motifs: ["Clutter", "dirt", "flora", "frogs", "goblins", "snails", "mushrooms", "candles", "shiny jewels", "bones", "moss."]
 key_colours: ["Earth tones such as dark green", "light brown", "dark brown", "dark lime", "black", "and navy blue. (Sometimes)"]
+palette: ["#22281E", "#0F0D0A", "#4B4032", "#7D6854", "#615F46", "#C8B39A"]
 key_values: ["Curiosity", "diversity", "imperfection", "nature", "maximalism."]
 related_aesthetics: ["Adventurecore", "Cottagecore", "Crowcore", "Dragoncore", "Earthcore", "Mushroomcore", "Green Academia", "Naturecore", "Vulture Culture", "Witchcore", "Cryptidcore"]
 related_media: ["Studio Ghibli films", "The Spiderwick Chronicles"]

@@ -1,6 +1,7 @@
 ---
 name: "Underground Culture"
 slug: "underground-culture"
+palette: ["#393939", "#0A0A0A", "#232323", "#B1B1B1", "#606060", "#E1E1E1"]
 source_url: "https://aesthetics.fandom.com/wiki/Underground_Culture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

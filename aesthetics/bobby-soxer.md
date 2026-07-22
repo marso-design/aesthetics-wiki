@@ -5,6 +5,7 @@ aka: ["Bobby Sox Girls", "Teen Tycoons", "Swoonatra Fans", "Frank Sinatra Fangir
 decade_of_origin: "1940s"
 key_motifs: ["Bobby socks (folded ankle socks)", "saddle shoes/loafers", "pleated skirts (later poodle skirts)", "Shetland sweaters", "Frank Sinatra/Teen Idol fandom"]
 key_colours: ["White (socks/blouses)", "pastel or bright Colors (skirts/sweaters)", "black and white (saddle shoes)"]
+palette: ["#868686", "#0F0F0F", "#A8A8A8", "#454545", "#303030", "#C5C5C5"]
 key_values: ["Peer conformity", "emotional release (swooning)", "consumer autonomy", "rejection of formal adult attire"]
 related_aesthetics: ["Greaser", "Rockers"]
 related_media: ["The Bachelor and the Bobby-Soxer (1947 Film)", "Seventeen Magazine (launched 1944)"]

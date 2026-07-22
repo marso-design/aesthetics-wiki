@@ -5,6 +5,7 @@ aka: ["Jerk", "Swag Era"]
 decade_of_origin: "Late 2000s - Early 2010s"
 key_motifs: ["Snapback hats", "graphic tees", "skinny jeans", "high-top sneakers", "gold chains", "\"jerk\" dance"]
 key_colours: ["Bright", "high-contrast colors: red", "black", "purple", "neon green"]
+palette: ["#D9B78C", "#2F172D", "#140418", "#8DA398", "#68626E", "#FEFEE5"]
 key_values: ["Confidence", "individuality", "street fashion", "party culture", "online presence"]
 related_aesthetics: ["2014 Tumblr", "Baddie", "Bloghouse", "Hip-Hop", "Hypebeast", "Jejemon", "Party Rock", "Scene", "Urbancore"]
 source_url: "https://aesthetics.fandom.com/wiki/Swag"

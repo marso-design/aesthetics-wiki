@@ -5,6 +5,7 @@ aka: ["Winter Fairy Coquette", "Slavic Bimbo (controversial)"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Fur hats (ushankas)", "earmuffs", "leg warmers", "miniskirts", "faux fur coats", "snowy forests"]
 key_colours: ["White", "cream", "beige", "pastel pink", "pastel blue"]
+palette: ["#5D5F60", "#202120", "#86929A", "#C4CDD6", "#A8AAAB", "#B9BCBF"]
 key_values: ["Hyper-femininity", "glamour", "softness", "romanticized cold"]
 related_aesthetics: ["Après-ski", "Bimbocore", "Coquette", "Slavic Doll", "Winter Aesthetic"]
 source_url: "https://aesthetics.fandom.com/wiki/Winter_Bimbo"

@@ -4,6 +4,7 @@ slug: "witch-house"
 decade_of_origin: "Late 2000s"
 key_motifs: ["Triangles (△)", "crosses (✝)", "Unicode symbols", "occult imagery", "distorted visuals", "lo-fi aesthetics"]
 key_colours: ["Black", "desaturated colors", "dark red", "purple", "blue"]
+palette: ["#161616", "#3A3A3A", "#040404", "#5A5A56", "#B1B2B0", "#3D1315"]
 key_values: ["Occultism", "surrealism", "nocturnal themes", "horror", "dark atmospheres", "DIY ethos"]
 related_aesthetics: ["Goth", "Health Goth", "Horror", "Industrial", "Nu-Goth", "Seapunk", "Trillwave", "Vaporwave", "Witchcore"]
 related_media: ["The Blair Witch Project", "Twin Peaks"]

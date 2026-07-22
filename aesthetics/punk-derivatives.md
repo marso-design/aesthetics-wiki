@@ -1,6 +1,7 @@
 ---
 name: "Punk Derivatives"
 slug: "punk-derivatives"
+palette: ["#0B0909", "#332924", "#5C3D2F", "#565652", "#878884", "#756356"]
 source_url: "https://aesthetics.fandom.com/wiki/Punk_Derivatives"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

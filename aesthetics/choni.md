@@ -4,6 +4,7 @@ slug: "choni"
 decade_of_origin: "1990s"
 key_motifs: ["Oversized gold accessories", "animal prints (leopard, snake)", "revealing or tight-fitting clothing", "fluorescent or metallic colors", "clashing patterns", "heavy makeup"]
 key_colours: ["Bright colors", "hot pink", "fluorescent yellow", "metallic gold and silver"]
+palette: ["#364041", "#1C1614", "#6B3C37", "#615F59", "#788078", "#B89C87"]
 key_values: ["Perceived vulgarity", "aggression", "pride in working-class roots", "cheapness"]
 related_aesthetics: ["Baddie", "Cani (male counterpart)", "Chav", "Chonga", "McBling", "Motomami", "Pokero", "Raxet"]
 source_url: "https://aesthetics.fandom.com/wiki/Choni"

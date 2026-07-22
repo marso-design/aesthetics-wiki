@@ -5,6 +5,7 @@ aka: ["Japanese Dollette", "Shoujo Girly", "Shoujo Dolly"]
 decade_of_origin: "2022"
 key_motifs: ["Lace trim", "floral and plaid fabrics", "ribbons"]
 key_colours: ["White", "pink", "brown", "baby blue"]
+palette: ["#AF9A8D", "#7E6D61", "#E5E5E4", "#C0B5AD", "#D1CDCA", "#FFFFFF"]
 key_values: ["Dainty femininity"]
 primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Shoujo_Girl"

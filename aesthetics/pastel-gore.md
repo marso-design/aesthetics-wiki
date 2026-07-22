@@ -4,6 +4,7 @@ slug: "pastel-gore"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Organs", "blood", "bones", "candy", "slime", "eyeballs", "weaponry", "body horror elements"]
 key_colours: ["Pastel tones"]
+palette: ["#000101", "#420B27", "#FFFFFD", "#0000FD", "#AE0A53", "#41657C"]
 key_values: ["Juxtaposition", "body horror", "cuteness", "artistic expression"]
 related_aesthetics: ["Candycore", "Dokukawaii", "Gorecore", "Gurokawa", "Medicalcore", "Pastel Goth", "Traumacore", "Yami Kawaii"]
 primary_platform: ["Online art communities (Tumblr, DeviantArt, Amino, Sony Sketch)"]

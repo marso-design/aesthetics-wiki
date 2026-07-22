@@ -4,6 +4,7 @@ slug: "colorful-pop"
 decade_of_origin: "2010s"
 key_motifs: ["Halftone dots", "glitch effects", "gaming iconography", "onomatopoeia", "abstract geometric shapes", "pixelation", "soundwaves", "integrated typography", "pop art iconography"]
 key_colours: ["Saturated neon palettes (magenta, cyan, yellow, green)", "high-contrast black and white"]
+palette: ["#121035", "#FFFFFF", "#C9AB9D", "#43486F", "#BF828D", "#66BCB2"]
 key_values: ["Energy", "maximalism", "sensory intensity", "digital expression", "playfulness"]
 related_aesthetics: ["Artcore", "Cyberpop", "Dokukawaii", "Memphis Design", "Pop Art", "Superflat Pop", "Vectordelia"]
 primary_platform: ["Digital art platforms (Pixiv)", "rhythm games", "music releases", "animation"]

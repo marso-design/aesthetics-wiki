@@ -4,6 +4,7 @@ slug: "industrial"
 decade_of_origin: "1970s"
 key_motifs: ["Industrial decay", "dystopia", "transgression", "obsolete machinery", "brutalist graphic design", "military surplus and fetish gear", "totalitarian imagery used subversively"]
 key_colours: ["Black", "grey", "white", "stark red", "metallic tones"]
+palette: ["#2D3334", "#EB3137", "#020102", "#47585A", "#B6222E", "#9CA1A0"]
 key_values: ["Provocation", "confrontation", "anti-conformity", "transgression", "social critique", "experimentation", "deprogramming"]
 related_aesthetics: ["Berlin Techno Fashion", "Cyberpunk", "Fetish Goth", "Goth", "Industrial Decay", "Minimal Wave", "New Beat", "Post-Punk", "Punk"]
 subgenres: ["Aggrotech", "Cybergoth", "Electronic Body Music", "Martial Industrial", "Neofolk", "Neue Slowenische Kunst", "Rivethead"]

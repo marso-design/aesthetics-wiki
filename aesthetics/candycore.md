@@ -4,6 +4,7 @@ slug: "candycore"
 decade_of_origin: "c. Late 2000s (term coined in 2020)"
 key_motifs: ["Candy", "confectionery", "rainbows", "sprinkles", "frosting", "lollipops", "gumdrops", "iridescent textures"]
 key_colours: ["Vibrant rainbow colors", "neons", "pastels (especially pastel pink)"]
+palette: ["#5C3845", "#BD4A50", "#FAE4E8", "#A08587", "#E67C7E", "#B3BAB5"]
 key_values: ["Playfulness", "nostalgia", "sweetness", "maximalism"]
 related_aesthetics: ["Bubblegum Coquette", "Candyland", "Candy Gore", "Choco Girl", "Decora", "Kawaii", "Kidcore", "LOLcore", "Snackwave"]
 primary_platform: ["TikTok", "Pinterest", "Instagram"]

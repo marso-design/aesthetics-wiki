@@ -5,6 +5,7 @@ aka: ["Euskal Rock Erradikala", "Rock Radikal Vasco", "RRV"]
 decade_of_origin: "1980s"
 key_motifs: ["Red stars", "Basque flags (Ikurriña)", "collage", "DIY typography", "protest imagery", "anti-establishment symbols", "crude drawings", "stylized \"K\" spellings"]
 key_colours: ["Basque colours (red, white, green)", "black"]
+palette: ["#010000", "#59514D", "#1B1A1A", "#9E857A", "#C5C0B9", "#5A1D1E"]
 key_values: ["Anti-establishment", "social criticism", "regional identity", "political protest", "DIY ethos"]
 related_aesthetics: ["Anarcho-Punk", "Bravú", "Crustpunk", "Movida Madrileña", "Punk"]
 source_url: "https://aesthetics.fandom.com/wiki/Basque_Radical_Rock"

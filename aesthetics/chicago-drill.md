@@ -4,6 +4,7 @@ slug: "chicago-drill"
 decade_of_origin: "Early 2010s"
 key_motifs: ["True Religion jeans", "designer belts (Ferragamo/Hermès)", "dreadlocks", "white tees", "loaded weaponry", "expansive entourages in music videos"]
 key_colours: ["White", "denim blue", "red", "black"]
+palette: ["#433B43", "#232130", "#C9C0AA", "#6E5A58", "#B3A38F", "#757878"]
 key_values: ["Authenticity", "nihilism", "loyalty", "survival", "unfiltered reality (\"Chiraq\")"]
 related_aesthetics: ["Gangsta Rap", "Haunted Mound", "UK Drill"]
 related_media: ["YouTube (DGainz, A Zae)", "WorldStarHipHop"]

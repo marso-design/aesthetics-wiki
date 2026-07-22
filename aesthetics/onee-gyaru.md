@@ -5,6 +5,7 @@ aka: ["Older Sister Gal"]
 decade_of_origin: "to be added"
 key_motifs: ["to be added"]
 key_colours: ["to be added"]
+palette: ["#322D2E", "#825353", "#C4BEBC", "#DDD2CD", "#938883", "#CBA498"]
 key_values: ["to be added"]
 related_aesthetics: ["Gyaru", "Onii Kei (male counterpart)", "Ganguro", "Baddie"]
 subgenres: ["to be added"]

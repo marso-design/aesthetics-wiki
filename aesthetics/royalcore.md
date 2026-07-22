@@ -5,6 +5,7 @@ aka: ["Royaltycore"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Ball gowns", "corsets", "tiaras", "castles", "palaces", "elaborate tea sets", "gold details", "pearl jewelry", "handwritten letters"]
 key_colours: ["Gold", "silver", "pastel pink", "powder blue", "cream", "rich jewel tones (royal blue, emerald green, deep red)"]
+palette: ["#5E4832", "#31231A", "#896E57", "#8A7E71", "#6F5E4A", "#A39990"]
 key_values: ["Elegance", "romance", "opulence", "sophistication", "escapism", "femininity"]
 related_aesthetics: ["Angelcore", "Baroque", "Coquette", "Cottagecore", "Dark Academia", "Ethereal", "Light Academia", "Old Money", "Princesscore", "Regencycore", "Rococo"]
 primary_platform: ["TikTok", "Pinterest", "Instagram"]

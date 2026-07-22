@@ -5,6 +5,7 @@ decade_of_origin: "Late 2010s"
 key_motifs: ["Forests", "the moon", "collections of strange objects", "pebbles", "the sea", "strange flora and fauna", "fairy rings", "hidden trails"]
 key_values: ["Acceptance of neurodivergent people", "being true to one's self"]
 related_aesthetics: ["Cryptidcore", "Ethereal", "Fairycore", "Goblincore", "Liminal Space", "Naturecore"]
+palette: ["#3B3A3B", "#151306", "#635E5D", "#282822", "#887F7B"]
 source_url: "https://aesthetics.fandom.com/wiki/Changelingcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

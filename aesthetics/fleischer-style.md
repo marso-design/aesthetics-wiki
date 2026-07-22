@@ -5,6 +5,7 @@ aka: ["Rubberhose", "Inkblot Cartoon Style", "Old Cartoon", "Early American Cart
 decade_of_origin: "1920s–1930s"
 key_motifs: ["Elastic and fluid character movement", "surreal and bizarre gags", "gritty urban settings", "visible sound effects; anthropomorphic characters with simplified anatomy", "musicality", "often \"pie-eyed\" characters"]
 key_colours: ["Predominantly grayscale; early limited use of vibrant colors"]
+palette: ["#9F9E9B", "#E9D8BD", "#1B1919", "#646362", "#414140", "#FBF5F0"]
 key_values: ["Whimsy", "dark humor (at times)", "experimental animation", "expressive motion"]
 related_aesthetics: ["Art Deco", "Electro Swing", "Streamline Moderne", "Surrealism"]
 related_media: ["Betty Boop", "Popeye the Sailor", "Koko the Clown", "Bimbo (characters/series); early Mickey Mouse and Oswald the Lucky Rabbit cartoons (for shared rubber hose technique)"]

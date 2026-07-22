@@ -1,6 +1,7 @@
 ---
 name: "Y2K"
 slug: "y2k"
+palette: ["#191313", "#6C2938", "#51698E", "#CCB2A7", "#899FAA", "#9B605B"]
 source_url: "https://aesthetics.fandom.com/wiki/Y2K"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

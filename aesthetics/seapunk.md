@@ -4,6 +4,7 @@ slug: "seapunk"
 decade_of_origin: "2010s"
 key_motifs: ["Dolphins", "mermaids", "pyramids", "palm trees", "yin-yangs", "smiley faces", "oceans", "1990s 3D net art", "early CGI"]
 key_colours: ["Aquamarine", "cyan", "seafoam green", "lilac", "pastel pink", "turquoise"]
+palette: ["#142059", "#165783", "#7E758C", "#467496", "#534C7B", "#51A2AC"]
 related_aesthetics: ["Cyberpunk", "Cybertwee", "Future Funk", "Icepunk", "Ocean Grunge", "Pastel Goth", "PC Music", "Slimepunk", "Trillwave", "Tropical", "Vaporwave", "Witch House", "Y2K Futurism"]
 primary_platform: ["Tumblr", "Twitter"]
 source_url: "https://aesthetics.fandom.com/wiki/Seapunk"

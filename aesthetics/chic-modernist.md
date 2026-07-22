@@ -3,6 +3,7 @@ name: "Chic Modernist"
 slug: "chic-modernist"
 aka: ["Smart Casual"]
 key_colours: ["Neutrals", "black", "white", "bright accent colors"]
+palette: ["#E2DCD8", "#0E0E0E", "#A8998C", "#8B7B6F", "#3C2D29", "#FFFFFF"]
 key_values: ["Timelessness", "modernizing tradition"]
 related_aesthetics: ["Beatnik", "Bon Chic", "Bon Genre", "Boujee", "Dark Academia", "Indie", "Light Academia", "Minimalism", "Modernism", "Pink Parisian", "Power Dressing", "Preppy", "Romantic Italian", "Yuppie"]
 source_url: "https://aesthetics.fandom.com/wiki/Chic_Modernist"

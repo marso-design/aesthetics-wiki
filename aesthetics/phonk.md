@@ -5,6 +5,7 @@ aka: ["OG Phonk", "Rare Phonk", "Memphis Rap Revival"]
 decade_of_origin: "Early 2010s"
 key_motifs: ["VHS degradation", "purple/tinted visuals", "90s luxury cars (Lexus, Cadillac)", "\"bling\" era hip-hop aesthetics", "cassette tapes", "skeleton/skull imagery"]
 key_colours: ["Purple", "black"]
+palette: ["#342535", "#020104", "#9E8D91", "#635763", "#40444D", "#1F1325"]
 key_values: ["Nostalgia", "obscurity (\"rare\")", "crate-digging", "DIY production", "authenticity"]
 related_aesthetics: ["Cloud Rap", "Cyber Ghetto", "Dungeon Rap", "Horrorcore", "Trillwave", "Vaporwave"]
 subgenres: ["Brazilian Phonk (debatable)", "Drift Phonk (debatable)"]

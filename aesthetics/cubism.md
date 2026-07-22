@@ -4,6 +4,7 @@ slug: "cubism"
 decade_of_origin: "1900s - 1910s"
 key_motifs: ["Fragmented objects", "simultaneous multiple viewpoints", "geometric forms (cubes, cylinders)", "muted palettes (Analytic)", "collage elements (papier collé)"]
 key_colours: ["Analytic:", "Monochromatic browns", "grays", "and ochres", "Synthetic:", "Brighter", "bolder", "and flatter colors"]
+palette: ["#3B3D3E", "#241E20", "#C7AC92", "#9E7358", "#CEC2AC", "#72473F"]
 key_values: ["Rejection of single-point perspective", "analysis of form", "conceptual representation over perceptual", "questioning the nature of reality in art"]
 related_aesthetics: ["Art Deco", "Constructivism", "Futurism", "Post-Impressionism", "Suprematism"]
 source_url: "https://aesthetics.fandom.com/wiki/Cubism"

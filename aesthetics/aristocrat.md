@@ -5,6 +5,7 @@ aka: ["Gothic Aristocrat"]
 decade_of_origin: "Mid-1990s"
 key_motifs: ["Tailored waistcoats and trousers", "androgynous silhouettes", "jabots and cravats", "long skirts", "fitted jackets", "monarchist imagery (fleur-de-lis, crowns)", "crosses", "roses", "velvet", "lace-up boots"]
 key_colours: ["Black", "white", "crimson", "midnight blue", "silver/gold accents"]
+palette: ["#151112", "#554B47", "#3D3738", "#F7F8F8", "#CFC1AA", "#2D2523"]
 key_values: ["Androgyny", "elegance", "darkness", "maturity", "historical reverence (19th-century European aristocracy)"]
 related_aesthetics: ["Dandy", "Gothic Lolita", "Ouji", "Tanbi Kei", "Visual Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Aristocrat"

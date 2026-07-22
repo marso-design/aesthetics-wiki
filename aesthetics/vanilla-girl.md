@@ -3,6 +3,7 @@ name: "Vanilla Girl"
 slug: "vanilla-girl"
 decade_of_origin: "2020s"
 key_colours: ["White", "brown", "beige", "cream"]
+palette: ["#69533E", "#452F1F", "#9A8870", "#C4BCAC", "#A1998D", "#E4DFD4"]
 key_values: ["Simplicity", "authenticity", "femininity", "sentimentality", "relatability", "self-care", "mindfulness and gratitude"]
 related_aesthetics: ["Clean Girl", "Danish Pastel", "Korean Cozy Beige", "Minimalism", "That Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Vanilla_Girl"

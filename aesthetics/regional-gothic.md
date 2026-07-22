@@ -1,6 +1,7 @@
 ---
 name: "Regional Gothic"
 slug: "regional-gothic"
+palette: ["#584E44", "#2E4D6E", "#322C25", "#A0AEBA", "#040506", "#152332"]
 source_url: "https://aesthetics.fandom.com/wiki/Regional_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

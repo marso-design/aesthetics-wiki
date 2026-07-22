@@ -5,6 +5,7 @@ aka: ["Tang China"]
 decade_of_origin: "618"
 key_motifs: ["Baoxiang flowers", "Tang Sancai", "plump ladies"]
 related_aesthetics: ["Guochao", "Silkpunk", "Neo-Chinese Style"]
+palette: ["#713D18", "#FFFFFF", "#E0D9CE", "#402B1D", "#697067", "#BFA37E"]
 source_url: "https://aesthetics.fandom.com/wiki/Tang_Dynasty"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

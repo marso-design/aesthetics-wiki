@@ -4,6 +4,7 @@ slug: "bondage"
 aka: ["BDSM"]
 key_motifs: ["Leather", "PVC/latex", "metal", "rope", "restraints", "power exchange", "sexuality"]
 key_colours: ["Black", "red", "silver"]
+palette: ["#C8B297", "#060404", "#101C24", "#9D887F", "#4E4D4D", "#FBF0E2"]
 related_aesthetics: ["Babygirl", "E-Boy", "E-Girl", "Electronic Body Music", "Erokawa", "Fetish Goth", "Pin-up", "Raxet", "Rivethead", "Succubus Chic"]
 source_url: "https://aesthetics.fandom.com/wiki/Bondage"
 license: "CC-BY-SA-4.0"

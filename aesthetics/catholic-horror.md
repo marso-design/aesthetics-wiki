@@ -5,6 +5,7 @@ aka: ["Religious Horror", "Exorcist Horror", "Demonic Horror"]
 decade_of_origin: "1970s"
 key_motifs: ["Religious symbolism (crosses, rosaries, crucifixes)", "darkness and shadows", "blood", "tears", "spirits and demonic entities", "rituals (exorcisms, sacraments)", "fire and candles", "Gothic architecture and cathedrals", "creepy baby dolls"]
 key_colours: ["Black", "white", "gold", "red", "dark muted blue/red"]
+palette: ["#3B3A30", "#050303", "#2C2116", "#595A56", "#604230", "#857E73"]
 key_values: ["Roman Catholicism", "horror", "redemption and sin", "possession and exorcism", "fear of death and the unknown", "the supernatural and occult", "conflict between good and evil", "suspense"]
 related_aesthetics: ["Devilcore", "Gothic", "Horror", "Morute", "Vampire"]
 related_media: ["Rosemary's Baby (1968)", "The Exorcist (1973)", "The Nun (2018)", "The Omen (1976)"]

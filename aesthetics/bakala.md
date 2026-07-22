@@ -5,6 +5,7 @@ aka: ["Makinero", "Bakalaero", "Ruta Destroy", "Rutero", "Pastillero"]
 decade_of_origin: "1980s (Late) – 2000s (Early)"
 key_motifs: ["Shaved \"Cenicero\" hairstyles", "bomber jackets (Alpha Industries)", "customized sportswear", "gold jewelry", "high-speed driving", "macro-discotheques"]
 key_colours: ["Orange (inside of bombers)", "black", "neon green", "yellow", "denim blue"]
+palette: ["#1B1516", "#AEDCF7", "#9D9890", "#836C62", "#F4F1EE", "#C0CCCB"]
 key_values: ["Hedonism", "\"destroy\" mentality", "tribalism", "endurance (multi-day partying)", "speed", "music appreciation (Mákina/Hardcore)"]
 related_aesthetics: ["Biker", "Cani", "Electronic Body Music", "Gabber", "New Beat", "New Wave", "Pokero", "Rave", "Skinhead"]
 related_media: ["Bit Music (record label)", "La Ruta (2022 Series)", "IVAM \"Ruta Gràfica\" exhibition", "Makinavaja"]

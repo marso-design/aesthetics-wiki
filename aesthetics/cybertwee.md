@@ -4,6 +4,7 @@ slug: "cybertwee"
 decade_of_origin: "2010s"
 key_motifs: ["Pastel colors (especially pink, purple)", "glitter", "holographic effects", "kawaii imagery", "emojis", "soft textures (lace, ruffles, taffeta)", "plastic", "wearable tech", "illuminated elements (LEDs)", "butterflies", "hearts", "flowers", "seashells", "sweetness (e.g., cookies)"]
 key_colours: ["Pastel pink", "pastel purple", "holographic", "bright colors", "soft hues", "chrome", "silver"]
+palette: ["#302D3F", "#7E8189", "#F3C5C7", "#E2E4ED", "#C47AB7", "#BF99B8"]
 key_values: ["Sincerity", "softness", "sweetness", "empathy", "sentimentality", "community", "feminism", "anti-sexism", "challenging male-dominated tech", "deconstructing cyberpunk", "creativity", "emotional expression", "blurring real and digital life", "open-source collaboration", "digital literacy for marginalized groups"]
 related_aesthetics: ["Cyberprep", "Cyberpunk", "Kawaii", "Kawaii Gamer", "Seapunk", "Twee", "Vaporwave", "Webcore", "Y2K Futurism"]
 related_media: ["Neuromancer (as a contrast/influence)", "Ghost in the Shell (as a contrast/influence)", "Sailor Moon (nostalgic influence)", "A24 horror films (as a contrast for Deep Web Bake Sale context)"]

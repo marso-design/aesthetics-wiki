@@ -5,6 +5,7 @@ aka: ["Neapolitan Girl", "Chocolatecore"]
 decade_of_origin: "2000s (term coined in the 2020s)"
 key_motifs: ["Chocolate bars", "biscuits/cookies", "Neapolitan color scheme (brown, pink, cream)", "dripping chocolate patterns", "strawberries"]
 key_colours: ["Brown", "pink", "cream", "white"]
+palette: ["#F0E5DD", "#170F0A", "#6C503A", "#BB9B8B", "#553C28", "#9A765D"]
 key_values: ["Kawaii", "sweetness", "nostalgia"]
 related_aesthetics: ["2010s Soft Kawaii", "Candycore", "Dollette", "Himekaji", "Kawaii", "Lolita", "Pianocore", "Sanriocore", "Shoujo", "Sweet Lolita"]
 primary_platform: ["Tumblr", "Pinterest"]

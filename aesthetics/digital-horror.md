@@ -7,6 +7,7 @@ key_motifs: ["Low-quality digital artifacts", "old web interfaces", "Flash anima
 related_aesthetics: ["Analog Horror", "Glitch Art", "Weirdcore", "Old Web", "Horror", "Welwitschia Goth"]
 primary_platform: ["YouTube", "Newgrounds", "Creepypasta Wikis"]
 related_media: ["Salad Fingers", "Ben Drowned", "Petscop"]
+palette: ["#000000", "#303246", "#544240", "#700CAA", "#4E5359", "#020258"]
 source_url: "https://aesthetics.fandom.com/wiki/Digital_Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

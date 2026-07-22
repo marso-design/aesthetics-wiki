@@ -5,6 +5,7 @@ aka: ["Japonism"]
 decade_of_origin: "Mid-19th century"
 key_motifs: ["Landscapes", "flora and fauna (especially birds and flowers)", "urban scenes", "portraits of women", "fans", "screens"]
 key_colours: ["Vibrant and contrasting colours", "often in flat planes; blues", "greens", "reds", "yellows", "blacks"]
+palette: ["#7F7760", "#9DA593", "#9B8F76", "#4F5246", "#BAAE99", "#EFE3C9"]
 key_values: ["Asymmetrical composition", "flattened perspective", "emphasis on line and pattern", "depiction of everyday life", "nature-inspired motifs"]
 related_aesthetics: ["Aestheticism", "Anglo-Japanese Style", "Art Nouveau", "Chinoiserie", "Impressionism", "Orientalism", "Post-Impressionism", "Ukiyo-e"]
 source_url: "https://aesthetics.fandom.com/wiki/Japonisme"

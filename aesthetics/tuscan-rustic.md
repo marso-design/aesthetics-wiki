@@ -5,6 +5,7 @@ aka: ["Tuscan Style", "Old-World Luxe", "2000s McMansion"]
 decade_of_origin: "Traditional, popularized in the mid-2000s"
 key_motifs: ["Tuscan kitchens", "natural stone", "distressed wood", "terra-cotta", "wrought iron"]
 key_colours: ["Earth tones", "warm reds", "golds", "greens"]
+palette: ["#29150E", "#422F21", "#643924", "#6A4E39", "#885133", "#CEB497"]
 key_values: ["Warmth", "naturalism", "simplicity", "elegance"]
 related_aesthetics: ["Autumn", "Corporate Gen-X Cyber", "Country", "Eco-Beige", "Frasurbane", "French Provincial Style", "Rustic", "Zen-X"]
 source_url: "https://aesthetics.fandom.com/wiki/Tuscan_Rustic"

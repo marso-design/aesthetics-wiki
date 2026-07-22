@@ -3,6 +3,7 @@ name: "Pacific Punk Wave"
 slug: "pacific-punk-wave"
 decade_of_origin: "1970s"
 related_aesthetics: ["Electroclash", "Corporate Memphis", "Early Cyber", "Googie Kitsch", "Graffiti Pop", "Memphis Design", "Memphis Lite", "New Wave", "New Wave Tropical", "Rad Dog"]
+palette: ["#181415", "#81414F", "#BBD8A4", "#5E5A63", "#383034", "#FFDF16"]
 source_url: "https://aesthetics.fandom.com/wiki/Pacific_Punk_Wave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

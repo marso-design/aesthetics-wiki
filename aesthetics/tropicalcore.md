@@ -4,6 +4,7 @@ slug: "tropicalcore"
 decade_of_origin: "2020s"
 key_motifs: ["Beachy themes", "tropical things", "palm trees", "dolphins", "poppy/bright colors", "mostly yellow", "pink and light blue", "saturation", "indie kid filters", "water", "and typically visuals associated with Summer Gyaru"]
 key_colours: ["Light Blue", "pink", "yellow"]
+palette: ["#D79892", "#5398B9", "#804D72", "#D7E3EB", "#C9BFBD", "#51B7DB"]
 related_aesthetics: ["Coconut Girl", "Cutecore", "Gyaru", "Sanriocore", "Surf Crush", "Tropicabana", "Tropical", "Tweencore"]
 source_url: "https://aesthetics.fandom.com/wiki/Tropicalcore"
 license: "CC-BY-SA-4.0"

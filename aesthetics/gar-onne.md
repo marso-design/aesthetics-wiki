@@ -5,6 +5,7 @@ aka: ["La Garçonne"]
 decade_of_origin: "1920s"
 key_motifs: ["Bobbed hair", "flattened chest silhouette", "tailored suits", "trousers", "simple dresses", "cloche hats"]
 key_colours: ["Often neutral tones (black, white, gray, beige)", "with a pop of red lipstick"]
+palette: ["#161B17", "#4C4A45", "#D7C5B6", "#DBDBD9", "#B1ACA7", "#FCFCFA"]
 key_values: ["Androgyny", "independence", "modernity", "rejection of traditional femininity", "freedom of movement"]
 related_aesthetics: ["Art Deco", "Flapper", "Roaring 20s", "Weimar Cabaret"]
 source_url: "https://aesthetics.fandom.com/wiki/Garçonne"

@@ -2,6 +2,7 @@
 name: "Queencore"
 slug: "queencore"
 key_colours: ["Dark Reds", "Deep Purples", "Royal Blue", "Emerald Green", "Gold", "Silver", "Black and White"]
+palette: ["#3A322E", "#525047", "#736450", "#070304", "#1D1312", "#88806B"]
 key_values: ["Elegance", "Power", "Status", "Wealth", "Duty", "Country", "Intelligence", "Skill"]
 related_aesthetics: ["Baddie", "Hime Lolita", "Kingcore", "Knightcore", "Princesscore", "Princecore", "Royalcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Queencore"

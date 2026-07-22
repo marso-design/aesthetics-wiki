@@ -4,6 +4,7 @@ slug: "yabi"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Maximalism", "layering", "DIY", "eclecticism", "mixing and matching different styles"]
 key_colours: ["Black", "neon", "pastels", "metallic"]
+palette: ["#32353B", "#8F8B8A", "#090D17", "#B3B2A7", "#6B5963", "#B38880"]
 key_values: ["Individuality", "self-expression", "nostalgia"]
 related_aesthetics: ["Asian Baby Girl", "Cybergoth", "Decora", "E-Girl", "Emo", "Frutiger Aero", "Gyaru", "Hippie", "Hipster", "Kogal", "Neo-Chinese Style", "Punk", "Scene", "Shamate", "Shanzhai", "Too Cool", "Visual Kei", "Xpiritualism", "Y2K Futurism"]
 primary_platform: ["Xiaohongshu", "BiliBili", "Douyin"]

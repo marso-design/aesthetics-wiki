@@ -5,6 +5,7 @@ aka: ["Mermaid Style"]
 decade_of_origin: "2020s"
 key_motifs: ["Seashells", "pearls", "fish scales (sequins, paillettes)", "coral", "waves", "iridescent textures", "crochet/netting", "starfish"]
 key_colours: ["Aquamarine", "seafoam green", "lilac", "coral pink", "iridescent silvers and blues", "jewel tones"]
+palette: ["#656C7E", "#A19598", "#A9ACB1", "#25454B", "#1F2322", "#675A66"]
 related_aesthetics: ["Coconut Girl", "Dark Nautical", "Fantasy", "Nautical", "Seapunk", "Surf Crush"]
 primary_platform: ["TikTok", "Pinterest", "Instagram"]
 related_media: ["The Little Mermaid (2023)", "Aquamarine (2006)", "H₂O: Just Add Water"]

@@ -5,6 +5,7 @@ aka: ["GXSC"]
 decade_of_origin: "1990s"
 key_motifs: ["Y2K-era vector graphics", "Helvetica fonts", "metro/train stations", "airports", "urban architecture/cityscapes", "lomo lens effects", "color filters", "blurring", "bloom", "bokeh", "vignettes"]
 key_colours: ["Natural and muted colors such as greens", "blues", "beiges", "tans and greys/black"]
+palette: ["#FFFFFF", "#B0BCB9", "#1D1E1C", "#35382D", "#F2D462", "#67876A"]
 key_values: ["A more natural", "softer look into 90s/2000s futurism", "with an urban twist."]
 related_aesthetics: ["Britpop", "Corporate Grunge", "Flat Design", "Frutiger Aero", "Gen Z Soft Club (revival)", "Global Village Coffeehouse", "Grunge", "Lo-Fi", "Metalheart", "Milipili", "Hexatron", "Abstract Tech", "Millennium Disco", "Minimalism", "Mission School", "Neubrutalism", "Raver", "Shibuya Punk", "Supergraphic Ultramodern", "Ultramodern Revival", "Groovival", "Rivethead", "Technozen", "UrBling", "Vectorheart", "★Y2K Futurism", "Zen-X"]
 source_url: "https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club"

@@ -5,6 +5,7 @@ aka: ["Kabarett", "German Cabaret"]
 decade_of_origin: "1920s"
 key_motifs: ["Androgynous fashion (tuxedos on women)", "dramatic makeup (thin eyebrows, dark lipstick)", "smoke-filled clubs", "political caricature", "nudity", "jazz and chanson music"]
 key_colours: ["Black", "red", "metallics", "often with dramatic and shadowy lighting"]
+palette: ["#ECECE9", "#12100C", "#5B5C5A", "#353735", "#8E8E8A", "#C2BCB3"]
 key_values: ["Satire", "sexual liberation", "political criticism", "hedonism", "anti-bourgeois sentiment", "artistic experimentation"]
 related_aesthetics: ["Art Deco", "Dadaism", "Dark Cabaret", "Expressionism", "Flapper", "Garçonne", "Roaring 20s"]
 source_url: "https://aesthetics.fandom.com/wiki/Weimar_Cabaret"

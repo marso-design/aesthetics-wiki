@@ -5,6 +5,7 @@ aka: ["Thai Vintage"]
 decade_of_origin: "1930s"
 key_motifs: ["Bright Color", "Vintage", "Thai"]
 key_colours: ["Teal Green", "Hot Pink", "Crimson", "Mustard Yellow"]
+palette: ["#7F5024", "#261815", "#39463F", "#568183", "#D4E9ED", "#B34F56"]
 key_values: ["Thai Culture (1930s-1970s)", "reflecting the prime of cultural hybridized aesthetic before WWII and during the Cold War (from around the 1950s until the 1970s)"]
 source_url: "https://aesthetics.fandom.com/wiki/Thai_Modern"
 license: "CC-BY-SA-4.0"

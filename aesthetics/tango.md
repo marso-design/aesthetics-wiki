@@ -4,6 +4,7 @@ slug: "tango"
 aka: ["Tango Argentino", "Milonga"]
 decade_of_origin: "1880s"
 key_colours: ["Red", "black", "white"]
+palette: ["#1F1E1D", "#3E332E", "#4E4E4A", "#6B7879", "#B7A694", "#E1D6C0"]
 key_values: ["Romance", "tragic love", "passion", "freedom", "sexuality", "following/subverting gender roles"]
 source_url: "https://aesthetics.fandom.com/wiki/Tango"
 license: "CC-BY-SA-4.0"

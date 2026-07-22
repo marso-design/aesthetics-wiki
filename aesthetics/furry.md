@@ -4,6 +4,7 @@ slug: "furry"
 decade_of_origin: "1980s"
 key_motifs: ["Anthropomorphic animals and fursuits"]
 key_colours: ["Pastel", "bright colours"]
+palette: ["#C1BDAC", "#121017", "#EDEFF1", "#9B7156", "#91917D", "#684838"]
 key_values: ["Positivity", "Unwavering Acceptance", "Sexual Diversity", "Cheerfulness", "Frivolity"]
 related_aesthetics: ["Kidcore", "Neko", "Pastel Gore", "Puppygirl", "Raver", "Scene"]
 source_url: "https://aesthetics.fandom.com/wiki/Furry"

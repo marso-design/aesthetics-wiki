@@ -3,6 +3,7 @@ name: "Racaille"
 slug: "racaille"
 decade_of_origin: "1990s-2000s"
 key_colours: ["White", "black", "grey", "blue", "red"]
+palette: ["#53453D", "#383533", "#101113", "#70665C", "#777F83", "#A6A096"]
 key_values: ["French pride", "debauchery"]
 related_aesthetics: ["Baddie", "Chav", "Dresiarz", "Hypebeast", "Jersey Shore", "Bombardier", "Cani", "Dizelaši", "MDLR"]
 source_url: "https://aesthetics.fandom.com/wiki/Racaille"

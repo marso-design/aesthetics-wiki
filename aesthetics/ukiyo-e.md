@@ -5,6 +5,7 @@ aka: ["Pictures of the Floating World"]
 decade_of_origin: "17th–19th centuries"
 key_motifs: ["Courtesans and beautiful women (bijin-ga)", "kabuki actors (yakusha-e)", "landscapes (fūkei-ga)", "scenes from history and folklore", "sumo wrestlers", "nature scenes"]
 key_colours: ["Rich and varied palettes", "often with bold black outlines and flat areas of color"]
+palette: ["#DEB46A", "#4E3C2D", "#A07547", "#806949", "#B99861", "#E3C687"]
 key_values: ["Appreciation of transient pleasures", "urban entertainment culture", "beauty", "theatricality", "observation of nature and daily life"]
 related_aesthetics: ["Art Nouveau", "Japonisme", "Impressionism", "Post-Impressionism", "Superflat"]
 source_url: "https://aesthetics.fandom.com/wiki/Ukiyo-e"

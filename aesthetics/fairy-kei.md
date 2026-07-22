@@ -5,6 +5,7 @@ aka: ["Fancy"]
 decade_of_origin: "1980s"
 key_motifs: ["80s retro", "cutesy/girly imagery", "sweets", "rainbows", "unicorns", "bows", "fluffy animals", "toys"]
 key_colours: ["Pastels", "pink", "blue", "purple", "yellow", "white"]
+palette: ["#CE8CD8", "#D7ACDE", "#AE88BA", "#73507C", "#BC61A6", "#CFC4C2"]
 related_aesthetics: ["Harajuku Fashion", "Pastel", "Vintage", "Yume Kawaii", "Kawaii", "Decora", "Cult Party Kei", "Poppare", "Unicorncore", "Heisei Retro", "Showa Retro", "Uchuu Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Fairy_Kei"
 license: "CC-BY-SA-4.0"

@@ -4,6 +4,7 @@ slug: "glam-rock"
 decade_of_origin: "1970-1976"
 key_motifs: ["Loud classic rock music", "big boots", "70's over the top clothing", "drugs", "makeup", "androgyny"]
 key_colours: ["Any and all colors"]
+palette: ["#EDEBDF", "#010102", "#200D18", "#B29980", "#88665B", "#403535"]
 key_values: ["Sexuality", "fashion", "rock music", "androgyny"]
 related_aesthetics: ["Burlesque", "Rocker Grrl Diva", "Camp", "Deathrock", "Goth", "Hair Metal", "Metal", "New Romantic", "Post-Punk", "Punk", "Trad Goth", "Visual Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Glam_Rock"

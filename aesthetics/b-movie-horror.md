@@ -3,6 +3,7 @@ name: "B-Movie Horror"
 slug: "b-movie-horror"
 key_motifs: ["Low budgets", "formulaic scripts", "relatively short running times", "and minimal production design"]
 related_aesthetics: ["Horror", "Devilcore", "Gorecore", "Gothic", "Halloween", "Horror Punk", "Psychobilly", "Vampire", "Werewolf", "Witchcore", "retrofuturism", "Raygun Gothic"]
+palette: ["#546F4E", "#D7C3A3", "#0D0D0E", "#43312C", "#AF916E", "#1F2322"]
 source_url: "https://aesthetics.fandom.com/wiki/B-Movie_Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

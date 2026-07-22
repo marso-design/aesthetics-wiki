@@ -5,6 +5,7 @@ aka: ["Negros Cumbieros", "Negros Villeros", "Villeros"]
 decade_of_origin: "Late 1990s – Early 2000s"
 key_motifs: ["Urban marginality", "street life", "pride in local origin", "stylized violence", "luxury sportswear brands", "distinct hairstyles (short sides/long top, shaved nape for women)"]
 key_colours: ["High-contrast colors (often neon/bright hues)", "black", "white"]
+palette: ["#020101", "#8B7E6F", "#A9B6B2", "#647071", "#704D40", "#102A21"]
 key_values: ["Group loyalty", "street credibility", "defiance against the upper class", "pride in villero identity"]
 related_aesthetics: ["Cholombiano", "Flaite", "Reggaetonero", "Rolinga", "Wachiturro"]
 related_media: ["Tumberos (TV Series)", "El Bonaerense (Film)"]

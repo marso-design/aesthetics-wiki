@@ -6,6 +6,7 @@ decade_of_origin: "2000s"
 key_motifs: ["Luxury brand logos (Gucci, Versace, Louis Vuitton)", "gold jewelry", "exotic animals (tigers, panthers)", "roosters", "religious iconography (Malverde, Santa Muerte)", "armored vehicles", "designer accessories"]
 key_values: ["Ostentatious wealth", "power", "excess", "materialism", "hyper-masculinity/hyper-femininity", "regional pride (Sinaloa)"]
 related_aesthetics: ["Cholo", "Hypebeast", "Tumbette"]
+palette: ["#0C080C", "#292527", "#543B2E", "#C5A97E", "#575558", "#815A3C"]
 source_url: "https://aesthetics.fandom.com/wiki/Buchón"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

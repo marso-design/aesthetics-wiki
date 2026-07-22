@@ -4,6 +4,7 @@ slug: "new-money"
 aka: ["Nouveau Riche", "New Rich"]
 key_motifs: ["Cash", "expensive cars", "designer purses", "gold-plated item", "luxury brands", "excessive displays of wealth"]
 key_colours: ["Gold", "silver", "red", "black"]
+palette: ["#1B1A20", "#927E6C", "#C6B39F", "#696056", "#C7C5C1", "#3B3736"]
 key_values: ["Looking rich", "consumerism", "capitalism", "materialism"]
 related_aesthetics: ["Bohemian", "Boujee", "Mafia Aesthetic", "Playboy", "Power Dressing", "Yuppie"]
 related_media: ["Iron Man", "Dynasty"]

@@ -6,6 +6,7 @@ decade_of_origin: "2,100 BC (Werewolf legends)
 1910s (Character trope/aesthetic)"
 key_motifs: ["Wolves", "night", "full moon", "fangs", "claws"]
 key_colours: ["Black", "grey", "blue", "red", "brown"]
+palette: ["#59554C", "#372621", "#FC360B", "#ACABA6", "#982914", "#713A2B"]
 key_values: ["Transformation", "escapism", "bloodlust"]
 related_aesthetics: ["Fantasy", "Vampire", "Witchcore", "Halloween", "Horror", "Zombie Apocalypse"]
 source_url: "https://aesthetics.fandom.com/wiki/Werewolf"

@@ -5,6 +5,7 @@ aka: ["Bullfighter Style", "Matador Style", "Tauromaquia"]
 decade_of_origin: "18th Century"
 key_motifs: ["Traje de luces", "montera hat", "capote (cape)", "ornate gold/silver embroidery", "carnations", "the bull"]
 key_colours: ["Red", "gold", "silver", "black", "pink", "magenta", "yellow"]
+palette: ["#210E10", "#8C1B15", "#D7B689", "#35292A", "#E9CD9A", "#78483B"]
 key_values: ["Tradition", "bravery", "pageantry", "honor", "tragedy"]
 related_aesthetics: ["Baroque", "Cayetana", "Majismo", "Pijo", "Rococo"]
 source_url: "https://aesthetics.fandom.com/wiki/Torero_Aesthetic"

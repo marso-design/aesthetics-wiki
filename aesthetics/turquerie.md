@@ -5,6 +5,7 @@ aka: ["Turquoiserie", "Turkish Style", "à la turque"]
 decade_of_origin: "16th-18th Centuries (peak in 18th century)"
 key_motifs: ["Turbans", "caftans", "coffee houses", "harem scenes", "Turkish carpets", "pavilions", "floral patterns (tulips, carnations)"]
 key_colours: ["Rich jewel tones (deep reds, blues, greens)", "gold"]
+palette: ["#AB977E", "#633930", "#686E66", "#B8AC93", "#C7BFAD", "#808E85"]
 key_values: ["Exoticism", "fantasy", "luxury", "worldliness", "cultural curiosity"]
 related_aesthetics: ["Baroque", "Chinoiserie", "Orientalism", "Rococo"]
 source_url: "https://aesthetics.fandom.com/wiki/Turquerie"

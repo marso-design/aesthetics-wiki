@@ -5,6 +5,7 @@ aka: ["Urban Grunge", "City Grunge"]
 decade_of_origin: "1990s"
 key_motifs: ["Silhouetted streetlights", "power lines", "buildings", "highways", "grungy effects", "wings", "crests", "flames", "tribal tattoo-looking motifs", "paint splatters/drips", "slab sans-serifs", "graffiti and stencil motifs & fonts", "gothic fonts"]
 key_colours: ["Orange", "red", "yellow", "black", "white", "silver"]
+palette: ["#FFFFFE", "#010001", "#7A7465", "#D37623", "#3F2B1D", "#DCD2AC"]
 related_aesthetics: ["Corporate Grunge", "Cyber Grunge", "Gangsta Rap", "Graffiti Pop", "Hip-Hop", "McBling", "Metalheart", "Neo-Tribal", "Nu-Metal", "Olderbrothercore", "Post-Grunge Maximalism", "Scene", "Shibuya Punk", "Skater", "Teenpunk", "Vectordelia", "Y2K Futurism"]
 related_media: ["Def Jam Recordings"]
 source_url: "https://aesthetics.fandom.com/wiki/UrBling"

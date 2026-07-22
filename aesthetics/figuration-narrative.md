@@ -5,6 +5,7 @@ aka: ["Narrative Figuration"]
 decade_of_origin: "1960s"
 key_motifs: ["Streets", "anonymity", "human figures", "urban landscapes", "political imagery", "social commentary", "everyday scenes", "comic book influences", "film stills"]
 key_colours: ["Bold colors", "contrasting hues"]
+palette: ["#BE3B27", "#191621", "#5C656C", "#2F3B4D", "#5D4950", "#E5CFA0"]
 key_values: ["Storytelling", "freedom of expression", "rebellion", "anti-consumerism", "social critique"]
 related_aesthetics: ["New Figuration", "Nouveau Réalisme", "Pop Art", "Social Realism", "Urbancore"]
 source_url: "https://aesthetics.fandom.com/wiki/Figuration_Narrative"

@@ -6,6 +6,7 @@ key_motifs: ["Pizza", "burgers", "ramen", "junk food", "fast food logos", "snack
 key_values: ["Self-deprecation", "maximalism", "rejection of diet culture", "humor"]
 related_aesthetics: ["Candycore", "Galaxy Print", "Grocery Girl Fall", "Internet Awesomesauce", "LOLcore", "Maximalism"]
 primary_platform: ["Tumblr", "Instagram"]
+palette: ["#211C1B", "#433734", "#634B3F", "#020401", "#B5836D", "#D0B095"]
 source_url: "https://aesthetics.fandom.com/wiki/Snackwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

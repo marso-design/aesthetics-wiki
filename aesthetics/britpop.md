@@ -5,6 +5,7 @@ aka: ["British Pop"]
 decade_of_origin: "Early 1990s"
 key_motifs: ["Union Jack imagery", "working-class pride", "football casual culture (terrace wear)", "Mod Revival accessories", "beer and \"lad culture\" imagery", "sharp lyrics"]
 key_colours: ["Red", "white", "and blue (referencing the Union Jack); khaki/olive (parkas); navy/black (suit jackets)"]
+palette: ["#12141F", "#4E6881", "#36404F", "#FFFFFF", "#C9D0C7", "#9B9997"]
 key_values: ["British national identity", "youthful exuberance", "anti-Americanism (anti-Grunge)", "nostalgia for the 1960s", "irony"]
 related_aesthetics: ["Casuals", "Cool Britannia", "Gen X Soft Club", "Indie", "Mod Revival", "Lad Culture"]
 primary_platform: ["Music videos", "magazines (NME, Select, Loaded)"]

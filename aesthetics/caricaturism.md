@@ -6,6 +6,7 @@ decade_of_origin: "1800s"
 key_motifs: ["Exaggerated facial features", "distortion of reality."]
 key_values: ["Often being humoristic and satirical"]
 related_aesthetics: ["Beatnik", "Burlesque", "Hipness Purgatory", "Indiecraft", "Old Meme", "Renovador Movement", "Sots Art", "Urbancore"]
+palette: ["#FFFFFF", "#D4DBC2", "#F4B63C", "#AEB1A0", "#6A3B31", "#97826C"]
 source_url: "https://aesthetics.fandom.com/wiki/Caricaturism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

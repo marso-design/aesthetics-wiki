@@ -5,6 +5,7 @@ aka: ["Brutalist Architecture", "New Brutalism (initially)"]
 decade_of_origin: "1950s-1970s"
 key_motifs: ["Exposed materials", "unfinished concrete", "minimalist compositions", "geometry"]
 key_colours: ["Grey", "monochrome tones"]
+palette: ["#246A9F", "#C0D0E8", "#B9A994", "#3D382E", "#8F7968", "#E8EBEE"]
 key_values: ["Functionalism", "dullness"]
 related_aesthetics: ["Constructivism", "Cyberpunk", "Deconstructivism", "Doomer", "Feísmo", "Industrial Decay", "Mid-Century Modern", "Minimalism", "Modernism", "Ostalgie", "Post-Apocalyptic", "Socialist Realism", "Soviet Nostalgia", "Yugo-Nostalgia"]
 related_media: ["The Brutalist (2024)"]

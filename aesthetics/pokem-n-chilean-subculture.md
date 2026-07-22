@@ -5,6 +5,7 @@ aka: ["HxCitos", "Hardcoritos"]
 decade_of_origin: "2000s"
 key_motifs: ["Anime-inspired hairstyles", "patterned clothing (polka dots, stripes)", "piercings", "subcultural fusion (Emo, Punk, Hip-Hop, Otaku)", "vibrant colors"]
 key_colours: ["Black", "red", "fuchsia", "green", "orange", "purple", "blue"]
+palette: ["#3B3731", "#685947", "#1C1918", "#A99786", "#727665", "#B3C3B3"]
 key_values: ["Open-mindedness", "pacifism", "perceived childlike irresponsibility", "emphasis on fantasy", "subcultural blending", "self-expression through appearance", "online social interaction", "hypersexualization"]
 related_aesthetics: ["Alternative", "Emo", "Flaite", "Flogger", "Hip-Hop", "Jejemon", "Punk", "Reggaetonero", "Scene", "Shamate"]
 related_media: ["Fotolog", "MSN Messenger"]

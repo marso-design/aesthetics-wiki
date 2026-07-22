@@ -4,6 +4,7 @@ slug: "wishcore"
 decade_of_origin: "2020s"
 key_motifs: ["Stars", "crescent moons", "Wichu (official plushie mascot)", "cupid wings/feathers", "music notes", "clovers", "small charms/keychains", "innocence", "subtle shimmer/shimmering details", "school uniform elements"]
 key_colours: ["Pastel pink", "light blue", "white", "cream", "subtle holographic/iridescent accents"]
+palette: ["#837C7A", "#5A514D", "#B8BBBA", "#A59F97", "#D5CDCA", "#F4F0EC"]
 key_values: ["Wish", "magical realism", "comfort", "innocence", "subtle self-expression", "desire for protection (守られたい)"]
 related_aesthetics: ["Balletcore", "Kawaii", "Heisei Retro", "Juminocore", "Pianocore", "Shoujo Girl"]
 primary_platform: ["TikTok"]

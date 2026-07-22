@@ -4,6 +4,7 @@ slug: "pearlcore"
 decade_of_origin: "2020s"
 key_motifs: ["Pearl necklaces", "pearl embellishments", "iridescent accents", "baroque pearls", "layered jewelry"]
 key_colours: ["White", "cream", "iridescent shades"]
+palette: ["#8C8781", "#362217", "#ADA8A1", "#D2CBC5", "#C6B9AD", "#856B55"]
 key_values: ["Elegance", "timelessness", "sophistication", "modernity", "gender fluidity"]
 related_aesthetics: ["Angelcore", "Coquette", "Craftcore", "Old Money", "Royalcore"]
 primary_platform: ["Pinterest", "Instagram", "TikTok"]

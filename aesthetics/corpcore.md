@@ -5,6 +5,7 @@ aka: ["Corporatecore", "Corporate Chic"]
 decade_of_origin: "Late 2023"
 key_motifs: ["Exaggerated tailoring", "mixture of office and casual wear", "minimal and modernist design"]
 key_colours: ["Black", "gray", "white", "brown", "navy blue"]
+palette: ["#0B0908", "#87877B", "#1F231C", "#CCBFB8", "#D9D7D6", "#3C3327"]
 related_aesthetics: ["Abstract Tech", "Brutalism", "Chic Modernist", "Cyberminimalism", "Cyberprep", "Dark Academia", "Light Academia", "Minimalism", "Modernism", "Office Siren", "Power Dressing", "Yuppie"]
 source_url: "https://aesthetics.fandom.com/wiki/Corpcore"
 license: "CC-BY-SA-4.0"

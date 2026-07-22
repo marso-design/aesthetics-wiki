@@ -3,6 +3,7 @@ name: "Bombardier"
 slug: "bombardier"
 key_motifs: ["Clothes from expensive brands"]
 key_colours: ["Black"]
+palette: ["#000000", "#252327", "#837F7D", "#9FA09F", "#615650", "#443433"]
 key_values: ["Flexing", "lack of taste"]
 related_aesthetics: ["Cani", "Chav", "Cocalar", "Dizelaši", "Dresiarz", "Gopnik", "Racaille", "Talahon"]
 source_url: "https://aesthetics.fandom.com/wiki/Bombardier"

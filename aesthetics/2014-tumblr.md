@@ -1,6 +1,7 @@
 ---
 name: "2014 Tumblr"
 slug: "2014-tumblr"
+palette: ["#FEE7F0", "#C6BFAB", "#D7D7C2", "#9D7064", "#ABA393", "#D4A487"]
 source_url: "https://aesthetics.fandom.com/wiki/2014_Tumblr"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -3,6 +3,7 @@ name: "Jiangnan Water Town"
 slug: "jiangnan-water-town"
 key_motifs: ["Suzhou-style houses", "small bridges", "creeks", "wupeng boats", "misty rain"]
 key_colours: ["Black", "white", "teal"]
+palette: ["#6C6D5F", "#313C2F", "#594E44", "#1F201B", "#7D8C81", "#B6BBB6"]
 related_aesthetics: ["Romantic Chinese Village", "Neo-Chinese Style"]
 source_url: "https://aesthetics.fandom.com/wiki/Jiangnan_Water_Town"
 license: "CC-BY-SA-4.0"

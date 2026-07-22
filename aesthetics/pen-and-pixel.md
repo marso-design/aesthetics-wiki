@@ -5,6 +5,7 @@ aka: ["Bling Era Graphics", "Dirty South Style", "No Limit Style"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Diamond-encrusted 3D fonts", "excessive lens flares", "maximalist collage", "luxury cars", "mansions", "tigers/exotic animals", "explosions"]
 key_colours: ["Gold", "silver", "diamond blue", "fire orange"]
+palette: ["#647178", "#181827", "#23303A", "#5B375B", "#A3B0A5", "#BF847C"]
 key_values: ["Wealth display", "maximalism", "surrealism", "\"hood rich\" aspirations"]
 related_aesthetics: ["Gangsta Rap", "Glitter Graphics", "Haunted Mound", "Hip-Hop", "Jiggy Era", "Phonk", "Trillwave", "Dollar Store Vernacular"]
 source_url: "https://aesthetics.fandom.com/wiki/Pen_&_Pixel"

@@ -5,6 +5,7 @@ aka: ["Tenshi Kaiwai"]
 decade_of_origin: "2010s"
 key_motifs: ["Cool toned filters"]
 key_colours: ["Light blue", "turquoise", "white", "sometimes grey"]
+palette: ["#6D707A", "#EDF0F7", "#2D425B", "#B6D8F0", "#7E9BC0", "#D4D6DD"]
 key_values: ["Innocence", "fragility"]
 related_aesthetics: ["Angelcore", "Chromecore", "Y2K Futurism", "Kawaii Gamer", "Liminal Space", "Neo-Tribal", "Otaku", "Frutiger Aero", "Jersey Maid", "Seapunk", "Webcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Mizuiro"

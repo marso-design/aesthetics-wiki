@@ -2,6 +2,7 @@
 name: "Jersey Maid"
 slug: "jersey-maid"
 related_aesthetics: ["Maid", "Mizuiro"]
+palette: ["#745457", "#91A3B5", "#343033", "#CEC4C7", "#B3A8AB", "#DDD9DC"]
 source_url: "https://aesthetics.fandom.com/wiki/Jersey_Maid"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["Codingcore", "AI.core", "Androidcore"]
 decade_of_origin: "80s"
 key_motifs: ["Coding", "robots", "artificial intelligence", "computer graphics", "futurism"]
 key_colours: ["Muted colors", "monochrome colors", "blue"]
+palette: ["#080C11", "#A7A6D2", "#0F1B45", "#4251A5", "#3F76BB", "#7596CD"]
 key_values: ["Independency"]
 related_aesthetics: ["Abstract Tech", "Hexatron", "Old Web", "Vaporwave", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Robotcore"

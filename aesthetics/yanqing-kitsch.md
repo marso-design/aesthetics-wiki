@@ -4,6 +4,7 @@ slug: "yanqing-kitsch"
 aka: ["Chinese Web-fiction Kitsch"]
 key_motifs: ["Art font Chinese"]
 key_colours: ["Magenta"]
+palette: ["#E6EBF0", "#222127", "#CBB0B3", "#928C95", "#E3D2D3", "#7F606A"]
 source_url: "https://aesthetics.fandom.com/wiki/Yanqing_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

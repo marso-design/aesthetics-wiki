@@ -5,6 +5,7 @@ aka: ["Andean Tropical Cumbia"]
 decade_of_origin: "Mid-1970s (Music)1980s (Art)"
 key_motifs: ["Tropical and Andean imagery", "\"Chicha\" typography (bold, often hand-painted)", "flowers and animals", "stars", "psychedelic-inspired patterns", "street art elements"]
 key_colours: ["Pink", "red", "yellow", "green", "fluorescent", "blue", "orange"]
+palette: ["#000000", "#522131", "#506453", "#C8AF8B", "#D44B57", "#54DE38"]
 key_values: ["Expression of Andean migrant identity", "cultural fusion", "sometimes activism (Indigenous rights, anti-racism, feminism, LGBT+ rights)"]
 related_aesthetics: ["Cumbia", "Hippie", "Kitsch", "Lowbrow", "Pop Art", "Psychedelia", "Tropical"]
 related_media: ["Chicha music (Andean Tropical Cumbia)", "street art", "posters", "flyers", "album covers"]

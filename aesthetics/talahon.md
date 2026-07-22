@@ -4,6 +4,7 @@ slug: "talahon"
 decade_of_origin: "2020s"
 key_motifs: ["Bootleg luxury items", "sportswear", "football", "gold chains", "aggressive posturing", "shadowboxing"]
 key_colours: ["Red", "white", "black", "gold"]
+palette: ["#0B0B0F", "#1C2124", "#3B3934", "#685A54", "#76746F", "#CBC1B8"]
 key_values: ["Materialism", "perceived aggression", "boasting", "hypermasculinity", "group identity"]
 related_aesthetics: ["Cani", "Chav", "Gangsta Rap", "Gopnik", "Krocha", "Lad Culture", "Racaille"]
 source_url: "https://aesthetics.fandom.com/wiki/Talahon"

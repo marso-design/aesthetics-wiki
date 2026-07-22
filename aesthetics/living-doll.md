@@ -5,6 +5,7 @@ aka: ["Human Doll", "Barbie Transformation"]
 decade_of_origin: "2010s"
 key_motifs: ["Large eyes", "doll-like makeup", "long hair", "slender figure", "circle lenses", "heavy image editing", "porcelain-like skin"]
 key_colours: ["Pink", "pastel colors"]
+palette: ["#776261", "#3E3735", "#1C1013", "#654646", "#BBA69E", "#E2BEB4"]
 key_values: ["Beauty", "femininity", "perfection", "artificiality"]
 related_aesthetics: ["Barbiecore", "Bimbocore", "Coquette", "Cyber Doll", "Himekaji", "Kawaii", "Kawaii Gamer", "Lolita", "Ulzzang"]
 related_media: ["YouTube and Instagram makeup tutorials"]

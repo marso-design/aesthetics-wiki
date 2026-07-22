@@ -4,6 +4,7 @@ slug: "expressionism"
 decade_of_origin: "1900s-1920s"
 key_motifs: ["Distorted or elongated figures", "urban alienation", "psychological turmoil", "spirituality", "raw emotion", "masks", "woodcut textures"]
 key_colours: ["Intense", "arbitrary", "symbolic", "and often dissonant colors; strong", "jarring contrasts; agitated and swirling brushstrokes"]
+palette: ["#1C1C1D", "#3C3934", "#475A5B", "#889779", "#756353", "#D0B58E"]
 key_values: ["Subjective emotional experience over objective reality; expression of inner psychological states; critique of modern society; spiritual renewal"]
 related_aesthetics: ["Abstract Expressionism", "Cubism", "Fauvism", "Neo-Expressionism", "New Objectivity", "Post-Impressionism", "Symbolism", "Weimar Cabaret"]
 source_url: "https://aesthetics.fandom.com/wiki/Expressionism"

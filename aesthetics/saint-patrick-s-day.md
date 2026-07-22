@@ -6,6 +6,7 @@ decade_of_origin: "9-10th Centuries
 Early 1630s (Official Holiday)"
 key_motifs: ["Shamrocks", "Celtic crosses and knots", "harps", "leprechauns", "flags", "gold", "rainbows", "hills", "horseshoes"]
 key_colours: ["Green", "brown", "gold", "rainbow"]
+palette: ["#356829", "#081C0B", "#A6B380", "#7E7041", "#7B8F50", "#282917"]
 key_values: ["Catholicism", "national pride", "tradition", "luck"]
 related_aesthetics: ["Easter", "Halloween", "Spring"]
 source_url: "https://aesthetics.fandom.com/wiki/Saint_Patrick's_Day"

@@ -4,6 +4,7 @@ slug: "wa-lolita"
 decade_of_origin: "Late 1990s"
 key_motifs: ["Kimono collars", "obi bows", "wide sleeves", "traditional Japanese prints (sakura, goldfish, fans, cranes, temari balls)"]
 key_colours: ["Varies widely", "but often includes traditional Japanese color palettes (red, black, white, indigo, gold)"]
+palette: ["#62625F", "#252224", "#443C3C", "#A4A19B", "#C9BEB4", "#E9ECE9"]
 related_aesthetics: ["Lolita", "Qi Lolita", "Taisho Roman"]
 source_url: "https://aesthetics.fandom.com/wiki/Wa_Lolita"
 license: "CC-BY-SA-4.0"

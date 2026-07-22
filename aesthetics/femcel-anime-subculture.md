@@ -7,6 +7,7 @@ key_motifs: ["2000s anime and technology", "nihilistic captions", "\"loser girl\
 key_values: ["Social isolation", "nihilism", "manipulation", "interest in taboo topics", "romanticization of mental illness"]
 related_aesthetics: ["Animecore", "Cutegore", "Doomer", "Glitchbreak", "Indie", "Jirai Kei", "Lolicore", "Waif"]
 related_media: ["Serial Experiments Lain", "WataMote", "Neon Genesis Evangelion", "Azumanga Daioh", "Cowboy Bebop"]
+palette: ["#96989F", "#09090D", "#504C50", "#C5C1CC", "#7F7779", "#3F3032"]
 source_url: "https://aesthetics.fandom.com/wiki/Femcel_(anime_subculture)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

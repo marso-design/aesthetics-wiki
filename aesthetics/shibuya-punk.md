@@ -5,6 +5,7 @@ aka: ["Grind Fiction", "Animemo"]
 decade_of_origin: "Early 2000s"
 key_motifs: ["Graffiti", "street gangs", "roller-skating", "parkour", "underground hip-hop/punk music", "exploration of commercial areas and cities"]
 key_colours: ["Vibrant", "contrasting colors"]
+palette: ["#252E2D", "#94B7AB", "#130F14", "#567C75", "#58363B", "#7D5A53"]
 key_values: ["Individualism", "anti-authority", "anti-capitalism", "freedom of expression"]
 related_aesthetics: ["City Pop", "Cyberpop", "Cyberpunk", "Future Funk", "Gen X Soft Club", "Graffiti Pop", "Hip-Hop", "Hyperpop", "Punk", "Shibuya-Kei", "Skater", "Superflat Pop", "Urbancore", "UrBling", "Y2K Futurism"]
 related_media: ["Jet Set Radio & Future", "Dance Dance Revolution", "Street Fighter", "Hover", "Bomb Rush Cyberfunk", "Vitamin Connection", "Butterflies", "Lethal League", "No Straight Roads", "The World Ends With You", "Air Gear", "SK8 the Infinity", "Splatoon", "Persona", "Sonic the Hedgehog", "UNBEATABLE", "Gorillaz", "Gachiakuta", "Dandadan", "Chainsaw Man"]

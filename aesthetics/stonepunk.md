@@ -5,6 +5,7 @@ aka: ["Flintstone", "Caveman tech", "Prehistoric tech", "Neolithic tech", "Stone
 decade_of_origin: "2000s"
 key_motifs: ["Primitive technology", "Tribal societies", "Steampunk elements", "Natural world", "Exploration and discovery", "Conflict and survival", "Myth and legend", "Innovation and ingenuity"]
 key_colours: ["Earthy tones", "Rustic reds", "Charcoal grey", "Mustard yellow", "Earthy blues"]
+palette: ["#A37660", "#AAA495", "#E7E2DE", "#1D1615", "#C5B9A3", "#3A2C25"]
 related_aesthetics: ["Forestpunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Stonepunk"
 license: "CC-BY-SA-4.0"

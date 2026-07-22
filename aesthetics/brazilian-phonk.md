@@ -5,6 +5,7 @@ aka: ["Funk MTG", "Aggressive Funk", "Funk Automotivo", "Funk Bruxaria"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Glowing anime/manga characters", "electric auras", "villains/anti-heroes", "aggressive typography", "glitch effects"]
 key_colours: ["Saturated neons (purple, green, orange, blue) on black backgrounds"]
+palette: ["#D063CE", "#100E1C", "#5D0B46", "#AA0C57", "#33254B", "#1E0A3B"]
 key_values: ["Aggression", "power", "intensity", "hype", "confidence"]
 related_aesthetics: ["Drift Phonk", "Glitchcore", "Krushclub", "Mandrake"]
 primary_platform: ["SoundCloud", "YouTube", "TikTok"]

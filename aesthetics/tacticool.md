@@ -4,6 +4,7 @@ slug: "tacticool"
 decade_of_origin: "2010s"
 key_motifs: ["Prop firearms", "MOLLE vests", "camouflage", "plate carriers", "tactical gear", "Special Forces equipment"]
 key_colours: ["Black", "olive drab", "coyote brown", "various camouflage patterns"]
+palette: ["#29171D", "#414245", "#5B5F60", "#919598", "#797268", "#FDFDFE"]
 key_values: ["Perceived preparedness", "\"badassery", "\" interest in military gear"]
 related_aesthetics: ["Mall Ninja", "Techwear", "Warcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Tacticool"

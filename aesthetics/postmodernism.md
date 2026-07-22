@@ -1,6 +1,7 @@
 ---
 name: "Postmodernism"
 slug: "postmodernism"
+palette: ["#DADADA", "#795E52", "#B8BCBC", "#879986", "#F2F4F5"]
 source_url: "https://aesthetics.fandom.com/wiki/Postmodernism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

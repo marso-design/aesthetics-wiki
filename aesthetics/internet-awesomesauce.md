@@ -4,6 +4,7 @@ slug: "internet-awesomesauce"
 decade_of_origin: "Late 2000s"
 key_motifs: ["Internet memes", "pop culture references", "ironic imagery", "rainbows", "junk food", "animals with laser eyes", "galaxies"]
 key_colours: ["Rainbow", "vibrant and saturated colors"]
+palette: ["#C0C2BF", "#201B34", "#75828C", "#545571", "#BD9381", "#935B61"]
 key_values: ["Humor", "irony", "online culture", "randomness", "epicness"]
 related_aesthetics: ["2010s Meme Maximalism", "Frutiger Aero", "Galaxy Print", "Hipness Purgatory", "Scene", "Snackwave", "Superflat Pop", "Webcore", "Vectordelia"]
 primary_platform: ["Tumblr", "YouTube", "DeviantArt"]

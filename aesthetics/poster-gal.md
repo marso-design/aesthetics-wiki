@@ -4,6 +4,7 @@ slug: "poster-gal"
 aka: ["deviantARTcore", "2000s deviantART", "Y2K Chibi"]
 decade_of_origin: "90s/2000s"
 key_colours: ["Black", "green", "blue", "red", "purple", "pink"]
+palette: ["#FFFFFF", "#DEDADA", "#323649", "#2D7EBC", "#E9EDEF", "#A0B8C0"]
 related_aesthetics: ["Olderbrothercore", "Mallgoth", "Nu-Metal", "Pop-Punk Emo", "Emo", "Y2K", "Frutiger Aero", "Y2K Futurism", "Old Web", "Teenpunk", "Animecore", "Webcore", "Scene", "Metalheart", "Otaku", "Moe"]
 related_media: ["See:Media"]
 source_url: "https://aesthetics.fandom.com/wiki/Poster_Gal"

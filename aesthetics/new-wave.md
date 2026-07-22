@@ -4,6 +4,7 @@ slug: "new-wave"
 decade_of_origin: "Late 1970s"
 key_motifs: ["Geometric shapes (triangles, circles, grids)", "skewed typography", "industrial textures (halftones, xerox grain)", "retro-futurism (1950s Atomic Age meets 1980s)", "synthetic materials"]
 key_colours: ["Hot pink", "electric yellow", "cyan", "tertiary tones (purple, orange, green)"]
+palette: ["#E1E4AF", "#FEE50D", "#030304", "#698D5C", "#15191E", "#474A47"]
 key_values: ["Irony", "\"authentic inauthenticity", "\" modernity", "plasticity", "artifice over nature"]
 related_aesthetics: ["Bauhaus", "Constructivism", "Electroclash (2000s Revival)", "Goth", "Italo Disco", "Memphis Design", "New Romantic", "Pop Art", "Post-Punk", "Swiss Style"]
 subgenres: ["Minimal Wave", "Movida Madrileña", "Neue Deutsche Welle"]

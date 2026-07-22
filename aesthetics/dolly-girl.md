@@ -5,6 +5,7 @@ aka: ["Dolly Style", "60s Dolly"]
 decade_of_origin: "Mid-1960s"
 key_motifs: ["Babydoll dresses", "Peter Pan collars", "miniskirts", "Mary Jane shoes", "lace", "ribbons", "puffed sleeves"]
 key_colours: ["Pastels (baby pink, powder blue, mint green)", "white", "cream"]
+palette: ["#292A29", "#6E4942", "#CACAC9", "#B8AEA9", "#81817F", "#E9EAE9"]
 key_values: ["Innocence", "youthfulness", "playful femininity", "girlishness"]
 related_aesthetics: ["Coquette", "Mod", "Twee", "Yé-yé"]
 source_url: "https://aesthetics.fandom.com/wiki/Dolly_Girl"

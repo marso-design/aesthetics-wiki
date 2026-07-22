@@ -5,6 +5,7 @@ aka: ["Desertcore", "Cactuscore"]
 decade_of_origin: "As long as deserts have existed"
 key_motifs: ["Cacti", "sand dunes", "rocks", "reptiles", "night", "the sun", "canteens"]
 key_colours: ["Green", "red", "orange", "yellow", "beige", "white", "purple", "black"]
+palette: ["#A1C8DE", "#4E6396", "#23262A", "#7B625E", "#7397BD", "#D3E2E4"]
 key_values: ["Heat", "open space", "survival", "dehydration"]
 related_aesthetics: ["Adventurecore", "Americana", "Ancient Egypt", "Prairie", "Safari Chic", "Synthwave", "Western"]
 related_media: ["Rango", "Coco", "Krazy Kat", "Area 51"]

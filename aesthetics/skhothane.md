@@ -5,6 +5,7 @@ aka: ["Izikhothane"]
 decade_of_origin: "Mid-2000s"
 key_motifs: ["Conspicuous consumption", "maximalism", "brand display (Rossimoda, Carvela, Polo)", "ritualistic destruction (burning/trampling clothes, pouring expensive alcohol)", "dance battles", "flash photography"]
 key_colours: ["Bright", "clashing colors"]
+palette: ["#151218", "#30393F", "#CAD5D9", "#E9E3DA", "#C39670", "#782A33"]
 key_values: ["Wealth display", "self-assertion", "defiance of adversity", "respect from peers", "instant celebrity", "living for the present", "protest against structural inequality"]
 related_aesthetics: ["Chav", "Swenkas"]
 primary_platform: ["Township gatherings", "\"Battles", "\" YouTube"]

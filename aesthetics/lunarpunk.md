@@ -4,6 +4,7 @@ slug: "lunarpunk"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Bioluminescence", "glowing mushrooms", "nocturnal scenes", "moon and stars", "moths", "spirituality", "occult symbols"]
 key_colours: ["Dark palettes (deep blue, purple, silver, black) with glowing accents"]
+palette: ["#2D395A", "#0C0716", "#0F1F32", "#371E3A", "#455E7D", "#8B5F7F"]
 key_values: ["Individualism", "spirituality", "sustainability", "introspection", "harmony with nature"]
 related_aesthetics: ["Solarpunk", "Dreampunk", "Cyberdelia", "Goth", "Naturecore", "Witch House"]
 source_url: "https://aesthetics.fandom.com/wiki/Lunarpunk"

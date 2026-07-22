@@ -4,6 +4,7 @@ slug: "vector-m-sica"
 decade_of_origin: "Late 2000s"
 key_motifs: ["Flowing musical staves", "treble clefs", "scattering notes", "hearts and stars", "floral filigree", "silhouettes (headphones, dancers, microphones)", "bokeh effects"]
 key_colours: ["Pastel Pink", "Lavender", "Baby Blue", "White", "Magenta"]
+palette: ["#C195A9", "#B6B7BB", "#865272", "#D0D2D8", "#E6E3E9", "#EEBEDC"]
 key_values: ["Harmony", "whimsy", "elegance", "melody", "magical transformation"]
 related_aesthetics: ["Frutiger Aero", "Vectorbloom", "Vectordelia (parent)", "Magical Girl", "McBling", "Pianocore"]
 related_media: ["f5ve (J-pop Girl Group)", "Winx Club (Seasons 4–5)", "Suite PreCure♪", "Just Dance", "Project Diva (Backgrounds)", "Violetta"]

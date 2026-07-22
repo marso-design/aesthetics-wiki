@@ -4,6 +4,7 @@ slug: "soft-apocalypse"
 aka: ["Apocalypsecore"]
 key_motifs: ["Overgrown cities", "nature"]
 key_colours: ["Green", "grey", "white", "light brown"]
+palette: ["#2B2D1F", "#8F8A6F", "#4E5137", "#65714B", "#E1ECF1", "#B2B39F"]
 key_values: ["Hope", "harmony with nature", "anarchy", "Nature taking it back."]
 related_aesthetics: ["Avant Apocalypse", "Brutalism", "Industrial Decay", "Post-Apocalyptic", "Solarpunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Apocalypse"

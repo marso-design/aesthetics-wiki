@@ -5,6 +5,7 @@ aka: ["Grocery Girl", "Grocerycore"]
 decade_of_origin: "2020s"
 key_motifs: ["Food-shaped objects", "food-inspired prints", "whimsical accessories", "bright colors", "hyperrealistic food items"]
 key_colours: ["Red", "yellow", "green", "pink"]
+palette: ["#6A3B28", "#B2A48F", "#1F1716", "#DEDBC9", "#868981", "#B7BDAF"]
 key_values: ["Playfulness", "joy", "creativity", "self-expression", "humor"]
 related_aesthetics: ["Autumn", "Camp", "Cottagecore", "Dopamine", "Foodie", "Gen Z Maximalism", "Juminocore", "Kidcore", "Maillard Style", "Maximalism", "Neo-Pop", "Tomato Girl Summer", "Trinketcore", "Whimsigothic"]
 source_url: "https://aesthetics.fandom.com/wiki/Grocery_Girl_Fall"

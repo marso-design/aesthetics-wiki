@@ -5,6 +5,7 @@ aka: ["Internetcore", "Enacore"]
 decade_of_origin: "Late 2010s-Early 2020s"
 key_motifs: ["Nostalgic internet imagery (GeoCities, Windows XP)", "pixel art", "early 3D graphics", "browser windows", "surrealism", "pop-ups", "error messages", "outdated technology"]
 key_colours: ["Bright primary colors", "often with digital distortion or pastel filters"]
+palette: ["#6D4A3F", "#8C7775", "#EDF1E3", "#4E6B73", "#1F215E", "#8F958B"]
 key_values: ["Nostalgia (anemoia)", "critique of the modern corporate internet", "digital surrealism", "creativity"]
 related_aesthetics: ["2010s Meme Maximalism", "Cybercore", "Demoscene", "Dreamcore", "Frutiger Aero", "Glitch Art", "Glitchcore", "Old Web", "Silicon Dreams", "TechnoNeko2000", "Vaporwave", "Weirdcore", "Xpiritualism", "Y2K Futurism", "Yabujincore"]
 primary_platform: ["YouTube", "TikTok", "SoundCloud"]

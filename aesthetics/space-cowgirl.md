@@ -4,6 +4,7 @@ slug: "space-cowgirl"
 decade_of_origin: "2020s"
 key_motifs: ["Cowboy hats", "Western boots", "holographic bodysuits", "disco balls", "mechanical bulls", "cow print", "neon colors", "metallic sheen", "iridescent materials", "glitter", "aliens", "robots", "outer space", "sci-fi elements", "feather boas", "bubble pistols"]
 key_colours: ["Pink", "orange", "iridescent", "glitter", "neon colors", "metallic"]
+palette: ["#181C24", "#AC5A5D", "#252C49", "#D2B3B1", "#EFD1D9", "#D79195"]
 key_values: ["Nostalgia", "optimism", "joy", "irreverence", "surrealism", "self-expression", "inclusivity", "dreamers mindset"]
 related_aesthetics: ["Barbiecore", "Buckle Bunny", "Country", "Cuntry", "Disco", "Retrofuturism", "Space Age", "Space Western", "Vintage Americana", "Western", "Y2K"]
 primary_platform: ["TikTok"]

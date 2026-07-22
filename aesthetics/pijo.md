@@ -5,6 +5,7 @@ aka: ["Postu", "Cayetano"]
 decade_of_origin: "1970s (Evolving over decades)"
 key_motifs: ["Designer labels", "luxury brands", "tailored clothing", "equestrian influences", "subtle displays of wealth"]
 key_colours: ["Neutral tones (beige, white, navy)", "pastel shades", "occasional use of national colors (Spanish flag)"]
+palette: ["#F3EFE3", "#142230", "#DBAC76", "#D4835E", "#CFD0C2", "#777878"]
 key_values: ["Wealth", "social status", "exclusivity", "traditionalism", "conformity", "refined appearance", "conspicuous consumption"]
 related_aesthetics: ["Bon Chic", "Bon Genre", "Cayetana", "Equestrian", "Nautical", "New Money", "Old Money", "Paninaro", "Popper", "Preppy", "Torero Aesthetic"]
 source_url: "https://aesthetics.fandom.com/wiki/Pijo"

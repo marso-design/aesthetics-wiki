@@ -1,6 +1,7 @@
 ---
 name: "Eurotrash"
 slug: "eurotrash"
+palette: ["#46C7C1", "#101515", "#3B7173", "#8F9292", "#152931", "#4E4742"]
 source_url: "https://aesthetics.fandom.com/wiki/Eurotrash"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

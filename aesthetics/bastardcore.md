@@ -5,6 +5,7 @@ aka: ["Badboycore", "Feralcore", "Mischiefcore"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Delinquency", "vandalism", "low-light urban settings (underpasses, parking lots)", "fire/arson", "mundane objects in bizarre context (traffic cone heads, skateboards)", "grotesque humor (spaghetti mouth, roaches)", "skeleton masks", "people in shopping carts", "novelty graphic shirts", "possums", "badly lit rooms", "arresting statements", "saying zoo wee mama"]
 key_colours: ["Any colors; stark contrast between low-light scenes and bright sources of light (fire, flash, street lamps)"]
+palette: ["#49413D", "#0F110B", "#292B2A", "#83716E", "#6D544D", "#9E7E8B"]
 key_values: ["Edgy humor", "novelty", "shock value", "mischief", "rebellion", "anti-establishment irony"]
 related_aesthetics: ["Alien (socially)", "Bro Culture", "Meme Rap", "Liminal Space", "Olderbrothercore", "UrBling", "Weirdcore (some aspects)"]
 primary_platform: ["Reddit", "Tumblr", "Newgrounds", "YouTube", "Novelty Shirt Websites"]

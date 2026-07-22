@@ -5,6 +5,7 @@ aka: ["Chinese Warriors"]
 decade_of_origin: "9th century"
 key_motifs: ["Chinese warriors", "martial artists in an ancient Chinese setting"]
 key_colours: ["White", "tan", "red", "black", "teal"]
+palette: ["#2B2320", "#BBA498", "#7297A9", "#4D555E", "#6F625B", "#453037"]
 key_values: ["Determination", "fighting for what is right", "effortless wandering"]
 related_aesthetics: ["Adventurecore"]
 subgenres: ["Xianxia"]

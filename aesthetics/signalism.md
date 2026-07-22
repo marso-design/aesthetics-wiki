@@ -4,6 +4,7 @@ slug: "signalism"
 decade_of_origin: "Late 1960s–1970s"
 key_motifs: ["Scientific symbols", "mathematical formulas", "linguistic signs (letters, punctuation)", "arrows", "celestial bodies", "visual poetry", "machine-like diagrams"]
 key_colours: ["Often black", "white", "and red"]
+palette: ["#FFFFFF", "#383535", "#F18A86", "#8C8B8A", "#E6E4E3", "#A8AAA9"]
 key_values: ["Experimentation", "anti-traditionalism", "synthesizing science and art", "exploring language as a material", "\"scientification\" of poetry"]
 related_aesthetics: ["Dadaism", "Modernism", "Surrealism", "Zenitism"]
 primary_platform: ["Signal (magazine)"]

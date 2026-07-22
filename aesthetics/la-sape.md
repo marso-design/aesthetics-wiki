@@ -4,6 +4,7 @@ slug: "la-sape"
 aka: ["Sapeurs"]
 decade_of_origin: "1920s"
 key_colours: ["Any"]
+palette: ["#ECEEEE", "#242833", "#BEB3AF", "#7A7372", "#7F3546", "#9F9E9C"]
 key_values: ["Elegance", "beauty"]
 related_aesthetics: ["Swenkas", "Metrosexual", "New Romantic", "Afrofuturism", "Dandy"]
 source_url: "https://aesthetics.fandom.com/wiki/La_Sape"

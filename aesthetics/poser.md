@@ -1,6 +1,7 @@
 ---
 name: "Poser"
 slug: "poser"
+palette: ["#000000", "#FFFFFF", "#947C6F", "#EBEDEF", "#D2CDCA", "#252627"]
 source_url: "https://aesthetics.fandom.com/wiki/Poser"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

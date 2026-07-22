@@ -5,6 +5,7 @@ aka: ["Super-Realism", "Hyperrealism", "Sharp-Focus Realism"]
 decade_of_origin: "Late 1960s–1970s"
 key_motifs: ["Reflective surfaces (storefronts, cars, chrome)", "urban landscapes", "portraits", "still lifes of everyday objects", "diners", "motorcycles"]
 key_colours: ["Colors are dictated by the source photograph", "aiming for documentary accuracy."]
+palette: ["#2A3237", "#161117", "#535F5A", "#757F77", "#FAFAF5", "#949081"]
 key_values: ["Technical virtuosity", "objectivity", "documentary precision", "rejection of abstraction", "interest in the nature of vision and photography"]
 related_aesthetics: ["Pop Art", "Minimalism", "Realism"]
 source_url: "https://aesthetics.fandom.com/wiki/Photorealism"

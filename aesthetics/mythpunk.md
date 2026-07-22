@@ -5,6 +5,7 @@ decade_of_origin: "Varies, due to the disconnected nature of many subgenres"
 key_motifs: ["Urban Fantasy", "non-linear storytelling", "fairy tale retellings", "Magical Realism", "poetry", "lyricism", "morbidity", "sensuality", "Surrealism", "horror"]
 related_aesthetics: ["Dark Fantasy", "Fantasy", "Dark Academia", "Goth", "Gothic", "Forestpunk", "Fairycore", "Strega", "Vampire", "Werewolf", "New Romantic"]
 related_media: ["Mythpunk:", "The Orphan’s Tales by Cathrynne M. Valente", "Weetzie Bat by Francisca Lia Brock", "The Bloody Chamber by Angela Carter", "Red As Blood by Tanith Lee", "Elfpunk:", "Terri Windling‘s Borderland", "War For the Oaks by Emma Bull", "The Book of Atrix Wolfe by Patricia A. McKillip", "Jack the Giant-Killer by Charles de Lint"]
+palette: ["#08192E", "#323731", "#918258", "#CCC095", "#674D35"]
 source_url: "https://aesthetics.fandom.com/wiki/Mythpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

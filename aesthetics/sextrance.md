@@ -5,6 +5,7 @@ aka: ["HexD Trance", "Hextrance", "Crushed Trance"]
 decade_of_origin: "2020s"
 key_motifs: ["2000s-2010s anime and videogames", "drifting/race cars", "glitchy pixels", "holographic colors", "distorted 3D models", "trading game cards", "old internet graphics"]
 key_colours: ["Purple", "black", "blue", "pink", "white", "holographic colors"]
+palette: ["#0B0F34", "#40597C", "#ADBBB6", "#8F9CA2", "#D3D0C4", "#381D44"]
 key_values: ["Nostalgia", "chaotic energy", "absurdity", "emotionalness"]
 related_aesthetics: ["HexD", "Low Poly", "Nightcore (aesthetic)", "Sigilkore", "Webcore", "Xpiritualism", "Y2K Futurism"]
 primary_platform: ["SoundCloud", "YouTube", "RateYourMusic"]

@@ -5,6 +5,7 @@ aka: ["Pokera (feminine)", "Poky (associated music genre)"]
 decade_of_origin: "2000s"
 key_motifs: ["Gold jewelry", "high-top retro sneakers", "shaven-side hairstyles", "modified cars", "tracksuit jackets"]
 key_colours: ["Phosphorescent neon", "gold", "white", "denim blue"]
+palette: ["#C6CFD1", "#1C2125", "#5A6563", "#3A3A3C", "#84796D", "#95A8AE"]
 key_values: ["Party culture", "speed", "ostentation", "appreciation for \"Poky\" music", "Spanish nationalism"]
 related_aesthetics: ["Bakala", "Cani", "Choni", "Rave"]
 source_url: "https://aesthetics.fandom.com/wiki/Pokero"

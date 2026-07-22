@@ -4,6 +4,7 @@ slug: "sanriocore"
 decade_of_origin: "2010s"
 key_motifs: ["Sanrio characters", "desserts and candy", "plushies", "glitter", "sparkles", "speech bubbles", "pixel art", "cherry blossoms"]
 key_colours: ["Light pink", "baby blue", "lavender", "warm white (pastel palette)"]
+palette: ["#1A1317", "#948484", "#BDA8AA", "#716465", "#724A4E", "#38282D"]
 key_values: ["Innocence", "cuteness (kawaii)", "playfulness", "Y2K nostalgia"]
 related_aesthetics: ["Babycore", "Heisei Retro", "Kawaii", "Kidcore", "Pastel Goth", "Soft Girl", "Traumacore"]
 subgenres: ["Kuromicore", "Melodycore"]

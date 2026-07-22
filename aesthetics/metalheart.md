@@ -5,6 +5,7 @@ aka: ["Depthcore", "Trendwhore"]
 decade_of_origin: "1990s"
 key_motifs: ["Deformed abstract shapes", "metal/chrome textures", "futuristic UI and fonts"]
 key_colours: ["Gray", "Black", "White", "Blue", "Green", "Red", "Yellow"]
+palette: ["#212229", "#557F6F", "#383F4C", "#A9CAB0", "#FDFEFC", "#A7A09F"]
 related_aesthetics: ["Abstract Tech", "Early Cyber", "Cyberdelic", "Cybersigilism", "Chromecore", "Corporate Grunge", "Cyberpunk", "Dark Aero", "Gen X Soft Club", "90s Cool", "Hexatron", "Hipness Purgatory", "McBling", "Med-Tech Visions", "Nu-Metal", "Silicon Dreams", "UrBling", "Vectorbloom", "Vectorheart", "Webcore", "★Y2K Futurism"]
 related_media: ["The Matrix"]
 source_url: "https://aesthetics.fandom.com/wiki/Metalheart"

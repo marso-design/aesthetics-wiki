@@ -5,6 +5,7 @@ aka: ["Feminine Boy", "Tomgirl", "Girlyboy", "Roseboy (controversial)"]
 decade_of_origin: "1990s (term)Late 2010s - Early 2020s (modern aesthetic)"
 key_motifs: ["Contrasting gender signifiers", "thigh-highs", "pleated skirts", "maid outfits", "animal ears (cat/bunny)", "chokers", "fluffy hair"]
 key_colours: ["Pink", "purple", "white", "pastels", "black (for contrast)"]
+palette: ["#0D0F12", "#4D4036", "#D4C5CF", "#312826", "#A39799", "#C8B1B7"]
 key_values: ["Effeminacy", "gender play/fluidity", "innocence", "softness", "hyper-sexualized presentation (sometimes)"]
 related_aesthetics: ["Alt Kid", "E-Girl", "Kawaii", "Maid", "Soft Boy", "Tomboy (counterpart)"]
 source_url: "https://aesthetics.fandom.com/wiki/Femboy"

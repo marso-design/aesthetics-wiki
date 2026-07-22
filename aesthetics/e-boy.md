@@ -5,6 +5,7 @@ aka: ["Electronic Boy"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Chains", "padlocks", "middle-part hair", "black nail polish", "layered clothing", "silver jewelry"]
 key_colours: ["Black", "white", "silver"]
+palette: ["#9A9795", "#070607", "#1D1919", "#2F2C2C", "#514944", "#BABACC"]
 related_aesthetics: ["E-Girl", "Emo", "Emo Rap", "Grunge", "Sadboi", "Scene", "Skater", "Soft Boy", "Trap Metal"]
 primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/E-Boy"

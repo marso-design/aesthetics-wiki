@@ -3,6 +3,7 @@ name: "Diner"
 slug: "diner"
 decade_of_origin: "1950s"
 key_colours: ["Any colors."]
+palette: ["#A14352", "#7C3C47", "#44262C", "#D66E7B", "#AD5B66", "#D19CA2"]
 related_aesthetics: ["Americana", "Diner Kitsch (revival)", "Googie Kitsch", "Foodie", "Googie", "Mid-Century Modern", "Atompunk", "Raygun Gothic", "Paninaro", "Vaporwave", "Vintage Americana"]
 source_url: "https://aesthetics.fandom.com/wiki/Diner"
 license: "CC-BY-SA-4.0"

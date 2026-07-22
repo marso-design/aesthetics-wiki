@@ -5,6 +5,7 @@ aka: ["Hellbilly", "Dark Pin-up"]
 decade_of_origin: "Late 1970s (musical roots)1990s (aesthetic)"
 key_motifs: ["Skulls", "bats", "spiderwebs", "cherries", "leopard print", "polka dots", "classic horror movie imagery"]
 key_colours: ["Primarily black and red", "with accents of white", "purple", "and animal prints"]
+palette: ["#0D0C10", "#CBC5C2", "#2A2627", "#5E6060", "#E2DDDB", "#A29C9A"]
 key_values: ["Retro glamour", "dark romanticism", "campiness", "macabre humor"]
 related_aesthetics: ["Deathrock", "Goth", "Rockabilly", "Psychobilly", "Pin-up"]
 source_url: "https://aesthetics.fandom.com/wiki/Gothabilly"

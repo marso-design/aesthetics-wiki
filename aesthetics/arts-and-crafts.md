@@ -4,6 +4,7 @@ slug: "arts-and-crafts"
 decade_of_origin: "1880s - 1920s"
 key_motifs: ["Stylized natural forms (flowers, vines, birds)", "medieval influences", "simple and strong construction", "visible joinery", "handcrafted textures"]
 key_colours: ["Rich", "deep colors from natural dyes (earthy reds, deep greens, ochre yellows, indigo blues)"]
+palette: ["#6D6F64", "#93917E", "#5D5348", "#C2B7A1", "#3C3E3D", "#D7CFBC"]
 key_values: ["Dignity of labor", "anti-industrialism", "social reform", "truth to materials", "unity of art and life", "craftsmanship", "simplicity", "utility"]
 related_aesthetics: ["Art Nouveau", "Bauhaus", "Gothic Revival", "Pre-Raphaelite", "Prairie School"]
 source_url: "https://aesthetics.fandom.com/wiki/Arts_and_Crafts"

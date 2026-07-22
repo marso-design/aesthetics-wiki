@@ -5,6 +5,7 @@ aka: ["Electropop 08"]
 decade_of_origin: "Late 2000s"
 key_motifs: ["Asymmetrical shapes", "neon colors", "excessive glitter", "lens flare", "futuristic elements", "party scenes"]
 key_colours: ["Vibrant neons (magenta, lime green, electric blue)", "purple", "black", "silver"]
+palette: ["#FFFFFF", "#BCC8D1", "#141C37", "#83868C", "#393439", "#C9937B"]
 key_values: ["Escapism", "hedonism", "relentless optimism", "partying", "catharsis"]
 related_aesthetics: ["2010s Summer Nostalgia", "Avantropop", "Bloghouse", "Dark Aero", "Electroclash", "Frutiger Aero", "Hipster", "Hyperpop", "Indie Sleaze", "McBling", "Party Rock", "Scene", "Superflat Pop"]
 source_url: "https://aesthetics.fandom.com/wiki/Recession_Pop"

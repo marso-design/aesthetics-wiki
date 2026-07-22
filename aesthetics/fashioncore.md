@@ -5,6 +5,7 @@ aka: ["Fashionxcore", "FXC"]
 decade_of_origin: "Early 2000s"
 key_motifs: ["Swooped fringe", "skunk hair dye (black with bleached sections)", "white studded belts", "skinny jeans", "fitted band t-shirts", "brass knuckles", "skull and diamond iconography", "Gloomy Bear and Skeletanimals imagery", "bone prints"]
 key_colours: ["Black", "bleached blonde", "red"]
+palette: ["#040302", "#D9E9EF", "#948875", "#182115", "#735D4F", "#FDEED6"]
 key_values: ["Deliberate fashion presentation within a scene that traditionally rejected it; looking good in the mosh pit"]
 related_aesthetics: ["Emo", "Horror Punk", "Mallgoth", "Metalhead", "Punk", "Scene", "Visual Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Fashioncore"

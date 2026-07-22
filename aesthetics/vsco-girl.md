@@ -4,6 +4,7 @@ slug: "vsco-girl"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Oversized T-shirts", "scrunchies", "Hydro Flasks", "Pura Vida bracelets", "Birkenstocks/Crocs/Vans", "puka shell necklaces", "messy buns", "simple makeup", "Polaroid cameras"]
 key_colours: ["Earthy tones", "pastels", "bright and natural colors (often enhanced with VSCO app filters)"]
+palette: ["#2D3431", "#A94C4D", "#FDE3EF", "#C1A2A0", "#C16F60", "#67777B"]
 key_values: ["Environmentalism (\"save the turtles\")"]
 related_aesthetics: ["2010s Summer Nostalgia", "Art Hoe", "Basic Girl", "E-Girl", "Granola", "Soft Girl", "TikTok Preppy"]
 source_url: "https://aesthetics.fandom.com/wiki/VSCO_Girl"

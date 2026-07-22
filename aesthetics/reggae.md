@@ -4,6 +4,7 @@ slug: "reggae"
 decade_of_origin: "Late 1960s"
 key_motifs: ["Peace signs", "dreadlocks", "lions", "ganja leaves", "the Jamaican flag"]
 key_colours: ["Black", "green", "yellow", "red"]
+palette: ["#060303", "#1D231E", "#37583B", "#CEA846", "#3E241E", "#55AA51"]
 key_values: ["Peace", "love", "social justice", "racial pride", "black nationalism", "anti-colonialism", "anti-capitalism", "criticism of political systems"]
 related_aesthetics: ["Acid House", "Basque Radical Rock", "Hippie", "La Movida", "Psychedelia", "Punk", "Rude Boy", "Skinheads", "Urbancore", "Vacation Dadcore"]
 related_media: ["Trojan Records"]

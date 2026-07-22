@@ -5,6 +5,7 @@ decade_of_origin: "2020s"
 key_motifs: ["Found-footage montages", "superimposed affirmations", "nature timelapses", "acoustic music", "nostalgic characters"]
 key_values: ["Optimism", "emotional reassurance", "mental wellness", "anti-doomscrolling"]
 related_aesthetics: ["Corecore", "Frutiger Aero", "Nostalgiacore"]
+palette: ["#7B7E66", "#1B1816", "#A18F77", "#F1F0EC", "#CDC6BF", "#525249"]
 source_url: "https://aesthetics.fandom.com/wiki/Hopecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

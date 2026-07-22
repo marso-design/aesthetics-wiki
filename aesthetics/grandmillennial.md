@@ -5,6 +5,7 @@ aka: ["Granny Chic", "New Traditionalist"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Floral chintz", "ruffles", "needlepoint", "wicker and rattan", "dark wood furniture", "patterned wallpaper", "pleated lampshades", "fine china"]
 key_colours: ["Soft pastels (sage, light blue, pink) contrasted with traditional", "richer colors"]
+palette: ["#232122", "#89795A", "#BD9E74", "#6C4E3B", "#3B342E", "#976641"]
 key_values: ["Nostalgia", "tradition", "comfort", "timelessness", "anti-minimalism", "curated personal style"]
 related_aesthetics: ["Grandparentcore", "Coastal Grandmother", "Preppy", "Sloanie", "Cottagecore", "Maximalism"]
 source_url: "https://aesthetics.fandom.com/wiki/Grandmillennial"

@@ -4,6 +4,7 @@ slug: "cloudcore"
 decade_of_origin: "2010s (peak: 2019–2022)"
 key_motifs: ["Cumulus clouds", "sunrise and sunset skies", "glitter and sparkle edits", "kawaii cloud drawings", "motivational quote overlays", "soft light leaks", "pastel filters"]
 key_colours: ["Dusty lavender", "rose pink", "baby blue", "teal", "iridescent white", "golden orange"]
+palette: ["#9D9BAE", "#5A7693", "#162234", "#7A8DA6", "#8272BC", "#D4CFD1"]
 key_values: ["Softness", "serenity", "wonder", "escapism", "beauty"]
 related_aesthetics: ["Angelcore", "Dreamcore", "Ethereal", "Lo-fi Art", "Softie", "Weirdcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Cloudcore"

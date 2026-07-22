@@ -4,6 +4,7 @@ slug: "otaku"
 decade_of_origin: "2010s"
 key_motifs: ["Unfashionable", "nerdy"]
 key_colours: ["Red"]
+palette: ["#C7B8AB", "#949595", "#2F2F32", "#1C191C", "#5E4949", "#FAFDFB"]
 related_aesthetics: ["Denpa", "Itasha", "Moe", "Nerd", "Nerdcore", "Lolicore", "Superflat", "Weeaboo", "Wota"]
 source_url: "https://aesthetics.fandom.com/wiki/Otaku"
 license: "CC-BY-SA-4.0"

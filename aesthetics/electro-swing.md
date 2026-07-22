@@ -6,6 +6,7 @@ decade_of_origin: "Early 1990s (origins)
 Late 2000s (Popularization)"
 key_motifs: ["Rubber Hose revival", "1920s speakeasies", "robots", "anthropomorphic characters", "neon signage"]
 key_colours: ["Sepia", "grayscale", "neon highlights"]
+palette: ["#000000", "#826D4F", "#F4ECB7", "#5D5347", "#8B8672", "#B3A289"]
 key_values: ["Positivity", "joy", "reinterpretation of the 1920s"]
 related_aesthetics: ["Dieselpunk", "Flapper", "Fleischer Style", "Synthwave"]
 related_media: ["Bendy and the Ink Machine", "Cuphead", "Mirror's Edge"]

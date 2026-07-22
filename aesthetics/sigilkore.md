@@ -4,6 +4,7 @@ slug: "sigilkore"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Sigils", "occult symbols", "distorted anime/video game characters", "glitter graphics", "crosses", "angelic and demonic imagery"]
 key_colours: ["Black", "red", "purple", "white"]
+palette: ["#737068", "#000002", "#3B363B", "#200C18", "#8A8881", "#AEABA2"]
 key_values: ["Occultism", "dark atmospheres", "audio experimentation", "digital maximalism"]
 related_aesthetics: ["Cybersigilism", "Drain", "Glitchcore", "HexD", "Hyperpop", "Krushclub", "Trillwave", "Witch House", "Xpiritualism"]
 primary_platform: ["SoundCloud", "TikTok"]

@@ -1,6 +1,7 @@
 ---
 name: "Fashion"
 slug: "fashion"
+palette: ["#FFFFFF", "#030304", "#8F9399", "#DCDCD9", "#42474A", "#887C80"]
 source_url: "https://aesthetics.fandom.com/wiki/Fashion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

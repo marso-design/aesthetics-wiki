@@ -6,6 +6,7 @@ decade_of_origin: "1940s-50s (origin)1970s-present (maturation)"
 key_motifs: ["Single-family homes", "manicured lawns", "cul-de-sacs", "white picket fences", "driveways", "bicycles", "cars", "pools", "malls"]
 key_values: ["Family life", "community", "home ownership", "leisure", "tradition", "safety"]
 related_aesthetics: ["50s Suburbia", "Suburban Gothic", "Americana", "Dreamcore (adjacent)", "Nostalgiacore (adjacent)"]
+palette: ["#110C07", "#242B1C", "#464B40", "#75695D", "#E2DEA6", "#B2937E"]
 source_url: "https://aesthetics.fandom.com/wiki/Suburbia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["East German Nostalgia", "GDR Nostalgia", "Eastalgia"]
 decade_of_origin: "Post-1990 (German reunificatin/as nostalgia)"
 key_motifs: ["Trabant cars", "Ampelmännchen", "Dederon fabric", "Spreewald pickles", "retro packaging"]
 key_colours: ["Pastel blues", "browns", "oranges", "muted greens"]
+palette: ["#8C563F", "#110E11", "#A58968", "#413E38", "#1E222C", "#ECEDE5"]
 key_values: ["Nostalgia", "simplicity", "community", "familiarity"]
 related_aesthetics: ["Brutalism", "Electronic Body Music", "Kitsch", "Mid-Century Modern", "Retrofuturism", "Socialist Realism", "Soviet Nostalgia", "Sovietwave", "Yugo-Nostalgia"]
 related_media: ["Good Bye", "Lenin!", "Sonnenallee", "documentaries on GDR life"]

@@ -5,6 +5,7 @@ aka: ["The American Dream", "Mid-Century Suburbia"]
 decade_of_origin: "1950s"
 key_motifs: ["The nuclear family", "manicured lawns", "picket fences", "station wagons", "Tupperware parties", "backyard barbecues", "new household appliances"]
 key_colours: ["Pastels (mint green, baby pink, powder blue)", "cherry red", "turquoise", "white"]
+palette: ["#3F3C38", "#84857B", "#555752", "#B4AA8D", "#6F675F", "#292622"]
 key_values: ["Conformity", "traditional gender roles", "consumerism", "family", "community", "optimism", "\"keeping up with the Joneses\""]
 related_aesthetics: ["Americana", "Googie", "Mid-Century Modern", "Space Age", "Suburban Gothic", "Tradwife", "Vintage Americana"]
 related_media: ["Leave It to Beaver", "The Donna Reed Show", "I Love Lucy", "Pleasantville"]

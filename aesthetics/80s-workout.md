@@ -5,6 +5,7 @@ aka: ["Aerobics Fashion"]
 decade_of_origin: "1980s"
 key_motifs: ["Leotards", "leg warmers", "sweatbands", "neon colors", "high-top sneakers", "spandex", "bike shorts"]
 key_colours: ["Bright neon (pink, green, yellow, blue)", "pastels", "often in high-contrast combinations"]
+palette: ["#477390", "#FFFFFF", "#8CB2B3", "#2A464A", "#E6E5E4", "#C1C2BB"]
 key_values: ["Fitness as fun", "energy", "optimism", "self-expression", "social performance"]
 related_aesthetics: ["Camp", "Mallsoft", "Memphis Design", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/80s_Workout"

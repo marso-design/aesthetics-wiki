@@ -5,6 +5,7 @@ aka: ["Yankii", "Japanese Rockabilly"]
 decade_of_origin: "1950s and 1960s"
 key_motifs: ["Japanese gangster"]
 key_colours: ["black", "yellow", "white"]
+palette: ["#0D0B0D", "#FFFFFF", "#3C3739", "#142537", "#466474", "#827166"]
 key_values: ["rebellion"]
 related_aesthetics: ["Bosozoku", "Sukeban", "Gyaru", "Greaser", "Yakuza", "Bankara"]
 source_url: "https://aesthetics.fandom.com/wiki/Yanki"

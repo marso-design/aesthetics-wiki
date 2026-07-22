@@ -5,6 +5,7 @@ aka: ["Kòkalo (in Romani)"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Tattoos", "BMW cars", "jewels", "glitter", "gold chains", "fake money", "silk", "open jackets/shirts"]
 key_colours: ["Gold", "pink"]
+palette: ["#141414", "#7D8379", "#4E5653", "#AC8E7B", "#A2AC9F", "#382F2C"]
 key_values: ["Kitsch", "loudness", "listening to Manele music"]
 related_aesthetics: ["Bombardier (successor)", "Chav", "Pițipoancă"]
 source_url: "https://aesthetics.fandom.com/wiki/Cocalar"

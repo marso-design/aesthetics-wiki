@@ -4,6 +4,7 @@ slug: "ocean-grunge"
 decade_of_origin: "2010s"
 key_motifs: ["The Ocean", "statues of Poseidon", "anglerfish", "eels", "bioluminescence", "sunken ships", "jellyfish", "squid", "coelacanths", "deep sea mermaids"]
 key_colours: ["Black", "grey", "muted blues", "dark blue", "yellow", "white", "dark purple"]
+palette: ["#0E596D", "#050818", "#3E5E6E", "#98A19E", "#45A7A8", "#0D243C"]
 key_values: ["Nihilism", "emptiness", "depression"]
 related_aesthetics: ["After Hours", "Grunge", "Liminal Space", "Nautical", "Nu-Metal", "Seapunk", "Vaporwave", "Witch House"]
 related_media: ["Aliens of the Deep (2005)", "Narcosis (game) (2017-)", "League of Legends: Forgotten Depths Arc (2009s-)"]

@@ -4,6 +4,7 @@ slug: "2000s-tuscan-mom"
 decade_of_origin: "Mid-2020s (2026)"
 key_motifs: ["Maximalism", "animal print", "chunky highlights", "Tuscan Rustic decor"]
 key_colours: ["Warm", "earthy colors (Brown, orange, deep reds, yellow, purple)"]
+palette: ["#180A0A", "#2E2122", "#4E3A2F", "#B29882", "#542514", "#A38061"]
 key_values: ["Luxury", "wealth", "self-care", "femininity"]
 related_aesthetics: ["Autumn", "Bimbocore", "Frasurbane", "Global Village Coffeehouse", "McBling", "UrBling", "Y2K"]
 primary_platform: ["TikTok"]

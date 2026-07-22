@@ -4,6 +4,7 @@ slug: "nazi-chic"
 decade_of_origin: "Mid-1970s"
 key_motifs: ["Swastika", "Iron Cross", "Totenkopf (skull)", "SS runes", "Nazi-era military insignia", "German Gothic script"]
 key_colours: ["Black", "red", "white", "sometimes silver"]
+palette: ["#E6E6E2", "#8C7E6D", "#070809", "#4C4944", "#C4BDB8", "#FFFFFF"]
 key_values: ["Transgression", "subversion", "shock value", "critique of authority", "historical allusion (when used for commentary)"]
 related_aesthetics: ["Bondage", "Communist Chic", "Electronic Body Music", "Glam Rock", "Industrial", "Metal", "[", "Neofolk", "Punk"]
 source_url: "https://aesthetics.fandom.com/wiki/Nazi_Chic"

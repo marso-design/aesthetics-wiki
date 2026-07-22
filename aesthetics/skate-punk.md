@@ -6,6 +6,7 @@ decade_of_origin: "1980s"
 key_motifs: ["Skateboarding", "skate parks", "DIY ethos", "band logos", "graffiti", "worn-out skate shoes"]
 key_values: ["Anti-establishment", "rebellion", "humor", "high energy", "camaraderie"]
 related_aesthetics: ["Grunge", "Punk", "Skater"]
+palette: ["#373737", "#ECECEC", "#686868", "#B7B7B7", "#525252", "#989898"]
 source_url: "https://aesthetics.fandom.com/wiki/Skate_Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["Commercial Trance", "Dancecore"]
 decade_of_origin: "2000s"
 key_motifs: ["Silhouetted dancers", "neon light trails and swirls", "glowing particles and energy bursts", "high-gloss 3D typography", "abstract shattering effects", "digital music iconography"]
 key_colours: ["Electric blue", "neon pink", "vibrant green", "chrome", "black"]
+palette: ["#000000", "#202223", "#4D5E60", "#70A896", "#D5D9D9", "#4C2E43"]
 key_values: ["Energy", "intensity", "motion", "digital euphoria"]
 related_aesthetics: ["Avantropop", "Brostep", "Dark Aero", "Frutiger Aero", "Krocha", "Nightcore (aesthetic)", "Partille-Johnny", "Rave", "TechnoNeko2000", "Tecktonik", "Vectorheart", "Vectordelia", "Wixa", "Y2K Futurism"]
 primary_platform: ["YouTube", "Facebook", "Technobase.fm"]

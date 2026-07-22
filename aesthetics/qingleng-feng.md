@@ -4,6 +4,7 @@ slug: "qingleng-feng"
 aka: ["(Chinese) clear-cold style"]
 decade_of_origin: "2000s"
 key_colours: ["White", "grey", "beige", "pastel or mute blue", "black"]
+palette: ["#2A2625", "#D8E3E9", "#BCD1DC", "#BEB9AE", "#6F6459", "#4B4F47"]
 key_values: ["Calmness", "detachment"]
 related_aesthetics: ["Minimalism", "Wabi-Sabi", "Xianxia"]
 source_url: "https://aesthetics.fandom.com/wiki/Qingleng_Feng"

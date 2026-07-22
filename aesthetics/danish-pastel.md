@@ -4,6 +4,7 @@ slug: "danish-pastel"
 decade_of_origin: "2020s"
 key_motifs: ["Novelty candles", "potted plants", "motivational posters"]
 key_colours: ["White", "neon pastels"]
+palette: ["#BF8B7D", "#D5B0A4", "#9B6055", "#DECEC8", "#EFC09A"]
 related_aesthetics: ["Avant Basic", "Cottagecore", "Plant Mom", "Dopamine", "Scandinavian Design"]
 source_url: "https://aesthetics.fandom.com/wiki/Danish_Pastel"
 license: "CC-BY-SA-4.0"

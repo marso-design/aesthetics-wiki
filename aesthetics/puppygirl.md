@@ -4,6 +4,7 @@ slug: "puppygirl"
 decade_of_origin: "2020s"
 key_motifs: ["Dog ears (clip-on)", "collars", "leashes", "paw-print accessories (gloves, socks)", "bone-shaped items", "kennels", "anime-style artwork"]
 key_colours: ["Varies", "often blended with E-Girl or alternative palettes (e.g., pink, black, pastels)"]
+palette: ["#F9F3F8", "#D5B9AB", "#B5B9BC", "#52474C", "#727476", "#9A999B"]
 key_values: ["Joyful dehumanization", "submission", "dependency", "refusal of respectability", "anti-productivity"]
 related_aesthetics: ["Babygirl", "Bimbocore", "E-Girl", "Femboy", "Furry", "Maid", "Neko"]
 primary_platform: ["Twitter/X", "Discord", "TikTok", "Twitch"]

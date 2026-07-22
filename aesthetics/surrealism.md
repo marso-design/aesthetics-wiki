@@ -4,6 +4,7 @@ slug: "surrealism"
 decade_of_origin: "1920s–1950s"
 key_motifs: ["Dreams", "the unconscious", "automatism", "unexpected juxtapositions", "biomorphic forms", "mythological symbols", "everyday objects in strange contexts"]
 key_colours: ["Varies widely by artist"]
+palette: ["#BEA588", "#86695B", "#1F1D18", "#372F29", "#90897D", "#514B3E"]
 key_values: ["Unlocking the unconscious", "freedom from reason", "psychological truth", "revolution (personal and social)", "the marvelous"]
 related_aesthetics: ["Dadaism", "Dreamcore", "Symbolism", "Psychedelia", "Weirdcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Surrealism"

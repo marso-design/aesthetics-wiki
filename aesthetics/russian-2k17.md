@@ -5,6 +5,7 @@ aka: ["Give me back my 2k17"]
 decade_of_origin: "2010s"
 key_motifs: ["Panel houses", "entrances", "nights in residential areas", "\"saved\" apartments", "themes of depression", "house-sitting"]
 key_colours: ["Gray", "yellow street light", "black", "pale pink", "raspberry", "cold blue", "purple"]
+palette: ["#191D20", "#312E2D", "#3F4A5C", "#696C6D", "#BC4D7B", "#9F9491"]
 key_values: ["Alienation", "quiet rebellion", "post-irony"]
 related_aesthetics: ["Soft Grunge", "Sadboi", "Sadgirl"]
 primary_platform: ["VK"]

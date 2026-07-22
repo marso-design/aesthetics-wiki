@@ -6,6 +6,7 @@ decade_of_origin: "1980s"
 key_motifs: ["Displays of wealth", "polo shirts", "sailing shoes", "Cashmere pullovers", "carrot pants", "college shoes"]
 key_values: ["Consumerism", "materialism", "hedonism", "egoism", "apoliticism", "brand fetishism"]
 related_aesthetics: ["Disco", "New Romantic", "Paninaro", "Preppy", "Teddy Boy"]
+palette: ["#FFFFFF", "#0A200F", "#242B21", "#5A4E3D", "#E5E4DF", "#797061"]
 source_url: "https://aesthetics.fandom.com/wiki/Poppers_(German_subculture)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

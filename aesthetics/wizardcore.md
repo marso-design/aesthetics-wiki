@@ -4,6 +4,7 @@ slug: "wizardcore"
 decade_of_origin: "2010s"
 key_motifs: ["Wizard staffs", "walking sticks", "books", "cloaks", "hourglasses", "glass baubles and trinkets", "globes", "maps", "mirrors", "succulents", "gems", "stones", "brooches", "scrolls", "candles", "notebooks", "rustic items"]
 key_colours: ["Black", "gray", "brown", "dark red", "purple", "navy blue", "green"]
+palette: ["#C0B3A8", "#2F2F2D", "#171B15", "#DBCCBF", "#676159", "#533F3B"]
 key_values: ["Intelligence", "wisdom", "ambition", "creativity", "control", "determination", "devotion", "freedom", "peacefulness", "whimsy"]
 related_aesthetics: ["Cabincore", "Chaotic Academia", "Dark Academia", "Fantasy", "Fantasy Astronomy", "Goblincore", "Light Academia", "Naturecore", "Whimsigoth", "Witchcore"]
 related_media: ["Harry Potter", "The Lord of the Rings", "Dungeons and Dragons"]

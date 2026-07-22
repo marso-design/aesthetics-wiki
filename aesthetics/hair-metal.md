@@ -5,6 +5,7 @@ aka: ["Glam Metal", "Pop Metal", "Sleaze Rock"]
 decade_of_origin: "Late 70's-early 80's"
 key_motifs: ["Teased hair", "flashy makeup", "revealing clothing", "animal print", "studs", "spikes", "chains", "leather", "denim", "cowboy boots", "drugs", "alcohol", "strippers", "parties", "motorcycles", "tattoos"]
 key_colours: ["Black", "white", "red", "navy blue", "green", "violet", "shades of pink", "gold", "silver"]
+palette: ["#201F24", "#603A3D", "#676789", "#CDAAB2", "#413038", "#DAC9BE"]
 key_values: ["The \"sex", "drugs and rock 'n' roll\" lifestyle", "nightlife", "rebellion and controversies"]
 related_aesthetics: ["Glam Rock (inspiration)", "Metal", "Punk", "Scene", "Visual Kei"]
 related_media: ["Jem and The Holograms (1985)", "The Dirt (2019)"]

@@ -6,6 +6,7 @@ decade_of_origin: "1970s"
 creators: ["Vitaly Komar & Alexander Melamid"]
 key_motifs: ["Soviet symbols (hammer and sickle, red star)", "portraits of leaders (Lenin, Stalin)", "propaganda slogans", "juxtaposition with Western pop culture icons (Mickey Mouse, Coca-Cola)"]
 key_colours: ["Red", "gold", "black", "and the idealized palette of Socialist Realism"]
+palette: ["#B7010C", "#251915", "#B8B583", "#73733C", "#E03027", "#704032"]
 key_values: ["Irony", "parody", "satire", "critique of ideology", "nonconformism", "deconstruction of propaganda"]
 related_aesthetics: ["Pop Art", "Socialist Realism", "Conceptual Art", "Camp", "Dadaism"]
 source_url: "https://aesthetics.fandom.com/wiki/Sots_Art"

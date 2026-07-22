@@ -5,6 +5,7 @@ aka: ["Princess Gal"]
 decade_of_origin: "Late 2000s to Early 2010s"
 key_motifs: ["Tiara", "roses", "bows", "ribbons", "lace", "frills", "pearls", "castles", "carriages", "butterflies"]
 key_colours: ["Pink", "white", "pastels"]
+palette: ["#F3C0B9", "#B19998", "#794637", "#D1BCB8", "#F9F1F2", "#E9A5A6"]
 key_values: ["Femininity", "elegance", "luxury", "royalty", "romance"]
 related_aesthetics: ["Agejo", "Coquette", "Gyaru", "Himekaji", "Hime Lolita", "Lolita", "Royalcore"]
 related_media: ["Ageha Magazine", "Kilala Magazine"]

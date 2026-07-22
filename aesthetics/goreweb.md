@@ -5,6 +5,7 @@ aka: ["Chaoscore", "AGC Style", "LiveLeakcore"]
 decade_of_origin: "2020s"
 key_motifs: ["LiveLeak watermarks", "fake gore", "thermal/night-vision filters", "Oldboy (2003) references", "Slam Metal typography", "\"Cursed\" JPEGs", "medical horror", "Rick Owens \"Gimp\" circles"]
 key_colours: ["Blood red", "bitcrushed black", "thermal green", "white"]
+palette: ["#252828", "#050202", "#FFFFFF", "#331515", "#7D5F5C", "#5E1415"]
 key_values: ["Shock value", "aggression", "desensitization", "chaos", "digital decay"]
 related_aesthetics: ["Digital Horror", "Haunted Mound", "HexD", "Opium", "Xpiritualism"]
 primary_platform: ["Instagram", "TikTok"]

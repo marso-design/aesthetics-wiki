@@ -5,6 +5,7 @@ aka: ["Няшка", "Drain-Nyashka (дрейн-няшка)"]
 decade_of_origin: "2020s"
 key_motifs: ["Doll-like enlarged eyes", "black scleral or enlarging contact lenses", "heavy winged eyeliner", "flat straight brows", "pale or white-based foundation", "cross and chain accessories", "lace", "oversized black clothing"]
 key_colours: ["Black", "white", "burgundy", "pink"]
+palette: ["#A4988F", "#827D75", "#C1BBB3", "#090808", "#6D615C", "#E2D8D1"]
 key_values: ["Cuteness", "alternative self-expression", "anime-influenced identity"]
 related_aesthetics: ["Cyber Doll", "Dead Inside", "Drain", "E-Girl", "Jirai Kei", "Lolita"]
 primary_platform: ["VKontakte", "TikTok", "Telegram"]

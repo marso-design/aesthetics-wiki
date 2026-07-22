@@ -5,6 +5,7 @@ decade_of_origin: "2020s"
 creators: ["ROSALÍA"]
 key_motifs: ["Motorcycles", "biker jackets", "leather", "cyberpunk helmets", "butterflies", "Y2K sunglasses", "racing pants"]
 key_colours: ["Red", "black", "white", "pink"]
+palette: ["#2A2422", "#797A7D", "#953F34", "#D8C2BB", "#B98C81", "#EDEAE7"]
 key_values: ["Transformation", "strength", "vulnerability", "self-confidence", "sexual empowerment", "feminine power"]
 related_aesthetics: ["Biker", "Choni", "Cyberpunk", "McBling", "Neoperreo", "Raxet"]
 source_url: "https://aesthetics.fandom.com/wiki/Motomami"

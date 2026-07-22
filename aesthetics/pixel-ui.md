@@ -5,6 +5,7 @@ aka: ["Pixel Design", "Pixel Perfect"]
 decade_of_origin: "1980s"
 key_motifs: ["Bitmap fonts", "sprite-like icons", "heavily limited color palettes", "hardlined or embossed UI elements", "cascading windows and error messages"]
 key_colours: ["Grey", "teal", "blue", "white"]
+palette: ["#051498", "#000040", "#973533", "#005197", "#00C000", "#998475"]
 related_aesthetics: ["8-Bit", "Cassette Futurism", "Lo-Fi", "Global Village Coffeehouse", "Memphis Lite", "Y2K Futurism", "Frutiger Aero", "PC-98", "Pixelscape", "Webcore", "Vaporwave", "Utopian Scholastic", "Old Web"]
 related_media: ["Classic Mac OS", "Windows 3.x", "Windows 9X (95, 98, ME)", "Windows NT (3.1, 4.0, 2000)"]
 source_url: "https://aesthetics.fandom.com/wiki/Pixel_UI"

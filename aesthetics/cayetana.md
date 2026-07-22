@@ -5,6 +5,7 @@ aka: ["Cayestyle", "Pija"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Basic wardrobe staples", "natural makeup", "gold jewelry", "loose-fitting clothing", "branded sneakers", "designer handbags"]
 key_colours: ["Neutrals (beige, white, black, navy)", "with accents of gold"]
+palette: ["#503D32", "#2B2423", "#948376", "#6A6157", "#ABADB2", "#989595"]
 key_values: ["Simplicity", "elegance", "wealth", "classic style", "perceived elitism and conservatism"]
 related_aesthetics: ["Chic Modernist", "Clean Girl", "Milipili", "Old Money", "Pijo", "Preppy", "Sloanie", "Torero Aesthetic"]
 primary_platform: ["TikTok"]

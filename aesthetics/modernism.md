@@ -1,6 +1,7 @@
 ---
 name: "Modernism"
 slug: "modernism"
+palette: ["#15130F", "#24272C", "#53513E", "#40372A", "#7A6E51", "#FDF2CC"]
 source_url: "https://aesthetics.fandom.com/wiki/Modernism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

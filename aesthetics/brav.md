@@ -5,6 +5,7 @@ aka: ["Rock Bravú"]
 decade_of_origin: "1990s"
 key_motifs: ["Galician language as a visual element", "imagery of rural life (aldeas and farming)", "coastal symbols (mexillóns)", "DIY/collage graphic style", "Xabarín Club mascot", "humor", "and political satire"]
 key_colours: ["Black", "red", "high-contrast yellow", "green"]
+palette: ["#305E69", "#2C2223", "#000000", "#E5C54C", "#916D57", "#822723"]
 key_values: ["Authenticity", "rural pride", "Galician cultural affirmation", "DIY ethos", "anti-globalization", "morriña\"Morriña\" is the uniquely Galician cultural concept of longing for your own homeland", "similar to homesickness or nostalgia by definition."]
 related_aesthetics: ["Basque Radical Rock", "Folk Punk", "Movida Viguesa", "Punk"]
 related_media: ["Bravú (magazine)", "Xabarín Club (TV program)", "Selección Xa! (compilation album)"]

@@ -6,6 +6,7 @@ decade_of_origin: "1960s (core ideas)
 2000s"
 key_motifs: ["Cityscapes", "Technology", "Cyberspace", "Robotics"]
 key_colours: ["White", "Light Blue"]
+palette: ["#617CA9", "#7FC2E2", "#1E234D", "#AA8992", "#47446E", "#B2E4F6"]
 key_values: ["Optimistic Futurism", "High Tech/High Life"]
 related_aesthetics: ["Abstract Tech", "Biopunk", "Cyberpop", "Cyberpunk", "Cybertwee", "Flat Design", "Frutiger Aero", "Frutiger Eco", "Hexatron", "New Wave", "Preppy", "Solarpunk", "Synthwave", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Cyberprep"

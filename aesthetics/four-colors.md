@@ -3,6 +3,7 @@ name: "Four Colors"
 slug: "four-colors"
 decade_of_origin: "2000s"
 key_colours: ["Electric lime", "sky blue", "hot pink", "neon orange (Primary)", "Others (Accents)"]
+palette: ["#FFFFFF", "#2A2E3D", "#B05052", "#9DA18C", "#D29C80", "#CCDABA"]
 key_values: ["Personalization"]
 related_aesthetics: ["Bright Tertiaries", "Dollar Store Vernacular", "Figuration Narrative", "Flat Design", "Frutiger Aero", "McBling", "Old Web", "Pop Art", "Superflat Pop", "Technozen", "UrBling", "Vectordelia"]
 related_media: ["iPod promotional poster"]

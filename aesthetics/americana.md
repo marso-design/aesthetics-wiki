@@ -1,6 +1,7 @@
 ---
 name: "Americana"
 slug: "americana"
+palette: ["#5A3733", "#261516", "#A89C93", "#69544E", "#86756D", "#BE7D78"]
 source_url: "https://aesthetics.fandom.com/wiki/Americana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

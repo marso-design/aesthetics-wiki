@@ -4,6 +4,7 @@ slug: "draincore"
 decade_of_origin: "Late 2010s–Early 2020s"
 key_motifs: ["Glitch effects", "excessive sparkles", "cyber sigils", "low-resolution anime characters", "translucent geometry", "distorted clip art", "fake digital damage (e.g., loading bars, error messages)"]
 key_colours: ["Vibrant neon colors (pink, green, blue)", "silver/chrome", "white", "black"]
+palette: ["#7B6568", "#2C2825", "#AC9290", "#858C86", "#FAF9FC", "#E4B9D0"]
 key_values: ["Hyper-irony", "digital chaos", "vulnerable nihilism", "Y2K nostalgia", "digital beauty"]
 related_aesthetics: ["Animecore", "Cybersigilism", "Glitchcore", "HexD", "Krushclub", "Sadboi", "Sanriocore", "Xpiritualism"]
 primary_platform: ["TikTok", "Tumblr", "SoundCloud"]

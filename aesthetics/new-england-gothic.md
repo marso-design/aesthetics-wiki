@@ -5,6 +5,7 @@ aka: ["\"Northern Gothic\""]
 decade_of_origin: "1835"
 key_motifs: ["The Puritans", "the Salem Witch Trials", "witchcraft", "the occult", "old graveyards", "colonial-era architecture", "run-down harbor towns and mill towns."]
 key_colours: ["Gray", "white", "black", "yellows", "oranges", "reds", "Sadd colors"]
+palette: ["#29221E", "#736C63", "#0D0D0B", "#C4C4C0", "#F6E3C7", "#493E38"]
 key_values: ["Anti-Calvinism and anti-Puritanism", "anti-colonialism", "isolation", "terrible knowledge", "opposition to religious fanaticism", "predestination", "reticence", "dryness."]
 related_aesthetics: ["Dark Naturalism", "Dark Nautical", "Gothic", "Midwest Gothic", "Regional Gothic", "Romanticism", "Southern Gothic"]
 source_url: "https://aesthetics.fandom.com/wiki/New_England_Gothic"

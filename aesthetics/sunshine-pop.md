@@ -5,6 +5,7 @@ aka: ["Soft Pop"]
 decade_of_origin: "1960s"
 key_motifs: ["Lush vocal harmonies", "orchestral arrangements", "harpsichords", "wistful lyrics", "themes of nature (sun, rain, flowers)", "soft-focus photography", "floral/paisley patterns", "warm color palettes"]
 key_colours: ["Bright", "warm", "and pastel tones (yellow, orange, light blue, green)"]
+palette: ["#7D827E", "#A4A6A3", "#32231F", "#B12C23", "#DF5325", "#696961"]
 key_values: ["Optimism", "nostalgia", "innocence", "beauty", "escapism", "melancholy"]
 related_aesthetics: ["Hippie", "Psychedelia", "Flower Power", "Shibuya-Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Sunshine_Pop"

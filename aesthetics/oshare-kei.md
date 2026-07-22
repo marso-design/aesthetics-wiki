@@ -4,6 +4,7 @@ slug: "oshare-kei"
 aka: ["Osare Kei ()"]
 decade_of_origin: "2001"
 key_colours: ["Bright pink", "blue", "green", "yellow and black (sparingly)"]
+palette: ["#000000", "#322039", "#545060", "#FCFBF8", "#C0BFC1", "#191328"]
 related_aesthetics: ["Decora", "Fairy Kei", "Harajuku Fashion", "Visual Kei", "Scene"]
 source_url: "https://aesthetics.fandom.com/wiki/Oshare_Kei"
 license: "CC-BY-SA-4.0"

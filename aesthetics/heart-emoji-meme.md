@@ -5,6 +5,7 @@ aka: ["Soft Edits", "Wholesome Edits"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Emoji swarms", "heart crowns", "blush stickers", "motion blur", "sparkle overlays", "\"precious\" filters", "keyboard smashes"]
 key_colours: ["Pink", "red", "pastel purple", "white"]
+palette: ["#362B33", "#9C958E", "#956A70", "#D26B8F", "#E5E5DB", "#B6B8B1"]
 key_values: ["Exaggerated affection", "romance", "softness", "fandom support"]
 related_aesthetics: ["Deep Fried Meme", "Kidcore", "Lovecore", "Major League Gaming", "Sadboi (contrast)"]
 related_media: ["Snapchat", "PicsArt", "Wattpad", "Twitter", "\"Mine\" by Bazzi"]

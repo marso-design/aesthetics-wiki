@@ -5,6 +5,7 @@ aka: ["Mamba"]
 decade_of_origin: "Late 1990s-Early 2000s"
 key_motifs: ["Exaggerated white makeup", "deep artificial tans", "voluminous and colorful hair", "vibrant clothing", "stickers on the face", "Hawaiian motifs like hibiscus flowers"]
 key_colours: ["Black", "white", "and neon colors contrasted with the dark tan"]
+palette: ["#575351", "#2D1D21", "#A33C3A", "#89685B", "#888D81", "#BC6857"]
 key_values: ["Rebellion against traditional beauty standards", "freedom", "individuality", "fun", "club culture"]
 related_aesthetics: ["Coconut Girl", "Ganguro", "Gyaru", "Tropical", "Yamanba"]
 related_media: ["Magazines (egg, Ranzuki)"]

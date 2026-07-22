@@ -4,6 +4,7 @@ slug: "goddesscore"
 decade_of_origin: "Late 2010s (popularized early–mid 2020s)"
 key_motifs: ["Ancient goddesses", "gold jewelry", "beautiful women"]
 key_colours: ["Gold", "white", "cream", "blush", "pearl", "soft pastels"]
+palette: ["#AD8868", "#3F190B", "#837361", "#B7AB9D", "#FFFFFE", "#D8C2AC"]
 key_values: ["Femininity", "divinity", "beauty", "empowerment", "grace", "spirituality"]
 related_aesthetics: ["Hellenic", "Angelcore", "Fairycore", "Ethereal", "Romantic Academia", "Ancient Egypt"]
 source_url: "https://aesthetics.fandom.com/wiki/Goddesscore"

@@ -4,6 +4,7 @@ slug: "boho-chic"
 decade_of_origin: "Early 2000s"
 key_motifs: ["Peasant blouses", "tiered maxi skirts", "slouchy suede boots", "hobo bags", "wide leather belts", "layered jewelry", "embroidery", "fringe"]
 key_colours: ["Earthy tones (brown, beige, cream)", "white", "with accents of turquoise or muted colors"]
+palette: ["#EFEFEF", "#78604E", "#4C362C", "#C2BAAD", "#969383", "#BC9E8A"]
 key_values: ["Free-spiritedness", "romanticism", "individuality", "artistic expression (as a fashion statement)"]
 related_aesthetics: ["Bohemian", "Ethnic Chic", "Geo-Boho", "Groovival", "Hippie", "Indie Sleaze", "Y2K", "Earthy Black Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/Boho-Chic"

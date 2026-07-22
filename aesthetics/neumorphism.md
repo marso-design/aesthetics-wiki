@@ -5,6 +5,7 @@ aka: ["Soft UI", "New Skeuomorphism"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Low contrast", "monochromatic color schemes", "soft shadows (light and dark)", "extruded plastic texture", "rounded corners"]
 key_colours: ["Off-white", "light gray", "soft blue", "pastel tones"]
+palette: ["#262625", "#E9ECF4", "#88313F", "#DBD3DA", "#AACBDA", "#8C8490"]
 key_values: ["Minimalism", "realism", "tactile interaction", "cleanliness"]
 related_aesthetics: ["Claymorphism", "Glassmorphism", "Post-Morphism", "Flat Design", "Minimalism", "Skeuomorphism"]
 related_media: ["macOS Big Sur (partial adoption)"]

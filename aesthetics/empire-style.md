@@ -5,6 +5,7 @@ aka: ["Style Empire"]
 decade_of_origin: "1800s"
 key_motifs: ["Napoleonic symbols (eagle, bee, letter 'N')", "Greco-Roman figures (Nike, swans, sphinxes, lyres)", "Egyptian Revival elements (lotus capitals, scarabs)", "military trophies", "laurel wreaths"]
 key_colours: ["Rich", "bold colors (emerald green, deep blue, crimson, gold) with dark woods"]
+palette: ["#190908", "#652312", "#8A491C", "#2F3041", "#A27E45", "#A28D6A"]
 key_values: ["Imperial glory", "power", "authority", "order", "symmetry", "grandeur", "classicism"]
 related_aesthetics: ["Biedermeier", "Egyptian Revival", "Federal Style", "Greek Revival", "Neoclassicism", "Regency Style"]
 source_url: "https://aesthetics.fandom.com/wiki/Empire_Style"

@@ -4,6 +4,7 @@ slug: "2010s-bright-kawaii"
 decade_of_origin: "2010s"
 key_motifs: ["Anime", "arcades", "mascots", "school uniforms"]
 key_colours: ["Bright pastels"]
+palette: ["#D599CA", "#EDAEDC", "#C2AEDE", "#C669A5", "#F2D6E3", "#34C9EF"]
 related_aesthetics: ["2010s Soft Kawaii", "2010s Meme Maximalism", "Pastel Goth", "Weeaboo"]
 primary_platform: ["Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/2010s_Bright_Kawaii"

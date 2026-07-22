@@ -7,6 +7,7 @@ key_motifs: ["Old TV/radio broadcasts", "commercials", "jingles", "weather chann
 key_values: ["Nostalgia", "memory", "liminality", "media decay", "mystery"]
 related_aesthetics: ["Analog Horror", "Hauntology", "Liminal Space", "Lo-fi Art", "Vaporwave"]
 primary_platform: ["Bandcamp", "YouTube"]
+palette: ["#0B050E", "#3F5169", "#7CA6BB", "#70757B", "#332B39", "#1F1B24"]
 source_url: "https://aesthetics.fandom.com/wiki/Signalwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

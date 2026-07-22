@@ -5,6 +5,7 @@ aka: ["Homeless Chic", "Derelicte", "Recession Dressing"]
 decade_of_origin: "1990s"
 key_motifs: ["Distressed fabric", "mud and oil stains", "safety pins", "trash bags", "layering", "duct tape", "newspaper prints", "oversized silhouettes"]
 key_colours: ["Mud brown", "faded grey", "washed-out blue", "beige", "charcoal", "olive drab"]
+palette: ["#090604", "#3B3529", "#636259", "#24201B", "#A1A194", "#EDE6B2"]
 key_values: ["Irony", "anti-fashion", "shock value", "rebellion", "class tourism"]
 related_aesthetics: ["Anti-Fashion", "Grunge", "Heroin Chic", "Punk", "Post-Apocalyptic"]
 related_media: ["Zoolander (film)", "\"Derelicte\" campaign"]

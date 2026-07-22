@@ -5,6 +5,7 @@ aka: ["Romanticized Autumn", "Fallcore", "Cozy Autumn"]
 decade_of_origin: "2010s"
 key_motifs: ["Pumpkin spice lattes", "chunky knit sweaters", "falling leaves", "cozy blankets", "candles", "classic books", "pumpkin patches", "apple cider"]
 key_colours: ["Earth tones (rich browns, warm oranges, deep reds, mustard yellows)", "cream", "beige"]
+palette: ["#412E26", "#1F1412", "#8B6D5B", "#6A3C2A", "#705240", "#B6876B"]
 key_values: ["Coziness", "nostalgia", "comfort", "mindfulness", "simple pleasures", "domesticity"]
 related_aesthetics: ["Christian Girl Autumn", "Cinnamon Girl", "Cozycore", "Dark Academia", "Hygge", "Maillard Style", "Twilightcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Autumn_Aesthetic"

@@ -4,6 +4,7 @@ slug: "pastel-grunge"
 decade_of_origin: "2010s"
 key_motifs: ["Space and aliens"]
 key_colours: ["Pastels"]
+palette: ["#B0A8A1", "#816A6E", "#8E8581", "#704C50", "#D2D0C3"]
 key_values: ["Good vibes"]
 related_aesthetics: ["Cuddle Party", "E-Girl", "Grunge", "Heroin Chic", "Pastel Goth", "Seapunk", "Soft Grunge", "2014 Tumblr", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Pastel_Grunge"

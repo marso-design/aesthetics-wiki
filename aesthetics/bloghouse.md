@@ -6,6 +6,7 @@ decade_of_origin: "2000s"
 key_motifs: ["American Apparel", "shutter shades", "neon tones"]
 key_values: ["DIY ethos", "hipster elements", "PLUR", "sexuality", "music piracy", "tackiness"]
 related_aesthetics: ["Electroclash", "Emo", "Hipster", "Indie", "Indie Sleaze", "New Rave", "Recession Pop", "Scene", "Swag", "Tecktonik", "Vectordelia"]
+palette: ["#11130F", "#707471", "#223333", "#4D423C", "#D5BBB1", "#8B9C95"]
 source_url: "https://aesthetics.fandom.com/wiki/Bloghouse"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

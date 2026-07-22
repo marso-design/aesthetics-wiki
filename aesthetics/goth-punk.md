@@ -4,6 +4,7 @@ slug: "goth-punk"
 aka: ["J-Punk"]
 decade_of_origin: "late 1990s"
 key_colours: ["Black", "red", "white"]
+palette: ["#3A333A", "#1E242F", "#EFF4F7", "#8FA1AE", "#69696D", "#435F74"]
 related_aesthetics: ["Animecore", "Emo", "Glitter Graphics", "Goth", "PEEPS", "Punk", "Visual Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Goth_Punk"
 license: "CC-BY-SA-4.0"

@@ -4,6 +4,7 @@ slug: "bikiniarze"
 decade_of_origin: "Late 1940s"
 key_motifs: ["Hand-painted neckties (with palms, bikini-clad women, atomic mushrooms)", "plaid jackets", "thick-soled shoes (\"słonina\")", "\"mandolin\" hairstyle"]
 key_colours: ["Bright", "contrasting colors (especially on neckties and socks) against toned-down clothing"]
+palette: ["#BFBFBF", "#252525", "#999999", "#3D3D3D", "#656565", "#7E7E7E"]
 key_values: ["Individualism", "rebellion", "non-conformism", "freedom", "fascination with Western (American) culture", "jazz"]
 related_aesthetics: ["Stilyagi", "Swingjugend", "Teddy Boys", "Zazou", "Zoot Suiters"]
 source_url: "https://aesthetics.fandom.com/wiki/Bikiniarze"

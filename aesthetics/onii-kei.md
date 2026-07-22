@@ -4,6 +4,7 @@ slug: "onii-kei"
 decade_of_origin: "1990s"
 key_motifs: ["\"Wolf\" haircut", "imported jeans", "pointed shoes"]
 key_colours: ["Black", "brown"]
+palette: ["#858C8D", "#0F0E0C", "#5E493D", "#24251F", "#D8D7CB", "#FCFDFA"]
 related_aesthetics: ["Archive", "Gyaru", "Olderbrothercore", "Onee Gyaru (female counterpart)"]
 source_url: "https://aesthetics.fandom.com/wiki/Onii_Kei"
 license: "CC-BY-SA-4.0"

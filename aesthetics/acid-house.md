@@ -5,6 +5,7 @@ aka: ["Acid", "Second Summer of Love (UK)"]
 decade_of_origin: "1980s"
 key_motifs: ["Smiley face", "psychedelic patterns", "baggy clothing", "bucket hats", "bandanas", "dungarees"]
 key_colours: ["Bright neon colors (yellow, pink, green, orange)"]
+palette: ["#E0DEC9", "#232829", "#FAE045", "#0E1010", "#8B7F69", "#7F6458"]
 key_values: ["Euphoria", "unity", "hedonism", "escapism", "peace", "love"]
 related_aesthetics: ["Acid Design", "Rave", "Psychedelia", "Groovival", "Madchester", "New Beat"]
 source_url: "https://aesthetics.fandom.com/wiki/Acid_House"

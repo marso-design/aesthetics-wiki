@@ -4,6 +4,7 @@ slug: "appalachian-gothic"
 decade_of_origin: "1700's"
 key_motifs: ["Forested mountains", "supernatural occurences", "small mountain towns"]
 key_colours: ["Greens", "grays", "rusty browns", "some blue"]
+palette: ["#1C1C19", "#0A0A07", "#494840", "#37322B", "#AFB3B7", "#7B7E7E"]
 key_values: ["Hard work", "independence", "conservatism"]
 related_aesthetics: ["Adventurecore", "Suburban Gothic", "Regional Gothic", "Cabincore", "After Hours", "Cryptidcore", "Midwest Gothic", "Southern Gothic", "New England Gothic", "Gothic", "Dark Naturalism"]
 source_url: "https://aesthetics.fandom.com/wiki/Appalachian_Gothic"

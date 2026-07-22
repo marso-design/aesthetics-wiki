@@ -5,6 +5,7 @@ aka: ["Drift", "Drift House", "Phonk House", "Driftcore", "Phonkcore", "Phonk (e
 decade_of_origin: "Late 2010s"
 key_motifs: ["Cars", "drifting", "cover art with either cars and/or skulls", "internet culture"]
 key_colours: ["Purple", "Green", "White", "Blue", "Gray"]
+palette: ["#0C0709", "#35093F", "#1A0624", "#302B37", "#3D503D", "#510B52"]
 related_aesthetics: ["Brazilian Phonk", "Trillwave", "Phonk", "Trap Metal", "Meme Rap", "Racing", "Horrorcore"]
 subgenres: ["Phonk House"]
 primary_platform: ["TikTok"]

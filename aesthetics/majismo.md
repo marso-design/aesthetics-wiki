@@ -5,6 +5,7 @@ aka: ["Majo / Maja", "Manolo / Manola"]
 decade_of_origin: "18th Century"
 key_motifs: ["Mantilla and peineta", "fans", "tight jackets", "waist sashes", "redecilla (hairnet)", "daggers", "guitars"]
 key_colours: ["Vibrant and colorful tones", "with a heavy use of black", "red", "and gold/yellow embroidery"]
+palette: ["#393B32", "#201C1A", "#7E9BB4", "#60583B", "#88794D", "#6D766E"]
 key_values: ["Casticismo (traditional Spanish purity)", "defiance", "national pride", "swagger", "authenticity", "anti-aristocratic sentiment"]
 related_aesthetics: ["Costumbrismo", "Flamenco", "Rococo", "Torero"]
 source_url: "https://aesthetics.fandom.com/wiki/Majismo"

@@ -5,6 +5,7 @@ aka: ["Traditional Skinhead", "Trad", "Spirit of '69"]
 decade_of_origin: "1960s (Origin); 1980s (codification as a distinct subset)"
 key_motifs: ["Spirit of '69", "Jamaican Rude Boy influence", "working-class pride", "Mod-influenced style", "Ska and Reggae fandom"]
 key_colours: ["Tan", "forest green", "black", "white"]
+palette: ["#333230", "#1E1414", "#646155", "#919188", "#C4BCB0", "#947964"]
 key_values: ["Anti-racism", "apolitical or left-wing views", "multiracial unity", "working-class solidarity"]
 related_aesthetics: ["2 Tone", "Mod", "Rude Boy", "★Skinhead", "Suedehead"]
 related_media: ["Trojan Records releases", "Spirit of '69: A Skinhead Bible (George Marshall)"]

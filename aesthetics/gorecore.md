@@ -4,6 +4,7 @@ slug: "gorecore"
 aka: ["Fleshcore", "Slaughtercore", "Murdercore"]
 key_motifs: ["Blood", "death", "murder", "slasher film imagery", "violence", "organs", "bones", "corpses", "mutilated bodies"]
 key_colours: ["Red", "black", "white (often as a stark contrast)", "dark tones"]
+palette: ["#251519", "#932936", "#7E7B91", "#050504", "#761723", "#A8A2A8"]
 related_aesthetics: ["Cannibalcore", "Cutecore", "Devilcore", "Goth Punk", "Gurokawa", "Horror", "Meatcore", "Pastel Gore", "Vampire", "Weirdcore"]
 related_media: ["Happy Tree Friends", "Pretty Blood", "Mortal Kombat", "People Playground", "Gorebox"]
 source_url: "https://aesthetics.fandom.com/wiki/Gorecore"

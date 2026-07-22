@@ -4,6 +4,7 @@ slug: "swenkas"
 decade_of_origin: "Mid-1900s (Apartheid era)"
 key_motifs: ["Tailored European suits", "brimmed hats", "leather shoes", "accessories (gloves, braces, cuff links, zebra-striped socks)", "choreographed movements", "physical cleanliness", "sobriety"]
 key_colours: ["Traditional suit colors (black, brown, white) and bright colors (pink, blue, red)"]
+palette: ["#CCAF91", "#BB887A", "#1A0C10", "#5C5255", "#8A7D7F", "#282025"]
 key_values: ["Self-discipline", "pride", "self-respect", "Zulu culture preservation", "transcendence of class barriers", "self-improvement"]
 related_aesthetics: ["Dandy", "La Sape", "Skhothane"]
 related_media: ["The Swenkas (Jeppe Rønde, 2004)"]

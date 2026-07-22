@@ -4,6 +4,7 @@ slug: "programmer-art"
 decade_of_origin: "Originated in the last quarter of the 20th century, intentional aesthetic emerged in the 2010s"
 key_motifs: ["Primitive shapes", "crude pixel art", "stick figures characters", "assets mismatch", "ASCII art"]
 key_colours: ["High-contrast primaries (red, green, blue, yellow)", "pure black and white", "neutral shades of grey"]
+palette: ["#FFFFFF", "#000000", "#3C6447", "#3D302B", "#62A746", "#000035"]
 key_values: ["Functionalism", "representativeness", "time-efficiency", "amateur creativity"]
 related_aesthetics: ["8-Bit", "Decomescene", "Glitch Art", "Low Poly", "Net.art", "Old Web", "Pixel UI", "Webcore"]
 primary_platform: ["Sharewares", "indie video-games"]

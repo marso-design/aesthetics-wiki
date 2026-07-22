@@ -5,6 +5,7 @@ decade_of_origin: "1980s
 Post 2010s (Updates to trends of every new decade)"
 key_motifs: ["Starbucks cups", "Ugg boots", "Jeeps", "selfies", "duck faces", "manicures", "Birkenstocks", "Top 40 hits", "Taylor Swift", "Stanley cups", "romantic comedies"]
 key_colours: ["Any"]
+palette: ["#3B3B34", "#838D8A", "#1D1C1E", "#616A67", "#BEC9C8", "#634848"]
 key_values: ["Being trendy", "going with the flow", "self-love", "romance"]
 related_aesthetics: ["2010s Summer Nostalgia", "Barbiecore", "Galaxy Print", "Normcore", "VSCO Girl"]
 related_media: ["@Common_White_Girl"]

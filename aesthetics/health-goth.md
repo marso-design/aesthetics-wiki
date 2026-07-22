@@ -4,6 +4,7 @@ slug: "health-goth"
 decade_of_origin: "Early 2010s"
 key_motifs: ["Monochrome sportswear", "mesh fabrics", "technical sneakers", "performance gear", "clean lines", "futuristic graphics", "transhumanist elements"]
 key_colours: ["Black", "white", "grey"]
+palette: ["#FFFFFF", "#020203", "#7F7D7F", "#1A1B1E", "#DADFE0", "#BBBABA"]
 key_values: ["Futurism", "minimalism", "performance", "technology", "clean aesthetics", "transhumanism"]
 related_aesthetics: ["Goth", "Gorpcore", "Techwear", "Minimalism", "Cyberpunk"]
 primary_platform: ["Facebook", "Tumblr"]

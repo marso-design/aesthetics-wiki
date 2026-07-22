@@ -5,6 +5,7 @@ aka: ["2010s Party Aesthetic"]
 decade_of_origin: "Late 2000s-Early 2010s"
 key_motifs: ["Shutter shades", "lensless \"nerd\" glasses", "zebra/leopard print", "neon spandex", "cardboard robot heads (\"Shuffle Bot\")", "red solo cups", "excessive confetti"]
 key_colours: ["Neon pink", "electric blue", "highlighter yellow", "gold", "zebra (black/white)"]
+palette: ["#FFFFFF", "#D1C799", "#321B1A", "#C27C7A", "#0F0A0B", "#809C99"]
 key_values: ["Hedonism", "irony", "unapologetic fun (\"Sorry For Party Rocking\")", "excess", "dance"]
 related_aesthetics: ["Hipster", "McBling", "Recession Pop", "Scene", "Swag", "Bloghouse", "Colorido"]
 primary_platform: ["YouTube", "VEVO", "Club Scene"]

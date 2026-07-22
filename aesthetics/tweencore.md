@@ -5,6 +5,7 @@ aka: ["Justicecore", "Mall Tween"]
 decade_of_origin: "Late 1990s"
 key_motifs: ["Mustaches", "peace signs", "neon animal print", "slogan tees", "silly bandz"]
 key_colours: ["Hot pink", "lime green", "cyan", "purple", "zebra print (black/white)"]
+palette: ["#958293", "#BA82A1", "#685068", "#AEA1AB", "#DDC9C5", "#D7D6E1"]
 key_values: ["Friendship", "humor", "\"randomness\"", "expression"]
 related_aesthetics: ["2000s Preppy", "Curly Girly", "High School Dream", "Kidcore", "Groovival", "McBling", "Scene Tween", "Teenpunk", "Tropicalcore"]
 primary_platform: ["Facebook (early era)", "Instagram (early era)", "Kik"]

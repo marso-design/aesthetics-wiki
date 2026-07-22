@@ -5,6 +5,7 @@ decade_of_origin: "Late 1990s"
 key_motifs: ["Combining the flat imagery of Japanese pop culture with traditional elements and disturbing topics"]
 key_values: ["Flatness", "shallowness", "consumerism", "satire", "otaku culture", "social commentary"]
 related_aesthetics: ["Animecore", "Dokukawaii", "Gurokawa", "Kawaii", "Neo-Pop", "Pop Art", "Psychedelia", "Superflat Pop (subgenre)", "Surrealism", "Ukiyo-e"]
+palette: ["#536A7E", "#FFFFFF", "#28253E", "#91705D", "#973547", "#E5AC73"]
 source_url: "https://aesthetics.fandom.com/wiki/Superflat"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

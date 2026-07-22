@@ -4,6 +4,7 @@ slug: "new-ugly"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Bright colors", "messy and deconstructed fonts", "unbalanced layouts", "rough textures"]
 key_colours: ["Saturated", "neon colors"]
+palette: ["#EBECEF", "#37363E", "#BEC9C9", "#D07063", "#9F393C", "#506671"]
 key_values: ["Rejecting the harmonious and polished visuals of commercial and artistic design. Reveling deliberately over-the-top and being the intensely authenticity."]
 related_aesthetics: ["Maximalism", "Dollar Store Vernacular", "Too Cool"]
 source_url: "https://aesthetics.fandom.com/wiki/New_Ugly"

@@ -5,6 +5,7 @@ aka: ["Initial D Aesthetic", "Eurobeat Drifting"]
 decade_of_origin: "2010s (as an internet aesthetic)"
 key_motifs: ["90s/00s JDM tuner cars", "mountain passes (touge) at night", "drifting", "hazy headlights", "kinetic Japanese typography", "VHS/lo-fi editing"]
 key_colours: ["Dark blues and blacks of the night", "contrasted with the bright white/yellow of headlights and colorful car liveries"]
+palette: ["#33314F", "#222734", "#5D5E81", "#657EA8", "#A2ACC3", "#D0D5D8"]
 key_values: ["Speed", "precision", "nostalgia", "escapism", "driver skill", "rebellious freedom"]
 related_aesthetics: ["Cyberpunk", "Synthwave", "Vaporwave", "Y2K Futurism"]
 related_media: ["Initial D"]

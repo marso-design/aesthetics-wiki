@@ -5,6 +5,7 @@ aka: ["多巴胺风 (Duōbā'àn Fēng)"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Bright color blocking", "simple patterns", "fruits", "candy", "maximalist silhouettes"]
 key_colours: ["Highly saturated colors (yellow, orange, hot pink, neon green)"]
+palette: ["#443430", "#CFD9CA", "#A53C4B", "#F6F2F3", "#CEBBB3", "#ECC4A7"]
 key_values: ["Enthusiasm", "optimism", "positivity", "vitality"]
 related_aesthetics: ["Decora", "Gen Z Maximalism", "Indie Kid", "Kidcore", "Lulicore", "Maillard Style"]
 source_url: "https://aesthetics.fandom.com/wiki/Dopamine_Dressing"

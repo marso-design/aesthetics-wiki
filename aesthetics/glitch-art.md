@@ -6,6 +6,7 @@ decade_of_origin: "Mid-20th century (precursors); 1990s-2000s (as a distinct art
 key_motifs: ["Digital artifacts", "data corruption", "static", "pixelation", "color bleeding", "fragmentation", "noise"]
 key_values: ["Embracing error and failure", "randomness", "critique of technology", "deconstruction of media"]
 related_aesthetics: ["Analog Horror", "Cyberpunk", "Demoscene", "Dreampunk", "Glitchbreak", "Glitchcore", "Grime Art", "Hacker", "Net.art", "Programmer Art", "Vaporwave", "Webcore", "Weirdcore"]
+palette: ["#B6B5AB", "#9F9C9D", "#000000", "#5F515A", "#2E242A", "#D3CECB"]
 source_url: "https://aesthetics.fandom.com/wiki/Glitch_Art"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

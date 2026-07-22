@@ -4,6 +4,7 @@ slug: "plaguecore"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Bird masks", "books", "herbs", "crows and ravens", "leeches", "rats", "bones", "dark humor"]
 key_colours: ["Black", "white", "grey", "silver", "gold"]
+palette: ["#020203", "#28282C", "#78858C", "#9BABB8", "#5F5F61", "#494F4F"]
 key_values: ["Curiosity", "discovery"]
 related_aesthetics: ["Avant Apocalypse", "Baroque", "Crowcore", "Dark Academia", "Goth", "Darkest Academia", "Steampunk", "Vulture Culture"]
 related_media: ["Bloodborne", "Darkest Dungeon", "Pathologic", "The Seventh Seal", "The Masque of the Red Death", "Penny Dreadful"]

@@ -5,6 +5,7 @@ aka: ["Y'allternative"]
 decade_of_origin: "2010s"
 key_motifs: ["Cowboy hats", "boots", "dark makeup", "denim", "leather", "silver", "turquoise"]
 key_colours: ["Black", "silver", "denim blue", "turquoise"]
+palette: ["#232422", "#151010", "#453229", "#6C5241", "#D5D2CE", "#4F4C47"]
 key_values: ["Inclusivity", "anti-corporate sentiment", "self-expression", "reclaiming Southern identity"]
 related_aesthetics: ["Country", "Cuntry", "Emo", "Goth", "Grunge", "Southern Gothic", "Western"]
 primary_platform: ["Tumblr", "TikTok"]

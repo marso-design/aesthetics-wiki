@@ -5,6 +5,7 @@ aka: ["Sachplakat (Object Poster)"]
 decade_of_origin: "1900s–1910s"
 key_motifs: ["Isolated objects", "flat colors", "bold lettering", "negative space", "lack of ornamentation"]
 key_colours: ["Simple", "bold color palettes with high contrast"]
+palette: ["#1E4161", "#E86528", "#070B0F", "#686B6B", "#C09548", "#0F1F2F"]
 key_values: ["Clarity", "directness", "modernity", "readability", "impact"]
 related_aesthetics: ["Bauhaus", "Constructivism", "International Typographic Style", "Minimalism"]
 source_url: "https://aesthetics.fandom.com/wiki/Plakatstil"

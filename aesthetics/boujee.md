@@ -4,6 +4,7 @@ slug: "boujee"
 aka: ["Bougie", "Boujie", "Material Girl", "Night Luxe"]
 key_motifs: ["Luxury cars", "expensive fashion brands", "champagne bottles popping", "mansion and penthouse views", "private jets", "fine dining experiences", "designer handbags", "red carpet events", "high-end jewelry", "exclusive parties", "champagne towers", "designer sunglasses", "velvet ropes", "champagne flutes", "VIP lounges", "Gucci belts", "luxury vacations", "champagne showers", "yacht parties", "furs", "caviar", "crystal chandeliers", "luxury watches", "champagne fountains"]
 key_colours: ["Metallic shades like gold and silver", "jewel tones", "sparkles", "champagne"]
+palette: ["#724F4F", "#797174", "#2A2228", "#483A41", "#111113", "#9D989A"]
 key_values: ["Wealth", "pageantry", "beauty", "status"]
 related_aesthetics: ["Baddie", "Casino", "Chic Modernist", "Clean Girl", "Femme Fatale", "Mob Wife", "New Money", "Pink Parisian", "Yuppie"]
 source_url: "https://aesthetics.fandom.com/wiki/Boujee"

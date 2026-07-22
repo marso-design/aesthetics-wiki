@@ -5,6 +5,7 @@ aka: ["Angura"]
 decade_of_origin: "1960s (theatre)"
 key_motifs: ["Shironuri makeup", "Japanese school uniforms (modified)", "traditional garments (Kimono, Haori)", "wartime/Showa era nostalgia", "occult/Shinto symbolism", "Bunka dolls", "old wall clocks", "travelling circuses"]
 key_colours: ["Black", "white", "red (symbolizing blood, nationalism, and drama)"]
+palette: ["#474B4C", "#8E5E4F", "#08040A", "#AD9482", "#24272D", "#CDC9BD"]
 key_values: ["Rejection of Western Realism", "political critique", "nihilism", "distortion of Japanese national identity", "theatricality", "grotesque exaggeration"]
 related_aesthetics: ["Goth", "Visual Kei", "Showa Retro", "Taisho Roman"]
 related_media: ["Terayama Shuji's work", "Furuya Usamaru's Litchi Hikari Club (Manga)", "Yokoo Tadanori's posters"]

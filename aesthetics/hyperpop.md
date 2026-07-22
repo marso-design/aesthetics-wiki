@@ -1,6 +1,7 @@
 ---
 name: "Hyperpop"
 slug: "hyperpop"
+palette: ["#E65452", "#0000FF", "#000061", "#57557B", "#A8CBCB", "#FBE3C7"]
 source_url: "https://aesthetics.fandom.com/wiki/Hyperpop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

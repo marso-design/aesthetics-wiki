@@ -4,6 +4,7 @@ slug: "pixelscape"
 decade_of_origin: "2000s"
 key_motifs: ["Pixel art", "bright colors", "isometric angles"]
 related_aesthetics: ["Early Cyber", "Old Web", "Kidcore", "McBling", "Pixel UI"]
+palette: ["#515E89", "#373939", "#AD9676", "#130F10", "#54C3D2", "#B9CEC0"]
 source_url: "https://aesthetics.fandom.com/wiki/Pixelscape"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

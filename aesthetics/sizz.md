@@ -4,6 +4,7 @@ slug: "sizz"
 decade_of_origin: "2010s"
 key_motifs: ["Noise", "artifacting", "subtle deformation", "abstracted realism"]
 key_colours: ["Black and white", "high contrast"]
+palette: ["#FFFFFF", "#000000", "#3E4045", "#222326", "#8F9296", "#54585F"]
 key_values: ["Composition", "exploration", "emotion"]
 related_aesthetics: ["Are-Bure-Bokeh", "Cryptidcore", "Expressionism", "Film Noir"]
 source_url: "https://aesthetics.fandom.com/wiki/Sizz"

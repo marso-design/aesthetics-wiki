@@ -4,6 +4,7 @@ slug: "paninaro"
 decade_of_origin: "1980s"
 key_motifs: ["Designer logos", "puffer jackets", "motorcycles", "fast food", "brand consciousness"]
 key_colours: ["Bright primary colors", "denim blue", "khaki"]
+palette: ["#545C67", "#F7F9EF", "#201C21", "#422E2D", "#AB6E55", "#8F9F95"]
 key_values: ["Consumerism", "materialism", "apolitical fun", "American cultural influence", "status"]
 related_aesthetics: ["Americana", "Blokecore", "Casuals", "Italo Disco", "New Romantic", "Preppy"]
 source_url: "https://aesthetics.fandom.com/wiki/Paninaro"

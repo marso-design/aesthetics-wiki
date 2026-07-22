@@ -4,6 +4,7 @@ slug: "desi-romantic-academia"
 decade_of_origin: "2020s"
 key_motifs: ["Henna", "perfumes", "old south Asian architecture", "roses", "old letters", "antique desi jewelry", "poetry", "old books"]
 key_colours: ["Pastels", "beige", "tan", "red", "deep ruby", "greens", "yellows", "orange", "soft pink"]
+palette: ["#3F331D", "#5C6044", "#6E3B22", "#8F7E61", "#B5B09B", "#816043"]
 key_values: ["Individualism", "love for exploration", "love for nature", "South Asian Heritage", "love for literature"]
 related_aesthetics: ["Ethereal", "Dreamy", "Art Academia", "Classic Academia", "Light Academia", "Romantic Academia", "Writer Academia"]
 related_media: ["Jodha Akbar", "Padmavat", "Bajirao Mastani", "The Namesake", "Humsafar", "Mughal e Azam", "Phillauri", "Monsoon Wedding"]

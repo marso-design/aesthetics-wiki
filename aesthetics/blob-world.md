@@ -5,6 +5,7 @@ aka: ["mushbuhcore"]
 decade_of_origin: "2010s"
 key_motifs: ["3D shapes"]
 related_aesthetics: ["Claymorphism", "Neo-Y2K", "Silicon Dreams"]
+palette: ["#340713", "#FBF9F9", "#851A2C", "#808A6B", "#E49C86", "#E47C80"]
 source_url: "https://aesthetics.fandom.com/wiki/Blob_World"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

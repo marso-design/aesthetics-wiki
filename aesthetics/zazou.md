@@ -4,6 +4,7 @@ slug: "zazou"
 decade_of_origin: "1940s"
 key_motifs: ["Oversized jackets", "narrow trousers", "long hair", "elaborate quiffs", "thick-soled shoes", "umbrellas (furled)", "bright lipstick", "padded shoulders", "swing dance", "jazz music"]
 key_colours: ["Black", "white", "often bright or checkered patterns (in defiance of austerity)"]
+palette: ["#ACACAC", "#8F8F8F", "#0F0F0F", "#424242", "#2D2D2D", "#5F5E5F"]
 key_values: ["Individualism", "nonconformity", "defiance", "hedonism", "freedom"]
 related_aesthetics: ["Bikiniarze", "Stilyagi", "Swingjugend", "Teddy Boys", "Zoot Suiters"]
 source_url: "https://aesthetics.fandom.com/wiki/Zazou"

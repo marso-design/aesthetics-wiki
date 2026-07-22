@@ -5,6 +5,7 @@ aka: ["Cheesecake (female)", "Beefcake (male)", "Glamour modeling"]
 decade_of_origin: "1920s (modern style; the term was first used in 1941)"
 key_motifs: ["Red lipstick", "victory rolls", "high-waisted shorts", "polka-dots", "leopard print", "lingerie", "swimsuits", "garter belts", "stockings"]
 key_colours: ["Red", "black", "white", "navy blue", "pastels"]
+palette: ["#B8ADA6", "#545552", "#32322F", "#929290", "#1D1D1B", "#BFBFBF"]
 key_values: ["Sexuality", "confidence", "glamour", "nostalgia", "empowerment", "playful charm"]
 related_aesthetics: ["Atompunk", "Burlesque", "Femme Fatale", "Gibson Girl", "Gothabilly", "Greaser", "Psychobilly", "Rockabilly", "Stilyagi"]
 source_url: "https://aesthetics.fandom.com/wiki/Pin-up"

@@ -4,6 +4,7 @@ slug: "summer-aesthetic"
 decade_of_origin: "The formation of Earth"
 key_motifs: ["Beaches", "tropical patterns", "flowers", "fruit", "swimsuits", "cool drinks"]
 key_colours: ["Blue", "yellow", "cyan"]
+palette: ["#373E3E", "#835948", "#B5AFA9", "#468D8B", "#DAD9D3", "#D4C1B4"]
 related_aesthetics: ["Autumn", "Brazilian Bombshell", "Nautical", "Poolcore", "Safari Chic", "Seapunk", "Spring", "Tenniscore", "Tomato Girl Summer", "Tropical", "Vacation Dadcore", "Winter"]
 source_url: "https://aesthetics.fandom.com/wiki/Summer_Aesthetic"
 license: "CC-BY-SA-4.0"

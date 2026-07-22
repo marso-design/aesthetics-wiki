@@ -4,6 +4,7 @@ slug: "harajuku-fashion"
 aka: ["Harajuku Style", "Japanese Street Fashion", "Shibuya Fashion (Mistakenly)"]
 decade_of_origin: "1970s"
 related_aesthetics: ["Alternative", "Cult Party Kei", "Cyberpop", "Decora", "Fairy Kei", "Goth", "Kawaii", "Lolita", "Oshare Kei", "Sanriocore", "Shibuya Punk", "Takenokozoku", "Too Cool", "Urbancore", "Visual Kei", "Yami Kawaii"]
+palette: ["#44383A", "#9F9E9E", "#CEBEBE", "#836E6C", "#242125", "#5F5F61"]
 source_url: "https://aesthetics.fandom.com/wiki/Harajuku_Fashion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

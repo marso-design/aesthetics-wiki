@@ -5,6 +5,7 @@ aka: ["Coldrave"]
 decade_of_origin: "2010s"
 key_motifs: ["Ice", "snow", "frozen textures", "glowing light in ice/snow", "mist", "desolate landscapes"]
 key_colours: ["White", "pale blue", "muted cool tones"]
+palette: ["#B9D4DD", "#445F7A", "#54778F", "#30A1CA", "#95A8BD", "#FEFEFD"]
 key_values: ["Isolation", "desolation", "the beauty of coldness", "the power of nature"]
 related_aesthetics: ["Cleancore", "Seapunk", "Slimepunk", "Starrflesh", "Trillwave", "Vaporwave", "Winter", "Witch House", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Icepunk"

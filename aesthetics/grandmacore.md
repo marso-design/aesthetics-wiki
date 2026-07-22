@@ -5,6 +5,7 @@ key_motifs: ["kindness", "baking", "knitting/crocheting", "embroidery/sewing"]
 key_values: ["kindness", "love of kitsch", "honing expertise", "comfort", "cosiness", "altruism", "wisdom", "enjoying favorite activities"]
 related_aesthetics: ["Coastal Grandmother", "Cottagecore", "Eclectic Grandpa", "Peoplehood"]
 related_media: ["Agatha Christie Novels", "Radio Dramas", "\"Murder", "She Wrote\" (1984-96)", "Cozy Mysteries", "Game Shows", "\"The Golden Girls\" (1985-92)", "\"Steel Magnolias\" (1989)", "\"Knives Out\" (2019)", "Sherlock Holmes Stories"]
+palette: ["#7C7C72", "#A28463", "#271F1C", "#815F40", "#625C56", "#AFB6BA"]
 source_url: "https://aesthetics.fandom.com/wiki/Grandmacore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

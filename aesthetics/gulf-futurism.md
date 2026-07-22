@@ -5,6 +5,7 @@ decade_of_origin: "2008"
 key_motifs: ["skyscrapers", "petroleum industries", "Arabian Gulf traditional ornaments"]
 key_values: ["Hypermodernity", "paradox of prosperity", "globalization", "surrealism"]
 related_aesthetics: ["Afrofuturism", "Futurism", "Indigenous Futurisms"]
+palette: ["#A0BADF", "#626E55", "#322B28", "#191212", "#AF9B86", "#8A6F5F"]
 source_url: "https://aesthetics.fandom.com/wiki/Gulf_Futurism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

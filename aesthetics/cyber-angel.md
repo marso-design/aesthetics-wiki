@@ -5,6 +5,7 @@ aka: ["Frutiger Angelic", "Digital Angel", "Internet Angel"]
 decade_of_origin: "2020s"
 key_motifs: ["Angel wings and halos", "VHS filters", "outdated technology", "space imagery", "clouds", "sunsets", "white hair", "robots", "anime girls", "old video game graphics", "Y2K retrofuturism"]
 key_colours: ["White", "blue", "silver", "gray"]
+palette: ["#F0F0F0", "#DADFDF", "#BBADA6"]
 key_values: ["Nostalgia for the 80s/90s/00s", "hopefulness for the future", "purity/cleanliness", "curiosity about the afterlife", "escapism", "utopian ideals"]
 related_aesthetics: ["Angelcore", "Animecore", "Chromecore", "Cleancore", "Cybercore", "Cyberprep", "Divine Machinery", "Drain", "Dreamcore", "Femcel Weeaboo", "Frutiger Aero", "Mizuiro", "Retrofuturism", "Technozen", "Webcore", "Weirdcore", "Witch House", "Xpiritualism", "Y2K Futurism"]
 primary_platform: ["Pinterest", "Tumblr"]

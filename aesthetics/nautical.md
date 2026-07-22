@@ -4,6 +4,7 @@ slug: "nautical"
 aka: ["Sailorcore", "Navy", "Marine"]
 key_motifs: ["The sea", "lighthouses", "boats", "sea life", "beaches", "sea", "beach houses", "coastline", "coast"]
 key_colours: ["Blue", "white", "red", "cyan", "brown"]
+palette: ["#FFFFFF", "#E6E7E7", "#3A3A4C", "#827063", "#B2A895", "#4692B9"]
 key_values: ["Serenity", "simplicity", "environmentalism", "appreciation of nature"]
 related_aesthetics: ["Coastal Style", "Dark Nautical", "Newlyn School", "Ocean Grunge", "Pirate", "Poolcore", "Preppy", "Seapunk", "St Ives School", "Tropical", "Nanchatte Seifuku (uniforms)", "Vacation Dadcore", "VSCO Girl"]
 related_media: ["Donald Duck", "Popeye", "The Marvelous Misadventures of Flapjack", "Wadanohara and the Great Blue Sea"]

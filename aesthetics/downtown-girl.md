@@ -5,6 +5,7 @@ aka: ["NYC Girl"]
 decade_of_origin: "1970s-2000s"
 key_motifs: ["Books", "coffee", "tea", "music"]
 key_colours: ["Black", "white", "beige", "red", "and brown"]
+palette: ["#090708", "#A48A71", "#C1A284", "#322A25", "#74614C", "#585644"]
 related_aesthetics: ["Autumn", "Uptown Girl", "Thought Daughter"]
 source_url: "https://aesthetics.fandom.com/wiki/Downtown_Girl"
 license: "CC-BY-SA-4.0"

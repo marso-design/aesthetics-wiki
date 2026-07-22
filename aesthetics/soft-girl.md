@@ -5,6 +5,7 @@ aka: ["Softie (feminine)"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Pastel colors", "exaggerated femininity", "childlike accessories (hair clips, scrunchies, pearl/beaded necklaces, butterfly/teddy bear/flower motifs)", "pleated skirts", "oversized hoodies", "soft textures (fluffy cardigans)", "hearts", "flowers", "clouds", "fruit", "fluffy animals", "milk cartons"]
 key_colours: ["Pastel pink", "white", "pastel cyan", "lavender", "baby blue", "light yellow", "cream"]
+palette: ["#D9BCBE", "#E3D3D2", "#C8A6A6", "#584141", "#667165", "#9E726E"]
 related_aesthetics: ["Babycore", "Coquette", "Delicate Sweet", "E-Girl", "Hallyu", "Kawaii", "Korean Cozy Beige", "Peach Girl", "Soft Boy (counterpart)", "VSCO Girl", "Y2K"]
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Girl"
 license: "CC-BY-SA-4.0"

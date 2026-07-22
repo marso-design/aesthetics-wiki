@@ -5,6 +5,7 @@ aka: ["Kawaii Goth", "Spooky Kawaii"]
 decade_of_origin: "2010s"
 key_motifs: ["Bats", "eyeballs", "bones", "pastel crosses", "pentagrams", "drippy texts"]
 key_colours: ["Black", "white", "pastels"]
+palette: ["#211D2D", "#6B6A77", "#9E9FA4", "#DEDAD8", "#5F4C55", "#CCC2C9"]
 related_aesthetics: ["Bohemian", "Galaxy Print", "Goth", "Gurokawa", "Kawaii", "Lolita", "Nu-Goth", "Pastel", "Pastel Grunge", "Yami Kawaii"]
 source_url: "https://aesthetics.fandom.com/wiki/Pastel_Goth"
 license: "CC-BY-SA-4.0"

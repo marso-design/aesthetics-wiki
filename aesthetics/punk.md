@@ -5,6 +5,7 @@ aka: ["Punk Rock"]
 decade_of_origin: "1970s"
 key_motifs: ["Safety pins", "deliberate tearing/ripping", "provocative slogans", "studs and spikes", "mohawk hairstyles", "exposed seams", "fetish wear accents", "anarchy symbols"]
 key_colours: ["Black", "natural (denim/leather)", "red (for contrast/shock)"]
+palette: ["#A69D98", "#402A28", "#867972", "#535250", "#070708", "#F6F4F2"]
 key_values: ["Anti-authoritarianism", "anti-capitalism", "DIY ethos", "non-conformity", "mutual aid", "direct action", "anti-consumerism"]
 related_aesthetics: ["DIY Punk", "Deathrock", "Emo", "Goth", "Graffiti Pop", "Grunge", "Industrial", "Metalhead", "New Wave", "No Wave", "Oi! Skinhead", "Post-Punk"]
 subgenres: ["2 Tone", "Afropunk", "Anarcho-Punk", "Basque Radical Rock", "Bravú", "Crust Punk", "Folk Punk", "Gutter Punk", "Horror Punk", "Nu-Punk", "Psychobilly", "Queercore", "Riot Grrrl", "Skate Punk", "Straight Edge", "Taqwacore"]

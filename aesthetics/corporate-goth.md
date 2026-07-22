@@ -5,6 +5,7 @@ aka: ["Corpgoth"]
 decade_of_origin: "1990s"
 key_motifs: ["Black suits", "ornate blouses (lace, ruffles, silk)", "subtle gothic jewelry", "tailored clothing", "jewel-tone accents"]
 key_colours: ["Black", "charcoal grey", "white", "deep jewel tones (burgundy, plum, emerald green)"]
+palette: ["#45423F", "#EAECEB", "#0F100E", "#C8C9C3", "#BFB6A7", "#2F2926"]
 key_values: ["Professionalism", "subtlety", "sopcohistication", "compromise", "maintaining individuality"]
 related_aesthetics: ["Corpcore", "Dark Academia", "Goth", "Office Siren"]
 source_url: "https://aesthetics.fandom.com/wiki/Corporate_Goth"

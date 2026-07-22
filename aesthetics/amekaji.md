@@ -5,6 +5,7 @@ aka: ["American Casual"]
 decade_of_origin: "Late 1990s–2000s"
 key_motifs: ["Bright colors", "oversized hoodies", "brand logos", "puffer vests", "flared pants", "mini skirts", "layered clothing", "surf and skate culture"]
 key_colours: ["Vibrant palettes including pink", "yellow", "turquoise", "and orange", "often with earthy base tones"]
+palette: ["#8D4938", "#B26F57", "#2E2333", "#E9ECF2", "#DCB792", "#C0B8B7"]
 key_values: ["Playfulness", "energy", "brand loyalty", "American pop culture", "casual comfort"]
 related_aesthetics: ["Gyaru", "Hip-Hop", "Kogal", "McBling", "Swag", "Y2K"]
 related_media: ["Magazines (egg, Ranzuki)"]

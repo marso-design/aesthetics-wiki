@@ -5,6 +5,7 @@ aka: ["Gen Alpha Preppy", "TikTok Preppy", "Sephora Kid", "New Preppy"]
 decade_of_origin: "2020s"
 key_motifs: ["Smiley faces", "lightning bolts", "chenille patches", "bows"]
 key_colours: ["Hot pink", "cyan", "neon pastels", "bright orange"]
+palette: ["#B57966", "#793F2D", "#BDC8C1", "#E6E1E2", "#D99D82", "#B4A8AB"]
 key_values: ["Cheerfulness", "affluence", "cleanliness", "popularity"]
 related_aesthetics: ["Bubblegum Bling", "Coconut Girl", "Dopamine Dressing", "McBling", "VSCO Girl"]
 primary_platform: ["TikTok", "Roblox"]

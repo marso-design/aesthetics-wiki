@@ -4,6 +4,7 @@ slug: "mecha"
 decade_of_origin: "1950s"
 key_motifs: ["Giant piloted robots", "advanced technology", "warfare", "human-machine interface", "existential threats", "humanity's future"]
 key_colours: ["Metallic grays", "primary colors", "cool blues", "stark whites", "military greens"]
+palette: ["#FFFFFF", "#181920", "#938B7C", "#C6C5C7", "#9CBCC9", "#635F63"]
 key_values: ["Technological empowerment", "human adaptability", "the ethics of conflict", "strength through unity", "introspection in the face of crisis"]
 related_aesthetics: ["Cyberpunk", "Hexatron", "Post-Apocalyptic", "Raygun Gothic", "Robotcore", "Tokusatsu", "Y2K Futurism"]
 related_media: ["Astro Boy", "Gigantor", "Mazinger Z", "Mobile Suit Gundam", "Transformers", "Pacific Rim", "Edge of Tomorrow", "Neon Genesis Evangelion"]

@@ -4,6 +4,7 @@ slug: "frutiger-eco"
 decade_of_origin: "Mid 2000s-Mid 2010s"
 key_motifs: ["Solar panels", "Earth imagery (usually edited to be green)", "trees   and plants", "water", "futuristic architecture"]
 key_colours: ["Green", "teal", "white", "dark blue", "yellow"]
+palette: ["#389C4B", "#173342", "#EAF3CF", "#BAEE5B", "#5E9C5B", "#86A292"]
 key_values: ["Nature", "sustainability", "futurism"]
 related_aesthetics: ["Abstract Tech", "Bright Tertiaries", "Cleancore", "Cyberprep", "Dark Aero", "DORFic", "Frutiger Aero", "Hexatron", "Solarpunk", "Vectorbloom"]
 related_media: ["WALL-E (2008)", "The Lorax (2012)"]

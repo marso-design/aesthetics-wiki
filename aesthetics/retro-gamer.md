@@ -4,6 +4,7 @@ slug: "retro-gamer"
 decade_of_origin: "1980s - 2000s"
 key_motifs: ["Video games", "controllers", "TVs", "arcades"]
 key_colours: ["Grey", "green", "black", "pastel colors"]
+palette: ["#150D15", "#431B52", "#211947", "#6D3F7C", "#473D78", "#C205ED"]
 related_aesthetics: ["8-Bit", "Arcadecore", "Cyberdelic", "Cybertwee", "Low Poly", "PC-98"]
 source_url: "https://aesthetics.fandom.com/wiki/Retro_Gamer"
 license: "CC-BY-SA-4.0"

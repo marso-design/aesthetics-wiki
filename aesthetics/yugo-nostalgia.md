@@ -5,6 +5,7 @@ aka: ["Jugonostalgija"]
 decade_of_origin: "Post-2000s (as aesthetic/commodification)"
 key_motifs: ["SFRY flag", "red star", "portraits and imagery of Josip Broz Tito", "modernist and brutalist architecture", "socialist youth pioneer symbols"]
 key_colours: ["Red", "white", "blue (from the SFRY flag)"]
+palette: ["#161A18", "#503028", "#6F6055", "#55534D", "#8C8B7D", "#B7AB9E"]
 key_values: ["Unity", "brotherhood", "anti-nationalism", "longing", "a perceived higher quality of life"]
 related_aesthetics: ["Dizelaši", "New Partisans", "Ostalgie", "Retrofuturism", "Socialist Realism", "Soviet Nostalgia", "Sovietwave"]
 related_media: ["Yugoslav popular culture", "Ex-Yu Rock and New Wave music", "Yugoslav cinema"]

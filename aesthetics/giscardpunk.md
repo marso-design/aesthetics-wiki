@@ -4,6 +4,7 @@ slug: "giscardpunk"
 decade_of_origin: "2010s"
 key_motifs: ["Brutalist architecture", "the TGV", "the Minitel", "the Concorde", "general infrastructure", "nuclear energy", "CRT computers", "retro advertisements", "nuclear power", "cars", "analogue technology"]
 key_colours: ["Blue", "grey", "orange"]
+palette: ["#010102", "#3E2F2D", "#838A95", "#DEDFDA", "#F8F0E0", "#D97F43"]
 key_values: ["French modernist movement", "alternate history", "technological and social progress", "social and economic liberalism", "industry", "pro-nuclear-power movement", "empowerment of France", "nostalgia for 1970s and 1980s"]
 related_aesthetics: ["Brutalism", "Cassette Futurism", "Cyberpunk", "Modernism", "Pixel UI (Minitel)", "Politicalwave", "Retrofuturism", "Webcore (Minitel)"]
 source_url: "https://aesthetics.fandom.com/wiki/Giscardpunk"

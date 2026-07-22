@@ -5,6 +5,7 @@ aka: ["Dress Up Doll", "Dress Up Girl", "Dollz", "Dollzcore", "Chicaloca", "Fash
 decade_of_origin: "2000s-2010s"
 key_motifs: ["Femininity", "nostalgia", "youth"]
 key_colours: ["Pink", "purple", "white", "brown", "blue", "black"]
+palette: ["#FFFFFF", "#FCCFD0", "#FCAEB0", "#271D1D", "#9B786A", "#F39598"]
 key_values: ["Self-love", "self care", "personal expression", "feminimity"]
 related_aesthetics: ["Barbiecore", "Glitter Graphics", "Tweencore", "McBling", "Bubblegum Bitch", "Gyaru", "Vectordelia", "Old Web", "Curly Girly", "Y2K Futurism"]
 related_media: ["girlsgogames.com", "MyScene", "Candybar Dollmaker", "Miss Bimbo", "Style Dollz", "Chicaloca", "Sugar Luxe"]

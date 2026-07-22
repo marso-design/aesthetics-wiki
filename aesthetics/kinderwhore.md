@@ -4,6 +4,7 @@ slug: "kinderwhore"
 decade_of_origin: "Early 1990s"
 key_motifs: ["Childlike dresses", "disheveled appearance", "smeared makeup", "ripped hosiery", "contrast between innocence and rebellion"]
 key_colours: ["Black", "pink", "white", "ivory", "dark grey", "red", "blue"]
+palette: ["#232626", "#B19E91", "#7D7779", "#BBC9D4", "#C2B9B2", "#7B3E3D"]
 key_values: ["Subversion of femininity", "irony", "anti-perfectionism", "rejection of mainstream beauty standards"]
 related_aesthetics: ["Dark Nymphet", "Grunge", "Heroin Chic", "Morute", "Punk", "Riot Grrrl", "Trailer Park Princess"]
 related_media: ["Hole's \"Miss World\" music video", "Sassy magazine features"]

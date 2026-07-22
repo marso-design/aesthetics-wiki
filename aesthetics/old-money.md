@@ -3,6 +3,7 @@ name: "Old Money"
 slug: "old-money"
 aka: ["Elite", "Posh", "WASP", "Vieux Riche (rare)"]
 key_colours: ["Beige", "brown", "pink", "black", "white", "blue", "green"]
+palette: ["#1E1915", "#3B3026", "#605342", "#98735F", "#B78A73", "#D0B096"]
 key_values: ["Sophistication", "wealth", "femininity", "masculinity", "tradition"]
 related_aesthetics: ["Après-ski", "Bon Chic", "Bon Genre", "Cayetana", "Maillard Style", "New Look", "Preppy", "Sloanies", "Sprezzatura", "Pijo", "Tenniscore", "Vintage", "Dark Academia", "Vintage British Sportsman"]
 related_media: ["Vogue", "Tatler", "Town and Country"]

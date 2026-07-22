@@ -4,6 +4,7 @@ slug: "technoneko2000"
 decade_of_origin: "2000s"
 key_motifs: ["Anthropomorphized hardware", "floating holographic interfaces", "mechanical ears/headphones", "high-gloss vector art", "cables and plugs"]
 key_colours: ["Cyan", "lime green", "white", "silver", "hints of hot pink"]
+palette: ["#F8F9F6", "#83ACB0", "#E1E2E7", "#3C756E", "#C2E1E1", "#5C2B66"]
 key_values: ["Tech-optimism", "moe personification", "high-energy futurism"]
 related_aesthetics: ["Abstract Tech", "Animecore", "Bubblegum Dance", "Frutiger Aero", "Hands Up", "Nightcore (aesthetic)", "Webcore", "Y2K Futurism"]
 related_media: ["OS-tan", "early VOCALOID fanart", "EXIT TRANCE", "Hyperdimension Neptunia", "unofficial Nightcore uploads (YouTube)"]

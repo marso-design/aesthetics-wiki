@@ -5,6 +5,7 @@ aka: ["Frutiger Aero Revival", "Neo-Frutiger Aero", "Nu-Aero"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["Hyper-realistic glass and liquid skeuomorphism", "exaggerated lens flare and sunbeams", "floating bubbles and spheres", "lush green fields/hills", "bright blue skies with wispy clouds", "technological optimism", "friendly 3D characters", "oversized fish"]
 key_colours: ["Electric blue", "sky blue", "saturated grass green", "white (used for digital glow/reflection)", "chrome/glass transparency"]
+palette: ["#3D95AC", "#71C6CB", "#144C76", "#D3D8E7", "#6C637D", "#E7F7F6"]
 key_values: ["Technological optimism (retrospective)", "comfort", "tranquility", "environmental consciousness", "innocence", "maximalist digital polish"]
 related_aesthetics: ["Cleancore", "Frutiger Aero", "Glassmorphism", "Neo-Y2K", "PC Music", "Webcore"]
 primary_platform: ["TikTok", "Reddit", "Music/YouTuber Branding (e.g., Kurtis Conner)"]

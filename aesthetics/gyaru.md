@@ -7,6 +7,7 @@ key_motifs: ["Exaggerated makeup", "big lashes", "curly hair", "hair dye", "anim
 key_values: ["Going against traditional beauty standards", "confidence", "being yourself"]
 related_aesthetics: ["Bodikon", "Girly Kei", "Heisei Retro", "McBling", "Nanchatte Seifuku", "PEEPS", "Sukeban"]
 subgenres: ["Agejo", "Amekaji", "Ganguro", "Gyaruo", "Hime Gyaru", "Himekaji", "Kogal", "Manba", "Onii Kei", "Tsuyome Gyaru"]
+palette: ["#9EADBC", "#DFE3E9", "#BEC3CE", "#A38470", "#374754", "#777B82"]
 source_url: "https://aesthetics.fandom.com/wiki/Gyaru"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

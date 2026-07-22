@@ -4,6 +4,7 @@ slug: "metrosexual"
 decade_of_origin: "1990s (coined)2000s (popularized)"
 key_motifs: ["Personal grooming", "fashion-conscious dressing", "cultivated appearance", "self-care"]
 key_colours: ["Neutrals", "lighter colors"]
+palette: ["#0A0909", "#1E1E1E", "#A8B9C1", "#AC9E96", "#7A878F", "#4A5961"]
 key_values: ["Self-adornment", "aesthetic appreciation", "breaking traditional gender norms in presentation", "consumerism"]
 related_aesthetics: ["Chic Modernist", "Corpcore", "Dandy", "Kkonminam", "Sprezzatura", "Playboy"]
 related_media: ["Queer Eye for the Straight Guy (original series)", "men's fashion editorials"]

@@ -5,6 +5,7 @@ aka: ["Leathermen", "Leatherdom"]
 decade_of_origin: "1940s (Post-WWII emergence)"
 key_motifs: ["Black leather", "motorcycle jackets", "chaps", "harnesses", "boots (moto/engineer)", "muir caps", "studs and chains (metal hardware)"]
 key_colours: ["Black (dominant)", "silver (hardware)"]
+palette: ["#191C15", "#63645E", "#4B4B47", "#2D332B", "#8B8C88", "#C3BEB9"]
 key_values: ["Masculinity", "rebellion", "power exchange", "nonconformity", "community"]
 related_aesthetics: ["Biker", "Bondage", "Fetish Goth", "Metalhead"]
 related_media: ["The Wild One (1953 Film)", "Illustrations by Tom of Finland", "Photography by Robert Mapplethorpe"]

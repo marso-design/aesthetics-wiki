@@ -5,6 +5,7 @@ aka: ["Beauty Guru"]
 decade_of_origin: "2010s"
 key_motifs: ["Bold makeup and fashion"]
 key_colours: ["Black", "red", "camo", "beige", "white and pink."]
+palette: ["#92796F", "#1A131B", "#705B56", "#CBA992", "#B8755C", "#D8C1A7"]
 key_values: ["Being confident", "looking good", "wearing makeup"]
 related_aesthetics: ["Barbiecore", "Bimbocore", "Cherry Emoji Twitter", "Chonga", "Femme Fatale", "Guido", "Hot Cheeto Girl", "McBling", "Paty de SP"]
 source_url: "https://aesthetics.fandom.com/wiki/Baddie"

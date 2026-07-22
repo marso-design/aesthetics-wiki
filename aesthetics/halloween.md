@@ -6,6 +6,7 @@ decade_of_origin: "Celtic Antiquity (Origins)
 Late 19th Century (Modern)"
 key_motifs: ["Bats", "spiders", "cats", "pumpkins", "eyeballs", "skeletons", "ghosts", "witches", "zombies", "Frankensteins", "mummies"]
 key_colours: ["Black", "orange", "green", "purple"]
+palette: ["#BC5C22", "#CB8D54", "#000000", "#EDDFBC", "#291D21", "#674131"]
 key_values: ["Horror", "Spookiness", "Remembrance of the dead"]
 related_aesthetics: ["Autumn", "Día De Muertos", "Gurokawa", "Horror", "Horror Punk", "Kidcore", "Psychobilly", "Saint Patrick's Day", "Vampire", "Witchcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Halloween"

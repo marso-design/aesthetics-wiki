@@ -4,6 +4,7 @@ slug: "groovival"
 decade_of_origin: "1980s"
 key_motifs: ["Mismatched decades", "flower power", "Acid House", "girl power", "neo-psychedelic", "vibrant bright colours", "Hippie revisionism", "60s spy-chic", "corporate nostalgia of the 60s and 70s"]
 key_colours: ["Yellow", "pink", "baby blue", "purple", "white", "green"]
+palette: ["#67627E", "#E37156", "#FFFFFF", "#C06B85", "#722E4E", "#EBB491"]
 key_values: ["Nostalgia", "20–30-year nostalgia cycle", "Boomer revisionism", "nostalgic satire"]
 related_aesthetics: ["Acid House", "Art Hoe", "Barbiecore", "Beatnik", "Bubbleglam", "Cool Britannia", "Corporate Hippie", "Curly Girly", "Cyberdelia", "Disco", "Earth Tones", "Flower Power", "Gen X Soft Club", "Googie", "Hippie", "Kidcore", "Madchester", "McBling", "Mid-Century Medieval", "Mid-Century Modern", "Mod", "Parisian Girly", "Pop Art", "Psychedelia", "Rave", "Shoe Diva", "Millennium Disco", "Space Age", "Shibuya-Kei", "Tweencore", "Vectordelia", "Y2K Futurism"]
 related_media: ["Deee-Lite - Groove Is in the Heart", "Rusted Root - Send Me on My Way", "Now and Then (1995)", "Austin Powers International Man of Mystery (1997)"]

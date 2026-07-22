@@ -4,6 +4,7 @@ slug: "shabby-chic"
 decade_of_origin: "1980s"
 key_motifs: ["Distressed furniture", "floral patterns (especially roses)", "faded textiles", "vintage decor", "lace", "chandeliers", "slipcovers"]
 key_colours: ["White", "cream", "gray", "pink", "pastel green", "light blue", "aged bronze"]
+palette: ["#C4C4C4", "#262828", "#9F8C7D", "#847E7A", "#A39C98", "#7F6557"]
 key_values: ["Comfort", "romance", "nostalgia", "femininity", "celebrating imperfection", "rustic elegance"]
 related_aesthetics: ["Coastal Style", "Cottagecore", "French Country", "Gustavian", "Rococo", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Shabby_Chic"

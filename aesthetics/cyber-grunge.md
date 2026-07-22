@@ -5,6 +5,7 @@ aka: ["Y2K Grunge", "Military Y2K"]
 decade_of_origin: "2020s"
 key_motifs: ["Distressed clothing", "utilitarian details (pockets, straps)", "Y2K silhouettes", "layered androgynous clothing", "dark color palette", "(variations: military influences, urban decay)"]
 key_colours: ["Black", "gray", "muted greens", "browns", "and blues"]
+palette: ["#F2F4F2", "#23201B", "#736B5A", "#C4BCAB", "#38362F", "#E0DACB"]
 key_values: ["Urban edge", "rebellious style", "Y2K nostalgia", "utilitarianism", "societal critique", "disillusionment"]
 related_aesthetics: ["Acubi", "Avant Apocalypse", "Denpa", "Fairy Grunge", "Gen X Soft Club", "Goblincore", "Grunge", "Industrial Decay", "Mallgoth", "Opium", "Post-Grunge Maximalism", "Stargirl", "Twilightcore", "Urbancore", "Y2K Futurism"]
 related_media: ["Serial Experiments Lain", "90s/2000s alternative music", "urban photography"]

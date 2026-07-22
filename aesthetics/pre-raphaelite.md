@@ -5,6 +5,7 @@ aka: ["Pre-Raphaelite Brotherhood"]
 decade_of_origin: "1848"
 key_motifs: ["Medievalism", "Arthurian legend", "religious and mythological subjects", "literary themes", "detailed natural landscapes", "idealized female figures"]
 key_colours: ["Vivid jewel tones (cobalt, ruby, emerald)", "luminous whites"]
+palette: ["#46352A", "#68402C", "#836542", "#1D2327", "#645C39", "#948864"]
 key_values: ["Sincere representation", "truth to nature", "moral seriousness", "opposition to academic conventions"]
 related_aesthetics: ["Aestheticism", "Art Nouveau", "Realism", "Romanticism", "Symbolism"]
 source_url: "https://aesthetics.fandom.com/wiki/Pre-Raphaelite"

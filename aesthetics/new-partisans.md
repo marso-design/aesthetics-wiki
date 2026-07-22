@@ -5,6 +5,7 @@ aka: ["Novi Partizani"]
 decade_of_origin: "1980s"
 key_motifs: ["Yugoslav Partisan imagery", "socialist realist art", "stylized army uniforms", "historical photographs", "red stars", "\"Brotherhood and Unity\" slogans"]
 key_colours: ["Muted military tones (olive green, grey)", "with the prominent use of red"]
+palette: ["#1E1B20", "#020103", "#E51026", "#C1C6C1", "#4B4543", "#A56656"]
 key_values: ["Pro-Yugoslavism", "anti-nationalism", "nostalgia", "brotherhood and unity", "pacifism"]
 related_aesthetics: ["Communist Chic", "New Primitivism", "Socialist Realism", "Yugo-Nostalgia"]
 source_url: "https://aesthetics.fandom.com/wiki/New_Partisans"

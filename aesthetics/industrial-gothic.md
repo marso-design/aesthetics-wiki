@@ -4,6 +4,7 @@ slug: "industrial-gothic"
 decade_of_origin: "Late 1970s–Late 1990s"
 key_motifs: ["Exposed pipes", "wires", "cabling", "peeling paint", "strange dark machines", "distressed textures", "biological-mechanical fusion (sometimes)", "monochrome human faces"]
 key_colours: ["Monochrome (black, white, grey, sepia)", "muted rust tones"]
+palette: ["#3B2725", "#0D0D0E", "#675447", "#39404A", "#7C8486", "#FAE5CA"]
 key_values: ["Nihilism", "dystopia", "decay", "uncanny technology"]
 related_aesthetics: ["Cyberpunk", "Factory Pomo", "Gothic", "Grunge (precursor aspects)", "Industrial", "Industrial Decay", "Post-Apocalyptic", "Thrash Metal", "Whimsicraft"]
 related_media: ["Final Doom (Video Game)", "Baroque (Video Game)"]

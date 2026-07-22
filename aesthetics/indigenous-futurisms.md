@@ -4,6 +4,7 @@ slug: "indigenous-futurisms"
 decade_of_origin: "2000s-Present"
 key_motifs: ["Decolonization", "technology", "Indigenous knowledge", "alternative futures"]
 key_colours: ["Varies by culture"]
+palette: ["#3D8FAC", "#0C0E0F", "#182C38", "#333F4E", "#FEFFFF", "#5E5C61"]
 key_values: ["Self-determination", "cultural resilience", "sovereignty", "connection to land"]
 related_aesthetics: ["Afrofuturism", "Cyberpunk", "Retrofuturism", "Solarpunk"]
 related_media: ["Walking the Clouds anthology", "Biidaaban: First Light"]

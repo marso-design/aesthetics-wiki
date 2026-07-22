@@ -5,6 +5,7 @@ aka: ["Gothic Victorian"]
 decade_of_origin: "1980s"
 key_motifs: ["Mourning attire", "corsets", "bustles", "lace", "velvet", "top hats", "cameos", "veils", "Gothic literature"]
 key_colours: ["Primarily black", "with accents of deep jewel tones like burgundy", "purple", "and dark green"]
+palette: ["#C9CECD", "#0B0D11", "#747A6A", "#33373D", "#B6ACAD", "#605553"]
 key_values: ["Melancholy", "elegance", "romanticism", "history", "mourning", "decadence"]
 related_aesthetics: ["Darkest Academia", "Goth", "Romantic Goth", "Steampunk", "Trad Goth", "Victorian"]
 source_url: "https://aesthetics.fandom.com/wiki/Victorian_Goth"

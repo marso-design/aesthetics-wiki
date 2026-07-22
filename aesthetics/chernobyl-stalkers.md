@@ -5,6 +5,7 @@ aka: ["Chernobyl Stalker"]
 decade_of_origin: "1990s"
 key_motifs: ["Gas masks", "Soviet-era relics", "eerie atmosphere", "illegal photography"]
 key_colours: ["Black", "yellow", "military green"]
+palette: ["#0C0C0C", "#9F9EA2", "#BBBEC4", "#4E4644", "#5D5E61", "#776E6D"]
 key_values: ["Exploring Chernobyl", "anti-authoritarianism"]
 related_aesthetics: ["After Hours", "Brutalism", "Doomer", "Industrial Decay", "Post-Apocalyptic", "Sovietwave"]
 related_media: ["Roadside Picnic"]

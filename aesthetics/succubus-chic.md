@@ -5,6 +5,7 @@ aka: ["Voguish Vampire", "Glam Ghoul", "Deadly It Girl"]
 decade_of_origin: "2020s"
 key_motifs: ["Dark hair and clothing", "eyebags", "androgynous"]
 key_colours: ["Black", "dark tones"]
+palette: ["#CFB8AF", "#B29183", "#010101", "#776765", "#483938", "#15181D"]
 key_values: ["Darkness", "seductiveness", "sensuality", "human fragility"]
 related_aesthetics: ["Dark Nymphet", "Devilcore", "Femme Fatale", "Heroin Chic", "Indie Sleaze", "Waif"]
 source_url: "https://aesthetics.fandom.com/wiki/Succubus_Chic"

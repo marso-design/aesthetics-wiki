@@ -5,6 +5,7 @@ aka: ["Sad Beige Mom", "Beige Mom", "Sad Beige Baby"]
 decade_of_origin: "2020s"
 key_motifs: ["Colorlessness", "middle class millennial moms"]
 key_colours: ["Beige", "white", "cream", "brown", "neutral colours", "muted colours", "xanadu/dark xanadu"]
+palette: ["#C1B2A4", "#CECCC9", "#705644", "#AE9E90", "#E6E3DD", "#917F6C"]
 key_values: ["Simplicity"]
 related_aesthetics: ["Vanilla Girl", "Light Academia", "Clean Girl", "Boujee", "Country"]
 source_url: "https://aesthetics.fandom.com/wiki/Sad_Beige"

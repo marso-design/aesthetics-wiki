@@ -6,6 +6,7 @@ decade_of_origin: "20th Century"
 key_motifs: ["Glow-in-the-dark rosaries", "sacred heart", "dashboard saints", "pope bobbleheads", "sentimental holy prints", "plastic statues", "religious-themed household items"]
 key_values: ["Devotion", "nostalgia", "accessibility", "sentimentality", "\"lived religion\""]
 related_aesthetics: ["Americana", "Kitsch", "Pop Art", "Tradcath Coquette", "Vintage"]
+palette: ["#797F7A", "#DADDDC", "#463833", "#B2A89C", "#FAFCF9", "#CE8659"]
 source_url: "https://aesthetics.fandom.com/wiki/Catholic_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

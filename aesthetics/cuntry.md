@@ -5,6 +5,7 @@ aka: ["Cunty Country", "Cvntry", "Kuntry", "Kvntry", "Slay Country"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Camo print", "cowboy boots", "campy quotes and imagery", "hunting gear", "denim"]
 key_colours: ["Brown", "green", "tan", "white"]
+palette: ["#1F1917", "#352727", "#47515E", "#766A5F", "#8B8C87", "#E4E3F1"]
 key_values: ["Reclaiming country aesthetics", "LGBTQ pride and acceptance", "diversifying country music and culture"]
 related_aesthetics: ["2020 TikTok", "Americana", "Baddie", "Ballroom Culture", "Buckle Bunny", "Camp", "Country", "Farmer's Daughter", "Midwest Gothic", "Southern Gothic", "Trailer Park Princess", "Yallternative"]
 primary_platform: ["Instagram", "Pinterest", "TikTok", "Tumblr"]

@@ -3,6 +3,7 @@ name: "Casino"
 slug: "casino"
 key_motifs: ["Casinos", "playing cards", "poker chips", "dice"]
 key_colours: ["Black", "white", "red", "gold"]
+palette: ["#000000", "#893F5B", "#071023", "#8E7781", "#3D324B", "#6BB8CE"]
 key_values: ["Debauchery (engaging in vices)", "Decadence", "Letting loose", "Luck (or lack of luck)", "Trickery"]
 related_aesthetics: ["Boujee", "Funfair Kitsch", "McBling", "Synthwave", "Vacation Dadcore", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Casino"

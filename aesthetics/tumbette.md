@@ -6,6 +6,7 @@ key_motifs: ["Motocross/baseball jerseys", "miniskirts", "bows", "lace", "pearls
 key_values: ["Cultural pride (specifically Northwest Mexico)", "gender fluidity", "harmonizing masculinity and femininity", "self-expression"]
 related_aesthetics: ["Blokette", "Buchón", "Coquette", "Hypebeast", "Tumbado"]
 primary_platform: ["TikTok"]
+palette: ["#B2909A", "#191B20", "#6B6969", "#2C383F", "#788B83", "#843B3D"]
 source_url: "https://aesthetics.fandom.com/wiki/Tumbette"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

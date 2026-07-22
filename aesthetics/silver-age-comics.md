@@ -1,6 +1,7 @@
 ---
 name: "Silver Age Comics"
 slug: "silver-age-comics"
+palette: ["#C8995F", "#2A1C23", "#FBF7F2", "#BF4035", "#8D5961", "#D9533F"]
 source_url: "https://aesthetics.fandom.com/wiki/Silver_Age_Comics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

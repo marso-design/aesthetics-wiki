@@ -4,6 +4,7 @@ slug: "babycore"
 decade_of_origin: "2010s"
 key_motifs: ["Plush toys", "baby animals", "pacifiers (as accessories)", "baby bottles", "alphabet blocks", "rattles", "frills", "pastels"]
 key_colours: ["Pastel pink", "baby blue", "light yellow", "mint green", "white", "cream"]
+palette: ["#B99E9D", "#D3CBC7", "#EAE2DD", "#705C59"]
 key_values: ["Nostalgia", "comfort", "innocence", "softness", "gentleness"]
 related_aesthetics: ["Babygirl", "Delicate Sweet", "Kawaii", "Kidcore", "Sanriocore", "Yume Kawaii"]
 primary_platform: ["Tumblr", "Pinterest"]

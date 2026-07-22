@@ -4,6 +4,7 @@ slug: "hot-cheeto-girl"
 decade_of_origin: "Late 2010s"
 key_motifs: ["Flamin' Hot Cheetos or Takis (snacks)", "hyper-feminine style", "long acrylic nails", "huge hoop earrings", "long/dramatic false eyelashes", "loud chewing/gum smacking", "argumentative attitude"]
 key_colours: ["Vibrant red (Flamin' Hot Cheeto brand color)", "black", "gold"]
+palette: ["#97B9A2", "#221415", "#B23725", "#878B7C", "#422F31", "#D35F47"]
 key_values: ["Defiance", "self-assertion", "loudness", "anti-respectability politics"]
 related_aesthetics: ["Baddie", "Cyber Ghetto", "Hip-Hop"]
 primary_platform: ["TikTok", "Urban Dictionary"]

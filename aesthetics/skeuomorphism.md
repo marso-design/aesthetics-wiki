@@ -5,6 +5,7 @@ aka: ["Realistic Design/UI", "Skiamorphism"]
 decade_of_origin: "1980s-early 2010s"
 key_motifs: ["Imitation of real world", "objects and textures", "depth filled", "glossy/shiny"]
 key_colours: ["Black", "beige", "grey", "white", "green"]
+palette: ["#4A5D55", "#392A24", "#7B705A", "#BCAB99", "#915033", "#90896D"]
 related_aesthetics: ["Abstract Tech", "Claymorphism", "Corporate Memphis (contrasts)", "Dark Aero", "Flat Design (contrasts)", "Frutiger Aero", "Glassmorphism", "Neumorphism", "Old Web", "Superflat Pop", "Y2K Futurism", "Zen Tranquility"]
 source_url: "https://aesthetics.fandom.com/wiki/Skeuomorphism"
 license: "CC-BY-SA-4.0"

@@ -4,6 +4,7 @@ slug: "gen-z-maximalism"
 aka: ["Dopamine Decor"]
 decade_of_origin: "2020s"
 key_colours: ["All of them", "but highly saturated"]
+palette: ["#4D5848", "#2D211C", "#D2C0AC", "#B37055", "#8C906B", "#A0AF91"]
 key_values: ["Clutter", "maximalism", "use of various highly saturated colors"]
 related_aesthetics: ["2020 TikTok", "Avant Basic", "Decora", "Dopamine", "Grocery Girl Fall", "Kidcore", "Memphis Design", "Scene"]
 related_media: ["TikTok", "Pinterest", "Possible Studio Ghibli movies"]

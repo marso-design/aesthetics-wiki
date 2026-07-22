@@ -5,6 +5,7 @@ aka: ["New Folk", "Urban Rustic", "Urban Folk", "Lowbrow Folk"]
 decade_of_origin: "1990s"
 key_motifs: ["Graffiti lettering", "cartoon figures", "folk art patterns", "hand-painted signs", "urban life", "hobo symbols", "skater culture"]
 key_colours: ["Muted colors", "earthy and urban palettes"]
+palette: ["#1E1513", "#8A8881", "#3B383A", "#6C6664", "#704A3F", "#A06A4A"]
 key_values: ["DIY ethos", "anti-commercialism", "appreciation for the handmade and found objects", "authenticity", "community"]
 related_aesthetics: ["Beatnik", "Constructivism", "Earth Tones", "Frasurbane", "Global Village Coffeehouse", "Hipness Purgatory", "Googie Kitsch", "Groovival", "Hippie", "Lowbrow", "Neo-Pop", "Wacky Pomo"]
 source_url: "https://aesthetics.fandom.com/wiki/Mission_School"

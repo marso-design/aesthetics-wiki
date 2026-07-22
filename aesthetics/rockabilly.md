@@ -6,6 +6,7 @@ decade_of_origin: "1950s (initial popularity)
 Late 1970s (revival)"
 key_motifs: ["Vintage cars", "motorcycles", "diners", "soda fountains", "jukeboxes", "polka dots", "checkerboard patterns", "skulls", "old-school tattoos", "pin-up imagery", "red roses", "poodles", "barber poles"]
 key_colours: ["White", "red", "black", "bright pastels"]
+palette: ["#0F0913", "#1F2541", "#55575D", "#FCF3D9", "#88605B", "#CAB194"]
 key_values: ["Nostalgia for 1950s Americana", "rebellion", "individualism", "authenticity", "passion for music and vintage culture"]
 related_aesthetics: ["Americana", "Biker", "Burlesque", "Country", "Diner", "Greaser", "Halbstarke", "Horror Punk", "Hot Rod", "Old Hollywood", "Pin-up", "Raggare", "Stilyagi"]
 subgenres: ["Gothabilly", "Psychobilly"]

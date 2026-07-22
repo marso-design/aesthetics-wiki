@@ -5,6 +5,7 @@ aka: ["American Dubstep"]
 decade_of_origin: "2010s"
 key_motifs: ["Biohazard symbols", "gas masks", "neon green lasers", "shattered glass", "aggressive machinery", "skulls", "\"Gamer\" iconography (hitmarkers, HUDs)", "the \"Dubstep Joker\""]
 key_colours: ["Neon green", "black", "electric blue", "purple", "warning yellow"]
+palette: ["#A4C0B1", "#010101", "#1A3E38", "#3B4346", "#678179", "#151B1C"]
 key_values: ["Aggression", "adrenaline", "hedonism", "loudness (\"filth\")", "excitement", "masculinity (\"hardness\")"]
 related_aesthetics: ["2010s Dark Fandom", "Cybergoth", "Hands Up", "MLG", "Olderbrothercore", "Rave"]
 primary_platform: ["YouTube", "SoundCloud", "Xbox Live"]

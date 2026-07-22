@@ -1,6 +1,7 @@
 ---
 name: "Coquette"
 slug: "coquette"
+palette: ["#830A1C", "#5F6252", "#A18F7C", "#C8B7AE", "#956A5B", "#D9D4CF"]
 source_url: "https://aesthetics.fandom.com/wiki/Coquette"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

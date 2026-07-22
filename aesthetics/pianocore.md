@@ -5,6 +5,7 @@ aka: ["Piano Aesthetic", "Piano Girl", "Music Note Fashion"]
 decade_of_origin: "c. 2000s"
 key_motifs: ["Piano keys", "lace", "musical staves", "treble clefs", "eighth notes", "violins", "metronomes"]
 key_colours: ["Black", "white", "cream", "sepia"]
+palette: ["#0F0F10", "#2F2B28", "#D1CFCD", "#979694", "#B2AEAB", "#7B7775"]
 key_values: ["Elegance", "whimsicality", "classical appreciation", "performative art"]
 related_aesthetics: ["Choco Girl", "Classic Lolita", "Dark Academia", "Gothic Lolita", "Wishcore", "Whimsy Twee"]
 primary_platform: ["Pinterest", "TikTok", "Roblox"]

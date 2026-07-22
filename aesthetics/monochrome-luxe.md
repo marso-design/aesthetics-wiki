@@ -4,6 +4,7 @@ slug: "monochrome-luxe"
 decade_of_origin: "80s"
 key_motifs: ["black and white with color accents", "steel trusses", "minimalism", "geometric shapes", "white tile with black grout"]
 key_colours: ["Black and white"]
+palette: ["#C2C0C8", "#0C0C0F", "#5A6780", "#1E1F26", "#ACAAAD", "#313950"]
 related_aesthetics: ["Cassette Futurism", "High-Tech Architecture", "Memphis Design", "Memphis Lite", "Tech Primaries", "Festival Marketplace", "Neoclassical PoMo", "Hexatron", "Avantropop", "Laser Grid"]
 source_url: "https://aesthetics.fandom.com/wiki/Monochrome_Luxe"
 license: "CC-BY-SA-4.0"

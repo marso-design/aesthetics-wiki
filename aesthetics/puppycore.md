@@ -5,6 +5,7 @@ aka: ["Wancore"]
 decade_of_origin: "2000s (named in the 2020s)"
 key_motifs: ["Puppies (especially golden retrievers, corgis)", "pastel colors", "paw prints", "dog bones", "bows", "hearts", "sparkles", "glitter", "soft textures", "\"Heisei Retro\" design elements"]
 key_colours: ["Soft pastels (pink, baby blue, lavender, yellow)", "white", "cream"]
+palette: ["#FCFBFD", "#E1AF81", "#955C56", "#9FADA7", "#E8EDDE", "#E9B1CA"]
 key_values: ["Cuteness", "innocence", "comfort", "nostalgia (especially for early 2000s internet aesthetics)", "playfulness", "gentleness"]
 related_aesthetics: ["Clovercore", "Cutecore", "Heisei Retro", "Kawaii", "Sanriocore"]
 primary_platform: ["Online image boards", "social media (Pinterest, Tumblr, Instagram)", "early 2000s Japanese merchandise and stationery"]

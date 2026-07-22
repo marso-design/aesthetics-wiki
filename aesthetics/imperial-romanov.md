@@ -5,6 +5,7 @@ aka: ["Romanov"]
 decade_of_origin: "Unknown"
 key_motifs: ["Imperial-era Russia", "royal gowns", "family"]
 related_aesthetics: ["Baroque", "Kingcore", "Knightcore", "Princecore", "Princesscore", "Queencore", "Rococo", "Romantic Academia", "Royalcore", "Spanish Golden Age"]
+palette: ["#D4CCC3", "#928A86", "#6B6360", "#423D3C", "#B8B1AD", "#A49D98"]
 source_url: "https://aesthetics.fandom.com/wiki/Imperial_Romanov"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -5,6 +5,7 @@ aka: ["Coquette Catholic", "TradCath E-Girl Summit", "Conventcore"]
 decade_of_origin: "2020s"
 key_motifs: ["Coquette fashion (bows, hearts, dresses) combined with traditional Catholic imagery (rosaries, veils, crucifixes)", "references to medieval saints"]
 key_colours: ["Soft coquette colors (pinks, pastels) often contrasted with darker accents"]
+palette: ["#8D8278", "#A9A29D", "#463E31", "#FFFFFF", "#CCC3BD", "#EEE1E1"]
 key_values: ["Reappropriation of tradition", "performative piety", "exploration of religious identity (debated: sincerity vs. irony)"]
 related_aesthetics: ["Catholic Kitsch", "Catholic Mexican Girl", "Coquette", "Dark Academia", "Preacher's Daughter", "Sadgirl", "Southern Gothic", "Tradwife", "Waif"]
 related_media: ["Red Scare podcast"]

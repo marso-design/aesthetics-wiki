@@ -5,6 +5,7 @@ aka: ["Rudie", "Rudi", "Rudy"]
 decade_of_origin: "1960s"
 key_motifs: ["Sharp suits", "thin ties", "pork pie or trilby hats", "dancehalls", "sound systems"]
 key_colours: ["Black", "white", "muted suit colors"]
+palette: ["#D1D1D1", "#B1B1B1", "#191919", "#6B6B6B", "#4E4E4E", "#3B3B3B"]
 key_values: ["Rebellion", "street culture", "anti-establishment", "masculine pride", "style"]
 related_aesthetics: ["2 Tone", "Beatnik", "Mod", "Reggae", "Skinhead", "Teddy Boys"]
 source_url: "https://aesthetics.fandom.com/wiki/Rude_Boy"

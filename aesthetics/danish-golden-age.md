@@ -5,6 +5,7 @@ aka: ["Den Danske Guldalder"]
 decade_of_origin: "Early 19th century (c. 1801-1864)"
 key_motifs: ["Copenhagen cityscapes", "Danish landscapes", "portraits of artists and citizens", "genre scenes of everyday life", "Neoclassical architecture"]
 key_colours: ["Soft", "natural light with strong color contrasts; muted tones and vibrant accents"]
+palette: ["#938DAF", "#594139", "#1A1213", "#402F2B", "#CFB2A9", "#B3A2AE"]
 key_values: ["National identity", "idealized realism", "detailed observation", "depictions of daily life", "landscape", "portraiture"]
 related_aesthetics: ["Dutch Golden Age (influence)", "Realism", "Romanticism", "Neoclassicism"]
 source_url: "https://aesthetics.fandom.com/wiki/Danish_Golden_Age"

@@ -4,6 +4,7 @@ slug: "anti-fashion"
 decade_of_origin: "1850s"
 key_motifs: ["A rejection of current fashion trends."]
 related_aesthetics: ["Avant-garde", "Club Kids", "Grunge", "Normcore", "Poverty Chic", "Punk"]
+palette: ["#616D77", "#B1AF9D", "#0A0909", "#51443F", "#7D726C", "#353233"]
 source_url: "https://aesthetics.fandom.com/wiki/Anti-Fashion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

@@ -6,6 +6,7 @@ decade_of_origin: "1960s
 1980s (term coined)"
 key_motifs: ["British Rhythm & Blues", "Beat and Pop Rock featuring fuzz", "flanging", "chorus", "and psychedelic undertones (musical)", "Distorted visuals", "vibrant colour palettes", "surreal imagery", "fluid shapes", "organic forms", "optical illusions", "bold and distorted text (visual)"]
 key_colours: ["All"]
+palette: ["#21132E", "#715856", "#05033E", "#524D55", "#CF5849", "#A38981"]
 key_values: ["Modernity", "psychedelia", "youth culture"]
 related_aesthetics: ["Acid House", "Cool Britannia", "Dolly Girl", "Glam Rock", "Groovival", "Hippie", "Madchester", "Mod", "Northern Soul", "Peacock Revolution", "Pop Art", "Psychedelia", "Yé-yé"]
 source_url: "https://aesthetics.fandom.com/wiki/Freakbeat"

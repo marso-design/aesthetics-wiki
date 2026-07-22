@@ -5,6 +5,7 @@ aka: ["Kogyaru", "Heisei Gyaru"]
 decade_of_origin: "Early-to-mid 1990s"
 key_motifs: ["School uniforms", "loose socks", "heavy make-up", "decoden"]
 key_colours: ["Beige", "white", "black", "pastels"]
+palette: ["#503F42", "#1D1D22", "#8F9599", "#6A6970", "#867773", "#D6CEC9"]
 key_values: ["To have fun and look cute"]
 related_aesthetics: ["Bodikon", "Cyber Doll", "Erokawa", "Gyaru", "High School Dream", "Kawaii", "Nanchatte Seifuku"]
 source_url: "https://aesthetics.fandom.com/wiki/Kogal"

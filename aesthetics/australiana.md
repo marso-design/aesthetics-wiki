@@ -4,6 +4,7 @@ slug: "australiana"
 decade_of_origin: "1980s"
 key_motifs: ["Australian wildlife", "koalas", "kangaroos", "and galahs", "native flora and fauna", "Aboriginal art", "low-set cream brick homes", "Queenslanders", "nostalgic kitsch", "retro design elements", "fairy bread"]
 key_colours: ["Opalescent and iridescent", "Contrasting colour schemes", "Colours that don't go together", "White with splashes of colour and bright primary colours"]
+palette: ["#52668B", "#816A5A", "#6E808F", "#86999E", "#2A3551", "#ACAEAF"]
 key_values: ["Nostalgia", "Irreverence", "Occasionally iconoclastic", "'Larrikin' spirit", "Fun", "Laidback", "Ironic"]
 related_aesthetics: ["Surf Crush", "Vacation Dadcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Australiana"

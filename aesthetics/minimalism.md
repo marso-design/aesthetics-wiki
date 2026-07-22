@@ -3,6 +3,7 @@ name: "Minimalism"
 slug: "minimalism"
 decade_of_origin: "1960s"
 key_colours: ["Any colors", "commonly white", "neutrals", "and muted tones"]
+palette: ["#6A625B", "#332E2A", "#9CB0BC", "#958D86", "#FCFDFD", "#748794"]
 key_values: ["Quality over quantity", "decluttering", "prioritizing important things", "attention to materials and textures", "anti-materialism", "freedom", "enviromentalism"]
 related_aesthetics: ["Bauhaus", "Brutalism", "Chic Modernist", "Coastal Style", "Comfy/Cozy", "Corporate Memphis", "Cyberminimalism", "De Stijl", "Flat Design", "Heroin Chic", "Hygge", "International Typographic Style", "Japandi", "Minimal Wave", "Plakatstil", "Power Dressing", "Precisionism", "Purism", "Scandinavian Design", "St Ives School", "Suprematism"]
 source_url: "https://aesthetics.fandom.com/wiki/Minimalism"

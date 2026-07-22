@@ -2,6 +2,7 @@
 name: "Hime Lolita"
 slug: "hime-lolita"
 related_aesthetics: ["Classic Lolita", "Hime Gyaru", "Lolita", "Princesscore", "Queencore", "Royalcore", "Sweet Lolita"]
+palette: ["#84756A", "#BCBFBE", "#9E9D9C", "#4C3C36", "#E8E4DF", "#BFAFA0"]
 source_url: "https://aesthetics.fandom.com/wiki/Hime_Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

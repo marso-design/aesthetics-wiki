@@ -4,6 +4,7 @@ slug: "retrofuturism"
 decade_of_origin: "Late 19th Century – Early 20th Century"
 key_motifs: ["Imagined future technologies from a past perspective", "juxtaposition of outdated aesthetics with advanced concepts", "optimistic or dystopian visions of progress", "flying vehicles", "robots", "space exploration", "fantastical architecture", "rayguns"]
 key_colours: ["Varies by subgenre (e.g., chrome, pastels, muted industrial tones, vibrant atomic-age colors)"]
+palette: ["#A0ABBD", "#2A302F", "#A94F3D", "#394946", "#717575", "#B9A299"]
 related_aesthetics: ["Art Deco", "Atompunk", "Cyberpunk", "Dieselpunk", "Decopunk", "Frutiger Aero", "Futurism", "Googie", "Mid-Century Modern", "Modernism", "Raygun Gothic", "Space Age", "Steampunk", "Streamline Moderne", "Synthwave", "Vaporwave", "Y2K Futurism", "DORFic", "Abstract Tech"]
 related_media: ["The Jetsons", "Fallout franchise", "Metropolis", "Brazil", "Bioshock", "Sky Captain and the World of Tomorrow", "The Fifth Element"]
 source_url: "https://aesthetics.fandom.com/wiki/Retrofuturism"

@@ -5,6 +5,7 @@ aka: ["Vintage Parisian"]
 decade_of_origin: "1930s-1960s"
 key_motifs: ["Luxury goods", "perfume", "make-up", "roses", "vintage movies", "jazz music", "love", "French cuisine"]
 key_colours: ["Black", "white", "gold", "and pink"]
+palette: ["#C7C2BD", "#302F2B", "#827E76", "#555553", "#D9D9D9", "#AFA393"]
 key_values: ["Romanticism", "self-care", "beauty", "elegance"]
 related_aesthetics: ["Angelcore", "Bon Chic", "Bon Genre", "Coquette", "Boujee", "Chic Modernist", "French Girly", "Haussmann Paris", "Old Hollywood", "Pink Princess", "Romanticism", "Romantic Academia", "Parisian Girly"]
 related_media: ["Sabrina (1954)"]

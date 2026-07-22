@@ -5,6 +5,7 @@ aka: ["Social Commentary Art"]
 decade_of_origin: "1920s"
 key_motifs: ["Workers", "the urban poor", "rural struggles", "protest", "industry", "the common person"]
 key_colours: ["Muted tones", "earthy colors", "grays", "blacks", "whites"]
+palette: ["#474037", "#282924", "#5D5D54", "#8A8679", "#ACA18B", "#F3EEE2"]
 key_values: ["Social justice", "labor rights", "anti-fascism", "equality", "human dignity", "solidarity"]
 related_aesthetics: ["Figuration Narrative", "Mexican Muralism", "Realism", "Socialist Realism"]
 related_media: ["The Grapes of Wrath", "Native Son", "New Masses", "Artists on the WPA"]

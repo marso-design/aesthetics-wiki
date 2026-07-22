@@ -4,6 +4,7 @@ slug: "dragoncore"
 decade_of_origin: "2010s"
 key_motifs: ["Gemstones", "crystals", "nature", "mythology"]
 key_colours: ["Black", "dark jewel tones", "gold", "red", "purple", "green", "silver", "grey", "brown"]
+palette: ["#091C1D", "#215268", "#2A2822", "#758E8B", "#445950", "#ECDCAB"]
 key_values: ["Collecting (or hoarding)", "self-care and self-esteem", "strength and power", "independence and freedom", "wisdom", "elegance"]
 related_aesthetics: ["Bardcore", "Crowcore", "Fantasy", "Goblincore", "Naturecore", "Witchcore"]
 related_media: ["Dungeons and Dragons", "Eragon", "How to Train Your Dragon Trilogy", "The Lord of the Rings", "The Wings of Fire books"]

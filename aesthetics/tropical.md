@@ -4,6 +4,7 @@ slug: "tropical"
 aka: ["Island Life", "Islandcore"]
 key_motifs: ["Cool breezes", "cold drinks", "beach life", "islands", "oceans", "seashells", "fishing", "swimming", "second-hand clothing", "fresh fruit"]
 key_colours: ["Green", "blue", "red", "orange", "yellow", "purple", "white", "cyan"]
+palette: ["#5E4538", "#212529", "#8C725B", "#A29E8A", "#66B0CB", "#A9BFBF"]
 key_values: ["Simplicity", "naturalism", "survivalism", "connection with nature", "protection of sea life", "balance"]
 related_aesthetics: ["Beach Day (subgenre)", "Bohemian", "Brazilian Bombshell", "Chicha", "Coastal Style", "Frutiger Aero", "Hollywood Regency", "Nautical", "Ocean Grunge", "Pirate", "Poolcore", "Safari Chic", "Seapunk", "Summer", "Surf Crush", "Tomato Girl Summer", "Vacation Dadcore"]
 related_media: ["The Blue Lagoon", "Castaway", "Nim's Island", "Kon-Tiki", "Return to the Blue Lagoon", "Six Days and Seven Nights", "Moana", "Waterworld"]

@@ -5,6 +5,7 @@ aka: ["Regency Moderne"]
 decade_of_origin: "1920s─1950s"
 key_motifs: ["Greek keys", "palms", "silk", "sunbursts", "animal prints"]
 key_colours: ["Turquoise", "silver", "pink"]
+palette: ["#1D1C1C", "#2C4638", "#68483F", "#B6B9A4", "#916F5E", "#666A5B"]
 key_values: ["Glamour", "opulence", "comfort", "extravagance", "drama"]
 related_aesthetics: ["Art Deco", "Maximalism", "Mid-Century Modern", "Old Hollywood", "Regency"]
 source_url: "https://aesthetics.fandom.com/wiki/Hollywood_Regency"

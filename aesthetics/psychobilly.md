@@ -6,6 +6,7 @@ decade_of_origin: "Early 1980s"
 key_motifs: ["Zombies", "vampires", "monsters", "graveyards", "hot rods", "pin-up imagery (often with a dark twist)", "classic horror film elements"]
 key_values: ["Rebellion", "independence", "humor", "outsider status"]
 related_aesthetics: ["B-Movie Horror", "Deathrock", "Gothabilly", "Gurokawa", "Halloween", "Horror", "Horror Punk", "Hot Rod", "Pin-up", "Rockabilly", "Punk", "Vampire"]
+palette: ["#131314", "#8D8F86", "#C7C2BC", "#636460", "#59474A", "#E8CCE5"]
 source_url: "https://aesthetics.fandom.com/wiki/Psychobilly"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

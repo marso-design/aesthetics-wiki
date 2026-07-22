@@ -5,6 +5,7 @@ aka: ["E-punk", "Losercore", "Internet punk", "Bedroom punk"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Wojak/Doomer memes", "MS Paint art", "bedroom studios", "Monster Energy", "cigarettes", "retro gaming consoles", "4chan culture", "blackpill culture"]
 key_colours: ["Black", "white", "grey (monochrome/dithered)"]
+palette: ["#4C4141", "#0D0A10", "#282D37", "#6B7674", "#F4F3E0", "#A69B90"]
 key_values: ["Social alienation", "irony", "provocation", "gatekeeping", "DIY ethos", "resentment towards modern dating"]
 related_aesthetics: ["Doomer", "Midwest Emo", "Meme Rap", "Nerdcore", "Olderbrothercore", "Scenecore", "Grunge", "Riot Grrrl"]
 source_url: "https://aesthetics.fandom.com/wiki/Incelcore"

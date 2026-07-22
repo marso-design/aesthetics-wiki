@@ -4,6 +4,7 @@ slug: "maranza"
 decade_of_origin: "1980s (original term), 2020s (modern subculture)"
 key_motifs: ["Acetate tracksuits", "football jerseys", "crossbody bags (sacoches)", "puffer vests", "balaclavas", "bleached curls"]
 key_colours: ["Cobalt blue", "black", "fluorescent accents", "luxury monograms"]
+palette: ["#262325", "#0A090B", "#635B52", "#C2B8A6", "#433D3A", "#95897C"]
 key_values: ["Territorial pride", "urban defiance", "social provocation", "group loyalty"]
 related_aesthetics: ["Chicago Drill", "Gorpcore", "Racaille", "Roadman", "UK Drill"]
 primary_platform: ["TikTok"]

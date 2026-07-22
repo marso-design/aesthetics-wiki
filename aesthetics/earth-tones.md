@@ -5,6 +5,7 @@ aka: ["Fall Tones"]
 decade_of_origin: "1970s"
 key_motifs: ["Soft colors", "rounded shapes"]
 key_colours: ["Brown", "yellow", "orange"]
+palette: ["#E7ECEC", "#CF5D27", "#291A18", "#FFFFFF", "#534640", "#A9291A"]
 related_aesthetics: ["American Thanksgiving", "Autumn", "Flat Design", "Frasurbane", "Supergraphic Ultramodern", "Mission School", "Global Village Coffeehouse"]
 source_url: "https://aesthetics.fandom.com/wiki/Earth_Tones"
 license: "CC-BY-SA-4.0"

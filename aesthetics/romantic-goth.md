@@ -5,6 +5,7 @@ aka: ["Romantigoth"]
 decade_of_origin: "1990s"
 key_motifs: ["Flowing gowns", "poet shirts", "velvet", "lace", "corsetry", "ruined castles", "cemeteries", "black roses", "candelabras"]
 key_colours: ["Black", "deep jewel tones (burgundy, forest green, sapphire blue)", "white", "silver"]
+palette: ["#16151A", "#7A5B68", "#4D4F58", "#5A313E", "#461225", "#D5D0D4"]
 key_values: ["Dark romance", "tragic beauty", "melancholy", "individualism", "artistic expression", "nature", "history"]
 related_aesthetics: ["Dark Academia", "Goth", "Gothic", "Romanticism", "Trad Goth", "Victorian Goth"]
 source_url: "https://aesthetics.fandom.com/wiki/Romantic_Goth"

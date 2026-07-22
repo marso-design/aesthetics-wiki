@@ -3,6 +3,7 @@ name: "Laser Grid"
 slug: "laser-grid"
 key_motifs: ["Grids", "Airbrushed lasers", "Chrome and mirrors", "Glass blocks"]
 key_colours: ["Black"]
+palette: ["#06020B", "#354E48", "#1F272E", "#6C5C5E", "#98837A", "#538174"]
 related_aesthetics: ["Cassette Futurism", "Early Cyber", "Cyberpunk", "Italo Disco", "Memphis Design", "Memphis Lite", "Silicon Dreams", "Synthwave", "Vaporwave", "Monochrome Luxe"]
 source_url: "https://aesthetics.fandom.com/wiki/Laser_Grid"
 license: "CC-BY-SA-4.0"

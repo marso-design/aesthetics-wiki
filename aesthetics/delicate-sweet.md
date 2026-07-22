@@ -5,6 +5,7 @@ aka: ["Pinkcore", "Softette"]
 decade_of_origin: "2010s"
 key_motifs: ["Lace", "doilies", "fabric textures", "stuffed animals", "pillows", "vintage nightgowns", "baked goods", "embroidery/sewing", "angels", "dolls"]
 key_colours: ["Washed out baby pink", "baby blue", "white", "brown", "beige"]
+palette: ["#FFFFFF", "#9D9499", "#7F7171", "#E4DDD2", "#C6B6B0"]
 key_values: ["Kindness", "comfort", "sleepiness", "purity", "innocence", "softness", "self care"]
 related_aesthetics: ["Angelcore", "Cult Party Kei", "Dreamy Indie Girlhood", "Yume Kawaii", "Babycore", "Grandparentcore", "Larme Kei", "Rococo", "Soft Boy", "Soft Girl", "Classic Lolita", "Mori Kei", "Ethereal", "Romantic AcademiaVanilla Girl", "Morute", "Coquette", "Gloomy Coquette"]
 primary_platform: ["Tumblr"]

@@ -4,6 +4,7 @@ slug: "diy-punk"
 aka: ["Punk Zine", "Xerox Punk", "Messthetics", "DIY"]
 decade_of_origin: "1970s"
 key_colours: ["Black", "White"]
+palette: ["#3F3C4C", "#F8F224", "#636969", "#282B30", "#9E9E93", "#C15B57"]
 related_aesthetics: ["Post-Punk", "Blogspot Scene", "Minimal Wave", "Industrial", "Brutalism", "Hardcore Punk", "Egg Punk", "Dada", "Cubism", "Nazi Chic"]
 source_url: "https://aesthetics.fandom.com/wiki/DIY_Punk"
 license: "CC-BY-SA-4.0"

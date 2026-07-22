@@ -4,6 +4,7 @@ slug: "hexatron"
 decade_of_origin: "2000s"
 key_motifs: ["Hexagons", "neon blue", "holograms", "terminal-inspired UIs", "androids", "carbons", "sharp angles", "robotics", "Abstract Tech", "dark surfaces/backgrounds"]
 key_colours: ["Neon blue", "black", "white", "red", "orange"]
+palette: ["#FFFEFF", "#333840", "#1B2736", "#0F131B", "#CFD4D3", "#748CA2"]
 related_aesthetics: ["★Abstract Tech", "Acidgrafix", "Avantropop", "Cassette Futurism", "Cyberpunk", "Dark Aero", "DORFic", "Flat Design", "Frutiger Aero", "Gen X Soft Club", "Geo-Boho", "Laser Grid", "Metalheart", "Monochrome Luxe", "Neo-Vectorheart", "Polychrome", "Robotcore", "Vectorheart", "Y2K Futurism"]
 related_media: ["Tron:Legacy"]
 source_url: "https://aesthetics.fandom.com/wiki/Hexatron"

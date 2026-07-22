@@ -5,6 +5,7 @@ aka: ["MyMelodycore"]
 decade_of_origin: "Early 2020s"
 key_motifs: ["My Melody character", "hearts", "ribbons", "lace", "sweet foods", "dreamlike imagery", "bows", "sparkles and glitter"]
 key_colours: ["Pastel pink", "white", "cream"]
+palette: ["#D6B2AB", "#6C5454", "#E3DDDE", "#B4A199", "#8D7B77", "#B28282"]
 key_values: ["Light femininity", "innocence", "cuteness (kawaii)", "romanticism", "comfort"]
 related_aesthetics: ["Babycore", "Girly Kei", "Kuromicore (counterpart)", "Sanriocore (parent)", "Larme Kei", "Soft Girl"]
 primary_platform: ["TikTok", "Instagram", "Japanese image boards"]

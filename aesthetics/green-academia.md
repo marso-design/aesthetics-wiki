@@ -5,6 +5,7 @@ aka: ["Botanic Academia", "Botanical Academia", "Earthy Academia", "Nature Acade
 decade_of_origin: "2020s"
 key_motifs: ["Books", "skulls", "fossils", "ink and quill"]
 key_colours: ["Shades of green", "cyan", "brown", "beige", "gold"]
+palette: ["#302924", "#151916", "#696D5C", "#3E4238", "#937F66", "#B7B2A6"]
 key_values: ["Curiosity", "education", "nature", "environmentalism"]
 related_aesthetics: ["Campcore", "Dark Academia", "Earthcore", "Light Academia", "Naturecore", "Plant Mom", "Vulture Culture"]
 source_url: "https://aesthetics.fandom.com/wiki/Green_Academia"

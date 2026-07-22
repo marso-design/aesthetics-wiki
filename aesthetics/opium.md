@@ -5,6 +5,7 @@ aka: ["Vamp", "00", "Opiumcore"]
 decade_of_origin: "2020s"
 key_motifs: ["Inverted crosses", "anarchy symbols", "bats", "vampires", "\"00\" branding", "infrared/thermal imagery", "heavy metal typography"]
 key_colours: ["Black", "blood red", "silver", "white"]
+palette: ["#090909", "#E3A382", "#24221F", "#5B564F", "#CCBDAC", "#C58F76"]
 key_values: ["Rebellion", "rockstar lifestyle", "exclusivity", "drug culture", "avant-garde experimentalism"]
 related_aesthetics: ["Archive", "Cyber Grunge", "Goreweb (subgenre)", "Haunted Mound", "Metalhead", "Post-Grunge Maximalism", "Vampire"]
 source_url: "https://aesthetics.fandom.com/wiki/Opium"

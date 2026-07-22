@@ -5,6 +5,7 @@ aka: ["Brat Aesthetic", "Barbie Bitch", "Bubblegum Bae", "Bubblegum Baddie", "Mc
 decade_of_origin: "2000s"
 key_motifs: ["Pink", "Barbie and Bratz dolls", "Hello Kitty", "sugar daddies/babies", "lollipops", "glitter", "hearts", "luxury and wealth", "makeup and fashion"]
 key_colours: ["Various shades of pink", "white", "violet"]
+palette: ["#A26C78", "#755D5D", "#A68687", "#38282D", "#DA589A", "#F8F1F7"]
 key_values: ["Self-confidence", "self-love", "self-expression", "friendship"]
 related_aesthetics: ["Baddie", "Barbiecore", "Bubblegum Coquette", "Cherry Emoji Twitter", "Femme Fatale", "McBling", "Bimbocore", "Cyber Stylin'"]
 related_media: ["Barbie", "Bratz"]

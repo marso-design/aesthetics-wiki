@@ -4,6 +4,7 @@ slug: "palewave"
 decade_of_origin: "Mid-2010s"
 key_motifs: ["Light-wash denim", "white sneakers", "loose fits", "basic tees", "minimalism"]
 key_colours: ["Light blue", "beige", "sand", "cream", "white", "grey", "pastel pink"]
+palette: ["#252924", "#BAB7B6", "#9D9C9A", "#868481", "#636B64", "#39453D"]
 key_values: ["Relaxed comfort", "minimalism", "subtlety"]
 related_aesthetics: ["Minimalism", "Normcore", "Vaporwave"]
 primary_platform: ["Reddit (r/streetwear)", "Tumblr"]

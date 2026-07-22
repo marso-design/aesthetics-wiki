@@ -5,6 +5,7 @@ aka: ["Unicorncore"]
 decade_of_origin: "Late 2010s"
 key_motifs: ["Unicorns", "rainbows", "glitter", "sparkles", "holographic textures", "pastel gradients", "galaxy prints"]
 key_colours: ["Pastel rainbow", "pink", "purple", "white", "iridescent silver"]
+palette: ["#F5C7F0", "#AD79A7", "#383A3F", "#A597B3", "#BEC9D8", "#F9F3F4"]
 key_values: ["Nostalgia", "escapism", "playfulness", "magic", "optimism"]
 related_aesthetics: ["Fairy Kei", "Galaxy Print", "Kawaii", "Pastel Goth", "Yume Kawaii"]
 primary_platform: ["Instagram", "Pinterest"]

@@ -5,6 +5,7 @@ aka: ["Theatrical Academia"]
 decade_of_origin: "2010s"
 key_motifs: ["Old buildings", "literature"]
 key_colours: ["Gold", "red", "black", "grey", "white"]
+palette: ["#D9CBC4", "#36281E", "#0B0808", "#6E5D4A", "#5B4431", "#9B8873"]
 key_values: ["Cultural wisdom", "dramaturgy"]
 related_aesthetics: ["Art Academia", "Ballet", "Dark Academia", "Light Academia", "Romantic Academia"]
 source_url: "https://aesthetics.fandom.com/wiki/Theatre_Academia"

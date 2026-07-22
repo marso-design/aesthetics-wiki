@@ -5,6 +5,7 @@ aka: ["Rock Revival Style", "Butt-Rock Maximalism", "Affliction-core", "Ed Hardy
 decade_of_origin: "2000s"
 key_motifs: ["Skulls", "crosses", "wings", "eagles", "gothic script", "tribal patterns", "heavy distressing", "foil prints", "rhinestones"]
 key_colours: ["Muted colors (grey, brown, black)", "often with bright", "colorful graphics"]
+palette: ["#1F1E1E", "#080809", "#E1D5CB", "#3E2E2E", "#938F8A", "#454545"]
 key_values: ["Hyper-masculinity", "rebellion", "rock music culture", "luxury branding"]
 related_aesthetics: ["Bro Hoe", "Cyber Grunge", "Cybersigilism", "Guido", "Haunted Mound", "McBling", "Nu-Metal", "Olderbrothercore", "Opium", "UrBling", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/Post-Grunge_Maximalism"

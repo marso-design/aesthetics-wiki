@@ -4,6 +4,7 @@ slug: "junkpunk"
 aka: ["Salvagepunk", "Scavenged Punk", "Scrappunk"]
 decade_of_origin: "2010s"
 related_aesthetics: ["Avant Apocalypse", "Post-Apocalyptic", "Soft Apocalypse", "Hip-Hop", "Post-Punk", "Steampunk", "Cyberpunk", "Surrealism", "Hauntology"]
+palette: ["#EADCC9", "#1E1D1C", "#AFA89B", "#37322C", "#8C7963", "#544C41"]
 source_url: "https://aesthetics.fandom.com/wiki/Junkpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"

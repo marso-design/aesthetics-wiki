@@ -5,6 +5,7 @@ aka: ["Internet Rap", "Ironic Rap"]
 decade_of_origin: "2010s"
 key_motifs: ["Mascots with weapons/tattoos", "East-Asian products", "lo-fi digital editing", "internet memes", "children's show themes"]
 key_colours: ["Neon accents", "saturated primary colors"]
+palette: ["#E8A29D", "#0F1C4B", "#5D2C4B", "#67B6F1", "#F4DC9D", "#F8F3EB"]
 key_values: ["Virality", "novelty", "irony", "shock value", "DIY ethos"]
 related_aesthetics: ["Bastardcore", "Deep Fried Meme", "Epunk", "Gangsta Rap", "Nerdcore", "Trap Metal", "Vaporwave"]
 primary_platform: ["SoundCloud", "YouTube", "Roblox"]

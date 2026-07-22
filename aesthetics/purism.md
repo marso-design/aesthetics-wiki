@@ -4,6 +4,7 @@ slug: "purism"
 decade_of_origin: "c. 1918–1925"
 key_motifs: ["Everyday objects (bottles, glasses, pipes)", "machine-like precision", "clean outlines", "simplified geometric forms", "architectonic compositions"]
 key_colours: ["Subdued", "flat colors; often earthy tones like ochre", "brown", "green", "and gray"]
+palette: ["#46231F", "#CDC6B6", "#201D1C", "#8D9485", "#3E4340", "#797162"]
 key_values: ["Order", "rationality", "precision", "universality", "functionalism", "rejection of ornament", "\"the machine aesthetic\""]
 related_aesthetics: ["Cubism", "Constructivism", "De Stijl", "Modernism", "Precisionism"]
 primary_platform: ["L'Esprit Nouveau (journal)"]

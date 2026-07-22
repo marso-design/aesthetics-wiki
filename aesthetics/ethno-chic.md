@@ -5,6 +5,7 @@ aka: ["Ethnic Chic"]
 decade_of_origin: "1960s"
 key_motifs: ["Global textiles", "handcrafted objects", "natural materials", "cultural patterns"]
 key_colours: ["Warm earth tones", "jewel tones", "black", "white"]
+palette: ["#63311A", "#2C1B14", "#715D4A", "#C3B1A3", "#A49B8E", "#E2DAD0"]
 key_values: ["Cultural appreciation", "eclecticism", "storytelling"]
 related_aesthetics: ["Art Hoe", "Bohemian", "Earth Tones", "Hippie", "Rustic", "Safari Chic"]
 source_url: "https://aesthetics.fandom.com/wiki/Ethno-Chic"

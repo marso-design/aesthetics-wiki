@@ -5,6 +5,7 @@ aka: ["Young Urban Professional"]
 decade_of_origin: "1980s"
 key_motifs: ["Power suits", "Rolex watches", "Filofax organizers", "brick-sized mobile phones", "luxury European cars (BMW, Saab)", "gourmet food (brie, sun-dried tomatoes)"]
 key_colours: ["Navy blue", "charcoal grey", "white", "khaki", "red (power ties/suspenders)"]
+palette: ["#161012", "#493E39", "#282727", "#555756", "#DAD2CC", "#BBAC9F"]
 key_values: ["Ambition", "materialism", "careerism", "consumerism", "self-improvement", "status", "professionalism"]
 related_aesthetics: ["Corpcore", "Power Dressing", "Preppy", "New Money", "Sloanie"]
 related_media: ["The Bonfire of the Vanities", "Wall Street", "American Psycho", "Bright Lights", "Big City"]

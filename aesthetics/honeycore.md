@@ -3,6 +3,7 @@ name: "Honeycore"
 slug: "honeycore"
 aka: ["Beecore"]
 key_colours: ["Yellow", "gold", "brown", "beige", "white", "green"]
+palette: ["#DED4CA", "#9B622B", "#614127", "#A88B68", "#CABDAD", "#FDEEB5"]
 related_aesthetics: ["Cottagecore", "Witchcore", "Foodie", "Comfy/Cozy", "DORFic"]
 related_media: ["Winnie the Pooh", "Bee Movie"]
 source_url: "https://aesthetics.fandom.com/wiki/Honeycore"

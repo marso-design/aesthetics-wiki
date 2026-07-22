@@ -5,6 +5,7 @@ aka: ["Country Coquette", "Farm Girl", "Farmer Girl"]
 decade_of_origin: "Late 2010s-early 2020s"
 key_motifs: ["Rural America", "female sexuality"]
 key_colours: ["Red", "white", "blue", "natural colors and light pastels"]
+palette: ["#D4CCBD", "#121618", "#99A184", "#516371", "#958376", "#7F6552"]
 related_aesthetics: ["Buckle Bunny", "Coquette", "Cottagecore", "Country", "Preacher's Daughter", "Southern Gothic", "Tomato Girl Summer", "Trailer Park Princess"]
 related_media: ["X (2022)", "Pearl (2022)"]
 source_url: "https://aesthetics.fandom.com/wiki/Farmer's_Daughter"

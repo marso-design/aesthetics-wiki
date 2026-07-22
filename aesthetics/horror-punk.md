@@ -5,6 +5,7 @@ aka: ["Fiendcore (referencing The Misfits' Fiend Skull)"]
 decade_of_origin: "Late 1970s / Early 1980s"
 key_motifs: ["Classic monsters (Frankenstein, vampires, zombies, mummies, werewolves)", "skulls", "devilocks", "graveyards", "mad scientists", "B-movie sci-fi", "gore (often stylized/campy)", "apocalyptic imagery", "occult symbols (sometimes)"]
 key_colours: ["Black", "red", "purple", "white (often sickly pale)", "green (for monster imagery)"]
+palette: ["#88716C", "#525A52", "#AEAAA4", "#09090A", "#322E2E", "#1D1A1B"]
 key_values: ["Rebellion", "outsider status", "macabre humor", "shock value", "independence"]
 related_aesthetics: ["B-Movie Horror", "Camp", "Deathrock", "Goth", "Gothic", "Halloween", "Horror", "Kitsch", "Punk", "Psychobilly", "Rockabilly", "Vampire", "Zombie Apocalypse"]
 related_media: ["Classic horror films (e.g., Universal Monsters, Hammer Films)", "B-movies", "horror comics (e.g., EC Comics)"]

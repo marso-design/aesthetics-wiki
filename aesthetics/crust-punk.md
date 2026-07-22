@@ -4,6 +4,7 @@ slug: "crust-punk"
 aka: ["Crust", "Stretchcore"]
 decade_of_origin: "Early 1980’s"
 related_aesthetics: ["Gutter Punk", "Punk", "Grunge"]
+palette: ["#050506", "#6A6B75", "#5C5A5F", "#47474B", "#222122", "#7F808D"]
 source_url: "https://aesthetics.fandom.com/wiki/Crust_Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
