@@ -11,7 +11,6 @@ related_aesthetics: ["Art Hoe", "Coconut Girl", "Frutiger Aero", "McBling", "Poo
 source_url: "https://aesthetics.fandom.com/wiki/Surf_Crush"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 69
 ---
 
 # Surf Crush
@@ -182,78 +181,6 @@ Surf crush aesthetic outfits, summer outfits & yaz giysileri
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ **Surf Crush** ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/surf-crush/2004.png`
-- `images/surf-crush/VUXXXXXI.jpg`
-- `images/surf-crush/Hoku.jpg`
-- `images/surf-crush/Lohan.jpg`
-- `images/surf-crush/Ksten.jpeg`
-- `images/surf-crush/Shesellsseashells.png`
-- `images/surf-crush/2003mag.jpeg`
-- `images/surf-crush/Beach.jpg`
-- `images/surf-crush/TheOCposter.jpeg`
-- `images/surf-crush/RidingGiants.jpeg`
-- `images/surf-crush/Riding-Giants-2004.jpeg`
-- `images/surf-crush/Hpattern.jpeg`
-- `images/surf-crush/Hawaiian-floral-wallpaper.jpeg`
-- `images/surf-crush/Lizzieethan.jpeg`
-- `images/surf-crush/HolidaySun.jpeg`
-- `images/surf-crush/Puka1.jpeg`
-- `images/surf-crush/H200.jpeg`
-- `images/surf-crush/MTVpowerz.jpeg`
-- `images/surf-crush/Printerz.jpeg`
-- `images/surf-crush/Meeno.jpeg`
-- `images/surf-crush/TRL03.jpeg`
-- `images/surf-crush/BILLABONG22.jpeg`
-- `images/surf-crush/NokiaSurf.png`
-- `images/surf-crush/KellyS.png`
-- `images/surf-crush/Kuu2.jpg`
-- `images/surf-crush/Boat22.jpeg`
-- `images/surf-crush/King22.jpeg`
-- `images/surf-crush/Bluedressssssssss.jpeg`
-- `images/surf-crush/OrangeHAT.png`
-- `images/surf-crush/SurfXX.jpeg`
-- `images/surf-crush/OC22.jpeg`
-- `images/surf-crush/Zurtu.jpeg`
-- `images/surf-crush/Nails22.jpeg`
-- `images/surf-crush/Surfs-up.jpg`
-- `images/surf-crush/Bluezz.jpeg`
-- `images/surf-crush/Seu.jpeg`
-- `images/surf-crush/Surz.jpeg`
-- `images/surf-crush/51U2oMEjzqL.jpg`
-- `images/surf-crush/Coo33.png`
-- `images/surf-crush/Buzzzy.jpeg`
-- `images/surf-crush/Dellman.jpeg`
-- `images/surf-crush/Shellbeach.jpeg`
-- `images/surf-crush/Pepsi22.jpeg`
-- `images/surf-crush/HaileyB.jpeg`
-- `images/surf-crush/Flv1.jpg`
-- `images/surf-crush/06D51A9D-F36E-4E2B-B8CB-B22B229B1512.jpeg`
-- `images/surf-crush/Breete.jpeg`
-- `images/surf-crush/Dew2.png`
-- `images/surf-crush/Volley.jpg`
-- `images/surf-crush/Trento.jpeg`
-- `images/surf-crush/Greeny.jpg`
-- `images/surf-crush/BUZZObeach.jpeg`
-- `images/surf-crush/Colla.png`
-- `images/surf-crush/P0.jpg`
-- `images/surf-crush/Beacher.jpg`
-- `images/surf-crush/Lagooni.jpeg`
-- `images/surf-crush/Myspo222.jpeg`
-- `images/surf-crush/SURY.jpeg`
-- `images/surf-crush/Zeno.jpeg`
-- `images/surf-crush/BLUERSURFZ.jpeg`
-- `images/surf-crush/Lola22.jpg`
-- `images/surf-crush/214f09685ed85289ae5bb0c8c80f695e.jpg`
-- `images/surf-crush/Juliasurf.jpg`
-- `images/surf-crush/Muholl.jpg`
-- `images/surf-crush/Lighsurf.jpg`
-- `images/surf-crush/7cc9f3d12b87137c9c77afbb4fc0c47b.jpg`
-- `images/surf-crush/Zendaya.jpg`
-- `images/surf-crush/PW160.jpg`
-- `images/surf-crush/Greenz.jpg`
-
 ## Source and attribution
 
-Text adapted from "Surf Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Surf_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Surf Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Surf_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ related_aesthetics: ["Wei and Jin Dynasties"]
 source_url: "https://aesthetics.fandom.com/wiki/Shenxian-fu"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Shenxian-fu
@@ -57,29 +56,6 @@ Designed by 衔泥小筑
 
 Designed by 衔泥小筑
 
-## Images
-
-- `images/shenxian-fu/Shenxianfu-4.webp`
-- `images/shenxian-fu/ShenxianFu-OriginLuoShenFuTu.jpeg`
-- `images/shenxian-fu/ShenxianFu-OriginFahaiTempleMural.jpeg`
-- `images/shenxian-fu/ShenxianFu-OriginChangEPackage.jpeg`
-- `images/shenxian-fu/ShenxianFu-OriginJourneyToWestTV.jpeg`
-- `images/shenxian-fu/ShenxianFu-OriginWeiJinFashion.jpeg`
-- `images/shenxian-fu/Shenxianfu-1.jpeg`
-- `images/shenxian-fu/Shenxianfu-2.jpeg`
-- `images/shenxian-fu/Shenxianfu-3.jpeg`
-- `images/shenxian-fu/Shenxianfu-5.jpeg`
-- `images/shenxian-fu/Shenxianfu-8.webp`
-- `images/shenxian-fu/Shenxianfu-6.webp`
-- `images/shenxian-fu/Shenxianfu-7.jpeg`
-- `images/shenxian-fu/Shenxianfu-9.jpeg`
-- `images/shenxian-fu/Shenxianfu-10.jpeg`
-- `images/shenxian-fu/Shenxianfu-11.jpeg`
-- `images/shenxian-fu/ShenxianFu-12.jpeg`
-- `images/shenxian-fu/ShenxianFu-13.jpeg`
-- `images/shenxian-fu/ShenxianFu-XianNiXiaoZhu.jpeg`
-- `images/shenxian-fu/ShenxianFu-XianNiXiaoZhu1.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Shenxian-fu" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shenxian-fu), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Shenxian-fu" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shenxian-fu), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ primary_platform: ["DeviantArt", "MySpace", "Facebook"]
 source_url: "https://aesthetics.fandom.com/wiki/Welwitschia_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Welwitschia Goth
@@ -213,18 +212,6 @@ Concept art for "Trick or' Treat"- a scrapped film by Tim Burton
 
 ## References
 
-## Images
-
-- `images/welwitschia-goth/Hiiiiiiiii.png`
-- `images/welwitschia-goth/7195746815009000750.jpg`
-- `images/welwitschia-goth/Dollllllllll.jpg`
-- `images/welwitschia-goth/Butterf;yyyy.jpg`
-- `images/welwitschia-goth/32203617.jpeg`
-- `images/welwitschia-goth/Wp10200689-black-goth-girl-wallpapers.jpeg`
-- `images/welwitschia-goth/Wp12789130.jpeg`
-- `images/welwitschia-goth/167095.jpeg`
-- `images/welwitschia-goth/Wp10200790-black-goth-girl-wallpapers.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Welwitschia Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Welwitschia_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Welwitschia Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Welwitschia_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

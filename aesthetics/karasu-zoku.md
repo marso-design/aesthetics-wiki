@@ -11,7 +11,6 @@ related_aesthetics: ["Nu-Goth", "Goth"]
 source_url: "https://aesthetics.fandom.com/wiki/Karasu_Zoku"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Karasu Zoku
@@ -69,10 +68,6 @@ Not only black-based designer brands, but also DC brands, which are casual and e
 
 ## Gallery
 
-## Images
-
-- `images/karasu-zoku/BEAMS（ビームス）公式サイト.jpg`
-
 ## Source and attribution
 
-Text adapted from "Karasu Zoku" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Karasu_Zoku), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Karasu Zoku" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Karasu_Zoku), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Strawberry Shortcake series (influence)"]
 source_url: "https://aesthetics.fandom.com/wiki/Strawberry_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Strawberry Girl
@@ -59,29 +58,6 @@ The Strawberry Girl trend, along with other food-related "[girl](https://aesthet
 | --- | --- | --- |
 | [Aliyahcore](https://aesthetics.fandom.com/wiki/Aliyahcore "Aliyahcore") • [Avant Basic](https://aesthetics.fandom.com/wiki/Avant_Basic "Avant Basic") • [Barbiecore](https://aesthetics.fandom.com/wiki/Barbiecore "Barbiecore") • [Blokecore](https://aesthetics.fandom.com/wiki/Blokecore "Blokecore") • [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") • [Blueberry Girl](https://aesthetics.fandom.com/wiki/Blueberry_Girl "Blueberry Girl") • [Brat Summer](https://aesthetics.fandom.com/wiki/Brat_Summer "Brat Summer") • [Brazilian Bombshell](https://aesthetics.fandom.com/wiki/Brazilian_Bombshell "Brazilian Bombshell") • [Brazilcore](https://aesthetics.fandom.com/wiki/Brazilcore "Brazilcore") • [Cacareco Girl](https://aesthetics.fandom.com/wiki/Cacareco_Girl "Cacareco Girl") • [Cayetana](https://aesthetics.fandom.com/wiki/Cayetana "Cayetana") • [Cinnamon Girl](https://aesthetics.fandom.com/wiki/Cinnamon_Girl "Cinnamon Girl") • [Christian Girl Autumn](https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn "Christian Girl Autumn") • [Clean Girl](https://aesthetics.fandom.com/wiki/Clean_Girl "Clean Girl") • [Coastal Cowgirl](https://aesthetics.fandom.com/wiki/Coastal_Cowgirl "Coastal Cowgirl") • [Coastal Grandmother](https://aesthetics.fandom.com/wiki/Coastal_Grandmother "Coastal Grandmother") • [Dopamine Dressing](https://aesthetics.fandom.com/wiki/Dopamine_Dressing "Dopamine Dressing") • [Earthy Black Girl](https://aesthetics.fandom.com/wiki/Earthy_Black_Girl "Earthy Black Girl") • [Eclectic Grandpa](https://aesthetics.fandom.com/wiki/Eclectic_Grandpa "Eclectic Grandpa") • [Female Horror Game Protagonist Fashion](https://aesthetics.fandom.com/wiki/Female_Horror_Game_Protagonist_Fashion "Female Horror Game Protagonist Fashion") • [Frazzled English Woman](https://aesthetics.fandom.com/wiki/Frazzled_English_Woman "Frazzled English Woman") • [Girl Suffix](https://aesthetics.fandom.com/wiki/Category:Girl "Category:Girl") • [Granola Girl](https://aesthetics.fandom.com/wiki/Granola_Girl "Granola Girl") • [Grocery Girl Fall](https://aesthetics.fandom.com/wiki/Grocery_Girl_Fall "Grocery Girl Fall") • [Lulicore](https://aesthetics.fandom.com/wiki/Lulicore "Lulicore") • [Maillard Style](https://aesthetics.fandom.com/wiki/Maillard_Style "Maillard Style") • [Mermaidcore](https://aesthetics.fandom.com/wiki/Mermaidcore "Mermaidcore") • [Mob Wife](https://aesthetics.fandom.com/wiki/Mob_Wife "Mob Wife") • [Office Siren](https://aesthetics.fandom.com/wiki/Office_Siren "Office Siren") • [Peach Girl](https://aesthetics.fandom.com/wiki/Peach_Girl "Peach Girl") • [Pearlcore](https://aesthetics.fandom.com/wiki/Pearlcore "Pearlcore") • [Plazacore](https://aesthetics.fandom.com/wiki/Plazacore "Plazacore") • [Sad Beige](https://aesthetics.fandom.com/wiki/Sad_Beige "Sad Beige") • [Scandi Girl Winter](https://aesthetics.fandom.com/wiki/Scandi_Girl_Winter "Scandi Girl Winter") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • **Strawberry Girl** • [Succubus Chic](https://aesthetics.fandom.com/wiki/Succubus_Chic "Succubus Chic") • [Tenniscore](https://aesthetics.fandom.com/wiki/Tenniscore "Tenniscore") • [That Girl](https://aesthetics.fandom.com/wiki/That_Girl "That Girl") • [Tomato Girl](https://aesthetics.fandom.com/wiki/Tomato_Girl "Tomato Girl") • [Tumbette](https://aesthetics.fandom.com/wiki/Tumbette "Tumbette") • [Vanilla Girl](https://aesthetics.fandom.com/wiki/Vanilla_Girl "Vanilla Girl") |
 
-## Images
-
-- `images/strawberry-girl/E1d99da25b95b31c7698bd71cb8fe5a4.jpg`
-- `images/strawberry-girl/Fd5230a70c8df565a029444b4801771f.jpg`
-- `images/strawberry-girl/Fdff514325ff6c2f6339f272ca73175a.jpg`
-- `images/strawberry-girl/32fa553ac694e0b519f900c29e6fff2b.jpg`
-- `images/strawberry-girl/1e71d62273b4850013eaf62773fee81a.jpg`
-- `images/strawberry-girl/9b28dc6842aa4c3ca2d94d7d510ec3c1.jpg`
-- `images/strawberry-girl/E78e58376953bba17987e2afb682f9fb.jpg`
-- `images/strawberry-girl/B1b67e97bf519f52c407667d39d50f88.jpg`
-- `images/strawberry-girl/Eddbfdd933a8b5d220207d547c4c0ae3.jpg`
-- `images/strawberry-girl/C071b7cc61cea4eb2e6d3b425296088f.jpg`
-- `images/strawberry-girl/59e97146ab3708d1ca9f62a88cc563e1.jpg`
-- `images/strawberry-girl/1f21dfb5ab1faa7b62badf58d54dde94.jpg`
-- `images/strawberry-girl/49f5631cf4636799fea52c3c21f56e82.jpg`
-- `images/strawberry-girl/F3518f725565b11deada131464dcea7a.jpg`
-- `images/strawberry-girl/B7464ebed57edfe703a16f1e71ef2bf9.jpg`
-- `images/strawberry-girl/C1f412a6238f0941b2b3d9f10a7f9973.jpg`
-- `images/strawberry-girl/Straw.jpg`
-- `images/strawberry-girl/116be1f363c0fc02226e30add763f9d5.jpg`
-- `images/strawberry-girl/7521fed88e488b8f47fda8244ab598b6.jpg`
-- `images/strawberry-girl/45d706c23a515f7115426ea922c03ad0.jpg`
-
 ## Source and attribution
 
-Text adapted from "Strawberry Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Strawberry_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Strawberry Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Strawberry_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

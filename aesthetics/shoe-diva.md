@@ -11,7 +11,6 @@ related_aesthetics: ["Curly Girly", "McBling", "Parisian Girly", "Vectordelia"]
 source_url: "https://aesthetics.fandom.com/wiki/Shoe_Diva"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Shoe Diva
@@ -133,16 +132,6 @@ File:Shoe Diva Imagine.jpg|*Imagine Fashion Designer New York, Nintendo DS game*
 
 ## References
 
-## Images
-
-- `images/shoe-diva/Carrieshopping.jpg`
-- `images/shoe-diva/Shopaholicfits.jpg`
-- `images/shoe-diva/Minishopaholiccover.jpg`
-- `images/shoe-diva/Lookexpensiveguide.jpg`
-- `images/shoe-diva/Skinnygirl.jpg`
-- `images/shoe-diva/Chickensaladchick.png`
-- `images/shoe-diva/Bathshoeillustration.jpg`
-
 ## Source and attribution
 
-Text adapted from "Shoe Diva" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shoe_Diva), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Shoe Diva" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shoe_Diva), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

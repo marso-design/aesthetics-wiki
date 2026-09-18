@@ -9,7 +9,6 @@ palette: ["#A0BADF", "#626E55", "#322B28", "#191212", "#AF9B86", "#8A6F5F"]
 source_url: "https://aesthetics.fandom.com/wiki/Gulf_Futurism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Gulf Futurism
@@ -62,16 +61,6 @@ Concept art of the spice harvester in the *Dune* movies
 
 ## References
 
-## Images
-
-- `images/gulf-futurism/GulfFuturism-SophiaAlMariaFutureTents.webp`
-- `images/gulf-futurism/GulfFuturism-KuwaitWaterTowers.webp`
-- `images/gulf-futurism/GulfFuturism-MoniraAlQadiriTheCraft.webp`
-- `images/gulf-futurism/GulfFuturism-MoniraAlQadiriAlienTechnology.webp`
-- `images/gulf-futurism/GulfFuturism-NewAdministrativeCapitalEgypt.jpg`
-- `images/gulf-futurism/GulfFuturism-NeomTheLine.png`
-- `images/gulf-futurism/GulfFuturism-DuneSpiceHarvester.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gulf Futurism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gulf_Futurism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gulf Futurism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gulf_Futurism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

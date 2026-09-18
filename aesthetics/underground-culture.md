@@ -5,7 +5,6 @@ palette: ["#393939", "#0A0A0A", "#232323", "#B1B1B1", "#606060", "#E1E1E1"]
 source_url: "https://aesthetics.fandom.com/wiki/Underground_Culture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Underground Culture
@@ -105,10 +104,6 @@ Here's a list of other things that can be broadly considered underground, keepin
 
 ## References
 
-## Images
-
-- `images/underground-culture/TheBatcave.jpg`
-
 ## Source and attribution
 
-Text adapted from "Underground Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Underground_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Underground Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Underground_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

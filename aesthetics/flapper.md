@@ -9,7 +9,6 @@ related_aesthetics: ["Americana", "Art Deco", "Electro Swing", "Garçonne", "Mod
 source_url: "https://aesthetics.fandom.com/wiki/Flapper"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Flapper
@@ -222,26 +221,6 @@ Flappers have KNEES!
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/flapper/Flapper-2.jpg`
-- `images/flapper/Flapper-1.jpg`
-- `images/flapper/Flapper-3.jpg`
-- `images/flapper/Flapper-4-zelda-fitzgerald.jpg`
-- `images/flapper/Flapper-5-clara-bow.jpg`
-- `images/flapper/Flapper-6-colleen-moore.jpg`
-- `images/flapper/Flapper-7-louise-brooks.jpg`
-- `images/flapper/Flapper-10-louise-brooks.jpg`
-- `images/flapper/Flapper-8-mary-pickford.jpg`
-- `images/flapper/Flapper-9.jpg`
-- `images/flapper/87bd647c4270336f3fba6fe26feba657.png`
-- `images/flapper/Taylor-Swift-Dance-Moves.jpg`
-- `images/flapper/Flapper-11-anna-may-wong.jpg`
-- `images/flapper/High-school-flappers.jpg`
-- `images/flapper/Flapper-life-feb-1926.jpg`
-- `images/flapper/Flapper-magazine.png`
-- `images/flapper/Flapper-knees.jpg`
-
 ## Source and attribution
 
-Text adapted from "Flapper" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Flapper), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Flapper" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Flapper), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

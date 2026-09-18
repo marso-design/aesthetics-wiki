@@ -12,7 +12,6 @@ related_media: ["Good Bye", "Lenin!", "Sonnenallee", "documentaries on GDR life"
 source_url: "https://aesthetics.fandom.com/wiki/Ostalgie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Ostalgie
@@ -140,20 +139,6 @@ Room decorated in East German style. Photo: Hannibal Hanschke / Reuters
 
 ## References
 
-## Images
-
-- `images/ostalgie/OstalgieSouvenirs.jpg`
-- `images/ostalgie/DDRShirts.jpg`
-- `images/ostalgie/Ostel.jpg`
-- `images/ostalgie/TrafficLightsOstalgie.jpg`
-- `images/ostalgie/Club-Cola.jpg`
-- `images/ostalgie/Juwel.jpg`
-- `images/ostalgie/Süsses.jpeg`
-- `images/ostalgie/OstalgieBerlin.jpg`
-- `images/ostalgie/EastGermanStuffBerlin.png`
-- `images/ostalgie/EastGermanProducts.webp`
-- `images/ostalgie/OstalgieRoom.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ostalgie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ostalgie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ostalgie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ostalgie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

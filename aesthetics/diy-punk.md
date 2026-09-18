@@ -9,7 +9,6 @@ related_aesthetics: ["Post-Punk", "Blogspot Scene", "Minimal Wave", "Industrial"
 source_url: "https://aesthetics.fandom.com/wiki/DIY_Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # DIY Punk
@@ -46,14 +45,6 @@ Siouxsie and the Banshees poster
 
 Buzzcocks - Orgasm Addict (1979)
 
-## Images
-
-- `images/diy-punk/BadBrainsReagan.jpg`
-- `images/diy-punk/Godsavethequeen.jpg`
-- `images/diy-punk/Siouxsie1.webp`
-- `images/diy-punk/Buzzcocksorgasmaddictedit.jpg`
-- `images/diy-punk/006pilagent.jpg`
-
 ## Source and attribution
 
-Text adapted from "DIY Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/DIY_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "DIY Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/DIY_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

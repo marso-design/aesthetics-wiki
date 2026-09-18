@@ -12,7 +12,6 @@ related_media: ["Red Dead Redemption", "Old Western films"]
 source_url: "https://aesthetics.fandom.com/wiki/Western"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 35
 ---
 
 # Western
@@ -341,44 +340,6 @@ Martha Jane Cannary, aka "Calamity Jane"
 
 Butch Cassidy's Wild Bunch
 
-## Images
-
-- `images/western/Little-sure-shot-annie-oakley.jpg`
-- `images/western/Showdown2.jpg`
-- `images/western/Cassidy1.png`
-- `images/western/DocHolliday.jpg`
-- `images/western/WesternShowdown.jpg`
-- `images/western/BootsWithSpurs.jpg`
-- `images/western/PokerWildWest.jpg`
-- `images/western/CalamityJane.jpg`
-- `images/western/Parlorgirls1.jpg`
-- `images/western/Music-hall-dancers.jpg`
-- `images/western/WildBunch.jpg`
-- `images/western/Saloon1.jpg`
-- `images/western/WesternAesthTown1.jpg`
-- `images/western/WagonWheenScene.jpg`
-- `images/western/Western-aesthetic-1.jpg`
-- `images/western/Stagecoach1.jpg`
-- `images/western/Longhorn2.jpg`
-- `images/western/Cowgirls1.jpg`
-- `images/western/CowboyPainting1.jpg`
-- `images/western/Rodeo1.jpg`
-- `images/western/Arthurmorganonhorse.png`
-- `images/western/SunsetWesternAesth1.png`
-- `images/western/Canyon-de-Chelly.jpg`
-- `images/western/Johnfordpoint.png`
-- `images/western/Canyondechelly.jpg`
-- `images/western/Burning-Sunset-.jpg`
-- `images/western/Transpecosnearbigbend.jpg`
-- `images/western/1017250-bison-in-grand-teton-national-park.jpg`
-- `images/western/Vallescaldera.png`
-- `images/western/Ride-into-sunset.jpg`
-- `images/western/Cowboy3.jpg`
-- `images/western/Boots-and-Spurs.jpg`
-- `images/western/AnnieOakley2.jpg`
-- `images/western/JohnWayneElDorado.jpg`
-- `images/western/DeadwoodSD.png`
-
 ## Source and attribution
 
-Text adapted from "Western" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Western), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Western" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Western), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

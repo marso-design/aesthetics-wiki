@@ -11,7 +11,6 @@ related_media: ["Def Jam Recordings"]
 source_url: "https://aesthetics.fandom.com/wiki/UrBling"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 26
 ---
 
 # UrBling
@@ -317,35 +316,6 @@ Newgrounds Website
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ **UrBling** ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/urbling/9029d327c30cddbaa941a297997b9ba9.jpg`
-- `images/urbling/C3deea690693016e9b1e24307420836d.jpg`
-- `images/urbling/Cooltv.png`
-- `images/urbling/6248f7d53dc56d750284a9d384b14e60.jpg`
-- `images/urbling/Shadow2005.jpg`
-- `images/urbling/56227572.png`
-- `images/urbling/1645128994010.png`
-- `images/urbling/Apb-header.jpg`
-- `images/urbling/B93bc20b72be289e5e24b46c07541923.jpg`
-- `images/urbling/Itnsitnsitnsitnsitns.png`
-- `images/urbling/673737.jpg`
-- `images/urbling/1668379667881756.png`
-- `images/urbling/G4tv.png`
-- `images/urbling/GpTABEYTbmqPLpTvHRnGbg3WGkTmSbdddbYAXqcbn5A.webp`
-- `images/urbling/Ccentral.png`
-- `images/urbling/Static-assets-upload16922930420061275757.png`
-- `images/urbling/Hayner.png`
-- `images/urbling/Loadingbay.jpg`
-- `images/urbling/71f7c51e8522a3c4e6172efd31dfa02c.jpg`
-- `images/urbling/8bfefa973205f07b445614c54fb73bbd.jpg`
-- `images/urbling/D7115c295120431acd57a917ae727671.jpg`
-- `images/urbling/Vince-staples-vicoden.jpg`
-- `images/urbling/58754eeb5df2047a3019cb87f808b47c.jpg`
-- `images/urbling/JoeTV.png`
-- `images/urbling/Dark-by-design-candyman-Cover-Art.jpg`
-- `images/urbling/2e4d93f50c450bdbf364bf79507e4c3e.jpg`
-
 ## Source and attribution
 
-Text adapted from "UrBling" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/UrBling), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "UrBling" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/UrBling), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ palette: ["#FCFAFA", "#578E56", "#672D57", "#B4BCB2", "#F1342F", "#E9E3D9"]
 source_url: "https://aesthetics.fandom.com/wiki/Vectorheart"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Vectorheart
@@ -133,23 +132,6 @@ Squarepusher - My Red Hot Car
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ **Vectorheart** ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/vectorheart/Mc-202.jpg`
-- `images/vectorheart/Wip3out.jpg`
-- `images/vectorheart/Miku2010.png`
-- `images/vectorheart/Slazenation1999.png`
-- `images/vectorheart/Computererror.png`
-- `images/vectorheart/Osloathletico.png`
-- `images/vectorheart/Computerlove2003.png`
-- `images/vectorheart/DeltaIDNProIconography2002.png`
-- `images/vectorheart/RezInfinitescreenshot.jpeg`
-- `images/vectorheart/Goodtek.jpg`
-- `images/vectorheart/HardstyleDisco.jpg`
-- `images/vectorheart/EyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMjEyMjMxNy9vcmlnaW5hbF9hNDIxZjgxNjJhNzcxNTAwMDYxMmM1YTA2MDJiZWE4ZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjI0MDAsImhlaWdodCI6MjQwMCwiZml0IjoiaW5zaWR.webp`
-- `images/vectorheart/Ultimatehardcoreuk.jpg`
-- `images/vectorheart/DieselboySystemUpgrade.png`
-
 ## Source and attribution
 
-Text adapted from "Vectorheart" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vectorheart), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vectorheart" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vectorheart), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

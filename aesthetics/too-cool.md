@@ -11,7 +11,6 @@ related_aesthetics: ["Cottagecore", "Frutiger Aero", "Romantic Chinese Village",
 source_url: "https://aesthetics.fandom.com/wiki/Too_Cool"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Too Cool
@@ -68,19 +67,6 @@ Too Cool has begun to influence mainstream fashion trends in China. Designers li
 
 ## References
 
-## Images
-
-- `images/too-cool/TooCool.png`
-- `images/too-cool/Public.webp`
-- `images/too-cool/TooCool2.png`
-- `images/too-cool/7-1609835924.jpeg`
-- `images/too-cool/Toocool.jpg`
-- `images/too-cool/Toocool8.jpg`
-- `images/too-cool/D006c06615890214a5792b3f46857e241866d85e-1852x1080.jpg`
-- `images/too-cool/File-1468318096.jpg`
-- `images/too-cool/File-1467984074.jpg`
-- `images/too-cool/TooCool3.png`
-
 ## Source and attribution
 
-Text adapted from "Too Cool" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Too_Cool), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Too Cool" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Too_Cool), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

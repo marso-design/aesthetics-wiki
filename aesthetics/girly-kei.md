@@ -10,7 +10,6 @@ related_aesthetics: ["Dollcore", "French Girly", "Gyaru", "Jirai Kei", "Kawaii",
 source_url: "https://aesthetics.fandom.com/wiki/Girly_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Girly Kei
@@ -109,24 +108,6 @@ Himekaji is a term created by the Western community to describe the style of sub
 
 ## References
 
-## Images
-
-- `images/girly-kei/Noemie2.png`
-- `images/girly-kei/J3.png`
-- `images/girly-kei/J10.png`
-- `images/girly-kei/Himekaji56.jpg`
-- `images/girly-kei/Girly01.jpg`
-- `images/girly-kei/Girlykeifilterdump.png`
-- `images/girly-kei/738c838fc87a312feaf29f53a6d1403a.jpg`
-- `images/girly-kei/Girlykeihairbow.png`
-- `images/girly-kei/Perfumenailssoftgirlykei.png`
-- `images/girly-kei/Girlykei5.png`
-- `images/girly-kei/Cf32eb17d37d07f223f8ec7040265621a9a42821332bc77d744e35e0270869a4.jpg`
-- `images/girly-kei/Girly10.png`
-- `images/girly-kei/Girlykei8.png`
-- `images/girly-kei/Girlykei6.png`
-- `images/girly-kei/Girly02.jpg`
-
 ## Source and attribution
 
-Text adapted from "Girly Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Girly_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Girly Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Girly_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

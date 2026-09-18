@@ -10,7 +10,6 @@ related_aesthetics: ["Cabincore", "Granola", "Health Goth", "Lad Culture", "Naar
 source_url: "https://aesthetics.fandom.com/wiki/Gorpcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Gorpcore
@@ -68,22 +67,6 @@ The color palette in Gorpcore visuals predominantly features earthy and muted to
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/gorpcore/Gorpcore.jpg`
-- `images/gorpcore/Ba728fd836927b3ec9356250de83aa08.jpg`
-- `images/gorpcore/2c523406a02e4fea8f8c8e34fce93e25.jpg`
-- `images/gorpcore/Fef59de4efb58b3368cabe88eb7246a6.jpg`
-- `images/gorpcore/2785b33af806e6d8a868d7d833c97cfe.jpg`
-- `images/gorpcore/Cec86fbaaa5932dc761891948649b5e2.jpg`
-- `images/gorpcore/363487eb6ce2e4e4ebffe42eb4fd585d.jpg`
-- `images/gorpcore/83a7a0b248952729f6ec2b98768aafc7.jpg`
-- `images/gorpcore/2da3cbdc0517e2ec2254f5b45498b305.jpg`
-- `images/gorpcore/A6d4e357af08ad9dcb56624dc5bc9ebc.jpg`
-- `images/gorpcore/F1a3e0e37890917d221f5cf031e57ff4.jpg`
-- `images/gorpcore/E6b650522f03d73de796ce72d9a5efb0.jpg`
-- `images/gorpcore/29a85bbb8297758bef0772d037c8bf15.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gorpcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gorpcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gorpcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gorpcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

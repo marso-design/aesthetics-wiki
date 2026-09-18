@@ -11,7 +11,6 @@ related_aesthetics: ["Dark Academia", "Goth", "Gothic", "Romanticism", "Trad Got
 source_url: "https://aesthetics.fandom.com/wiki/Romantic_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Romantic Goth
@@ -185,23 +184,6 @@ Cassandra Goth from The Sims 2 (2004). The romantic gothic dress is the one of b
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/romantic-goth/Romantic-gothic-corset-victorian-style-long-prom-gown.jpg`
-- `images/romantic-goth/5ab6294676d2efd27c3397d4bf940e79.jpg`
-- `images/romantic-goth/Lipsia99-grufties4.jpg`
-- `images/romantic-goth/22315049romanticgoth3dq3.jpg`
-- `images/romantic-goth/Claudia-web.jpg`
-- `images/romantic-goth/Charlotte.jpg`
-- `images/romantic-goth/Blacklist02p2.jpg`
-- `images/romantic-goth/Pg40.jpg`
-- `images/romantic-goth/1000x1000.jpg`
-- `images/romantic-goth/1677246652.jpg`
-- `images/romantic-goth/3967884.jpg`
-- `images/romantic-goth/1348925905-142d8c5168a05a5cf66754c4d41dec42.jpg`
-- `images/romantic-goth/D1lpp45-cc43f8bf-82c1-44fd-94e1-d738b27aa611.jpg`
-- `images/romantic-goth/Db18c003da050ba7bba0e28b4face621.jpg`
-
 ## Source and attribution
 
-Text adapted from "Romantic Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romantic_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Romantic Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romantic_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

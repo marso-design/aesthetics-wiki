@@ -10,7 +10,6 @@ related_aesthetics: ["Avantropop", "Four Colors", "Frutiger Aero", "Graffiti Pop
 source_url: "https://aesthetics.fandom.com/wiki/Superflat_Pop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 73
 ---
 
 # Superflat Pop
@@ -408,82 +407,6 @@ Decode Logo
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● **Superflat Pop**  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/superflat-pop/Flower-Superflat-401x400.jpg`
-- `images/superflat-pop/Wowwowwubbzy.jpeg`
-- `images/superflat-pop/The-amazing-world-of-gumball-ss4.jpg`
-- `images/superflat-pop/Tokidoki.webp`
-- `images/superflat-pop/Chickflick.png`
-- `images/superflat-pop/Wat.png`
-- `images/superflat-pop/Ahrhhraharh.jpg`
-- `images/superflat-pop/41N1wi0htgL.jpg`
-- `images/superflat-pop/DFO.png`
-- `images/superflat-pop/FunkyPanda.jpeg`
-- `images/superflat-pop/XhX0QbmM0ROFeecRl3zG4c8OoT4I9inO.webp`
-- `images/superflat-pop/140002198.webp`
-- `images/superflat-pop/3122774029038.5601ce29548be.jpg`
-- `images/superflat-pop/VitaminConnection.png`
-- `images/superflat-pop/Theadventurepalsthumbnail.jpg`
-- `images/superflat-pop/Mochi2013.jpg`
-- `images/superflat-pop/91gXFmzeprL.jpg`
-- `images/superflat-pop/XAsWD5rytfCxT8X3OM2PC52S4QDGfPdL.webp`
-- `images/superflat-pop/48eeabafd06b98316083223b7fc358d6.jpg`
-- `images/superflat-pop/Artworks-000366736470-61z0mh-t500x500.jpg`
-- `images/superflat-pop/Runner3-switch-hero.jpg`
-- `images/superflat-pop/EyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMzQxNDcwMi9vcmlnaW5hbF9jOGYwYjZlZmM1YjJmZGZmNzYxNDZjMDgyNDFlNzJmOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubG.jpeg`
-- `images/superflat-pop/Badgearcadestickerpack.jpg`
-- `images/superflat-pop/Img21.jpg`
-- `images/superflat-pop/Popnmusic.jpg`
-- `images/superflat-pop/Inspirekaarmables.jpg`
-- `images/superflat-pop/48bb3318d8ae27f31eba3f1db412d15d.752x752x1.jpg`
-- `images/superflat-pop/21090a079306a25e46712a25c80966d6.jpg`
-- `images/superflat-pop/Katamari-damacy-reroll-128154.jpg`
-- `images/superflat-pop/KickButtowskiPromoArt.jpg`
-- `images/superflat-pop/FV6Lmg0XoAEHGlh.jpg`
-- `images/superflat-pop/Wario-ware-inc-mega-microgamesUSA.jpg`
-- `images/superflat-pop/Scale.jpg`
-- `images/superflat-pop/Screenshotter-Netflix-AggretsukoS1E4WalkingDowntheAisle-1234-1.jpg`
-- `images/superflat-pop/FQStmhrVsAETLF4.jpg`
-- `images/superflat-pop/Mr-men-and-little-miss-the-mr-men-show-7916369-300-452.jpg`
-- `images/superflat-pop/DEXTERSLAB.png`
-- `images/superflat-pop/UpATreefromRobotboy.gif`
-- `images/superflat-pop/Flyer-matt-monster-serie-dibujos-infantiles-animation-shows-tv.jpg`
-- `images/superflat-pop/SuperPaperMarioBoxart.jpg`
-- `images/superflat-pop/1632734642137.jpg`
-- `images/superflat-pop/Lf.jpg`
-- `images/superflat-pop/Kidfong.jpeg`
-- `images/superflat-pop/Parappa-MiniP-Anime-DT.jpg`
-- `images/superflat-pop/Prototype-robotboy.jpg`
-- `images/superflat-pop/DONNIESTUCKINTHEVEGAS.jpg`
-- `images/superflat-pop/JT1and2completeDVD.JPG`
-- `images/superflat-pop/Shh.jpg`
-- `images/superflat-pop/Diskowarp.png`
-- `images/superflat-pop/Spvtwtg.jpg`
-- `images/superflat-pop/2f5be32fa9977cb91f1b2dca57b1021b.jpg`
-- `images/superflat-pop/Kyary-pamyu-pamyu-plays-dress-up-in-new-nintendo-3ds-ad-0.jpg`
-- `images/superflat-pop/Hero180.jpg`
-- `images/superflat-pop/Dinkle.webp`
-- `images/superflat-pop/CHICIGIRL.jpg`
-- `images/superflat-pop/56497037839499.574e0dab2ea1a.jpg`
-- `images/superflat-pop/SkateYanzai.jpg`
-- `images/superflat-pop/PingPromo.jpg`
-- `images/superflat-pop/Jojopppmenu.png`
-- `images/superflat-pop/PPF1&2SoundtrackCover.png`
-- `images/superflat-pop/Everybodyeverybody.jpg`
-- `images/superflat-pop/Jubileemascot2102824.webp`
-- `images/superflat-pop/Halfandhalf-x-foomi-YLqKu.webp`
-- `images/superflat-pop/E68c768ea9f1a54871800f1b37454b6a.jpg`
-- `images/superflat-pop/4922600f36533edd0w.jpg`
-- `images/superflat-pop/Nitrome-email.png`
-- `images/superflat-pop/TTAFminisimage.webp`
-- `images/superflat-pop/R-14416788-1574095148-3889.jpg`
-- `images/superflat-pop/Funbox.jpg`
-- `images/superflat-pop/Billo.png`
-- `images/superflat-pop/DecodeEntertainment.png`
-- `images/superflat-pop/Bunnymaloney.png`
-- `images/superflat-pop/Cookingmama.jpg`
-
 ## Source and attribution
 
-Text adapted from "Superflat Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Superflat_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Superflat Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Superflat_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Baddie", "Bimbocore", "Chav", "Disco", "Greaser", "McBling
 source_url: "https://aesthetics.fandom.com/wiki/Guido"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Guido
@@ -74,22 +73,6 @@ The portrayal of the subculture on *Jersey Shore* was particularly controversial
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/guido/JerseyShoreCast.jpg`
-- `images/guido/Cimg0300.jpg`
-- `images/guido/5bb43526240000510056041f.webp`
-- `images/guido/Rs-2793-rectangle.webp`
-- `images/guido/Guidos-and-guidettes-on-holiday1.jpg`
-- `images/guido/JerseyShoreGuidos.jpg`
-- `images/guido/Custom1.jpg`
-- `images/guido/998a90933f8f5781b58d8eb9f617bef2.jpg`
-- `images/guido/C3cc0658022d671b59c57926c40d6a9d.jpg`
-- `images/guido/Da849b8c6cffdb2f36df4671308b0b79.jpg`
-- `images/guido/Fc060aadf540b296458018907e96c0f5.jpg`
-- `images/guido/057a5851c2c46c3b9a5850a5a905d89c.jpg`
-- `images/guido/E456d62c3b7e66b9dcf456b81b55cd41.jpg`
-
 ## Source and attribution
 
-Text adapted from "Guido" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Guido), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Guido" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Guido), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

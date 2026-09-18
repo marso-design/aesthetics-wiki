@@ -11,7 +11,6 @@ related_media: ["Video games (e.g., Dwarf Fortress, Morrowind)", "Role-playing g
 source_url: "https://aesthetics.fandom.com/wiki/Dungeon_Rap"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Dungeon Rap
@@ -110,4 +109,4 @@ Within the [Dungeon Synth](https://aesthetics.fandom.com/wiki/Dungeon_Synth "Dun
 
 ## Source and attribution
 
-Text adapted from "Dungeon Rap" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dungeon_Rap), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dungeon Rap" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dungeon_Rap), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Art Deco", "Maximalism", "Mid-Century Modern", "Old Hollyw
 source_url: "https://aesthetics.fandom.com/wiki/Hollywood_Regency"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Hollywood Regency
@@ -39,18 +38,6 @@ While Hollywood Regency shares a slim-profiled furniture silhouette with [Mid-Ce
 
 ## References
 
-## Images
-
-- `images/hollywood-regency/Alexissmith.jpg`
-- `images/hollywood-regency/Hor4.jpg`
-- `images/hollywood-regency/Hr1.jpg`
-- `images/hollywood-regency/Hor3.jpg`
-- `images/hollywood-regency/Hor2.jpg`
-- `images/hollywood-regency/Hor6.jpg`
-- `images/hollywood-regency/Hor8.png`
-- `images/hollywood-regency/Hor5.jpg`
-- `images/hollywood-regency/Hor7.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hollywood Regency" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hollywood_Regency), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hollywood Regency" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hollywood_Regency), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

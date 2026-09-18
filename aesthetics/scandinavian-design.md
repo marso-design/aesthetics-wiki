@@ -11,7 +11,6 @@ related_aesthetics: ["Art Deco", "Art Nouveau", "Arts and Crafts Movement", "Bau
 source_url: "https://aesthetics.fandom.com/wiki/Scandinavian_Design"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Scandinavian Design
@@ -135,13 +134,6 @@ Danish Pastel is an aesthetic that gained popularity among Gen Z in the 2020s, i
 
 ## References
 
-## Images
-
-- `images/scandinavian-design/SydneyOpera.jpg`
-- `images/scandinavian-design/DarkScandinavian.webp`
-- `images/scandinavian-design/JapandiRoom.jpg`
-- `images/scandinavian-design/Scandi-boho-2-resized.webp`
-
 ## Source and attribution
 
-Text adapted from "Scandinavian Design" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Scandinavian_Design), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Scandinavian Design" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Scandinavian_Design), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

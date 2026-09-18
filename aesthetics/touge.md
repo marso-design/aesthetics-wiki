@@ -12,7 +12,6 @@ related_media: ["Initial D"]
 source_url: "https://aesthetics.fandom.com/wiki/Touge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Touge
@@ -57,21 +56,6 @@ Eurobeat music is an essential and defining component of the aesthetic. Originat
 
 ## References
 
-## Images
-
-- `images/touge/Touge.jpg`
-- `images/touge/84hv0wqe46p61.webp`
-- `images/touge/EVxQb1qXsAESLNh.jpg`
-- `images/touge/810a3b71b77a03986977bb066541aacf.jpg`
-- `images/touge/0ea18718af929ec1e739bf8533b86ebb.jpg`
-- `images/touge/Slmo9dqkyl9c1.jpeg`
-- `images/touge/5826989ea1af0ac2154af6c0814c1360.jpg`
-- `images/touge/323ff0abe00142e537135979e3b38ec5.jpg`
-- `images/touge/Artworks-000229404587-v5lw08-t500x500.jpg`
-- `images/touge/Haran-harann-eurobeatskeletor.jpg`
-- `images/touge/Imagine-kessoku-band-does-an-official-eurobeat-v0-p81gacmclfre1.png`
-- `images/touge/QTYPmceg.jpg`
-
 ## Source and attribution
 
-Text adapted from "Touge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Touge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Touge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Touge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

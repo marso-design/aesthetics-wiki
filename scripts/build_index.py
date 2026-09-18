@@ -1,9 +1,9 @@
 """
-Build data/index.json from the scraped aesthetics/*.md files.
+Build data/index.json from the aesthetics/*.md files.
 
 This is the source of truth for the lookup CLI. It parses each file's
-frontmatter (emitted as JSON-compatible YAML, so no YAML dependency needed)
-and derives a short summary from the body. Re-run any time after scraping.
+frontmatter (JSON-compatible YAML, so no YAML dependency needed) and derives a
+short summary from the body. Re-run any time after editing or adding entries.
 
     python scripts/build_index.py
 """
@@ -20,7 +20,7 @@ DATA_DIR = os.path.join(ROOT, "data")
 INDEX_KEYS = [
     "name", "slug", "aka", "decade_of_origin", "key_motifs", "key_colours",
     "palette", "key_values", "related_aesthetics", "subgenres",
-    "primary_platform", "related_media", "source_url", "image_count",
+    "primary_platform", "related_media", "source_url",
 ]
 
 # body paragraphs to skip when picking a summary
@@ -81,11 +81,6 @@ def main():
         if not fm.get("slug"):
             continue
         row = {k: fm[k] for k in INDEX_KEYS if k in fm}
-        if "image_count" in row:
-            try:
-                row["image_count"] = int(row["image_count"])
-            except (TypeError, ValueError):
-                row["image_count"] = 0
         row["file"] = os.path.join("aesthetics", fn)
         row["summary"] = pick_summary(body)
         rows.append(row)
@@ -97,10 +92,10 @@ def main():
 
     with_infobox = sum(1 for r in rows if r.get("key_colours")
                        or r.get("related_aesthetics"))
-    total_imgs = sum(r.get("image_count", 0) for r in rows)
+    with_palette = sum(1 for r in rows if r.get("palette"))
     print("index rows: %d" % len(rows))
     print("with structured infobox: %d" % with_infobox)
-    print("total images referenced: %d" % total_imgs)
+    print("with palette: %d" % with_palette)
 
 
 if __name__ == "__main__":

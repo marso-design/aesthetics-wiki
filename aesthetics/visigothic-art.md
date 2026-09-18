@@ -9,7 +9,6 @@ related_aesthetics: ["Byzantine", "Hellenic", "Imperial Roman", "Medieval", "Pre
 source_url: "https://aesthetics.fandom.com/wiki/Visigothic_Art"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Visigothic Art
@@ -93,14 +92,6 @@ Visigothic belt buckle and plate (5th-7th century). Cast bronze and iron with cl
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/visigothic-art/WingedFibulas.jpg`
-- `images/visigothic-art/CoronaRecesvinto01.JPG`
-- `images/visigothic-art/SanJuandeBaños.jpg`
-- `images/visigothic-art/SanPedroNave1.jpg`
-- `images/visigothic-art/VisigothicKingdomMap.png`
-
 ## Source and attribution
 
-Text adapted from "Visigothic Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Visigothic_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Visigothic Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Visigothic_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

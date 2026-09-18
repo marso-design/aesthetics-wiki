@@ -10,7 +10,6 @@ related_aesthetics: ["Cyberpunk", "E-Girl", "Hexatron", "Kawaii Gamer", "Synthwa
 source_url: "https://aesthetics.fandom.com/wiki/RGB_Gamer"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # RGB Gamer
@@ -29,20 +28,6 @@ The major component of this aesthetic is the design of gaming-related products m
 
 ## References
 
-## Images
-
-- `images/rgb-gamer/05fc9cb45e2fad55ca2c60c264e64c78.jpg`
-- `images/rgb-gamer/3be76e87e8e772b87981110e601a73d2.jpg`
-- `images/rgb-gamer/A03e0ca282a30b54f6679617efe67d81.jpg`
-- `images/rgb-gamer/B8929e01167772ef213c584d7c447214.jpg`
-- `images/rgb-gamer/F6b75dc05cc2b68a7ed6e29d40644340.jpg`
-- `images/rgb-gamer/1bd47340704a9da08c5f2bd3d79cc732.jpg`
-- `images/rgb-gamer/7aa573f8fcb2a943584824f2697066c9.jpg`
-- `images/rgb-gamer/2e95e14612145f6e443b840fce283ab9.jpg`
-- `images/rgb-gamer/C0842260a98133f6b796e9513f1141bf.jpg`
-- `images/rgb-gamer/27fc4ecdb672d711769a13f0f07db61a.jpg`
-- `images/rgb-gamer/Streamer-playing-on-a-set-up-with-green-rgb-led-lights.jpg`
-
 ## Source and attribution
 
-Text adapted from "RGB Gamer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/RGB_Gamer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "RGB Gamer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/RGB_Gamer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

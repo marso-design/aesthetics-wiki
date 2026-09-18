@@ -9,7 +9,6 @@ palette: ["#16110F", "#42342D", "#A0938E", "#615A55", "#7C6F67", "#D4D1CF"]
 source_url: "https://aesthetics.fandom.com/wiki/Zef"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Zef
@@ -134,21 +133,6 @@ Jack Parow
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/zef/DieAntwoord.jpg`
-- `images/zef/46357c9f06be8847d654030998ddef39.jpg`
-- `images/zef/417e670680e622df15960318600cd218.jpg`
-- `images/zef/D19a9ad86866bb92804479b75e3f9b60.jpg`
-- `images/zef/A42197a058e7f70ded7220af4d46db45.jpg`
-- `images/zef/E0801434806cb6d0d9b94a05bd0da6d6.jpg`
-- `images/zef/27adc2601fba0e28ebe267e57202a8de.jpg`
-- `images/zef/3d681dd2b334c16ba2e217b6ce045bdd.jpg`
-- `images/zef/48d3b99748eb06666077d0da5993d64e.jpg`
-- `images/zef/D5681bf1e10f43df5ec792df71d6c748.jpg`
-- `images/zef/7a3a0768077207.5b5035ccb2d26.jpg`
-- `images/zef/Jack-shoes.jpg`
-
 ## Source and attribution
 
-Text adapted from "Zef" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Zef), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Zef" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Zef), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

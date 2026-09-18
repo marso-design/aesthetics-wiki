@@ -12,7 +12,6 @@ subgenres: ["Corporate Goth", "Deathrock", "Ethnogoth", "Fetish Goth", "Gothabil
 source_url: "https://aesthetics.fandom.com/wiki/Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Goth
@@ -381,21 +380,6 @@ An Irish Goth from a 1983 TV broadcast
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/goth/Siouxsie-and-the-banshees-style-icon-12.png`
-- `images/goth/SiouxsieSioux.jpg`
-- `images/goth/Goth1.png`
-- `images/goth/3f27e0630a8cacae89c9f075724722c1.jpg`
-- `images/goth/A1e7c77d0369a74624c9a16f5c74fddb.jpg`
-- `images/goth/A47edb4c531445516d61981aa19cd7b1.jpg`
-- `images/goth/Cf36aac853672a1a38cd94cdc594499d.jpg`
-- `images/goth/1fd9d460f7176470302c71c2a1a298b3.jpg`
-- `images/goth/095b573df8e6e450008ba748811d70a6.jpg`
-- `images/goth/02a98a9157429d5c6587d6c07fcd74f7.jpg`
-- `images/goth/456167baecbdef031c38a8026c87d98e.jpg`
-- `images/goth/TheBatcave.jpg`
-
 ## Source and attribution
 
-Text adapted from "Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

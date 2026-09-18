@@ -10,7 +10,6 @@ related_aesthetics: ["Angelcore", "Dreamcore", "Ethereal", "Lo-fi Art", "Softie"
 source_url: "https://aesthetics.fandom.com/wiki/Cloudcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Cloudcore
@@ -104,31 +103,6 @@ Cloud and sky imagery as a visual motif appears across a range of media associat
 
 ## Gallery
 
-## Images
-
-- `images/cloudcore/Catcloud.webp`
-- `images/cloudcore/Cottoncandycloud.jpg`
-- `images/cloudcore/Static-assets-upload7079272635465754122.webp`
-- `images/cloudcore/Static-assets-upload3727010983134670576.webp`
-- `images/cloudcore/Static-assets-upload12869624063065856060.webp`
-- `images/cloudcore/C2d7acd00f9090e3b5fbc5d29d97a2e9.jpg`
-- `images/cloudcore/F7eb589746cfe0d89ace35544de5f5ed.jpg`
-- `images/cloudcore/6491abb9b6b6b8980c4640d1795bf228.jpg`
-- `images/cloudcore/C7116a9af96007ada8a454bef6f0c998.jpg`
-- `images/cloudcore/0ff90c7bdbe991f2a648a75ae93d0126.jpg`
-- `images/cloudcore/9aef5a9ecbf0b23bd690fc9945594a51.jpg`
-- `images/cloudcore/A2d4ba4cbe0282a4935314347cc6fc99.jpg`
-- `images/cloudcore/191c7156d01bdf523a79be0a402f2ef3.jpg`
-- `images/cloudcore/Ea5bf415446014e56fc6cdb6b7b0a7a8.jpg`
-- `images/cloudcore/72d7c05dbc66e86be605b8ba5a11c516.jpg`
-- `images/cloudcore/E04cf3b47b9df8ac55e0824da7b39c1c.jpg`
-- `images/cloudcore/49b34155666e463ab77863da8df9eae2.jpg`
-- `images/cloudcore/15d5d2024539a943907e71f3960ae197.jpg`
-- `images/cloudcore/15d33355ffd3d40e9fdffbff69e177c8.jpg`
-- `images/cloudcore/3993b69c5f40ce58e4a6745e894e4aa5.jpg`
-- `images/cloudcore/8b0612b6e860199ed2dc9a9e58ab66d2.jpg`
-- `images/cloudcore/Clouddeadselftitled.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cloudcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cloudcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cloudcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cloudcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

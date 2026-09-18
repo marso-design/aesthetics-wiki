@@ -11,7 +11,6 @@ related_aesthetics: ["Animecore", "Cyberpunk", "Racing", "Sextrance", "Weeaboo",
 source_url: "https://aesthetics.fandom.com/wiki/Ita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Ita
@@ -92,16 +91,6 @@ A K-On! Itadensha
 
 Underground Meet In Tokyo- Night Out With Itasha Cars
 
-## Images
-
-- `images/ita/ToaruItasha.jpg`
-- `images/ita/JapaneseAirforce.png`
-- `images/ita/MikuItasha.jpg`
-- `images/ita/Itabags.jpeg`
-- `images/ita/CirnoItasha.jpg`
-- `images/ita/7f63968c8f14a5b3d2285071e0042241.jpg`
-- `images/ita/Ita-Gumei.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

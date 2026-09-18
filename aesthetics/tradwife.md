@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "Instagram", "YouTube"]
 source_url: "https://aesthetics.fandom.com/wiki/Tradwife"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Tradwife
@@ -61,17 +60,6 @@ A Frigidaire refrigerator advertisement from The Ladies' Home Journal, embodying
 * <https://www.netinfluencer.com/trad-wife-phenomenon/>
 * <https://katiecouric.com/entertainment/what-is-a-tradwife/#:~:text=What%20is%20a%20tradwife%3F,and%20mother%2C%E2%80%9D%20Piazza%20says.>
 
-## Images
-
-- `images/tradwife/NarahSmith.jpg`
-- `images/tradwife/Tradwife.jpg`
-- `images/tradwife/Tradwife-Aesthetic-site-story-image.webp`
-- `images/tradwife/Tradwife-aesthetics-e1782417829285.webp`
-- `images/tradwife/Pinterest-awakensoul.jpg`
-- `images/tradwife/Id5214274-Estee-Williams-13.webp`
-- `images/tradwife/Conservative-Tradwife-1-768x766.png`
-- `images/tradwife/Ballerina-Farm-and-Nara-Smith.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tradwife" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tradwife), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tradwife" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tradwife), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

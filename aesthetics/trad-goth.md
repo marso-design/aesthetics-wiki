@@ -11,7 +11,6 @@ related_aesthetics: ["Deathrock", "Glam Rock", "Goth", "New Romantic", "Post-Pun
 source_url: "https://aesthetics.fandom.com/wiki/Trad_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Trad Goth
@@ -256,10 +255,6 @@ The seeds these three bands had sown with their gothic, almost-costume fashions,
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/trad-goth/Tradgoth.jpg`
-
 ## Source and attribution
 
-Text adapted from "Trad Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trad_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Trad Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trad_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

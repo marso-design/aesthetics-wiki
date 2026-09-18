@@ -11,7 +11,6 @@ related_media: ["Ultras", "The Real Football Factories", "The Rebels of The Stad
 source_url: "https://aesthetics.fandom.com/wiki/Ultras"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 27
 ---
 
 # Ultras
@@ -123,36 +122,6 @@ Additionally, some Ultra groups have been associated with organized crime, such 
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/ultras/F7ac80f8006859271de7bb73c8bab80a.jpg`
-- `images/ultras/Ac61cb89589c0a6b30ad8d3c43649b08.jpg`
-- `images/ultras/07e70390bb350aefd0ec7e1f814b9bca.jpg`
-- `images/ultras/Cd1d4f058bf9302b2c1d9ee845e066d1.jpg`
-- `images/ultras/8d3aab7896c9d4a35e69d3789122a85f.jpg`
-- `images/ultras/Eb74176c4083e33e87f9f7d987b4f71f.jpg`
-- `images/ultras/51434cfac088016dbf5006485c93f003.jpg`
-- `images/ultras/F39917d5b3ef388dbdda836d0d0b6641.jpg`
-- `images/ultras/0e4416c4e44806b31e23b84dd7040669.jpg`
-- `images/ultras/Fef89cfad61104bb4bdf4ef7a42ba3bc.jpg`
-- `images/ultras/2ed321c33b30b25a9aa9ed32365066a8.jpg`
-- `images/ultras/0ac11f8252700751bd47df69c466707b.jpg`
-- `images/ultras/Ed0a7e6cc4a079cf8dc43a53a152ee58.jpg`
-- `images/ultras/7b913a5fb4fa6f43c22ab8a8610b9193.jpg`
-- `images/ultras/31f4075207f50d6ad13ebbf5e840532e.jpg`
-- `images/ultras/48147e576de63042db98b8736fc9cf87.jpg`
-- `images/ultras/041f6843fdc832d5fa67045aebf28d79.jpg`
-- `images/ultras/5fb1ce1a6f7040684a620b4dac261348.jpg`
-- `images/ultras/D38a4790448cd2c5bf282fa04b18265c.jpg`
-- `images/ultras/9300cb9e9da98385b51fd2e0e8bc58fc.jpg`
-- `images/ultras/3271e4f94fb821434ea356591fab93f3.jpg`
-- `images/ultras/56588040e07b7206e10af5c4c4ec83cf.jpg`
-- `images/ultras/2fe374a66fca4030b2590dc85b439068.jpg`
-- `images/ultras/716ea4c3743a29f417c016355e061876.jpg`
-- `images/ultras/9548820ae9b63213902663f8279a50fd.jpg`
-- `images/ultras/SmokeBomb.png`
-- `images/ultras/250111435.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ultras" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ultras), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ultras" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ultras), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

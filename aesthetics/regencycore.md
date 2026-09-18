@@ -9,7 +9,6 @@ related_media: ["Bridgerton"]
 source_url: "https://aesthetics.fandom.com/wiki/Regencycore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Regencycore
@@ -55,20 +54,6 @@ Regencycore is also either the originator or retroactive description of the rise
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/regencycore/Bridgerton-Season-3-5.webp`
-- `images/regencycore/1682755880.webp`
-- `images/regencycore/061724-regencycore-lead-5a25c8dd27f54e81a8f6361384b574a2.webp`
-- `images/regencycore/061724-regencycore-embed6-b4b6a8a352b849289a4474b88f8e7141.webp`
-- `images/regencycore/Regencycore.webp`
-- `images/regencycore/Bridgerton-fashion-1.webp`
-- `images/regencycore/Bridgerton-fashion-2.webp`
-- `images/regencycore/10251332.webp`
-- `images/regencycore/Regencycore-bridgerton-netflix-1.webp`
-- `images/regencycore/Regencycore-nouvelle-tendance-mode-inspiree-par-chronique-des-bridgerton.webp`
-- `images/regencycore/Regencycore-paris-fashion-week-womenswear-spring-summer-2023,id=361d4e77,b=cosmopolitan,h=764,rm=sk.webp`
-
 ## Source and attribution
 
-Text adapted from "Regencycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Regencycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Regencycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Regencycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

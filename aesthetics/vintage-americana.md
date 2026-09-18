@@ -10,7 +10,6 @@ related_media: ["Lana Del Rey's music videos (\"National Anthem,\" \"Ride\")", "
 source_url: "https://aesthetics.fandom.com/wiki/Vintage_Americana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Vintage Americana
@@ -130,4 +129,4 @@ Two people in a vintage car, evoking road trip imagery.
 
 ## Source and attribution
 
-Text adapted from "Vintage Americana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vintage_Americana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vintage Americana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vintage_Americana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

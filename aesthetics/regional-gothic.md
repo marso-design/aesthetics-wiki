@@ -5,7 +5,6 @@ palette: ["#584E44", "#2E4D6E", "#322C25", "#A0AEBA", "#040506", "#152332"]
 source_url: "https://aesthetics.fandom.com/wiki/Regional_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Regional Gothic
@@ -78,22 +77,6 @@ Later the aesthetic deviated from literature with the "regional gothic" trend on
 
 ## References
 
-## Images
-
-- `images/regional-gothic/Anglogothic.jpg`
-- `images/regional-gothic/Anglogothic2.jpg`
-- `images/regional-gothic/2d32bf72e956379b6936a2188d6dc19b.jpg`
-- `images/regional-gothic/HansellVACityWiseVA1.jpg`
-- `images/regional-gothic/P1050986.jpg`
-- `images/regional-gothic/7400-4-7.jpg`
-- `images/regional-gothic/20171030-bluefield-inline.jpg`
-- `images/regional-gothic/The-witch-15342-5-1100.jpg`
-- `images/regional-gothic/Haunted-House-of-the-Seven-Gables-6.jpg`
-- `images/regional-gothic/WondersoftheInvisibleWorld-1693.jpg`
-- `images/regional-gothic/Boston-cemetery.jpg`
-- `images/regional-gothic/0a77f05b-c0ad-479d-a9c0-a69e35f21f0a-abandoned-homes-america-dicksonia-plantation-alabama-3.jpg`
-- `images/regional-gothic/Ashley-knedler-108482-unsplash.jpg`
-
 ## Source and attribution
 
-Text adapted from "Regional Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Regional_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Regional Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Regional_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

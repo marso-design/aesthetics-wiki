@@ -5,7 +5,6 @@ palette: ["#CBCBCB", "#FFFFFF", "#221D1D", "#4B3527", "#D1BBA2", "#A28D78"]
 source_url: "https://aesthetics.fandom.com/wiki/Uncanny_Valley"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Uncanny Valley
@@ -146,19 +145,6 @@ Why are we so obsessed with making human-like robots?
 
 ## References
 
-## Images
-
-- `images/uncanny-valley/UncannyValley2.png`
-- `images/uncanny-valley/ReplieeQ2.jpg`
-- `images/uncanny-valley/Tiago.webp`
-- `images/uncanny-valley/UncannyValleyDolls-5bc93c3ac9e77c0051567cee.jpg`
-- `images/uncanny-valley/Mannequin.jpg`
-- `images/uncanny-valley/Animegao.jpg`
-- `images/uncanny-valley/Animegaomeme.png`
-- `images/uncanny-valley/MichaelMyers.jpg`
-- `images/uncanny-valley/AnalogHorror1.jpg`
-- `images/uncanny-valley/Cursedimage.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Uncanny Valley" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Uncanny_Valley), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Uncanny Valley" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Uncanny_Valley), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

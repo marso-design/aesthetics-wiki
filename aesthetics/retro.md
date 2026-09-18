@@ -5,7 +5,6 @@ palette: ["#1F1848", "#3E2061", "#9E425A", "#E9BE8E", "#F0E8BA", "#5B4A60"]
 source_url: "https://aesthetics.fandom.com/wiki/Retro"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Retro
@@ -24,11 +23,6 @@ The retro aesthetic is prevalent across many fields, including fashion, interior
 
 The term "retro" is derived from the Latin prefix *retro-*, meaning "backwards" or "in past times," and the French word *retrograde*. Its use to describe new items imitating older styles gained currency in the 1970s as fashion and design began to consciously look back at the aesthetics of the early to mid-20th century. The word itself directly reflects the practice of looking backward for creative inspiration.
 
-## Images
-
-- `images/retro/RetroDiner.jpg`
-- `images/retro/2023581e3d7c26353e6f0f5ad5b7f609.jpg`
-
 ## Source and attribution
 
-Text adapted from "Retro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Retro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Retro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Retro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

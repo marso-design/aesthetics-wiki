@@ -12,7 +12,6 @@ related_media: ["The Crow", "The Matrix", "Blade", "Max Payne", "Splinter Cell",
 source_url: "https://aesthetics.fandom.com/wiki/90s_Cool"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # 90s Cool
@@ -517,24 +516,6 @@ Swordfish (2001) Bullet Time! 360° Shot
 | --- | --- | --- |
 | **90s Cool** ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/90s-cool/90scool.png`
-- `images/90s-cool/Untitled.design1.png`
-- `images/90s-cool/74da1f4b2cb9f5116def2b8ca8670102.jpg`
-- `images/90s-cool/Ezgif-5-92ad3d8f72.gif`
-- `images/90s-cool/Ezgif-5-66db52a3e0.gif`
-- `images/90s-cool/Violet.png`
-- `images/90s-cool/Ezgif.com-resize.gif`
-- `images/90s-cool/Ezgif-5-1417ba1b19.gif`
-- `images/90s-cool/Untitled.design.png`
-- `images/90s-cool/0000003261.1920x1080.jpg`
-- `images/90s-cool/PhantomDust.jpg`
-- `images/90s-cool/Title.png`
-- `images/90s-cool/Artworks-CNxT8JYuFwBi-0-t500x500-2886816660.jpg`
-- `images/90s-cool/2ae199f90b7fe76562756da0b6254128.jpg`
-- `images/90s-cool/Dd8SgohVMAA3kmY.jpg`
-
 ## Source and attribution
 
-Text adapted from "90s Cool" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/90s_Cool), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "90s Cool" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/90s_Cool), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

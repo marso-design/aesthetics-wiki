@@ -7,7 +7,6 @@ palette: ["#1C1D20", "#857363", "#606F65", "#A7B2AA", "#3B3531", "#EFEEEF"]
 source_url: "https://aesthetics.fandom.com/wiki/Huang-mao"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Huang-mao
@@ -68,17 +67,6 @@ Yue Jun in *The Long Night* (2020)
 
 Cai Jinfa
 
-## Images
-
-- `images/huang-mao/YellowHair-1.jpeg`
-- `images/huang-mao/YellowHair-LiHongwei.jpeg`
-- `images/huang-mao/YellowHair-ZhengShengli.jpeg`
-- `images/huang-mao/YellowHair-2.webp`
-- `images/huang-mao/YellowHair-3.webp`
-- `images/huang-mao/YellowHair-BurningIce.jpeg`
-- `images/huang-mao/YellowHair-TheLongNight.jpeg`
-- `images/huang-mao/Huangmao-YunnanCaiJinfa.webp`
-
 ## Source and attribution
 
-Text adapted from "Huang-mao" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Huang-mao), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Huang-mao" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Huang-mao), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

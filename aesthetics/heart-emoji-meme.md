@@ -12,7 +12,6 @@ related_media: ["Snapchat", "PicsArt", "Wattpad", "Twitter", "\"Mine\" by Bazzi"
 source_url: "https://aesthetics.fandom.com/wiki/Heart_Emoji_Meme"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Heart Emoji Meme
@@ -66,24 +65,6 @@ The imagery found within this aesthetic generally falls into three categories. T
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/heart-emoji-meme/Hm7.jpg`
-- `images/heart-emoji-meme/Hm2.jpg`
-- `images/heart-emoji-meme/HM3.jpg`
-- `images/heart-emoji-meme/Hm4.png`
-- `images/heart-emoji-meme/Hm5.jpg`
-- `images/heart-emoji-meme/Wholesomememe.jpg`
-- `images/heart-emoji-meme/Hm6.jpg`
-- `images/heart-emoji-meme/Hm8.jpg`
-- `images/heart-emoji-meme/Hm10.jpg`
-- `images/heart-emoji-meme/Hm8.png`
-- `images/heart-emoji-meme/Hm9.jpg`
-- `images/heart-emoji-meme/Hm13.png`
-- `images/heart-emoji-meme/Hm12.jpg`
-- `images/heart-emoji-meme/Hm14.jpg`
-- `images/heart-emoji-meme/Hm15.jpg`
-
 ## Source and attribution
 
-Text adapted from "Heart Emoji Meme" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heart_Emoji_Meme), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Heart Emoji Meme" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heart_Emoji_Meme), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

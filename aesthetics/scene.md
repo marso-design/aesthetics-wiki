@@ -12,7 +12,6 @@ primary_platform: ["MySpace"]
 source_url: "https://aesthetics.fandom.com/wiki/Scene"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 37
 ---
 
 # Scene
@@ -482,46 +481,6 @@ A scene art created by novablingz on tumblr
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/scene/Scenekids.jpg`
-- `images/scene/Nevershoutnever.png`
-- `images/scene/Kandi.jpg`
-- `images/scene/Sc3n3.jpg`
-- `images/scene/CatchingYourClouds.jpg`
-- `images/scene/Sceneenene.jpg`
-- `images/scene/Scenegirlwdomo.jpg`
-- `images/scene/Ceede116-a6dd-49c9-a3f9-87d7348d3f8f.jpg`
-- `images/scene/Jjdemon.png`
-- `images/scene/2000saltart2.png`
-- `images/scene/Scenegurl5.jpg`
-- `images/scene/Sceneghsk.jpg`
-- `images/scene/763b7c8e2da1b5938a805f5d56d1a19c.png`
-- `images/scene/711b954334f2b925fb319c058a71883c.jpg`
-- `images/scene/Scenegurl.jpg`
-- `images/scene/Ambrehh.jpg`
-- `images/scene/Scenekidz.jpg`
-- `images/scene/Scenegirl.jpg`
-- `images/scene/Scenenengj.jpg`
-- `images/scene/Scenebffs.gif`
-- `images/scene/Bffs.jpg`
-- `images/scene/Scene-text-art.jpg`
-- `images/scene/SceneTween.jpeg`
-- `images/scene/Iconic.jpg`
-- `images/scene/3313060c-2123-4c5c-8694-75e378edbf67.jpg`
-- `images/scene/09ce6a74-23d1-46d4-82cb-e020f739f8c7.jpg`
-- `images/scene/3d70e8e0-47c9-4dd2-af83-8d62996d0302.jpg`
-- `images/scene/Vocaloidoldwebalt.jpg`
-- `images/scene/@chvklagman.jpg`
-- `images/scene/Scenegif.gif`
-- `images/scene/WildAboutYou.gif`
-- `images/scene/SceneGirlowo.jpg`
-- `images/scene/Heydj.jpg`
-- `images/scene/Lagata.jpg`
-- `images/scene/Teen1.jpg`
-- `images/scene/Sceneemohaircut.jpg`
-- `images/scene/2000saltart1.png`
-
 ## Source and attribution
 
-Text adapted from "Scene" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Scene), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Scene" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Scene), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

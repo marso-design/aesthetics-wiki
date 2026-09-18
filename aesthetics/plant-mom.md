@@ -12,7 +12,6 @@ related_media: ["Instagram", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Plant_Mom"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Plant Mom
@@ -79,18 +78,6 @@ Grunge Plant Mom.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/plant-mom/777caca5bb2b5c03bee61ba125575722.jpg`
-- `images/plant-mom/54479a59ee291909eb5646dabe7797ac.jpg`
-- `images/plant-mom/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f594d525470772d7736376d3768513d3d2d33312e31353634323334616363643934386534333231343933.jpg`
-- `images/plant-mom/Succulent.jpg`
-- `images/plant-mom/9kGpm.jpeg`
-- `images/plant-mom/7b5d799e9efa8da642cb1ff20c987788.jpg`
-- `images/plant-mom/Abca1b4afd3f094a1a369dfdaebd97a8.jpg`
-- `images/plant-mom/Plants.jpg`
-- `images/plant-mom/Whitewall.jpg`
-
 ## Source and attribution
 
-Text adapted from "Plant Mom" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Plant_Mom), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Plant Mom" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Plant_Mom), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

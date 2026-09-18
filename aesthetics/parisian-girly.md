@@ -11,7 +11,6 @@ related_aesthetics: ["Curly Girly", "McBling", "Shoe Diva", "Teenpunk", "Vectorf
 source_url: "https://aesthetics.fandom.com/wiki/Parisian_Girly"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Parisian Girly
@@ -75,25 +74,6 @@ Larissa 15 Birthday Party - Paris theme
 
 ## References
 
-## Images
-
-- `images/parisian-girly/2000sParisBedroom.jpg`
-- `images/parisian-girly/Triplechic.jpg`
-- `images/parisian-girly/Triplechic3.jpg`
-- `images/parisian-girly/Triplechic2.jpg`
-- `images/parisian-girly/ParisDesign3.jpeg`
-- `images/parisian-girly/ParisDesign2.jpeg`
-- `images/parisian-girly/ParisDesign.jpeg`
-- `images/parisian-girly/ParisCake.jpg`
-- `images/parisian-girly/Яндекс.jpeg`
-- `images/parisian-girly/Paris.jpeg`
-- `images/parisian-girly/Iloveshopping.png`
-- `images/parisian-girly/Paristheme.jpeg`
-- `images/parisian-girly/FrenchKitty.jpeg`
-- `images/parisian-girly/Parisillustration.jpeg`
-- `images/parisian-girly/PoodleSkirt.png`
-- `images/parisian-girly/RochelleGoyleMonsterHigh2012.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Parisian Girly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Parisian_Girly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Parisian Girly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Parisian_Girly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

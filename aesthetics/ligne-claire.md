@@ -12,7 +12,6 @@ related_media: ["The Adventures of Tintin", "Franco-Belgian comics"]
 source_url: "https://aesthetics.fandom.com/wiki/Ligne_Claire"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Ligne Claire
@@ -87,21 +86,6 @@ The Ligne Claire style exhibits specific visual characteristics. Lines are consi
 
 ## References
 
-## Images
-
-- `images/ligne-claire/Ligneclaire.jpg`
-- `images/ligne-claire/Lc2.jpg`
-- `images/ligne-claire/Lc3.jpg`
-- `images/ligne-claire/Lc1.jpg`
-- `images/ligne-claire/Lc4.jpg`
-- `images/ligne-claire/Lc11.jpg`
-- `images/ligne-claire/Lc7.jpg`
-- `images/ligne-claire/Lc8.jpg`
-- `images/ligne-claire/Lc9.jpg`
-- `images/ligne-claire/Lc10.jpg`
-- `images/ligne-claire/Lc12.jpg`
-- `images/ligne-claire/Lc5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ligne Claire" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ligne_Claire), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ligne Claire" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ligne_Claire), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

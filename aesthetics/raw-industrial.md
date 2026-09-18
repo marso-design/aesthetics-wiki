@@ -10,7 +10,6 @@ related_aesthetics: ["Brutalism", "Corporate Grunge", "Graffiti Pop", "Industria
 source_url: "https://aesthetics.fandom.com/wiki/Raw_Industrial"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Raw Industrial
@@ -54,4 +53,4 @@ The visuals tend to be a mix of muted, natural tones with industrial elements su
 
 ## Source and attribution
 
-Text adapted from "Raw Industrial" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Raw_Industrial), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Raw Industrial" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Raw_Industrial), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

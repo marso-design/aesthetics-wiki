@@ -11,7 +11,6 @@ related_media: ["Final Doom (Video Game)", "Baroque (Video Game)"]
 source_url: "https://aesthetics.fandom.com/wiki/Industrial_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Industrial Gothic
@@ -59,14 +58,6 @@ The style was influential in designing physical spaces intended to evoke a harsh
 
 ## References
 
-## Images
-
-- `images/industrial-gothic/R-1473102-1612826820-1651.jpg`
-- `images/industrial-gothic/R-318317-1743387314-8992.jpg`
-- `images/industrial-gothic/Evil.ad.png`
-- `images/industrial-gothic/Garage-bad-dream-adventure-01-25-22-1-1024x576.jpg`
-- `images/industrial-gothic/EyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNDUwMjI5Mi9vcmlnaW5hbF85M2JjMTc3MzkxNzYxZGE0NzE2NGM4MzM1OTIyMmJhMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWR.webp`
-
 ## Source and attribution
 
-Text adapted from "Industrial Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Industrial_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Industrial Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Industrial_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

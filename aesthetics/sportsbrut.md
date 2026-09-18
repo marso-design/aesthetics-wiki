@@ -9,7 +9,6 @@ related_aesthetics: ["Acid Design", "Cyberminimalism", "Glitch Art", "Neubrutali
 source_url: "https://aesthetics.fandom.com/wiki/Sportsbrut"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Sportsbrut
@@ -28,4 +27,4 @@ K-DA - MORE ft. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Offic
 
 ## Source and attribution
 
-Text adapted from "Sportsbrut" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sportsbrut), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sportsbrut" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sportsbrut), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

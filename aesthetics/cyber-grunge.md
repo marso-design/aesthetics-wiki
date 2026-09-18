@@ -12,7 +12,6 @@ related_media: ["Serial Experiments Lain", "90s/2000s alternative music", "urban
 source_url: "https://aesthetics.fandom.com/wiki/Cyber_Grunge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Cyber Grunge
@@ -102,22 +101,6 @@ Cyber Grunge seamlessly blends elements of rebellion, urban edge, and a touch of
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ **Cyber Grunge** ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/cyber-grunge/Stargirl.jpg`
-- `images/cyber-grunge/Cyberfairy2.jpg`
-- `images/cyber-grunge/Cyberfairy4.jpg`
-- `images/cyber-grunge/Cyberfairy9.jpg`
-- `images/cyber-grunge/Cyberfairy8.jpg`
-- `images/cyber-grunge/Cyberfairy6.jpg`
-- `images/cyber-grunge/Cyberfairy7.jpg`
-- `images/cyber-grunge/Cyberfairy1.jpg`
-- `images/cyber-grunge/Cyberfairy10.jpg`
-- `images/cyber-grunge/Jacobs1.png`
-- `images/cyber-grunge/Pantssssss.png`
-- `images/cyber-grunge/Dsquared23.jpg`
-- `images/cyber-grunge/Pinkp2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cyber Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyber Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

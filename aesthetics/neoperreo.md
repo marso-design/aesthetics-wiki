@@ -11,7 +11,6 @@ related_aesthetics: ["Bimbocore", "Cyberpunk", "Goth", "Motomami", "Neo-Y2K", "R
 source_url: "https://aesthetics.fandom.com/wiki/Neoperreo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # Neoperreo
@@ -96,30 +95,6 @@ Neoperreo music is a return to the raw origins of [reggaetón](https://aesthetic
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/neoperreo/Neoperreo.jpg`
-- `images/neoperreo/A9d4dcf6a6e2dcac193cdf6f5726a63d.jpg`
-- `images/neoperreo/00466b2357a16817d35113e3194d4348.jpg`
-- `images/neoperreo/750dcdc0c625bedaff9253f18f2b75fc.jpg`
-- `images/neoperreo/36f5ef89657183cdad7229cc378264e9.jpg`
-- `images/neoperreo/7da791626e3d076291edfd11dc25c4f0.jpg`
-- `images/neoperreo/4c7acb0b350a01a053bd0465dda7ca1c.jpg`
-- `images/neoperreo/24e8e5027696ea88395d506f57bcc2f5.jpg`
-- `images/neoperreo/B0c8ce065cc9653003f2b653e5657f53.jpg`
-- `images/neoperreo/25b9d657e42383942ffce6de9ac3d61f.jpg`
-- `images/neoperreo/B562651fc43034c64c030321520b3d3d.jpg`
-- `images/neoperreo/7b492c077b75895cda3a15a943c7b2aa.jpg`
-- `images/neoperreo/87ff888c96b6d874f5b0d731a3b89c81.jpg`
-- `images/neoperreo/5167c68f2640900f884a5a5321f9bd78.jpg`
-- `images/neoperreo/68b0f6a661160fa31c871ce57abc87a9.jpg`
-- `images/neoperreo/4fd6da0aac73ea864bb3c3b0d08f0b90.jpg`
-- `images/neoperreo/9c3216f0bf758be7e1baf892938f8b37.jpg`
-- `images/neoperreo/49e044be343c0ff276ac5be72ac7b7a0.jpg`
-- `images/neoperreo/390464fb0be6a308d4a3b41f3eb9e34b.jpg`
-- `images/neoperreo/626e8b90ce0d21a0c300db895c608baf.jpg`
-- `images/neoperreo/Eb39674086ee093f79da563f92f7503c.jpg`
-
 ## Source and attribution
 
-Text adapted from "Neoperreo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neoperreo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neoperreo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neoperreo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

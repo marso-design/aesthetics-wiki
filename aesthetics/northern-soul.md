@@ -10,7 +10,6 @@ related_aesthetics: ["Beatnik", "Belgian Popcorn", "Disco", "Glam Rock", "Madche
 source_url: "https://aesthetics.fandom.com/wiki/Northern_Soul"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Northern Soul
@@ -141,20 +140,6 @@ Record bag with Northern Soul patches
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/northern-soul/NorthernSoul.png`
-- `images/northern-soul/41T3u21bltL.jpg`
-- `images/northern-soul/235b18e347f8cad13a12dc2e177822cc.jpg`
-- `images/northern-soul/Ns5-qmi6zrdvxgunmq8yxw39zuk21dc26o3t35o83hcw5c.jpg`
-- `images/northern-soul/Northernsoul1.jpg`
-- `images/northern-soul/Northern-soul-dancers-wig-005.jpg`
-- `images/northern-soul/Bookreviews.jpg`
-- `images/northern-soul/0131f8c78d0c6d5f99253999a87e214f.jpg`
-- `images/northern-soul/7c288985e321f0e2cc31eeebae0449f7.jpg`
-- `images/northern-soul/Northernsoul.jpg`
-- `images/northern-soul/0277-Northern-Soul-Dance-Large.jpg`
-
 ## Source and attribution
 
-Text adapted from "Northern Soul" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Northern_Soul), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Northern Soul" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Northern_Soul), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

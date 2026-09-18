@@ -13,7 +13,6 @@ related_media: ["High Fidelity", "The Cosby Show", "Seinfeld"]
 source_url: "https://aesthetics.fandom.com/wiki/Dadcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Dadcore
@@ -62,21 +61,6 @@ The Dadcore aesthetic, especially within the "Divorced Dadcore" niche, centers o
 
 ## References
 
-## Images
-
-- `images/dadcore/ETautz.jpg`
-- `images/dadcore/Fashion-2014-07-josh-duhamel-outfit-blue-pants-main.webp`
-- `images/dadcore/2162.webp`
-- `images/dadcore/08XVrtGiOAaRX4geU.webp`
-- `images/dadcore/GettyImages-1502958512.webp`
-- `images/dadcore/Dadcore3.jpg`
-- `images/dadcore/Dadcore6.jpg`
-- `images/dadcore/Boldsky.jpg`
-- `images/dadcore/Dadcore7.jpg`
-- `images/dadcore/5f154ea22662cc71e5391b152500794e7a7edf46.webp`
-- `images/dadcore/Copy-of-dadcore-212-1-scaled.jpg`
-- `images/dadcore/6a6b37ff-dadcore-the-dad-fashion-trend-making-us-dress-simpler-1200x823.webp`
-
 ## Source and attribution
 
-Text adapted from "Dadcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dadcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dadcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dadcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -5,7 +5,6 @@ palette: ["#F5B91A", "#492E51", "#130B17", "#D1C8AE", "#90B6AC", "#6F796F"]
 source_url: "https://aesthetics.fandom.com/wiki/Political_'Wave'_Aesthetics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Political 'Wave' Aesthetics
@@ -98,15 +97,6 @@ This category is for the other political "wave" aesthetics that are less widespr
 | Conceptual |
 | **Political 'Wave' Aesthetics** ✪ [Signalwave](https://aesthetics.fandom.com/wiki/Signalwave "Signalwave") ✪ [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") |
 
-## Images
-
-- `images/political-wave-aesthetics/Politicalwave.png`
-- `images/political-wave-aesthetics/FashwaveExample.jpeg`
-- `images/political-wave-aesthetics/Wmioncyyf2w61.jpg`
-- `images/political-wave-aesthetics/Anarchowave3.jpg`
-- `images/political-wave-aesthetics/Faragewave.png`
-- `images/political-wave-aesthetics/888888.png`
-
 ## Source and attribution
 
-Text adapted from "Political 'Wave' Aesthetics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Political_'Wave'_Aesthetics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Political 'Wave' Aesthetics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Political_'Wave'_Aesthetics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

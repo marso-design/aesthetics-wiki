@@ -13,7 +13,6 @@ related_media: ["Ashita", "Watashi wa Dareka no Kanojo", "NEEDY STREAMER OVERLOA
 source_url: "https://aesthetics.fandom.com/wiki/Jirai_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Jirai Kei
@@ -292,20 +291,6 @@ A makeup tutorial
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/jirai-kei/Jiraikei.jpg`
-- `images/jirai-kei/J10.png`
-- `images/jirai-kei/Jerseymaid.jpg`
-- `images/jirai-kei/Strongzerojirai.png`
-- `images/jirai-kei/Pillcoffinrazorpink.png`
-- `images/jirai-kei/Blackpinkjiraidesksetup.png`
-- `images/jirai-kei/Darkgirly1.png`
-- `images/jirai-kei/S4b1be5c9bd22413b90340e2d5ba0efc4z.jpg`
-- `images/jirai-kei/Jiraigirlset.png`
-- `images/jirai-kei/Jirai.jpg`
-- `images/jirai-kei/Unbenannt.png`
-
 ## Source and attribution
 
-Text adapted from "Jirai Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jirai_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Jirai Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jirai_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Autumn", "Dark Academia", "Dopamine", "Grandparentcore", "
 source_url: "https://aesthetics.fandom.com/wiki/Maillard_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Maillard Style
@@ -53,17 +52,6 @@ Contouring and highlighting are important aspects of the look. Contour shades wi
 | --- | --- | --- |
 | [Aliyahcore](https://aesthetics.fandom.com/wiki/Aliyahcore "Aliyahcore") • [Avant Basic](https://aesthetics.fandom.com/wiki/Avant_Basic "Avant Basic") • [Barbiecore](https://aesthetics.fandom.com/wiki/Barbiecore "Barbiecore") • [Blokecore](https://aesthetics.fandom.com/wiki/Blokecore "Blokecore") • [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") • [Blueberry Girl](https://aesthetics.fandom.com/wiki/Blueberry_Girl "Blueberry Girl") • [Brat Summer](https://aesthetics.fandom.com/wiki/Brat_Summer "Brat Summer") • [Brazilian Bombshell](https://aesthetics.fandom.com/wiki/Brazilian_Bombshell "Brazilian Bombshell") • [Brazilcore](https://aesthetics.fandom.com/wiki/Brazilcore "Brazilcore") • [Cacareco Girl](https://aesthetics.fandom.com/wiki/Cacareco_Girl "Cacareco Girl") • [Cayetana](https://aesthetics.fandom.com/wiki/Cayetana "Cayetana") • [Cinnamon Girl](https://aesthetics.fandom.com/wiki/Cinnamon_Girl "Cinnamon Girl") • [Christian Girl Autumn](https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn "Christian Girl Autumn") • [Clean Girl](https://aesthetics.fandom.com/wiki/Clean_Girl "Clean Girl") • [Coastal Cowgirl](https://aesthetics.fandom.com/wiki/Coastal_Cowgirl "Coastal Cowgirl") • [Coastal Grandmother](https://aesthetics.fandom.com/wiki/Coastal_Grandmother "Coastal Grandmother") • [Dopamine Dressing](https://aesthetics.fandom.com/wiki/Dopamine_Dressing "Dopamine Dressing") • [Earthy Black Girl](https://aesthetics.fandom.com/wiki/Earthy_Black_Girl "Earthy Black Girl") • [Eclectic Grandpa](https://aesthetics.fandom.com/wiki/Eclectic_Grandpa "Eclectic Grandpa") • [Female Horror Game Protagonist Fashion](https://aesthetics.fandom.com/wiki/Female_Horror_Game_Protagonist_Fashion "Female Horror Game Protagonist Fashion") • [Frazzled English Woman](https://aesthetics.fandom.com/wiki/Frazzled_English_Woman "Frazzled English Woman") • [Girl Suffix](https://aesthetics.fandom.com/wiki/Category:Girl "Category:Girl") • [Granola Girl](https://aesthetics.fandom.com/wiki/Granola_Girl "Granola Girl") • [Grocery Girl Fall](https://aesthetics.fandom.com/wiki/Grocery_Girl_Fall "Grocery Girl Fall") • [Lulicore](https://aesthetics.fandom.com/wiki/Lulicore "Lulicore") • **Maillard Style** • [Mermaidcore](https://aesthetics.fandom.com/wiki/Mermaidcore "Mermaidcore") • [Mob Wife](https://aesthetics.fandom.com/wiki/Mob_Wife "Mob Wife") • [Office Siren](https://aesthetics.fandom.com/wiki/Office_Siren "Office Siren") • [Peach Girl](https://aesthetics.fandom.com/wiki/Peach_Girl "Peach Girl") • [Pearlcore](https://aesthetics.fandom.com/wiki/Pearlcore "Pearlcore") • [Plazacore](https://aesthetics.fandom.com/wiki/Plazacore "Plazacore") • [Sad Beige](https://aesthetics.fandom.com/wiki/Sad_Beige "Sad Beige") • [Scandi Girl Winter](https://aesthetics.fandom.com/wiki/Scandi_Girl_Winter "Scandi Girl Winter") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Strawberry Girl](https://aesthetics.fandom.com/wiki/Strawberry_Girl "Strawberry Girl") • [Succubus Chic](https://aesthetics.fandom.com/wiki/Succubus_Chic "Succubus Chic") • [Tenniscore](https://aesthetics.fandom.com/wiki/Tenniscore "Tenniscore") • [That Girl](https://aesthetics.fandom.com/wiki/That_Girl "That Girl") • [Tomato Girl](https://aesthetics.fandom.com/wiki/Tomato_Girl "Tomato Girl") • [Tumbette](https://aesthetics.fandom.com/wiki/Tumbette "Tumbette") • [Vanilla Girl](https://aesthetics.fandom.com/wiki/Vanilla_Girl "Vanilla Girl") |
 
-## Images
-
-- `images/maillard-style/MaillardFashion.png`
-- `images/maillard-style/Maillard.jpg`
-- `images/maillard-style/35fc0f3d9206631d8d39131c7230c4b8e590a181.jpeg`
-- `images/maillard-style/Maillard-style4.jpg`
-- `images/maillard-style/GettyImages-1605950813-1.jpg`
-- `images/maillard-style/376221654-1043109146844878-2673511544456709847-n-651bde978de9b.jpg`
-- `images/maillard-style/Img-5371-6528c08a2a90a.jpg`
-- `images/maillard-style/3naill.webp`
-
 ## Source and attribution
 
-Text adapted from "Maillard Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Maillard_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Maillard Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Maillard_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

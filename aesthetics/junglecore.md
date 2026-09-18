@@ -10,7 +10,6 @@ related_aesthetics: ["Summer", "Tropical", "Natural Philosophy", "Naturecore", "
 source_url: "https://aesthetics.fandom.com/wiki/Junglecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Junglecore
@@ -224,21 +223,6 @@ People with this aesthetic like down-to-earth and calming activities, as well as
 
 ## Gallery
 
-## Images
-
-- `images/junglecore/Jungleae.jpeg`
-- `images/junglecore/Da2878f4d8a5fcd631b6422e38c48e6e.jpg`
-- `images/junglecore/OIP.jpg`
-- `images/junglecore/6e8252f9eb158e9a35eaecc1f2af8480.jpg`
-- `images/junglecore/3731718d9fdee81d339fe63adb585018.jpg`
-- `images/junglecore/546293bd2853ed56ce256f91602393ca.jpg`
-- `images/junglecore/Jungloecoreflower.jpg`
-- `images/junglecore/Junglecoreoutfit.jpg`
-- `images/junglecore/Elephantjungle.jpg`
-- `images/junglecore/Eyemakeup.jpg`
-- `images/junglecore/Parrot.jpg`
-- `images/junglecore/The-jungle-book-1967-di-01-1050x591.jpg`
-
 ## Source and attribution
 
-Text adapted from "Junglecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Junglecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Junglecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Junglecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

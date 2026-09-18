@@ -11,7 +11,6 @@ palette: ["#272324", "#483321", "#4B443C", "#8C7B68", "#6D635A", "#AB9886"]
 source_url: "https://aesthetics.fandom.com/wiki/Arabian_Nights"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Arabian Nights
@@ -40,10 +39,6 @@ However, many participants and observers argue that the trend is an act of recla
 
 ## References
 
-## Images
-
-- `images/arabian-nights/3c61cee12f20ccd7bec96a75ce8ffd97.jpg`
-
 ## Source and attribution
 
-Text adapted from "Arabian Nights" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Arabian_Nights), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Arabian Nights" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Arabian_Nights), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

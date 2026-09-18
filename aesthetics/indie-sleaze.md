@@ -12,7 +12,6 @@ primary_platform: ["The Cobrasnake", "MySpace", "Music Blogs", "Facebook (Early 
 source_url: "https://aesthetics.fandom.com/wiki/Indie_Sleaze"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Indie Sleaze
@@ -251,21 +250,6 @@ A primary criticism of the era concerns the lack of safeguarding for young, ofte
 
 ## References
 
-## Images
-
-- `images/indie-sleaze/1635539155-skins-cast-photoshoot.jpg`
-- `images/indie-sleaze/1635539204-tumblr-effy-stonem-skins.gif`
-- `images/indie-sleaze/1635539177-american-apparel-kyle-james-patrick.jpg`
-- `images/indie-sleaze/1315683.jpg`
-- `images/indie-sleaze/1635523691-skins-indie-sleaze.jpg`
-- `images/indie-sleaze/1315782.jpg`
-- `images/indie-sleaze/1635539237-indie-sleaze-instagram.jpg`
-- `images/indie-sleaze/1635539283-indie-sleaze-avril-lavigne.jpg`
-- `images/indie-sleaze/1315783.jpg`
-- `images/indie-sleaze/1635523361-kanye-west-indie-sleaze.jpg`
-- `images/indie-sleaze/Mu7.jpg`
-- `images/indie-sleaze/Marissa.jpg`
-
 ## Source and attribution
 
-Text adapted from "Indie Sleaze" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indie_Sleaze), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Indie Sleaze" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indie_Sleaze), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ palette: ["#537A82", "#1F2C2E", "#B78A7F", "#091112", "#434557", "#E9E3CE"]
 source_url: "https://aesthetics.fandom.com/wiki/Jiangshi_fiction"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Jiangshi fiction
@@ -48,20 +47,6 @@ Models by @饼干哥cookies (ID：8934712905） on Rednote
 
 ## References
 
-## Images
-
-- `images/jiangshi-fiction/Jiangshi-MrVampire.jpeg`
-- `images/jiangshi-fiction/Jiangshi-MrVampireII.jpeg`
-- `images/jiangshi-fiction/Jiangshi-MrVampireIV.webp`
-- `images/jiangshi-fiction/Jiangshi-TheUltimateVampire.jpeg`
-- `images/jiangshi-fiction/Jiangshi-MrVampireIII.webp`
-- `images/jiangshi-fiction/Jiangshi-1.jpeg`
-- `images/jiangshi-fiction/Jiangshi-2.jpeg`
-- `images/jiangshi-fiction/Jiangshi-3.jpeg`
-- `images/jiangshi-fiction/Jiangshi-4.jpeg`
-- `images/jiangshi-fiction/Jiangshi-5.jpeg`
-- `images/jiangshi-fiction/Jiangshi-6.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Jiangshi fiction" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jiangshi_fiction), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Jiangshi fiction" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jiangshi_fiction), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

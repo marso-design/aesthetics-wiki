@@ -10,7 +10,6 @@ related_aesthetics: ["Baroque", "Danish Golden Age", "Flemish Baroque", "Norther
 source_url: "https://aesthetics.fandom.com/wiki/Dutch_Golden_Age"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Dutch Golden Age
@@ -84,4 +83,4 @@ View of Delft by Johannes Vermeer
 
 ## Source and attribution
 
-Text adapted from "Dutch Golden Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dutch_Golden_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dutch Golden Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dutch_Golden_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

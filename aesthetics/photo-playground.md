@@ -12,7 +12,6 @@ related_media: ["Nick Jr", "Little Airplane", "Little Einsteins", "Big Fish Game
 source_url: "https://aesthetics.fandom.com/wiki/Photo_Playground"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Photo Playground
@@ -121,13 +120,6 @@ Lily's Driftwood Bay
 
 Lily's Driftwood ay
 
-## Images
-
-- `images/photo-playground/Awt.png`
-- `images/photo-playground/Awt2.png`
-- `images/photo-playground/Monsterquest.png`
-- `images/photo-playground/1023508-henson-signs-new-media-partners-lily-s-driftwood-bay.webp`
-
 ## Source and attribution
 
-Text adapted from "Photo Playground" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Photo_Playground), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Photo Playground" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Photo_Playground), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

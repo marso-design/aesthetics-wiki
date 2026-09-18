@@ -12,7 +12,6 @@ related_media: ["Dracula", "Frankenstein"]
 source_url: "https://aesthetics.fandom.com/wiki/Darkest_Academia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Darkest Academia
@@ -106,29 +105,6 @@ Works of Lovecraft also intersect with Gothic Academia
 
 ## References
 
-## Images
-
-- `images/darkest-academia/Darkestacademia1.jpg`
-- `images/darkest-academia/Darkestacademia2.jpg`
-- `images/darkest-academia/Bloodbook.jpg`
-- `images/darkest-academia/Skeletonwriting.jpg`
-- `images/darkest-academia/Darkestacademia7.jpg`
-- `images/darkest-academia/Darkestacademia8.jpg`
-- `images/darkest-academia/Occultbook2.jpg`
-- `images/darkest-academia/Darkestacademia10.jpg`
-- `images/darkest-academia/Darkestacademia11.jpg`
-- `images/darkest-academia/Darkestacademia5.jpg`
-- `images/darkest-academia/Darkestacademia9.jpg`
-- `images/darkest-academia/Darkestacademia12.jpg`
-- `images/darkest-academia/Gothicacademia.jpg`
-- `images/darkest-academia/GothicAcademiaArchitecture.png`
-- `images/darkest-academia/Darkestacademia13.jpg`
-- `images/darkest-academia/Darkestacademia14.jpg`
-- `images/darkest-academia/Gotchiacademia20.jpg`
-- `images/darkest-academia/Gothicacademia21.jpg`
-- `images/darkest-academia/Faust.jpg`
-- `images/darkest-academia/Gothicacademiafasion.jpg`
-
 ## Source and attribution
 
-Text adapted from "Darkest Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Darkest_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Darkest Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Darkest_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

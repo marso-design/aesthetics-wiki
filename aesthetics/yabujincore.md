@@ -11,7 +11,6 @@ palette: ["#000003", "#444B4F", "#FDFFFF", "#9A9A93", "#847C74", "#E7E9E0"]
 source_url: "https://aesthetics.fandom.com/wiki/Yabujincore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Yabujincore
@@ -136,31 +135,6 @@ Popular songs used within the aesthetic include:
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/yabujincore/Yabujincore.jpg`
-- `images/yabujincore/A697ab7701916aac51a0b7fc1f7540d1.jpg`
-- `images/yabujincore/23606e1e62bdd37542bcdf4535e404eb.jpg`
-- `images/yabujincore/93d3b375186fac4b685c4571de8547fc.jpg`
-- `images/yabujincore/B44c5d3f2334b68fec62a8db8211fccd.jpg`
-- `images/yabujincore/E48d234f51f8b44db0d6799d997586ad.jpg`
-- `images/yabujincore/160052ac43875aa479aaa065aa5c4fcd.jpg`
-- `images/yabujincore/53e60fda84bc208bfb9c3e10c56b842e.jpg`
-- `images/yabujincore/8535f59d279cf95e3898873fa4d9ead0.jpg`
-- `images/yabujincore/E7432e9b6e655c6262709e081d31b956.jpg`
-- `images/yabujincore/Cee96970c3ec8b301d193527a4b585a3.jpg`
-- `images/yabujincore/C021a11c0cddd34e934300d0de5c9b06.jpg`
-- `images/yabujincore/54afb64f56c7b93b04cdcc4f4d6ce262.jpg`
-- `images/yabujincore/96705cbe7a5050c62809ca7bfb606cdc.jpg`
-- `images/yabujincore/059c6cd61207df876832e071b607e1e0.jpg`
-- `images/yabujincore/31cfb1117dcb136215fa532da30486d1.jpg`
-- `images/yabujincore/Eed281e61da01ba066f3dd57642c8e64.jpg`
-- `images/yabujincore/F09bc499e6309497221019015044e62b.jpg`
-- `images/yabujincore/2834fa33d1369e767768e6ecda6262df.jpg`
-- `images/yabujincore/81fc97b3e8709f99db5288a7402e8b9d.jpg`
-- `images/yabujincore/59af98b6c10e8b692f19aec6baaa4958.jpg`
-- `images/yabujincore/SnowGirl.webp`
-
 ## Source and attribution
 
-Text adapted from "Yabujincore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yabujincore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yabujincore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yabujincore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["8-Bit", "Arcadecore", "Cyberdelic", "Cybertwee", "Low Poly
 source_url: "https://aesthetics.fandom.com/wiki/Retro_Gamer"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Retro Gamer
@@ -60,25 +59,6 @@ Retro Gamer aesthetic visuals include:
 
 ## Gallery
 
-## Images
-
-- `images/retro-gamer/Gamercore.jpg`
-- `images/retro-gamer/CF4EF9EF-0335-4941-BFC9-12E3147E5D2C.jpg`
-- `images/retro-gamer/Arcade.jpg`
-- `images/retro-gamer/Arcade2.jpg`
-- `images/retro-gamer/Controllers.jpg`
-- `images/retro-gamer/Gameboyaesthetic.jpg`
-- `images/retro-gamer/PikachuBeach.jpg`
-- `images/retro-gamer/GameRoom.jpg`
-- `images/retro-gamer/Tamagotchis.webp`
-- `images/retro-gamer/143500e20fb63a764f34277dc1289718.jpg`
-- `images/retro-gamer/2f1a62ef6e47fb001f7a8b1af1e9f79e.jpg`
-- `images/retro-gamer/25c1e7cd89567eb3249c930d395f6b37.jpg`
-- `images/retro-gamer/Eeb16a4aac119bd7652eb1572f0c09ef.jpg`
-- `images/retro-gamer/41d878a2d1e7adeea51c9ac49d328164.jpg`
-- `images/retro-gamer/47778a53f540999c75760e72d13fae44.jpg`
-- `images/retro-gamer/E9b7c27abaa2593a36e092461a68f68e.jpg`
-
 ## Source and attribution
 
-Text adapted from "Retro Gamer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Retro_Gamer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Retro Gamer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Retro_Gamer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

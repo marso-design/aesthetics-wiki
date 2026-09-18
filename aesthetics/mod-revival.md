@@ -10,7 +10,6 @@ palette: ["#1B0415", "#9C857C", "#625D63", "#4E424C", "#4E2931", "#B39C8E"]
 source_url: "https://aesthetics.fandom.com/wiki/Mod_Revival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Mod Revival
@@ -47,10 +46,6 @@ The revival was catalyzed by the 1979 film *Quadrophenia* and the rising popular
 
 *Under Construction*
 
-## Images
-
-- `images/mod-revival/ModRevival.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mod Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mod_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mod Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mod_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

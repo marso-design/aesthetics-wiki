@@ -9,7 +9,6 @@ related_media: ["Winnie the Pooh", "Bee Movie"]
 source_url: "https://aesthetics.fandom.com/wiki/Honeycore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Honeycore
@@ -76,21 +75,6 @@ Bee and honeycomb art by Aya Devin
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/honeycore/B8b69d04a03c03ad32b3d0b1b9220f77.jpg`
-- `images/honeycore/Honeycore.jpg`
-- `images/honeycore/C471d257fedf43467297e64bc2ec0c45.jpg`
-- `images/honeycore/D8dcc199e2eea06ab54b0df14a05812b.jpg`
-- `images/honeycore/Honeymakeup.jpg`
-- `images/honeycore/Hexagonbee.jpg`
-- `images/honeycore/Nectarbee.jpeg`
-- `images/honeycore/Honeycomb.jpg`
-- `images/honeycore/Honeycore2.png`
-- `images/honeycore/Honeycore3.png`
-- `images/honeycore/Honeycore4.png`
-- `images/honeycore/Honey.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Honeycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Honeycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Honeycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Honeycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["The Decline of Western Civilization III (1998 film)"]
 source_url: "https://aesthetics.fandom.com/wiki/Gutter_Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Gutter Punk
@@ -112,26 +111,6 @@ A subgroup known as "Scumfucks" is sometimes internally identified within the sc
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/gutter-punk/Gutterpunk.png`
-- `images/gutter-punk/Perroflautas.jpg`
-- `images/gutter-punk/2000006576854.webp`
-- `images/gutter-punk/D9c463cf6555fbabdae6d35e7425df46.jpg`
-- `images/gutter-punk/3d217c64617ab3838b27552cefd1bd16.jpg`
-- `images/gutter-punk/D172e9a334e328379b494b0961b3de56.jpg`
-- `images/gutter-punk/2b25311038d7bf5116988a613286a057.jpg`
-- `images/gutter-punk/D8fe7bb46cc14f317fb48d0cf44734f3.jpg`
-- `images/gutter-punk/Punkachiens.jpg`
-- `images/gutter-punk/2000006576853.webp`
-- `images/gutter-punk/Be6c74d79df7de45135b8cd5e00eb381.jpg`
-- `images/gutter-punk/PUNKS-512x383.png`
-- `images/gutter-punk/GutterPunksDecaturStreet2002.jpg`
-- `images/gutter-punk/1576426.webp`
-- `images/gutter-punk/GutterPunksDecaturStreet2019.jpg`
-- `images/gutter-punk/Beyou.jpg`
-- `images/gutter-punk/Crus.webp`
-
 ## Source and attribution
 
-Text adapted from "Gutter Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gutter_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gutter Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gutter_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -13,7 +13,6 @@ related_media: ["Onegai My Melody", "Kuromi's Pretty Journey"]
 source_url: "https://aesthetics.fandom.com/wiki/Melodycore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Melodycore
@@ -50,26 +49,6 @@ The aesthetic favors a natural, nude makeup base that draws inspiration from Jap
 
 ## Notes
 
-## Images
-
-- `images/melodycore/Melody.png`
-- `images/melodycore/Cf32eb17d37d07f223f8ec7040265621a9a42821332bc77d744e35e0270869a4.jpg`
-- `images/melodycore/FFjr3ZuX0AEnpku.jpg`
-- `images/melodycore/F4184c36bc823b1a92b62d92a1a617e6.png`
-- `images/melodycore/6d434bbc482bfd75a5d1ad3df8c340ad.jpg`
-- `images/melodycore/1f1a779c28ec0ed7995bd4cbd0f586fd.jpg`
-- `images/melodycore/Abfb0a0cd99b7d0dbd8d520e8cfaaca9.jpg`
-- `images/melodycore/Ebd0eb13db528a709c837e453476c561.jpg`
-- `images/melodycore/53c24ef2b4ee995a9c66049b15877df9.jpg`
-- `images/melodycore/Beac30a3ee1cd0da6f709b7a7dbbc0e1.jpg`
-- `images/melodycore/Ac0573f9db8219fd45033d79109df360.jpg`
-- `images/melodycore/738c838fc87a312feaf29f53a6d1403a.jpg`
-- `images/melodycore/Fda8b0cb1c63cd9dd190ed94737f4ad3.jpg`
-- `images/melodycore/Bf9966935047734285d255bae2ed91e7.jpg`
-- `images/melodycore/Melodycore.jpg`
-- `images/melodycore/Melo1.jpg`
-- `images/melodycore/Melo2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Melodycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Melodycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Melodycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Melodycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Coastal Style", "Cottagecore", "French Country", "Gustavia
 source_url: "https://aesthetics.fandom.com/wiki/Shabby_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Shabby Chic
@@ -45,11 +44,6 @@ The Laura Ashley Book of Home Decorating, 1988
 
 ## References
 
-## Images
-
-- `images/shabby-chic/Shabby-chic-but-with-pops.jpg`
-- `images/shabby-chic/Shabbychicfashion.jpg`
-
 ## Source and attribution
 
-Text adapted from "Shabby Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shabby_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Shabby Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shabby_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Anarcho-Punk", "Bravú", "Crustpunk", "Movida Madrileña",
 source_url: "https://aesthetics.fandom.com/wiki/Basque_Radical_Rock"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Basque Radical Rock
@@ -172,20 +171,6 @@ The stage for a concert by the band Kortatu in 1988.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/basque-radical-rock/Rock-radical-vasco.jpg`
-- `images/basque-radical-rock/Kortatu(1).jpg`
-- `images/basque-radical-rock/92-rip-no-te-muevas.jpg`
-- `images/basque-radical-rock/RIP-1-1024x985.jpg`
-- `images/basque-radical-rock/R-2915941-1307179859.jpg`
-- `images/basque-radical-rock/1200x1200bb.jpg`
-- `images/basque-radical-rock/Raska-y-pierde.jpg`
-- `images/basque-radical-rock/Bd5ec0c1-5f42-4ff5-be50-7e570a2d1194.png`
-- `images/basque-radical-rock/R-3185813-1541442574-5930.jpg`
-- `images/basque-radical-rock/Elektroduendes-salgo-a-la-calle-Cover-Art.jpg`
-- `images/basque-radical-rock/BasquePunk1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Basque Radical Rock" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Basque_Radical_Rock), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Basque Radical Rock" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Basque_Radical_Rock), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

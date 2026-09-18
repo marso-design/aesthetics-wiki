@@ -13,7 +13,6 @@ related_media: ["Se7en", "My So-Called Life", "WWF Attitude", "The Craft", "RENT
 source_url: "https://aesthetics.fandom.com/wiki/Corporate_Grunge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Corporate Grunge
@@ -225,14 +224,6 @@ FUNNY 90's Grunge Commercials, Skits & Interviews
 
 ## References
 
-## Images
-
-- `images/corporate-grunge/Artworks-000194698239-rb9nfb-t500x500.jpg`
-- `images/corporate-grunge/DuneExpedicion.jpg`
-- `images/corporate-grunge/Raygun.jpg`
-- `images/corporate-grunge/Nicknames.jpg`
-- `images/corporate-grunge/Acidgraphix.jpg`
-
 ## Source and attribution
 
-Text adapted from "Corporate Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corporate_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Corporate Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corporate_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

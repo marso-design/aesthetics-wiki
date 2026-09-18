@@ -11,7 +11,6 @@ related_aesthetics: ["Cozycore"]
 source_url: "https://aesthetics.fandom.com/wiki/Sleepcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Sleepcore
@@ -36,14 +35,6 @@ It’s often presented as curated video compilations designed to lull viewers to
 
 ## Gallery
 
-## Images
-
-- `images/sleepcore/Tuxedosamm.jpg`
-- `images/sleepcore/Twinstarzzs.jpg`
-- `images/sleepcore/Sleepycore.jpg`
-- `images/sleepcore/Carebearz.jpg`
-- `images/sleepcore/842024976dfa44244d9af67b4dd13798.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sleepcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sleepcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sleepcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sleepcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

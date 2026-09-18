@@ -11,7 +11,6 @@ related_media: ["La Farfa magazine", "Chubbiness (J-Pop group)", "la BIG 3 (J-Po
 source_url: "https://aesthetics.fandom.com/wiki/Marshmallow_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Marshmallow Girl
@@ -59,18 +58,6 @@ La BIG 3 - ぽちゃティブ～BodyもHeartもグラマラス～
 
 ## References
 
-## Images
-
-- `images/marshmallow-girl/MarshmallowGirl.png`
-- `images/marshmallow-girl/E1zSPO0VUAkxAo2.webp`
-- `images/marshmallow-girl/DMyqReMU8AAywFx.webp`
-- `images/marshmallow-girl/Marshmallowgirl.jpg`
-- `images/marshmallow-girl/Screen-shot-2015-04-28-at-11-37-32.webp`
-- `images/marshmallow-girl/Japanese-marshmallow-girl.jpg`
-- `images/marshmallow-girl/Chubiness-japan.jpg`
-- `images/marshmallow-girl/315.jpg`
-- `images/marshmallow-girl/MstyhDBc6yGWpR9rGpzydFC22BSdeFAYlzy-tj0aSKg.jpg`
-
 ## Source and attribution
 
-Text adapted from "Marshmallow Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Marshmallow_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Marshmallow Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Marshmallow_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

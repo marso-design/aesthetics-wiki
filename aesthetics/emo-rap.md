@@ -12,7 +12,6 @@ related_media: ["SoundCloud"]
 source_url: "https://aesthetics.fandom.com/wiki/Emo_Rap"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Emo Rap
@@ -176,23 +175,6 @@ An example of a style popular among Emo Rap fans; often labelled as "[Sadgirl](h
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/emo-rap/Ab67616d0000b273e97516a0d9b58cff7df931a9.jpg`
-- `images/emo-rap/LilPeep.png`
-- `images/emo-rap/17XXXTentacion.jpg`
-- `images/emo-rap/SAD.jpeg`
-- `images/emo-rap/87adb1a822af2fa32c2dea3a983700ca.jpg`
-- `images/emo-rap/Poorstacy.jpg`
-- `images/emo-rap/Fea73e5e77981ee0c79a38ff2c824ab9.500x500x1.jpg`
-- `images/emo-rap/TeenWitch.jpg`
-- `images/emo-rap/Darkroseemorap.png`
-- `images/emo-rap/8814961.jpeg`
-- `images/emo-rap/877bd835cd62a2cfa7559485f4d4e5b5.jpg`
-- `images/emo-rap/EmoRapBart.jpg`
-- `images/emo-rap/Artworks-oXUQpczjtgh1PmLW-RdSlsQ-t500x500.jpg`
-- `images/emo-rap/BartEdit.jpg`
-
 ## Source and attribution
 
-Text adapted from "Emo Rap" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Emo_Rap), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Emo Rap" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Emo_Rap), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

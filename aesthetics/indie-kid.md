@@ -12,7 +12,6 @@ related_media: ["Coming-of-age films (often associated with A24 productions)"]
 source_url: "https://aesthetics.fandom.com/wiki/Indie_Kid"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Indie Kid
@@ -113,25 +112,6 @@ How to be Indie Kid l A Complete Guide to Indie Kid - clothes, accessories, hair
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/indie-kid/Indie-bucket-hat.jpg`
-- `images/indie-kid/730b038e6e2e076e3549893d4376a60a.jpg`
-- `images/indie-kid/Euphoric-indie.jpg`
-- `images/indie-kid/1BE59C4E-ED0D-418C-8103-D5717DA6A81E.jpeg`
-- `images/indie-kid/D8750B08-586A-4031-9C84-40B53FDD4BAB.jpeg`
-- `images/indie-kid/31A546C6-BF40-4ED3-99F1-61010FAEBDB3.jpeg`
-- `images/indie-kid/IndieKidPoster.jpeg`
-- `images/indie-kid/E43398AE-CE14-438D-B010-21D66FBE3BE1.jpeg`
-- `images/indie-kid/956BD5AF-A537-4F75-AE04-A26B694B26AC.jpeg`
-- `images/indie-kid/IndieMin.09.PNG`
-- `images/indie-kid/Indie-room.jpg`
-- `images/indie-kid/Indie-forest.jpg`
-- `images/indie-kid/Aaanokk.png`
-- `images/indie-kid/Indiegrl.png`
-- `images/indie-kid/Indiegrl1.png`
-- `images/indie-kid/Indie-shoes-image.jpg`
-
 ## Source and attribution
 
-Text adapted from "Indie Kid" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indie_Kid), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Indie Kid" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indie_Kid), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

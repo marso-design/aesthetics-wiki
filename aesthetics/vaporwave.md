@@ -14,7 +14,6 @@ primary_platform: ["Tumblr", "SoundCloud", "Bandcamp", "4chan"]
 source_url: "https://aesthetics.fandom.com/wiki/Vaporwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 25
 ---
 
 # Vaporwave
@@ -254,34 +253,6 @@ Still from *Miami Vice* featuring a lush interior design with pink and cyan past
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/vaporwave/Anime-vaporwave-aesthetic-wallpaper-e940b86db10add4be637680f00e106ad.jpg`
-- `images/vaporwave/Arizona.png`
-- `images/vaporwave/1.jpg`
-- `images/vaporwave/0lzdsN.jpg`
-- `images/vaporwave/8etnb4.jpg`
-- `images/vaporwave/6iYE4b.png`
-- `images/vaporwave/4al7vI.jpg`
-- `images/vaporwave/4giugnu1viiz.png`
-- `images/vaporwave/1HoHdkf.png`
-- `images/vaporwave/Mallwave.jpeg`
-- `images/vaporwave/BduZlc.jpg`
-- `images/vaporwave/BDiEkH.jpg`
-- `images/vaporwave/TV.jpeg`
-- `images/vaporwave/D2054ebc90169f68e3f0fd44898376e2.jpg`
-- `images/vaporwave/Giphy420.gif`
-- `images/vaporwave/3845f7279613a7ae0442518f41039f4c.gif`
-- `images/vaporwave/Vaporwave.png`
-- `images/vaporwave/Danganwave.jpg`
-- `images/vaporwave/Vaporwave-aesthetic-great-wave.png`
-- `images/vaporwave/80sassemblage.jpg`
-- `images/vaporwave/C3.jpg`
-- `images/vaporwave/Brazilwave.png`
-- `images/vaporwave/Synthwave-and-Vaporwave-Tutorial-Free-Retro-Pack.jpg`
-- `images/vaporwave/Synthwave-and-Vaporwave-Tutorial-Look-of-Vaporwave.jpg`
-- `images/vaporwave/DBD95244-84D9-4C7B-AF42-A836A63DDB9D.gif`
-
 ## Source and attribution
 
-Text adapted from "Vaporwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vaporwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vaporwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vaporwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

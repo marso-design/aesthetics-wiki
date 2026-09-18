@@ -11,7 +11,6 @@ related_aesthetics: ["Baroque", "Dutch Golden Age", "Flemish Baroque", "Italian 
 source_url: "https://aesthetics.fandom.com/wiki/Spanish_Golden_Age"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 41
 ---
 
 # Spanish Golden Age
@@ -313,50 +312,6 @@ Leather gloves with embroidered silk satin cuffs. (Cooper Hewitt, Smithsonian De
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/spanish-golden-age/LasMeninas.jpg`
-- `images/spanish-golden-age/PalaceofCharlesV.jpg`
-- `images/spanish-golden-age/SGA1.jpg`
-- `images/spanish-golden-age/SGA2.jpg`
-- `images/spanish-golden-age/SGA3.jpg`
-- `images/spanish-golden-age/SGA4.jpg`
-- `images/spanish-golden-age/SGA5.jpg`
-- `images/spanish-golden-age/SGA6.jpg`
-- `images/spanish-golden-age/SGA7.jpg`
-- `images/spanish-golden-age/SGA8.jpg`
-- `images/spanish-golden-age/Golden2.JPG`
-- `images/spanish-golden-age/Golden4.jpg`
-- `images/spanish-golden-age/Golden1.jpg`
-- `images/spanish-golden-age/Golden3.jpg`
-- `images/spanish-golden-age/Golden5.jpg`
-- `images/spanish-golden-age/Golden6.jpg`
-- `images/spanish-golden-age/Golden7.jpg`
-- `images/spanish-golden-age/Golden8.jpg`
-- `images/spanish-golden-age/Golden9.jpg`
-- `images/spanish-golden-age/Golden10.jpg`
-- `images/spanish-golden-age/SpanishGoldenAgeFashion.jpg`
-- `images/spanish-golden-age/SpanishGoldenAgeFashion2.jpg`
-- `images/spanish-golden-age/SpanishGoldenAgeFashion3.jpg`
-- `images/spanish-golden-age/SpanishGoldenAgeFashion4.jpg`
-- `images/spanish-golden-age/Twowomenatawindow.jpg`
-- `images/spanish-golden-age/Franciscodezurburan.jpg`
-- `images/spanish-golden-age/Countoforgaz.jpg`
-- `images/spanish-golden-age/TheDisrobingofChrist.jpg`
-- `images/spanish-golden-age/Theclubfoot.jpg`
-- `images/spanish-golden-age/Therokebyvenus.png`
-- `images/spanish-golden-age/Stilllife.jpg`
-- `images/spanish-golden-age/Thesurrenderofbreda.jpg`
-- `images/spanish-golden-age/Vulcansforge.jpg`
-- `images/spanish-golden-age/Annunciation.png`
-- `images/spanish-golden-age/Thetriumphofdeath.jpg`
-- `images/spanish-golden-age/Thirdofmay.jpg`
-- `images/spanish-golden-age/Lashilanderas.jpg`
-- `images/spanish-golden-age/Universidad-Salamanca.png`
-- `images/spanish-golden-age/SantaPrisca.jpg`
-- `images/spanish-golden-age/Madrid1750.jpg`
-- `images/spanish-golden-age/BalboaPark.jpg`
-
 ## Source and attribution
 
-Text adapted from "Spanish Golden Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spanish_Golden_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Spanish Golden Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spanish_Golden_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

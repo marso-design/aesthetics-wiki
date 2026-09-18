@@ -9,7 +9,6 @@ related_aesthetics: ["Summer", "Tropical", "Surfer", "Surf Crush"]
 source_url: "https://aesthetics.fandom.com/wiki/Beach_Day"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Beach Day
@@ -75,13 +74,6 @@ When going to the beach, these common items to wear to the beach. Keep in mind t
 
 ## Gallery
 
-## Images
-
-- `images/beach-day/Beachday.png.jpg`
-- `images/beach-day/Seacore.jpg`
-- `images/beach-day/Oceancore.jpg`
-- `images/beach-day/Seashells.png`
-
 ## Source and attribution
 
-Text adapted from "Beach Day" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Beach_Day), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Beach Day" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Beach_Day), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

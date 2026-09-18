@@ -12,7 +12,6 @@ primary_platform: ["Tumblr", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Nu-Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Nu-Goth
@@ -110,21 +109,6 @@ Felice Fawn. arguably a trailblazer for the Nu-Goth aesthetic.
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 **Nu-Goth** 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/nu-goth/NuGoth.jpg`
-- `images/nu-goth/Nugoth01.jpg`
-- `images/nu-goth/Nugoth02.jpg`
-- `images/nu-goth/Nugoth03.jpg`
-- `images/nu-goth/Nugoth04.jpg`
-- `images/nu-goth/Nugoth05.jpg`
-- `images/nu-goth/Nugoth06.jpg`
-- `images/nu-goth/Nu-seance-dress.jpg`
-- `images/nu-goth/Nu-anti-valentine.jpg`
-- `images/nu-goth/Nugoth1.jpg`
-- `images/nu-goth/Nu-split-hair.jpg`
-- `images/nu-goth/2014tumblr1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Nu-Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nu-Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nu-Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nu-Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

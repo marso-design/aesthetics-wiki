@@ -11,7 +11,6 @@ related_media: ["Tumblr", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/2014_Girly"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # 2014 Girly
@@ -276,27 +275,6 @@ Victoria's Secret is the main store that fits this aesthetic, but they can also 
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/2014-girly/Rosytumblrbloggirly.jpg`
-- `images/2014-girly/7b545123be64da2d40167a8168073a6b.jpg`
-- `images/2014-girly/B23be8b893803b9607db0ef1aa88d724.jpg`
-- `images/2014-girly/Cccandiceerosytmblr.gif`
-- `images/2014-girly/Hersheys.png`
-- `images/2014-girly/.♥.jpg`
-- `images/2014-girly/Rosy-flow.jpg`
-- `images/2014-girly/Ff1489a36321b440bd3a1a02967656db.jpg`
-- `images/2014-girly/E35398f1372f9235b25596c17ef14565.jpg`
-- `images/2014-girly/B10ddd514071e6f7ee2d976ced1add42.jpg`
-- `images/2014-girly/B8c6d4210ff33c5f8f8d2378e91d6fcd.jpg`
-- `images/2014-girly/C9a07568b9421d23e9ebf5daac9e0002.jpg`
-- `images/2014-girly/4427e813e9485ed2ade3a41db108ad41.jpg`
-- `images/2014-girly/3653d9e7100384b4c29855df0c2fedb6.jpg`
-- `images/2014-girly/♥.jpg`
-- `images/2014-girly/01a4ea104bb7181d294ce9e82a217e11.jpg`
-- `images/2014-girly/D8011e4dea8e4a70772f3e85e8a02c75.jpg`
-- `images/2014-girly/5fb3e01623e95241309a2735dd54ecd4.jpg`
-
 ## Source and attribution
 
-Text adapted from "2014 Girly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2014_Girly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2014 Girly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2014_Girly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

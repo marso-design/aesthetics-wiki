@@ -12,7 +12,6 @@ related_media: ["YouTube and Instagram makeup tutorials"]
 source_url: "https://aesthetics.fandom.com/wiki/Living_Doll"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Living Doll
@@ -100,21 +99,6 @@ Barbie Wannabe Has Eye Surgery To Look More Caucasian - HOOKED ON THE LOOK
 
 ## References
 
-## Images
-
-- `images/living-doll/ValeriaLukyanova2.webp`
-- `images/living-doll/Clone-jumelles-barbie-vivante-ukraine.jpg`
-- `images/living-doll/Valeria-olga-barbie-ukrainienne.jpg`
-- `images/living-doll/What-happened-to-venus-angelic-1605662524166.jpg`
-- `images/living-doll/Livingdolls.png`
-- `images/living-doll/Dakotarose.png`
-- `images/living-doll/Anastayia.png`
-- `images/living-doll/Valeria.png`
-- `images/living-doll/Livingdolls1.png`
-- `images/living-doll/Dakotarose1.png`
-- `images/living-doll/Livingdolls2.png`
-- `images/living-doll/Anastasiya1.png`
-
 ## Source and attribution
 
-Text adapted from "Living Doll" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Living_Doll), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Living Doll" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Living_Doll), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

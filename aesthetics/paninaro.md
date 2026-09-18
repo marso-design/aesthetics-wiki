@@ -10,7 +10,6 @@ related_aesthetics: ["Americana", "Blokecore", "Casuals", "Italo Disco", "New Ro
 source_url: "https://aesthetics.fandom.com/wiki/Paninaro"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Paninaro
@@ -147,19 +146,6 @@ Paninari at a McDonald's.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/paninaro/Paniraro1.jpeg`
-- `images/paninaro/PaninaroMcdonalds.jpeg`
-- `images/paninaro/Af2d98d7cfc0b49534c5756917a03d5d.jpg`
-- `images/paninaro/432382d995a0680c0bed6cca4da38b38.jpg`
-- `images/paninaro/Paninaro2.png`
-- `images/paninaro/9dc9c4d138c9b1a2bcfbd0d630e718ec.jpg`
-- `images/paninaro/C9e91303d20eb9ac11fc58f8ad1acc40.jpg`
-- `images/paninaro/D779abeedf28eb431ecbf8d72c886f6f.jpg`
-- `images/paninaro/2ae821a3d22ed37a180a7a96876db1ca.jpg`
-- `images/paninaro/PaninaroDictionary.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Paninaro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Paninaro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Paninaro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Paninaro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

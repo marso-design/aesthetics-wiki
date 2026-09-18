@@ -10,7 +10,6 @@ related_aesthetics: ["Classicism", "Dandy", "Hollywood Regency", "Light Academia
 source_url: "https://aesthetics.fandom.com/wiki/Regency"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Regency
@@ -177,10 +176,6 @@ Fashion plate (evening dress) by Rudolph Ackermann
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/regency/Emma(2020).jpg`
-
 ## Source and attribution
 
-Text adapted from "Regency" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Regency), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Regency" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Regency), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

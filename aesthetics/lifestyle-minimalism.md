@@ -9,7 +9,6 @@ primary_platform: ["Information communicated through books and blogs"]
 source_url: "https://aesthetics.fandom.com/wiki/Lifestyle_Minimalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Lifestyle Minimalism
@@ -30,4 +29,4 @@ Lifestyle Minimalism with a [French Girl](https://aesthetics.fandom.com/wiki/Fre
 
 ## Source and attribution
 
-Text adapted from "Lifestyle Minimalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lifestyle_Minimalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lifestyle Minimalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lifestyle_Minimalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

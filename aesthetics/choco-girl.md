@@ -12,7 +12,6 @@ primary_platform: ["Tumblr", "Pinterest"]
 source_url: "https://aesthetics.fandom.com/wiki/Choco_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Choco Girl
@@ -65,14 +64,6 @@ Accessories are essential for completing the look and are often the most explici
 
 ## References
 
-## Images
-
-- `images/choco-girl/AngelicPretty.jpg`
-- `images/choco-girl/Cupcake.jpg`
-- `images/choco-girl/Button.jpg`
-- `images/choco-girl/Bag.jpg`
-- `images/choco-girl/Lolli.jpg`
-
 ## Source and attribution
 
-Text adapted from "Choco Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Choco_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Choco Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Choco_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

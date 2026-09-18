@@ -13,7 +13,6 @@ related_media: ["asdfmovie", "YouTube Poop", "MLG", "Regretevator (Roblox game)"
 source_url: "https://aesthetics.fandom.com/wiki/2010s_Meme_Maximalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # 2010s Meme Maximalism
@@ -158,18 +157,6 @@ Animation meme by @scubascan
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/2010s-meme-maximalism/A8dce68695b8aa148cc03edefe827809.jpg`
-- `images/2010s-meme-maximalism/A048e51c770d0fb634e1d9f6125f7cee.jpg`
-- `images/2010s-meme-maximalism/C08ec42920681c45d804227f5630008d.jpg`
-- `images/2010s-meme-maximalism/770767c67fde4507466e71919898d84d.gif`
-- `images/2010s-meme-maximalism/6cd251e954d6d2cdb0902a1b8da62acf.jpg`
-- `images/2010s-meme-maximalism/9f1bf05a265cbee7721108091cf36f78.jpg`
-- `images/2010s-meme-maximalism/8196bf0957adb269668d834236f1ae8d.jpg`
-- `images/2010s-meme-maximalism/939c3ec4f443a474bcd7d33e6cb02f0e.jpg`
-- `images/2010s-meme-maximalism/D9e2f6efb504839f45809519e9dfcb1f.jpg`
-
 ## Source and attribution
 
-Text adapted from "2010s Meme Maximalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Meme_Maximalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2010s Meme Maximalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Meme_Maximalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

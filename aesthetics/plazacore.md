@@ -11,7 +11,6 @@ primary_platform: ["TikTok", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Plazacore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Plazacore
@@ -67,22 +66,6 @@ The color palette is diverse, oscillating between soft pastels (like powder pink
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/plazacore/Plazacore.png`
-- `images/plazacore/1da7418f8efb4ea7ff7f3d0793070e0f.jpg`
-- `images/plazacore/E0f631b764860be4c7a17ca5e0bea747.jpg`
-- `images/plazacore/7737f0ec45b5fd38f75689cb0398c3b0.jpg`
-- `images/plazacore/E5934cb783773816d169dbada064ae8f.jpg`
-- `images/plazacore/22e825b5860ca2ef5e2b291298db8b65.jpg`
-- `images/plazacore/C87c288257065781a8b0aefaabf56386.jpg`
-- `images/plazacore/166ab86bcb5f9bb34d9790bb092cd24a.jpg`
-- `images/plazacore/934a9e1e85d21f39d7cfcda83924c720.jpg`
-- `images/plazacore/4c93cb9fcb1b4f9e484b930dda626a13.jpg`
-- `images/plazacore/C038c11e82326c06173cc4782a2b61e3.jpg`
-- `images/plazacore/E50b0e5e29fa5b30a91cfd212d7bc024.jpg`
-- `images/plazacore/D9629ecc00267f28a1d51bb710d57a42.jpg`
-
 ## Source and attribution
 
-Text adapted from "Plazacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Plazacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Plazacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Plazacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

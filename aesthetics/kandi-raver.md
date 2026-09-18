@@ -11,7 +11,6 @@ related_aesthetics: ["Rave", "Decora", "Kidcore", "Scene", "Scenecore", "Cyberpo
 source_url: "https://aesthetics.fandom.com/wiki/Kandi_Raver"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Kandi Raver
@@ -108,31 +107,6 @@ Glow in the dark kandi bikini. Picture by CarolineChaos.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/kandi-raver/S3RL.jpg`
-- `images/kandi-raver/KandiKid.jpg`
-- `images/kandi-raver/Raver5.jpg`
-- `images/kandi-raver/Raver4.jpg`
-- `images/kandi-raver/M3x1c4nFLYER.jpg`
-- `images/kandi-raver/Raver6.webp`
-- `images/kandi-raver/Kandi.jpg`
-- `images/kandi-raver/1048609697d5bee60a7bd3e8431a90e4.jpg`
-- `images/kandi-raver/Ca66f40311f62d227c773d394637d07f.jpg`
-- `images/kandi-raver/67d3210d2bf48b04f0bae3d11c6fa60f.jpg`
-- `images/kandi-raver/D71c64ccaf96d496a756651d53cb1e40.jpg`
-- `images/kandi-raver/238c78e5632efbc186d9098d3a62237a.jpg`
-- `images/kandi-raver/F486ad2df04b9a1caaac0b7dde6a5401.jpg`
-- `images/kandi-raver/52f1e0781fa0432249a36c7834fa9514.jpg`
-- `images/kandi-raver/345a41c795bf6141ca146eb129064bc7.jpg`
-- `images/kandi-raver/316d265b416a84a902d9a90442266bf6.jpg`
-- `images/kandi-raver/KandiRaver.jpg`
-- `images/kandi-raver/Ca39fc82848d56b47946ff828006c027.jpg`
-- `images/kandi-raver/9ec2a1cc30153e368cd0d6ae772bc1fd.jpg`
-- `images/kandi-raver/5ab74960fc5d301a73e2aa0e6843a8df.jpg`
-- `images/kandi-raver/Fdec494b1a708103cb1a7684776b8ee0.jpg`
-- `images/kandi-raver/KandiTrade.webp`
-
 ## Source and attribution
 
-Text adapted from "Kandi Raver" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kandi_Raver), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kandi Raver" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kandi_Raver), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

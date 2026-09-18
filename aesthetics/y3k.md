@@ -12,7 +12,6 @@ related_media: ["aespa (Music Group)", "XG (Music Group)", "Mugler (Fashion Hous
 source_url: "https://aesthetics.fandom.com/wiki/Y3K"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 34
 ---
 
 # Y3K
@@ -80,43 +79,6 @@ Accessories push traditional elements toward a futuristic or technological funct
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/y3k/3b556e42ded59394f6fd9e1a3a652c32.jpg`
-- `images/y3k/Y3K-Fashion-KIMZISU-.webp`
-- `images/y3k/3d-fashion-by-void-moon-studio-tumblr-tapireye-.jpg`
-- `images/y3k/Futuritic.jpg`
-- `images/y3k/Y3k.jpg`
-- `images/y3k/Y3k-fashion-01.webp`
-- `images/y3k/Y3k-fashion-03.webp`
-- `images/y3k/Milli.jpg`
-- `images/y3k/Skullpanda.webp`
-- `images/y3k/Beyonce.jpg`
-- `images/y3k/44e5ee1411538ae678af93a336cb5535.jpg`
-- `images/y3k/D9d465e0b0b27f1a33f3786efa4fb937.jpg`
-- `images/y3k/D03c9653a22e6f85695058ec6ba837f2.jpg`
-- `images/y3k/9bfda53e518e1d853056591e41b5e9f3.jpg`
-- `images/y3k/509d5491bafe4c957d18b78b08a83030.jpg`
-- `images/y3k/022760239845c6d7d97e07b1e15ce985.jpg`
-- `images/y3k/772157cd71d8bf26ac87867b6bc46a30.jpg`
-- `images/y3k/Df30fcb2c93b228366b1b78ae358a5a5.jpg`
-- `images/y3k/F06d6fc0818950d82fc2dfe0128efcfe.jpg`
-- `images/y3k/Cf5f915ba735e3753ff753f332de8a00.jpg`
-- `images/y3k/302d3fa94a1de9cb3ce187d0c13c1803.jpg`
-- `images/y3k/2f636c1764e18acd94f830b5186fe4c6.jpg`
-- `images/y3k/34c1000bd3c72970f962d9b4cdae00f1.jpg`
-- `images/y3k/F737b408688c5ebc9159392c65e28288.jpg`
-- `images/y3k/4e8d7f1d068a673fe6814362886ac967.jpg`
-- `images/y3k/A3a76d755c56072a72c6db4b87836bae.jpg`
-- `images/y3k/06c7382ad51d6d0ab6c72efb6ab3e04d.jpg`
-- `images/y3k/090f40d0fb1088db1f452938ab65c768.jpg`
-- `images/y3k/38d4d160de2bd3da10012c8a048c3e38.jpg`
-- `images/y3k/896db76df6b4706681939f0d6f298e61.jpg`
-- `images/y3k/786f88bff9b1fb6001a13ba77f5a130f.jpg`
-- `images/y3k/4fe4a04a88b6fe87085bd4acc09d33e5.jpg`
-- `images/y3k/5be6dd89f5e01da64e09c582ab4847c4.jpg`
-- `images/y3k/A1f2fc155230c7fc10969b6b5231ac22.jpg`
-
 ## Source and attribution
 
-Text adapted from "Y3K" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Y3K), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Y3K" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Y3K), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

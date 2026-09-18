@@ -9,7 +9,6 @@ related_media: ["The Lawrence Arms", "Alkaline Trio", "The Bouncing Souls"]
 source_url: "https://aesthetics.fandom.com/wiki/Nu-Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Nu-Punk
@@ -116,4 +115,4 @@ Rise Against - Like the Angels
 
 ## Source and attribution
 
-Text adapted from "Nu-Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nu-Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nu-Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nu-Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

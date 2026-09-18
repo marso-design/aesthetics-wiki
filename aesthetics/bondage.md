@@ -9,7 +9,6 @@ related_aesthetics: ["Babygirl", "E-Boy", "E-Girl", "Electronic Body Music", "Er
 source_url: "https://aesthetics.fandom.com/wiki/Bondage"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Bondage
@@ -164,19 +163,6 @@ Dom the Dom from Saints Row IV
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/bondage/F478zYna0AECvum.jpg`
-- `images/bondage/990c61de91f7c0752e17a83349d3bae8.jpg`
-- `images/bondage/500298552.webp`
-- `images/bondage/BDSMFashion3.webp`
-- `images/bondage/BDSMFashion1.jpg`
-- `images/bondage/BDSMFashion5.webp`
-- `images/bondage/Gothcore.jpg`
-- `images/bondage/Egirl-heart-lock.jpg`
-- `images/bondage/D3ea5c69d2adcca1007da9020e7efde6.jpg`
-- `images/bondage/Dom-the-dom.png`
-
 ## Source and attribution
 
-Text adapted from "Bondage" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bondage), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bondage" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bondage), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

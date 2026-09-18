@@ -9,7 +9,6 @@ related_aesthetics: ["Angelcore", "Cottagecore", "Hellenic", "Light Academia", "
 source_url: "https://aesthetics.fandom.com/wiki/Romantic_Italian"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Romantic Italian
@@ -99,15 +98,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 ## Gallery
 
-## Images
-
-- `images/romantic-italian/Temple.jpg`
-- `images/romantic-italian/Venice.jpg`
-- `images/romantic-italian/Museum-couple-kiss-shadow-bust-sculpture.jpg`
-- `images/romantic-italian/Colosseum-italian-picnic.jpg`
-- `images/romantic-italian/Rose-fountain.jpg`
-- `images/romantic-italian/Aphrodite-adonis-sculpture.jpg`
-
 ## Source and attribution
 
-Text adapted from "Romantic Italian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romantic_Italian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Romantic Italian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romantic_Italian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

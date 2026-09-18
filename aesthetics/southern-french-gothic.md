@@ -11,7 +11,6 @@ related_aesthetics: ["Cistercian", "Gothic", "Medieval", "Romanesque", "Visigoth
 source_url: "https://aesthetics.fandom.com/wiki/Southern_French_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Southern French Gothic
@@ -99,17 +98,6 @@ Lodève Cathedral
 
 ## References
 
-## Images
-
-- `images/southern-french-gothic/AlbiCathedral.jpg`
-- `images/southern-french-gothic/CouventdesJacobinsdeToulouse.jpg`
-- `images/southern-french-gothic/SaintAlbiCathedral.jpg`
-- `images/southern-french-gothic/SaintBerninBasilica.jpg`
-- `images/southern-french-gothic/SaintBernin.jpg`
-- `images/southern-french-gothic/Carcassonne-cathedral.jpg`
-- `images/southern-french-gothic/Carcassonne.jpg`
-- `images/southern-french-gothic/Nef-jacobins-toulouse.jpg`
-
 ## Source and attribution
 
-Text adapted from "Southern French Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Southern_French_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Southern French Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Southern_French_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

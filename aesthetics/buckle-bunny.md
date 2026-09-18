@@ -9,7 +9,6 @@ related_aesthetics: ["Western", "Country", "Cuntry", "Prairie", "Coquette", "Dol
 source_url: "https://aesthetics.fandom.com/wiki/Buckle_Bunny"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Buckle Bunny
@@ -49,16 +48,6 @@ The fashion of this aesthetic has a heavy western influence but with a more femi
 | --- | --- | --- |
 | [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") ♡ [Bubblegum Coquette](https://aesthetics.fandom.com/wiki/Bubblegum_Coquette "Bubblegum Coquette") ♡ **Buckle Bunny** ♡ [Coconut Girl](https://aesthetics.fandom.com/wiki/Coconut_Girl "Coconut Girl") ♡ [Coquette](https://aesthetics.fandom.com/wiki/Coquette "Coquette") ♡ [Coquette Academia](https://aesthetics.fandom.com/wiki/Coquette_Academia "Coquette Academia") ♡ [Dark Nymphet](https://aesthetics.fandom.com/wiki/Dark_Nymphet "Dark Nymphet") ♡ [Gloomy Coquette](https://aesthetics.fandom.com/wiki/Gloomy_Coquette "Gloomy Coquette") ♡ [Nymphet](https://aesthetics.fandom.com/wiki/Nymphet "Nymphet") ♡ [Trailer Park Princess](https://aesthetics.fandom.com/wiki/Trailer_Park_Princess "Trailer Park Princess") ♡ [Waif](https://aesthetics.fandom.com/wiki/Waif "Waif") |
 
-## Images
-
-- `images/buckle-bunny/Cowgirl.jpg`
-- `images/buckle-bunny/Clue!.jpg`
-- `images/buckle-bunny/CowGirl.jpg`
-- `images/buckle-bunny/4eddb5e20da2b991577d3bfa683f2743.jpg`
-- `images/buckle-bunny/Fd6a19ef7205e5149943ab4fff662152.jpg`
-- `images/buckle-bunny/01184d1e21545bf7dd472d18f90545c0.jpg`
-- `images/buckle-bunny/F403909e7d725117b24ceca22127cb16.jpg`
-
 ## Source and attribution
 
-Text adapted from "Buckle Bunny" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Buckle_Bunny), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Buckle Bunny" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Buckle_Bunny), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

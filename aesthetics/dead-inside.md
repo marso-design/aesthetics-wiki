@@ -11,7 +11,6 @@ related_media: ["Dota 2", "Tokyo Ghoul"]
 source_url: "https://aesthetics.fandom.com/wiki/Dead_Inside"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Dead Inside
@@ -69,14 +68,6 @@ People in these groups, especially those designated as "zxc ghoul" people by oth
 
 ## References
 
-## Images
-
-- `images/dead-inside/Dedinside.jpg`
-- `images/dead-inside/Dedinside2.jpg`
-- `images/dead-inside/Dedinsaid4.jpg`
-- `images/dead-inside/Dedinsaid2.jpg`
-- `images/dead-inside/Dedinsaid3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dead Inside" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dead_Inside), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dead Inside" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dead_Inside), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -2,9 +2,9 @@
 name: aesthetics-wiki
 description: >-
   Comprehensive knowledge base of ~1,200 internet visual aesthetics (Cottagecore,
-  Vaporwave, Dark Academia, Cybergoth, Weirdcore, Coquette, and many more), scraped
-  from the Aesthetics Wiki with structured data (colours, motifs, values, related
-  aesthetics, subgenres, era, platforms) plus full descriptions and reference images.
+  Vaporwave, Dark Academia, Cybergoth, Weirdcore, Coquette, and many more), with
+  structured data (colours, hex palettes, motifs, values, related aesthetics,
+  subgenres, era, platforms) plus full descriptions and moodboard generation.
   Use whenever the user wants to identify, name, describe, compare, or combine an
   aesthetic or "vibe"; find aesthetics by colour palette, decade, mood, or motif;
   discover related or adjacent aesthetics; build a moodboard or style guide; or
@@ -16,27 +16,25 @@ license: Code MIT; content CC-BY-SA 4.0 (Aesthetics Wiki). See LICENSE and ATTRI
 
 # Aesthetics Wiki
 
-A local, queryable corpus of internet visual aesthetics. Each aesthetic is one
-markdown file with structured frontmatter and a full description; reference
-images sit under `images/<slug>/`. Do not load the whole corpus. Use the lookup
-CLI to find the right aesthetic, then read only that one file.
+A local, self-contained, queryable corpus of internet visual aesthetics. Each
+aesthetic is one markdown file with structured frontmatter and a full
+description. Everything needed is in this folder; nothing is fetched from the
+web. Do not load the whole corpus. Use the lookup CLI to find the right
+aesthetic, then read only that one file.
 
 ## Data layout
 
 - `data/index.json` - one compact record per aesthetic (name, aka, decade,
-  colours, motifs, values, related, subgenres, platforms, summary, image count).
+  colours, palette, motifs, values, related, subgenres, platforms, summary).
   Large; query it with the CLI rather than reading it whole.
 - `aesthetics/<slug>.md` - full entry. Frontmatter fields:
   `name, aka, decade_of_origin, creators, key_motifs, key_colours, palette,
   key_values, related_aesthetics, subgenres, primary_platform, related_media,
-  source_url, image_count`. Body is the full description (history, fashion, etc.).
-  `palette` is a list of hex colours **derived from the aesthetic's actual
-  reference images** (ranked by coverage) - use it as the real, buildable colour
-  basis; `key_colours` is the wiki's prose description of the palette.
-- `images/<slug>/` - reference images + `credits.json` (per-image source URL,
-  uploader, license where the wiki recorded one). The `credits.json` manifest is
-  always present; the image binaries may or may not be downloaded locally (they
-  are excluded from the published repo, see "Viewing images" below).
+  source_url`. Body is the full description (history, fashion, media, etc.).
+  `palette` is a list of hex colours derived from the aesthetic's reference
+  imagery (ranked by coverage) - use it as the real, buildable colour basis;
+  `key_colours` is the prose description of the palette.
+- `data/palettes.json` - the same palettes with coverage percentages.
 
 ## Lookup CLI (use this first)
 
@@ -68,65 +66,28 @@ After the CLI points you to a file, read `aesthetics/<slug>.md` for the depth
 - **"Describe / explain <aesthetic>"** - `--get <name>`, then read the file and
   summarise its origin, key motifs, colours, values, and related aesthetics.
 - **"Show me aesthetics like X" / adjacent vibes** - `--related X`, and also
-  `--find` on X's colours/motifs to surface cousins the wiki did not cross-link.
-- **Moodboard / style guide** - read the entry, list `key_colours`, `key_motifs`,
-  `related_media`, and reference specific files from `images/<slug>/`. Note the
-  image licensing caveat below before reusing any image externally. For a
-  shareable visual moodboard, run `python scripts/make_moodboard.py <slug>` - it
-  renders the palette + motifs into an image with no third-party photos. If the
-  user has configured an image API in `.env` (see README), you can instead run
-  `python scripts/gen_moodboard.py <slug>` for a photo-based moodboard; fall back
-  to `make_moodboard.py` when no key is set.
+  `--find` on X's colours/motifs to surface cousins that are not cross-linked.
+- **Moodboard / style guide** - read the entry and list `palette`, `key_motifs`,
+  `key_values`, and `related_media`. For a shareable image, run
+  `python scripts/make_moodboard.py <slug>` (palette + motifs, no API, no
+  third-party photos). If the user has configured an image API in `.env` (see
+  README), run `python scripts/gen_moodboard.py <slug>` for a photo-based
+  moodboard instead; fall back to `make_moodboard.py` when no key is set.
 - **"Style my <outfit/room/brand/playlist/website> as <aesthetic>"** - translate
   `key_motifs`, `key_values`, and the hex `palette` into concrete choices for that
   medium. For UI/web/brand work, use `palette` directly as design tokens (CSS
   variables, a Tailwind theme, etc.), pairing motifs/values into type, layout, and
   imagery direction. Cite the aesthetic and offer 1-2 related aesthetics to blend.
 - **Combine two aesthetics** - read both entries, find shared and contrasting
-  motifs/colours, and propose a coherent fusion; name the overlap if the wiki has
-  a subgenre for it.
-
-## Viewing images
-
-Images are for **visual reference** (letting you actually see an aesthetic), not
-for republishing. To view them:
-
-1. If `images/<slug>/<file>` exists locally, `Read` it directly.
-2. If the binary is not present (fresh install, binaries excluded from the repo),
-   fetch just what you need on demand, then `Read` the printed path:
-
-   ```bash
-   python scripts/fetch_image.py cottagecore --limit 1   # cover image only
-   python scripts/fetch_image.py cottagecore --name book # images matching "book"
-   python scripts/fetch_image.py cottagecore --all       # every image for it
-   ```
-
-3. If the fetch prints "Fandom blocked ... (HTTP 403)", Fandom's Cloudflare is
-   refusing scripted downloads. Do not retry or try other download methods. Give
-   the user the printed wiki links to open in their browser, and use a moodboard
-   for visuals (`make_moodboard.py`, or `gen_moodboard.py` if an image API is set).
-
-Fetch only the handful of images relevant to the task. Do not republish or embed
-these images in an external deliverable without checking each one's license in
-`credits.json`.
+  motifs/colours, and propose a coherent fusion; name the overlap if a subgenre
+  already covers it.
+- **An aesthetic that is not in the index** - say it is not in this knowledge
+  base rather than guessing, then offer the closest matches from `--find`.
 
 ## Attribution (required when you reproduce content)
 
-The descriptive text is from the **Aesthetics Wiki** (aesthetics.fandom.com),
-licensed **CC-BY-SA 4.0**. When you quote or closely paraphrase an entry in a
-user-facing deliverable, credit the Aesthetics Wiki and link the entry's
-`source_url`. Your own synthesis, recommendations, and summaries do not need
+The descriptive text is adapted from the **Aesthetics Wiki**, licensed
+**CC-BY-SA 4.0**. When you quote or closely paraphrase an entry in a user-facing
+deliverable, credit the Aesthetics Wiki and link the entry's `source_url`. Your
+own synthesis, recommendations, summaries, and generated moodboards do not need
 attribution.
-
-**Images are not uniformly licensed.** Each file in `images/<slug>/` carries its
-own (often unspecified) license, recorded in that folder's `credits.json`. Treat
-them as references for internal moodboarding. Do not republish an image
-externally without checking its individual license first.
-
-## Regenerating the data
-
-The corpus is a snapshot from 2026-07-22. The live wiki may have newer
-aesthetics; if a user asks for one that is not in the index, say so and link the
-wiki search rather than guessing. `python scripts/scrape.py` re-pulls from the
-wiki when Fandom allows scripted access (it currently exits with a 403 notice);
-`python scripts/build_index.py` rebuilds `data/index.json` from the files.

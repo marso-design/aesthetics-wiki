@@ -12,7 +12,6 @@ primary_platform: ["Tumblr", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Art_Hoe"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Art Hoe
@@ -119,19 +118,6 @@ The Art Hoe starter pack
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/art-hoe/1133349.jpg`
-- `images/art-hoe/F81B7415-6D28-438B-9111-8401EF433FF8.jpeg`
-- `images/art-hoe/62e22f7c3ed9b8be205f5f495d58d7fd--fujifilm-cupcake.jpg`
-- `images/art-hoe/37ed3dad50b8630d190bcfbeddaefdcc.jpg`
-- `images/art-hoe/627aba00-656b-446f-80ec-022d240208f8-718x720.jpeg`
-- `images/art-hoe/815ea7842603650f97a6108486a6484a.jpg`
-- `images/art-hoe/Bf79c533890d7ba4a6375a5b8b8e742d.jpg`
-- `images/art-hoe/A93545be9da1cfebcc187a38be1370a2.jpg`
-- `images/art-hoe/Tubular.png`
-- `images/art-hoe/Beez.jpg`
-
 ## Source and attribution
 
-Text adapted from "Art Hoe" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Art_Hoe), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Art Hoe" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Art_Hoe), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["X (2022)", "Pearl (2022)"]
 source_url: "https://aesthetics.fandom.com/wiki/Farmer's_Daughter"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Farmer's Daughter
@@ -92,11 +91,6 @@ The aesthetic also **crosses over with [Cottagecore](https://aesthetics.fandom.c
 
 ## Gallery
 
-## Images
-
-- `images/farmer-s-daughter/4279abba6367a1202f3db998c10d88aa.jpg`
-- `images/farmer-s-daughter/48bb328711d419801b29063fa1b0e983.jpg`
-
 ## Source and attribution
 
-Text adapted from "Farmer's Daughter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Farmer's_Daughter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Farmer's Daughter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Farmer's_Daughter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

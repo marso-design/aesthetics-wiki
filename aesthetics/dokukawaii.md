@@ -9,7 +9,6 @@ related_aesthetics: ["Animecore", "Colorful Pop", "Gurokawa", "Medicalcore", "Pa
 source_url: "https://aesthetics.fandom.com/wiki/Dokukawaii"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Dokukawaii
@@ -88,14 +87,6 @@ The term Dokukawaii was originally coined by artist Miruki to describe her morbi
 
 An illustration by Miruki in her typical art style that gave birth to Dokukawaii
 
-## Images
-
-- `images/dokukawaii/Dokukawaii.jpg`
-- `images/dokukawaii/Sparklecareeverythingsucks.png`
-- `images/dokukawaii/Idojodijcdjioiai.jpg`
-- `images/dokukawaii/C5beb1f95e2af86d58797ce72adfcd10.jpg`
-- `images/dokukawaii/5f4e6efaa1032660c57243eb0ca49c81.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dokukawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dokukawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dokukawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dokukawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

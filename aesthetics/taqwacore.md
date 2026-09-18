@@ -10,7 +10,6 @@ palette: ["#3F4148", "#0E162A", "#292F3D", "#556A74", "#7A8689", "#98B989"]
 source_url: "https://aesthetics.fandom.com/wiki/Taqwacore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Taqwacore
@@ -78,10 +77,6 @@ Several bands associated with the early scene, most notably the all-female Canad
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/taqwacore/TheKominas.jpg`
-
 ## Source and attribution
 
-Text adapted from "Taqwacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Taqwacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Taqwacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Taqwacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

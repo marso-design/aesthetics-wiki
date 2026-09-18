@@ -19,13 +19,8 @@ commercially, provided you:
 3. Indicate if changes were made (this repository converts wikitext to markdown
    and restructures the front matter).
 
-## Images are NOT covered by this license
+## Images
 
-Files under `images/` were uploaded to the Aesthetics Wiki by many different
-users and each carries its **own** license, which is frequently unspecified.
-Per-image provenance (source URL, uploader, and any recorded license) is stored
-in `images/<slug>/credits.json`. These images are included as references for
-local, non-published use (moodboarding, research). **Do not redistribute or
-publish any image without verifying its individual license first.** If you plan
-to make this repository public, consider excluding the image binaries and
-keeping only the `credits.json` manifests (see `.gitignore`).
+This repository contains **no images from the Aesthetics Wiki**. Every visual
+under `assets/` (the palette wall, social card, and moodboards) was generated for
+this repository from its own data, and is covered by the MIT license in `LICENSE`.

@@ -10,7 +10,6 @@ related_media: ["The Chronicles of Narnia: Prince Caspian(2008)", "Pippin(1981)"
 source_url: "https://aesthetics.fandom.com/wiki/Princecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Princecore
@@ -107,17 +106,6 @@ Curtesy of storybook Told by the Sunbeams and Me, illustrated by Helen Jackson, 
 
 Queen Victoria and Prince Albert at the Bal Costumé of 12 May 1842 by Edwin Landseer
 
-## Images
-
-- `images/princecore/Prince-crown-white-flowers.jpg`
-- `images/princecore/Ornate-garden-arch.jpg`
-- `images/princecore/Prince-moodboard-blue.jpg`
-- `images/princecore/Ornate-white-piano.png`
-- `images/princecore/Prince-moodboard-gold.jpg`
-- `images/princecore/Castle-hill.jpg`
-- `images/princecore/Prince-moodboard-white.jpg`
-- `images/princecore/Prince.jpg`
-
 ## Source and attribution
 
-Text adapted from "Princecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Princecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Princecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Princecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

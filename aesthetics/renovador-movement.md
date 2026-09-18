@@ -10,7 +10,6 @@ palette: ["#766D60", "#65513F", "#17120D", "#403630", "#FFFFFF", "#C8C5C5"]
 source_url: "https://aesthetics.fandom.com/wiki/Renovador_Movement"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Renovador Movement
@@ -183,25 +182,6 @@ Indicator in Cerámicas do Castro, Sada, A Coruña
 
 ## References
 
-## Images
-
-- `images/renovador-movement/GaleriasPacifico2.jpg`
-- `images/renovador-movement/OGaiteiro.jpg`
-- `images/renovador-movement/EscenaDeRomaria.jpeg`
-- `images/renovador-movement/Oxantar.jpg`
-- `images/renovador-movement/Vigo.JPG`
-- `images/renovador-movement/LaBarraca.jpg`
-- `images/renovador-movement/Gallaecia-normal-sample.png`
-- `images/renovador-movement/VilaMorena.png`
-- `images/renovador-movement/DiarioDeVigo.jpg`
-- `images/renovador-movement/Escudocastelao-208x300.jpg`
-- `images/renovador-movement/LarsaDairy.jpg`
-- `images/renovador-movement/PipasGalegas.png`
-- `images/renovador-movement/GaleriaPacifico.jpg`
-- `images/renovador-movement/Seoane.png`
-- `images/renovador-movement/VistaDaCoruña.jpg`
-- `images/renovador-movement/RosaliadeCastro.jpg`
-
 ## Source and attribution
 
-Text adapted from "Renovador Movement" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Renovador_Movement), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Renovador Movement" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Renovador_Movement), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

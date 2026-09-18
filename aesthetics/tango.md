@@ -9,7 +9,6 @@ key_values: ["Romance", "tragic love", "passion", "freedom", "sexuality", "follo
 source_url: "https://aesthetics.fandom.com/wiki/Tango"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Tango
@@ -133,26 +132,6 @@ Tita Merello
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • **Tango** • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/tango/F4D1FC47-A72C-462A-B3C9-47E2803338DD.jpg`
-- `images/tango/38BDB426-1E91-43A0-ADC0-E73EF42DD28F.jpeg`
-- `images/tango/0F3106FD-A4DC-4555-BDE5-C568C72A7ED7.jpeg`
-- `images/tango/37E64771-CA1D-480D-8DC4-2746C1AADA64.jpeg`
-- `images/tango/DF921F0B-4A55-4E22-B983-8D12C21C00B9.jpeg`
-- `images/tango/D5A0E86D-AFEE-43A6-AB3F-0C73506D08CD.jpeg`
-- `images/tango/E8D3CF61-1AEB-4DE5-81D1-1BE99BF46A88.jpeg`
-- `images/tango/A73592FC-BDE2-4137-9321-EBE0CFBCAA7C.jpeg`
-- `images/tango/49617B1A-9954-424D-B705-FA4E6C08E11D.jpeg`
-- `images/tango/8F04A69D-2164-41F2-9A0F-A8E92AF08348.jpeg`
-- `images/tango/4218335D-8519-4EF1-9214-37BB69073CE7.jpeg`
-- `images/tango/DA65039B-D819-47C4-80B2-7F63B283CF7C.jpeg`
-- `images/tango/E9FAD977-8FD5-461F-8727-C7B66F3BFC50.jpeg`
-- `images/tango/838BF04E-6CB2-41A4-AB9E-0C2EB0275534.jpeg`
-- `images/tango/8228C6AB-7258-48B4-9501-7E064927F690.jpeg`
-- `images/tango/E540F21F-4B76-41A0-8DFC-24056D45941E.jpeg`
-- `images/tango/24097821-DF37-4A19-889C-0DBF2650BEFD.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tango" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tango), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tango" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tango), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

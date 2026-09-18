@@ -12,7 +12,6 @@ primary_platform: ["Dry lake beds", "drag strips", "car shows", "Hot Rod Magazin
 source_url: "https://aesthetics.fandom.com/wiki/Hot_Rod"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Hot Rod
@@ -51,21 +50,6 @@ The subculture generated a specific musical offshoot in the early 1960s known as
 
 ## References
 
-## Images
-
-- `images/hot-rod/61a84f9e8d48ab729b67aa88ecbf55a7.jpg`
-- `images/hot-rod/060085917a34968a124aeb5615da1a40.jpg`
-- `images/hot-rod/B8a7cc8aaecadda82b772b8f2d42b750.jpg`
-- `images/hot-rod/C5b891df4c9586306ce0ec440fc085e4.jpg`
-- `images/hot-rod/Cb496c40a3db45f1d51bf50a611de1c9.jpg`
-- `images/hot-rod/360ba1af441f58cc4c1b6cede991495b.jpg`
-- `images/hot-rod/5d69ff5020d0b0c6fbd9cf904e3104c1.jpg`
-- `images/hot-rod/F5717e4a0d14d7c9da423605936ea66f.jpg`
-- `images/hot-rod/7c32935065209947562222a6be2823e0.jpg`
-- `images/hot-rod/Ed8352e003cbd962827af175e834071c.jpg`
-- `images/hot-rod/Ce0e569e03631c2c57f6158b0ef270b9.jpg`
-- `images/hot-rod/80996ee22dbbda7a904f09cdb7dbb377.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hot Rod" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hot_Rod), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hot Rod" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hot_Rod), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

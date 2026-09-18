@@ -13,7 +13,6 @@ related_media: ["Mirai Nikki", "Tokyo Ghoul", "Yandere Simulator", "Elfen Lied",
 source_url: "https://aesthetics.fandom.com/wiki/2010s_Dark_Fandom"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # 2010s Dark Fandom
@@ -203,12 +202,6 @@ Nightcore - Pretty Little Psycho
 
 Nightcore - You're So Creepy
 
-## Images
-
-- `images/2010s-dark-fandom/Desmotivaciones.webp`
-- `images/2010s-dark-fandom/00b7b57a344568cd7a8ef3a45245c3f4.webp`
-- `images/2010s-dark-fandom/3eb543c14f544bdfb5491d3136ea4d1d.webp`
-
 ## Source and attribution
 
-Text adapted from "2010s Dark Fandom" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Dark_Fandom), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2010s Dark Fandom" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Dark_Fandom), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

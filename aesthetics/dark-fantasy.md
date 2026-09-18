@@ -12,7 +12,6 @@ related_media: ["A Song of Fire and Ice", "Berserk", "The Dark Tower Series", "T
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Fantasy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Dark Fantasy
@@ -219,15 +218,6 @@ And where would that leave me?
 
 ## References
 
-## Images
-
-- `images/dark-fantasy/Rosie-fraser-1L71sPT5XKc-unsplash.jpg`
-- `images/dark-fantasy/Pexels-eberhard-grossgasteiger-1287075.jpg`
-- `images/dark-fantasy/Pexels-dima-valkov-5690183.jpg`
-- `images/dark-fantasy/Pexels-dima-valkov-5686649.jpg`
-- `images/dark-fantasy/Pexels-danielle-reese-2495703.jpg`
-- `images/dark-fantasy/Pexels-ferdinand-studio-3922111.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dark Fantasy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Fantasy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Fantasy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Fantasy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

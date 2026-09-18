@@ -11,7 +11,6 @@ palette: ["#392A28", "#615E64", "#150F11", "#877B6B", "#A18E6F", "#ADA283"]
 source_url: "https://aesthetics.fandom.com/wiki/Rocketpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Rocketpunk
@@ -202,11 +201,6 @@ SpaceX Starship and Mars base concept, evoking retrofuturism in modern engineeri
 
 ## References
 
-## Images
-
-- `images/rocketpunk/1280px-NASA-project-orion-artist.jpg`
-- `images/rocketpunk/Starship-2019-Mars-base.jpg`
-
 ## Source and attribution
 
-Text adapted from "Rocketpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rocketpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rocketpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rocketpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

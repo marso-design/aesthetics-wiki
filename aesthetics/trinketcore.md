@@ -11,7 +11,6 @@ related_aesthetics: ["Cacareco Girl", "Crowcore", "Grocery Girl Fall", "Indiecra
 source_url: "https://aesthetics.fandom.com/wiki/Trinketcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Trinketcore
@@ -191,16 +190,6 @@ CuteStudios12 on Pinterest
 
 Yankeenobrim on Pinterest
 
-## Images
-
-- `images/trinketcore/8b90f8c50c9af70e7be8e3055f65b65b.jpg`
-- `images/trinketcore/69d6b0d345e14822b730b7472e443576.jpg`
-- `images/trinketcore/C232213e4b4492c3d7a983f58b21a9a8.jpg`
-- `images/trinketcore/Aab854ad42dceaaae352bc141c550304.jpg`
-- `images/trinketcore/71da4be78750a0fc96ddc2d572201851.jpg`
-- `images/trinketcore/6113b7a53e7f96d5240ae24e994e6b68.jpg`
-- `images/trinketcore/Afdfb652b2c91eadcbfffa102a1bd3d3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Trinketcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trinketcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Trinketcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trinketcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

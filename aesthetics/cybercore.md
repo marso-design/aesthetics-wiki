@@ -12,7 +12,6 @@ related_media: ["Neon Genesis Evangelion", "Serial Experiments Lain"]
 source_url: "https://aesthetics.fandom.com/wiki/Cybercore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Cybercore
@@ -58,31 +57,6 @@ Japanese media from the late 90s and early 2000s dictates the human element of t
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/cybercore/32dbd22f8fa5e563251a39a9c84ba16d.jpg`
-- `images/cybercore/7acfc978540aedbea9f07191fe532c48.jpg`
-- `images/cybercore/8cdddbb3a0b452e4a167740065ecbe7e.jpg`
-- `images/cybercore/2f5ec2b7bd07388e078bc9da01ee654e.jpg`
-- `images/cybercore/D169cd3fc8f98ec0cb542bdda987c206.jpg`
-- `images/cybercore/549b25626331326a52f712e6827296d0.jpg`
-- `images/cybercore/E0ceebc3d8c6912649656c7584cf447e.jpg`
-- `images/cybercore/35963c7e689a189932127c4df05e9786.jpg`
-- `images/cybercore/75a505b968848e4efed44d067d766229.jpg`
-- `images/cybercore/809fdcf1a71c3a626a222113e9b827bd.jpg`
-- `images/cybercore/4bb8177483350b7dfd9106630dbb4876.jpg`
-- `images/cybercore/3490cdacedf7f777f8822242e182d2aa.jpg`
-- `images/cybercore/A74ff60da1e1128fa66d5e12402030a1.jpg`
-- `images/cybercore/Eb48617ef768089099b701d36ba65942.jpg`
-- `images/cybercore/3b2a8858592e9e731397c0ac4c291ba9.jpg`
-- `images/cybercore/Cd337f56eea14c7be9cfca0410759b11.jpg`
-- `images/cybercore/8f792a3c455b1623b8b46cd61dba8f6a.jpg`
-- `images/cybercore/E3f0132e89b7502132ac0ec2abd6f03e.jpg`
-- `images/cybercore/29f1fa350482795ed9f64c4d9479b0f7.jpg`
-- `images/cybercore/A5ab89ed07881a28ecdc54b2d160c03d.jpg`
-- `images/cybercore/F70c60ce9eef5a9ace0c6b18510beb82.jpg`
-- `images/cybercore/Eca1e1e29f3956250302cfe2a5b56ff3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cybercore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cybercore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cybercore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cybercore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

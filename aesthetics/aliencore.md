@@ -11,7 +11,6 @@ related_aesthetics: ["Atompunk", "Cryptidcore", "Psychedelia", "Raygun Gothic", 
 source_url: "https://aesthetics.fandom.com/wiki/Aliencore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Aliencore
@@ -155,25 +154,6 @@ alien girl dreaming
 
 ## References
 
-## Images
-
-- `images/aliencore/E89c4996f22655aa883c6bfd02c1b11b.jpg`
-- `images/aliencore/93eb8dc4c910dc54e1a5231440f3fb0d.jpg`
-- `images/aliencore/26efc4d8f7cf108735b1064ee61f06ed.jpg`
-- `images/aliencore/7fc8630606f40aa293b34086815a07b9.png`
-- `images/aliencore/D68978a5062bacda7dae8f962766ae0a.png`
-- `images/aliencore/Gross.jpg`
-- `images/aliencore/Aliencoremoodboard.png`
-- `images/aliencore/Thealiensarecoming.png`
-- `images/aliencore/Aliencore4.jpg`
-- `images/aliencore/Aliencore2.png`
-- `images/aliencore/Aliencore3.jpg`
-- `images/aliencore/Aliencore1.jpg`
-- `images/aliencore/Aliencore5.jpg`
-- `images/aliencore/Gasfgdfhgbsfasbdjfbgashkdfgbdsahjfhjasfj,kxzxm,zk,mcxfm,njvcfnmcjxncxcjxjhmxckkmxzkljixz.webp`
-- `images/aliencore/Aliencore.png`
-- `images/aliencore/Neaarty.jpg`
-
 ## Source and attribution
 
-Text adapted from "Aliencore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aliencore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Aliencore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aliencore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

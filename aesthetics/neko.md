@@ -11,7 +11,6 @@ related_media: ["Neko Musume", "The Star of the Cottonland", "Tokyo Mew Mew", "N
 source_url: "https://aesthetics.fandom.com/wiki/Neko"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Neko
@@ -92,31 +91,6 @@ Catboys are men that are half-cat (thus having cat ears, a cat tail, and/or paws
 
 ## References
 
-## Images
-
-- `images/neko/HTB1xhFkXyfrK1RjSspbxh74pFXav.jpg`
-- `images/neko/Cat1.jpg`
-- `images/neko/Cat5.png`
-- `images/neko/Cat13.jpg`
-- `images/neko/Cat9.webp`
-- `images/neko/Cat3.jpg`
-- `images/neko/Cat14.png`
-- `images/neko/Cat4.jpg`
-- `images/neko/Cat12.webp`
-- `images/neko/Cat16.png`
-- `images/neko/Cat7.png`
-- `images/neko/Cat10.jpg`
-- `images/neko/Cat6.png`
-- `images/neko/Cat2.jpg`
-- `images/neko/Cats-34.jpg`
-- `images/neko/Cat19.jpg`
-- `images/neko/Cat.png`
-- `images/neko/Cat17.jpg`
-- `images/neko/Cat15.jpg`
-- `images/neko/Kute.gif`
-- `images/neko/NekoparaChocola.jpg`
-- `images/neko/Catgirlimage.jpg`
-
 ## Source and attribution
 
-Text adapted from "Neko" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neko), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neko" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neko), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

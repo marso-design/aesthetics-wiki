@@ -10,7 +10,6 @@ related_aesthetics: ["Mad Scientist", "Slimepunk", "Wacky Pomo"]
 source_url: "https://aesthetics.fandom.com/wiki/Neon_Ooze"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Neon Ooze
@@ -51,19 +50,6 @@ The aesthetic is characterized by fluid and crude imagery, evoking a sense of di
 1. <https://cari.institute/aesthetics/neon-ooze>
 2. <https://www.facebook.com/groups/1861926347438153>
 
-## Images
-
-- `images/neon-ooze/Chevy.jpg`
-- `images/neon-ooze/Earthbound.jpg`
-- `images/neon-ooze/Toy.jpg`
-- `images/neon-ooze/Ghostwriter.png`
-- `images/neon-ooze/Surf.jpg`
-- `images/neon-ooze/Freaked.webp`
-- `images/neon-ooze/Goosebumps.webp`
-- `images/neon-ooze/Queasy.png`
-- `images/neon-ooze/Gm.jpg`
-- `images/neon-ooze/Haunting.jpg`
-
 ## Source and attribution
 
-Text adapted from "Neon Ooze" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neon_Ooze), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neon Ooze" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neon_Ooze), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

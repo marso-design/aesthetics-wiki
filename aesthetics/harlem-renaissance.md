@@ -8,7 +8,6 @@ key_colours: ["Black"]
 source_url: "https://aesthetics.fandom.com/wiki/Harlem_Renaissance"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Harlem Renaissance
@@ -19,4 +18,4 @@ The **Harlem Renaissance** was an intellectual and cultural movement of African-
 
 ## Source and attribution
 
-Text adapted from "Harlem Renaissance" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Harlem_Renaissance), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Harlem Renaissance" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Harlem_Renaissance), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

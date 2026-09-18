@@ -10,7 +10,6 @@ related_aesthetics: ["Gorecore", "Devilcore", "Weirdcore", "Starrflesh", "Teethc
 source_url: "https://aesthetics.fandom.com/wiki/Meatcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Meatcore
@@ -80,16 +79,6 @@ childhood memories 🥩 *by @johannofart on Instagram*
 
 "today i was just hungry and sleepy, i hope i will be more than that tomorrow" *by @mutatedeye on Instagram*
 
-## Images
-
-- `images/meatcore/Meatcore.jpg`
-- `images/meatcore/Heartofmeat.jpg`
-- `images/meatcore/MEatheart.jpg`
-- `images/meatcore/Meat.png`
-- `images/meatcore/Cutemeat.png`
-- `images/meatcore/Meatcoremarket.png`
-- `images/meatcore/Voidsonameatcore.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Meatcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Meatcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Meatcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Meatcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

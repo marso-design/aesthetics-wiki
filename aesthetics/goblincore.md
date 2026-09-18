@@ -12,7 +12,6 @@ related_media: ["Studio Ghibli films", "The Spiderwick Chronicles"]
 source_url: "https://aesthetics.fandom.com/wiki/Goblincore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Goblincore
@@ -252,17 +251,6 @@ f r o g
 
 [[Category:Nature]
 
-## Images
-
-- `images/goblincore/Goblincollection.png.png`
-- `images/goblincore/Mushroom.PNG`
-- `images/goblincore/3dc8096a95058db0000709ab929f75ef.jpg`
-- `images/goblincore/93df18c5164a7fc1e8453ca32cd56ae0.jpg`
-- `images/goblincore/504e9714a5b2f506adb12ecee2080fff.jpg`
-- `images/goblincore/4gu4vtplo4.jpg`
-- `images/goblincore/Fly-agaric-mushroom-mushrooms-red-fly-agaric-mushroom-preview.jpg`
-- `images/goblincore/331275720076201.jpg`
-
 ## Source and attribution
 
-Text adapted from "Goblincore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Goblincore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Goblincore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Goblincore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

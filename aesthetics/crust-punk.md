@@ -8,7 +8,6 @@ palette: ["#050506", "#6A6B75", "#5C5A5F", "#47474B", "#222122", "#7F808D"]
 source_url: "https://aesthetics.fandom.com/wiki/Crust_Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Crust Punk
@@ -99,10 +98,6 @@ Crust punk also has an associated [DIY](https://aesthetics.fandom.com/wiki/DIY 
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/crust-punk/Images-2.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Crust Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Crust_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Crust Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Crust_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

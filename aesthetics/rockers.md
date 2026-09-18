@@ -10,7 +10,6 @@ related_aesthetics: ["Biker", "Greaser", "Mod (Rival)", "Raggare", "Rockabilly",
 source_url: "https://aesthetics.fandom.com/wiki/Rockers"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Rockers
@@ -72,4 +71,4 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 ## Source and attribution
 
-Text adapted from "Rockers" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rockers), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rockers" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rockers), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

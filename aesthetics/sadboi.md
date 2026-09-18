@@ -13,7 +13,6 @@ related_media: ["The Simpsons (Bart edits)", "90s/2000s video game aesthetics"]
 source_url: "https://aesthetics.fandom.com/wiki/Sadboi"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Sadboi
@@ -112,32 +111,6 @@ The Sadboi aesthetic was associated with the development of [Emo Rap](https://ae
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/sadboi/Yunglean2.png`
-- `images/sadboi/Boys-with-sad-aesthetic-tumblr-dark-17q6b7yhbmnvjeyh.jpg`
-- `images/sadboi/8126239fce591a4437314c9a6d40c0ad.jpg`
-- `images/sadboi/Desktop-wallpaper-tumblr-grunge-boy-grunge-eboy.jpg`
-- `images/sadboi/Sadtimes3.jpeg`
-- `images/sadboi/Archive-sadboys-pictures-from-tumblr-v0-lu12fxhkvjxd1.webp`
-- `images/sadboi/Archive-sadboys-pictures-from-tumblr-v0-wbj4yzekvjxd1.webp`
-- `images/sadboi/Archive-sadboys-pictures-from-tumblr-v0-y6ajgdmkvjxd1.webp`
-- `images/sadboi/Archive-sadboys-pictures-from-tumblr-v0-a1m3fo7kvjxd1.webp`
-- `images/sadboi/Archive-sadboys-pictures-from-tumblr-v0-ssa6vbckvjxd1.webp`
-- `images/sadboi/Sadboi.jpg`
-- `images/sadboi/1bc01e8d0e0b5ef820b6d6f9f5cd4f16.jpg`
-- `images/sadboi/Ab67616d0000b273041b15e747a2ce729d5cc5e0.jpg`
-- `images/sadboi/Wp4723159.jpg`
-- `images/sadboi/0wiQ1sr.gif`
-- `images/sadboi/Images.steamusercontent.gif`
-- `images/sadboi/F081630def81d7583705bc37bbc4c5d9.jpg`
-- `images/sadboi/8723cb7af526225436ebdd9cb8047cb7.jpg`
-- `images/sadboi/9ce09c022194fac5095a50eddd483fbc.jpg`
-- `images/sadboi/4793b5b34262144035cd70809d7755cf.jpg`
-- `images/sadboi/Suffer-anime.gif`
-- `images/sadboi/61JoGIOIZoL.jpg`
-- `images/sadboi/BartEdit.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sadboi" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sadboi), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sadboi" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sadboi), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

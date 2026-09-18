@@ -10,7 +10,6 @@ related_aesthetics: ["Cyber Grunge", "Military Lolita", "Rivethead", "Safari Chi
 source_url: "https://aesthetics.fandom.com/wiki/Military_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Military Chic
@@ -43,22 +42,6 @@ The most recognizable print is camouflage, which is used on everything from trou
 
 ## References
 
-## Images
-
-- `images/military-chic/MilitaryChic.jpg`
-- `images/military-chic/6e8daaac927e754b0c3854e75a689229.jpg`
-- `images/military-chic/3cc81e4031e74a0624b8cf2c93f1aff9.jpg`
-- `images/military-chic/5d996385d41e4c6d3ef8d5cb82c8685c.jpg`
-- `images/military-chic/025ccaa8012431073809ae3db1f419ab.jpg`
-- `images/military-chic/152f416553d8ffed4f3203edcfbd100a.jpg`
-- `images/military-chic/7ca8a8dc823fc9a9ad2fae41830f3837.jpg`
-- `images/military-chic/C3d57e7bbccf2bdc56b9fffe266ce435.jpg`
-- `images/military-chic/2a2cd0dbcde9f3d7c94d7de2f4572358.jpg`
-- `images/military-chic/07d7776be0f6548c4cc5cd83f714baa0.jpg`
-- `images/military-chic/2e8b3ec10019d55984d78e95f2e6c70e.jpg`
-- `images/military-chic/D29481d33bfb5346cf83094d12e31c43.jpg`
-- `images/military-chic/4711e1e74986374ab56184799c26b029.jpg`
-
 ## Source and attribution
 
-Text adapted from "Military Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Military_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Military Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Military_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

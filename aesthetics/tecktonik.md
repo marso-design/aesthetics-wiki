@@ -12,7 +12,6 @@ related_aesthetics: ["Bloghouse", "Electroclash", "Emo", "Hands Up", "Indie Slea
 source_url: "https://aesthetics.fandom.com/wiki/Tecktonik"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Tecktonik
@@ -152,28 +151,6 @@ Yelle - A Cause Des Garcons
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/tecktonik/Tecktonik.jpg`
-- `images/tecktonik/Tecktonik8.png`
-- `images/tecktonik/Tecktonik1.jpg`
-- `images/tecktonik/Tecktonik3.png`
-- `images/tecktonik/Tecktonik2.jpg`
-- `images/tecktonik/Tecktonik5.png`
-- `images/tecktonik/Tecktonik6.png`
-- `images/tecktonik/Tecktonik4.png`
-- `images/tecktonik/Tecktonik7.png`
-- `images/tecktonik/Tecktonik11.png`
-- `images/tecktonik/Tecktonik12.png`
-- `images/tecktonik/Tecktonik9.gif`
-- `images/tecktonik/Tecktonik10.png`
-- `images/tecktonik/Ledlight.png`
-- `images/tecktonik/Tecktonik13.jpg`
-- `images/tecktonik/Teckmeup1.jpg`
-- `images/tecktonik/Teckmeup2.jpeg`
-- `images/tecktonik/Tecktotik.png`
-- `images/tecktonik/Tecktonikdance.gif`
-
 ## Source and attribution
 
-Text adapted from "Tecktonik" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tecktonik), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tecktonik" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tecktonik), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

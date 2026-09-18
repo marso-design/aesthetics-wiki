@@ -11,7 +11,6 @@ related_aesthetics: ["Art Academia", "Ballet", "Dark Academia", "Light Academia"
 source_url: "https://aesthetics.fandom.com/wiki/Theatre_Academia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Theatre Academia
@@ -133,16 +132,6 @@ Catchphrases may Include:
 
 a guide to theatre academia by @letterminded
 
-## Images
-
-- `images/theatre-academia/Academia.jpg`
-- `images/theatre-academia/Bloombean.jpg`
-- `images/theatre-academia/Theatre.jpg`
-- `images/theatre-academia/Uploaded.jpg`
-- `images/theatre-academia/FFEF3024-9FDD-4B5E-84DE-9B1D184BFB5C.jpeg`
-- `images/theatre-academia/12F1C174-0A3F-44BC-8AB9-516BDD9370C0.jpg`
-- `images/theatre-academia/E5175064-9208-4D47-A2B9-E0533FB0DDAA.jpg`
-
 ## Source and attribution
 
-Text adapted from "Theatre Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Theatre_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Theatre Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Theatre_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

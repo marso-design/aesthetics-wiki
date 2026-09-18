@@ -10,7 +10,6 @@ related_aesthetics: ["Goth", "Industrial", "Martial Industrial", "Post-Punk"]
 source_url: "https://aesthetics.fandom.com/wiki/Neofolk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Neofolk
@@ -142,4 +141,4 @@ Neofolk is a subject of ongoing controversy over its use of symbols closely asso
 
 ## Source and attribution
 
-Text adapted from "Neofolk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neofolk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neofolk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neofolk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["Boho-Chic", "Eco-Beige", "Hipster", "Tranquil Spa Graphics
 source_url: "https://aesthetics.fandom.com/wiki/Geo-Boho"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Geo-Boho
@@ -174,15 +173,6 @@ Lotus design, date unknown
 
 ## References
 
-## Images
-
-- `images/geo-boho/Altern-natives.jpg`
-- `images/geo-boho/Whoyostro.jpg`
-- `images/geo-boho/2024-08-29.jpg`
-- `images/geo-boho/Prism.png`
-- `images/geo-boho/Hinkstep.jpg`
-- `images/geo-boho/Lotus.jpg`
-
 ## Source and attribution
 
-Text adapted from "Geo-Boho" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Geo-Boho), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Geo-Boho" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Geo-Boho), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

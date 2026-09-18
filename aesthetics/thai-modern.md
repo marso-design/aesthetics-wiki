@@ -10,7 +10,6 @@ key_values: ["Thai Culture (1930s-1970s)", "reflecting the prime of cultural hyb
 source_url: "https://aesthetics.fandom.com/wiki/Thai_Modern"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Thai Modern
@@ -51,19 +50,6 @@ In the 2000s, Thai films revisited this aesthetic, reviving the charm of mid-20t
 
 ## References
 
-## Images
-
-- `images/thai-modern/MonRakLukThung1.jpg`
-- `images/thai-modern/FaThalaiChon1.jpg`
-- `images/thai-modern/FaThalaiChon2.jpg`
-- `images/thai-modern/FaThalaiChon3.jpg`
-- `images/thai-modern/FaThalaiChon4.jpg`
-- `images/thai-modern/FaThalaiChon5.jpg`
-- `images/thai-modern/YamYasthon1.jpg`
-- `images/thai-modern/YamYasthon2.jpg`
-- `images/thai-modern/Sayamo1.jpg`
-- `images/thai-modern/Sayamo2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Thai Modern" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Thai_Modern), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Thai Modern" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Thai_Modern), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

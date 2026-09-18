@@ -11,7 +11,6 @@ related_aesthetics: ["Grandparentcore", "Coastal Grandmother", "Preppy", "Sloani
 source_url: "https://aesthetics.fandom.com/wiki/Grandmillennial"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Grandmillennial
@@ -90,10 +89,6 @@ The lifestyle associated with the Grandmillennial aesthetic values traditional, 
 
 ## References
 
-## Images
-
-- `images/grandmillennial/GrandparentAcademia.jpg`
-
 ## Source and attribution
 
-Text adapted from "Grandmillennial" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grandmillennial), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Grandmillennial" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grandmillennial), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

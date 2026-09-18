@@ -4,7 +4,6 @@ slug: "diy-ethos"
 source_url: "https://aesthetics.fandom.com/wiki/DIY_Ethos"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # DIY Ethos
@@ -41,4 +40,4 @@ The 21st-century evolution of the DIY model saw the transition from analog hardw
 
 ## Source and attribution
 
-Text adapted from "DIY Ethos" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/DIY_Ethos), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "DIY Ethos" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/DIY_Ethos), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

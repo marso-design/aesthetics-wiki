@@ -9,7 +9,6 @@ related_aesthetics: ["Lolita", "Qi Lolita", "Taisho Roman"]
 source_url: "https://aesthetics.fandom.com/wiki/Wa_Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Wa Lolita
@@ -56,16 +55,6 @@ However, because the style draws from a rich and complex history of traditional 
 
 ## References
 
-## Images
-
-- `images/wa-lolita/Ca7aa74d1c06b2011414c552b144bb06.jpg`
-- `images/wa-lolita/44e03154bf6a81a78adeb5b8668a3a86.jpg`
-- `images/wa-lolita/C870392898f2fab4e1f979f36d7eabc1.jpg`
-- `images/wa-lolita/20c7939c92a202b9f112ed03601acb42.jpg`
-- `images/wa-lolita/Cd7928e40e78333b41165a94ed93850c.jpg`
-- `images/wa-lolita/36a3fb6d73ad5afe8234cf6ff4844866.jpg`
-- `images/wa-lolita/973c3efaef58bd7549c71897f1ba14b1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Wa Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wa_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wa Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wa_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

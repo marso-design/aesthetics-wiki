@@ -11,7 +11,6 @@ related_aesthetics: ["Cybergoth", "E-Boy", "E-Girl", "Emo", "Goth", "Herki (Russ
 source_url: "https://aesthetics.fandom.com/wiki/Mallgoth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Mallgoth
@@ -163,24 +162,6 @@ Despite the visual aesthetic's debt to [Goth](https://aesthetics.fandom.com/wiki
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 **Mallgoth** 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/mallgoth/Mallgoth.jpg`
-- `images/mallgoth/90smallgothss.jpg`
-- `images/mallgoth/Mallgoths14.jpg`
-- `images/mallgoth/Mallgoth1.jpg`
-- `images/mallgoth/Mallgothtripp.jpg`
-- `images/mallgoth/Mallgoth11.jpg`
-- `images/mallgoth/Mallgothgirl.jpg`
-- `images/mallgoth/Mallgoths7.jpg`
-- `images/mallgoth/Mallgoths6.jpg`
-- `images/mallgoth/Mallgoth5.jpg`
-- `images/mallgoth/Mallgoths3.jpg`
-- `images/mallgoth/Mallgothgroup.jpg`
-- `images/mallgoth/Mallgoth10.jpg`
-- `images/mallgoth/Mallgoth8.jpg`
-- `images/mallgoth/Abcdefg.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mallgoth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mallgoth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mallgoth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mallgoth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

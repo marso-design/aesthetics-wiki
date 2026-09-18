@@ -9,7 +9,6 @@ related_aesthetics: ["Baddie", "Chicha", "Cholombiano", "Chonga", "Gangsta Rap",
 source_url: "https://aesthetics.fandom.com/wiki/Cholo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Cholo
@@ -89,13 +88,6 @@ R&B music from the 1960s and 70s has traditionally been popular with Cholos. 70s
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/cholo/0f2cc8154dcdc4f74c876ae04f85cae5.jpg`
-- `images/cholo/Chologangsigns.webp`
-- `images/cholo/440b05e6cb9494eeae684b7b484e0204.jpg`
-- `images/cholo/Nintchdbpict000303248061.webp`
-
 ## Source and attribution
 
-Text adapted from "Cholo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cholo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cholo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cholo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

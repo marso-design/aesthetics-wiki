@@ -11,7 +11,6 @@ primary_platform: ["TikTok", "Tumblr", "Instagram", "Pinterest"]
 source_url: "https://aesthetics.fandom.com/wiki/Theriancore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Theriancore
@@ -55,20 +54,6 @@ Additionally, the community faces frequent conflation with the [Furry](https://a
 
 *Under Construction*
 
-## Images
-
-- `images/theriancore/Therians.jpg`
-- `images/theriancore/Therians1.png`
-- `images/theriancore/Therians2.png`
-- `images/theriancore/Therian-pfps-v0-9fcxjtfpmq7c1.webp`
-- `images/theriancore/Therian-pfps-v0-prw6urhpmq7c1.webp`
-- `images/theriancore/Therian-pfps-v0-l2lcjkipmq7c1.webp`
-- `images/theriancore/Los-therians-en-Mexico-entre-curiosidad-y-rechazo.webp`
-- `images/theriancore/Fox.jpg`
-- `images/theriancore/Theria.jpg`
-- `images/theriancore/E7ca0851b48ae5e6c60c37da4ddad0af.jpg`
-- `images/theriancore/14504132a8cbc36acdc2dd3f33face5c.jpg`
-
 ## Source and attribution
 
-Text adapted from "Theriancore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Theriancore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Theriancore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Theriancore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

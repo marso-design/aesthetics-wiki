@@ -13,7 +13,6 @@ related_media: ["Euphoria (television show)"]
 source_url: "https://aesthetics.fandom.com/wiki/Euphoric"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Euphoric
@@ -56,26 +55,6 @@ The Euphoric aesthetic has faced criticism for its perceived glamorization of te
 
 ## References
 
-## Images
-
-- `images/euphoric/22f74de5d0b3ae67108b75e07217ba3f.jpg`
-- `images/euphoric/7aaf5aefd624293c4faa4f46192eb93a.jpg`
-- `images/euphoric/78472c3ce04b7a67b46930e3e1e8de6f.jpg`
-- `images/euphoric/Acccc907c0e3a9ca44b2dd7b084f40ef.jpg`
-- `images/euphoric/B9ad5c4a1e86d054fae422de4fe010bc.jpg`
-- `images/euphoric/939f8dfd09f59c0445c92866b6e62f9f.jpg`
-- `images/euphoric/753069b691c613f75063b2c8655e90ea.jpg`
-- `images/euphoric/80b9d19351634edf9134db2d0b51e462.jpg`
-- `images/euphoric/2802590c612ffa0a7efb432781220223.jpg`
-- `images/euphoric/Db07bd0ad5952e1b5a76904f5c2b6e1a.jpg`
-- `images/euphoric/C379d4ded987cd0219a3c0bb4b8729a7.jpg`
-- `images/euphoric/7ddcd86681e5e68a52eb357b95486386.jpg`
-- `images/euphoric/7617af45ac0bbce943aad0385ee0e4a4.jpg`
-- `images/euphoric/961f5094647c22acda0a3b72e8fe25f0.jpg`
-- `images/euphoric/924e9bbba533226f57854d2e46e3281d.jpg`
-- `images/euphoric/0d69b0ca4050c402b2f31f81c35e689d.jpg`
-- `images/euphoric/Cant-find-you-club.jpg`
-
 ## Source and attribution
 
-Text adapted from "Euphoric" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Euphoric), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Euphoric" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Euphoric), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

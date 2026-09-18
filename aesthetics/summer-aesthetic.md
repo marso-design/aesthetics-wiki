@@ -9,7 +9,6 @@ related_aesthetics: ["Autumn", "Brazilian Bombshell", "Nautical", "Poolcore", "S
 source_url: "https://aesthetics.fandom.com/wiki/Summer_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Summer Aesthetic
@@ -125,19 +124,6 @@ Some examples include:
 
 ## Gallery
 
-## Images
-
-- `images/summer-aesthetic/Summer2.jpg`
-- `images/summer-aesthetic/Summer11.jpg`
-- `images/summer-aesthetic/Summer10.jpg`
-- `images/summer-aesthetic/Summer9.jpg`
-- `images/summer-aesthetic/Summer8.jpg`
-- `images/summer-aesthetic/Summer7.jpg`
-- `images/summer-aesthetic/Summer5.jpg`
-- `images/summer-aesthetic/Summer4.jpg`
-- `images/summer-aesthetic/Summer3.jpg`
-- `images/summer-aesthetic/Summer1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Summer Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Summer_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Summer Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Summer_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

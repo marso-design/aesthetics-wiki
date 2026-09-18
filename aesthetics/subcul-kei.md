@@ -8,7 +8,6 @@ palette: ["#606469", "#484651", "#2E2930", "#888786", "#873D43", "#A8A5A4"]
 source_url: "https://aesthetics.fandom.com/wiki/Subcul_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Subcul Kei
@@ -58,10 +57,6 @@ Ame-chan from Needy Streamer Overload (art by eencya)
 
 Ame-chan 1/7 size-figure where she wears Subcul kei.
 
-## Images
-
-- `images/subcul-kei/Ame-chan.jpg.png`
-
 ## Source and attribution
 
-Text adapted from "Subcul Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Subcul_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Subcul Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Subcul_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

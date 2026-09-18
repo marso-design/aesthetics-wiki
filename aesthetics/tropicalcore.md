@@ -9,7 +9,6 @@ related_aesthetics: ["Coconut Girl", "Cutecore", "Gyaru", "Sanriocore", "Surf Cr
 source_url: "https://aesthetics.fandom.com/wiki/Tropicalcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Tropicalcore
@@ -81,17 +80,6 @@ Tropicalcore uses music focusing on upbeat video game OSTs, Steel Pan drums, and
 
 ## Gallery
 
-## Images
-
-- `images/tropicalcore/Tropicalcore.webp`
-- `images/tropicalcore/A7525c104493aeb0a2029dab7a713213.jpg`
-- `images/tropicalcore/『」🍉🌴🌊.jpg`
-- `images/tropicalcore/1d211728526eb2dfee994cba6cc7f83c.jpg`
-- `images/tropicalcore/E605696f731793ae606d59ca58b05021.jpg`
-- `images/tropicalcore/1496a68b9a2356380dc11b6e46720a48.jpg`
-- `images/tropicalcore/721981a80acdc21907d1466a95e1b76f.jpg`
-- `images/tropicalcore/55daf9d970fee80cad9864560f77def0.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tropicalcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropicalcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tropicalcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropicalcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

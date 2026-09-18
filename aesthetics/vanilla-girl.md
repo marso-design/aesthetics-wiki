@@ -9,7 +9,6 @@ related_aesthetics: ["Clean Girl", "Danish Pastel", "Korean Cozy Beige", "Minima
 source_url: "https://aesthetics.fandom.com/wiki/Vanilla_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Vanilla Girl
@@ -92,20 +91,6 @@ The "**Vanilla Girl**" aesthetic has faced criticism for enforcing both traditio
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/vanilla-girl/823334b44654cfaba62cf330d3ba10a5.jpg`
-- `images/vanilla-girl/1b720b32eafe3070ebc8b8a515a5eb46.jpg`
-- `images/vanilla-girl/998c1be8cec62dca13b294ee14936e3b.jpg`
-- `images/vanilla-girl/Ed391bf856b0d1993a305a42611429e7.jpg`
-- `images/vanilla-girl/1244f4b1873fb246e18ec3aa155820e5.jpg`
-- `images/vanilla-girl/B04dd2cf379ac297d5f5e970d01b6c81.jpg`
-- `images/vanilla-girl/6da1a56f53ef3bea51f033b6b8ef2b21.jpg`
-- `images/vanilla-girl/A6996054996f08e71f4fca043889d133.jpg`
-- `images/vanilla-girl/84796c4de3bb2bf6d21cfe462703aefa.jpg`
-- `images/vanilla-girl/9da9f16c3883951fd426d161be44dd88.jpg`
-- `images/vanilla-girl/0fd4699620123343e07c4a217b28693b.jpg`
-
 ## Source and attribution
 
-Text adapted from "Vanilla Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vanilla_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vanilla Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vanilla_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

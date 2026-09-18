@@ -10,7 +10,6 @@ related_aesthetics: ["Aggrotech", "Brostep", "Cyberpunk", "Fetish Goth", "Indust
 source_url: "https://aesthetics.fandom.com/wiki/Cybergoth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 26
 ---
 
 # Cybergoth
@@ -153,35 +152,6 @@ This distinction has historically led to friction, where traditional Goths may v
 | Fusion Aesthetics |
 | [Acid Design](https://aesthetics.fandom.com/wiki/Acid_Design "Acid Design") ☺ [Cyberdelia](https://aesthetics.fandom.com/wiki/Cyberdelia "Cyberdelia") ☺ **Cybergoth** ☺ [New Rave](https://aesthetics.fandom.com/wiki/New_Rave "New Rave") |
 
-## Images
-
-- `images/cybergoth/CybergothNew.jpg`
-- `images/cybergoth/Bff286a5695fc4893403ec4abcd41bae.jpg`
-- `images/cybergoth/9c3d760e80555bac155ee9f6457ce35f.jpg`
-- `images/cybergoth/245d04d9232d778a5d4593d6429839ca.jpg`
-- `images/cybergoth/828b10813a03a10f861b5cbd024c30c3.jpg`
-- `images/cybergoth/49ba01fe816a31b90d6ba6538447c132.jpg`
-- `images/cybergoth/Eb39af1062be696eba7328bc97b26f73.jpg`
-- `images/cybergoth/D25e6723ba759f75fe17deb59736d2ea.jpg`
-- `images/cybergoth/Accc699342f9da022c11da83e0bd9834.jpg`
-- `images/cybergoth/D7d66cb14ff844953c4ac04f9c30faa7.jpg`
-- `images/cybergoth/Cceaeda4030bed28449991d458b41477.jpg`
-- `images/cybergoth/6d760a32e1dee7ade86292cb8883f891.jpg`
-- `images/cybergoth/Fc776bfc6681dc73e6d01a503160aeb6.jpg`
-- `images/cybergoth/5a4b1e7151d04930f176e2fc7cd686ce.jpg`
-- `images/cybergoth/78e220af7bba0faa5c81b65b7419a082.jpg`
-- `images/cybergoth/925a2f5c78912b41c08a1055c748b872.jpg`
-- `images/cybergoth/C2768395ab6e805d7a0e25fd7208a11d.jpg`
-- `images/cybergoth/531770f724841c6c6f7a254e164f6543.jpg`
-- `images/cybergoth/39d9de46c6d47e2db3ad4230695bad09.jpg`
-- `images/cybergoth/Cybergoth-11.jpg`
-- `images/cybergoth/Cybergoth.jpg`
-- `images/cybergoth/Cg.jpg`
-- `images/cybergoth/Cybergoth-19.jpg`
-- `images/cybergoth/Cybergoth-21.jpg`
-- `images/cybergoth/7d46b24fe539929106105f0f0706e97e.jpg`
-- `images/cybergoth/IndustrialDance.gif`
-
 ## Source and attribution
 
-Text adapted from "Cybergoth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cybergoth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cybergoth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cybergoth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ palette: ["#060202", "#161619", "#626063", "#503637", "#A18679", "#2E242C"]
 source_url: "https://aesthetics.fandom.com/wiki/Juggalo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Juggalo
@@ -83,17 +82,6 @@ The music of the Juggalo subculture is almost exclusively [Horrorcore](https://a
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/juggalo/GatheringJuggalos.jpg`
-- `images/juggalo/De40e4443790007318232bee62c62600.jpg`
-- `images/juggalo/37521ea70548a6fc5c6c0ee17bdcc1b5.jpg`
-- `images/juggalo/64eae27643bd40b7711e32bf50d6e893.jpg`
-- `images/juggalo/56fc1fc745a871f122273f1b38a15a82.jpg`
-- `images/juggalo/F013d2030b3c23207d9a8b0881eda869.jpg`
-- `images/juggalo/9ae8df9b389cb78723aa6caadffa40ee.jpg`
-- `images/juggalo/300fa8edd470ebe3e37c2ffb38079ab8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Juggalo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Juggalo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Juggalo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Juggalo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

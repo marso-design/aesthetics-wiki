@@ -10,7 +10,6 @@ related_media: ["Legend of Zelda", "Lord of the Rings", "A Song of Ice and Fire"
 source_url: "https://aesthetics.fandom.com/wiki/Medieval_Fantasy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Medieval Fantasy
@@ -136,10 +135,6 @@ The Dedication by Edmund Blair Leighton, 1908
 
 ## References
 
-## Images
-
-- `images/medieval-fantasy/Castle.jpg`
-
 ## Source and attribution
 
-Text adapted from "Medieval Fantasy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Medieval_Fantasy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Medieval Fantasy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Medieval_Fantasy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -4,7 +4,6 @@ slug: "glossary"
 source_url: "https://aesthetics.fandom.com/wiki/Glossary"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Glossary
@@ -47,4 +46,4 @@ The wiki uses this term to describe every image involved in an aesthetic. This c
 
 ## Source and attribution
 
-Text adapted from "Glossary" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glossary), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Glossary" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glossary), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

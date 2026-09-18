@@ -11,7 +11,6 @@ related_media: ["Harlem Community News", "Our Time Press", "The New York Beacon"
 source_url: "https://aesthetics.fandom.com/wiki/Black_Ivy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Black Ivy
@@ -322,15 +321,6 @@ Social Media Influencers:
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/black-ivy/BlackIvy.jpg`
-- `images/black-ivy/Blackivy.jpg`
-- `images/black-ivy/2716.webp`
-- `images/black-ivy/Fashion.webp`
-- `images/black-ivy/Reading.webp`
-- `images/black-ivy/Ivy-league.webp`
-
 ## Source and attribution
 
-Text adapted from "Black Ivy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Black_Ivy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Black Ivy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Black_Ivy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

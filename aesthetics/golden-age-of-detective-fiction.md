@@ -9,7 +9,6 @@ related_media: ["And Then There Were None by Agatha Christie"]
 source_url: "https://aesthetics.fandom.com/wiki/Golden_Age_of_Detective_Fiction"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Golden Age of Detective Fiction
@@ -155,4 +154,4 @@ This does not include works done by the authors previously mentioned
 
 ## Source and attribution
 
-Text adapted from "Golden Age of Detective Fiction" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Golden_Age_of_Detective_Fiction), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Golden Age of Detective Fiction" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Golden_Age_of_Detective_Fiction), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

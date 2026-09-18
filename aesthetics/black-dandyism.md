@@ -6,7 +6,6 @@ palette: ["#854A2C", "#996C46", "#211814", "#553221", "#B08F69"]
 source_url: "https://aesthetics.fandom.com/wiki/Black_Dandyism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Black Dandyism
@@ -28,10 +27,6 @@ Our community [needs more](https://aesthetics.fandom.com/wiki/Category:Needs_ima
 * <https://www.vogue.com/article/what-is-black-dandyism>
 * https://en.wikipedia.org/wiki/Black\_dandyism
 
-## Images
-
-- `images/black-dandyism/BlackDandyism.jpg`
-
 ## Source and attribution
 
-Text adapted from "Black Dandyism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Black_Dandyism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Black Dandyism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Black_Dandyism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

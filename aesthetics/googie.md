@@ -9,7 +9,6 @@ palette: ["#454949", "#6780A2", "#131B1E", "#487FB5", "#6C737A", "#949798"]
 source_url: "https://aesthetics.fandom.com/wiki/Googie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Googie
@@ -41,10 +40,6 @@ Googie faded in popularity by the mid-1970s, with styles becoming less lavish fo
 
 *Under Construction*
 
-## Images
-
-- `images/googie/ThemeBuilding.jpg`
-
 ## Source and attribution
 
-Text adapted from "Googie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Googie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Googie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Googie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

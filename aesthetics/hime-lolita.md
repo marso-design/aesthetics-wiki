@@ -6,7 +6,6 @@ palette: ["#84756A", "#BCBFBE", "#9E9D9C", "#4C3C36", "#E8E4DF", "#BFAFA0"]
 source_url: "https://aesthetics.fandom.com/wiki/Hime_Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Hime Lolita
@@ -29,17 +28,6 @@ Hime Lolita dresses usually come in lighter pastel shades, such as pale pink, wh
 
 ## Gallery
 
-## Images
-
-- `images/hime-lolita/Princessahhhh.jpg`
-- `images/hime-lolita/Hime8.jpg`
-- `images/hime-lolita/Princessdress.jpg`
-- `images/hime-lolita/Hime6.jpg`
-- `images/hime-lolita/Hime4.jpg`
-- `images/hime-lolita/Hime7.jpg`
-- `images/hime-lolita/Hime1.jpg`
-- `images/hime-lolita/Hime2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hime Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hime_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hime Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hime_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

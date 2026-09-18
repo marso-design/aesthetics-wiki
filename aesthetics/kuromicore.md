@@ -10,7 +10,6 @@ related_media: ["Onegai My Melody", "Kuromi's Pretty Journey"]
 source_url: "https://aesthetics.fandom.com/wiki/Kuromicore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Kuromicore
@@ -47,17 +46,6 @@ In the west, Kuromicore makeup follows trends popularized on online alternative 
 
 ## Gallery
 
-## Images
-
-- `images/kuromicore/803434eb6cdb0e99ce23233e639d95ab.jpg`
-- `images/kuromicore/Kuromi-plushies.jpg`
-- `images/kuromicore/7926a3e2ff38625d433a7b95d8bf358b.jpg`
-- `images/kuromicore/Kuromicore-outfit.jpeg`
-- `images/kuromicore/Bf39bfd683567a17c3dc5bc01f541b9b.jpg`
-- `images/kuromicore/S-l640.png`
-- `images/kuromicore/Kuromi-boy.jpg`
-- `images/kuromicore/Kuromiota.jpg`
-
 ## Source and attribution
 
-Text adapted from "Kuromicore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kuromicore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kuromicore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kuromicore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

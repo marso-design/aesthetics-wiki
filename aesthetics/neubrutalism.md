@@ -11,7 +11,6 @@ related_aesthetics: ["Acid Design", "Acidgrafix", "Austurbane", "Avant Basic", "
 source_url: "https://aesthetics.fandom.com/wiki/Neubrutalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Neubrutalism
@@ -133,27 +132,6 @@ Blacksmith.sh website
 * <https://medium.com/@ter2yzheng/neubrutalism-the-raw-and-accessible-ui-trend-of-2023-477c49d7ae4a>
 * <https://medium.com/@pallavimitra432/neo-brutalism-the-falsely-accused-ui-design-trend-d2f06377297b>
 
-## Images
-
-- `images/neubrutalism/Neubrutalism-in-web-design-1.png`
-- `images/neubrutalism/Neubrutalistexample.png`
-- `images/neubrutalism/1f9d5e56-28f1-4756-b32e-4363930446dd-cover.png`
-- `images/neubrutalism/Original-c04ab36886c294a1f26ec6ec243807e6.png`
-- `images/neubrutalism/94dcc0401551a650e2d76460f14e6bef.png`
-- `images/neubrutalism/Original-8d7d7d22da1c0f7d42a7f6c73f713980.png`
-- `images/neubrutalism/A9f9ab318a232461b9c6dfb169a23b4b.png`
-- `images/neubrutalism/X7L1snXzFAEBS8WIbVDDhfjbulTbW6eS1VeFssDAW2Q.webp`
-- `images/neubrutalism/Nqobmfqvl6ha1.png`
-- `images/neubrutalism/7cf6cab216ad88b9c8a3c5a130c1f377f27ba96e-1965x1515.webp`
-- `images/neubrutalism/Ffneubrutalistsite.jpg`
-- `images/neubrutalism/Pizzapizzapizzapizza.jpg`
-- `images/neubrutalism/Happydaysite.jpg`
-- `images/neubrutalism/Manafana.jpg`
-- `images/neubrutalism/Badass35-website-brutalist-black-and-yellow-design.png`
-- `images/neubrutalism/7587a2c13aaf5695e0506f271328de897e37fcf0-1887x979.webp`
-- `images/neubrutalism/9db079c15a4010765c2937d63a6968b914a3cf92-1909x986.webp`
-- `images/neubrutalism/Blacksmith.sh.gif`
-
 ## Source and attribution
 
-Text adapted from "Neubrutalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neubrutalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neubrutalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neubrutalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

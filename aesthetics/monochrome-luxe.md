@@ -9,7 +9,6 @@ related_aesthetics: ["Cassette Futurism", "High-Tech Architecture", "Memphis Des
 source_url: "https://aesthetics.fandom.com/wiki/Monochrome_Luxe"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Monochrome Luxe
@@ -85,12 +84,6 @@ Fredrick Ramond ad, date unknown
 
 * [Evan Collins' Are.na on this aesthetic](https://www.are.na/evan-collins-1522646491/1980s-high-tech-geo-minimalist)
 
-## Images
-
-- `images/monochrome-luxe/Bf5942680cf1303e91d5d46c01158ef8ba6a433a(1).jpg`
-- `images/monochrome-luxe/Wmu3i1c108ob1.jpg`
-- `images/monochrome-luxe/BOYSCO.jpg`
-
 ## Source and attribution
 
-Text adapted from "Monochrome Luxe" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Monochrome_Luxe), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Monochrome Luxe" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Monochrome_Luxe), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

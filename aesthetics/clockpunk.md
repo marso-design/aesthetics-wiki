@@ -11,7 +11,6 @@ related_media: ["Assassin's Creed II (video game)", "Dishonored 2 (video game)",
 source_url: "https://aesthetics.fandom.com/wiki/Clockpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Clockpunk
@@ -92,21 +91,6 @@ Visually, Clockpunk is highly ornate and detailed, mirroring the aesthetics of t
 
 ## References
 
-## Images
-
-- `images/clockpunk/Clockpunk.jpg`
-- `images/clockpunk/Clockpunk2.jpg`
-- `images/clockpunk/Clockpunk10.png`
-- `images/clockpunk/Connor-cercone-prof-layton-2018-final.jpg`
-- `images/clockpunk/Clock-punk.jpg`
-- `images/clockpunk/C9772c08506d4652f0ce63b761bad760.jpg`
-- `images/clockpunk/Clockpunk-aesthetic.jpg`
-- `images/clockpunk/Vo0yv9ybof5c1.webp`
-- `images/clockpunk/Davinci-columbina.jpg`
-- `images/clockpunk/Floff.jpg`
-- `images/clockpunk/Remi-luizy-sr-cavalier-bs02.jpg`
-- `images/clockpunk/Clockwork.webp`
-
 ## Source and attribution
 
-Text adapted from "Clockpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Clockpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Clockpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Clockpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

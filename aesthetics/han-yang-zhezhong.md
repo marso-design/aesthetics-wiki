@@ -9,7 +9,6 @@ palette: ["#262B2A", "#4D4A3E", "#DFE0DC", "#B09F8E", "#B7B4A9", "#D0C7B6"]
 source_url: "https://aesthetics.fandom.com/wiki/Han-Yang_Zhezhong"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Han-Yang Zhezhong
@@ -38,21 +37,6 @@ This fashion is defined by **Hanfu**, usually Ming style, that's decorated with 
 
 ## Gallery
 
-## Images
-
-- `images/han-yang-zhezhong/HanYang-5.jpeg`
-- `images/han-yang-zhezhong/HanYang-1.jpeg`
-- `images/han-yang-zhezhong/HanYang-2.jpeg`
-- `images/han-yang-zhezhong/HanYang-3.jpeg`
-- `images/han-yang-zhezhong/HanYang-6.jpeg`
-- `images/han-yang-zhezhong/HanYang-7.jpeg`
-- `images/han-yang-zhezhong/HanYang-8.jpeg`
-- `images/han-yang-zhezhong/HanYang-9.jpeg`
-- `images/han-yang-zhezhong/HanYang-10.jpeg`
-- `images/han-yang-zhezhong/HanYang-11.jpeg`
-- `images/han-yang-zhezhong/HanYang-12.jpeg`
-- `images/han-yang-zhezhong/HanYang-13.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Han-Yang Zhezhong" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Han-Yang_Zhezhong), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Han-Yang Zhezhong" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Han-Yang_Zhezhong), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

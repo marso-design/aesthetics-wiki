@@ -11,7 +11,6 @@ related_aesthetics: ["Bohemian", "Corporate Hippie", "Ethereal", "Freakbeat", "S
 source_url: "https://aesthetics.fandom.com/wiki/Flower_Power"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Flower Power
@@ -136,22 +135,6 @@ GM Frigidaire advertisement (1970s)
 
 ### Revival
 
-## Images
-
-- `images/flower-power/FlowerPowerAesthetic.jpg`
-- `images/flower-power/The-Seeds-2.jpg`
-- `images/flower-power/R-5616801-1517579725-2644.jpg`
-- `images/flower-power/Power-Plant-The-Golden-Dawn.jpg`
-- `images/flower-power/Birkin.jpg`
-- `images/flower-power/Flowerinherhair.jpg`
-- `images/flower-power/Pamela.jpg`
-- `images/flower-power/MaleFlowerChild.jpg`
-- `images/flower-power/Birkin2.jpg`
-- `images/flower-power/Flowergirl1.jpg`
-- `images/flower-power/Flowergirl.jpg`
-- `images/flower-power/FlowerGirlRevival.jpg`
-- `images/flower-power/Flowergirl3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Flower Power" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Flower_Power), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Flower Power" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Flower_Power), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

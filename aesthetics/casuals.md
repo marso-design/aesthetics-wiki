@@ -12,7 +12,6 @@ related_media: ["ID", "The Firm", "The Football Factory", "Green Street", "Casua
 source_url: "https://aesthetics.fandom.com/wiki/Casuals"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Casuals
@@ -96,19 +95,6 @@ The use of expensive, non-traditional football attire was a deliberate choice to
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/casuals/Casuals.jpg`
-- `images/casuals/Football-casuals-huddersfield-1980s.jpg`
-- `images/casuals/2888d478372eaaed78191a3f507164a5.jpg`
-- `images/casuals/Newport-Casuals-1980s.jpg`
-- `images/casuals/Football-casual.jpg`
-- `images/casuals/Cf56c453916e3e5bc716dd3798f9472e.jpg`
-- `images/casuals/Casual-Culture-History-Terrace-Subculture.jpg`
-- `images/casuals/Picture-26.png`
-- `images/casuals/Casual-culture-history-80s-2.jpg`
-- `images/casuals/Casuals8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Casuals" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Casuals), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Casuals" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Casuals), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

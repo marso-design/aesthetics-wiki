@@ -11,7 +11,6 @@ related_aesthetics: ["Bro Hoe", "Cyber Grunge", "Cybersigilism", "Guido", "Haunt
 source_url: "https://aesthetics.fandom.com/wiki/Post-Grunge_Maximalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Post-Grunge Maximalism
@@ -52,13 +51,6 @@ Due to its lack of a formally established name, the aesthetic is often confused 
 
 ## References
 
-## Images
-
-- `images/post-grunge-maximalism/Affliction.webp`
-- `images/post-grunge-maximalism/Post-GrungeMax.webp`
-- `images/post-grunge-maximalism/What-is-this-style-of-clothing-called-v0-j1cqlo18j01c1.jpg`
-- `images/post-grunge-maximalism/C7eabf5264066746a8c19441cfb23737v3.webp`
-
 ## Source and attribution
 
-Text adapted from "Post-Grunge Maximalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Post-Grunge_Maximalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Post-Grunge Maximalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Post-Grunge_Maximalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Lucky Star", "Azumanga Daioh", "the Touhou Project series", "Vo
 source_url: "https://aesthetics.fandom.com/wiki/Animecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Animecore
@@ -125,24 +124,6 @@ A screenshot of gameplay from a Project DIVA game.
 
 ## References
 
-## Images
-
-- `images/animecore/70ec253148ee83f9d4d5bbdafdec68ed.jpg`
-- `images/animecore/Ab3df9b38b7edf09287409b816bde345.jpg`
-- `images/animecore/A635b6a3d1f58351ce089ef6ede78e7d.jpg`
-- `images/animecore/42db7cdff027577ebc5074da03a5899d.jpg`
-- `images/animecore/943027529ffd98365cf8ae900ae39e74.jpg`
-- `images/animecore/C2db2d290f37e6799f2acb7cb0ff49b1.jpg`
-- `images/animecore/25891284a21fc8de3391d1e3d1b403ab.jpg`
-- `images/animecore/6db08bbb4ad798d3a6d81153b39ee80d.jpg`
-- `images/animecore/Cute.gif`
-- `images/animecore/Animecore.jpg`
-- `images/animecore/XPWindowsAnime.jpg`
-- `images/animecore/Nyancatanimation.gif`
-- `images/animecore/Luckystar.jpg`
-- `images/animecore/Miku.jpg`
-- `images/animecore/Popotan-Caramelldansen.gif`
-
 ## Source and attribution
 
-Text adapted from "Animecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Animecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Animecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Animecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

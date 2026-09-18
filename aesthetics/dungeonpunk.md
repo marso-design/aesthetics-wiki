@@ -10,7 +10,6 @@ palette: ["#A18739", "#4A3519", "#6A471D", "#CCBA69", "#8E6F2F", "#BDA74E"]
 source_url: "https://aesthetics.fandom.com/wiki/Dungeonpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Dungeonpunk
@@ -73,10 +72,6 @@ Paralleling [Cyberpunk](https://aesthetics.fandom.com/wiki/Cyberpunk "Cyberpunk"
 
 ## References
 
-## Images
-
-- `images/dungeonpunk/Eberron.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dungeonpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dungeonpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dungeonpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dungeonpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["The Great Gatsby", "Chicago", "Metropolis", "The Artist"]
 source_url: "https://aesthetics.fandom.com/wiki/Roaring_Twenties"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Roaring Twenties
@@ -152,28 +151,6 @@ The Roaring 20s saw the creation and popularization of Jazz music.
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/roaring-twenties/31BE42CB-954E-4688-A8C9-E79FCDD58FED.jpeg`
-- `images/roaring-twenties/9BB75940-49D8-4F57-86E9-5DCC2B4A21F7.jpeg`
-- `images/roaring-twenties/B3B54641-B89B-471B-8DEA-47FE3A7297C6.jpeg`
-- `images/roaring-twenties/43575C90-DFF0-480B-8420-394378ED0239.jpeg`
-- `images/roaring-twenties/008BA63C-9DD2-4B17-B014-ACB07E2DCDBA.png`
-- `images/roaring-twenties/B7200B78-37E0-43C0-ADD3-16CD808E3AF1.jpeg`
-- `images/roaring-twenties/Books-that-feel-like-youre-in-the-roaring-20s-v0-qx8dtgm7tbme1.webp`
-- `images/roaring-twenties/Books-that-feel-like-youre-in-the-roaring-20s-v0-j1i4tgm7tbme1.webp`
-- `images/roaring-twenties/Books-that-feel-like-youre-in-the-roaring-20s-v0-184xqhm7tbme1.webp`
-- `images/roaring-twenties/Books-that-feel-like-youre-in-the-roaring-20s-v0-g6p8lgm7tbme1.webp`
-- `images/roaring-twenties/Art-deco-roaring-20s-feel-v0-os1l1u06iotg1.webp`
-- `images/roaring-twenties/Art-deco-roaring-20s-feel-v0-8ubssu06iotg1.webp`
-- `images/roaring-twenties/Charleston-london-roaring-twenties.jpg`
-- `images/roaring-twenties/Bessie-smith-philadelphia.webp`
-- `images/roaring-twenties/Harlem-lafayette-theater.webp`
-- `images/roaring-twenties/Lucky-strike-smokers-parade.jpg`
-- `images/roaring-twenties/The-great-gatsby-poster-wallpaper-preview.jpg`
-- `images/roaring-twenties/How-do-you-feel-about-the-1920s-style-aesthetics-v0-g4wcpock19cg1.webp`
-- `images/roaring-twenties/How-do-you-feel-about-the-1920s-style-aesthetics-v0-9z0elb5k19cg1.webp`
-
 ## Source and attribution
 
-Text adapted from "Roaring Twenties" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Roaring_Twenties), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Roaring Twenties" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Roaring_Twenties), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

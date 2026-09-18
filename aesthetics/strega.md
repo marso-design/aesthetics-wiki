@@ -9,7 +9,6 @@ related_aesthetics: ["Dark Fantasy", "Cottagecore", "Cottagegore", "Forestpunk",
 source_url: "https://aesthetics.fandom.com/wiki/Strega"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Strega
@@ -71,18 +70,6 @@ External links to help get a better understanding of this aesthetic.
 
 ## References
 
-## Images
-
-- `images/strega/Strega-fashion.jpg`
-- `images/strega/Woodlandgoth1.jpg`
-- `images/strega/Woodlandgoth2.jpg`
-- `images/strega/Woodlandgoth3.jpg`
-- `images/strega/Woodlandgoth4.jpg`
-- `images/strega/Woodlandgoth5.jpg`
-- `images/strega/Woodlandgoth7.jpg`
-- `images/strega/Woodlandgoth8.jpg`
-- `images/strega/Woodland.jpg`
-
 ## Source and attribution
 
-Text adapted from "Strega" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Strega), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Strega" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Strega), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

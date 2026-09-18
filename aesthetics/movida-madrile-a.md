@@ -11,7 +11,6 @@ related_aesthetics: ["Basque Radical Rock", "Camp", "Goth", "Movida Viguesa", "N
 source_url: "https://aesthetics.fandom.com/wiki/Movida_Madrileña"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Movida Madrileña
@@ -135,26 +134,6 @@ La Movida-themed art exposition in Institution Saint Martin, France.
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ **Movida Madrileña** ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/movida-madrile-a/RadioFutura.jpg`
-- `images/movida-madrile-a/AlaskaYLosPegamoides.png`
-- `images/movida-madrile-a/Madrid1980.png`
-- `images/movida-madrile-a/Alaska1982.jpg`
-- `images/movida-madrile-a/NachaPop.jpg`
-- `images/movida-madrile-a/LaMovida1.jpg`
-- `images/movida-madrile-a/RockOlaBar.png`
-- `images/movida-madrile-a/LaMovidaImage.png`
-- `images/movida-madrile-a/AlaskaYLosPegamoides2.jpg`
-- `images/movida-madrile-a/LaMovida2.jpg`
-- `images/movida-madrile-a/Movida-Almodovar-McNamara.jpg`
-- `images/movida-madrile-a/MiguelTrillo.jpg`
-- `images/movida-madrile-a/NachaPop2.jpg`
-- `images/movida-madrile-a/LaMovidaArt2.png`
-- `images/movida-madrile-a/LaMovidaArt.jpg`
-- `images/movida-madrile-a/PepiLuciBom.png`
-- `images/movida-madrile-a/LaMovidaExposition.jpg`
-
 ## Source and attribution
 
-Text adapted from "Movida Madrileña" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Movida_Madrileña), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Movida Madrileña" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Movida_Madrileña), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

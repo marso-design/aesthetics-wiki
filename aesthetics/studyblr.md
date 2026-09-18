@@ -7,7 +7,6 @@ palette: ["#927A72", "#AAA7A1", "#DCDEDF", "#3D2E2B", "#CAC1B7", "#F6F6F7"]
 source_url: "https://aesthetics.fandom.com/wiki/Studyblr"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Studyblr
@@ -50,18 +49,6 @@ Studyblr users usually use stylistic writing, cursive, and calligraphy for aesth
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/studyblr/Study.jpg`
-- `images/studyblr/A552479C-00A4-4A99-8F0A-62CB95B8EF9B.jpeg`
-- `images/studyblr/46AE9B21-26F7-46FD-ACE2-16D41B067FE1.jpeg`
-- `images/studyblr/F48CEBD8-5BF0-41E0-B71B-715ADA7FDE0F.jpeg`
-- `images/studyblr/AC52F53D-26B5-49BF-8B2D-FE4E44861C93.jpeg`
-- `images/studyblr/DF3733B4-8483-46F4-B2AE-22445326AA27.jpeg`
-- `images/studyblr/D9144FB8-05C7-41E6-9504-A16BDFFA3BE6.jpeg`
-- `images/studyblr/79E63A9A-3B60-41D0-AB50-8320D129707E.jpeg`
-- `images/studyblr/A254FFE6-84C9-4C21-9A40-899D7903241A.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Studyblr" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Studyblr), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Studyblr" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Studyblr), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

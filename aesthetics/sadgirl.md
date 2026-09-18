@@ -13,7 +13,6 @@ related_media: ["The Virgin Suicides (1999)", "Marie Antoinette (2006)", "Skins 
 source_url: "https://aesthetics.fandom.com/wiki/Sadgirl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Sadgirl
@@ -159,26 +158,6 @@ The music associated with the Sadgirl aesthetic is primarily dark pop, [emo rap]
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/sadgirl/Sad.jpg`
-- `images/sadgirl/Sadgirl.jpg`
-- `images/sadgirl/Sadtimes29.jpg`
-- `images/sadgirl/Sadtimes13.jpg`
-- `images/sadgirl/49d37612782de85a5e307e5e2a9580af.jpg`
-- `images/sadgirl/8f356b9f743dc686304207f924967280.jpg`
-- `images/sadgirl/Eca34de022b0709f206f0680160e1919.jpg`
-- `images/sadgirl/Bc5a6ad98526d70c6b870b258910cbfc.jpg`
-- `images/sadgirl/D9ce2137fb606703563187bf6ee0d47f.jpg`
-- `images/sadgirl/3fadcfc70037c0d2898c70da7229b141.jpg`
-- `images/sadgirl/67a7765adafc753d48161d3d9730187f.jpg`
-- `images/sadgirl/3c1e10bbc061efb85a29c147b8f05ca1.jpg`
-- `images/sadgirl/4e49666cb1e2d208b5a721ee9350149b.jpg`
-- `images/sadgirl/1380998cbae4c62c9b6bd64f4066ec4d.jpg`
-- `images/sadgirl/366bba68267b41df4851b333e101ad50.jpg`
-- `images/sadgirl/5eaccfd22b1cc580c9c55b4aceda6ca7.jpg`
-- `images/sadgirl/Ac62eeb4b4063e97fcab73a219ce60f9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sadgirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sadgirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sadgirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sadgirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

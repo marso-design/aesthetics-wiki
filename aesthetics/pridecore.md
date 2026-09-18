@@ -10,7 +10,6 @@ primary_platform: ["Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Pridecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Pridecore
@@ -45,4 +44,4 @@ Pansexual [Glam Rock](https://aesthetics.fandom.com/wiki/Glam_Rock "Glam Rock") 
 
 ## Source and attribution
 
-Text adapted from "Pridecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pridecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pridecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pridecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

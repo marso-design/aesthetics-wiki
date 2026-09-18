@@ -5,7 +5,6 @@ palette: ["#7EC7D5", "#A54585", "#C07F82", "#E7C4BC", "#F8F6FD", "#D0A090"]
 source_url: "https://aesthetics.fandom.com/wiki/Stimboard"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Stimboard
@@ -62,12 +61,6 @@ As discussed, stimboards involve curating GIFs of the visuals above into a cohes
 
 ## Gallery
 
-## Images
-
-- `images/stimboard/Ezgif-6-9ca1232a4fea.gif`
-- `images/stimboard/Ezgif-6-3f125f7942cb.gif`
-- `images/stimboard/Ezgif-6-76de5d56878d.gif`
-
 ## Source and attribution
 
-Text adapted from "Stimboard" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Stimboard), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Stimboard" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Stimboard), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

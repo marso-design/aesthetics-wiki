@@ -11,7 +11,6 @@ primary_platform: ["YouTube", "Vine"]
 source_url: "https://aesthetics.fandom.com/wiki/Simpsonwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Simpsonwave
@@ -70,21 +69,6 @@ Many Simpsonwave videos also function as a deconstruction of the show and its ch
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/simpsonwave/TVJ7FhCP.gif`
-- `images/simpsonwave/Siimpwasn33.jpg`
-- `images/simpsonwave/Simpsobwave99.jpg`
-- `images/simpsonwave/Ifwjefijewifsim.jpg`
-- `images/simpsonwave/Simpsonwave.jpg`
-- `images/simpsonwave/Simpsonwave6.jpg`
-- `images/simpsonwave/Simsonwave.jpg`
-- `images/simpsonwave/Simpsonwave8.jpg`
-- `images/simpsonwave/Simsponwave67.jpg`
-- `images/simpsonwave/Simsponwave898.jpg`
-- `images/simpsonwave/9880af74-1243-4cd4-af8b-0ba3518237ac.jpg`
-- `images/simpsonwave/688d59883b1ea4034259bbccbe521c44.gif`
-
 ## Source and attribution
 
-Text adapted from "Simpsonwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Simpsonwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Simpsonwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Simpsonwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

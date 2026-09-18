@@ -8,7 +8,6 @@ palette: ["#44383A", "#9F9E9E", "#CEBEBE", "#836E6C", "#242125", "#5F5F61"]
 source_url: "https://aesthetics.fandom.com/wiki/Harajuku_Fashion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Harajuku Fashion
@@ -96,18 +95,6 @@ Harajuku fashion should not be conflated with fashion originating from other par
 
 ## References
 
-## Images
-
-- `images/harajuku-fashion/46972216-7db6-4f53-8b49-e8afdeb2917d-istock-1151608401.jpg`
-- `images/harajuku-fashion/Classicloli.JPG`
-- `images/harajuku-fashion/5924.jpg`
-- `images/harajuku-fashion/5926.jpg`
-- `images/harajuku-fashion/Decora-kei(2).jpeg`
-- `images/harajuku-fashion/Fernopaa-Sex-Pot-Revenge-Harajuku-20150607DSC9130.webp`
-- `images/harajuku-fashion/6T7A8819.jpg`
-- `images/harajuku-fashion/RATrides01.jpg`
-- `images/harajuku-fashion/Pop-kei.PNG`
-
 ## Source and attribution
 
-Text adapted from "Harajuku Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Harajuku_Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Harajuku Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Harajuku_Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

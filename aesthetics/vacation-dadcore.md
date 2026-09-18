@@ -11,7 +11,6 @@ related_aesthetics: ["Nautical", "Tiki", "Tropical", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/Vacation_Dadcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Vacation Dadcore
@@ -113,32 +112,6 @@ The character Max Tennyson from the *Ben 10* franchise, who frequently wears a H
 
 * [Say Aloha to Vacation Dadcore: Fashion Style Guide](https://backwardfashion.com/fashion-trends/vacation-dadcore/#:~:text=Vacation%20Dadcore%20is%20a%20fashion%20aesthetic%20that%20focuses,wearing%20or%20worry%20about%20looking%20out%20of%20place.)
 
-## Images
-
-- `images/vacation-dadcore/Magnum-pi-hawaiian-shirt.jpg`
-- `images/vacation-dadcore/1.png`
-- `images/vacation-dadcore/Wiz.jpg`
-- `images/vacation-dadcore/Jum.png`
-- `images/vacation-dadcore/Wiz1.jpg`
-- `images/vacation-dadcore/3-0.jpg`
-- `images/vacation-dadcore/Dadcore5.jpeg`
-- `images/vacation-dadcore/Vacationdadcore1.png`
-- `images/vacation-dadcore/JP-DennisNedry2.jpg`
-- `images/vacation-dadcore/Vacationdadcore.jpeg`
-- `images/vacation-dadcore/Kenough.jpeg`
-- `images/vacation-dadcore/61084570.jpg`
-- `images/vacation-dadcore/1111.jpg`
-- `images/vacation-dadcore/A4146e0.jpg`
-- `images/vacation-dadcore/Dadcore.jpg`
-- `images/vacation-dadcore/Dadcore1.jpeg`
-- `images/vacation-dadcore/IZTQ5110.jpg`
-- `images/vacation-dadcore/Dadcore2.jpeg`
-- `images/vacation-dadcore/Dadcore4.jpeg`
-- `images/vacation-dadcore/Asteroid-city-11.webp`
-- `images/vacation-dadcore/11111.jpg`
-- `images/vacation-dadcore/KDXS1116.jpg`
-- `images/vacation-dadcore/Wp2448391.jpg`
-
 ## Source and attribution
 
-Text adapted from "Vacation Dadcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vacation_Dadcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vacation Dadcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vacation_Dadcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

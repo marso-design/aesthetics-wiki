@@ -11,7 +11,6 @@ related_aesthetics: ["Cybersigilism", "Dresiarz", "Gabber", "Hands Up", "Rave", 
 source_url: "https://aesthetics.fandom.com/wiki/Wixa"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Wixa
@@ -175,23 +174,6 @@ SERAPH & DR SPEED - GURNICZO HUTNICZA ORKIESTRA JEBNIENTA (WIDEUO BAJ BORO)
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/wixa/RejwySubculture.png`
-- `images/wixa/Wixaaaa.jpg`
-- `images/wixa/Wixaaa.jpg`
-- `images/wixa/Wixapolfans.jpg`
-- `images/wixa/Wixa2.jpg`
-- `images/wixa/Wix2.webp`
-- `images/wixa/Rejwy3.webp`
-- `images/wixa/Rejwy2.webp`
-- `images/wixa/Rejwy1.webp`
-- `images/wixa/Wix1.webp`
-- `images/wixa/Wixaaa2.png`
-- `images/wixa/Wixaparty.jpg`
-- `images/wixa/Wixaparty3.jpg`
-- `images/wixa/Wixameme.jpg`
-
 ## Source and attribution
 
-Text adapted from "Wixa" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wixa), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wixa" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wixa), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

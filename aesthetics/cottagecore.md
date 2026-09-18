@@ -14,7 +14,6 @@ related_media: ["The Wind in the Willows", "Beatrix Potter books", "Studio Ghibl
 source_url: "https://aesthetics.fandom.com/wiki/Cottagecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 26
 ---
 
 # Cottagecore
@@ -477,35 +476,6 @@ Botanismo, a Brazilian cottagecore-inspired stationery brand
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/cottagecore/Cottagecore.jpg`
-- `images/cottagecore/1c92bc4d797b4bdfea9bee107461a090.jpg`
-- `images/cottagecore/D97ae5d8c354d2c448343afe184b83bf.jpg`
-- `images/cottagecore/Dcbe005d86bbb34998ad1626479c45e1.jpg`
-- `images/cottagecore/Bfa1d5536e8bcf0e139598223256e9be.jpg`
-- `images/cottagecore/2927s347s0y41.jpg`
-- `images/cottagecore/D0DItfkXQAAPXG-.jpg`
-- `images/cottagecore/Fe7f804048d0b59fc755dac0497d8c35.png`
-- `images/cottagecore/39308477923f51df89a1ab8577eee3cb.jpg`
-- `images/cottagecore/Cottagecore.jpeg`
-- `images/cottagecore/6124b15cabd6316533e672b4e5064dfc.jpg`
-- `images/cottagecore/Nympj.JPG`
-- `images/cottagecore/4dfd3cb878664a31957ee35922991513.png`
-- `images/cottagecore/Cottagecore1971crop.jpg`
-- `images/cottagecore/714E657A-60FE-49EF-839F-515B0612C251.jpeg`
-- `images/cottagecore/Farmprairie.png`
-- `images/cottagecore/Guitar.jpg`
-- `images/cottagecore/Book.jpg`
-- `images/cottagecore/Mouse.jpg`
-- `images/cottagecore/Acorn.jpg`
-- `images/cottagecore/Kitchen.jpg`
-- `images/cottagecore/530C8A83-9A62-4C3C-8815-9CB52CC0309E.jpeg`
-- `images/cottagecore/Cottagecore-wardrobe.jpg`
-- `images/cottagecore/Clothes-hung-on-a-clothesline-cottagecore-aesthetic.jpg`
-- `images/cottagecore/Cottagemn1.jpg`
-- `images/cottagecore/Cottagemn3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cottagecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cottagecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cottagecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cottagecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

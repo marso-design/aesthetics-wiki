@@ -12,7 +12,6 @@ related_media: ["The Brutalist (2024)"]
 source_url: "https://aesthetics.fandom.com/wiki/Brutalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Brutalism
@@ -149,25 +148,6 @@ Wotruba Church in Vienna, Austria
 
 ## References
 
-## Images
-
-- `images/brutalism/TrellickTower.jpg`
-- `images/brutalism/UniteDHabitation.jpg`
-- `images/brutalism/BarbicanEstate.jpg`
-- `images/brutalism/TrellickTower2.jpg`
-- `images/brutalism/BostonCityHall.jpg`
-- `images/brutalism/GieselLibrary.jpeg`
-- `images/brutalism/NationalTheatre.jpg`
-- `images/brutalism/BelgradeCityGate.jpg`
-- `images/brutalism/PrestonBusStation.jpg`
-- `images/brutalism/Eveux.jpg`
-- `images/brutalism/BreuerBuilding.jpg`
-- `images/brutalism/Mäusebunker.jpg`
-- `images/brutalism/TorreHercon.jpg`
-- `images/brutalism/BananaFlats.jpg`
-- `images/brutalism/SovietBrutalBuild01.jpg`
-- `images/brutalism/WotrubaChurch.jpg`
-
 ## Source and attribution
 
-Text adapted from "Brutalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brutalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Brutalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brutalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

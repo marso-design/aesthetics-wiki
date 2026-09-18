@@ -10,7 +10,6 @@ palette: ["#6A6262", "#DDDBE0", "#73767A", "#2C2628", "#8D8D88", "#B5AFA5"]
 source_url: "https://aesthetics.fandom.com/wiki/Wabi-Sabi"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Wabi-Sabi
@@ -29,12 +28,6 @@ Characteristics of the *wabi-sabi* aesthetic include asymmetry, roughness, s
 
 ## Gallery
 
-## Images
-
-- `images/wabi-sabi/Cb-6-14-wabi-sabi.jpg`
-- `images/wabi-sabi/440px-thumbnail.jpg`
-- `images/wabi-sabi/Wabi-sabi.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Wabi-Sabi" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wabi-Sabi), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wabi-Sabi" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wabi-Sabi), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

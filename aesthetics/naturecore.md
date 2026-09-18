@@ -10,7 +10,6 @@ related_aesthetics: ["Adventurecore", "Cabincore", "Cottagecore", "Cozy Gamer", 
 source_url: "https://aesthetics.fandom.com/wiki/Naturecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Naturecore
@@ -56,20 +55,6 @@ However, a universally recognized example that captures the general spirit of th
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/naturecore/CD8A6A3B-DA64-4C90-9EAC-4D48FBAFAC8B.png`
-- `images/naturecore/5CEA9B0F-9230-4370-993C-93F552F5E4B1.jpeg`
-- `images/naturecore/63A2CB9D-20F7-45A5-95B0-2D222EE6FA22.jpeg`
-- `images/naturecore/5CD4E523-E92C-4259-9D2A-C7E03F0B14DB.jpeg`
-- `images/naturecore/F2a9b7a5570f18532d2baf3798f0e5f1.jpg`
-- `images/naturecore/Wci1.jpg`
-- `images/naturecore/E16f047c2b0ecbc768932f6e4b294d2a.jpg`
-- `images/naturecore/EBB18529-6E9E-48CE-A77D-0994105174C2.jpeg`
-- `images/naturecore/Tree2.jpg`
-- `images/naturecore/Tree3.jpg`
-- `images/naturecore/Efc860f2cdd93baab00b4e093c03fc0b.jpg`
-
 ## Source and attribution
 
-Text adapted from "Naturecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Naturecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Naturecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Naturecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

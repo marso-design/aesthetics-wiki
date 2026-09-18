@@ -10,7 +10,6 @@ related_aesthetics: ["Art Hoe", "Clean Girl", "Coastal Grandmother", "Strawberry
 source_url: "https://aesthetics.fandom.com/wiki/Blueberry_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Blueberry Girl
@@ -41,26 +40,6 @@ Critics argue that these labels are often manufactured marketing tools designed 
 | --- | --- | --- |
 | [Aliyahcore](https://aesthetics.fandom.com/wiki/Aliyahcore "Aliyahcore") • [Avant Basic](https://aesthetics.fandom.com/wiki/Avant_Basic "Avant Basic") • [Barbiecore](https://aesthetics.fandom.com/wiki/Barbiecore "Barbiecore") • [Blokecore](https://aesthetics.fandom.com/wiki/Blokecore "Blokecore") • [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") • **Blueberry Girl** • [Brat Summer](https://aesthetics.fandom.com/wiki/Brat_Summer "Brat Summer") • [Brazilian Bombshell](https://aesthetics.fandom.com/wiki/Brazilian_Bombshell "Brazilian Bombshell") • [Brazilcore](https://aesthetics.fandom.com/wiki/Brazilcore "Brazilcore") • [Cacareco Girl](https://aesthetics.fandom.com/wiki/Cacareco_Girl "Cacareco Girl") • [Cayetana](https://aesthetics.fandom.com/wiki/Cayetana "Cayetana") • [Cinnamon Girl](https://aesthetics.fandom.com/wiki/Cinnamon_Girl "Cinnamon Girl") • [Christian Girl Autumn](https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn "Christian Girl Autumn") • [Clean Girl](https://aesthetics.fandom.com/wiki/Clean_Girl "Clean Girl") • [Coastal Cowgirl](https://aesthetics.fandom.com/wiki/Coastal_Cowgirl "Coastal Cowgirl") • [Coastal Grandmother](https://aesthetics.fandom.com/wiki/Coastal_Grandmother "Coastal Grandmother") • [Dopamine Dressing](https://aesthetics.fandom.com/wiki/Dopamine_Dressing "Dopamine Dressing") • [Earthy Black Girl](https://aesthetics.fandom.com/wiki/Earthy_Black_Girl "Earthy Black Girl") • [Eclectic Grandpa](https://aesthetics.fandom.com/wiki/Eclectic_Grandpa "Eclectic Grandpa") • [Female Horror Game Protagonist Fashion](https://aesthetics.fandom.com/wiki/Female_Horror_Game_Protagonist_Fashion "Female Horror Game Protagonist Fashion") • [Frazzled English Woman](https://aesthetics.fandom.com/wiki/Frazzled_English_Woman "Frazzled English Woman") • [Girl Suffix](https://aesthetics.fandom.com/wiki/Category:Girl "Category:Girl") • [Granola Girl](https://aesthetics.fandom.com/wiki/Granola_Girl "Granola Girl") • [Grocery Girl Fall](https://aesthetics.fandom.com/wiki/Grocery_Girl_Fall "Grocery Girl Fall") • [Lulicore](https://aesthetics.fandom.com/wiki/Lulicore "Lulicore") • [Maillard Style](https://aesthetics.fandom.com/wiki/Maillard_Style "Maillard Style") • [Mermaidcore](https://aesthetics.fandom.com/wiki/Mermaidcore "Mermaidcore") • [Mob Wife](https://aesthetics.fandom.com/wiki/Mob_Wife "Mob Wife") • [Office Siren](https://aesthetics.fandom.com/wiki/Office_Siren "Office Siren") • [Peach Girl](https://aesthetics.fandom.com/wiki/Peach_Girl "Peach Girl") • [Pearlcore](https://aesthetics.fandom.com/wiki/Pearlcore "Pearlcore") • [Plazacore](https://aesthetics.fandom.com/wiki/Plazacore "Plazacore") • [Sad Beige](https://aesthetics.fandom.com/wiki/Sad_Beige "Sad Beige") • [Scandi Girl Winter](https://aesthetics.fandom.com/wiki/Scandi_Girl_Winter "Scandi Girl Winter") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Strawberry Girl](https://aesthetics.fandom.com/wiki/Strawberry_Girl "Strawberry Girl") • [Succubus Chic](https://aesthetics.fandom.com/wiki/Succubus_Chic "Succubus Chic") • [Tenniscore](https://aesthetics.fandom.com/wiki/Tenniscore "Tenniscore") • [That Girl](https://aesthetics.fandom.com/wiki/That_Girl "That Girl") • [Tomato Girl](https://aesthetics.fandom.com/wiki/Tomato_Girl "Tomato Girl") • [Tumbette](https://aesthetics.fandom.com/wiki/Tumbette "Tumbette") • [Vanilla Girl](https://aesthetics.fandom.com/wiki/Vanilla_Girl "Vanilla Girl") |
 
-## Images
-
-- `images/blueberry-girl/77f1259ddc9e53aa0fb5c60e221ffa8d.jpg`
-- `images/blueberry-girl/1ba21e31b43e9fefd95606cbe422d7c7.jpg`
-- `images/blueberry-girl/5e61a3820780dcabf8e6b5cb3055066b.jpg`
-- `images/blueberry-girl/9210aef6d12b35f82c7a983685ca0841.jpg`
-- `images/blueberry-girl/84329097c8d63ceb63e97efeb1e5b77e.jpg`
-- `images/blueberry-girl/0c3df95f3a290ac17cf735bc55d67be6.jpg`
-- `images/blueberry-girl/0ad9de85ad1767a07668ecde587985ae.jpg`
-- `images/blueberry-girl/57a9d2ff62250c0ec309fb8ad9623b30.jpg`
-- `images/blueberry-girl/B733f3547fa30c12e2902ecf8ffc48cb.jpg`
-- `images/blueberry-girl/7284a4b3fa4b2cc2e6715ff1bfb0f38d.jpg`
-- `images/blueberry-girl/2adc1bccf9789673c97f4a8251e8b82f.jpg`
-- `images/blueberry-girl/9405e31f782f43704ca31e51ab857421.jpg`
-- `images/blueberry-girl/D22616c265700f167cbaf8acd3df2c6b.jpg`
-- `images/blueberry-girl/5a33cbb83c3c600e0405dae01ee60082.jpg`
-- `images/blueberry-girl/44b2ea605d89f0c04bcad82a4c0bcdea.jpg`
-- `images/blueberry-girl/3f13acbd1d19fc03f8a97806e982da2b.jpg`
-- `images/blueberry-girl/Anna-Kumpan-Unsplash-2.webp`
-
 ## Source and attribution
 
-Text adapted from "Blueberry Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blueberry_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Blueberry Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blueberry_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

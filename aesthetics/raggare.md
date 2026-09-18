@@ -11,7 +11,6 @@ related_media: ["Rock'n'roll music", "car magazines", "\"Raggare!\" (1959 film)"
 source_url: "https://aesthetics.fandom.com/wiki/Raggare"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Raggare
@@ -96,12 +95,6 @@ Media portrayal contributed to tensions by depicting punks in a negative light. 
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/raggare/In-sweden-they-have-a-raggare-subculture-which-consists-of-v0-mghzrl7j64gb1.jpg`
-- `images/raggare/Wjdrqda9yr9a1.jpg`
-- `images/raggare/Raggare66.jpg`
-
 ## Source and attribution
 
-Text adapted from "Raggare" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Raggare), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Raggare" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Raggare), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

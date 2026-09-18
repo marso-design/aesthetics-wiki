@@ -11,7 +11,6 @@ primary_platform: ["Twitter/X", "Discord", "TikTok", "Twitch"]
 source_url: "https://aesthetics.fandom.com/wiki/Puppygirl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Puppygirl
@@ -71,12 +70,6 @@ Fuwafetti
 
 ## References
 
-## Images
-
-- `images/puppygirl/Puppygirl.jpg`
-- `images/puppygirl/Fuwafetti.jpg`
-- `images/puppygirl/Ainai7tan.jpg`
-
 ## Source and attribution
 
-Text adapted from "Puppygirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Puppygirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Puppygirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Puppygirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

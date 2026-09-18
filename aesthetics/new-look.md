@@ -10,7 +10,6 @@ related_aesthetics: ["Art Deco", "Art Nouveau", "Impressionism", "Old Hollywood"
 source_url: "https://aesthetics.fandom.com/wiki/New_Look"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # New Look
@@ -59,18 +58,6 @@ Book cover for Laurence Benaïm's 'Dior: The New Look Revolution'
 
 ## References
 
-## Images
-
-- `images/new-look/NewLook.jpg`
-- `images/new-look/NewLook9.jpg`
-- `images/new-look/NewLook7.jpg`
-- `images/new-look/NewLook4.jpg`
-- `images/new-look/NewLook6.jpg`
-- `images/new-look/NewLook8.jpg`
-- `images/new-look/NewLook5.jpg`
-- `images/new-look/NewLook2.jpg`
-- `images/new-look/NewLook3.jpg`
-
 ## Source and attribution
 
-Text adapted from "New Look" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Look), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "New Look" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Look), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Baroque", "Curly Girly", "McBling", "Parisian Girly", "Vec
 source_url: "https://aesthetics.fandom.com/wiki/2000s_Modern_Baroque"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # 2000s Modern Baroque
@@ -42,16 +41,6 @@ This trend involves a selective borrowing and adaptation of Baroque's opulence a
 
 ## References
 
-## Images
-
-- `images/2000s-modern-baroque/ModernBaroque.jpg`
-- `images/2000s-modern-baroque/Bma.jpg`
-- `images/2000s-modern-baroque/Fornarnia.jpg`
-- `images/2000s-modern-baroque/Tcb.jpg`
-- `images/2000s-modern-baroque/Ripgurl.jpg`
-- `images/2000s-modern-baroque/Burton.jpg`
-- `images/2000s-modern-baroque/Sombrio.jpg`
-
 ## Source and attribution
 
-Text adapted from "2000s Modern Baroque" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2000s_Modern_Baroque), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2000s Modern Baroque" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2000s_Modern_Baroque), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

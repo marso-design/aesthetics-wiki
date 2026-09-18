@@ -10,7 +10,6 @@ related_aesthetics: ["Acid Design", "Cyberminimalism", "Cyberpunk", "Hexatron", 
 source_url: "https://aesthetics.fandom.com/wiki/Neo-Vectorheart"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Neo-Vectorheart
@@ -77,13 +76,6 @@ Terminal Initiation
 * [CARI | Aesthetic | Neo-Vectorheart](https://cari.institute/aesthetics/neo-vectorheart)
 * [Neo-Vectorheart | Are.na](https://www.are.na/consumer-aesthetics-research-institute/neo-vectorheart-bsqzvucguf4)
 
-## Images
-
-- `images/neo-vectorheart/Neovector9392939.png`
-- `images/neo-vectorheart/SCP-6747-B.png`
-- `images/neo-vectorheart/Epolis.png`
-- `images/neo-vectorheart/EyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMzM3NzI0Mi9vcmlnaW5hbF9iNmZkOGI2YmY4YjliOWNiNGQ3NWI4NWM3Zjg0ZmQ3MS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVub.webp`
-
 ## Source and attribution
 
-Text adapted from "Neo-Vectorheart" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Vectorheart), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neo-Vectorheart" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Vectorheart), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

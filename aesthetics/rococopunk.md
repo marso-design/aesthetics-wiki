@@ -10,7 +10,6 @@ related_aesthetics: ["New Romantic", "Punk", "Rococo", "Steampunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Rococopunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Rococopunk
@@ -31,14 +30,6 @@ While the costuming movement is distinct, parallels can be drawn to the work of 
 
 ## References
 
-## Images
-
-- `images/rococopunk/Rococopunk.jpg`
-- `images/rococopunk/RococoPunk-crop1.webp`
-- `images/rococopunk/184ca95b67f1dec5084530f8a5ad7404.jpg`
-- `images/rococopunk/C30d41bfc08a637b7d9427dca6b17f69.jpg`
-- `images/rococopunk/Bc4c0012074405b2c8dc81da0fd3ecc7.jpg`
-
 ## Source and attribution
 
-Text adapted from "Rococopunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rococopunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rococopunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rococopunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

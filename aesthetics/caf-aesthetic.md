@@ -9,7 +9,6 @@ related_aesthetics: ["After Hours", "Comfy/Cozy", "Dark Academia", "Foodie", "Li
 source_url: "https://aesthetics.fandom.com/wiki/Café_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Café Aesthetic
@@ -97,15 +96,6 @@ by foodstamps23 (DeviantArt)
 
 ## References
 
-## Images
-
-- `images/caf-aesthetic/Photo-1559925393-8be0ec4767c8.jpg`
-- `images/caf-aesthetic/CafeDuMonde.jpg`
-- `images/caf-aesthetic/Coffee.jpg`
-- `images/caf-aesthetic/Jacksonville-Cafes.jpg`
-- `images/caf-aesthetic/6f7522e283b2438a73a7147fa118b9c9.jpg`
-- `images/caf-aesthetic/Menu.jpg`
-
 ## Source and attribution
 
-Text adapted from "Café Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Café_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Café Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Café_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

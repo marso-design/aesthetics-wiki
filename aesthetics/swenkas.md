@@ -11,7 +11,6 @@ related_media: ["The Swenkas (Jeppe Rønde, 2004)"]
 source_url: "https://aesthetics.fandom.com/wiki/Swenkas"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Swenkas
@@ -67,19 +66,6 @@ The subculture was the subject of the 2004 Danish documentary **The Swenkas** by
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/swenkas/Swenkas.jpg`
-- `images/swenkas/Swenkas-by-andrew-bell-3.webp`
-- `images/swenkas/Swanky-swenkas-1413463277908.webp`
-- `images/swenkas/Swenkas-by-andrew-bell-7.webp`
-- `images/swenkas/10Swenka.webp`
-- `images/swenkas/D86dc07f712e0eec0846fbd4b01629dc.jpg`
-- `images/swenkas/02Swenka.webp`
-- `images/swenkas/06Swenka.webp`
-- `images/swenkas/Swenkas-1-1180x664.jpg`
-- `images/swenkas/Swenkas44.jpg`
-
 ## Source and attribution
 
-Text adapted from "Swenkas" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Swenkas), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Swenkas" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Swenkas), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

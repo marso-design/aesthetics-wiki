@@ -11,7 +11,6 @@ related_media: ["Queer Eye for the Straight Guy (original series)", "men's fashi
 source_url: "https://aesthetics.fandom.com/wiki/Metrosexual"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Metrosexual
@@ -50,17 +49,6 @@ Metrosexual fashion is characterized by a deliberate attention to clothing, fit,
 
 ## References
 
-## Images
-
-- `images/metrosexual/Model.jpg`
-- `images/metrosexual/F58c106a932ce402a59e703249a25236.jpg`
-- `images/metrosexual/Eb420bddc81b466610a678fae57fd84c.jpg`
-- `images/metrosexual/Metrosex.jpg`
-- `images/metrosexual/Metrosexual-man-s.jpg`
-- `images/metrosexual/1ece60425e91c3528fcbae8cee356e58.jpg`
-- `images/metrosexual/Rugged-metrosexual-david-beckham.webp`
-- `images/metrosexual/72a0a321659887.563060b636643.JPG`
-
 ## Source and attribution
 
-Text adapted from "Metrosexual" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Metrosexual), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Metrosexual" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Metrosexual), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

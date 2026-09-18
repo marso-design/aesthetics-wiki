@@ -11,7 +11,6 @@ related_aesthetics: ["Black Metal", "Death Metal", "Metal", "Post-Apocalyptic", 
 source_url: "https://aesthetics.fandom.com/wiki/War_Metal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # War Metal
@@ -65,10 +64,6 @@ The genre is also known for its distinctive production style. In contrast to the
 
 *Under Construction*
 
-## Images
-
-- `images/war-metal/Holocausto-war-metal.jpg`
-
 ## Source and attribution
 
-Text adapted from "War Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/War_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "War Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/War_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ palette: ["#515E89", "#373939", "#AD9676", "#130F10", "#54C3D2", "#B9CEC0"]
 source_url: "https://aesthetics.fandom.com/wiki/Pixelscape"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Pixelscape
@@ -68,17 +67,6 @@ Crank: High Voltage (2009)
 * <https://cari.institute/aesthetics/pixelscape>
 * <https://www.are.na/evan-collins-1522646491/pixelscape>
 
-## Images
-
-- `images/pixelscape/BittyBay.png`
-- `images/pixelscape/CokeStudios.png`
-- `images/pixelscape/Habbohotel-940x480.jpg`
-- `images/pixelscape/Rgnhdihodtihntrtr.png`
-- `images/pixelscape/PixPort-KanyeWest-b.png`
-- `images/pixelscape/Ygyfyufuu68dd6ydt76.png`
-- `images/pixelscape/300x.jpg`
-- `images/pixelscape/1933.webp`
-
 ## Source and attribution
 
-Text adapted from "Pixelscape" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pixelscape), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pixelscape" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pixelscape), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["Art Deco", "Burlesque", "Greaser", "Flapper", "Femme Fatal
 source_url: "https://aesthetics.fandom.com/wiki/Old_Hollywood"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Old Hollywood
@@ -250,12 +249,6 @@ Canadian actress Fay Wray
 
 Marilyn Monroe
 
-## Images
-
-- `images/old-hollywood/Vera-ellen-happy-go-lovely.jpg`
-- `images/old-hollywood/EEEEEEEEEEEEEEEE.jpg`
-- `images/old-hollywood/Rosemary-clooney-love-white-christmas-dark-dress.jpg`
-
 ## Source and attribution
 
-Text adapted from "Old Hollywood" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Old_Hollywood), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Old Hollywood" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Old_Hollywood), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

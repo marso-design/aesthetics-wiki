@@ -9,7 +9,6 @@ palette: ["#ECDBC8", "#4FBABD", "#7D797B", "#F6EFF6", "#141C27", "#3B3C45"]
 source_url: "https://aesthetics.fandom.com/wiki/Nerdcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Nerdcore
@@ -197,22 +196,6 @@ With that being said, Otacore is still very relevant and ever-evolving today wit
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/nerdcore/Ab67616d0000b27305a08ee8473cdaa7e95e3e8bab67616d0000b2730bbd2a1b90a33712daceca29ab67616d0000b273bf8591b696d4b1b8dd31cb81ab67616d0000b273e300975505899d2bb67ec5e8.jpg`
-- `images/nerdcore/Mclars01.jpg`
-- `images/nerdcore/Stnerdcore.jpg`
-- `images/nerdcore/Nerdcorealbum092.jpg`
-- `images/nerdcore/ShonenJump.jpg`
-- `images/nerdcore/Doujinshi.jpg`
-- `images/nerdcore/Animazing.jpg`
-- `images/nerdcore/DoujinshiFiles.jpg`
-- `images/nerdcore/CLVDTHEBLVD.jpg`
-- `images/nerdcore/TM33.jpg`
-- `images/nerdcore/YVSHIMVB.jpg`
-- `images/nerdcore/Tivo.jpg`
-- `images/nerdcore/Ic3cold.jpg`
-
 ## Source and attribution
 
-Text adapted from "Nerdcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nerdcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nerdcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nerdcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

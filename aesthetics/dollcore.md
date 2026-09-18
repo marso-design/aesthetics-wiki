@@ -8,7 +8,6 @@ palette: ["#E5BBCB", "#27211F", "#0B0A07", "#494341", "#D1AAA7", "#98837D"]
 source_url: "https://aesthetics.fandom.com/wiki/Dollcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Dollcore
@@ -98,24 +97,6 @@ The most extreme fans of the aesthetic follow a practice referred to as "dolling
 
 Lulu Hashimoto
 
-## Images
-
-- `images/dollcore/Dollcore.jpg`
-- `images/dollcore/Lulu-hashimoto.jpg`
-- `images/dollcore/Dark-dollcore-outfit.jpg`
-- `images/dollcore/Bubbles-platforms.jpeg`
-- `images/dollcore/Girl-holding-doll-mask.png`
-- `images/dollcore/Girl-with-doll-mask.png`
-- `images/dollcore/Girl-in-window.jpeg`
-- `images/dollcore/Dollcore-outfit.jpeg`
-- `images/dollcore/Dolly-babydoll.jpg`
-- `images/dollcore/Petticoat+roses.jpg`
-- `images/dollcore/Sheer-dresses.jpg`
-- `images/dollcore/Ball-joint-stockings.png`
-- `images/dollcore/Dollcore-jewelry.jpg`
-- `images/dollcore/Doll-gothic-clothing.jpg`
-- `images/dollcore/Dolly-cat.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Dollcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dollcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dollcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dollcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

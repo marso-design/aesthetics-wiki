@@ -10,7 +10,6 @@ palette: ["#958B75", "#5D341C", "#C4B494", "#37281F", "#6D5C47", "#8C623F"]
 source_url: "https://aesthetics.fandom.com/wiki/Foodie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Foodie
@@ -43,27 +42,6 @@ A bowl of fresh fruit
 
 baby melon
 
-## Images
-
-- `images/foodie/Do73TSDU4AEgQLr.jpg`
-- `images/foodie/Rolls.jpg`
-- `images/foodie/Qoa.jpg`
-- `images/foodie/👑julieterbang👑.jpg`
-- `images/foodie/Desvre.jpg`
-- `images/foodie/Untitled.jpg`
-- `images/foodie/👑julieterbang👑.png`
-- `images/foodie/Ae3.jpg`
-- `images/foodie/Gas-12-pcs-fish-Japanese-taiyaki-grill-fish-taiyaki-maker.jpg`
-- `images/foodie/StrawberryPie.jpeg`
-- `images/foodie/SomeMcdonaldsfood.png`
-- `images/foodie/Fruity.jpg`
-- `images/foodie/Ae2.jpg`
-- `images/foodie/Fruit-Bouqet.jpg`
-- `images/foodie/WafflesForBreakfast.jpeg`
-- `images/foodie/Yumyum.jpg`
-- `images/foodie/Julieterbang.jpg`
-- `images/foodie/Pink-chocolate-cake.webp`
-
 ## Source and attribution
 
-Text adapted from "Foodie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Foodie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Foodie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Foodie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["Knightcore", "Princecore", "Princesscore", "Queencore", "R
 source_url: "https://aesthetics.fandom.com/wiki/Kingcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Kingcore
@@ -98,19 +97,6 @@ Fashion may be taken directly from historical accounts or may be modernized. Rea
 
 ## Gallery
 
-## Images
-
-- `images/kingcore/King-black-white.jpg`
-- `images/kingcore/King-blue.jpg`
-- `images/kingcore/Old-chess.jpg`
-- `images/kingcore/King-gold.jpg`
-- `images/kingcore/King-sword-blood.jpg`
-- `images/kingcore/Lion-close.jpg`
-- `images/kingcore/King-fur.jpg`
-- `images/kingcore/Golden-red-royal.jpg`
-- `images/kingcore/King-portrait-behind-military.jpg`
-- `images/kingcore/C255c5380a0ea9d9a95b85c9e8277f93.jpg`
-
 ## Source and attribution
 
-Text adapted from "Kingcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kingcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kingcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kingcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

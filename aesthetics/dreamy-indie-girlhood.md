@@ -12,7 +12,6 @@ related_media: ["The Virgin Suicides"]
 source_url: "https://aesthetics.fandom.com/wiki/Dreamy_Indie_Girlhood"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Dreamy Indie Girlhood
@@ -117,13 +116,6 @@ Emotion (1966)
 
 ## References
 
-## Images
-
-- `images/dreamy-indie-girlhood/1316281348a4-464x700.jpg`
-- `images/dreamy-indie-girlhood/1317896076i-petra-daydream-nation-700x464.jpg`
-- `images/dreamy-indie-girlhood/1317896086m-petra-daydream-nation-464x700.jpg`
-- `images/dreamy-indie-girlhood/Girlhood-whimsical-cozy-v0-hk2ce2u16n2g1.webp`
-
 ## Source and attribution
 
-Text adapted from "Dreamy Indie Girlhood" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dreamy_Indie_Girlhood), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dreamy Indie Girlhood" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dreamy_Indie_Girlhood), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

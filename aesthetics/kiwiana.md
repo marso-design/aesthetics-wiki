@@ -8,7 +8,6 @@ palette: ["#1E2134", "#55A6B1", "#3985AC", "#FFFFFC", "#185C76", "#442B41"]
 source_url: "https://aesthetics.fandom.com/wiki/Kiwiana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Kiwiana
@@ -83,11 +82,6 @@ Under construction.
 
 * [Kiwiana](https://en.wikipedia.org/wiki/Kiwiana)
 
-## Images
-
-- `images/kiwiana/Kiwiana.png`
-- `images/kiwiana/Kiwiana2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Kiwiana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kiwiana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kiwiana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kiwiana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

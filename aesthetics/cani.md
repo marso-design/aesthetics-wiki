@@ -10,7 +10,6 @@ related_aesthetics: ["Chav", "Choni (female counterpart)", "MDLR", "Pokero", "Ra
 source_url: "https://aesthetics.fandom.com/wiki/Cani"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Cani
@@ -79,16 +78,6 @@ Logo of the iconic 2000s Spanish brand "El Niño", edited to resemble a Cani.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/cani/Cani.jpg`
-- `images/cani/Canis3.jpg`
-- `images/cani/Canis.jpg`
-- `images/cani/Cani1.png`
-- `images/cani/Cani4.jpg`
-- `images/cani/Canis1.jpg`
-- `images/cani/Canis2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cani" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cani), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cani" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cani), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

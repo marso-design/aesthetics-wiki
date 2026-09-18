@@ -11,7 +11,6 @@ related_aesthetics: ["Costumbrismo", "Flamenco", "Rococo", "Torero"]
 source_url: "https://aesthetics.fandom.com/wiki/Majismo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Majismo
@@ -67,10 +66,6 @@ The Majo uniform was equally distinctive and ornate, and it served as the direct
 
 ## References
 
-## Images
-
-- `images/majismo/Majismo.jpg`
-
 ## Source and attribution
 
-Text adapted from "Majismo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Majismo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Majismo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Majismo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

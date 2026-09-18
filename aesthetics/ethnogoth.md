@@ -11,7 +11,6 @@ primary_platform: ["Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Ethnogoth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Ethnogoth
@@ -51,17 +50,6 @@ Critics argued that the aesthetic exoticized and commodified other cultures, red
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/ethnogoth/MorbidMonarchy.jpg`
-- `images/ethnogoth/Sar.png`
-- `images/ethnogoth/49a55dc0e9e369a83c31cbd88e3f4ea2.jpg`
-- `images/ethnogoth/Kalicasati.jpg`
-- `images/ethnogoth/45912e009de22ce300853ff7a59964a6.jpg`
-- `images/ethnogoth/4e71a953ef281ae492d4da559467ece7.jpg`
-- `images/ethnogoth/Ethnogoth.jpg`
-- `images/ethnogoth/21dfb4a286e3ea891ed6cc084d143012.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ethnogoth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ethnogoth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ethnogoth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ethnogoth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

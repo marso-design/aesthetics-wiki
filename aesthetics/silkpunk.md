@@ -10,7 +10,6 @@ related_media: ["Dandelion Dynasty series", "Avatar the Last Airbender"]
 source_url: "https://aesthetics.fandom.com/wiki/Silkpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Silkpunk
@@ -75,31 +74,6 @@ Xianzhou Loufu of *Honkai: Star Rail*
 
 * <https://www.reddit.com/r/Silkpunk/>
 
-## Images
-
-- `images/silkpunk/Asian-steampunk.gif`
-- `images/silkpunk/Silkpunk.webp`
-- `images/silkpunk/My-latest-mechanimal-drawing-v0-peoxcp4a68mb1.webp`
-- `images/silkpunk/Silkpunk-KenLiu1.jpeg`
-- `images/silkpunk/SilkPunk-KenLiu2.jpeg`
-- `images/silkpunk/Silkpunk-KenLiu3.jpeg`
-- `images/silkpunk/Artwork-by-su-jian-v0-s3gcmg3imvf81.webp`
-- `images/silkpunk/Silkpunk-AliettedeBodard1.jpeg`
-- `images/silkpunk/Silkpunk-AliettedeBodard2.jpeg`
-- `images/silkpunk/Silnkpink.jpg`
-- `images/silkpunk/Imperial-sheriff-by-james-ng-v0-siel3ahvu2a81.webp`
-- `images/silkpunk/Yuandu-by-蚵仔不加蛋-v0-o1fj7a226tf81.webp`
-- `images/silkpunk/Silkpunk-MarissaMeyer.jpeg`
-- `images/silkpunk/Silkpunk-GoodHunting.jpeg`
-- `images/silkpunk/Ming-fan-by-ming-fan-illustration.jpg`
-- `images/silkpunk/Teahouse.jpg`
-- `images/silkpunk/Pet-Walker.jpg`
-- `images/silkpunk/Silkpunk-HonkaiStarRail1.png`
-- `images/silkpunk/Silkpunk-HonkaiStarRail2.png`
-- `images/silkpunk/Gamble.jpg`
-- `images/silkpunk/Steampunk-Samurai.jpg`
-- `images/silkpunk/EmOFxhnWMAIz414.jpg`
-
 ## Source and attribution
 
-Text adapted from "Silkpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Silkpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Silkpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Silkpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

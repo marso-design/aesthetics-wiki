@@ -9,7 +9,6 @@ related_aesthetics: ["2010s Meme Maximalism", "Animecore", "Early Cyber", "Glitc
 source_url: "https://aesthetics.fandom.com/wiki/Glitchcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Glitchcore
@@ -83,22 +82,6 @@ Problem Solverz (2011 Cartoon Network television series)
 
 ## References
 
-## Images
-
-- `images/glitchcore/Glitchcore.jpg`
-- `images/glitchcore/Glitchcorekuromierror.gif`
-- `images/glitchcore/82ab844b0140a88dca073a54b702cafa.jpg`
-- `images/glitchcore/149e7e927241942232e59289325d4fe6.jpg`
-- `images/glitchcore/B083928dd12db5bd93a43cd2097d7679.jpg`
-- `images/glitchcore/1618129645782.jpg`
-- `images/glitchcore/1616929932532.jpg`
-- `images/glitchcore/5a154b480c8e18d5076a6b804e304163.jpg`
-- `images/glitchcore/06aa77191518a7bdc226f2882f1baab4.jpg`
-- `images/glitchcore/Ba8262018cd3ab52c02700c6d55948f4.jpg`
-- `images/glitchcore/8f0805d1ee001e23e753efc43e7da497.jpg`
-- `images/glitchcore/721fcf27c5a725d9c345a580f9f31d56.jpg`
-- `images/glitchcore/4350a3fc205eeddd328a71ce1666802d.jpg`
-
 ## Source and attribution
 
-Text adapted from "Glitchcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glitchcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Glitchcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glitchcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

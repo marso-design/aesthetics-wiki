@@ -9,7 +9,6 @@ related_aesthetics: ["Lolita", "Military Chic", "Nazi Chic", "Ouji"]
 source_url: "https://aesthetics.fandom.com/wiki/Military_Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Military Lolita
@@ -49,22 +48,6 @@ A frequently cited example is the "*Die Walküre*" series by the brand Metamorph
 
 ## References
 
-## Images
-
-- `images/military-lolita/E4342a9dcec831572f9ee41048a50b5e(1).jpg`
-- `images/military-lolita/029b95efab19e9a4443184b6aa805353.jpg`
-- `images/military-lolita/48f5c9997325ec77b2ed5796291a66ed.jpg`
-- `images/military-lolita/1bf396816e1cd62d1cd2389ec0f51e0e.jpg`
-- `images/military-lolita/Ee4c630ac798589e3e2017da536fbca4.jpg`
-- `images/military-lolita/881a8f3e33066f19e75cfbb4f7540886.jpg`
-- `images/military-lolita/590c711cad4b021143d007c775c976a6.jpg`
-- `images/military-lolita/22b2b6a04492eec5aef85eccea6cd6f7.jpg`
-- `images/military-lolita/4b10a9babca5f71d8636a2acf1b943e9.jpg`
-- `images/military-lolita/54af043830e2e1eeed3558b5c5ba9003.jpg`
-- `images/military-lolita/29fa569967e4ffaebebe69461dee2633.jpg`
-- `images/military-lolita/A67638b24b7008d29ddaafd87fb438d3.jpg`
-- `images/military-lolita/39b74f4193908ca91b2b1a47f13665cd.jpg`
-
 ## Source and attribution
 
-Text adapted from "Military Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Military_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Military Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Military_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

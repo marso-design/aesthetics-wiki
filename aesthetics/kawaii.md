@@ -10,7 +10,6 @@ related_aesthetics: ["Animecore", "Busukawaii", "Cutecore", "Dokukawaii", "Dollc
 source_url: "https://aesthetics.fandom.com/wiki/Kawaii"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 29
 ---
 
 # Kawaii
@@ -308,38 +307,6 @@ External links to help get a better understanding of this aesthetic.
 
 ## References
 
-## Images
-
-- `images/kawaii/Kawaiicore.jpg`
-- `images/kawaii/7896ea7d615d402eb7ddff9ff9385f2a.jpg`
-- `images/kawaii/Sailormooncats.jpg`
-- `images/kawaii/🌸.jpg`
-- `images/kawaii/142aae54dfada050a8b5a59de946773d.jpg`
-- `images/kawaii/ピンク.jpg`
-- `images/kawaii/Pink-pastel-anime-pastel-anime-gif-Favim.com-6946628.gif`
-- `images/kawaii/☆サンリオ☆.jpg`
-- `images/kawaii/可愛いフェイクスイーツ教室ayapeco(あやぺこ)大阪・東京.jpg`
-- `images/kawaii/Pup.jpg`
-- `images/kawaii/Milk-sweater-bag.webp`
-- `images/kawaii/4cb805a9-bb13-48e1-a66f-0f80b7fd761a.jpg`
-- `images/kawaii/Descarga.jpg`
-- `images/kawaii/Dollybunny.jpg`
-- `images/kawaii/Caf.jpg`
-- `images/kawaii/Etd6r9-l-610x610-lolita-sweet+lolita-kawaii-anime-sailor+dress-bows-ruffles-stripes.jpg`
-- `images/kawaii/47r5mk-l-610x610--pink-white-long+sleeves-aesthetic-tumblr-kawaii-cute-food-anime-girl-girly-pink-white.jpg`
-- `images/kawaii/Kataaa.jpg`
-- `images/kawaii/Photo-1523992038393-d5ab874a077e.jpeg`
-- `images/kawaii/💖.jpg`
-- `images/kawaii/『羊ちゃん完成』.jpg`
-- `images/kawaii/Bread-and-Butterfly.jpg`
-- `images/kawaii/C671e5327ae93565a4d51d39355b8f60-e1620701018878.jpg`
-- `images/kawaii/84589548344a5e757fc56032309c379c.jpg`
-- `images/kawaii/Maki.jpg`
-- `images/kawaii/Kawaii-food-cute-gummy-animals.jpg`
-- `images/kawaii/Sugarbunnies.jpg`
-- `images/kawaii/Kawaii-sailor-moon-and-pastel-macaroons.jpg`
-- `images/kawaii/Bento.jpg`
-
 ## Source and attribution
 
-Text adapted from "Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

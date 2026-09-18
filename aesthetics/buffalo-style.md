@@ -13,7 +13,6 @@ related_media: ["Music video for \"Buffalo Stance\" by Neneh Cherry; \"Launderet
 source_url: "https://aesthetics.fandom.com/wiki/Buffalo_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Buffalo Style
@@ -52,28 +51,6 @@ Buffalo operated on a methodology of "style over fashion," prioritizing the mani
 
 ## References
 
-## Images
-
-- `images/buffalo-style/FelixHoward.jpg`
-- `images/buffalo-style/BuffaloStyle.jpg`
-- `images/buffalo-style/3c065-img107.webp`
-- `images/buffalo-style/A6586-img081-930x1279.jpg`
-- `images/buffalo-style/Ezgif.com-gif-maker-2022-09-28T165130.789-930x1325.jpg`
-- `images/buffalo-style/Buffalo08.webp`
-- `images/buffalo-style/Buffalostylr.jpg`
-- `images/buffalo-style/Dr-Martens-Spirit-od-the-Buffalo-xfng93-930x1256.jpg`
-- `images/buffalo-style/20190814-buffalo-08-Mitzi-and-Claude-by-Brett-Walker.webp`
-- `images/buffalo-style/Insta.jpg`
-- `images/buffalo-style/F5ae4-arenahommebuffalostancewildflowerblog3.jpg`
-- `images/buffalo-style/E1696-arenahommebuffalostancewildflowerblog5.jpg`
-- `images/buffalo-style/4ab78-arenahommebuffalostancewildflowerblog4.jpg`
-- `images/buffalo-style/9aec8-arenahommebuffalostancewildflowerblog6.jpg`
-- `images/buffalo-style/Rp4-684x1024.jpg`
-- `images/buffalo-style/1e41d2d1cc7f3f5bbdce92def86d1747.jpg`
-- `images/buffalo-style/C22e511b6090797ea2330f2b8e26272e.jpg`
-- `images/buffalo-style/Vestal.jpg`
-- `images/buffalo-style/Shirtles.jpg`
-
 ## Source and attribution
 
-Text adapted from "Buffalo Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Buffalo_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Buffalo Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Buffalo_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

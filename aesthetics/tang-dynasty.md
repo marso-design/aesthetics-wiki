@@ -9,7 +9,6 @@ palette: ["#713D18", "#FFFFFF", "#E0D9CE", "#402B1D", "#697067", "#BFA37E"]
 source_url: "https://aesthetics.fandom.com/wiki/Tang_Dynasty"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 31
 ---
 
 # Tang Dynasty
@@ -154,40 +153,6 @@ Ladies Wearing Flowers in Their Hair (detail), Zhou Fang
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/tang-dynasty/Tang-Painting6.jpg`
-- `images/tang-dynasty/Tang-BaoxiangFlower.jpg`
-- `images/tang-dynasty/Tang-ScrollGrass.webp`
-- `images/tang-dynasty/Tang-Architecture1.jpg`
-- `images/tang-dynasty/Tang-Architecture2.jpg`
-- `images/tang-dynasty/Tang-Architecture3.jpeg`
-- `images/tang-dynasty/Tang-Sancai5.jpg`
-- `images/tang-dynasty/Tang-Sancai6.jpeg`
-- `images/tang-dynasty/Tang-Sancai8.webp`
-- `images/tang-dynasty/Tang-Jade1.jpg`
-- `images/tang-dynasty/DunhuangFeng-Statue.jpg`
-- `images/tang-dynasty/Tang-Gold.jpg`
-- `images/tang-dynasty/Tang-MetalCraft1.jpg`
-- `images/tang-dynasty/Tang-Bronze.jpg`
-- `images/tang-dynasty/Tang-Painting7.jpg`
-- `images/tang-dynasty/Tang-Painting22.jpg`
-- `images/tang-dynasty/Tang-Painting11.jpg`
-- `images/tang-dynasty/DunhuangFeng-Feitian.jpg`
-- `images/tang-dynasty/Tang-Painting1.jpg`
-- `images/tang-dynasty/Tang-Fashion1.jpg`
-- `images/tang-dynasty/Tang-Painting2.jpg`
-- `images/tang-dynasty/Tang-Painting4.jpg`
-- `images/tang-dynasty/Tang-Sancai1.jpeg`
-- `images/tang-dynasty/Tang-Sancai3.webp`
-- `images/tang-dynasty/Tang-BaoxiangFlowerSancaiPlate.jpg`
-- `images/tang-dynasty/Tang-Sancai7.jpeg`
-- `images/tang-dynasty/Tang-Painting5.jpg`
-- `images/tang-dynasty/Tang-Painting9.jpg`
-- `images/tang-dynasty/Tang-Painting8.jpg`
-- `images/tang-dynasty/Tang-Sancai2.jpg`
-- `images/tang-dynasty/Tang-Painting10.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tang Dynasty" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tang_Dynasty), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tang Dynasty" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tang_Dynasty), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

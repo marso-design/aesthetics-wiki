@@ -12,7 +12,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Coconut_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Coconut Girl
@@ -236,15 +235,6 @@ The name "Coconut Girl" has faced criticism because "coconut" serves as a racial
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/coconut-girl/KWK1.jpg`
-- `images/coconut-girl/KWK2.jpg`
-- `images/coconut-girl/KWK3.jpg`
-- `images/coconut-girl/KWK4.jpg`
-- `images/coconut-girl/8676be5d86caa697207f0c4de2e5d4cb.jpg`
-- `images/coconut-girl/58EE2360-63BC-4946-BE0F-B24AB7D2C53F.jpg`
-
 ## Source and attribution
 
-Text adapted from "Coconut Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Coconut_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Coconut Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Coconut_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

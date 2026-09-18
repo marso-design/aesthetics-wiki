@@ -11,7 +11,6 @@ related_media: ["Dungeons and Dragons", "Eragon", "How to Train Your Dragon Tril
 source_url: "https://aesthetics.fandom.com/wiki/Dragoncore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 25
 ---
 
 # Dragoncore
@@ -299,34 +298,6 @@ Fire dragon
 
 Fire dragon art by @hornedfreak on Fur Affinity
 
-## Images
-
-- `images/dragoncore/Dc1.jpg`
-- `images/dragoncore/Air-Dragon.jpg`
-- `images/dragoncore/Green-Dragon-Sandara.jpg`
-- `images/dragoncore/Dragons-Fire.jpg`
-- `images/dragoncore/Radioactive-Zombeh-Art.jpg`
-- `images/dragoncore/Ice-Dragon.jpg`
-- `images/dragoncore/Dragoncore2.jpg`
-- `images/dragoncore/Dragoncore4.jpg`
-- `images/dragoncore/Dragoncore3.jpg`
-- `images/dragoncore/Dragoncore5.jpg`
-- `images/dragoncore/74E3048A-4CB4-4972-9A86-D03E48C27E31.jpeg`
-- `images/dragoncore/3E1A2B5A-DE3E-4548-B5DF-61CF75887A51.jpeg`
-- `images/dragoncore/37A87B44-D96E-4272-BA3D-C6EA407BBA03.webp`
-- `images/dragoncore/F08929B7-CEBC-40E7-A655-56B7CF6DE3B8.jpeg`
-- `images/dragoncore/7355F766-3542-4625-A4CE-77BFC7A7969B.jpeg`
-- `images/dragoncore/55015748-752D-47FC-B3C4-C535AB67397F.webp`
-- `images/dragoncore/F9B69AD6-6657-4867-8BBC-0D57A24B645B.jpeg`
-- `images/dragoncore/4EF20C51-81FB-4452-A927-721A478D504F.jpeg`
-- `images/dragoncore/48470B3C-558B-41DA-A237-B675A639592B.png`
-- `images/dragoncore/E80818EC-1484-4E72-AA39-8AF0A63616C2.jpeg`
-- `images/dragoncore/B0DD20BC-8D73-482C-99E5-97697336266C.jpeg`
-- `images/dragoncore/Firebreather.jpg`
-- `images/dragoncore/2D3FEE5F-AA15-4AAE-A3F6-EC0900A41908.jpeg`
-- `images/dragoncore/3C2E9015-37D4-405E-BD4E-B48F14EB0434.jpeg`
-- `images/dragoncore/CC2D38A5-6E78-4A32-AF59-462DD8B0DDCE.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Dragoncore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dragoncore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dragoncore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dragoncore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

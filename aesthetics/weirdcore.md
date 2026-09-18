@@ -12,7 +12,6 @@ palette: ["#080408", "#7A8483", "#C4AC88", "#37403B", "#5C6A5A", "#694D43"]
 source_url: "https://aesthetics.fandom.com/wiki/Weirdcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 34
 ---
 
 # Weirdcore
@@ -320,43 +319,6 @@ Weirdcore Images With Music
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/weirdcore/C03C26FF-D51D-4525-85F8-1E3FF4E0BFA4.gif`
-- `images/weirdcore/TakeALook.jpeg`
-- `images/weirdcore/NiceHouse.jpeg`
-- `images/weirdcore/B9b977ac65af262103edbba9baad0162b2f88104.jpg`
-- `images/weirdcore/Unknown.png`
-- `images/weirdcore/Ehwuapoa9nn61.png`
-- `images/weirdcore/Smilewc.jpg`
-- `images/weirdcore/Eb64f325e4a2edd20a5256950d80923e.png`
-- `images/weirdcore/Image23111.png`
-- `images/weirdcore/34efa0d1f1ecc17c1f8b1f4f602589b5.png`
-- `images/weirdcore/Gemb.jpg`
-- `images/weirdcore/Vxvxxxxxxxv.png`
-- `images/weirdcore/Bthroom2.jpg`
-- `images/weirdcore/Skypool.jpg`
-- `images/weirdcore/The-exit-to-reality.png`
-- `images/weirdcore/Gemb2.jpg`
-- `images/weirdcore/Partywc.jpg`
-- `images/weirdcore/Dreamcore.jpeg`
-- `images/weirdcore/A9010117.jpg`
-- `images/weirdcore/Dreamcore-killing-dejavu.jpg`
-- `images/weirdcore/Fever-dream-sun.jpg`
-- `images/weirdcore/366837B8-E470-476B-B4C7-6818A557AE38.png`
-- `images/weirdcore/Where-did-you-go.png`
-- `images/weirdcore/Real-memory.png`
-- `images/weirdcore/D80975267fcd5bf1c18cb93756093a52.jpg`
-- `images/weirdcore/Wjyyuifojuyhgurtgjuyubyihjubunjhghurivjgsjygugrhj.png`
-- `images/weirdcore/Th.webp`
-- `images/weirdcore/Lovely!.png`
-- `images/weirdcore/Dreamcore7.jpeg`
-- `images/weirdcore/W3wwdt4icx681.webp`
-- `images/weirdcore/Vmhh8a4g9x6g1.jpeg`
-- `images/weirdcore/Wigj705e6va61.webp`
-- `images/weirdcore/Tried-my-uhh-other-hand-v0-zp08zyy2l34g1.webp`
-- `images/weirdcore/98cd95a9b2c3b2cd06ac2b1b70e74f30.jpg`
-
 ## Source and attribution
 
-Text adapted from "Weirdcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Weirdcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Weirdcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Weirdcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

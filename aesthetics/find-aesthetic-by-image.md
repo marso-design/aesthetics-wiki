@@ -4,7 +4,6 @@ slug: "find-aesthetic-by-image"
 source_url: "https://aesthetics.fandom.com/wiki/Find_Aesthetic_by_Image"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Find Aesthetic by Image
@@ -512,4 +511,4 @@ All moodboards were created by [Graviphantalia](https://aesthetics.fandom.com/wi
 
 ## Source and attribution
 
-Text adapted from "Find Aesthetic by Image" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Find_Aesthetic_by_Image), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Find Aesthetic by Image" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Find_Aesthetic_by_Image), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

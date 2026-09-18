@@ -11,7 +11,6 @@ related_aesthetics: ["Atompunk", "Burlesque", "Femme Fatale", "Gibson Girl", "Go
 source_url: "https://aesthetics.fandom.com/wiki/Pin-up"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Pin-up
@@ -107,13 +106,6 @@ Marilyn Monroe
 
 Jayne Mansfield
 
-## Images
-
-- `images/pin-up/Ava.jpg`
-- `images/pin-up/Rita.jpg`
-- `images/pin-up/Dorothy.jpg`
-- `images/pin-up/Josephine.jpg`
-
 ## Source and attribution
 
-Text adapted from "Pin-up" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pin-up), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pin-up" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pin-up), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

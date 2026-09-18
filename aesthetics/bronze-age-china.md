@@ -9,7 +9,6 @@ palette: ["#020305", "#A19F96", "#C0BCB3", "#6A6A5C", "#7F817A", "#423E36"]
 source_url: "https://aesthetics.fandom.com/wiki/Bronze_Age_China"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Bronze Age China
@@ -157,32 +156,6 @@ Infographic by @陈子墨中国纹样 (ID：757333161) on Rednote
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/bronze-age-china/CBronzeAge-HoumuwuDing.jpeg`
-- `images/bronze-age-china/CBronzeAge-JadeXia.jpeg`
-- `images/bronze-age-china/CBronzeAge-JadeShang.jpeg`
-- `images/bronze-age-china/CBronzeAge-JadeZhou.jpeg`
-- `images/bronze-age-china/CBronzeAge-JadeLoong.jpeg`
-- `images/bronze-age-china/CBronzeAge-Sanxingdui.jpeg`
-- `images/bronze-age-china/CBronzeAge-SanxingduiLoong.jpeg`
-- `images/bronze-age-china/CBronzeAge-SanxingduiB.jpeg`
-- `images/bronze-age-china/CBronzeAge-MaoGongDing.jpeg`
-- `images/bronze-age-china/CBrozneAge-FourGoatSquareZun.jpeg`
-- `images/bronze-age-china/CBrozneAge-FourGoatSquareZunDetail.jpeg`
-- `images/bronze-age-china/CBronzeAge-Jue.jpeg`
-- `images/bronze-age-china/CBronzeAge-Yi.jpeg`
-- `images/bronze-age-china/CBronzeAge-BianzhongOfMarquisYiOfZheng.jpeg`
-- `images/bronze-age-china/CBronzeAge-Ge.jpeg`
-- `images/bronze-age-china/CBronzeAge-Calligraphy.jpeg`
-- `images/bronze-age-china/CBronzeAge-CalaiteDecoration.jpeg`
-- `images/bronze-age-china/CBronzeAge-GeWithHandle.jpeg`
-- `images/bronze-age-china/CBronzeAge-GeBlade.jpeg`
-- `images/bronze-age-china/CBronzeAge-Gu.jpeg`
-- `images/bronze-age-china/CBronzeAge-Taotie.jpeg`
-- `images/bronze-age-china/CBronzeAge-Sword.jpeg`
-- `images/bronze-age-china/CBronzeAge-Patterns.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Bronze Age China" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bronze_Age_China), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bronze Age China" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bronze_Age_China), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["Aggretsuko"]
 source_url: "https://aesthetics.fandom.com/wiki/Kawaii_Metal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Kawaii Metal
@@ -56,4 +55,4 @@ The genre is credited to Key ‘Kobametal’ Kobayashi, who conceived the idea o
 
 ## Source and attribution
 
-Text adapted from "Kawaii Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kawaii_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kawaii Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kawaii_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

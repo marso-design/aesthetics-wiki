@@ -13,7 +13,6 @@ primary_platform: ["SoundCloud"]
 source_url: "https://aesthetics.fandom.com/wiki/PC_Music"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # PC Music
@@ -99,27 +98,6 @@ Artwork for Hannah Diamond's single "Every Night."
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/pc-music/50e3013cd0312abd123a7a9e49c8b94b.1000x1000x1.jpg`
-- `images/pc-music/Artworks-000098302828-97chsd-t500x500.jpg`
-- `images/pc-music/Ab67616d0000b273b6a9379949aa3f964a79105b.jpg`
-- `images/pc-music/Ab67616d0000b273fcb74c25ee93efd77b921d21.jpg`
-- `images/pc-music/EUsqg6uU8AQ0XiW.jpg`
-- `images/pc-music/EcBGyv5UMAEcU6G.jpg`
-- `images/pc-music/LIL-DATA-Folder-Dot-Zip-LP-pakshot-750x750.jpg`
-- `images/pc-music/A35b80402c93a798c2c9b0336bfcaa14.jpg`
-- `images/pc-music/E0edb4e4b0242c99abf14cc7916cb9dd.jpg`
-- `images/pc-music/Sak.PNG`
-- `images/pc-music/Rbj.PNG`
-- `images/pc-music/Heart.PNG`
-- `images/pc-music/Hpop.PNG`
-- `images/pc-music/Xcx.PNG`
-- `images/pc-music/Girlipaper.PNG`
-- `images/pc-music/Hyperpop.PNG`
-- `images/pc-music/Sarah.PNG`
-- `images/pc-music/50f4a8946ab9842ffa34dfe991a2d61a.gif`
-
 ## Source and attribution
 
-Text adapted from "PC Music" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/PC_Music), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "PC Music" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/PC_Music), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

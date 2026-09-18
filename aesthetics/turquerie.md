@@ -11,7 +11,6 @@ related_aesthetics: ["Baroque", "Chinoiserie", "Orientalism", "Rococo"]
 source_url: "https://aesthetics.fandom.com/wiki/Turquerie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Turquerie
@@ -48,10 +47,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 *Under Construction*
 
-## Images
-
-- `images/turquerie/Turquerie.jpg`
-
 ## Source and attribution
 
-Text adapted from "Turquerie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Turquerie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Turquerie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Turquerie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ primary_platform: ["YouTube", "Twitch"]
 source_url: "https://aesthetics.fandom.com/wiki/Lo-fi_Art"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Lo-fi Art
@@ -60,20 +59,6 @@ art by [thornalchemist23](http://tumblr.com/thornalchemist23)
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/lo-fi-art/Wp2337007.jpg`
-- `images/lo-fi-art/Wp1895664.jpg`
-- `images/lo-fi-art/Cover.jpeg`
-- `images/lo-fi-art/BreakableGlaringImpala-max-1mb.gif`
-- `images/lo-fi-art/A2a0943f1b608680028c23c910a55a04.gif`
-- `images/lo-fi-art/869910.gif`
-- `images/lo-fi-art/Unnamedstreet.gif`
-- `images/lo-fi-art/Giphy12.gif`
-- `images/lo-fi-art/647786.gif`
-- `images/lo-fi-art/4xDzrJKXOOY-HD.jpg`
-- `images/lo-fi-art/3UMtFBB.gif`
-
 ## Source and attribution
 
-Text adapted from "Lo-fi Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lo-fi_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lo-fi Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lo-fi_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

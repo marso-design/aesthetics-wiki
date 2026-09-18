@@ -12,7 +12,6 @@ related_media: ["Lord of the Rings", "Donkeyskin", "Monty Python and the Holy Gr
 source_url: "https://aesthetics.fandom.com/wiki/Mid-Century_Medieval"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Mid-Century Medieval
@@ -185,14 +184,6 @@ Procol Harum (1967)
 * <https://zombiegirlzine.substack.com/p/a-weird-girls-guide-to-medieval-revival>
 * <https://clarouschkka.substack.com/p/trends-that-shaped-culture-the-mid>
 
-## Images
-
-- `images/mid-century-medieval/Sunforest.jpg`
-- `images/mid-century-medieval/Belladonna.jpg`
-- `images/mid-century-medieval/Fairytale.webp`
-- `images/mid-century-medieval/Deco.webp`
-- `images/mid-century-medieval/Idk.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mid-Century Medieval" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mid-Century_Medieval), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mid-Century Medieval" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mid-Century_Medieval), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

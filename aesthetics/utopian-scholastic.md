@@ -10,7 +10,6 @@ related_media: ["Discovery Channel", "educational videos", "edutainment games", 
 source_url: "https://aesthetics.fandom.com/wiki/Utopian_Scholastic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Utopian Scholastic
@@ -145,12 +144,6 @@ A later example of Utopian Scholastic, with some [Frutiger Aero](https://aesthet
 
 Simcity 2000 (1993)
 
-## Images
-
-- `images/utopian-scholastic/Mindtrap.jpg`
-- `images/utopian-scholastic/Frasurbane1.png`
-- `images/utopian-scholastic/Uscholastic.png`
-
 ## Source and attribution
 
-Text adapted from "Utopian Scholastic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Utopian_Scholastic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Utopian Scholastic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Utopian_Scholastic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

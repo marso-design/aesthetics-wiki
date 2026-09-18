@@ -12,7 +12,6 @@ related_media: ["Kitty Foyle (film, 1940)", "Make Do and Mend (1943 newsreel fil
 source_url: "https://aesthetics.fandom.com/wiki/Wartime_Austerity"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Wartime Austerity
@@ -57,27 +56,6 @@ Across all clothing, the Utility Clothing Scheme often marked garments with the 
 
 ## References
 
-## Images
-
-- `images/wartime-austerity/WartimeAusterity.jpeg`
-- `images/wartime-austerity/1940sHepburn17.jpg`
-- `images/wartime-austerity/40s-300x241.webp`
-- `images/wartime-austerity/1940s-nautical-sailor-dresses-350x456.jpg`
-- `images/wartime-austerity/Wartime-woman-of-the-1940s-Paddington-Station-in-1942.jpg`
-- `images/wartime-austerity/WW2-Dresses-1943-Designer-Norman-Hartnell-Photo-James-Jarche.jpg`
-- `images/wartime-austerity/Dior-1945-fashion-1.jpg`
-- `images/wartime-austerity/Ae7329a4f8db218d06264d6f18af172f.jpg`
-- `images/wartime-austerity/1940s-utility-clothing.jpeg`
-- `images/wartime-austerity/Bed84a8b264a13ee8966deb27ab30f75.jpg`
-- `images/wartime-austerity/9d6cf9e67320b5c430b7b82f52f3994e.jpg`
-- `images/wartime-austerity/3011f421748cc171397ed997cee3c68e.jpg`
-- `images/wartime-austerity/1543c7a245b25060631422009e6f8321.jpg`
-- `images/wartime-austerity/20e7dd604e36ca8059279ad97003a34c.jpg`
-- `images/wartime-austerity/Ww2fashion.jpg`
-- `images/wartime-austerity/83b3f72f629b175b651ae98c7bbd3dd7.jpg`
-- `images/wartime-austerity/1940s-Fashion-Silhouette--e1557829858661.jpg`
-- `images/wartime-austerity/Clothesrationing.jpg`
-
 ## Source and attribution
 
-Text adapted from "Wartime Austerity" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wartime_Austerity), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wartime Austerity" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wartime_Austerity), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

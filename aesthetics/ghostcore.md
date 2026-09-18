@@ -11,7 +11,6 @@ related_media: ["Corpse Party", "Tokyo Ghoul", "Deadman Wonderland"]
 source_url: "https://aesthetics.fandom.com/wiki/Ghostcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Ghostcore
@@ -159,20 +158,6 @@ Ghostcore fashion can be open to the interpretation and comfort to any individua
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/ghostcore/Eyes.jpg`
-- `images/ghostcore/Hmm.jpg`
-- `images/ghostcore/Yoshiki.jpg`
-- `images/ghostcore/Kids.jpg`
-- `images/ghostcore/Mirror.jpg`
-- `images/ghostcore/Coven.jpg`
-- `images/ghostcore/Huh.jpg`
-- `images/ghostcore/Ghost-gaurdian.jpg`
-- `images/ghostcore/Ghost-painting.jpg`
-- `images/ghostcore/Ghost-roof.jpg`
-- `images/ghostcore/Ghost-sheet.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ghostcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ghostcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ghostcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ghostcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

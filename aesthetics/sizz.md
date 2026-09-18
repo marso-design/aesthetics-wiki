@@ -10,7 +10,6 @@ related_aesthetics: ["Are-Bure-Bokeh", "Cryptidcore", "Expressionism", "Film Noi
 source_url: "https://aesthetics.fandom.com/wiki/Sizz"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Sizz
@@ -44,12 +43,6 @@ Sizz is defined not by a set of specific rules, but by an "ethos" - composition 
 
 Couldn't find any freely available examples of are-bure-bokeh. Please replace this image with such an example that can be used.
 
-## Images
-
-- `images/sizz/Allegiance.jpg`
-- `images/sizz/BigClinch.jpg`
-- `images/sizz/Placeholder.png`
-
 ## Source and attribution
 
-Text adapted from "Sizz" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sizz), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sizz" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sizz), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

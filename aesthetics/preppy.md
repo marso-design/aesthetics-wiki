@@ -12,7 +12,6 @@ subgenres: ["2000s Preppy", "Black Ivy", "Ivy League", "Japanese Ivy Style", "Tr
 source_url: "https://aesthetics.fandom.com/wiki/Preppy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Preppy
@@ -437,12 +436,6 @@ Custom What's In My Bag painting by Kristina Hultkrantz.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/preppy/206e298f9e93fccd67174fd036c1a131.jpg`
-- `images/preppy/1b8105f6795f6a2b907a7fe1b037cc62.jpg`
-- `images/preppy/Preppyaw1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Preppy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Preppy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Preppy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Preppy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

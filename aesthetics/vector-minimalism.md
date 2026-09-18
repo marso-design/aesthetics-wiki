@@ -8,7 +8,6 @@ related_aesthetics: ["Corporate Memphis", "Cyberbougie", "Flat Design", "Memphis
 source_url: "https://aesthetics.fandom.com/wiki/Vector_Minimalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Vector Minimalism
@@ -35,4 +34,4 @@ Meet the new icons for Office 365
 
 ## Source and attribution
 
-Text adapted from "Vector Minimalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vector_Minimalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vector Minimalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vector_Minimalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

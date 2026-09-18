@@ -5,7 +5,6 @@ palette: ["#DADADA", "#795E52", "#B8BCBC", "#879986", "#F2F4F5"]
 source_url: "https://aesthetics.fandom.com/wiki/Postmodernism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Postmodernism
@@ -71,11 +70,6 @@ Cabinet de Curiosité (Shiro Kuramata)
 
 ## References
 
-## Images
-
-- `images/postmodernism/Concrete-studio.jpg`
-- `images/postmodernism/Cabinet-kuramata.jpg`
-
 ## Source and attribution
 
-Text adapted from "Postmodernism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Postmodernism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Postmodernism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Postmodernism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

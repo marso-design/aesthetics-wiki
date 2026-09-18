@@ -12,7 +12,6 @@ related_media: ["Adam Ray's \"Rosa\" character"]
 source_url: "https://aesthetics.fandom.com/wiki/Hot_Cheeto_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Hot Cheeto Girl
@@ -56,16 +55,6 @@ In response to the mockery, many Latina creators have attempted to reclaim and s
 
 ## References
 
-## Images
-
-- `images/hot-cheeto-girl/Ddf1a82382b8c52b4d3493f10c4e9432.jpg`
-- `images/hot-cheeto-girl/87b44e58fe75a63a325c171e89a17897.jpg`
-- `images/hot-cheeto-girl/5256ec44f4a96f810c2b4b8ebce2d779.jpg`
-- `images/hot-cheeto-girl/4ecd07cbadec5ee278b9a42d988dcea8.jpg`
-- `images/hot-cheeto-girl/5da99c98259decc4efc7fcdad6c4bce6.jpg`
-- `images/hot-cheeto-girl/0f7a0ff2afc981e58014869f2924f6c5.jpg`
-- `images/hot-cheeto-girl/23daacd538482be99bd15650fe639aa9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hot Cheeto Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hot_Cheeto_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hot Cheeto Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hot_Cheeto_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

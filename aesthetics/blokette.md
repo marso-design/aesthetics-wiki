@@ -10,7 +10,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Blokette"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Blokette
@@ -47,4 +46,4 @@ Commonly worn blokette pieces include adidas sambas, ballet flats, athletic pant
 
 ## Source and attribution
 
-Text adapted from "Blokette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blokette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Blokette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blokette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

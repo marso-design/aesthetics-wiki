@@ -11,7 +11,6 @@ related_aesthetics: ["Heisei Retro", "Y2K", "Retro Hong Kong", "Chinese Dreamcor
 source_url: "https://aesthetics.fandom.com/wiki/Qianxi_Feng"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 26
 ---
 
 # Qianxi Feng
@@ -189,35 +188,6 @@ Fashion of 90s China
 
 ## References
 
-## Images
-
-- `images/qianxi-feng/BBY-WomensFashion1.jpg`
-- `images/qianxi-feng/BBY-visualsArchitecture3.webp`
-- `images/qianxi-feng/BBY-visualsArchitecture1.png`
-- `images/qianxi-feng/BBY-visualsArchitecutre2.png`
-- `images/qianxi-feng/BBY-WomensFashion.jpg`
-- `images/qianxi-feng/BBY-WomensFashion2.jpg`
-- `images/qianxi-feng/BBY-WomensFashion3.jpg`
-- `images/qianxi-feng/Qianxi-PlatformShoes.jpeg`
-- `images/qianxi-feng/BBY-WomensFashion5.jpg`
-- `images/qianxi-feng/BBY-WomensFashion6.jpg`
-- `images/qianxi-feng/BBY-WomensFashion4.jpg`
-- `images/qianxi-feng/Qianxi-1.jpeg`
-- `images/qianxi-feng/Qianxi-2.jpeg`
-- `images/qianxi-feng/Qianxi-WangLuodan2.jpeg`
-- `images/qianxi-feng/Qianxi-WangLuodan1.jpeg`
-- `images/qianxi-feng/Qianxi-Hongkong.jpeg`
-- `images/qianxi-feng/Qianxi-Stylites.jpeg`
-- `images/qianxi-feng/Qianxi-Stylites2.jpeg`
-- `images/qianxi-feng/Qianxi-Stylites3.jpeg`
-- `images/qianxi-feng/Qianxi-3.jpeg`
-- `images/qianxi-feng/Qianxi-Guangzhou1.jpeg`
-- `images/qianxi-feng/Qianxi-Guangzhou2.jpeg`
-- `images/qianxi-feng/Bby-90sShanghai.jpg`
-- `images/qianxi-feng/Bby-China90sFashion.jpg`
-- `images/qianxi-feng/BBY-media.jpg`
-- `images/qianxi-feng/BBY-media2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Qianxi Feng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Qianxi_Feng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Qianxi Feng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Qianxi_Feng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

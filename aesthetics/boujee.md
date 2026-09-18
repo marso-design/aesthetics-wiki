@@ -10,7 +10,6 @@ related_aesthetics: ["Baddie", "Casino", "Chic Modernist", "Clean Girl", "Femme 
 source_url: "https://aesthetics.fandom.com/wiki/Boujee"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Boujee
@@ -127,24 +126,6 @@ Classic Evening Black Tie
 
 Ariana Grande
 
-## Images
-
-- `images/boujee/Boujee.jpg`
-- `images/boujee/Boujee-paris-window-heels-dress.jpg`
-- `images/boujee/CHic.jpg`
-- `images/boujee/Boujee-bad-bitch-spakrle.jpg`
-- `images/boujee/Chic-fashion-style-5.jpg`
-- `images/boujee/Boujee-sparkle-rings-champagne.jpg`
-- `images/boujee/Trenchcoat-male-boujee.jpg`
-- `images/boujee/Male-boujee-wine.jpg`
-- `images/boujee/Male-boujee.jpg`
-- `images/boujee/Boujee-bag-sparkle.jpg`
-- `images/boujee/Boujee-dress-sparkle.jpg`
-- `images/boujee/Boujee-car.jpg`
-- `images/boujee/Imagegtgff.jpg`
-- `images/boujee/Rhinestone.jpeg`
-- `images/boujee/BABE01E0-6BB8-4F43-B9BC-2353192832D9.png`
-
 ## Source and attribution
 
-Text adapted from "Boujee" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Boujee), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Boujee" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Boujee), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

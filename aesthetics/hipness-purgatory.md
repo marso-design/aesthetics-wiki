@@ -11,7 +11,6 @@ related_aesthetics: ["Beatnik", "Bohemian", "Genericana", "Hipster", "Indie", "I
 source_url: "https://aesthetics.fandom.com/wiki/Hipness_Purgatory"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Hipness Purgatory
@@ -220,23 +219,6 @@ Rocking The Set - Tai (2010, Mixmash)
 * <https://br.pinterest.com/search/pins/?rs=ac&len=2&q=hipness%20purgatory&eq=hipness&etslf=4838>]
 * <https://br.pinterest.com/forlornhub/hipness-purgatory/>
 
-## Images
-
-- `images/hipness-purgatory/EXTERIOR.jpg`
-- `images/hipness-purgatory/Bobsburgersoutro.jpg`
-- `images/hipness-purgatory/Poshgod.jpg`
-- `images/hipness-purgatory/CSPG.png`
-- `images/hipness-purgatory/78085-lightning-bolt-hypermagic-mountain.jpg`
-- `images/hipness-purgatory/Ladyonthecusp.jpg`
-- `images/hipness-purgatory/Getter1.jpg`
-- `images/hipness-purgatory/Paperplanes1.webp`
-- `images/hipness-purgatory/100highschool.jpg`
-- `images/hipness-purgatory/Lienkeraben1.jpg`
-- `images/hipness-purgatory/Kidcudimemories.jpg`
-- `images/hipness-purgatory/Diary-of-a-teenage-girl.jpg`
-- `images/hipness-purgatory/Dotg-monroe.gif`
-- `images/hipness-purgatory/Rockinthesettai.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hipness Purgatory" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hipness_Purgatory), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hipness Purgatory" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hipness_Purgatory), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

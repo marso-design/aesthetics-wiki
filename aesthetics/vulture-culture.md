@@ -11,7 +11,6 @@ primary_platform: ["Tumblr", "Instagram", "Reddit"]
 source_url: "https://aesthetics.fandom.com/wiki/Vulture_Culture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Vulture Culture
@@ -46,16 +45,6 @@ Vulture Culture practitioners often bond over this craft. This can be helping ot
 
 ## Gallery
 
-## Images
-
-- `images/vulture-culture/Vulture.jpg`
-- `images/vulture-culture/Animal-skulls-poster.jpg`
-- `images/vulture-culture/Cat-stull-butterflies.jpg`
-- `images/vulture-culture/Bunny-pelt.jpg`
-- `images/vulture-culture/Grouse-foot.jpg`
-- `images/vulture-culture/Ancient-bone.jpg`
-- `images/vulture-culture/Skull-wall.jpg`
-
 ## Source and attribution
 
-Text adapted from "Vulture Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vulture_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vulture Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vulture_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

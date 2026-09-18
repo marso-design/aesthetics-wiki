@@ -8,7 +8,6 @@ related_aesthetics: ["Baddie", "Hime Lolita", "Kingcore", "Knightcore", "Princes
 source_url: "https://aesthetics.fandom.com/wiki/Queencore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Queencore
@@ -124,22 +123,6 @@ As queencore is associated with regality and grace, one would be able to create 
 
 ## References
 
-## Images
-
-- `images/queencore/CvygNIXWEAYgRaa.jpg`
-- `images/queencore/Crown.jpg`
-- `images/queencore/B454c22592980baece8f610b5b851fbc.png`
-- `images/queencore/BLOG-portrait-of-queen-victoria-attrib-to-franz-xavier-winterhalter.jpg`
-- `images/queencore/2b4499b8dedfe07758dcb41f5f277512--golden-crown-the-crown.jpg`
-- `images/queencore/02-best-real-thrones-throughout-history-game-of-thrones-new-season.jpg`
-- `images/queencore/C218647dbb13c00646e98b3debfd8692.png`
-- `images/queencore/Scepter.jpg`
-- `images/queencore/White-roman-books.jpg`
-- `images/queencore/Queencore.jpg`
-- `images/queencore/0bc1092d4792bd5c1148aa777dd3e786.png`
-- `images/queencore/Bddeaf76b7da536e4f0dffbb5afd87f0.jpg`
-- `images/queencore/Dark-castle.jpg`
-
 ## Source and attribution
 
-Text adapted from "Queencore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Queencore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Queencore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Queencore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

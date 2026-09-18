@@ -12,7 +12,6 @@ related_media: ["Flowers in the Attic (film and book series)", "Other books/film
 source_url: "https://aesthetics.fandom.com/wiki/Morute"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Morute
@@ -457,22 +456,6 @@ Bambi Baker
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/morute/Morute.jpg`
-- `images/morute/Qu673c27wx.jpg`
-- `images/morute/B15e4cf884b744d4d4197c24c70642af.jpg`
-- `images/morute/0a623dc077aa8e1dac78b7e2403eee62.jpg`
-- `images/morute/5cc12f8b5e26883cb7074ab8dd84e21a.jpg`
-- `images/morute/E6376cef0869ef628f8138d48f6cfae4.jpg`
-- `images/morute/0999eb8aeafbd372c5259c043dd27380.jpg`
-- `images/morute/12f3bdfa1ba8bed81ca2da1a7b938286.jpg`
-- `images/morute/4F79484A-8BCA-4F2E-8F42-CA842E1E8876.jpg`
-- `images/morute/Doll..jpg`
-- `images/morute/Zzz.jpeg`
-- `images/morute/Allisonharvard.jpeg`
-- `images/morute/266a2faf9eb9d5955333cbf3ee7f6910.jpg`
-
 ## Source and attribution
 
-Text adapted from "Morute" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Morute), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Morute" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Morute), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Corporate Memphis", "Flat Design", "Four Colors", "Frutige
 source_url: "https://aesthetics.fandom.com/wiki/Bright_Tertiaries"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 26
 ---
 
 # Bright Tertiaries
@@ -87,35 +86,6 @@ Turquoise, lime green, and fuchsia Christmas ornaments.
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● **Bright Tertiaries** ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/bright-tertiaries/Brte14.png`
-- `images/bright-tertiaries/Brte17.png`
-- `images/bright-tertiaries/Brte3.PNG`
-- `images/bright-tertiaries/Brte23.png`
-- `images/bright-tertiaries/Brte21.png`
-- `images/bright-tertiaries/1469389.jpg`
-- `images/bright-tertiaries/Brte1.PNG`
-- `images/bright-tertiaries/Brte2.PNG`
-- `images/bright-tertiaries/Brte4.PNG`
-- `images/bright-tertiaries/Brte5.png`
-- `images/bright-tertiaries/Brte6.png`
-- `images/bright-tertiaries/Brte7.PNG`
-- `images/bright-tertiaries/Brte9.png`
-- `images/bright-tertiaries/Brte11.png`
-- `images/bright-tertiaries/Brte12.png`
-- `images/bright-tertiaries/Brte13.png`
-- `images/bright-tertiaries/Brte15.png`
-- `images/bright-tertiaries/Brte16.png`
-- `images/bright-tertiaries/Brte18.png`
-- `images/bright-tertiaries/Brte19.png`
-- `images/bright-tertiaries/Brte20.png`
-- `images/bright-tertiaries/Brte24.png`
-- `images/bright-tertiaries/Brte8.png`
-- `images/bright-tertiaries/Brte26.png`
-- `images/bright-tertiaries/Jumbo-logo-.png`
-- `images/bright-tertiaries/Bayadere.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bright Tertiaries" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bright_Tertiaries), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bright Tertiaries" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bright_Tertiaries), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Kawaii", "Soft Boy", "Visual Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Genderless_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Genderless Kei
@@ -46,23 +45,6 @@ Genderless Kei is often confused with "unisex," but the two concepts are distinc
 
 ## References
 
-## Images
-
-- `images/genderless-kei/Toman.webp`
-- `images/genderless-kei/Tomanjapan.webp`
-- `images/genderless-kei/90ff825fd3a3176eb12f121a13d95d7b.jpg`
-- `images/genderless-kei/8b567a5b31e9483485c524d2b65fbe16.jpg`
-- `images/genderless-kei/180109142428-yusukedevil.jpg`
-- `images/genderless-kei/31fd85b10d436303e5e28e0dc23d646e.jpg`
-- `images/genderless-kei/82d1e8608f77bf592539f743aa5f15b6.jpg`
-- `images/genderless-kei/48ba125cde22ef34decf11d9b17c939a.jpg`
-- `images/genderless-kei/Tokyofashion5-1.jpg`
-- `images/genderless-kei/Cee62a44934002df8a172ed7ff00f7d0.jpg`
-- `images/genderless-kei/D21bd28a13cb9f7d98746c3515d54345.jpg`
-- `images/genderless-kei/A900720aa15bff79c349bd9e8f9b23a5.jpg`
-- `images/genderless-kei/65ec886e8647ffce8f61ccede783229b.jpg`
-- `images/genderless-kei/4785fe4a32b46529acf02ffa082eae3f.jpg`
-
 ## Source and attribution
 
-Text adapted from "Genderless Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Genderless_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Genderless Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Genderless_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

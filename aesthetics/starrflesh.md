@@ -12,7 +12,6 @@ primary_platform: ["Tumblr", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Starrflesh"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 24
 ---
 
 # Starrflesh
@@ -114,33 +113,6 @@ The Thirteenth Year (1999)
 
 The Starflesh Aesthetic Lore- Hunting for Wonder
 
-## Images
-
-- `images/starrflesh/StarrfleshScaledHand.jpeg`
-- `images/starrflesh/StarrfleshFish.jpeg`
-- `images/starrflesh/StarrfleshPlasticTeeth.jpeg`
-- `images/starrflesh/StarrfleshEye1.jpeg`
-- `images/starrflesh/StarrfleshDog1.jpeg`
-- `images/starrflesh/StarrfleshHeartWater.jpeg`
-- `images/starrflesh/StarrfleshIceDragon.jpeg`
-- `images/starrflesh/StarrfleshEyes.jpg`
-- `images/starrflesh/StarrfleshGlass1.jpg`
-- `images/starrflesh/StarrfleshOctopus.jpeg`
-- `images/starrflesh/StarrfleshSkin.jpg`
-- `images/starrflesh/StarrfleshWater1.jpeg`
-- `images/starrflesh/StarrfleshCat1.jpg`
-- `images/starrflesh/Starrfleshmermaid1.jpg`
-- `images/starrflesh/StarrfleshWaterEye.jpg`
-- `images/starrflesh/StarrfleshHand.jpg`
-- `images/starrflesh/StarrfleshCat2.jpg`
-- `images/starrflesh/StarrfleshSwimming.jpg`
-- `images/starrflesh/StarrfleshNoodles.jpg`
-- `images/starrflesh/StarrfleshFish2.jpg`
-- `images/starrflesh/StarrfleshIceHand.jpg`
-- `images/starrflesh/StarrfleshDogs.jpg`
-- `images/starrflesh/FA5DEF80-9135-42C5-B79D-11E393DD63A5.jpg`
-- `images/starrflesh/Yay.jpg`
-
 ## Source and attribution
 
-Text adapted from "Starrflesh" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Starrflesh), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Starrflesh" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Starrflesh), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

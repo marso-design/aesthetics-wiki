@@ -10,7 +10,6 @@ related_media: ["Painting", "Sculpture", "Architecture", "Decorative Arts"]
 source_url: "https://aesthetics.fandom.com/wiki/Neoclassicism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Neoclassicism
@@ -142,4 +141,4 @@ Péristyle of Villa Kérylos, Beaulieu-sur-Mer, France, early 1900s, by Theodore
 
 ## Source and attribution
 
-Text adapted from "Neoclassicism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neoclassicism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neoclassicism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neoclassicism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

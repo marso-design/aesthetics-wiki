@@ -10,7 +10,6 @@ related_aesthetics: ["Balletcore", "Coconut Girl", "Coquette", "Dollcore", "Nymp
 source_url: "https://aesthetics.fandom.com/wiki/Dollette"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Dollette
@@ -249,21 +248,6 @@ Coquette Phone Wallpaper
 
 ## References
 
-## Images
-
-- `images/dollette/Hj6.jpg`
-- `images/dollette/Hj35.jpg`
-- `images/dollette/Himejaki.jpg`
-- `images/dollette/Hj4.jpg`
-- `images/dollette/Hj51.jpg`
-- `images/dollette/Hj33.jpg`
-- `images/dollette/Hj58.jpg`
-- `images/dollette/Hj36.jpg`
-- `images/dollette/Hj88.jpg`
-- `images/dollette/Hj50.jpg`
-- `images/dollette/Hj65.jpg`
-- `images/dollette/Porcelainaballerina.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dollette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dollette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dollette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dollette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

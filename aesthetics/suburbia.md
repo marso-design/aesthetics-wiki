@@ -10,7 +10,6 @@ palette: ["#110C07", "#242B1C", "#464B40", "#75695D", "#E2DEA6", "#B2937E"]
 source_url: "https://aesthetics.fandom.com/wiki/Suburbia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Suburbia
@@ -227,13 +226,6 @@ Water being filled into an inflatable pool with a garden hose
 * <https://www.pewresearch.org/social-trends/2020/07/29/prior-to-covid-19-urban-core-counties-in-the-u-s-were-gaining-vitality-on-key-measures/>
 * <https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities/>
 
-## Images
-
-- `images/suburbia/LevittownPA.jpg`
-- `images/suburbia/Sprinkler.jpg`
-- `images/suburbia/MallMeanGirls.jpeg`
-- `images/suburbia/Fireworks.jpg`
-
 ## Source and attribution
 
-Text adapted from "Suburbia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Suburbia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Suburbia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Suburbia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

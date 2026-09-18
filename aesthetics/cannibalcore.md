@@ -8,7 +8,6 @@ related_aesthetics: ["Gorecore", "Horror", "Meatcore", "Yandere"]
 source_url: "https://aesthetics.fandom.com/wiki/Cannibalcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Cannibalcore
@@ -113,27 +112,6 @@ Cannibalcore visuals usually revolve around flesh, blood and gore. However, gore
 
 ## References
 
-## Images
-
-- `images/cannibalcore/Kisscannibalism.jpeg`
-- `images/cannibalcore/Iloveyoutoomuch.jpeg`
-- `images/cannibalcore/Bloodycup.jpeg`
-- `images/cannibalcore/Eatyouraw.jpeg`
-- `images/cannibalcore/Cannibalpoem2.jpeg`
-- `images/cannibalcore/Cannibalgirls.jpeg`
-- `images/cannibalcore/Cannibalhug.jpeg`
-- `images/cannibalcore/Cannibalpoem3.jpeg`
-- `images/cannibalcore/Bloodyembrace.jpeg`
-- `images/cannibalcore/Cannibalpoem1.jpeg`
-- `images/cannibalcore/Eatyourheartout.jpeg`
-- `images/cannibalcore/Dissectionhuman.jpeg`
-- `images/cannibalcore/Meatheart.jpeg`
-- `images/cannibalcore/Meathandgrinder.jpeg`
-- `images/cannibalcore/Ieatyourskin.jpeg`
-- `images/cannibalcore/Bloodyhearthand.jpeg`
-- `images/cannibalcore/Cannibalboard.jpeg`
-- `images/cannibalcore/Bloodykiss.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Cannibalcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cannibalcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cannibalcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cannibalcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

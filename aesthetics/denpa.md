@@ -11,7 +11,6 @@ related_media: ["Subarashiki Hibi", "CROSS†CHANNEL", "Saya no Uta", "Shizuku",
 source_url: "https://aesthetics.fandom.com/wiki/Denpa"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 35
 ---
 
 # Denpa
@@ -240,44 +239,6 @@ Saya no Uta - The Iconic Masterpiece of Horror Visual Novels
 
 ## References
 
-## Images
-
-- `images/denpa/Shizuku2.png`
-- `images/denpa/Shizuku1996.png`
-- `images/denpa/Texhnolyze.jpg`
-- `images/denpa/SubarashikiHibiRooftopScene.jpeg`
-- `images/denpa/SayaNoUtaExample.jpg`
-- `images/denpa/NeedyGirlOverdose.jpg`
-- `images/denpa/Allaboutlilychouchou.png`
-- `images/denpa/FushigiDensha.jpg`
-- `images/denpa/4b80460b839739a7e096c9d074bab93a.jpg`
-- `images/denpa/90d99c282b67449941e1bb859989858b.jpg`
-- `images/denpa/D2cd5fbd9bdb7974d182178a4da5536c.jpg`
-- `images/denpa/8f11e9f9160b30f17ecc998d20b6776c.jpg`
-- `images/denpa/8d7d3ae34b55b31712e7b53e8b1cafcd.jpg`
-- `images/denpa/5f9b1381e076ceaf7717397bc8d2c34e.jpg`
-- `images/denpa/Ff69599f8245431070085ac0aed826dd.jpg`
-- `images/denpa/02b0921de35726e3223c404607b2b6d0.jpg`
-- `images/denpa/LilyChouChou.png`
-- `images/denpa/ShikiJitsu.png`
-- `images/denpa/NeonGenesisEvangelion.png`
-- `images/denpa/XTrain.png`
-- `images/denpa/AugustInTheWater.png`
-- `images/denpa/Saya-no-Uta-Perspectives(1).png`
-- `images/denpa/SerialExperimentsLainLandscape.jpg`
-- `images/denpa/Wonderfuleveryday2.jpg`
-- `images/denpa/Kusarihime.jpg`
-- `images/denpa/Shizuku(1).jpg`
-- `images/denpa/BoogiepopPhantom.jpg`
-- `images/denpa/ShizukUClassroom.png`
-- `images/denpa/FukagawaStabbingIncidentArrest.webp`
-- `images/denpa/RelationlessSociety.jpg`
-- `images/denpa/LainWired.jpeg`
-- `images/denpa/Ee891bb51f585e7846c2dd24b4af004a.jpg`
-- `images/denpa/RooftopShizuku.png`
-- `images/denpa/KimikaTachibanaEdit.jpg`
-- `images/denpa/Weloveakibapop.png`
-
 ## Source and attribution
 
-Text adapted from "Denpa" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Denpa), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Denpa" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Denpa), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

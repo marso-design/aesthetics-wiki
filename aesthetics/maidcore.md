@@ -10,7 +10,6 @@ related_aesthetics: ["Glitchbreak", "Lolicore", "Maid", "Witch House"]
 source_url: "https://aesthetics.fandom.com/wiki/Maidcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Maidcore
@@ -113,18 +112,6 @@ Cover art for "Wonderland" by Yakui the Maid and Ozoi the Maid
 
 ## References
 
-## Images
-
-- `images/maidcore/WonderlandYakui.jpg`
-- `images/maidcore/Yakui-the-maid-mechanical-starfish-Cover-Art.jpg`
-- `images/maidcore/Yakuithemaid-goodnight-world-cover-art.jpg`
-- `images/maidcore/Yakui-the-maid-flock-Cover-Art.jpg`
-- `images/maidcore/10901019.jpg`
-- `images/maidcore/Itai-the-maid-iii-cover-art.jpg`
-- `images/maidcore/Yakui-the-maid-fireflies-Cover-Art.jpg`
-- `images/maidcore/Kaitai-the-maid-genesis-ep-cover-art.jpg`
-- `images/maidcore/Iya-the-maid-graveyard-song-Cover-Art.jpg`
-
 ## Source and attribution
 
-Text adapted from "Maidcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Maidcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Maidcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Maidcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Abstract Tech", "Cyberpunk", "Glitch Art", "Net.art", "Tec
 source_url: "https://aesthetics.fandom.com/wiki/Hacker_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Hacker Chic
@@ -71,17 +70,6 @@ Art created using ASCII characters and symbols, similar to the way words are wri
 
 ## References
 
-## Images
-
-- `images/hacker-chic/8ce35bf852ea8102b42d8c1189468e63.jpg`
-- `images/hacker-chic/686b74cac9d7f380243d3cbac52e377f.jpg`
-- `images/hacker-chic/32bc9a23454e303d440defdd0f92293c.jpg`
-- `images/hacker-chic/7146c7516509c6959f609f6391b6bdc3.jpg`
-- `images/hacker-chic/769c70ba951854eb65151d3da8a05578.jpg`
-- `images/hacker-chic/56b50896ef029c34a71eb64096d502da.jpg`
-- `images/hacker-chic/3e2c240f9bd11b5b614d212d969ad0d9.jpg`
-- `images/hacker-chic/Bad9999232faded18eac5c4ba64fe064.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hacker Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hacker_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hacker Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hacker_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

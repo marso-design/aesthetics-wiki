@@ -9,7 +9,6 @@ related_aesthetics: ["50s Suburbia", "After Hours", "Anglo Gothic", "Cryptidcore
 source_url: "https://aesthetics.fandom.com/wiki/Suburban_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Suburban Gothic
@@ -178,4 +177,4 @@ SUBURBAN GOTHIC
 
 ## Source and attribution
 
-Text adapted from "Suburban Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Suburban_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Suburban Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Suburban_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_media: ["TikTok", "Pinterest", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Clean_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Clean Girl
@@ -103,4 +102,4 @@ Clean girls emphasize the importance of staying hydrated
 
 ## Source and attribution
 
-Text adapted from "Clean Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Clean_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Clean Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Clean_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

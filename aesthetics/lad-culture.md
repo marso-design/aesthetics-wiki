@@ -11,7 +11,6 @@ related_aesthetics: ["Blokecore", "Britpop", "Casuals", "Chav", "Cool Britannia"
 source_url: "https://aesthetics.fandom.com/wiki/Lad_Culture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Lad Culture
@@ -66,18 +65,6 @@ A central element of this was the proliferation of "lads' mags" like Loaded, FHM
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/lad-culture/Oasis.png`
-- `images/lad-culture/Bec4b1e1aa34b4ed998fdb47b8d9fe45.jpg`
-- `images/lad-culture/00f4c2cebae02cc2d7387b7a8ce05733.jpg`
-- `images/lad-culture/8440554810361f09559fbe5a491ae860.jpg`
-- `images/lad-culture/1ce1fbecd3488f2f5b4836078d7b709c.jpg`
-- `images/lad-culture/9a7aface827215a28dc053bd147e53c7.jpg`
-- `images/lad-culture/Da831e25b8b93089b2a79e98fd56a1f2.jpg`
-- `images/lad-culture/A5ab042e17fc2f7d5f067160b3aa686c.jpg`
-- `images/lad-culture/21629d738a1ad3a706bf9faa67a285e9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Lad Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lad_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lad Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lad_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

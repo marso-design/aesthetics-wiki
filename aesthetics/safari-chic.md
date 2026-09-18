@@ -10,7 +10,6 @@ related_aesthetics: ["Americana", "Military Chic", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Safari_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Safari Chic
@@ -43,26 +42,6 @@ Footwear is typically practical and flat. Sandals, particularly those with multi
 
 ## References
 
-## Images
-
-- `images/safari-chic/7ed9d24dce505879ae1ceb10390d8f18.jpg`
-- `images/safari-chic/3e163771bed5e0293cc4dfe1aa094a39.jpg`
-- `images/safari-chic/46856a754332611b4449da277254bb0e.jpg`
-- `images/safari-chic/Ce7ddebe91d571db97c649cc2f2a8d9d.jpg`
-- `images/safari-chic/D1874bfce59c8f056be22701f7386c2e.jpg`
-- `images/safari-chic/5318ff52b7d7d8599ba8963fd10f3321.jpg`
-- `images/safari-chic/74c861daa548fdb52d3e0ee098340f86.jpg`
-- `images/safari-chic/97d8ccf0ec7e8f907a51883c3a811816.jpg`
-- `images/safari-chic/137c86299485b07a2a5b88737027425c.jpg`
-- `images/safari-chic/52a0954240df0ad70d3de6ebf3d781e7.jpg`
-- `images/safari-chic/E9be7f7238a8ef6602d127b7aa4aab05.jpg`
-- `images/safari-chic/A7bb92af4835480cfc3648adf5f8fd98.jpg`
-- `images/safari-chic/70755cb98423cc3fd1d7efea754bddf9.jpg`
-- `images/safari-chic/0fb011409b71f49e19c282a673a33324.jpg`
-- `images/safari-chic/2693aebeebdaf5142d23e146179d9fce.jpg`
-- `images/safari-chic/789b43a238f99331d12c85ece59e7f18.jpg`
-- `images/safari-chic/48dc9c4d1d34695f25917fb964d947d1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Safari Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Safari_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Safari Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Safari_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

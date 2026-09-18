@@ -11,7 +11,6 @@ related_media: ["Paper Bride series"]
 source_url: "https://aesthetics.fandom.com/wiki/Chinese_Folk_Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Chinese Folk Horror
@@ -76,19 +75,6 @@ Common settings include **deserted villages, old mansions, foggy nights, graveya
 
 ## References
 
-## Images
-
-- `images/chinese-folk-horror/ChineseFolkHorror-image1.jpeg`
-- `images/chinese-folk-horror/CFolkHorror-PaperBride2.jpeg`
-- `images/chinese-folk-horror/CFolkHorror-Pagui.jpeg`
-- `images/chinese-folk-horror/CFolkHorror-PaperBride3.jpeg`
-- `images/chinese-folk-horror/CFolkHorrorParanormalHK.jpeg`
-- `images/chinese-folk-horror/CFolkHorror-PaperBride4.jpeg`
-- `images/chinese-folk-horror/CFolkHorror-Firework.jpeg`
-- `images/chinese-folk-horror/CFolkHorror-PaperBride6.png`
-- `images/chinese-folk-horror/CFolkHorror-FILTHYUS.jpeg`
-- `images/chinese-folk-horror/CFolkHorror-PaperBride5.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Chinese Folk Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chinese_Folk_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chinese Folk Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chinese_Folk_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

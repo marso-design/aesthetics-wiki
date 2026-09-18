@@ -12,7 +12,6 @@ related_aesthetics: ["Autumn", "Día De Muertos", "Gurokawa", "Horror", "Horror 
 source_url: "https://aesthetics.fandom.com/wiki/Halloween"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 29
 ---
 
 # Halloween
@@ -253,38 +252,6 @@ Wizards Beyond Waverly Place Halloween Episode - Pumpkin Belly 🫣 - @disneycha
 
 ## References
 
-## Images
-
-- `images/halloween/2d74c9dcb818ac89812938c81026c9ac.jpg`
-- `images/halloween/Halloween-loppy.jpg`
-- `images/halloween/Sku.jpeg`
-- `images/halloween/Spookcat.jpeg`
-- `images/halloween/Hallowone.jpeg`
-- `images/halloween/Halloween-cookies.jpg`
-- `images/halloween/Gagagaasore.jpeg`
-- `images/halloween/Halloween-decor.png`
-- `images/halloween/Verycoolautumnstuffyesyes.png`
-- `images/halloween/741f5beb6e577716d4ad5d697bba6a9a.jpg`
-- `images/halloween/1532beeb9eb4ea496ab363e8e11f4f45.jpg`
-- `images/halloween/53c2a3690b68c5e2cc6c2451e2b8d26a.jpg`
-- `images/halloween/2d1c49c699cfe8de6c9f2780b4640df2.jpg`
-- `images/halloween/3586b034593a2ca29ec5dbcc88864279.jpg`
-- `images/halloween/1a20288f9f103f43c3acb1398ba414f3.jpg`
-- `images/halloween/B719e9e1d43fb1a1a6491795c786bb58.jpg`
-- `images/halloween/D7b4112bbd2e76001f3936e208e9a8f4.jpg`
-- `images/halloween/Halloween-neon-lights-aesthetic.png`
-- `images/halloween/SpongebobHalloweenDVDMenu.png`
-- `images/halloween/Gettyimages-129561429-2048x2048.jpg`
-- `images/halloween/Gettyimages-129745723-1024x1024.jpg`
-- `images/halloween/DevilsCandy.jpg`
-- `images/halloween/Soup-effect.jpg`
-- `images/halloween/Spookydonuts.jpg`
-- `images/halloween/Spookypocky.jpg`
-- `images/halloween/Sanrio-Halloween.jpg`
-- `images/halloween/Halloween-Miku.jpg`
-- `images/halloween/Hallo-bg.jpg`
-- `images/halloween/Cinnamoroll-Halloween.jpg`
-
 ## Source and attribution
 
-Text adapted from "Halloween" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Halloween), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Halloween" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Halloween), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

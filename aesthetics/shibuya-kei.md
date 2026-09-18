@@ -11,7 +11,6 @@ related_aesthetics: ["City Pop", "Mod", "Pop Art", "Shibuya Punk", "Space Age", 
 source_url: "https://aesthetics.fandom.com/wiki/Shibuya-Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Shibuya-Kei
@@ -188,26 +187,6 @@ Various Artists - sushi 3003
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • **Shibuya-Kei** • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/shibuya-kei/Pizzicato.jpg`
-- `images/shibuya-kei/O0600060015071770411.jpg`
-- `images/shibuya-kei/Piaaidq5or.jpg`
-- `images/shibuya-kei/E7b04593a64049a0bf16e764f6335c8d.jpg`
-- `images/shibuya-kei/830cf062d73413cde463d6d3f8db6550.jpg`
-- `images/shibuya-kei/Sweetsoul.jpg`
-- `images/shibuya-kei/Kahimi-karie-0ae6b9bf-2177-47f8-9043-cf7905512a6-resize-750.jpeg`
-- `images/shibuya-kei/Ab67616d0000b2734f9a7695de17eef806093f99.jpg`
-- `images/shibuya-kei/Ddddd.jpg`
-- `images/shibuya-kei/Artworks-KK2YVUnyvE8L0yGn-qFepqQ-t1080x1080.jpg`
-- `images/shibuya-kei/Shibuya-kei-music-japaneseculture-japanesepop-tokyo-tokyonightlife-musicclub-ymo-popmusic-manhattanrecords-records-art.png`
-- `images/shibuya-kei/Kfkfkfk.png`
-- `images/shibuya-kei/Gregegr.png`
-- `images/shibuya-kei/Thefirstquestipn.png`
-- `images/shibuya-kei/Fabgear.png`
-- `images/shibuya-kei/Thrthrthrth.png`
-- `images/shibuya-kei/Shibuyakei3.png`
-
 ## Source and attribution
 
-Text adapted from "Shibuya-Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shibuya-Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Shibuya-Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shibuya-Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

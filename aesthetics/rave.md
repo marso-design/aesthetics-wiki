@@ -13,7 +13,6 @@ related_media: ["Trainspotting (film)", "Human Traffic (film)", "Groove Armada (
 source_url: "https://aesthetics.fandom.com/wiki/Rave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 51
 ---
 
 # Rave
@@ -597,60 +596,6 @@ Flyer for Shoom, January 1988 at Fitness Centre in Southwark, London.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/rave/WarehouseRave.jpg`
-- `images/rave/Raver4.jpg`
-- `images/rave/Raver3.jpg`
-- `images/rave/Raver2.jpg`
-- `images/rave/Raver6.webp`
-- `images/rave/Transmission-festival.jpeg`
-- `images/rave/Raver1.jpg`
-- `images/rave/B4RD.gif`
-- `images/rave/Ac190ca1f0017ca46c7bb238d803046e.jpg`
-- `images/rave/B385a7ed763b46647e548c508579d631.jpg`
-- `images/rave/Dfde14d04b01f0180362699b388b551c.jpg`
-- `images/rave/2589c421760777006dbc782266aa2e64.jpg`
-- `images/rave/E16d286c5421da2feccdcaae77e4ea09.jpg`
-- `images/rave/C75f8204c6d2f1c1d241dc65618d08c8.jpg`
-- `images/rave/2dbaa831553e86d4936ced0d3f6eb2fe.jpg`
-- `images/rave/490296e75b6d475cf4edb61ca3be254d.jpg`
-- `images/rave/BERLINSTYLE-VOGUEB-4225-STORY.webp`
-- `images/rave/500e0e48a79ad4b22bdc5b94886d4117.jpg`
-- `images/rave/Women-wearing-rave-clothes.webp`
-- `images/rave/Ravefashion.jpeg`
-- `images/rave/AcidHouseFashion.jpg`
-- `images/rave/24e6fb8e958bb14d3f5380bdef2210fd.jpg`
-- `images/rave/NewBeat.jpg`
-- `images/rave/Ravefashionkandi.jpg`
-- `images/rave/Ravefashion973731smiley.jpg`
-- `images/rave/Ravecostume58758.webp`
-- `images/rave/Ravefashion97383.jpg`
-- `images/rave/Ravefashino48383.jpg`
-- `images/rave/Ravefashion3826374646.jpg`
-- `images/rave/Ravefashion497384.jpg`
-- `images/rave/Ravefashion999.jpg`
-- `images/rave/Ravefashino5.jpeg`
-- `images/rave/Ravefashuin899.jpg`
-- `images/rave/Ravefashion88.jpg`
-- `images/rave/Ravefashion8.jpg`
-- `images/rave/90s-rave-gear.jpeg`
-- `images/rave/845db4d3e2e6b592c6241d413cdbcdf7.jpg`
-- `images/rave/Raveflyer10.webp`
-- `images/rave/Raveflyer9.webp`
-- `images/rave/Thunderdomeflyer2.webp`
-- `images/rave/Thunderdomeflyer.jpeg`
-- `images/rave/Raveflyers.jpeg`
-- `images/rave/Raveflyers4.JPG`
-- `images/rave/KandiTrade.webp`
-- `images/rave/Acid-House-Rave-Fashion-©peterjwalsh-2.jpg`
-- `images/rave/Hedonism.jpeg`
-- `images/rave/WarehouseRave2.webp`
-- `images/rave/ElectricDaisyCarnivalVenue.jpg`
-- `images/rave/RaveLightShow.jpg`
-- `images/rave/GlovingRave.jpg`
-- `images/rave/LaserDisplayRave.webp`
-
 ## Source and attribution
 
-Text adapted from "Rave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Surf Crush", "Vacation Dadcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Australiana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Australiana
@@ -142,11 +141,6 @@ The Meter Maids of Surfers Paradise, a uniquely Australian cultural phenomenon.
 
 ## References
 
-## Images
-
-- `images/australiana/Australiana.jpg`
-- `images/australiana/Minnie+PwerleAwelye+Atnwengerrp+(Bush+Melon+and+Body+Paint),+2005+Acrylic+on+Canvas144+x+218+cm$32,800.00.jpg`
-
 ## Source and attribution
 
-Text adapted from "Australiana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Australiana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Australiana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Australiana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -5,7 +5,6 @@ palette: ["#111210", "#FFFFFF", "#ABA69D", "#CCC7C2", "#B91C0C", "#726A5D"]
 source_url: "https://aesthetics.fandom.com/wiki/SoundCloud_Rap"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 32
 ---
 
 # SoundCloud Rap
@@ -186,41 +185,6 @@ While the "SoundCloud Rap" era formally ended around 2019, its influence morphed
 * [Witch House](https://aesthetics.fandom.com/wiki/Witch_House "Witch House")
 * [Yabujincore](https://aesthetics.fandom.com/wiki/Yabujincore "Yabujincore")
 
-## Images
-
-- `images/soundcloud-rap/LilPeep.png`
-- `images/soundcloud-rap/17XXXTentacion.jpg`
-- `images/soundcloud-rap/SAD.jpeg`
-- `images/soundcloud-rap/87adb1a822af2fa32c2dea3a983700ca.jpg`
-- `images/soundcloud-rap/Poorstacy.jpg`
-- `images/soundcloud-rap/Fea73e5e77981ee0c79a38ff2c824ab9.500x500x1.jpg`
-- `images/soundcloud-rap/TeenWitch.jpg`
-- `images/soundcloud-rap/Darkroseemorap.png`
-- `images/soundcloud-rap/4091f3f816b68a1db3f1942c335e7cf7.jpg`
-- `images/soundcloud-rap/F6a043bf5e3797301c8ebabad8502deb.jpg`
-- `images/soundcloud-rap/8c37e659a85ca653af45b2bd233e5b7d.jpg`
-- `images/soundcloud-rap/2c9b14cf0211a28bb7c31f06610d13d6.jpg`
-- `images/soundcloud-rap/8ecca9c4b8900ab573b81067805117eb.jpg`
-- `images/soundcloud-rap/Young-nga-i-just-bought-a-bugatti-im-happy-Cover-Art.jpg`
-- `images/soundcloud-rap/Lil-ricefield-ho-ho-Cover-Art.jpg`
-- `images/soundcloud-rap/Lil-barnacle-barnacle-classics-Cover-Art.jpg`
-- `images/soundcloud-rap/Lil-ricefield-seiji-oda-and-guapdad-4000-anime-shawty-vol-2-Cover-Art.jpg`
-- `images/soundcloud-rap/YungCraka.jpg`
-- `images/soundcloud-rap/Yung-lambo-and-hood-guy-gucci-swamp-Cover-Art.jpg`
-- `images/soundcloud-rap/3pac-3pacalypse-now-Cover-Art.jpg`
-- `images/soundcloud-rap/Lil-ricefield-trapanese-Cover-Art.jpg`
-- `images/soundcloud-rap/4f7ce4eed0b0447dd84bdb97b792596d.jpg`
-- `images/soundcloud-rap/Purpleposse-issue-04-Cover-Art.jpg`
-- `images/soundcloud-rap/Cloudempire-rodsquare-and-mister-nacho-down-concept-vol-1-Cover-Art.jpg`
-- `images/soundcloud-rap/Holy-mob-holy-mob-volume-1-Cover-Art.jpg`
-- `images/soundcloud-rap/Purpleposse-issue-02-Cover-Art.jpg`
-- `images/soundcloud-rap/Dj-smokey-666-choppin-out-da-forest-Cover-Art.jpg`
-- `images/soundcloud-rap/Roland-jones-psychedelic-phonk-Cover-Art.jpg`
-- `images/soundcloud-rap/Boys-with-sad-aesthetic-tumblr-dark-17q6b7yhbmnvjeyh.jpg`
-- `images/soundcloud-rap/8126239fce591a4437314c9a6d40c0ad.jpg`
-- `images/soundcloud-rap/Desktop-wallpaper-tumblr-grunge-boy-grunge-eboy.jpg`
-- `images/soundcloud-rap/Sadtimes3.jpeg`
-
 ## Source and attribution
 
-Text adapted from "SoundCloud Rap" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/SoundCloud_Rap), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "SoundCloud Rap" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/SoundCloud_Rap), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

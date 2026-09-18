@@ -11,7 +11,6 @@ subgenres: ["Classic Lolita", "Gothic Lolita", "Hime Lolita", "Military Lolita",
 source_url: "https://aesthetics.fandom.com/wiki/Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Lolita
@@ -259,18 +258,6 @@ A video explaining why Lolitas are against the people critical about the price o
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/lolita/Lolita01.jpg`
-- `images/lolita/Lolita02.jpg`
-- `images/lolita/Lolita03.jpg`
-- `images/lolita/Lolita04.jpg`
-- `images/lolita/Lolita05.jpg`
-- `images/lolita/Lolita06.jpg`
-- `images/lolita/Lolita07.jpg`
-- `images/lolita/Lolita08.jpg`
-- `images/lolita/Lolita09.jpg`
-
 ## Source and attribution
 
-Text adapted from "Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

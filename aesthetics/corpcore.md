@@ -10,7 +10,6 @@ related_aesthetics: ["Abstract Tech", "Brutalism", "Chic Modernist", "Cyberminim
 source_url: "https://aesthetics.fandom.com/wiki/Corpcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Corpcore
@@ -53,14 +52,6 @@ For accessories, there is a lot of variety: things you'd expect to see in the of
 
 ## References
 
-## Images
-
-- `images/corpcore/8bdkhXMJFKEymPtx5PZ9gU-768-80.jpg.webp`
-- `images/corpcore/Frame-21-1-1024x682.jpg`
-- `images/corpcore/9i2379847.jpg`
-- `images/corpcore/Corp1223433555.png`
-- `images/corpcore/Fashion-journal-corpcore-ebay-mob.jpg`
-
 ## Source and attribution
 
-Text adapted from "Corpcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corpcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Corpcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corpcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

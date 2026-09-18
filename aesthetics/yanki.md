@@ -11,7 +11,6 @@ related_aesthetics: ["Bosozoku", "Sukeban", "Gyaru", "Greaser", "Yakuza", "Banka
 source_url: "https://aesthetics.fandom.com/wiki/Yanki"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Yanki
@@ -106,14 +105,6 @@ There are many Yankī movies, most of them being B action movies.
 
 * [Yanki on Japan Talk](https://www.japan-talk.com/jt/new/yanki)
 
-## Images
-
-- `images/yanki/Yanki.jpg`
-- `images/yanki/Yankii-2.jpg`
-- `images/yanki/Bosozoku7.png`
-- `images/yanki/Yankii-3.jpg`
-- `images/yanki/Teamer.png`
-
 ## Source and attribution
 
-Text adapted from "Yanki" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yanki), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yanki" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yanki), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ primary_platform: ["Personal Computers (Amiga, Atari ST, Modern PC/Windows)"]
 source_url: "https://aesthetics.fandom.com/wiki/Demoscene"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Demoscene
@@ -108,26 +107,6 @@ A still from the Amiga demo titled "Eon" by the demoscene group The Black Lotus 
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/demoscene/Demoscene2.png`
-- `images/demoscene/5b9a7e77c86391a4833059207ecc99ad.jpg`
-- `images/demoscene/162232.png`
-- `images/demoscene/Faba7e911f48c4886c268c62cad276a9.jpg`
-- `images/demoscene/E8b1724d0eaf1edb591d91afc02bdc7a.jpg`
-- `images/demoscene/5ec31a860f8586c4e840ea8c46c4b50a.jpg`
-- `images/demoscene/Cc0fd98f9fa0f2b57cdbd7f094a69c00.jpg`
-- `images/demoscene/2746b167b2a1db920655b0bf81be46f4.jpg`
-- `images/demoscene/7c089f4426ca8cb7c22d74302a75b1e2.jpg`
-- `images/demoscene/Punx-ext-2.jpg`
-- `images/demoscene/Demoscene44.jpg`
-- `images/demoscene/Demoscene77.jpg`
-- `images/demoscene/Breathin-lung.gif`
-- `images/demoscene/Demo-amiga.gif`
-- `images/demoscene/Spaceballs-state-of-the-art.gif`
-- `images/demoscene/Demo-1984.gif`
-- `images/demoscene/Amiga-sota-state-of-the-art-demo-dance-demoscene.gif`
-
 ## Source and attribution
 
-Text adapted from "Demoscene" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Demoscene), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Demoscene" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Demoscene), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

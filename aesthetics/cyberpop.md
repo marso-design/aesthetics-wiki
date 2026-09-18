@@ -11,7 +11,6 @@ related_aesthetics: ["Club Kids", "Cybergoth", "Cyberprep", "Cyberpunk", "Decora
 source_url: "https://aesthetics.fandom.com/wiki/Cyberpop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Cyberpop
@@ -140,12 +139,6 @@ The widely used shield necklace in various colors
 
 Zoe Van West wearing Kill Me Kiss Me brand
 
-## Images
-
-- `images/cyberpop/Cyberpop.jpg`
-- `images/cyberpop/Cyberpop2.jpg`
-- `images/cyberpop/Cyberpop3.png`
-
 ## Source and attribution
 
-Text adapted from "Cyberpop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyberpop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyberpop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyberpop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

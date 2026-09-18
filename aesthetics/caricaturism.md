@@ -10,7 +10,6 @@ palette: ["#FFFFFF", "#D4DBC2", "#F4B63C", "#AEB1A0", "#6A3B31", "#97826C"]
 source_url: "https://aesthetics.fandom.com/wiki/Caricaturism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Caricaturism
@@ -104,14 +103,6 @@ Caricaturized cartoon
 
 ### References
 
-## Images
-
-- `images/caricaturism/Caricature-The-Future-La-Caricature-Honore-Daumier-Metropolitan.jpg`
-- `images/caricaturism/Meme-troll-face-32.jpg`
-- `images/caricaturism/Wojak.png`
-- `images/caricaturism/Mad-magazine.jpg`
-- `images/caricaturism/1EB2651D-1E00-42BA-AE2D-291F297A4CAF.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Caricaturism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Caricaturism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Caricaturism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Caricaturism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

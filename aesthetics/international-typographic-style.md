@@ -10,7 +10,6 @@ palette: ["#FFFFFF", "#F6554B", "#EAE8D0", "#A3A4A4", "#572F2C", "#E5B2AA"]
 source_url: "https://aesthetics.fandom.com/wiki/International_Typographic_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # International Typographic Style
@@ -160,30 +159,6 @@ Swiss Design- Iconic & Influential (Original Long Version)
 
 ## References
 
-## Images
-
-- `images/international-typographic-style/MusicaViva.jpg`
-- `images/international-typographic-style/AkzidenzGrotesk.png`
-- `images/international-typographic-style/Helvetica.jpg`
-- `images/international-typographic-style/Univers.png`
-- `images/international-typographic-style/HelveticaLogos.jpg`
-- `images/international-typographic-style/Swissair.png`
-- `images/international-typographic-style/FiatLogo.png`
-- `images/international-typographic-style/AmericanAirlines.png`
-- `images/international-typographic-style/CentrePompidou.png`
-- `images/international-typographic-style/Freidman-1971.png`
-- `images/international-typographic-style/Citibank-logo-1975.png`
-- `images/international-typographic-style/Nwt4.jpeg`
-- `images/international-typographic-style/Nwt3.jpg`
-- `images/international-typographic-style/Nwt2.jpg`
-- `images/international-typographic-style/Newwavetypography.jpg`
-- `images/international-typographic-style/Derfilm.jpg`
-- `images/international-typographic-style/SwissStyle.jpg`
-- `images/international-typographic-style/SwissStyle2.jpg`
-- `images/international-typographic-style/Josefmuller.jpg`
-- `images/international-typographic-style/624ca305-be2b-4169-b199-d457ba324cf5.jpeg`
-- `images/international-typographic-style/Rastersystemecover.jpg`
-
 ## Source and attribution
 
-Text adapted from "International Typographic Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/International_Typographic_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "International Typographic Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/International_Typographic_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

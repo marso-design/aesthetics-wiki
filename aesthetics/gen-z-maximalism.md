@@ -11,7 +11,6 @@ related_media: ["TikTok", "Pinterest", "Possible Studio Ghibli movies"]
 source_url: "https://aesthetics.fandom.com/wiki/Gen_Z_Maximalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Gen Z Maximalism
@@ -54,15 +53,6 @@ Carlita Landrum on instagram
 
 ## References
 
-## Images
-
-- `images/gen-z-maximalism/Genzmax1.jpg`
-- `images/gen-z-maximalism/Genzmax2.jpg`
-- `images/gen-z-maximalism/Genzmax3.jpg`
-- `images/gen-z-maximalism/Genzmaxfashion1.jpg`
-- `images/gen-z-maximalism/Genzmaxfashion3.jpg`
-- `images/gen-z-maximalism/Genzmaxfashion2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gen Z Maximalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gen_Z_Maximalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gen Z Maximalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gen_Z_Maximalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

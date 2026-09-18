@@ -8,7 +8,6 @@ palette: ["#E6EBF0", "#222127", "#CBB0B3", "#928C95", "#E3D2D3", "#7F606A"]
 source_url: "https://aesthetics.fandom.com/wiki/Yanqing_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Yanqing Kitsch
@@ -42,27 +41,6 @@ The following article contains and discusses content that may be distressing to 
 
 Advertisement for web-fiction cover design service, showing typical design of some common web-fiction genres
 
-## Images
-
-- `images/yanqing-kitsch/YanqingKitsch-8.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-1.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-2.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-3.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-4.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-5.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-6.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-7.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-9.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-10.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-Webfictions.jpeg`
-- `images/yanqing-kitsch/YanqingKitsch-11.jpeg`
-- `images/yanqing-kitsch/Yanqing-12.jpeg`
-- `images/yanqing-kitsch/Yanqing-13.jpeg`
-- `images/yanqing-kitsch/Yanqing-14.jpeg`
-- `images/yanqing-kitsch/Yanqing-15.jpeg`
-- `images/yanqing-kitsch/Yanqing-16.jpeg`
-- `images/yanqing-kitsch/Yanqing-17.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Yanqing Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yanqing_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yanqing Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yanqing_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

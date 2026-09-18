@@ -12,7 +12,6 @@ subgenres: ["Brazilian Phonk (debatable)", "Drift Phonk (debatable)"]
 source_url: "https://aesthetics.fandom.com/wiki/Phonk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Phonk
@@ -181,25 +180,6 @@ Doomshop edit (back from late 2020 I think)
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/phonk/DJSMOKEYEVILWAYZ.jpg`
-- `images/phonk/4f7ce4eed0b0447dd84bdb97b792596d.jpg`
-- `images/phonk/Purpleposse-issue-04-Cover-Art.jpg`
-- `images/phonk/Cloudempire-rodsquare-and-mister-nacho-down-concept-vol-1-Cover-Art.jpg`
-- `images/phonk/Holy-mob-holy-mob-volume-1-Cover-Art.jpg`
-- `images/phonk/Purpleposse-issue-02-Cover-Art.jpg`
-- `images/phonk/Dj-smokey-666-choppin-out-da-forest-Cover-Art.jpg`
-- `images/phonk/Roland-jones-psychedelic-phonk-Cover-Art.jpg`
-- `images/phonk/Dj-smokey-codeine-demonz-Cover-Art.jpg`
-- `images/phonk/8401c4d5054aebaded6bb2aaaca9513d.jpg`
-- `images/phonk/Doom-shop.gif`
-- `images/phonk/Shinigami-tenshi-evil-space-Cover-Art.jpg`
-- `images/phonk/Yung-cortex-and-dj-smokey-hey-who-died-Cover-Art.jpg`
-- `images/phonk/B7bdec2a3882b84edde4462b43cfb206.jpg`
-- `images/phonk/Soudiere-young-pirelli-Cover-Art.jpg`
-- `images/phonk/Dj-smokey-purple-diamondz-vol-1-Cover-Art.jpg`
-
 ## Source and attribution
 
-Text adapted from "Phonk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Phonk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Phonk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Phonk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

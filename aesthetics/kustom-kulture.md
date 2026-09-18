@@ -10,7 +10,6 @@ related_media: ["Custom-car magazines", "hot-rod films", "rockabilly music scene
 source_url: "https://aesthetics.fandom.com/wiki/Kustom_Kulture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Kustom Kulture
@@ -23,4 +22,4 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 ## Source and attribution
 
-Text adapted from "Kustom Kulture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kustom_Kulture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kustom Kulture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kustom_Kulture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

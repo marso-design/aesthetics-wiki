@@ -10,7 +10,6 @@ related_aesthetics: ["Electroclash", "Glam Rock", "Goth", "Italo Disco", "New Wa
 source_url: "https://aesthetics.fandom.com/wiki/New_Romantic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # New Romantic
@@ -90,30 +89,6 @@ Spandau Ballet
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/new-romantic/Adam-Ant-wearing-a-Hussar-jacket-Stand-and-Deliver-Japanese-sleeve.webp`
-- `images/new-romantic/New-romantics-3-kim-bowen.jpg`
-- `images/new-romantic/New-romantics-4-john-galliano.jpg`
-- `images/new-romantic/New-romantics-5-spandau-ballet.jpg`
-- `images/new-romantic/238e71b3ddf80a424cff435c27a023f8.jpg`
-- `images/new-romantic/9f116fe266b90b077e83c21c7eeeff31.jpg`
-- `images/new-romantic/8b675d874442698093b5fa4fff6e8573.jpg`
-- `images/new-romantic/F197ddb83c0dd3a35fd0ca3fb2231b5f.jpg`
-- `images/new-romantic/81872ea866f3a27d4d56915db2a8bde3.jpg`
-- `images/new-romantic/D6ec425fb85ad1b1b8a2880b57997a24.jpg`
-- `images/new-romantic/4ee146e589514e91fa32b16f783aaabd.jpg`
-- `images/new-romantic/Ac030ab71b423bf9c0dc1bf7d9b31071.jpg`
-- `images/new-romantic/0176b038e30116305d0a62c23f9bf500.jpg`
-- `images/new-romantic/5b7f8f478fba37043704e56f15d1a4e5.jpg`
-- `images/new-romantic/E51dcb1c64695a0993b31bb9aee24103.jpg`
-- `images/new-romantic/02a3f043c2eb9b17fa9edf743574d196.jpg`
-- `images/new-romantic/Bb6250ea64615ad12724e9dbddc005f9.jpg`
-- `images/new-romantic/70e588ef7c439c5fb2bc140e53f4d437.jpg`
-- `images/new-romantic/741d71d453daa9b1c5bc5a1ff0e13041.jpg`
-- `images/new-romantic/7cc2fd3511aaf9ea81d8248041cb4268.jpg`
-- `images/new-romantic/Ee3b9032e60897d2c2b52c6757681685.jpg`
-
 ## Source and attribution
 
-Text adapted from "New Romantic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Romantic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "New Romantic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Romantic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

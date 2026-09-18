@@ -11,7 +11,6 @@ palette: ["#1A1818", "#ADB8B5", "#78858A", "#322E28", "#86674B", "#E6E2D7"]
 source_url: "https://aesthetics.fandom.com/wiki/Sprezzatura"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Sprezzatura
@@ -50,21 +49,6 @@ Sprezzatura embraces subtle imperfection and avoids anything that appears too "o
 
 ## References
 
-## Images
-
-- `images/sprezzatura/Sprezzatura-luca-rubinacci.jpg`
-- `images/sprezzatura/75f278ccfbe7f61e1ec99ded31938adb.jpg`
-- `images/sprezzatura/Sprezzatura-Unbotton-Shirt.jpg`
-- `images/sprezzatura/Lino-displaying-sprezzatura-sunglasses-open-shirt-cuffs-wristbands-ring-sunglasses-cigarette-jacket-on-the-shoulders-sleeve-cuffs-undone-686x1030-1.jpg`
-- `images/sprezzatura/Tie-blade-tucked-in.jpg`
-- `images/sprezzatura/45b42fa61290322acc6997e018efd13d.jpg`
-- `images/sprezzatura/A4b9b33b8b0f2beb77558d90a9b3c726.jpg`
-- `images/sprezzatura/736e9f57a62a00c21a88a7a9b9fce622.jpg`
-- `images/sprezzatura/191117cbaffccc621f6cb316f12dde41.jpg`
-- `images/sprezzatura/343c66c6424bd095034eba32f10a8145.jpg`
-- `images/sprezzatura/Slack-lin-vert.jpg`
-- `images/sprezzatura/Attitude-sprezzatura.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Sprezzatura" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sprezzatura), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sprezzatura" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sprezzatura), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

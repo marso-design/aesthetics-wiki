@@ -5,7 +5,6 @@ palette: ["#E65452", "#0000FF", "#000061", "#57557B", "#A8CBCB", "#FBE3C7"]
 source_url: "https://aesthetics.fandom.com/wiki/Hyperpop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Hyperpop
@@ -85,25 +84,6 @@ Izzyzzz's limited edition "cringe jacket"
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/hyperpop/Ab67616d0000b273b6a9379949aa3f964a79105b.jpg`
-- `images/hyperpop/Ab67616d0000b273fcb74c25ee93efd77b921d21.jpg`
-- `images/hyperpop/EUsqg6uU8AQ0XiW.jpg`
-- `images/hyperpop/EcBGyv5UMAEcU6G.jpg`
-- `images/hyperpop/LIL-DATA-Folder-Dot-Zip-LP-pakshot-750x750.jpg`
-- `images/hyperpop/Glitchcore.jpg`
-- `images/hyperpop/Glitchcorekuromierror.gif`
-- `images/hyperpop/Mlgscenecore.jpg`
-- `images/hyperpop/CringeJacket.jpg`
-- `images/hyperpop/Bliss3three-c3l3stial天の-Cover-Art.webp`
-- `images/hyperpop/Drixxo-lords-unimon-superstar-Cover-Art.webp`
-- `images/hyperpop/Rat-jesu-emo-girl-ex-machina-Cover-Art.webp`
-- `images/hyperpop/Aero-gros-m-tu-novio-es-una-telarana-Cover-Art.webp`
-- `images/hyperpop/Kc1.jpg`
-- `images/hyperpop/Kc3.jpg`
-- `images/hyperpop/Krushclub.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hyperpop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hyperpop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hyperpop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hyperpop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

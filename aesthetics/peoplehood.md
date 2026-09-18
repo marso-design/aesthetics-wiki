@@ -9,7 +9,6 @@ related_aesthetics: ["Art Hoe", "Comfy/Cozy", "Cottagecore", "Foodie", "Grandpar
 source_url: "https://aesthetics.fandom.com/wiki/Peoplehood"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Peoplehood
@@ -40,4 +39,4 @@ Many of the photos and videos popularized in the community were taken without th
 
 ## Source and attribution
 
-Text adapted from "Peoplehood" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Peoplehood), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Peoplehood" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Peoplehood), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

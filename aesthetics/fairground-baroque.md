@@ -11,7 +11,6 @@ related_aesthetics: ["Art Nouveau", "Baroque", "Burlesque", "Dark Circus", "Funf
 source_url: "https://aesthetics.fandom.com/wiki/Fairground_Baroque"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Fairground Baroque
@@ -179,10 +178,6 @@ A fairground organ (Jahrmarktsorgel) by Gebrüder Bruder, 1925.
 
 ## References
 
-## Images
-
-- `images/fairground-baroque/MerryGoRound.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fairground Baroque" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fairground_Baroque), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fairground Baroque" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fairground_Baroque), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -13,7 +13,6 @@ related_media: ["Hunter x Hunter", "Tokyo Ghoul", "various animes"]
 source_url: "https://aesthetics.fandom.com/wiki/Nyashka"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 31
 ---
 
 # Nyashka
@@ -60,40 +59,6 @@ Responses to this criticism were varied. On a YouTube comment section, Asian com
 
 ## References
 
-## Images
-
-- `images/nyashka/Nyashka.jpg`
-- `images/nyashka/Nyashka0.jpg`
-- `images/nyashka/Nyashka1.jpg`
-- `images/nyashka/Nyashka2.jpg`
-- `images/nyashka/Nyashka3.jpg`
-- `images/nyashka/Nyashka4.jpg`
-- `images/nyashka/Nyashka5.jpg`
-- `images/nyashka/Nyashka6.jpg`
-- `images/nyashka/Nyashka7.jpg`
-- `images/nyashka/Nyashka8.jpg`
-- `images/nyashka/Nyashka9.jpg`
-- `images/nyashka/Nyashka10.jpg`
-- `images/nyashka/Nyashka11.jpg`
-- `images/nyashka/Nyashka12.jpg`
-- `images/nyashka/Nyashka13.jpg`
-- `images/nyashka/Nyashka14.jpg`
-- `images/nyashka/Nyashka15.jpg`
-- `images/nyashka/Nyashka16.jpg`
-- `images/nyashka/Nyashka17.jpg`
-- `images/nyashka/Nyashka18.jpg`
-- `images/nyashka/Nyashka19.jpg`
-- `images/nyashka/Nyashka20.jpg`
-- `images/nyashka/Nyashka21.jpg`
-- `images/nyashka/Nyashka22.jpg`
-- `images/nyashka/Nyashka23.jpg`
-- `images/nyashka/Nyashka24.jpg`
-- `images/nyashka/Nyashka25.jpg`
-- `images/nyashka/Nyashka26.jpg`
-- `images/nyashka/Nyaska27.jpg`
-- `images/nyashka/Nyaska28.jpg`
-- `images/nyashka/Nyaska29.jpg`
-
 ## Source and attribution
 
-Text adapted from "Nyashka" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nyashka), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nyashka" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nyashka), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

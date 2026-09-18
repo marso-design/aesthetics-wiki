@@ -11,7 +11,6 @@ related_aesthetics: ["Brazilian Carnival", "Fanfare", "Baroque", "Rococo", "Clow
 source_url: "https://aesthetics.fandom.com/wiki/Venetian_Carnival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Venetian Carnival
@@ -138,32 +137,6 @@ The colours of the Carnival are rich and deep, often incorporating jewel tones l
 
 ## References
 
-## Images
-
-- `images/venetian-carnival/Thumbnail-main.jpg`
-- `images/venetian-carnival/Venetian-gown.webp`
-- `images/venetian-carnival/E1274f4d842fa4eac112b40f7d382307.jpg`
-- `images/venetian-carnival/A55db866ce1ec17a177f64174d108b18.jpg`
-- `images/venetian-carnival/2ab8deaf9336f5bbfae18b1ccfb7455a.jpg`
-- `images/venetian-carnival/8ab7d7b2c11032b51cf625e4dbe74122.jpg`
-- `images/venetian-carnival/F24c3ec64964a4ad3e4e8b7bd2315702.jpg`
-- `images/venetian-carnival/A4c78611b38013905e4db9dc0dffb4bd.jpg`
-- `images/venetian-carnival/A17bdcd00c0f028ba62d8c5a05ae6cd5.jpg`
-- `images/venetian-carnival/7d450e394e7941e1133d6b208a973207.jpg`
-- `images/venetian-carnival/Fe98798df26ea9ec79e9c1b803600ac5.jpg`
-- `images/venetian-carnival/97991eff734867b4de74546443fa3767.jpg`
-- `images/venetian-carnival/B1ce51329561c4969f9ad46b21f77fd7.jpg`
-- `images/venetian-carnival/8d21fd405f7bf36604a1b8e6027b6ab8.jpg`
-- `images/venetian-carnival/2ddea30208d4fba3aa471416bd900edb.jpg`
-- `images/venetian-carnival/71b87b1d669a3e76493842ac3188a8d3.jpg`
-- `images/venetian-carnival/477fcf6e1aac1510930434cfa234b277.jpg`
-- `images/venetian-carnival/937c2be4acbb6936d726e1641e390ea1.jpg`
-- `images/venetian-carnival/Bauta.jpg`
-- `images/venetian-carnival/Gnaga.webp`
-- `images/venetian-carnival/2022-04-07-17-31-41-venetiaans-masker-commedia-dell-arte-neusmasker-pantalone.png`
-- `images/venetian-carnival/2022-04-07-17-01-11-vrolijk-venetiaans-masker-in-groen-licht-papier-nar-volledig-etsy-nederland.png`
-- `images/venetian-carnival/2022-04-07-17-05-52-originele-venetiaanse-maken-masker-met-de-hand-versierd-met-etsy-nederland.png`
-
 ## Source and attribution
 
-Text adapted from "Venetian Carnival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Venetian_Carnival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Venetian Carnival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Venetian_Carnival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

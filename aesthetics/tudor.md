@@ -11,7 +11,6 @@ related_aesthetics: ["Baroque", "Gothic Architecture", "Italian Renaissance", "J
 source_url: "https://aesthetics.fandom.com/wiki/Tudor"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Tudor
@@ -111,21 +110,6 @@ Ornate ornamentation was common, with dresses encrusted with pearls and adorned 
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/tudor/Elizabeth.jpg`
-- `images/tudor/Queen-Elizabeth-I.36ad223f.jpg`
-- `images/tudor/Anne-boleyn-in-the-tower-edouard-cibot.jpg`
-- `images/tudor/Building.jpg`
-- `images/tudor/Anne-Boleyn-Black-Book-of-the-Order-of-the-Garter.webp`
-- `images/tudor/Duchess-of-Richmond404514-550x667.jpg`
-- `images/tudor/008b2f4764febf8e7f80c00bf4f27dd3.jpg`
-- `images/tudor/230813-24.jpg`
-- `images/tudor/New-the-other-boleyn-girl-promo-shoot-anne-boleyn-32794409-1175-950.webp`
-- `images/tudor/The-tudors-20090114001413697.jpg`
-- `images/tudor/The-ambassadors-by-hans-holbein1.jpg`
-- `images/tudor/Pic1981.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tudor" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tudor), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tudor" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tudor), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

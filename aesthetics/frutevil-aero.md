@@ -11,7 +11,6 @@ primary_platform: ["Reddit", "r/FrutevilAero"]
 source_url: "https://aesthetics.fandom.com/wiki/Frutevil_Aero"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Frutevil Aero
@@ -118,32 +117,6 @@ r/FrutevilAero: <https://www.reddit.com/r/FrutevilAero/>
 
 David Dees Archive (WARNING, SOME OF THE IMAGES CONTAIN VIOLENT, POLITICAL AND OR OFFENSIVE CONTENT): <https://archive.org/details/david-dees-archive>
 
-## Images
-
-- `images/frutevil-aero/Frutevilog1.webp`
-- `images/frutevil-aero/Frutevilog2.webp`
-- `images/frutevil-aero/Frutevilog3.webp`
-- `images/frutevil-aero/Frutevilog4.webp`
-- `images/frutevil-aero/1567356188-142089-pipes-2.jpg`
-- `images/frutevil-aero/1567356178-384492-fightorflight.jpg`
-- `images/frutevil-aero/Second-post-lets-gooo.webp`
-- `images/frutevil-aero/Second-post-lets-gooo1.webp`
-- `images/frutevil-aero/Some-frutevil-images-i-found-v0-0jqktsdeti0d1.webp`
-- `images/frutevil-aero/Some-frutevil-images-i-found-v0-8h3r3rdeti0d1.webp`
-- `images/frutevil-aero/Some-frutevil-images-i-found-v0-0sw7ardeti0d1.webp`
-- `images/frutevil-aero/Some-frutevil-images-i-found-v0-x7zdhxdeti0d1.webp`
-- `images/frutevil-aero/Some-frutevil-images-i-found-v0-ckejl0eeti0d1.webp`
-- `images/frutevil-aero/Found-these-very-evil-image-v0-xtmufo78yond1.webp`
-- `images/frutevil-aero/Art-edit-i-made-and-the-original-v0-t7pkqlauobpf1.webp`
-- `images/frutevil-aero/Frutiger-evil-halloween-inspired-frutiger-aero-designs-v0-5je4qmbih4xf1.webp`
-- `images/frutevil-aero/Frutiger-evil-halloween-inspired-frutiger-aero-designs-v0-9texvbbih4xf1.webp`
-- `images/frutevil-aero/Frutiger-evil-halloween-inspired-frutiger-aero-designs-v0-0o11zkbih4xf1.webp`
-- `images/frutevil-aero/Frutiger-evil-halloween-inspired-frutiger-aero-designs-v0-ba7glcbih4xf1.webp`
-- `images/frutevil-aero/Frutiger-evil-halloween-inspired-frutiger-aero-designs-v0-57f9zbbih4xf1.webp`
-- `images/frutevil-aero/N0ng3iklxl1g1.webp`
-- `images/frutevil-aero/Skg9z59qgrig1.webp`
-- `images/frutevil-aero/Vr6nfmdsjo5h1.png`
-
 ## Source and attribution
 
-Text adapted from "Frutevil Aero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Frutevil_Aero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Frutevil Aero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Frutevil_Aero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

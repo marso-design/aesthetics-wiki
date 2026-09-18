@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Bubblegum_Bling"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Bubblegum Bling
@@ -71,14 +70,6 @@ Argentine singer Emilia Mernes
 
 ## References
 
-## Images
-
-- `images/bubblegum-bling/Red-pink-and-light-pink-hearts-lovecore-aesthetic.jpg`
-- `images/bubblegum-bling/Fashion-Trend.jpg`
-- `images/bubblegum-bling/Donatachi.PNG`
-- `images/bubblegum-bling/EmiliaMernes.png`
-- `images/bubblegum-bling/Not4free.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bubblegum Bling" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubblegum_Bling), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bubblegum Bling" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubblegum_Bling), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

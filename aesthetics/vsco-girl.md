@@ -10,7 +10,6 @@ related_aesthetics: ["2010s Summer Nostalgia", "Art Hoe", "Basic Girl", "E-Girl"
 source_url: "https://aesthetics.fandom.com/wiki/VSCO_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # VSCO Girl
@@ -89,32 +88,6 @@ Examples include:
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/vsco-girl/VSCOGirlInfobox.jpg`
-- `images/vsco-girl/4b950d5ce6da97ae27133918398511f7.jpg`
-- `images/vsco-girl/4bab6ef0c655623dfd06e115bf1b834d.jpg`
-- `images/vsco-girl/7d52f3732d1157bd7a31e2c02653703a.jpg`
-- `images/vsco-girl/C364ae4c7594d888cf5934ef90a9254f.jpg`
-- `images/vsco-girl/219a012bae2fee9efe7b1d9c45f40e35.jpg`
-- `images/vsco-girl/Bf7a8873d37cc4df4ebbac747213cfcf.jpg`
-- `images/vsco-girl/Ee0451cd341212974d61a39a9f8d9d5e.jpg`
-- `images/vsco-girl/Df74d499e67f5e3ec7b756e082fc421c.jpg`
-- `images/vsco-girl/3c1387eafaabd32e4d71b9e70b7318ae.jpg`
-- `images/vsco-girl/9b2d38705a125ad3559807bc78a3bc96.jpg`
-- `images/vsco-girl/08ec0f05aaace2a6f4cea919a396cfc0.jpg`
-- `images/vsco-girl/F40d6da94471a24c70397024802ec919.jpg`
-- `images/vsco-girl/Ae2535d72e280c0367314461abc6ed80.jpg`
-- `images/vsco-girl/811a79e38ea4d8ed6fffbf44df53a35d.jpg`
-- `images/vsco-girl/5587e0d8fc6f25a5b53012af76999185.jpg`
-- `images/vsco-girl/4781d8bdab6791df5c08e4a7a829e149.jpg`
-- `images/vsco-girl/5f89127f203de6c95716a6d1169a4eec.jpg`
-- `images/vsco-girl/Ac4c1546ba280249240f4244d5f90027.jpg`
-- `images/vsco-girl/63b43a8d052d67d0a28af155170f5c05.jpg`
-- `images/vsco-girl/4d3b1493e76022b1b987908d7b1a8857.jpg`
-- `images/vsco-girl/98217b9fd78d307121fbc984e30ba07e.png`
-- `images/vsco-girl/Df0a15c11efcecef4e7daeea303d0ecf.jpg`
-
 ## Source and attribution
 
-Text adapted from "VSCO Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/VSCO_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "VSCO Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/VSCO_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

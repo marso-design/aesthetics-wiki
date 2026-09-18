@@ -11,7 +11,6 @@ primary_platform: ["Cereal box packaging", "television advertising", "fast food 
 source_url: "https://aesthetics.fandom.com/wiki/Food_Mascot_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Food Mascot Kitsch
@@ -50,4 +49,4 @@ The aesthetic's logic centers on suppressing any negative reality about the prod
 
 ## Source and attribution
 
-Text adapted from "Food Mascot Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Food_Mascot_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Food Mascot Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Food_Mascot_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

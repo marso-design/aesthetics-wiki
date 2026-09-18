@@ -8,7 +8,6 @@ related_aesthetics: ["Candycore"]
 source_url: "https://aesthetics.fandom.com/wiki/Candyland"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Candyland
@@ -74,4 +73,4 @@ California Girls by Katy Perry
 
 ## Source and attribution
 
-Text adapted from "Candyland" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Candyland), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Candyland" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Candyland), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

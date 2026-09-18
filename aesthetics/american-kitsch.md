@@ -8,7 +8,6 @@ palette: ["#3B3436", "#7A7C61", "#A8AC87", "#994530", "#B8794D", "#DEE0C1"]
 source_url: "https://aesthetics.fandom.com/wiki/American_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # American Kitsch
@@ -51,11 +50,6 @@ McCarthyist magazine covers
 
 Album cover for *Thanksgiving's Eve* by Yung Gravy
 
-## Images
-
-- `images/american-kitsch/Boltaflex.jpg`
-- `images/american-kitsch/AmericanLegion-covers.jpg`
-
 ## Source and attribution
 
-Text adapted from "American Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/American_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "American Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/American_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

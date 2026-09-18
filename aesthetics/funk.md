@@ -12,7 +12,6 @@ related_media: ["Shaft", "Super Fly", "Car Wash"]
 source_url: "https://aesthetics.fandom.com/wiki/Funk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Funk
@@ -223,26 +222,6 @@ Vocals in Funk adopt styles from blues, gospel, jazz, and doo-wop, often featuri
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/funk/ParliamentFunkadelic.jpg`
-- `images/funk/24b25690cb39ad20c92a562767173c05.jpg`
-- `images/funk/A3171326cedc621fcb84936979c3c574.jpg`
-- `images/funk/761185a32a648514cb864034e929ec8f.jpg`
-- `images/funk/9b4be55e75fabf9fbabe8efb403d3735.jpg`
-- `images/funk/3f2f4c0c61fdb469702a92d48ccdba1c.jpg`
-- `images/funk/5039bd65559e90fc0affafffc2faebbe.jpg`
-- `images/funk/B9352ab6f0aa9b6f363c4bf389edfb08.jpg`
-- `images/funk/A37fd4c485acc65c2e267ea2ff301ca1.jpg`
-- `images/funk/7a10742efe3e7b81cdefe451c8d33ea3.jpg`
-- `images/funk/0497ef702bb52f51ca0b917462c8d7b0.jpg`
-- `images/funk/A2fde49f35a871e1018d52dbe7dba474.jpg`
-- `images/funk/43830b9a42d3de1b399df3385feba696.jpg`
-- `images/funk/Aa5d69266ad5f0f0441e0699fedb10ad.jpg`
-- `images/funk/2206d2c39de50f9bcce78b418c16613e.jpg`
-- `images/funk/Fd5c7ecaff4816f4355cbd68fc9523a7.jpg`
-- `images/funk/Bce2d456039a8665370bd113a9c15bfd.jpg`
-
 ## Source and attribution
 
-Text adapted from "Funk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Funk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Funk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Funk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

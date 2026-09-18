@@ -9,7 +9,6 @@ related_aesthetics: ["Soft Colonial Wanderlust"]
 source_url: "https://aesthetics.fandom.com/wiki/Gay_Nineties_Revival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Gay Nineties Revival
@@ -33,10 +32,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 ## Gallery
 
-## Images
-
-- `images/gay-nineties-revival/Riverplace.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gay Nineties Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gay_Nineties_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gay Nineties Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gay_Nineties_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

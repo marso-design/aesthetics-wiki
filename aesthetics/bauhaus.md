@@ -10,7 +10,6 @@ related_aesthetics: ["Arts and Crafts", "Constructivism", "De Stijl", "Internati
 source_url: "https://aesthetics.fandom.com/wiki/Bauhaus"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Bauhaus
@@ -83,4 +82,4 @@ Tea set, designed by Wilhelm Wagenfeld and produced by Janaer Glaswerke Schott &
 
 ## Source and attribution
 
-Text adapted from "Bauhaus" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bauhaus), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bauhaus" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bauhaus), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

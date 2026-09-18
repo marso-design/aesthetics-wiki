@@ -11,7 +11,6 @@ primary_platform: ["Tumblr", "YouTube", "DeviantArt"]
 source_url: "https://aesthetics.fandom.com/wiki/Internet_Awesomesauce"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Internet Awesomesauce
@@ -163,27 +162,6 @@ Fried Dynamite promo Cartoon Network
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/internet-awesomesauce/Ninjakitty.png`
-- `images/internet-awesomesauce/Awesomesauce3.png`
-- `images/internet-awesomesauce/Awesomesauce9.gif`
-- `images/internet-awesomesauce/Awesomesauce.jpg`
-- `images/internet-awesomesauce/Awesomesauce8.jpg`
-- `images/internet-awesomesauce/Awesomesauce6.png`
-- `images/internet-awesomesauce/Awesomesauce5.png`
-- `images/internet-awesomesauce/Awesomesaucee4.jpg`
-- `images/internet-awesomesauce/Awesomesaucee2.png`
-- `images/internet-awesomesauce/Awesomesaucee3.jpg`
-- `images/internet-awesomesauce/Awesomesaucee.png`
-- `images/internet-awesomesauce/Awesomesauce4.png`
-- `images/internet-awesomesauce/Epicface.jpg`
-- `images/internet-awesomesauce/Tka.jpg`
-- `images/internet-awesomesauce/Shootingstars.png`
-- `images/internet-awesomesauce/Awesomesauce2.png`
-- `images/internet-awesomesauce/Obamo.png`
-- `images/internet-awesomesauce/The-internet-awesomesauce-era-2008-2016-v0-eylieixnqlgb1.webp`
-
 ## Source and attribution
 
-Text adapted from "Internet Awesomesauce" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Internet_Awesomesauce), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Internet Awesomesauce" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Internet_Awesomesauce), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

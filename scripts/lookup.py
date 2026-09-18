@@ -135,7 +135,7 @@ def main():
     if args.stats:
         print("aesthetics: %d" % len(rows))
         print("with colours: %d" % sum(1 for r in rows if r.get("key_colours")))
-        print("images: %d" % sum(r.get("image_count", 0) for r in rows))
+        print("with palettes: %d" % sum(1 for r in rows if r.get("palette")))
         return
     if args.list:
         for r in rows:

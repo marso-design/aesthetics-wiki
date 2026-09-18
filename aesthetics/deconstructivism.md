@@ -11,7 +11,6 @@ related_aesthetics: ["Brutalism", "Constructivism", "Postmodernism"]
 source_url: "https://aesthetics.fandom.com/wiki/Deconstructivism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Deconstructivism
@@ -113,14 +112,6 @@ Bernard Tschumi, Paul L. Cejas School of Architecture, Miami (2021)
 
 ## References
 
-## Images
-
-- `images/deconstructivism/GuggenheimMuseumBilbao.jpg`
-- `images/deconstructivism/JewishMuseumBerlin.jpg`
-- `images/deconstructivism/Bodenlos.jpg`
-- `images/deconstructivism/Capital-city-towers-moscow-indexxrus.jpg`
-- `images/deconstructivism/Dresden-Kristallpalast-nigh.jpg`
-
 ## Source and attribution
 
-Text adapted from "Deconstructivism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Deconstructivism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Deconstructivism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Deconstructivism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

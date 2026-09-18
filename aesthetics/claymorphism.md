@@ -10,7 +10,6 @@ related_aesthetics: ["Corporate Memphis", "Glassmorphism", "Neumorphism", "Minim
 source_url: "https://aesthetics.fandom.com/wiki/Claymorphism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Claymorphism
@@ -78,19 +77,6 @@ Rede Globo Logo (2021-present)
 
 ## References
 
-## Images
-
-- `images/claymorphism/Claymorphism.jpg`
-- `images/claymorphism/Neumorphism-to-claymorphism-mobile-app-ui.png`
-- `images/claymorphism/Claymorphism-Web-Design-Trend-for-2022-BlackHOST.webp`
-- `images/claymorphism/Claymorphism-in-web-design.png`
-- `images/claymorphism/5ea14941-b461-47af-a6e3-7d9fe43b609d.png`
-- `images/claymorphism/Reddit-recap-2023-sample.webp`
-- `images/claymorphism/FdLuEmjxwUkd3bhvgYDokY.jpg`
-- `images/claymorphism/1920x1080-Copilot-Blog-Image-1536x864-1.jpg`
-- `images/claymorphism/02YKgPeyK8ieiowhwiVtRa8-3.webp`
-- `images/claymorphism/Bafkreigdqcikm3d7ipdgp2ssgylnzwv76gyp6ogrndopl2dfzl5iryp2x4.jpg`
-
 ## Source and attribution
 
-Text adapted from "Claymorphism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Claymorphism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Claymorphism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Claymorphism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

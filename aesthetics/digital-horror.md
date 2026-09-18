@@ -11,7 +11,6 @@ palette: ["#000000", "#303246", "#544240", "#700CAA", "#4E5359", "#020258"]
 source_url: "https://aesthetics.fandom.com/wiki/Digital_Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 25
 ---
 
 # Digital Horror
@@ -195,34 +194,6 @@ Sonic123 distorting its own body, created by Phantasm/moaimanlmao and now owned 
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/digital-horror/Gunslingerpro2009.jpg`
-- `images/digital-horror/-oldMMDsReuploads.png`
-- `images/digital-horror/Digitlaworldcorp.png`
-- `images/digital-horror/CORPO.png`
-- `images/digital-horror/Urbanspook.jpg`
-- `images/digital-horror/Laceywardrobe1.jpg`
-- `images/digital-horror/Jumpypop1.jpg`
-- `images/digital-horror/TeenyToysExploration.jpg`
-- `images/digital-horror/YOU'VEWAITED.png`
-- `images/digital-horror/Skatingreaser.png`
-- `images/digital-horror/Ouijaboardmonster.png`
-- `images/digital-horror/TosmoreSpirits.png`
-- `images/digital-horror/LaceyKitchen.png`
-- `images/digital-horror/Irippedme.png`
-- `images/digital-horror/ICantSleep.jpeg`
-- `images/digital-horror/Goodbye.png`
-- `images/digital-horror/SCP-096.webp`
-- `images/digital-horror/ExeImage.jpg`
-- `images/digital-horror/Minion.jpg`
-- `images/digital-horror/Rabbits.png`
-- `images/digital-horror/ZalgoImage.jpg`
-- `images/digital-horror/NoedolekciN.png`
-- `images/digital-horror/Suicidemouse1.jpg`
-- `images/digital-horror/Zalgo777.png`
-- `images/digital-horror/123.jpg`
-
 ## Source and attribution
 
-Text adapted from "Digital Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Digital_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Digital Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Digital_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

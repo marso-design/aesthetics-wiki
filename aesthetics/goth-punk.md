@@ -9,7 +9,6 @@ related_aesthetics: ["Animecore", "Emo", "Glitter Graphics", "Goth", "PEEPS", "P
 source_url: "https://aesthetics.fandom.com/wiki/Goth_Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Goth Punk
@@ -100,20 +99,6 @@ Gothpunk outfit in a MA (Maxicimam) advertisement
 * [Gothic Rock - Wikipedia, the free encyclopedia](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AD%E3%83%83%E3%82%AF#%E6%97%A5%E6%9C%AC) (Japanese)
 * <https://gatamagazine.com/articles/fashion/evolutionofjapanensegoth>
 
-## Images
-
-- `images/goth-punk/Gothpunk3.jpg`
-- `images/goth-punk/IRREGULAR.png`
-- `images/goth-punk/Gothpunk6.jpg.jpg`
-- `images/goth-punk/Gothpunk4.jpg`
-- `images/goth-punk/Gothpunk5.jpg`
-- `images/goth-punk/04eb731ee97f4cf0235e52cd31f772e8.jpg`
-- `images/goth-punk/Ff00c0a7b17db138da4b5c5a86a298c9.jpg`
-- `images/goth-punk/8e36abd56790329ce5ff4951d4fee56b.jpg`
-- `images/goth-punk/90ca8efb983e2d6c8bd3cc5dab7fc9ca.jpg`
-- `images/goth-punk/Gothpunk2.jpg`
-- `images/goth-punk/Gothpunk1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Goth Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Goth_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Goth Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Goth_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

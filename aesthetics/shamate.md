@@ -7,7 +7,6 @@ palette: ["#26242C", "#B1A299", "#525865", "#090637", "#707784", "#C3846F"]
 source_url: "https://aesthetics.fandom.com/wiki/Shamate"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Shamate
@@ -70,13 +69,6 @@ If your hair was too outrageous in terms of color and style, many Chinese factor
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/shamate/001Qvmowty6DEayD7jgee&690.jpeg.octet-stream.jpg`
-- `images/shamate/Images.jpeg-1.octet-stream.jpg`
-- `images/shamate/Sha-ma-te-image.png`
-- `images/shamate/Pokemones.jpg`
-
 ## Source and attribution
 
-Text adapted from "Shamate" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shamate), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Shamate" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shamate), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

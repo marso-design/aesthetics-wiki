@@ -11,7 +11,6 @@ related_media: ["Dracula", "the works of H.P. Lovecraft and Edgar Allan Poe", "T
 source_url: "https://aesthetics.fandom.com/wiki/Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Horror
@@ -199,21 +198,6 @@ Poster of the movie *Beetlejuice*
 
 * [Uncanny Valley in Horror](https://aesthetics.fandom.com/wiki/Uncanny_Valley#Uncanny_Valley_in_Horror "Uncanny Valley")
 
-## Images
-
-- `images/horror/Horror.jpg`
-- `images/horror/3aec09e360a9a084a9178d37f6bcb438.jpg`
-- `images/horror/Avatars-000318226141-5xge51-t500x500.jpg`
-- `images/horror/FNAF.jpeg`
-- `images/horror/Ab5cfe02697b61a196f4afc7dceb6640.jpg`
-- `images/horror/Chuck-e-Cheese-chef.jpg`
-- `images/horror/Dr.mystery-bogos-BINTED-screenshot.jpg`
-- `images/horror/Thesshop.horror.jpg`
-- `images/horror/Slender.family.jpg`
-- `images/horror/Thesurvivingpedestrian.horrorcore.jpg`
-- `images/horror/LMDS.jpg`
-- `images/horror/Beetlejuice.jpg`
-
 ## Source and attribution
 
-Text adapted from "Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

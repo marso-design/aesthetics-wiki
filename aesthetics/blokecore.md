@@ -12,7 +12,6 @@ related_media: ["British football YouTube channels", "British music (e.g., The J
 source_url: "https://aesthetics.fandom.com/wiki/Blokecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Blokecore
@@ -57,21 +56,6 @@ The aesthetic aims to give a sense of passion for the football club, identity, s
 | --- | --- | --- |
 | [Aliyahcore](https://aesthetics.fandom.com/wiki/Aliyahcore "Aliyahcore") • [Avant Basic](https://aesthetics.fandom.com/wiki/Avant_Basic "Avant Basic") • [Barbiecore](https://aesthetics.fandom.com/wiki/Barbiecore "Barbiecore") • **Blokecore** • [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") • [Blueberry Girl](https://aesthetics.fandom.com/wiki/Blueberry_Girl "Blueberry Girl") • [Brat Summer](https://aesthetics.fandom.com/wiki/Brat_Summer "Brat Summer") • [Brazilian Bombshell](https://aesthetics.fandom.com/wiki/Brazilian_Bombshell "Brazilian Bombshell") • [Brazilcore](https://aesthetics.fandom.com/wiki/Brazilcore "Brazilcore") • [Cacareco Girl](https://aesthetics.fandom.com/wiki/Cacareco_Girl "Cacareco Girl") • [Cayetana](https://aesthetics.fandom.com/wiki/Cayetana "Cayetana") • [Cinnamon Girl](https://aesthetics.fandom.com/wiki/Cinnamon_Girl "Cinnamon Girl") • [Christian Girl Autumn](https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn "Christian Girl Autumn") • [Clean Girl](https://aesthetics.fandom.com/wiki/Clean_Girl "Clean Girl") • [Coastal Cowgirl](https://aesthetics.fandom.com/wiki/Coastal_Cowgirl "Coastal Cowgirl") • [Coastal Grandmother](https://aesthetics.fandom.com/wiki/Coastal_Grandmother "Coastal Grandmother") • [Dopamine Dressing](https://aesthetics.fandom.com/wiki/Dopamine_Dressing "Dopamine Dressing") • [Earthy Black Girl](https://aesthetics.fandom.com/wiki/Earthy_Black_Girl "Earthy Black Girl") • [Eclectic Grandpa](https://aesthetics.fandom.com/wiki/Eclectic_Grandpa "Eclectic Grandpa") • [Female Horror Game Protagonist Fashion](https://aesthetics.fandom.com/wiki/Female_Horror_Game_Protagonist_Fashion "Female Horror Game Protagonist Fashion") • [Frazzled English Woman](https://aesthetics.fandom.com/wiki/Frazzled_English_Woman "Frazzled English Woman") • [Girl Suffix](https://aesthetics.fandom.com/wiki/Category:Girl "Category:Girl") • [Granola Girl](https://aesthetics.fandom.com/wiki/Granola_Girl "Granola Girl") • [Grocery Girl Fall](https://aesthetics.fandom.com/wiki/Grocery_Girl_Fall "Grocery Girl Fall") • [Lulicore](https://aesthetics.fandom.com/wiki/Lulicore "Lulicore") • [Maillard Style](https://aesthetics.fandom.com/wiki/Maillard_Style "Maillard Style") • [Mermaidcore](https://aesthetics.fandom.com/wiki/Mermaidcore "Mermaidcore") • [Mob Wife](https://aesthetics.fandom.com/wiki/Mob_Wife "Mob Wife") • [Office Siren](https://aesthetics.fandom.com/wiki/Office_Siren "Office Siren") • [Peach Girl](https://aesthetics.fandom.com/wiki/Peach_Girl "Peach Girl") • [Pearlcore](https://aesthetics.fandom.com/wiki/Pearlcore "Pearlcore") • [Plazacore](https://aesthetics.fandom.com/wiki/Plazacore "Plazacore") • [Sad Beige](https://aesthetics.fandom.com/wiki/Sad_Beige "Sad Beige") • [Scandi Girl Winter](https://aesthetics.fandom.com/wiki/Scandi_Girl_Winter "Scandi Girl Winter") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Strawberry Girl](https://aesthetics.fandom.com/wiki/Strawberry_Girl "Strawberry Girl") • [Succubus Chic](https://aesthetics.fandom.com/wiki/Succubus_Chic "Succubus Chic") • [Tenniscore](https://aesthetics.fandom.com/wiki/Tenniscore "Tenniscore") • [That Girl](https://aesthetics.fandom.com/wiki/That_Girl "That Girl") • [Tomato Girl](https://aesthetics.fandom.com/wiki/Tomato_Girl "Tomato Girl") • [Tumbette](https://aesthetics.fandom.com/wiki/Tumbette "Tumbette") • [Vanilla Girl](https://aesthetics.fandom.com/wiki/Vanilla_Girl "Vanilla Girl") |
 
-## Images
-
-- `images/blokecore/Livre-bloke-m.jpg`
-- `images/blokecore/1652103567474-blokecore-lead-image.png`
-- `images/blokecore/Unnamedlads.jpg`
-- `images/blokecore/Untitledlad.jpg`
-- `images/blokecore/7689c15523e5aa9e7f9ae6da840a616e.jpg`
-- `images/blokecore/Ladimage.webp`
-- `images/blokecore/FRNJ0LCXEAI8LGB.jpg`
-- `images/blokecore/FRNJ0LCXEAMF9iT.jpg`
-- `images/blokecore/FRNJ0LCXMAIgt1q.jpg`
-- `images/blokecore/80e.png`
-- `images/blokecore/510.png`
-- `images/blokecore/46a.png`
-
 ## Source and attribution
 
-Text adapted from "Blokecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blokecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Blokecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blokecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

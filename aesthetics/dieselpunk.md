@@ -11,7 +11,6 @@ related_media: ["The Man in the High Castle", "Sky Captain and the World of Tomo
 source_url: "https://aesthetics.fandom.com/wiki/Dieselpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Dieselpunk
@@ -226,28 +225,6 @@ Midgar from Final Fantasy VII
 
 ## References
 
-## Images
-
-- `images/dieselpunk/DieselpunkArt.jpg`
-- `images/dieselpunk/Jakub-rozalski-warsaw-rising44-jr.jpg`
-- `images/dieselpunk/Dieselpunk-airship1.webp`
-- `images/dieselpunk/Prr-s1-locomotive-raymond-loewy.jpg`
-- `images/dieselpunk/72006e37cf0add24d29d768b09e8bc1b.jpg`
-- `images/dieselpunk/Smoke.webp`
-- `images/dieselpunk/C716112b499096f55187c984e54b98ee.jpg`
-- `images/dieselpunk/Diesel5.jpg`
-- `images/dieselpunk/Worldwar1dieselpunk.jpg`
-- `images/dieselpunk/Dieselpunk-wars-pc-jeu-steam-wallpaper-2.jpg`
-- `images/dieselpunk/Biped-Mech.jpg`
-- `images/dieselpunk/Pterois.jpg`
-- `images/dieselpunk/A6b6a0a5e17b508d2da0a9bf5740edb8.jpg`
-- `images/dieselpunk/Bad260ed5d608455c752508f94c5c582fd56a415.jpeg`
-- `images/dieselpunk/Tianyi-liu-chara-design-4-engineer-front-2.jpg`
-- `images/dieselpunk/Arrival-in-utopia-by-lipatov.jpg`
-- `images/dieselpunk/Axme6gccgsqiwhwfynvb.jpg`
-- `images/dieselpunk/Rafael-comino-matas-dieselpunk-final.jpg`
-- `images/dieselpunk/FFVIImidgar.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dieselpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dieselpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dieselpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dieselpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

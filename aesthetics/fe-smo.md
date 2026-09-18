@@ -11,7 +11,6 @@ related_aesthetics: ["Brutalism", "Doomer (some social media interpretations)", 
 source_url: "https://aesthetics.fandom.com/wiki/Feísmo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Feísmo
@@ -78,15 +77,6 @@ Hórreo in Cuntis
 
 ## References
 
-## Images
-
-- `images/fe-smo/Lugo-ronda-da-Muralla-820x1024.jpg`
-- `images/fe-smo/Feismo.jpg`
-- `images/fe-smo/Maceda.jpg`
-- `images/fe-smo/Barriocastrillon3.jpg`
-- `images/fe-smo/Cuntis-Hórreo.jpg`
-- `images/fe-smo/Entrimo.jpg`
-
 ## Source and attribution
 
-Text adapted from "Feísmo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Feísmo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Feísmo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Feísmo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

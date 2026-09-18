@@ -7,7 +7,6 @@ palette: ["#342B24", "#1E1815", "#D6D2CF", "#C7B6A7", "#615244", "#F6F5F7"]
 source_url: "https://aesthetics.fandom.com/wiki/Ouji"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Ouji
@@ -128,17 +127,6 @@ Ouji vs Dandy outfit made from the same release
 
 ## References
 
-## Images
-
-- `images/ouji/PrincessChroniclesSMNSet.jpg`
-- `images/ouji/RyutaroPT.jpg`
-- `images/ouji/RabbitDukeOujiCoord.jpg`
-- `images/ouji/G&LBv58p16.jpg`
-- `images/ouji/PrincessChronicles3.jpg`
-- `images/ouji/BatWingshorts.png`
-- `images/ouji/SweetOuji.jpg`
-- `images/ouji/MyPrincessOujiSet.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ouji" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ouji), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ouji" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ouji), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

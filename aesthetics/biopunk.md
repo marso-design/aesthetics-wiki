@@ -8,7 +8,6 @@ palette: ["#242827", "#08090E", "#234361", "#4D473A", "#936441", "#814A30"]
 source_url: "https://aesthetics.fandom.com/wiki/Biopunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Biopunk
@@ -202,16 +201,6 @@ Dream Diorama used for SCP-610 before the newer illustrations
 
 Anatomy Lesson
 
-## Images
-
-- `images/biopunk/Biopunk.jpg`
-- `images/biopunk/Scorn.png`
-- `images/biopunk/Necrophosis.jpg`
-- `images/biopunk/Amnesiabiopunk.jpg`
-- `images/biopunk/SomaBiopunk.png`
-- `images/biopunk/VNC.jpg`
-- `images/biopunk/Ms2mis4b.png`
-
 ## Source and attribution
 
-Text adapted from "Biopunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Biopunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Biopunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Biopunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

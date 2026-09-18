@@ -12,7 +12,6 @@ related_media: ["The Three-Body Problem"]
 source_url: "https://aesthetics.fandom.com/wiki/Sinofuturism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Sinofuturism
@@ -85,25 +84,6 @@ Photo by [Di Weng](https://unsplash.com/@skies457) on Unsplash
 
 ## References
 
-## Images
-
-- `images/sinofuturism/Sinofuturism-Chongqing.jpg`
-- `images/sinofuturism/Sinofuturism-Endfield.png`
-- `images/sinofuturism/Sinofuturism-Shanghai.jpg`
-- `images/sinofuturism/Sinofuturism-CaoFei.jpg`
-- `images/sinofuturism/Sinofuturism-QiuAnxiong.png`
-- `images/sinofuturism/Sinofuturism-WanJinven.jpg`
-- `images/sinofuturism/Sinofuturism-FanWennan.jpg`
-- `images/sinofuturism/Sinofuturism-FanWennan2.jpg`
-- `images/sinofuturism/Sinofuturism-SpaceDay2026.jpg`
-- `images/sinofuturism/Sinofuturism-WanderingEarth.jpg`
-- `images/sinofuturism/Sinofuturism-Shanghai2.jpeg`
-- `images/sinofuturism/Sinofuturism-6.jpeg`
-- `images/sinofuturism/Sinofuturism-8.jpeg`
-- `images/sinofuturism/Sinofuturism-9.jpeg`
-- `images/sinofuturism/Sinofuturism-IZhang.jpeg`
-- `images/sinofuturism/Sinofuturism-DiWeng.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Sinofuturism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sinofuturism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sinofuturism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sinofuturism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

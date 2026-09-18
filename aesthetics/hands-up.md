@@ -12,7 +12,6 @@ primary_platform: ["YouTube", "Facebook", "Technobase.fm"]
 source_url: "https://aesthetics.fandom.com/wiki/Hands_Up"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 28
 ---
 
 # Hands Up
@@ -257,37 +256,6 @@ Simultaneously, the frequent inclusion of the word "Bass" in artist monikers (e.
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● **Hands Up** ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/hands-up/Handsupgeneric.jpg`
-- `images/hands-up/Electrobglow.jpg`
-- `images/hands-up/Unnamed(2).jpg`
-- `images/hands-up/QOCPKy.jpg`
-- `images/hands-up/Maxresdefault-1606506487.webp`
-- `images/hands-up/Unnamed(1).jpg`
-- `images/hands-up/Ab67616d0000b273eeba8a3c92a627984c714711.jpg`
-- `images/hands-up/CS1227106-02A-BIG.jpg`
-- `images/hands-up/Unnamed(3).png`
-- `images/hands-up/Unnamed(1).png`
-- `images/hands-up/Thumb-1920-72366.jpg`
-- `images/hands-up/Unnamed.png`
-- `images/hands-up/Trickydisco4444.png`
-- `images/hands-up/Electroglow8.jpg`
-- `images/hands-up/Electroglow5.jpg`
-- `images/hands-up/Jenejwuwe.jpg`
-- `images/hands-up/Electorglow555.jpg`
-- `images/hands-up/Studiomix.jpg`
-- `images/hands-up/Handsup5.jpg`
-- `images/hands-up/Electro44.jpg`
-- `images/hands-up/Kykkuy.jpg`
-- `images/hands-up/Fofwjgfjfjf.jpg`
-- `images/hands-up/Hq7203.jpg`
-- `images/hands-up/Irhwjjrjrjwwjkf.jpg`
-- `images/hands-up/Gjgkgjgjgj.jpg`
-- `images/hands-up/Technobasewallpaper.jpg`
-- `images/hands-up/Handsupwallpaper.jpg`
-- `images/hands-up/Technobase.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hands Up" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hands_Up), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hands Up" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hands_Up), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

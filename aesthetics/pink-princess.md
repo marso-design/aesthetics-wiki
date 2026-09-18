@@ -11,7 +11,6 @@ related_aesthetics: ["Pink Parisian", "Princesscore", "Rococo", "Romantic Academ
 source_url: "https://aesthetics.fandom.com/wiki/Pink_Princess"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Pink Princess
@@ -414,11 +413,6 @@ Preferably Pink Barbie
 * [Royal Princess Suite Bedroom MAKEOVER!](https://www.youtube.com/watch?v=hbDJqADkduI)
 * [This Video is a Sign to Have an Emma (2020) Inspired Picnic](https://www.youtube.com/watch?v=G3YW-xqXndI)
 
-## Images
-
-- `images/pink-princess/Pajamas.jpg`
-- `images/pink-princess/Quiff.jpg`
-
 ## Source and attribution
 
-Text adapted from "Pink Princess" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pink_Princess), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pink Princess" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pink_Princess), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

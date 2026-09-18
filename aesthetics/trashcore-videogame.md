@@ -10,7 +10,6 @@ primary_platform: ["Itch.io", "Steam", "Independent game-distributing sites"]
 source_url: "https://aesthetics.fandom.com/wiki/Trashcore_(videogame)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Trashcore (videogame)
@@ -92,22 +91,6 @@ A screenshot of "AI Stories: Machine Angel" by Emir Akyazi.
 
 ## References
 
-## Images
-
-- `images/trashcore-videogame/Trashcore-magicunfolding2.png`
-- `images/trashcore-videogame/Trashcore-spacefuneral.png`
-- `images/trashcore-videogame/Trashcore-magicunfolding.png`
-- `images/trashcore-videogame/Trashcore-sunfish.jpeg`
-- `images/trashcore-videogame/Trashcore-crueltysquad.jpg`
-- `images/trashcore-videogame/Trashcore-RottingTogether.png`
-- `images/trashcore-videogame/Trashcore-spasibo.png`
-- `images/trashcore-videogame/Trashcore-baddingtonpear.png`
-- `images/trashcore-videogame/Trashcore-magicsquathouse.png`
-- `images/trashcore-videogame/Trashcore-wyxyw.png`
-- `images/trashcore-videogame/Trashcore-bwif.png`
-- `images/trashcore-videogame/Trashcore-ticket.png`
-- `images/trashcore-videogame/Trashcore-Machineangel.png`
-
 ## Source and attribution
 
-Text adapted from "Trashcore (videogame)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trashcore_(videogame)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Trashcore (videogame)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trashcore_(videogame)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

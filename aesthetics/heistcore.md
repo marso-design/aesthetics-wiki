@@ -7,7 +7,6 @@ palette: ["#3C332E", "#251F1C", "#5A554D", "#776D62", "#C0BEBA", "#8E8E87"]
 source_url: "https://aesthetics.fandom.com/wiki/Heistcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Heistcore
@@ -262,10 +261,6 @@ Nicholas Cage creates a fake ID card in National Treasure using Photoshop
 * [List of Stolen Paintings on Wikipedia](https://en.wikipedia.org/wiki/List_of_stolen_paintings)
 * [Monuments Men Foundation](https://www.monumentsmenfoundation.org/)
 
-## Images
-
-- `images/heistcore/Cash.jpg`
-
 ## Source and attribution
 
-Text adapted from "Heistcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heistcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Heistcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heistcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

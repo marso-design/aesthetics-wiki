@@ -11,7 +11,6 @@ related_media: ["Backrooms"]
 source_url: "https://aesthetics.fandom.com/wiki/Poolcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Poolcore
@@ -74,22 +73,6 @@ One more of Jared Pike's dream pool 3d renders
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/poolcore/Poolcoreunderground.jpg`
-- `images/poolcore/JaredPike1.jpg`
-- `images/poolcore/JaredPike2.jpg`
-- `images/poolcore/JaredPike3.jpg`
-- `images/poolcore/Poolcorestairs.jpg`
-- `images/poolcore/Poolcoretilely.png`
-- `images/poolcore/Poolcoreunderground2.jpg`
-- `images/poolcore/Poolcorehole.jpg`
-- `images/poolcore/Poolcore.jpg`
-- `images/poolcore/Poolcore1.jpg`
-- `images/poolcore/Poolcore-with-fish.jpg`
-- `images/poolcore/Poolcore-with-dolphins.jpg`
-- `images/poolcore/Level37.5.png`
-
 ## Source and attribution
 
-Text adapted from "Poolcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Poolcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Poolcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Poolcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

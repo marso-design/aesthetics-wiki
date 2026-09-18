@@ -11,7 +11,6 @@ related_aesthetics: ["Coquette", "Baddie", "Boujee", "Bubblegum Bitch", "Cherry 
 source_url: "https://aesthetics.fandom.com/wiki/Femme_Fatale"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Femme Fatale
@@ -272,26 +271,6 @@ Music for this aesthetic is based on the personality traits of the femme fatale.
 
 ## References
 
-## Images
-
-- `images/femme-fatale/Black-widow-femme-fatale.jpg`
-- `images/femme-fatale/Noir.Film.FemmeFatale.jpg`
-- `images/femme-fatale/Femme-fatale-black-white-smoking-baddie.jpg`
-- `images/femme-fatale/FemmeFatale.jpg`
-- `images/femme-fatale/Femme-fatale-red-shades.jpg`
-- `images/femme-fatale/Mafia-woman.jpg`
-- `images/femme-fatale/Femme-fatale-red-boots-heels.jpg`
-- `images/femme-fatale/Red.png`
-- `images/femme-fatale/Belong-no-one-myself.jpg`
-- `images/femme-fatale/Painting-woman-martini-bar.jpg`
-- `images/femme-fatale/Boot-licker-femme.jpg`
-- `images/femme-fatale/Red-nails-cut.jpg`
-- `images/femme-fatale/Devil-is-woman-compact-mirror-red.jpg`
-- `images/femme-fatale/Book-ladies-kill-red.jpg`
-- `images/femme-fatale/Anelina-jolie-femme-leather.jpg`
-- `images/femme-fatale/Lingerie-knife-red.jpg`
-- `images/femme-fatale/Malena.png`
-
 ## Source and attribution
 
-Text adapted from "Femme Fatale" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Femme_Fatale), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Femme Fatale" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Femme_Fatale), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

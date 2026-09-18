@@ -11,7 +11,6 @@ related_aesthetics: ["Gyaru (female)", "Onii Kei", "Bosozoku"]
 source_url: "https://aesthetics.fandom.com/wiki/Gyaruo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Gyaruo
@@ -68,22 +67,6 @@ Print media was crucial for disseminating trends within the subculture. The most
 | --- | --- | --- |
 | [Agejo](https://aesthetics.fandom.com/wiki/Agejo "Agejo") ❀ [Amekaji](https://aesthetics.fandom.com/wiki/Amekaji "Amekaji") ❀ Ane Gyaru ❀ B-Gyaru ❀ [Ganguro](https://aesthetics.fandom.com/wiki/Ganguro "Ganguro") ❀ **Gyaruo** ❀ [Hime Gyaru](https://aesthetics.fandom.com/wiki/Hime_Gyaru "Hime Gyaru") ❀ [Himekaji](https://aesthetics.fandom.com/wiki/Himekaji "Himekaji") ❀ [Kogal](https://aesthetics.fandom.com/wiki/Kogal "Kogal") ❀ [Manba](https://aesthetics.fandom.com/wiki/Manba "Manba") ❀ Mode Gyaru ❀ [Neo Gyaru](https://aesthetics.fandom.com/wiki/Neo_Gyaru "Neo Gyaru") ❀ [Onee Gyaru](https://aesthetics.fandom.com/wiki/Onee_Gyaru "Onee Gyaru") ❀ Ora Ora Kei ❀ Rokku ❀ [Tsuyome Gyaru](https://aesthetics.fandom.com/wiki/Tsuyome_Gyaru "Tsuyome Gyaru") ❀ Yamanba |
 
-## Images
-
-- `images/gyaruo/A95bc7ffadf88e77be1b25a9197e9eaf.jpg`
-- `images/gyaruo/72096df11f275bc6c6394539c23195f9.jpg`
-- `images/gyaruo/A8a752c0cc348f9ffe9f659b54e420a4.jpg`
-- `images/gyaruo/96f7d80a177e642f632b2d8b2fa9e9be.jpg`
-- `images/gyaruo/A81ae041b787c80ec7970e8e74514382.jpg`
-- `images/gyaruo/2dc049e7ee1e718761f5ca52e1b7332d.jpg`
-- `images/gyaruo/Eabd6f1a2f3cf6951a00fd651d55ed65.jpg`
-- `images/gyaruo/49b4865e39736e126d713c1a63720f2d.jpg`
-- `images/gyaruo/2e388df8383e0e0e63b5ade017e91469.jpg`
-- `images/gyaruo/7a80032ae2df26f536057b797545524d.jpg`
-- `images/gyaruo/62ab358649171b0ed55b44c655aceb00.jpg`
-- `images/gyaruo/Bcb7d74c5e99968d0146e14b95ef3802.jpg`
-- `images/gyaruo/3e17ae8413b2cc1079f24749b0d5a0d8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gyaruo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gyaruo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gyaruo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gyaruo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ primary_platform: ["Magazines (e.g., Life, Collier's Weekly)"]
 source_url: "https://aesthetics.fandom.com/wiki/Gibson_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Gibson Girl
@@ -46,21 +45,6 @@ More than appareance, the Gibson Girl also represented a new social ideal. She w
 
 ## References
 
-## Images
-
-- `images/gibson-girl/1D562DD2-A1BC-49CD-9DAE-AFA1BA459878.jpg`
-- `images/gibson-girl/B1a55cd8f827e57c7f9bbf0607796cb6.jpg`
-- `images/gibson-girl/Camille-clifford-Gibson-Gilr.jpg`
-- `images/gibson-girl/649506ee1f1d33fa8c6aaf1e9a04fb81.jpg`
-- `images/gibson-girl/Real-Gibson-Girls-Edwardian-fashion7-Telephone-operator.jpg`
-- `images/gibson-girl/Gibson-girl-drawing-V-72-109-1024x729.jpg`
-- `images/gibson-girl/Real-Gibson-Girls-Edwardian-fashion4-Minnie-brown.jpg`
-- `images/gibson-girl/71TknUWnN6L.jpg`
-- `images/gibson-girl/B0ac567af50ebf9d0101c3a4655bde89.jpg`
-- `images/gibson-girl/Cc413b36010271ff5129587d2c4942b9.jpg`
-- `images/gibson-girl/Gibson-tea-drinker-detail.jpg`
-- `images/gibson-girl/Gibson-a-gibson-girl-granger.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gibson Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gibson_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gibson Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gibson_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

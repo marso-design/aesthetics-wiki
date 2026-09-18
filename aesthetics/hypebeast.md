@@ -11,7 +11,6 @@ palette: ["#18151C", "#514C4F", "#E8E7EC", "#C6C6CD", "#AEAAAF", "#8C8284"]
 source_url: "https://aesthetics.fandom.com/wiki/Hypebeast"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Hypebeast
@@ -66,10 +65,6 @@ The Hypebeast subculture has faced consistent criticism, much of it stemming fro
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/hypebeast/Hypebeasts.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Hypebeast" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hypebeast), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hypebeast" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hypebeast), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/TikTok_4chan_Art_Trend"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # TikTok 4chan Art Trend
@@ -121,14 +120,6 @@ Art by @onlinepetclub
 
 ## References
 
-## Images
-
-- `images/tiktok-4chan-art-trend/9075b713ddce6bc4cfe6f9efcf9103c5.jpg`
-- `images/tiktok-4chan-art-trend/4chancoreparody.jpg`
-- `images/tiktok-4chan-art-trend/1dbd3d6796ad1807b54b0e6cbaa7941b.jpg`
-- `images/tiktok-4chan-art-trend/23759d78cf136f8e04fc2dcb39f79666.jpg`
-- `images/tiktok-4chan-art-trend/8aa6af96d1afa9abef002de0b81b896c.jpg`
-
 ## Source and attribution
 
-Text adapted from "TikTok 4chan Art Trend" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/TikTok_4chan_Art_Trend), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "TikTok 4chan Art Trend" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/TikTok_4chan_Art_Trend), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

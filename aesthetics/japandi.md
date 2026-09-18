@@ -10,7 +10,6 @@ related_aesthetics: ["Hygge", "Maillard Style", "Minimalism", "Modernism", "Rust
 source_url: "https://aesthetics.fandom.com/wiki/Japandi"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Japandi
@@ -45,14 +44,6 @@ Decorative objects typically incorporate natural elements such as wood, bamboo, 
 
 ## References
 
-## Images
-
-- `images/japandi/JapandiRoom.jpg`
-- `images/japandi/04a5407d7465ee9ee5b035a36223699f.jpg`
-- `images/japandi/E7b6db50e3221cb4f5aa998285afe614.jpg`
-- `images/japandi/0fc53cef6c696d3ee324ea042ad284ce.jpg`
-- `images/japandi/Japandi-style-boucle-arm-chair-rounded-shapes-wooden-slatted-wall-farashome.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Japandi" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Japandi), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Japandi" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Japandi), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

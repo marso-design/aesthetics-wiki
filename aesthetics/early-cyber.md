@@ -10,7 +10,6 @@ related_media: ["The Mind's Eye (1990)"]
 source_url: "https://aesthetics.fandom.com/wiki/Early_Cyber"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Early Cyber
@@ -139,10 +138,6 @@ Reality Check - Show Open and Close
 * [Early Cyber | Are.na | CARI](https://www.are.na/consumer-aesthetics-research-institute/early-cyber-unng49dz3l4)
 * [Early Cyber | Are.na | Evan Collins](https://www.are.na/evan-collins-1522646491/early-cyber)
 
-## Images
-
-- `images/early-cyber/R-1078773-1288700427.jpg`
-
 ## Source and attribution
 
-Text adapted from "Early Cyber" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Early_Cyber), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Early Cyber" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Early_Cyber), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

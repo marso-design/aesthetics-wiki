@@ -10,7 +10,6 @@ related_aesthetics: ["Aliencore", "Cyberpop", "Decora", "Fairy Kei", "Spacecore"
 source_url: "https://aesthetics.fandom.com/wiki/Uchuu_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Uchuu Kei
@@ -67,26 +66,6 @@ Makeup can vary from simple to extremely vibrant. It frequently features unusual
 
 ## References
 
-## Images
-
-- `images/uchuu-kei/E2cb5b2cbeffc115c3f9cb2f6c25a6cf.jpg`
-- `images/uchuu-kei/Bfe36ca5440d993c4a833a1ab26a7d67.jpg`
-- `images/uchuu-kei/D0dbd81ffbf63e2c0e3499fb85d9ff3d.jpg`
-- `images/uchuu-kei/B843725724b8119b37d86385c736dcd3.jpg`
-- `images/uchuu-kei/87e89eb4023a8d36833be739e44d41bd.jpg`
-- `images/uchuu-kei/96f299802bb887fc762017a4b0f5c33d.jpg`
-- `images/uchuu-kei/Be80dec2dd3b7928299d636c939914f6.jpg`
-- `images/uchuu-kei/C3c72bd6f15d2162a573a325453992f9.jpg`
-- `images/uchuu-kei/9845f25c5338c949740f59955372c7d5.jpg`
-- `images/uchuu-kei/1438005251014.jpg`
-- `images/uchuu-kei/98948ae236fa19c4098bd733cee9bd23.jpg`
-- `images/uchuu-kei/7a28b34c01c0c3e9f8a4df9a9cf7a27f.jpg`
-- `images/uchuu-kei/32d1148e6394f0722fbef9023890434a.jpg`
-- `images/uchuu-kei/Abef6576ce80f6f1659e17aa3825c4fa.jpg`
-- `images/uchuu-kei/Ffa8a892b963907c58fa4a6fdc48814f.jpg`
-- `images/uchuu-kei/28c0585987868a19a74d6e75d3c3e4fa.jpg`
-- `images/uchuu-kei/870556021019834c6cf7dc07e58f83a0.jpg`
-
 ## Source and attribution
 
-Text adapted from "Uchuu Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Uchuu_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Uchuu Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Uchuu_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

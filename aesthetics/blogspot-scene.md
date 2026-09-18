@@ -10,7 +10,6 @@ related_aesthetics: ["Surrealism", "DIY Punk", "Dada", "Xpiritualism", "Draincor
 source_url: "https://aesthetics.fandom.com/wiki/Blogspot_Scene"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Blogspot Scene
@@ -67,14 +66,6 @@ Mr. Blue & Mid Century Chairs - Sex on LEGO Island (2025)
 
 Spirit Guide - Universal Consciousness (2025)
 
-## Images
-
-- `images/blogspot-scene/Ferraro123.jpg`
-- `images/blogspot-scene/FerraroAliens.jpg`
-- `images/blogspot-scene/JesterFerraro.png`
-- `images/blogspot-scene/R-4282563-1524336318-7015.jpg`
-- `images/blogspot-scene/SexonLegoisland.jpg`
-
 ## Source and attribution
 
-Text adapted from "Blogspot Scene" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blogspot_Scene), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Blogspot Scene" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blogspot_Scene), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

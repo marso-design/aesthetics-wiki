@@ -8,7 +8,6 @@ palette: ["#EADCC9", "#1E1D1C", "#AFA89B", "#37322C", "#8C7963", "#544C41"]
 source_url: "https://aesthetics.fandom.com/wiki/Junkpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Junkpunk
@@ -149,21 +148,6 @@ Screenshot from Fallout 4
 
 ## References
 
-## Images
-
-- `images/junkpunk/Junkpunk.webp`
-- `images/junkpunk/Junkpunk1.jpg`
-- `images/junkpunk/Junkpunk3.jpg`
-- `images/junkpunk/Junkpunk2.jpg`
-- `images/junkpunk/Junkpunk8.jpg`
-- `images/junkpunk/Junkpunk6.jpg`
-- `images/junkpunk/Junkpunk7.jpg`
-- `images/junkpunk/Junkpunk5.jpg`
-- `images/junkpunk/ERNESTO-OROZA-2-797x1200.jpg`
-- `images/junkpunk/HiA2Aqn.png`
-- `images/junkpunk/Junkpunk4.jpg`
-- `images/junkpunk/Aa31ef3b019c941264cf0613158e79cb.jpg`
-
 ## Source and attribution
 
-Text adapted from "Junkpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Junkpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Junkpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Junkpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

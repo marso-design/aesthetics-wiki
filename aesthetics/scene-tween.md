@@ -8,7 +8,6 @@ related_aesthetics: ["Scene", "Kidcore", "McBling", "Tweencore", "Internet Aweso
 source_url: "https://aesthetics.fandom.com/wiki/Scene_Tween"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Scene Tween
@@ -118,25 +117,6 @@ Lisa Frank
 
 Make it Pop (2015-2016)
 
-## Images
-
-- `images/scene-tween/Scenetween.jpg`
-- `images/scene-tween/Honeygirls.jpg`
-- `images/scene-tween/Pillowhead.jpg`
-- `images/scene-tween/Bestofallbestfriends.jpg`
-- `images/scene-tween/Zoomeez.jpg`
-- `images/scene-tween/Liviabedroom.jpg`
-- `images/scene-tween/Nyan.jpeg`
-- `images/scene-tween/Sockzz.jpeg`
-- `images/scene-tween/LivvieItUp.jpeg`
-- `images/scene-tween/Bffforever.jpeg`
-- `images/scene-tween/SceneTween.jpeg`
-- `images/scene-tween/Rocker.jpeg`
-- `images/scene-tween/OldMLP.jpg`
-- `images/scene-tween/FurbyBoomNostalgia.webp`
-- `images/scene-tween/LisaFrankSceneTween.jpg`
-- `images/scene-tween/06MAKEIT-superJumbo.jpg`
-
 ## Source and attribution
 
-Text adapted from "Scene Tween" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Scene_Tween), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Scene Tween" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Scene_Tween), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

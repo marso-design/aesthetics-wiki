@@ -10,7 +10,6 @@ related_aesthetics: ["Forestpunk"]
 source_url: "https://aesthetics.fandom.com/wiki/Stonepunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Stonepunk
@@ -70,17 +69,6 @@ Characters typically wear loincloths, furs, leather wraps, bone jewelry, teeth a
 
 ## References
 
-## Images
-
-- `images/stonepunk/StonePunks.jpg`
-- `images/stonepunk/Caveman.jpg`
-- `images/stonepunk/F58f664b496719154512714ae282e8eb.png`
-- `images/stonepunk/Cavegirl.jpg`
-- `images/stonepunk/Cavewoman.jpg`
-- `images/stonepunk/Cave-gun-right-side.jpg`
-- `images/stonepunk/Ax.jpg`
-- `images/stonepunk/Stonepunk.jpg`
-
 ## Source and attribution
 
-Text adapted from "Stonepunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Stonepunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Stonepunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Stonepunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

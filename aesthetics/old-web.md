@@ -12,7 +12,6 @@ primary_platform: ["GeoCities", "Angelfire", "Tripod", "Personal Homepages"]
 source_url: "https://aesthetics.fandom.com/wiki/Old_Web"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Old Web
@@ -92,27 +91,6 @@ Arngren.net
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/old-web/SpaceJam.png`
-- `images/old-web/PROUDLYMADEWITHWINDOWS95.gif`
-- `images/old-web/Saucer3425343.gif`
-- `images/old-web/BESTUSEDONACOMPUTER456789.gif`
-- `images/old-web/AllYourBaseOldWeb.gif`
-- `images/old-web/IDmzQpiOrsQR9ZT24ivKkB3-2LaplEwe6lGsQRXSUek.png`
-- `images/old-web/Fire73562418934.gif`
-- `images/old-web/03f734ec-4e6e-4943-baae-190caff962ce.octet-stream.jpg`
-- `images/old-web/Dragonite.gif`
-- `images/old-web/Capture.JPG`
-- `images/old-web/5b9e13d4-bfdf-4ade-8b0c-048e68e009e2.octet-stream.gif`
-- `images/old-web/Https---knowyourmeme.com-photos-1327890-geocities.png`
-- `images/old-web/Webbuttons90s00s.png`
-- `images/old-web/Https---www.cameronsworld.net-.png`
-- `images/old-web/Welcome1990s.png`
-- `images/old-web/Https---www.tumblr.com-b1zarr3vel-725079625238216704?source=share.png`
-- `images/old-web/2https---www.tumblr.com-pinochet-tv-676491305392750592.png`
-- `images/old-web/OldWeb.png`
-
 ## Source and attribution
 
-Text adapted from "Old Web" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Old_Web), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Old Web" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Old_Web), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

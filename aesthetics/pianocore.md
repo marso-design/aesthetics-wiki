@@ -13,7 +13,6 @@ related_media: ["Vocaloid", "The Nanny", "Your Lie in April"]
 source_url: "https://aesthetics.fandom.com/wiki/Pianocore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 35
 ---
 
 # Pianocore
@@ -56,44 +55,6 @@ Phone theme by @tony\_stonem on Pinterest
 
 ## References
 
-## Images
-
-- `images/pianocore/11719836f067f4103b3adb62a7aca38d.jpg`
-- `images/pianocore/Pianocore.gif`
-- `images/pianocore/361493a791d952ed484ce06ae9888845.jpg`
-- `images/pianocore/D842a6678111955d1c08b6ad23fff7ee.jpg`
-- `images/pianocore/3320c179879dd40a481a0994ab584cf4.jpg`
-- `images/pianocore/6483e176f0ca3604d2adba8a12fa3458.jpg`
-- `images/pianocore/6e49e125d31824a9dbd9a4f0b8faf8d8.jpg`
-- `images/pianocore/34c69ab8fe2bfdd53726d0ce7b7f54b2.jpg`
-- `images/pianocore/D6b788b27dc3d65d7ea313e5d4865ef8.jpg`
-- `images/pianocore/Bb0fe1b43dbd1ba9bc0a1ac15e7dcd38.jpg`
-- `images/pianocore/28a1cb28154a318dc923253d743fd80b.jpg`
-- `images/pianocore/925d4212bef52a3f1c539cbfdd41e6ce.jpg`
-- `images/pianocore/1a6d1df6da1e850b0851c197c9c596ef.jpg`
-- `images/pianocore/1cb19b7c4da5c104ec556f55c582c3b5.jpg`
-- `images/pianocore/1ae491ff664c4c75e3ad4a97e6c812ec.jpg`
-- `images/pianocore/F91276b4799abf2b8cf1e0b0a7c4e82c.jpg`
-- `images/pianocore/191bdd8b67beb3d1e17c9e87575cde31.jpg`
-- `images/pianocore/84b44c1ef054e1b0a64a11461ef51bb5.jpg`
-- `images/pianocore/B25669e22d7955f1a3570ccf911f9bce.jpg`
-- `images/pianocore/3a69848ab1b9599eae44f95c98b329fe.jpg`
-- `images/pianocore/21a2f564d888fae9676cb6d22b54ed4f.jpg`
-- `images/pianocore/E23e4068f706514c7aa7b965f9693bae.jpg`
-- `images/pianocore/6e17a9ee61c1b837cec7e83ddce96fca.jpg`
-- `images/pianocore/3d98d84345145d63e104be660dc3f4d0.jpg`
-- `images/pianocore/86a41019c3b6d369ee769ea78ec232fe.jpg`
-- `images/pianocore/1fbc808ec8cd4396cb8d6e72ad2cf1d5.jpg`
-- `images/pianocore/5d02c2e1035c3c2f4bcebf4572661863.jpg`
-- `images/pianocore/2d1378496f25a7a2e921ace6607303ab.jpg`
-- `images/pianocore/Eb5c568f9926a9ea6058053732ddcd20.jpg`
-- `images/pianocore/3a1038551cbe0ac2be473cf09a4c5cd9.jpg`
-- `images/pianocore/E026b925160e7eb066734ce552cf5225.jpg`
-- `images/pianocore/1492f992f314be91d71fd0d25a5a65c1.jpg`
-- `images/pianocore/53d14a01c1aa68dc4a507522e5504224.jpg`
-- `images/pianocore/HatsuneMikuGothic.webp`
-- `images/pianocore/PianocoreRobloxAvatar.jpg`
-
 ## Source and attribution
 
-Text adapted from "Pianocore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pianocore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pianocore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pianocore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

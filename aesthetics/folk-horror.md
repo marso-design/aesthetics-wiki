@@ -12,7 +12,6 @@ related_media: ["The Wicker Man", "Witchfinder General", "The Blood on Satan's C
 source_url: "https://aesthetics.fandom.com/wiki/Folk_Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Folk Horror
@@ -66,21 +65,6 @@ The visual setting of the genre are isolated rural areas, like small towns or ho
 
 ## Gallery
 
-## Images
-
-- `images/folk-horror/In-the-EarthR-cropped-the-picture-in-Zacks-camp-40-48.webp`
-- `images/folk-horror/Looking-for-dark-folk-horror-esque-deck-for-a-crooked-path-v0-ctbxlfiaotvd1.webp`
-- `images/folk-horror/Looking-for-dark-folk-horror-esque-deck-for-a-crooked-path-v0-664fxdjaotvd1.webp`
-- `images/folk-horror/Looking-for-dark-folk-horror-esque-deck-for-a-crooked-path-v0-v6n461laotvd1.webp`
-- `images/folk-horror/Photo-1494376877685-d3d2559d4f82.jpg`
-- `images/folk-horror/Looking-for-some-great-folk-horror-v0-1mkjaxl8sove1.webp`
-- `images/folk-horror/Surreal-folk-horror-v0-ecpy0u5mdcwf1.webp`
-- `images/folk-horror/E7T-TsmWQAcd6ZK.png`
-- `images/folk-horror/Tintern-Old-Church.webp`
-- `images/folk-horror/Cottage.webp`
-- `images/folk-horror/197aec44c957d2858c75782056048c8c.jpg`
-- `images/folk-horror/British-folk-horror-v0-njdd9zf2o7pg1.webp`
-
 ## Source and attribution
 
-Text adapted from "Folk Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Folk_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Folk Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Folk_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

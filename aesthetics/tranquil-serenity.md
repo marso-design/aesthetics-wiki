@@ -10,7 +10,6 @@ related_aesthetics: ["Chinoiserie", "Cleancore", "Eco-Beige", "Frutiger Aero", "
 source_url: "https://aesthetics.fandom.com/wiki/Tranquil_Serenity"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Tranquil Serenity
@@ -57,4 +56,4 @@ Here are a few examples of channels who make this genre of music:
 
 ## Source and attribution
 
-Text adapted from "Tranquil Serenity" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tranquil_Serenity), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tranquil Serenity" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tranquil_Serenity), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

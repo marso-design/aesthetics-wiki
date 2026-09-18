@@ -11,7 +11,6 @@ related_aesthetics: ["Cani", "Chav", "Racaille", "UK Drill"]
 source_url: "https://aesthetics.fandom.com/wiki/MDLR"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # MDLR
@@ -75,13 +74,6 @@ The MDLR subculture is tied Spanish drill and street rap, especially the artist 
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/mdlr/MDLR.jpg`
-- `images/mdlr/01e4550e14b7e2bfdea48bd82d4e4588.jpg`
-- `images/mdlr/258b00c5f594c982ce2a9862bb97ba2d.jpg`
-- `images/mdlr/Mdlr.jpg`
-
 ## Source and attribution
 
-Text adapted from "MDLR" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/MDLR), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "MDLR" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/MDLR), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

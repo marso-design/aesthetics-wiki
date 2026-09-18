@@ -10,7 +10,6 @@ related_media: ["dirtgirlworld (TV show, 2009-2010)", "Marcel The Shell With Sho
 source_url: "https://aesthetics.fandom.com/wiki/Gardencore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Gardencore
@@ -58,4 +57,4 @@ Gardencore contains a large variety of natural elements, all of which would be s
 
 ## Source and attribution
 
-Text adapted from "Gardencore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gardencore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gardencore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gardencore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

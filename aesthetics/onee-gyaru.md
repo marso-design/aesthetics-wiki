@@ -14,7 +14,6 @@ related_media: ["to be added"]
 source_url: "https://aesthetics.fandom.com/wiki/Onee_Gyaru"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Onee Gyaru
@@ -53,14 +52,6 @@ Onee Gyaru, directly translating to “Older Sister Gal” is both a descriptive
 | --- | --- | --- |
 | [Agejo](https://aesthetics.fandom.com/wiki/Agejo "Agejo") ❀ [Amekaji](https://aesthetics.fandom.com/wiki/Amekaji "Amekaji") ❀ Ane Gyaru ❀ B-Gyaru ❀ [Ganguro](https://aesthetics.fandom.com/wiki/Ganguro "Ganguro") ❀ [Gyaruo](https://aesthetics.fandom.com/wiki/Gyaruo "Gyaruo") ❀ [Hime Gyaru](https://aesthetics.fandom.com/wiki/Hime_Gyaru "Hime Gyaru") ❀ [Himekaji](https://aesthetics.fandom.com/wiki/Himekaji "Himekaji") ❀ [Kogal](https://aesthetics.fandom.com/wiki/Kogal "Kogal") ❀ [Manba](https://aesthetics.fandom.com/wiki/Manba "Manba") ❀ Mode Gyaru ❀ [Neo Gyaru](https://aesthetics.fandom.com/wiki/Neo_Gyaru "Neo Gyaru") ❀ **Onee Gyaru** ❀ Ora Ora Kei ❀ Rokku ❀ [Tsuyome Gyaru](https://aesthetics.fandom.com/wiki/Tsuyome_Gyaru "Tsuyome Gyaru") ❀ Yamanba |
 
-## Images
-
-- `images/onee-gyaru/OGV.webp`
-- `images/onee-gyaru/OneeG1.webp`
-- `images/onee-gyaru/OneeG2.jpg`
-- `images/onee-gyaru/OneeG3.jpg`
-- `images/onee-gyaru/OneeG4.webp`
-
 ## Source and attribution
 
-Text adapted from "Onee Gyaru" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Onee_Gyaru), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Onee Gyaru" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Onee_Gyaru), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

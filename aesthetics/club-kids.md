@@ -10,7 +10,6 @@ palette: ["#030204", "#928887", "#CA9C98", "#F5EFEE", "#101419", "#63605E"]
 source_url: "https://aesthetics.fandom.com/wiki/Club_Kids"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Club Kids
@@ -91,31 +90,6 @@ Welcome to my face! I'm James St. James and THIS is Transformations!
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/club-kids/MichaelAlighat.jpg`
-- `images/club-kids/Db0ab8df29eb2d7d8c5903a3ec4a9c28.jpg`
-- `images/club-kids/74dfa7482df445e3e102d7922445ffeb.jpg`
-- `images/club-kids/Ff2553813d21b02300b35d8644a052fa.jpg`
-- `images/club-kids/A54f2b85822c6fb7bb7c6be7bd8d1de8.jpg`
-- `images/club-kids/6b045efa36b98accac6fc7b84a410cdd.jpg`
-- `images/club-kids/4899e4b728649bfd320625dbe588c893.jpg`
-- `images/club-kids/A2999af73198b7d0fc4a6f9e48ec8097.jpg`
-- `images/club-kids/6558a2647097fed57b4b3edf63aa9004.jpg`
-- `images/club-kids/A79dddf137d0b0ffdc588acac1edc10e.jpg`
-- `images/club-kids/7839326760c6309a87f55c2af9110e55.jpg`
-- `images/club-kids/9d5683caa19a2825f4a3e2b3d1032bc8.jpg`
-- `images/club-kids/B23e788bd7d8f799d373b101a36b927a.jpg`
-- `images/club-kids/B8d2362f172ecde41dd21a62c96b951b.jpg`
-- `images/club-kids/7bf50417752e8d9e81e16d76a18ecb4b.jpg`
-- `images/club-kids/Cfdc2aa789dda27e288251fc10248fb4.jpg`
-- `images/club-kids/A006852773af8218c88baef5cf1269b0.jpg`
-- `images/club-kids/Cc7721fb4abc65213167d5db782b5ff9.jpg`
-- `images/club-kids/5c1ed04f2c1fe860afc70e562650d85c.jpg`
-- `images/club-kids/8e7f081c9bc1043e3dac640bc8fb4b70.jpg`
-- `images/club-kids/3817b59435f93eea3a27fe91905b9819.jpg`
-- `images/club-kids/63fac9fe3299be3a3589d5169c58e4ef.jpg`
-
 ## Source and attribution
 
-Text adapted from "Club Kids" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Club_Kids), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Club Kids" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Club_Kids), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

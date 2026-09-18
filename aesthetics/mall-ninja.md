@@ -10,7 +10,6 @@ related_aesthetics: ["Animecore", "Nerd", "Tacticool"]
 source_url: "https://aesthetics.fandom.com/wiki/Mall_Ninja"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Mall Ninja
@@ -78,15 +77,6 @@ After this incident, the fact that Gecko45 worked in a mall and had claimed to b
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/mall-ninja/Whatdidyousayaboutbronies.jpg`
-- `images/mall-ninja/Uywuyuabouqbuoqygqu.webp`
-- `images/mall-ninja/Aiuhauh8haiauh-uhq-9h29qniuniuhihaiuhaiuahuahuah.jpg`
-- `images/mall-ninja/E9l5QRGWQAY1we9.jpg`
-- `images/mall-ninja/8yw8bqu08ba80ba8ya.jpg`
-- `images/mall-ninja/Em-VbFxW4AAjBvL.png`
-
 ## Source and attribution
 
-Text adapted from "Mall Ninja" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mall_Ninja), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mall Ninja" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mall_Ninja), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ key_values: ["Dharma", "Hinduism", "harmony", "spirituality", "peace", "goodness
 source_url: "https://aesthetics.fandom.com/wiki/Diwali"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Diwali
@@ -67,18 +66,6 @@ Rangoli floor
 
 Paisley design
 
-## Images
-
-- `images/diwali/Diwali-2.jpeg`
-- `images/diwali/Diwali.jpg`
-- `images/diwali/Diwali-1.jpeg`
-- `images/diwali/Diwali-Commercial1.jpeg`
-- `images/diwali/Diwali-Modern1.jpeg`
-- `images/diwali/Diwali-Modern2.jpeg`
-- `images/diwali/Diwali-Diyas.jpeg`
-- `images/diwali/Diwali-Rangoli.jpeg`
-- `images/diwali/Diwali-Paisley.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Diwali" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Diwali), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Diwali" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Diwali), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

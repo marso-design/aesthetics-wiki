@@ -10,7 +10,6 @@ related_aesthetics: ["Global Village Coffeehouse", "Kidcore", "Nostalgiacore", "
 source_url: "https://aesthetics.fandom.com/wiki/Carson-Dellosa_Art_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Carson-Dellosa Art Style
@@ -41,21 +40,6 @@ The aesthetic is applied universally across the Carson-Dellosa catalog, giving i
 
 ## References
 
-## Images
-
-- `images/carson-dellosa-art-style/B1ca80b5f1c5a670789e87ffb54d8a9b.jpg`
-- `images/carson-dellosa-art-style/Dd339f98b60a5760a7a0ba48c8ea6866.jpg`
-- `images/carson-dellosa-art-style/A1eb796043ffde12fc7cb1cf1fd6165b.jpg`
-- `images/carson-dellosa-art-style/1e401aa82bc0d05c12ddc312ba33765b.jpg`
-- `images/carson-dellosa-art-style/6d73ed976736f69f21f900b10ca7a381.jpg`
-- `images/carson-dellosa-art-style/17850890c8f86c26b843cca648e0d564.jpg`
-- `images/carson-dellosa-art-style/E1775d1cd8df92689019fe76268e4005.jpg`
-- `images/carson-dellosa-art-style/2f3354019d43bdc8e003191d26bf6f0a.jpg`
-- `images/carson-dellosa-art-style/891723d443c25ede00ca9fe1633694ed.jpg`
-- `images/carson-dellosa-art-style/Da0cfecded905e13e3c162eb947ea4ea.jpg`
-- `images/carson-dellosa-art-style/E384e6cf4cd044585b73532e09caa44a.jpg`
-- `images/carson-dellosa-art-style/8734b9f5a9d93d39748d2cb84734d014.jpg`
-
 ## Source and attribution
 
-Text adapted from "Carson-Dellosa Art Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Carson-Dellosa_Art_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Carson-Dellosa Art Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Carson-Dellosa_Art_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

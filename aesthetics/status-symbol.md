@@ -5,7 +5,6 @@ palette: ["#292B2F", "#63514B", "#FFFFFF", "#A09A93", "#AEADAB", "#D2D0CC"]
 source_url: "https://aesthetics.fandom.com/wiki/Status_Symbol"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Status Symbol
@@ -32,12 +31,6 @@ Within [Soft Grunge](https://aesthetics.fandom.com/wiki/Soft_Grunge "Soft Grunge
 
 Body and beauty standards are an example of a status symbol. [Heroin Chic](https://aesthetics.fandom.com/wiki/Heroin_Chic "Heroin Chic") is a signifier of being "cool" by having low appetite because of drugs and prioritizing fashion, rather than food.
 
-## Images
-
-- `images/status-symbol/Bags.jpg`
-- `images/status-symbol/Vossandfiji.jpg`
-- `images/status-symbol/Heroinchic3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Status Symbol" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Status_Symbol), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Status Symbol" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Status_Symbol), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

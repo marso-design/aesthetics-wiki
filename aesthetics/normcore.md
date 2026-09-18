@@ -12,7 +12,6 @@ related_media: ["Seinfeld", "Templar", "Arizona", "Youth Mode: A Report on Freed
 source_url: "https://aesthetics.fandom.com/wiki/Normcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Normcore
@@ -48,24 +47,6 @@ The philosophy of normcore is a response to subcultural exhaustion. In an era wh
 
 ## Gallery
 
-## Images
-
-- `images/normcore/NormcoreGirl.jpg`
-- `images/normcore/GettyImages-1716916882-3be4f1bb8de44e03a695def38b45ec5c-79b9055ba04a42858e8cc4e5956d6c65.webp`
-- `images/normcore/Normcore-aesthetic-300619-1655868095539-main.jpg`
-- `images/normcore/Ivy-obonyo.jpg`
-- `images/normcore/Nicholas-arman.jpg`
-- `images/normcore/GettyImages-182587703-425c4d2a1b954f67be5b4c1e35deecd1.webp`
-- `images/normcore/GettyImages-1402945067-3468932b64b84a659f2eae8cd93258f9.webp`
-- `images/normcore/GettyImages-141267193-5ef3ff7075b040bd8ffaf7512eea1d83.webp`
-- `images/normcore/Gap2men-fall-070808.webp`
-- `images/normcore/Normcore-aesthetic-300619-1655866615360-main-768-80.jpg.webp`
-- `images/normcore/Ad3f6b98e26a27097c07e338c0510c7b88-normcore-10.rhorizontal.w807.webp`
-- `images/normcore/8aaf87b6a119053f1d7aa06ef15a082f57-normcore-15.rhorizontal.w807.webp`
-- `images/normcore/1f78c69a356caf4066168725ae923c0d4b-normcore-14.rhorizontal.w807.webp`
-- `images/normcore/Ff0e293d13737e3ad2399a18f28ef0fdfd-normcore-02.rhorizontal.w807.webp`
-- `images/normcore/Ea6eb077d6ca7c0df615997b176c41ff06-normcore-17.rhorizontal.w807.webp`
-
 ## Source and attribution
 
-Text adapted from "Normcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Normcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Normcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Normcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["2020 TikTok", "After Hours", "Dreamcore", "Glitch Art", "M
 source_url: "https://aesthetics.fandom.com/wiki/Liminal_Space"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 88
 ---
 
 # Liminal Space
@@ -235,97 +234,6 @@ Stills from The Backrooms teaser by Kane Pixels and A24
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/liminal-space/HOTTIE.png`
-- `images/liminal-space/Ls3.PNG`
-- `images/liminal-space/Ox7uv10mv2g61.jpg`
-- `images/liminal-space/555555555555555555555566666664444444444.jpg`
-- `images/liminal-space/Dpc1.png`
-- `images/liminal-space/Dpc2.jpg`
-- `images/liminal-space/Dpc3.jpg`
-- `images/liminal-space/Dpc4.jpg`
-- `images/liminal-space/Dpc5.png`
-- `images/liminal-space/Dpc6.jpg`
-- `images/liminal-space/Airport-terminal-liminal.jpg`
-- `images/liminal-space/Centre-ville-malle.jpg`
-- `images/liminal-space/63024568.jpg`
-- `images/liminal-space/Empty-bookstore.jpg`
-- `images/liminal-space/Empty-sears-ok.jpg`
-- `images/liminal-space/Mytraumacore.jpg`
-- `images/liminal-space/Liminal.jpeg`
-- `images/liminal-space/Liminal1.jpeg`
-- `images/liminal-space/Liminal2.jpeg`
-- `images/liminal-space/Liminal3.jpeg`
-- `images/liminal-space/Liminal4.jpeg`
-- `images/liminal-space/Liminal5.webp`
-- `images/liminal-space/8C196548-B8F0-42C1-B394-DD4301E286BA.jpeg`
-- `images/liminal-space/99C7189F-7A07-4E56-8C31-E4BB18569D7A.jpeg`
-- `images/liminal-space/AFF2A23F-E9FC-4E11-8454-E7F2F06BB562.png`
-- `images/liminal-space/EAFC9B91-4979-4919-8252-8C28BBED4838.png`
-- `images/liminal-space/Untitled-23.jpg`
-- `images/liminal-space/0BB9E8F9-44F6-43C8-9CF0-593EFC564C9F.jpeg`
-- `images/liminal-space/B48EEA94-4C0E-4CA6-B2C3-E37C092E7C3D.jpeg`
-- `images/liminal-space/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f31375a47493638564e4752486e413d3d2d3931323832313631392e313631643635396364386137323561323435343433.jpg`
-- `images/liminal-space/BA72FC53-BE86-46C1-9538-30085B7ED785.jpeg`
-- `images/liminal-space/49a49312e3669318df916d3f2858546d.png`
-- `images/liminal-space/6667799bec3a847840102f745f83323a.jpg`
-- `images/liminal-space/Aptliminal2007.png`
-- `images/liminal-space/LiminalSpace.jpg`
-- `images/liminal-space/LiminalSpaceHall.jpg`
-- `images/liminal-space/A12gd8j9gmz41.jpg`
-- `images/liminal-space/Liminal-space-indoor-playground.jpg`
-- `images/liminal-space/Liminal-space-indoor-pool.jpg`
-- `images/liminal-space/Late-night-abandoned-pool-liminal-space-and-weirdcore-aesthetic.jpg`
-- `images/liminal-space/Anemoiacorehttps---www.pinterest.com-pin-666040232400004857-.png`
-- `images/liminal-space/Go-outside-and-surf-the-internet-liminal-space-weirdcore-aesthetic.jpg`
-- `images/liminal-space/Level-minus-37-8.png`
-- `images/liminal-space/Level-minus-22.jpg`
-- `images/liminal-space/Level-100-1.jpg`
-- `images/liminal-space/Level50.jpg`
-- `images/liminal-space/Level-minus-37-7.png`
-- `images/liminal-space/Level-minus-37-3.png`
-- `images/liminal-space/Level42-5.png`
-- `images/liminal-space/Level-minus-37.png`
-- `images/liminal-space/Level-33-12.png`
-- `images/liminal-space/Level37.5.png`
-- `images/liminal-space/Level-100-3.png`
-- `images/liminal-space/Level-33.1-5.png`
-- `images/liminal-space/Liminal-office-space.jpg`
-- `images/liminal-space/Blue-liminal-hospital-hallway.jpg`
-- `images/liminal-space/Liminal-subway-in-Berlin.jpg`
-- `images/liminal-space/Pink-and-gray-liminal-space.jpg`
-- `images/liminal-space/Limital.jpg`
-- `images/liminal-space/Abandonedzellers.jpg`
-- `images/liminal-space/TurkmenLiminal1.jpg`
-- `images/liminal-space/TurkmenLiminal2.webp`
-- `images/liminal-space/Liminalspacegalves.jpg`
-- `images/liminal-space/Liminalfoamtime.jpg`
-- `images/liminal-space/Thedock.jpg`
-- `images/liminal-space/Ruidosofire.jpg`
-- `images/liminal-space/Playtimeandsmiles.jpg`
-- `images/liminal-space/Thewatersedge.jpg`
-- `images/liminal-space/Fun.jpg`
-- `images/liminal-space/Poolcore-with-fish.jpg`
-- `images/liminal-space/Wonderland-Pier-Liminal-Space.jpg`
-- `images/liminal-space/CACBD4CD-E549-4E4E-9771-FB09887510D3.jpg`
-- `images/liminal-space/235D9443-CBA8-4F17-AECF-E94AAC7D98FC.webp`
-- `images/liminal-space/Liminal-office-space-with-plants.jpg`
-- `images/liminal-space/Liminal-office.jpg`
-- `images/liminal-space/Abandoned-liminal-space-aesthetic.jpg`
-- `images/liminal-space/Abandoned-liminal-space-aesthetic-2.jpg`
-- `images/liminal-space/Abandoned-liminal-space-aesthetic-3.jpg`
-- `images/liminal-space/Abandoned-shopping-center.jpg`
-- `images/liminal-space/Liminal-house.jpg`
-- `images/liminal-space/Backrooms.jpg`
-- `images/liminal-space/Dreamcore4.jpeg`
-- `images/liminal-space/Gymboree-Store.jpg`
-- `images/liminal-space/Backrooms9.webp`
-- `images/liminal-space/Abandoned-Hotel.jpg`
-- `images/liminal-space/Playcarelol.jpg`
-- `images/liminal-space/Backrooms15.webp`
-- `images/liminal-space/R7dv71m1iglg1.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Liminal Space" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Liminal_Space), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Liminal Space" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Liminal_Space), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

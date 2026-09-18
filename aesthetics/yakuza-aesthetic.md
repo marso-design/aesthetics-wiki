@@ -12,7 +12,6 @@ related_media: ["Yakuza (Like a Dragon) video game series", "Battles Without Hon
 source_url: "https://aesthetics.fandom.com/wiki/Yakuza_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Yakuza Aesthetic
@@ -77,15 +76,6 @@ The primary outward garment is the business suit, typically impeccably tailored 
 
 ## Gallery
 
-## Images
-
-- `images/yakuza-aesthetic/Yakuza7.jpg`
-- `images/yakuza-aesthetic/Yakuza6.jpg`
-- `images/yakuza-aesthetic/Yakuza2.gif`
-- `images/yakuza-aesthetic/Yakuza5.jpg`
-- `images/yakuza-aesthetic/Yakuza4.jpg`
-- `images/yakuza-aesthetic/Yakuza3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Yakuza Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yakuza_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yakuza Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yakuza_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

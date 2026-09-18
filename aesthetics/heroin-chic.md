@@ -11,7 +11,6 @@ related_media: ["Calvin Klein's Obsession campaign"]
 source_url: "https://aesthetics.fandom.com/wiki/Heroin_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Heroin Chic
@@ -94,21 +93,6 @@ Kate Moss on the cover of *Vogue UK*, March 1993.
 
 ## References
 
-## Images
-
-- `images/heroin-chic/Heroinchic.jpg`
-- `images/heroin-chic/Heroinchic4.jpg`
-- `images/heroin-chic/Heroinchic2.jpg`
-- `images/heroin-chic/Heroinchic1.jpg`
-- `images/heroin-chic/Heroinchic3.jpg`
-- `images/heroin-chic/Heroinchic6.jpg`
-- `images/heroin-chic/Heroinchic5.jpg`
-- `images/heroin-chic/Hc2.png`
-- `images/heroin-chic/Hc3.jpg`
-- `images/heroin-chic/Hc1.jpg`
-- `images/heroin-chic/Hc4.jpg`
-- `images/heroin-chic/Vogue-uk-1993-march-01-fullsize.jpg`
-
 ## Source and attribution
 
-Text adapted from "Heroin Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heroin_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Heroin Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heroin_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

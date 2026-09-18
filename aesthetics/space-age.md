@@ -11,7 +11,6 @@ related_media: ["The Jetsons", "Star Trek (original series)", "2001: A Space Ody
 source_url: "https://aesthetics.fandom.com/wiki/Space_Age"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Space Age
@@ -114,22 +113,6 @@ Illustration of a spaceship that a pop star from the Space Age commissioned in t
 
 ## References
 
-## Images
-
-- `images/space-age/SpaceAge.webp`
-- `images/space-age/RW213.jpg`
-- `images/space-age/210519115954-03-space-age-fashion.webp`
-- `images/space-age/210519181204-012-space-age-fashion.webp`
-- `images/space-age/22cardin4-superJumbo.jpg`
-- `images/space-age/23cardin1-superJumbo.jpg`
-- `images/space-age/210519120156-10-space-age-fashion-restricted.webp`
-- `images/space-age/210519181920-013-space-age-fashion.webp`
-- `images/space-age/Space-age-7.webp`
-- `images/space-age/94ce1520-4a8f-461a-9384-86e712a6abf7.jpg`
-- `images/space-age/Twa-moonliner1.jpg`
-- `images/space-age/Img-3.jpg`
-- `images/space-age/E94y1qorkoc81.jpg`
-
 ## Source and attribution
 
-Text adapted from "Space Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Space_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Space Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Space_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

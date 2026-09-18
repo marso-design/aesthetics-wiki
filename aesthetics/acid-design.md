@@ -11,7 +11,6 @@ related_aesthetics: ["Acid House", "Barber Beats", "Cyberdelia", "Cyberpunk", "N
 source_url: "https://aesthetics.fandom.com/wiki/Acid_Design"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Acid Design
@@ -83,19 +82,6 @@ Cover art for "Parkitek" by Parkineos
 | Fusion Aesthetics |
 | **Acid Design** ☺ [Cyberdelia](https://aesthetics.fandom.com/wiki/Cyberdelia "Cyberdelia") ☺ [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") ☺ [New Rave](https://aesthetics.fandom.com/wiki/New_Rave "New Rave") |
 
-## Images
-
-- `images/acid-design/AcidDesignDavid.webp`
-- `images/acid-design/Aciddesign.jpg`
-- `images/acid-design/Aciddesign7.png`
-- `images/acid-design/Aciddesign6.jpg`
-- `images/acid-design/Aciddesign2.jpg`
-- `images/acid-design/Aciddesign5.png`
-- `images/acid-design/Sohot.jpg`
-- `images/acid-design/Beforeep.jpg`
-- `images/acid-design/Shegrewwings.jpg`
-- `images/acid-design/Parkineos.jpg`
-
 ## Source and attribution
 
-Text adapted from "Acid Design" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Acid_Design), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Acid Design" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Acid_Design), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

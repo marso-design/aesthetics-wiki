@@ -9,7 +9,6 @@ related_aesthetics: ["Antwerp Six", "Avant-Garde", "Opium", "Visual Kei", "Hedi 
 source_url: "https://aesthetics.fandom.com/wiki/Archive_Fashion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Archive Fashion
@@ -50,13 +49,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 ## Gallery
 
-## Images
-
-- `images/archive-fashion/Gekka.webp`
-- `images/archive-fashion/Bleood.webp`
-- `images/archive-fashion/TikTok1.webp`
-- `images/archive-fashion/TikTok2.webp`
-
 ## Source and attribution
 
-Text adapted from "Archive Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Archive_Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Archive Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Archive_Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Hamood Habibi", "Crazy Frog", "Gummy Bear"]
 source_url: "https://aesthetics.fandom.com/wiki/Arabfunny"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Arabfunny
@@ -73,20 +72,6 @@ Arabfunny starter pack
 
 ## References
 
-## Images
-
-- `images/arabfunny/D542fwie9t231.png`
-- `images/arabfunny/MEMElol.jpg`
-- `images/arabfunny/6a0.jpg`
-- `images/arabfunny/Aac5b8d3663140085de0dd6d7ad3878b.jpg`
-- `images/arabfunny/Artworks-000658608178-jpl7t0-t500x500.jpg`
-- `images/arabfunny/Artworks-dkV2DsjCeLxNVH8g-HLzvPw-t500x500.jpg`
-- `images/arabfunny/Dy7AiTZWkAIgqZc.jpg`
-- `images/arabfunny/Afgwrehlt.jpg.jpg`
-- `images/arabfunny/Afdefault.jpg`
-- `images/arabfunny/Jjjyrryjrysj.jpg`
-- `images/arabfunny/Arabfunnystarterpackreal.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Arabfunny" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Arabfunny), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Arabfunny" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Arabfunny), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

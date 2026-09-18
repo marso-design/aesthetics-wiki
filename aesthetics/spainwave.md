@@ -10,7 +10,6 @@ palette: ["#696F82", "#251849", "#BBB9BE", "#9D97AC", "#E0D7D7", "#BB748D"]
 source_url: "https://aesthetics.fandom.com/wiki/Spainwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 25
 ---
 
 # Spainwave
@@ -121,34 +120,6 @@ An edit of the iconic Tío Pepe in Madrid, which is a classic motif for its nost
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • **Spainwave** • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/spainwave/585i382u1lic1.png`
-- `images/spainwave/2gsw0pjbpf891.png`
-- `images/spainwave/ESpezL5X0AAm9IX.jpg`
-- `images/spainwave/EpK8ktY.jpg`
-- `images/spainwave/TLo2iRe.jpg`
-- `images/spainwave/NYTmWp4.jpg`
-- `images/spainwave/Juguetes-80-1.jpg`
-- `images/spainwave/W9ar5oy74kyz.jpg`
-- `images/spainwave/194gzdcckrp91.jpg`
-- `images/spainwave/SVfTnbR.jpg`
-- `images/spainwave/9917mbG.jpg`
-- `images/spainwave/XkXAcvB.jpg`
-- `images/spainwave/4oZh873.jpg`
-- `images/spainwave/Kdaml3rahfh61.jpg`
-- `images/spainwave/Mf7geng6m64a1.jpg`
-- `images/spainwave/G535q52gieq91.jpg`
-- `images/spainwave/FjYKJUy.jpg`
-- `images/spainwave/NfSGUXU.png`
-- `images/spainwave/79rp4byowdo91.jpg`
-- `images/spainwave/1lq7cgvld1ba1.jpg`
-- `images/spainwave/Ke14oy8fnem91.jpg`
-- `images/spainwave/CnHtNXy.jpeg`
-- `images/spainwave/H5sm5ommuu3a1.jpg`
-- `images/spainwave/64vRNfo.jpg`
-- `images/spainwave/Vn6pke3ls9d61.png`
-
 ## Source and attribution
 
-Text adapted from "Spainwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spainwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Spainwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spainwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

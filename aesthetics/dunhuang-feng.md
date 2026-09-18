@@ -11,7 +11,6 @@ related_aesthetics: ["Guochao", "Wei and Jin Dynasties", "Tang Dynasty", "Song D
 source_url: "https://aesthetics.fandom.com/wiki/Dunhuang_Feng"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 28
 ---
 
 # Dunhuang Feng
@@ -100,37 +99,6 @@ Music and dance depicted in Dunhuang frescoes date back to the Tang Dynasty (618
 
 ## References
 
-## Images
-
-- `images/dunhuang-feng/DunhuangFeng-NineColorDeerAnimation.webp`
-- `images/dunhuang-feng/DunhuangFeng-Feitian.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Zaojing.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Statue.jpg`
-- `images/dunhuang-feng/DunhuangFeng-NarrativeMural.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Dance1954.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Dance1979.gif`
-- `images/dunhuang-feng/DunhuangFeng-Dance2022.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Game.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Stationary.jpg`
-- `images/dunhuang-feng/DunhuangFeng-HotelDesign.jpg`
-- `images/dunhuang-feng/Dunhuang-CresentLake.jpeg`
-- `images/dunhuang-feng/Dunhuang-Fashion1.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Fashion2.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Zaojing2.jpg`
-- `images/dunhuang-feng/DunhuangFeng-Statue2.jpg`
-- `images/dunhuang-feng/DunhuangFeng-96.jpg`
-- `images/dunhuang-feng/DunhuangFeng-NarrativeMural2.png`
-- `images/dunhuang-feng/Dunhuang-9.jpeg`
-- `images/dunhuang-feng/Dunhuang-7.jpeg`
-- `images/dunhuang-feng/Dunhuang-8.jpeg`
-- `images/dunhuang-feng/Dunhuang-NiShuiHan1.jpg`
-- `images/dunhuang-feng/Dunhuang-NiShuiHan2.jpg`
-- `images/dunhuang-feng/Dunhuang-NiShuiHan3.jpg`
-- `images/dunhuang-feng/Dunhuang-OfficialMerch1.jpg`
-- `images/dunhuang-feng/Dunhuang-OfficialMerch2.jpg`
-- `images/dunhuang-feng/Dunhuang-HonorOfKings3.webp`
-- `images/dunhuang-feng/Dunhuang-HonorOfKings2.webp`
-
 ## Source and attribution
 
-Text adapted from "Dunhuang Feng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dunhuang_Feng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dunhuang Feng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dunhuang_Feng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ subgenres: ["Corporate Memphis"]
 source_url: "https://aesthetics.fandom.com/wiki/Flat_Design"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Flat Design
@@ -180,23 +179,6 @@ Material 3 Expressive (2025-present)
 * <https://www.mdui.org/en/design/1/#introduction-principles>
 * <https://dn721903.ca.archive.org/0/items/apple-hig/2014%20iOS%20Human%20Interface%20Guidelines.pdf>
 
-## Images
-
-- `images/flat-design/Cyberminimalism.png`
-- `images/flat-design/Loco-roco-2-remaster-02.jpg`
-- `images/flat-design/Patapon.png`
-- `images/flat-design/48899.webp`
-- `images/flat-design/LqDbojzvFtqvPkhxexrLTH.jpg`
-- `images/flat-design/Flatlogos.jpeg`
-- `images/flat-design/Switchmenu.jpg`
-- `images/flat-design/Iis-85.png`
-- `images/flat-design/AmzEVc.png`
-- `images/flat-design/Microsoft-Office-365-Support-02.jpg`
-- `images/flat-design/Macos-sierra-17982-3.jpg`
-- `images/flat-design/Androidpie.png`
-- `images/flat-design/Android-12.jpg`
-- `images/flat-design/Android-16-material-3-expressive.webp`
-
 ## Source and attribution
 
-Text adapted from "Flat Design" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Flat_Design), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Flat Design" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Flat_Design), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Googie Kitsch", "Groovival", "Jumbled Font", "Kidcore", "K
 source_url: "https://aesthetics.fandom.com/wiki/Wacky_Pomo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Wacky Pomo
@@ -225,16 +224,6 @@ Motifs frequently include slime, goo, junk food, exaggerated cartoon faces, gros
 * <https://cari.institute/aesthetics/wacky-pomo>
 * <https://www.are.na/consumer-aesthetics-research-institute/wacky-pomo-2cjolxdj7uy>
 
-## Images
-
-- `images/wacky-pomo/Wacky.png`
-- `images/wacky-pomo/Wacky3.jpg`
-- `images/wacky-pomo/Kidsvote.jpg`
-- `images/wacky-pomo/Nickclock.jpeg`
-- `images/wacky-pomo/Nickstudios.jpg`
-- `images/wacky-pomo/Wacky2.jpg`
-- `images/wacky-pomo/Wacky4.jpg`
-
 ## Source and attribution
 
-Text adapted from "Wacky Pomo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wacky_Pomo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wacky Pomo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wacky_Pomo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

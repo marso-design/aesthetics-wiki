@@ -13,7 +13,6 @@ related_media: ["Popteen"]
 source_url: "https://aesthetics.fandom.com/wiki/Himekaji"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Himekaji
@@ -102,22 +101,6 @@ Liz Lisa dress from 2020, outfit by Ribbons & Berries
 | --- | --- | --- |
 | [Agejo](https://aesthetics.fandom.com/wiki/Agejo "Agejo") ❀ [Amekaji](https://aesthetics.fandom.com/wiki/Amekaji "Amekaji") ❀ Ane Gyaru ❀ B-Gyaru ❀ [Ganguro](https://aesthetics.fandom.com/wiki/Ganguro "Ganguro") ❀ [Gyaruo](https://aesthetics.fandom.com/wiki/Gyaruo "Gyaruo") ❀ [Hime Gyaru](https://aesthetics.fandom.com/wiki/Hime_Gyaru "Hime Gyaru") ❀ **Himekaji** ❀ [Kogal](https://aesthetics.fandom.com/wiki/Kogal "Kogal") ❀ [Manba](https://aesthetics.fandom.com/wiki/Manba "Manba") ❀ Mode Gyaru ❀ [Neo Gyaru](https://aesthetics.fandom.com/wiki/Neo_Gyaru "Neo Gyaru") ❀ [Onee Gyaru](https://aesthetics.fandom.com/wiki/Onee_Gyaru "Onee Gyaru") ❀ Ora Ora Kei ❀ Rokku ❀ [Tsuyome Gyaru](https://aesthetics.fandom.com/wiki/Tsuyome_Gyaru "Tsuyome Gyaru") ❀ Yamanba |
 
-## Images
-
-- `images/himekaji/Himekaji1.webp`
-- `images/himekaji/Himekajimake1.jpg`
-- `images/himekaji/Hj11.webp`
-- `images/himekaji/Hj41.jpg`
-- `images/himekaji/Hj43.jpg`
-- `images/himekaji/Hj42.jpg`
-- `images/himekaji/Hj37.jpg`
-- `images/himekaji/Hj47.jpg`
-- `images/himekaji/Hj48.jpg`
-- `images/himekaji/Hj49.jpg`
-- `images/himekaji/Himekaji56.jpg`
-- `images/himekaji/Himekaji57.jpg`
-- `images/himekaji/Kanayan.jpg`
-
 ## Source and attribution
 
-Text adapted from "Himekaji" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Himekaji), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Himekaji" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Himekaji), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Navajeros", "El Pico", "Deprisa", "Yo", "el Vaquilla"]
 source_url: "https://aesthetics.fandom.com/wiki/Quinqui"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Quinqui
@@ -61,22 +60,6 @@ Modern artists like El Coleta, Jarfaiter, Rosalía, and C. Tangana have revived 
 
 ## References
 
-## Images
-
-- `images/quinqui/Quinqui.jpg`
-- `images/quinqui/B2cb2eeb0cb617bb5ca750f9ffb09543.jpg`
-- `images/quinqui/7b6c5abb43ee7e84a44e7c5fa355b0c2.jpg`
-- `images/quinqui/68c5b5baf0d10159c7fa7e7a8829e152.jpg`
-- `images/quinqui/F8c82ee778261c26985d4d4b3c805393.jpg`
-- `images/quinqui/9c6fda0832e0d6775cb95b2bcd93dc32.jpg`
-- `images/quinqui/Cf1266ee6190f8a17c3420add2bd4c60.jpg`
-- `images/quinqui/7912b0f899b2a03f4dcbb31aede390cd.jpg`
-- `images/quinqui/C44f2bf5d99a0634630f2e13f27fc811.jpg`
-- `images/quinqui/C5d060238ceb79ed1dd3c20622f6f960.jpg`
-- `images/quinqui/34b882cecda11524ff9b1146837c80b5.jpg`
-- `images/quinqui/588d34140ca71c88b444eecb958e7a8e.jpg`
-- `images/quinqui/365a8a62ac86092b753e5fd42636e399.jpg`
-
 ## Source and attribution
 
-Text adapted from "Quinqui" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Quinqui), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Quinqui" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Quinqui), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

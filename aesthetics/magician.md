@@ -11,7 +11,6 @@ related_aesthetics: ["Witchcore", "Wizardcore", "Steampunk", "Fanfare"]
 source_url: "https://aesthetics.fandom.com/wiki/Magician"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Magician
@@ -164,26 +163,6 @@ Dark/horror based Magician aesthetic album cover
 
 * [thepinkseat-askthemoonbunny](https://www.tumblr.com/thepinkseat-askthemoonbunny/652651407504195584/we-got-fairycore-and-cottagecore-plaguecore-and?source=share/) The origin of the aesthetic's name
 
-## Images
-
-- `images/magician/MAGICIANCOREVISUALS.jpg`
-- `images/magician/Magiciancore1.jpg`
-- `images/magician/Magiciancore2.jpg`
-- `images/magician/Shoujibizhi-4c85l5ed31.jpg`
-- `images/magician/5961e3f9c8df52362b943cd2feda3311.jpg`
-- `images/magician/3ab53f0030c43e4320e35128ab0d8f99.jpg`
-- `images/magician/D93efa3d760cd0bf3afa6ba326912a05.jpg`
-- `images/magician/MagiciancoreZatanna.jpg`
-- `images/magician/34d2bc3845249dc24137e2cc710c2002.jpg`
-- `images/magician/0011fb6e07cd79408d371afdf3eaaeac.jpg`
-- `images/magician/5bbe0530f1144f1faf41301aac5c2b55.jpg`
-- `images/magician/6e433556a73444fa77ce3b9b47314c68.jpg`
-- `images/magician/C7faf69421f94aba0e2f80af406bb837.jpg`
-- `images/magician/51fcd8b5ab3539841c969a47c0591257.jpg`
-- `images/magician/52124e869c14a24f5f72fe42738a6fef.jpg`
-- `images/magician/MAGICIANCOREFASHION.jpg`
-- `images/magician/MAGICIANCOREACCESSORIES.jpg`
-
 ## Source and attribution
 
-Text adapted from "Magician" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Magician), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Magician" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Magician), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

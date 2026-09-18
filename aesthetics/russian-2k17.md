@@ -12,7 +12,6 @@ primary_platform: ["VK"]
 source_url: "https://aesthetics.fandom.com/wiki/Russian_2K17"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Russian 2K17
@@ -98,25 +97,6 @@ The aesthetic is characterized by both performed loneliness and collective ident
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • **Russian 2K17** • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/russian-2k17/Db7b9c08c909d13c640cf8e8cd507043.jpg`
-- `images/russian-2k17/G-m7KjSbQAQpekE.jpg`
-- `images/russian-2k17/7f7d815e-2be9-4948-bd2a-d891b7fb1f82.jpg`
-- `images/russian-2k17/A344476f-7827-4ba9-8872-9dac8a80c8ca.jpg`
-- `images/russian-2k17/7072768f-2ef5-498c-8f26-11350165baf9.jpg`
-- `images/russian-2k17/B6dccf32-fdb1-4ac5-a259-dec3fcd1e06c.jpg`
-- `images/russian-2k17/D5c09998-2a0b-4c60-819a-74f6763579d6.jpg`
-- `images/russian-2k17/Винишко-Тян.jpg`
-- `images/russian-2k17/4d1021f5-6709-4da6-9ca7-f732b18c44ed.jpg`
-- `images/russian-2k17/BYSw6DmK.jpeg`
-- `images/russian-2k17/YzBn1Fnu.jpeg`
-- `images/russian-2k17/8PlnUbWI.jpeg`
-- `images/russian-2k17/02ce8c6dffc9f94dbaf5a579c36ce6c0.jpg`
-- `images/russian-2k17/B400986564a04637b636f1d0064f319a.jpg`
-- `images/russian-2k17/Fc6d1b7d203c8ded7f8359ba50d495fb.jpg`
-- `images/russian-2k17/A996c0a30adf77fa02918bfbb62cb1f3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Russian 2K17" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Russian_2K17), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Russian 2K17" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Russian_2K17), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -5,7 +5,6 @@ palette: ["#1A1415", "#473235", "#6B7E71", "#F0EDD3", "#15575B", "#FEFEFE"]
 source_url: "https://aesthetics.fandom.com/wiki/Lost_Media"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Lost Media
@@ -156,14 +155,6 @@ Lostwave, a more recent phenomenon, primarily deals with existing recordings lac
 
 ## References
 
-## Images
-
-- `images/lost-media/LondonAfterMidnight.jpg`
-- `images/lost-media/EKT.webp`
-- `images/lost-media/MySpaceMusic.jpg`
-- `images/lost-media/BatmanFightsDracula-HorizontalPoster.jpg`
-- `images/lost-media/Fountain.jpg`
-
 ## Source and attribution
 
-Text adapted from "Lost Media" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lost_Media), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lost Media" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lost_Media), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

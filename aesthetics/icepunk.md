@@ -11,7 +11,6 @@ related_aesthetics: ["Cleancore", "Seapunk", "Slimepunk", "Starrflesh", "Trillwa
 source_url: "https://aesthetics.fandom.com/wiki/Icepunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Icepunk
@@ -73,16 +72,6 @@ Music labels with some Icepunk aesthetics
 
 ## References
 
-## Images
-
-- `images/icepunk/Icepunk.jpg`
-- `images/icepunk/21875451.jpg`
-- `images/icepunk/Ykykyk.jpg`
-- `images/icepunk/CqQv.gif`
-- `images/icepunk/Lake-r▲dio-hypoxia-Cover-Art.jpg`
-- `images/icepunk/Various-artists-icepunk-Cover-Art.jpg`
-- `images/icepunk/Artworks-zDz6D68yqsrXnaMb-3W8KJg-t1080x1080.jpg`
-
 ## Source and attribution
 
-Text adapted from "Icepunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Icepunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Icepunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Icepunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

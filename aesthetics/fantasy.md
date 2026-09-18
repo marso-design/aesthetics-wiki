@@ -9,7 +9,6 @@ palette: ["#060607", "#191C18", "#303225", "#4E4934", "#898775", "#746A51"]
 source_url: "https://aesthetics.fandom.com/wiki/Fantasy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Fantasy
@@ -214,22 +213,6 @@ The Fantasy aesthetic is very prominent in video game genres like Role-Playing G
 
 ## Gallery
 
-## Images
-
-- `images/fantasy/Archery.jpg`
-- `images/fantasy/Awhitedragon.jpg`
-- `images/fantasy/Forestwithfairies.jpg`
-- `images/fantasy/Keyandapoiton.jpg`
-- `images/fantasy/Apersonridingahorse.jpg`
-- `images/fantasy/Hobitshome.jpg`
-- `images/fantasy/Acoolreddragon.jpg`
-- `images/fantasy/Anothermountaincastle.jpg`
-- `images/fantasy/Ravencore.jpeg`
-- `images/fantasy/Harry-potter-dragon-john-hebb.jpg`
-- `images/fantasy/Koifish.png`
-- `images/fantasy/Afantasyforest.jpg`
-- `images/fantasy/3451e8cad4b35e54e903f24396d3352f.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fantasy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fantasy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fantasy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fantasy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

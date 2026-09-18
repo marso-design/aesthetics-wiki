@@ -10,7 +10,6 @@ palette: ["#242325", "#080809", "#3D3E40", "#685D58", "#8D8784", "#F1EFEF"]
 source_url: "https://aesthetics.fandom.com/wiki/Nanchatte_Seifuku"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Nanchatte Seifuku
@@ -96,17 +95,6 @@ This subculture reached its height in 2020, when it was regarded as one of the *
 
 ## References
 
-## Images
-
-- `images/nanchatte-seifuku/School.jpg`
-- `images/nanchatte-seifuku/Schoolgirlsfrompintrest.jpg`
-- `images/nanchatte-seifuku/Schoolheart.jpg`
-- `images/nanchatte-seifuku/Schoolgirl-plaid-skirts.jpg`
-- `images/nanchatte-seifuku/Schoolgirl-pose.jpg`
-- `images/nanchatte-seifuku/Schoolgirl-uniform.jpg`
-- `images/nanchatte-seifuku/Schoolgirl-writing.jpg`
-- `images/nanchatte-seifuku/Bowtie.jpg`
-
 ## Source and attribution
 
-Text adapted from "Nanchatte Seifuku" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nanchatte_Seifuku), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nanchatte Seifuku" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nanchatte_Seifuku), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

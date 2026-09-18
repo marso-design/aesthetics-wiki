@@ -12,7 +12,6 @@ related_media: ["Bit Music (record label)", "La Ruta (2022 Series)", "IVAM \"Rut
 source_url: "https://aesthetics.fandom.com/wiki/Bakala"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 27
 ---
 
 # Bakala
@@ -279,36 +278,6 @@ Documentary (in Spanish)
 | Fusion Aesthetics |
 | [Acid Design](https://aesthetics.fandom.com/wiki/Acid_Design "Acid Design") ☺ [Cyberdelia](https://aesthetics.fandom.com/wiki/Cyberdelia "Cyberdelia") ☺ [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") ☺ [New Rave](https://aesthetics.fandom.com/wiki/New_Rave "New Rave") |
 
-## Images
-
-- `images/bakala/RutaFashion.png`
-- `images/bakala/Bakala1.jpg`
-- `images/bakala/Bakala7.jpeg`
-- `images/bakala/Bakala4.jpg`
-- `images/bakala/Bakala3.jpg`
-- `images/bakala/6e9a32d66063a0eca2c21e85e124900d.jpg`
-- `images/bakala/Bakala5.jpg`
-- `images/bakala/Bakala6.jpg`
-- `images/bakala/Bakala2.jpg`
-- `images/bakala/PuzzleVerano89.jpg`
-- `images/bakala/Barraca.jpg`
-- `images/bakala/Espiral.jpeg`
-- `images/bakala/Sesiones-ruta-destroy-1024x683.jpg`
-- `images/bakala/Capture-d’écran-2020-02-29-à-15.36.32.jpg`
-- `images/bakala/Chimobayo.jpg`
-- `images/bakala/MariaKeFisherman.png`
-- `images/bakala/Makinaaa.jpg`
-- `images/bakala/ChimoBayo.jpg`
-- `images/bakala/TheStoneRoses.png`
-- `images/bakala/Makina3.png`
-- `images/bakala/LaRuta.png`
-- `images/bakala/Ruta-bakalao.jpg`
-- `images/bakala/Flyervalencia.jpg`
-- `images/bakala/ACTVflyer.jpg`
-- `images/bakala/LaRutaMap.jpg`
-- `images/bakala/Pontaeri.jpg`
-- `images/bakala/Spook.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bakala" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bakala), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bakala" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bakala), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

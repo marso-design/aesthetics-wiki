@@ -11,7 +11,6 @@ related_aesthetics: ["Claymorphism", "Flat Design", "Minimalism", "Neubrutalism"
 source_url: "https://aesthetics.fandom.com/wiki/Corporate_Memphis"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 27
 ---
 
 # Corporate Memphis
@@ -110,36 +109,6 @@ Going Under, a video game parodying the aesthetic
 
 ## References
 
-## Images
-
-- `images/corporate-memphis/Blob-web-exercise.webp`
-- `images/corporate-memphis/Corpart1.jpg`
-- `images/corporate-memphis/Corpart3.png`
-- `images/corporate-memphis/Corpart2.jpg`
-- `images/corporate-memphis/Corpartjoke.jpg`
-- `images/corporate-memphis/Marathonrace.webp`
-- `images/corporate-memphis/Workfromhome-blobweb.webp`
-- `images/corporate-memphis/Corporatememphis1.jpg`
-- `images/corporate-memphis/Corporatememphis2.jpg`
-- `images/corporate-memphis/Corporatememphis3.jpg`
-- `images/corporate-memphis/Corporatememphis4.jpg`
-- `images/corporate-memphis/EyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhjOGUxODVhOTI5NzQ0NDhhYTJiNDNhZWRjYzYxZGYxIiwiZXhwIjoxNjIwMjI4MDk5LCJ0eXBlIjoxfQ.jpg`
-- `images/corporate-memphis/VyondContemporary.jpg`
-- `images/corporate-memphis/DiscordCorporteMemphis.jpg`
-- `images/corporate-memphis/DonutCounty.png`
-- `images/corporate-memphis/UntitledGooseGame.png`
-- `images/corporate-memphis/VinetasDesdeOAtlantico.jpg`
-- `images/corporate-memphis/HillMochi.jpg`
-- `images/corporate-memphis/Slack.png`
-- `images/corporate-memphis/SamsungWeather.jpg`
-- `images/corporate-memphis/Shopify2.jpg`
-- `images/corporate-memphis/Shopify.jpg`
-- `images/corporate-memphis/CorporateMemphis222.png`
-- `images/corporate-memphis/Flatart4.png`
-- `images/corporate-memphis/OuestFrance.png`
-- `images/corporate-memphis/GoingUnder.jpg`
-- `images/corporate-memphis/Humaaans-sitting-1.svg.png`
-
 ## Source and attribution
 
-Text adapted from "Corporate Memphis" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corporate_Memphis), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Corporate Memphis" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corporate_Memphis), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -5,7 +5,6 @@ palette: ["#553E3A", "#212124", "#A8A3B1", "#5A5B59", "#8D838D", "#966E6C"]
 source_url: "https://aesthetics.fandom.com/wiki/Philosophy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Philosophy
@@ -82,12 +81,6 @@ As the environmental movement had gained traction over the years, much concern h
 
 Different aesthetics have different perspectives on how to approach to reality depending on ideas associated with romanticism, realism, and escapism. Romanticization of reality (also called jokingly Main Character Syndrome).
 
-## Images
-
-- `images/philosophy/Traumacore-Sanrio.jpeg`
-- `images/philosophy/Hime-Princess-Lolita.jpg`
-- `images/philosophy/Otaku.jpg`
-
 ## Source and attribution
 
-Text adapted from "Philosophy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Philosophy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Philosophy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Philosophy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

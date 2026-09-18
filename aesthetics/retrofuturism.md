@@ -10,7 +10,6 @@ related_media: ["The Jetsons", "Fallout franchise", "Metropolis", "Brazil", "Bio
 source_url: "https://aesthetics.fandom.com/wiki/Retrofuturism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Retrofuturism
@@ -230,11 +229,6 @@ The City of the Captive Globe, by Rem Koolhaas, Zoe Zenghelis and Madelon Vriese
 
 ## References
 
-## Images
-
-- `images/retrofuturism/72080dd0f981fd11c1fb6b1e62e40d95.jpg`
-- `images/retrofuturism/Retro-future-3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Retrofuturism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Retrofuturism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Retrofuturism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Retrofuturism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["Baddie", "Chav", "Dresiarz", "Hypebeast", "Jersey Shore", 
 source_url: "https://aesthetics.fandom.com/wiki/Racaille"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Racaille
@@ -107,15 +106,6 @@ If you've already been to France before, you prolly once saw boys dressed up lik
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/racaille/66f17dac3fbf44be94df9e0de817e489.jpg`
-- `images/racaille/1f3fee311c20142d26b8c9d94d5e4a63.jpg`
-- `images/racaille/74acf40d2e1c31d90d3c9357cfdf14b8.jpg`
-- `images/racaille/E7b3751b990ce28c3266885a9b43ff27.jpg`
-- `images/racaille/D7bf479919de95989f59f3e2448efc24.jpg`
-- `images/racaille/A2eb605fc0cc65b96b8bf053ee0b8ba0.jpg`
-
 ## Source and attribution
 
-Text adapted from "Racaille" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Racaille), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Racaille" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Racaille), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

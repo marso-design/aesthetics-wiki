@@ -10,7 +10,6 @@ related_aesthetics: ["Americana", "Barbiecore", "Coquette", "Cottagecore", "Coun
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Countriana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Soft Countriana
@@ -95,21 +94,6 @@ Country jars
 
 * <https://www.are.na/evan-collins-1522646491/soft-countriana>
 
-## Images
-
-- `images/soft-countriana/3FD7A46F-F68F-444A-8623-AF00B9E9EDEE.jpeg`
-- `images/soft-countriana/713E9D20-FD26-454D-8D05-4E1CA2E38BD6.png`
-- `images/soft-countriana/BBBF3183-56D9-4545-9FE1-86C3C5CCDFB8.jpeg`
-- `images/soft-countriana/9D958DDC-B7DB-4757-8756-93C1A6FF2F1E.webp`
-- `images/soft-countriana/771A7C11-2965-4315-AED8-7C2B6A3A0687.webp`
-- `images/soft-countriana/B3A7CF92-FC6A-44EC-9422-29BE86946685.webp`
-- `images/soft-countriana/1033C4D8-F9E2-4F00-8024-C61DE86290D9.webp`
-- `images/soft-countriana/C291AF33-2F19-498B-B5BC-67DA58A4E4A9.webp`
-- `images/soft-countriana/3109BDBF-C3A1-47A3-8F50-49F0A960BE5B.webp`
-- `images/soft-countriana/264B2A44-6018-4A4B-9DB2-7ECEB60BDC0B.png`
-- `images/soft-countriana/AB62A7C4-70BF-484C-B03B-07AACBE6607B.png`
-- `images/soft-countriana/C8424E08-24FF-4E5F-96D0-B28F8CF87AC4.png`
-
 ## Source and attribution
 
-Text adapted from "Soft Countriana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Countriana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Soft Countriana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Countriana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Eco-Beige", "Frasurbane", "Gen X Soft Club", "Global Villa
 source_url: "https://aesthetics.fandom.com/wiki/Zen-X"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Zen-X
@@ -101,10 +100,6 @@ West Elm Catalog 2003-04 (2003), unknown designer
 
 ## References
 
-## Images
-
-- `images/zen-x/ZENX.jpg`
-
 ## Source and attribution
 
-Text adapted from "Zen-X" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Zen-X), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Zen-X" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Zen-X), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

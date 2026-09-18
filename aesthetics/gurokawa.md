@@ -10,7 +10,6 @@ related_aesthetics: ["Busukawaii", "Cutegore", "Decora", "Dokukawaii", "Hallowee
 source_url: "https://aesthetics.fandom.com/wiki/Gurokawa"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Gurokawa
@@ -200,21 +199,6 @@ Meaty-chan (UTAU)
 
 ## References
 
-## Images
-
-- `images/gurokawa/EVtwNrvU0AIFtcI.jpg`
-- `images/gurokawa/4365365.jpg`
-- `images/gurokawa/O0640048013754069009.jpg`
-- `images/gurokawa/80F6450F-DC6D-4EE9-87B6-E443473A4F20.jpeg`
-- `images/gurokawa/C0Rmh4kVIAAhNd3.jpg`
-- `images/gurokawa/CFvHmo3VEAAKHCL.jpg`
-- `images/gurokawa/O0480064013754063051.jpg`
-- `images/gurokawa/2fi7gm-l-610x610-jewels-lolita-pastel-pastel-goth-pastel-grunge-gothic-gothic-lolita-goth-pink-dress-eyeball-hairbow-hair-bow-hair-accessory.jpg`
-- `images/gurokawa/005F2NGAly1gpn0x1r2cyj31ha1z4b29.jpg`
-- `images/gurokawa/Gloomy.png`
-- `images/gurokawa/W850.jpg`
-- `images/gurokawa/Gurokawaanatomy.png`
-
 ## Source and attribution
 
-Text adapted from "Gurokawa" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gurokawa), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gurokawa" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gurokawa), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

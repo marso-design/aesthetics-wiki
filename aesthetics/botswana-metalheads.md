@@ -13,7 +13,6 @@ related_media: ["Frank Marshall's photography project", "Overthrust (Band)"]
 source_url: "https://aesthetics.fandom.com/wiki/Botswana_Metalheads"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Botswana Metalheads
@@ -98,14 +97,6 @@ The subculture has been widely documented in photography, which can be found in 
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/botswana-metalheads/Botswana-metal-cowboys-dethguard.jpg`
-- `images/botswana-metalheads/1669808126582-ohpbotswanabw1fin2.webp`
-- `images/botswana-metalheads/120626043404-botswana-heavy-metal-big.jpg`
-- `images/botswana-metalheads/120626044603-botswana-heavy-metal-big.jpg`
-- `images/botswana-metalheads/Bots.jpg`
-
 ## Source and attribution
 
-Text adapted from "Botswana Metalheads" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Botswana_Metalheads), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Botswana Metalheads" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Botswana_Metalheads), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

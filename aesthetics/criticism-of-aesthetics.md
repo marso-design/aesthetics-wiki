@@ -5,7 +5,6 @@ palette: ["#431775", "#F9F9F8", "#759564", "#746C7C", "#C1B69E", "#EBD27E"]
 source_url: "https://aesthetics.fandom.com/wiki/Criticism_of_Aesthetics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Criticism of Aesthetics
@@ -92,11 +91,6 @@ Social Media's Obsession with Aesthetics and Curated Identities
 
 ## References
 
-## Images
-
-- `images/criticism-of-aesthetics/Global-textile-waste-infographic.png`
-- `images/criticism-of-aesthetics/-outline-fast-fashion-s-environmental-impact-stats-and-facts-19.png`
-
 ## Source and attribution
 
-Text adapted from "Criticism of Aesthetics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Criticism_of_Aesthetics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Criticism of Aesthetics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Criticism_of_Aesthetics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Sailor Moon", "Boys Over Flowers (Hana Yori Dango)", "Bubble Fi
 source_url: "https://aesthetics.fandom.com/wiki/Bodikon"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Bodikon
@@ -214,21 +213,6 @@ Collection of the Juliana’s Tokyo albums, Maharaja Night albums, and other pop
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/bodikon/2F0FA042-87B6-4124-90A3-7F740A8AAC4B.jpg`
-- `images/bodikon/1986.jpg`
-- `images/bodikon/BC3.jpg`
-- `images/bodikon/BC4.jpg`
-- `images/bodikon/BN3.jpg`
-- `images/bodikon/BN1.jpg`
-- `images/bodikon/BCG.jpg`
-- `images/bodikon/Esmeraude.jpg`
-- `images/bodikon/Reiko.jpg`
-- `images/bodikon/Mikami.webp`
-- `images/bodikon/Deka.jpg`
-- `images/bodikon/BedIn.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bodikon" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bodikon), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bodikon" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bodikon), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Betty Boop", "Popeye the Sailor", "Koko the Clown", "Bimbo (cha
 source_url: "https://aesthetics.fandom.com/wiki/Fleischer_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Fleischer Style
@@ -114,21 +113,6 @@ Cuphead
 
 Spinel from Steven Universe, a character who pays homage to the Rubberhose style
 
-## Images
-
-- `images/fleischer-style/1-sweet-betty-1.webp`
-- `images/fleischer-style/51d9e63b7bedaf54ab99eedd836dc046.jpg`
-- `images/fleischer-style/D4bf5a15df648948773862fc61bee2b4.jpg`
-- `images/fleischer-style/D55ae1d08c68bf10495c55a011178326.jpg`
-- `images/fleischer-style/5bea8698852058fa309d454710af486f.jpg`
-- `images/fleischer-style/Rubber.png`
-- `images/fleischer-style/Rubberhoseee.png`
-- `images/fleischer-style/Rubeerrr.png`
-- `images/fleischer-style/925d241ee530ea293ad018801f55ed0b.jpg`
-- `images/fleischer-style/54a9fa7a287320158313243d6c5999cb.jpg`
-- `images/fleischer-style/Cuphead.png`
-- `images/fleischer-style/ClassicMickey.gif`
-
 ## Source and attribution
 
-Text adapted from "Fleischer Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fleischer_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fleischer Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fleischer_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

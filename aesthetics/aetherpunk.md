@@ -9,7 +9,6 @@ palette: ["#6C655F", "#241916", "#A39270", "#A37547", "#4F3328", "#704B35"]
 source_url: "https://aesthetics.fandom.com/wiki/Aetherpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Aetherpunk
@@ -77,15 +76,6 @@ The exact color of the so-called aether may vary between examples. In the Kalade
 
 ## References
 
-## Images
-
-- `images/aetherpunk/MagicPunk1.jpg`
-- `images/aetherpunk/MagicPunk2.jpg`
-- `images/aetherpunk/MagicPunk3.jpg`
-- `images/aetherpunk/MagicPunk4.jpg`
-- `images/aetherpunk/MagicPunk5.jpg`
-- `images/aetherpunk/MagicPunk6.jpg`
-
 ## Source and attribution
 
-Text adapted from "Aetherpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aetherpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Aetherpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aetherpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

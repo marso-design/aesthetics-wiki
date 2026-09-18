@@ -10,7 +10,6 @@ related_media: ["Li Ziqi (vlogger)"]
 source_url: "https://aesthetics.fandom.com/wiki/Romantic_Chinese_Village"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Romantic Chinese Village
@@ -61,4 +60,4 @@ Savor Yunnan's Potato Extravaganza【Dianxixiaoge】
 
 ## Source and attribution
 
-Text adapted from "Romantic Chinese Village" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romantic_Chinese_Village), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Romantic Chinese Village" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romantic_Chinese_Village), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

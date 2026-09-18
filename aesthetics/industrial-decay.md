@@ -10,7 +10,6 @@ related_aesthetics: ["After Hours", "Arte Povera", "Brutalism", "Cyber Grunge", 
 source_url: "https://aesthetics.fandom.com/wiki/Industrial_Decay"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Industrial Decay
@@ -87,29 +86,6 @@ The philosophy of industrial decay extends to its influence on fiction. The aest
 
 ## References
 
-## Images
-
-- `images/industrial-decay/IndustrialDecay.png`
-- `images/industrial-decay/Screen-Shot-2014-05-29-at-11.54.29-AM.webp`
-- `images/industrial-decay/45f3097ad84ae8632821a1ae2607d513.jpg`
-- `images/industrial-decay/520a8207fe0bae6231d61562f22fa57a.jpg`
-- `images/industrial-decay/4c85ef63532507cf05bdd3b74a299349.jpg`
-- `images/industrial-decay/0c448e443ac4ec5949313692765c4aa9.jpg`
-- `images/industrial-decay/Indusdec.jpg`
-- `images/industrial-decay/Urban-decay-09.jpg`
-- `images/industrial-decay/114416e650c1af27faf9c0473a22d709.jpg`
-- `images/industrial-decay/3a750d984aec1345735ad6e0a83556b6.jpg`
-- `images/industrial-decay/6c689348122ad9d94acd892457892b21.jpg`
-- `images/industrial-decay/416c1d249f184c6bb967e6d93d2d8dd2.jpg`
-- `images/industrial-decay/ART-975-12.jpg`
-- `images/industrial-decay/12b84a2d048fa470ceb0fadc32f61d17.jpg`
-- `images/industrial-decay/31d6cdd0378afa8aa1f3928f5d61fcf9.jpg`
-- `images/industrial-decay/Abfe32976fc0f21a1cef532d5f9af675.jpg`
-- `images/industrial-decay/ART-975-6.jpg`
-- `images/industrial-decay/C858f8fe0122f221bd933c5b7b2ef53d.jpg`
-- `images/industrial-decay/25d06ed892e0024cd6a31bc0372dc4d7.jpg`
-- `images/industrial-decay/Decay.jpg`
-
 ## Source and attribution
 
-Text adapted from "Industrial Decay" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Industrial_Decay), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Industrial Decay" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Industrial_Decay), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

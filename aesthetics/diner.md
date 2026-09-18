@@ -8,7 +8,6 @@ related_aesthetics: ["Americana", "Diner Kitsch (revival)", "Googie Kitsch", "Fo
 source_url: "https://aesthetics.fandom.com/wiki/Diner"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Diner
@@ -64,10 +63,6 @@ The fashion generally sticks to general 1950s fashion, but usually with a focus 
 
 ## Gallery
 
-## Images
-
-- `images/diner/Diner.jpg`
-
 ## Source and attribution
 
-Text adapted from "Diner" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Diner), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Diner" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Diner), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

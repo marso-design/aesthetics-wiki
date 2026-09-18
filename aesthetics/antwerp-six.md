@@ -11,7 +11,6 @@ primary_platform: ["High-fashion runways", "London Trade Shows"]
 source_url: "https://aesthetics.fandom.com/wiki/Antwerp_Six"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Antwerp Six
@@ -54,11 +53,6 @@ While the group is strictly limited to the six graduates who made the 1986 trip,
 
 ## References
 
-## Images
-
-- `images/antwerp-six/AntwerpSix.png`
-- `images/antwerp-six/39d1b4f53f4a8c40b4b7e115cda6797f.jpg`
-
 ## Source and attribution
 
-Text adapted from "Antwerp Six" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Antwerp_Six), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Antwerp Six" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Antwerp_Six), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

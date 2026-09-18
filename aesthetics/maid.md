@@ -10,7 +10,6 @@ related_aesthetics: ["Animecore", "Bondage", "Erokawa", "Femboy", "Jersey Maid",
 source_url: "https://aesthetics.fandom.com/wiki/Maid"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 34
 ---
 
 # Maid
@@ -139,43 +138,6 @@ Naoko, a Unity asset by SURIYUN
 
 ## References
 
-## Images
-
-- `images/maid/Maidcore.jpeg`
-- `images/maid/Maidcore1.jpg`
-- `images/maid/Maidcore2.jpg`
-- `images/maid/Maidcore3.jpg`
-- `images/maid/Maidcore4.gif`
-- `images/maid/Maidcore5.jpg`
-- `images/maid/Maidcore6.jpg`
-- `images/maid/Maidcore7.png`
-- `images/maid/Maidcore8.jpg`
-- `images/maid/Maidcore9.jpg`
-- `images/maid/Maidcore10.jpg`
-- `images/maid/Maidcore11.gif`
-- `images/maid/Maidcore12.jpg`
-- `images/maid/Maidcore13.jpg`
-- `images/maid/Naoko.jpeg`
-- `images/maid/D45867a00854c627a476e645aedc0d32.jpg`
-- `images/maid/B1afc4ded7838a81eb1e7330db7ac08b.jpg`
-- `images/maid/1391ffd1999ec6cd22a9a5b3643bb7b1.jpg`
-- `images/maid/D4ef138d4fa01c323e2a04bd15992fa2.jpg`
-- `images/maid/E73ee427357e4a80d0b0a40e0da68fef.jpg`
-- `images/maid/B1515db655e58ec775bd0726e7264135.jpg`
-- `images/maid/C30368f9856e2ab2295a4de13540424e.jpg`
-- `images/maid/Fa0745c302094cc11bda3f22ddbf767c.jpg`
-- `images/maid/E06cf16016aecacc6b6f296ed57f8527.jpg`
-- `images/maid/Dc5aeeb47581b7887875f8a468b8d7af.jpg`
-- `images/maid/F58a143efe1d37b61620bda4bf9a4f78.jpg`
-- `images/maid/9eafe0759e7a43b690456d1807a3a4dc.jpg`
-- `images/maid/217251baf85b54a876a955bc1c3d8484.jpg`
-- `images/maid/11c6fe36146cafafded808dca751d21c.jpg`
-- `images/maid/064c25be1576137437eb352655b0346d.jpg`
-- `images/maid/161c7fa5ed700a4dd0b00073a8ba4ebb.jpg`
-- `images/maid/99bd45f7f02f825eb9e3f61e14f076c9.jpg`
-- `images/maid/6ca463bb9cf59835a968e4fc46efe465.jpg`
-- `images/maid/0b0543d15e0008fc23a430390e9002c9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Maid" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Maid), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Maid" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Maid), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

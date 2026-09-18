@@ -12,7 +12,6 @@ subgenres: ["Xianxia"]
 source_url: "https://aesthetics.fandom.com/wiki/Wuxia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 42
 ---
 
 # Wuxia
@@ -292,51 +291,6 @@ Full movie of *New Dragon Gate Inn* on Youtube
 
 ## References
 
-## Images
-
-- `images/wuxia/Wuxia-featured.jpg.optimal.jpg`
-- `images/wuxia/Wuxia-Costume-Qiyao-Ruqun-Han-Element-Classical-Styling-1.webp`
-- `images/wuxia/How-representative-of-chinese-culture-is-xianxia-wuxia-v0-tdoarqkscjee1.webp`
-- `images/wuxia/A-Tribute-to-Jin-Yongs-Centennial-with-a-Cinematic-Journey-1.webp`
-- `images/wuxia/Tracing-the-Evolution-of-Jin-Yong-Wuxia-Novels-in-Film-and-TV-8.webp`
-- `images/wuxia/ISSTH-229x300.jpg`
-- `images/wuxia/Wuxia-DragonInn.webp`
-- `images/wuxia/Wuxia-ATouchOfZen.webp`
-- `images/wuxia/Wuxia-RainingInTheMountain.webp`
-- `images/wuxia/Wuxia-TheSwordsman.webp`
-- `images/wuxia/Wuxia-TheSwordsman2.webp`
-- `images/wuxia/Wuxia-DragonInn2.jpg`
-- `images/wuxia/Wuxia-TaichiMaster.webp`
-- `images/wuxia/Wuxia-JudgeArcher.webp`
-- `images/wuxia/Wuxia-TheGrandmaster.jpg`
-- `images/wuxia/Wuxia-TheMaster.webp`
-- `images/wuxia/Shadow2.webp`
-- `images/wuxia/Wu.jpg`
-- `images/wuxia/Wuxia.jpg`
-- `images/wuxia/Wuxia-visuals.jpg`
-- `images/wuxia/Ec4d0bf4-0622-4a70-9c57-86f480684dce.jpeg`
-- `images/wuxia/Are-there-any-good-wuxia-novels-that-arent-1000-chapters-v0-e7nege48upkg1.webp`
-- `images/wuxia/Wuxia-Dou4po4cang1qiong2.jpg`
-- `images/wuxia/Wuxia-Shao4nian2ge1xing2.png`
-- `images/wuxia/Where-winds-meet.jpg`
-- `images/wuxia/Wuxia-Ni4shui3han2.png`
-- `images/wuxia/Wuxia-一代宗师.jpeg`
-- `images/wuxia/Wuxia-AshesOfTime1.jpeg`
-- `images/wuxia/Wuxia-AshesOfTime2.webp`
-- `images/wuxia/Wuxia-NewDragonGateInn.webp`
-- `images/wuxia/Wuxia-Nieyinniang.jpg`
-- `images/wuxia/Wuxia-minguo.png`
-- `images/wuxia/Wuxia-QingGong.jpeg`
-- `images/wuxia/Wuxia-visuals2.jpg`
-- `images/wuxia/Wuxia-visuals1.jpg`
-- `images/wuxia/Wuxia-visuals3.jpg`
-- `images/wuxia/Wuxia-fashion.jpg`
-- `images/wuxia/Wuxia-weapons.png`
-- `images/wuxia/Wuxia-BrotherhoodOfBlades.jpg`
-- `images/wuxia/Wuxia-theshaolintemple.webp`
-- `images/wuxia/Wuxia-Wo4hu3cang2long2.webp`
-- `images/wuxia/Wuxia-wu4shan1wu3xing2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Wuxia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wuxia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wuxia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wuxia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

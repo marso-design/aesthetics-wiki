@@ -11,7 +11,6 @@ related_aesthetics: ["Burlesque", "Clowncore", "Deathrock", "Edwardian", "Emo", 
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Cabaret"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Dark Cabaret
@@ -150,25 +149,6 @@ Art by ellaine on DeviantArt
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/dark-cabaret/TheDresdenDolls.jpg`
-- `images/dark-cabaret/Voltiare.jpg`
-- `images/dark-cabaret/DresdenDolls.jpg`
-- `images/dark-cabaret/Darkcabaret.jpg`
-- `images/dark-cabaret/6e2aba0ca59d58c74f90c85bfecf273d.jpg`
-- `images/dark-cabaret/72e71eae0b02c309a95073d941307884.jpg`
-- `images/dark-cabaret/73a2f2f1510745c1d7c11fe04ae0ba9d.jpg`
-- `images/dark-cabaret/982f9b67651e02f1494a5aaa76f3b1d1.jpg`
-- `images/dark-cabaret/E076048b7b45bc3d2653c8fd867a53a5.jpg`
-- `images/dark-cabaret/5598d7434d5ba06cbd16965b72bd32f6.jpg`
-- `images/dark-cabaret/26bb9019275c3eff6e381b7c0263ffbd.jpg`
-- `images/dark-cabaret/9816e6d626badcc30b4106e1473a6d03.jpg`
-- `images/dark-cabaret/1499d4dcb39887addce02714a99a894d.jpg`
-- `images/dark-cabaret/10016009f61953934c83bc0da6d0a615.jpg`
-- `images/dark-cabaret/0e34f01873796f9ef12f2b94b9dea52c.jpg`
-- `images/dark-cabaret/26db8baed11a3b8f39ac5e8e29f221e1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dark Cabaret" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Cabaret), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Cabaret" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Cabaret), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

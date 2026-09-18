@@ -9,7 +9,6 @@ related_aesthetics: ["Balletcore", "Delicate Sweet", "Dolly Kei", "Fairy Kei", "
 source_url: "https://aesthetics.fandom.com/wiki/Cult_Party_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Cult Party Kei
@@ -87,19 +86,6 @@ made by [Izzy McLeod](https://www.muccycloud.com/2013/05/cult-party-kei-essentia
 
 image of a person called "AMO-chan"
 
-## Images
-
-- `images/cult-party-kei/Cultpartykei.png`
-- `images/cult-party-kei/Cultparty01.jpg`
-- `images/cult-party-kei/Cultparty02.jpg`
-- `images/cult-party-kei/Cultparty03.jpg`
-- `images/cult-party-kei/Cultparty04.jpg`
-- `images/cult-party-kei/Cultparty05.jpg`
-- `images/cult-party-kei/CultPartyKeiDuo.jpg`
-- `images/cult-party-kei/Cultpartykeii.jpg`
-- `images/cult-party-kei/Cultpartykeilace.jpg`
-- `images/cult-party-kei/Culltparrtykeii.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cult Party Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cult_Party_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cult Party Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cult_Party_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

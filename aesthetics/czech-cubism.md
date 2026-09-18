@@ -9,7 +9,6 @@ related_aesthetics: ["Art Deco", "Cubism", "Expressionism", "Modernism"]
 source_url: "https://aesthetics.fandom.com/wiki/Czech_Cubism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Czech Cubism
@@ -42,4 +41,4 @@ The theoretical foundation for the movement was largely established by Pavel Jan
 
 ## Source and attribution
 
-Text adapted from "Czech Cubism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Czech_Cubism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Czech Cubism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Czech_Cubism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

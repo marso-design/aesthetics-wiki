@@ -10,7 +10,6 @@ related_media: ["Emily in Paris"]
 source_url: "https://aesthetics.fandom.com/wiki/French_Girly"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # French Girly
@@ -108,11 +107,6 @@ Art by @ Nanase Miri
 
 【LOOK BOOK】骨格ウェーブの足細見え小顔見せコーデ
 
-## Images
-
-- `images/french-girly/85914739.jpeg`
-- `images/french-girly/008zghamgy1hfiamficidj30yr1kwteu.jpg`
-
 ## Source and attribution
 
-Text adapted from "French Girly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/French_Girly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "French Girly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/French_Girly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -5,7 +5,6 @@ palette: ["#4B3731", "#0E2430", "#485E47", "#766943", "#8F9171", "#DAD1A8"]
 source_url: "https://aesthetics.fandom.com/wiki/Vintage"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Vintage
@@ -24,11 +23,6 @@ The scope of vintage is broad, encompassing fashion, interior design, technology
 
 The term "vintage" originates from the Anglo-Norman word *vendage*, which was adapted from the Old French *vendange*, meaning "grape harvest." This term traces its roots to the Latin word *vindemia*, a combination of *vinum* ("wine") and *demere* ("to remove"). Initially, "vintage" was used specifically within winemaking to refer to the year a particular wine was made. By the late 19th century, its definition had expanded to denote the age of an object. The word was later adopted more broadly to describe items from a past era, especially in fashion, art, and design, implying a sense of quality and enduring style associated with that period.
 
-## Images
-
-- `images/vintage/Gramophone.jpg`
-- `images/vintage/VintageFlowers.png`
-
 ## Source and attribution
 
-Text adapted from "Vintage" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vintage), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vintage" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vintage), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

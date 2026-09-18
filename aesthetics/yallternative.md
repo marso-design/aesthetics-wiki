@@ -13,7 +13,6 @@ related_media: ["Dexter and the Moonrocks", "Tyler Childers", "Johnny Cash"]
 source_url: "https://aesthetics.fandom.com/wiki/Yallternative"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Yallternative
@@ -52,22 +51,6 @@ Grooming habits heavily utilize dark cosmetics, such as black winged eyeliner, s
 
 ## References
 
-## Images
-
-- `images/yallternative/Yallternative-af-v0-inoxzsby5loa1.webp`
-- `images/yallternative/Yallter.jpg`
-- `images/yallternative/Sheyna.jpg`
-- `images/yallternative/Orville-Peck-misfits-shirt-Yallternative-768x1159.jpg`
-- `images/yallternative/Yalleterntiveduo.jpg`
-- `images/yallternative/Uallentive5.jpg`
-- `images/yallternative/Yallentive4.jpg`
-- `images/yallternative/Yallternative2.jpg`
-- `images/yallternative/De4ea96e26d2a329cd6b59dc7119cdd8.jpg`
-- `images/yallternative/Cowbod.jpg`
-- `images/yallternative/920b02a6d10fed0e1cefbff68663a7d0.jpg`
-- `images/yallternative/Yallternative8.jpg`
-- `images/yallternative/Hawthorne-black-floral-embroidered-studded-lace-front-stretch-corset-top-1343332.webp`
-
 ## Source and attribution
 
-Text adapted from "Yallternative" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yallternative), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yallternative" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yallternative), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

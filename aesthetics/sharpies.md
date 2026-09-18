@@ -10,7 +10,6 @@ palette: ["#787B6F", "#272720", "#4B473A", "#C4B499", "#A79779", "#DCD3C2"]
 source_url: "https://aesthetics.fandom.com/wiki/Sharpies"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Sharpies
@@ -86,26 +85,6 @@ The subculture was deeply connected to the local music scene in Melbourne, with 
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/sharpies/Sharpies-are-still-australias-coolest-gang-body-image-1438312139.png`
-- `images/sharpies/Sharpies-are-still-australias-coolest-gang-body-image-1438312335.png`
-- `images/sharpies/Sharpies-1960s-70s-5.jpg`
-- `images/sharpies/Sharpiesscan.jpg`
-- `images/sharpies/Sharpies-are-still-australias-best-gang-498-1438311821.webp`
-- `images/sharpies/Sharpies-an-australian-subculture-approx-1970s-v0-kye74t820cwd1.webp`
-- `images/sharpies/Sharpies.jpg`
-- `images/sharpies/Sharpies-are-still-australias-best-gang-589-1438311826.webp`
-- `images/sharpies/Sharpies-1960s-70s-18.jpg`
-- `images/sharpies/Sharpies-an-australian-subculture-approx-1970s-v0-7qfu64130cwd1.jpg`
-- `images/sharpies/Sharpies-are-still-australias-coolest-gang-100-1438312377.webp`
-- `images/sharpies/0-1.jpg`
-- `images/sharpies/FEAT-sharpies-1960s-70s-37-copy.jpeg`
-- `images/sharpies/Sharpies-are-still-australias-coolest-gang-861-1438312382.webp`
-- `images/sharpies/Sharpies-are-still-australias-coolest-gang-540-1438312381.webp`
-- `images/sharpies/Screenshot-2018-12-15-at-16.41.47.png`
-- `images/sharpies/Sharpies-are-still-australias-best-gang-110-1438311828.png`
-
 ## Source and attribution
 
-Text adapted from "Sharpies" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sharpies), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sharpies" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sharpies), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ related_aesthetics: ["Science Academia"]
 source_url: "https://aesthetics.fandom.com/wiki/Mad_Scientist"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Mad Scientist
@@ -104,22 +103,6 @@ by @rottinggrl on Tumblr
 
 by witchingfacility on Tumblr
 
-## Images
-
-- `images/mad-scientist/Mtgmadscientist.png`
-- `images/mad-scientist/Science.jpg`
-- `images/mad-scientist/Mad-Scientist-Decor--1536x983.jpg`
-- `images/mad-scientist/Mad-scientist-56a12ac25f9b58b7d0bcaec1.webp`
-- `images/mad-scientist/Scientist.jpg`
-- `images/mad-scientist/Mad-scientist-blog.png`
-- `images/mad-scientist/Lab.jpg`
-- `images/mad-scientist/Blue-liminal-hospital-hallway.jpg`
-- `images/mad-scientist/Jekrll.jpg`
-- `images/mad-scientist/D40olme-46b40acc-5c94-497b-a905-e478045818bb.png`
-- `images/mad-scientist/20005fdfcb1c4ddb7596c6e905fd007b.jpg`
-- `images/mad-scientist/Re-animator-cool-poster.jpg`
-- `images/mad-scientist/FK1HN5ISoELGzEx-Vhs9AIOhT2Sm6DPxeRhGvFB0dbo.webp`
-
 ## Source and attribution
 
-Text adapted from "Mad Scientist" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mad_Scientist), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mad Scientist" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mad_Scientist), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

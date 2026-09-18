@@ -10,7 +10,6 @@ primary_platform: ["BLAST (journal)"]
 source_url: "https://aesthetics.fandom.com/wiki/Vorticism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Vorticism
@@ -53,4 +52,4 @@ These artists got together to share their art with the world. Although this did 
 
 ## Source and attribution
 
-Text adapted from "Vorticism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vorticism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vorticism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vorticism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

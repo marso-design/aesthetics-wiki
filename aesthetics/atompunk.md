@@ -11,7 +11,6 @@ palette: ["#32252A", "#9BAAA2", "#767A78", "#DC802B", "#3A3D4A", "#65595A"]
 source_url: "https://aesthetics.fandom.com/wiki/Atompunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Atompunk
@@ -127,20 +126,6 @@ The cast from the game *I Have No Mouth and I Must Scream* (1995); Atompunk does
 
 Atompunk can also take elements of [Art Deco](https://aesthetics.fandom.com/wiki/Art_Deco "Art Deco"), primarily influenced by the [Dieselpunk](https://aesthetics.fandom.com/wiki/Dieselpunk "Dieselpunk") aesthetic of *Metropolis*.
 
-## Images
-
-- `images/atompunk/75508oocip3f1.jpg`
-- `images/atompunk/Atom4.jpg`
-- `images/atompunk/Atom5.jpg`
-- `images/atompunk/Atom7.jpg`
-- `images/atompunk/Atom8.jpg`
-- `images/atompunk/Future.jpg`
-- `images/atompunk/Atompunk.jpg`
-- `images/atompunk/Futurama.png`
-- `images/atompunk/Megacity1.png`
-- `images/atompunk/IhavenomouthandImustscream.png`
-- `images/atompunk/Talos1.png`
-
 ## Source and attribution
 
-Text adapted from "Atompunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Atompunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Atompunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Atompunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

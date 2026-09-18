@@ -10,7 +10,6 @@ palette: ["#9C9586", "#4A392F", "#262420", "#D9CEC6", "#BFBDB3", "#886B5B"]
 source_url: "https://aesthetics.fandom.com/wiki/Aliyahcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Aliyahcore
@@ -66,17 +65,6 @@ Cover art for the song "It Girl" by Aliyah's Interlude, which brought the aesthe
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/aliyahcore/0a6a2b5905b44d40e650f07585ad16aa.jpg`
-- `images/aliyahcore/820571084ef8d1e4b1bd11ab20b84ffc.jpg`
-- `images/aliyahcore/D609c4a897ff2b3f1ba914514758cba5.jpg`
-- `images/aliyahcore/F0b2fc8499655bea35efda2b0bad5a6d.jpg`
-- `images/aliyahcore/5abb4515dd06f28ef4d37d0e5cdf917a.jpg`
-- `images/aliyahcore/5c0c9c2f25b7b70cde17a192525b666d.jpg`
-- `images/aliyahcore/170c74f8e52a5e9628f224b0b487c47b.jpg`
-- `images/aliyahcore/7077321690e35cf82a1fe3245ea575f9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Aliyahcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aliyahcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Aliyahcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aliyahcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

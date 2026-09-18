@@ -12,7 +12,6 @@ related_media: ["Propaganda posters"]
 source_url: "https://aesthetics.fandom.com/wiki/Heroic_Realism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Heroic Realism
@@ -136,21 +135,6 @@ Barack Obama's "Hope" electoral poster, a contemporary example of Heroic Realism
 
 ## References
 
-## Images
-
-- `images/heroic-realism/Weneedyou.jpg`
-- `images/heroic-realism/Shes-a-wow.jpg`
-- `images/heroic-realism/Heroicrealism.jpg`
-- `images/heroic-realism/NKHR.jpg`
-- `images/heroic-realism/Heroicrealism3.jpg`
-- `images/heroic-realism/Captainamerica.jpg`
-- `images/heroic-realism/Belgiumhr.jpg`
-- `images/heroic-realism/Heroicrealism4.jpg`
-- `images/heroic-realism/Tanks.jpg`
-- `images/heroic-realism/Heroicrealism5.jpg`
-- `images/heroic-realism/Heroicrealism6.jpg`
-- `images/heroic-realism/Obama.png`
-
 ## Source and attribution
 
-Text adapted from "Heroic Realism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heroic_Realism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Heroic Realism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heroic_Realism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -4,7 +4,6 @@ slug: "differences-between-similar-aesthetics"
 source_url: "https://aesthetics.fandom.com/wiki/Differences_Between_Similar_Aesthetics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Differences Between Similar Aesthetics
@@ -149,4 +148,4 @@ This page describes the differences between many aesthetics that are commonly co
 
 ## Source and attribution
 
-Text adapted from "Differences Between Similar Aesthetics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Differences_Between_Similar_Aesthetics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Differences Between Similar Aesthetics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Differences_Between_Similar_Aesthetics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

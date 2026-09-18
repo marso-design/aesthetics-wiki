@@ -11,7 +11,6 @@ related_aesthetics: ["Baroque", "Cayetana", "Majismo", "Pijo", "Rococo"]
 source_url: "https://aesthetics.fandom.com/wiki/Torero_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Torero Aesthetic
@@ -54,22 +53,6 @@ Support for the practice is often concentrated among the upper class and is a di
 
 ## References
 
-## Images
-
-- `images/torero-aesthetic/1e8519a0a769113871d6ab45b7a66bc9.jpg`
-- `images/torero-aesthetic/3f8e78e02ea0cfa8d020f2596ac18bc1.jpg`
-- `images/torero-aesthetic/536d7c40ff821a7e0538b07b1d0c7e44.jpg`
-- `images/torero-aesthetic/B236f5cea0927df79952f02e1598d005.jpg`
-- `images/torero-aesthetic/572607781800fd57470261e506dfbaec.jpg`
-- `images/torero-aesthetic/2674e3766c319c5e33a2d1bd38c65920.jpg`
-- `images/torero-aesthetic/E4e72dfde4f589f0ff951f4f0de6a077.jpg`
-- `images/torero-aesthetic/03fb7c6b2a0b918736179852a73cf6f4.jpg`
-- `images/torero-aesthetic/62db81a67ef60c45f9ad8c50a4e1e2b8.jpg`
-- `images/torero-aesthetic/6f5ec3c361227e8317412714999a1dea.jpg`
-- `images/torero-aesthetic/97508695f9f3915022ebfb18d0c2d455.jpg`
-- `images/torero-aesthetic/1052a6c712ee043288d29f44ccfd9035.jpg`
-- `images/torero-aesthetic/047404bd8687fec690203a2a01d55566.jpg`
-
 ## Source and attribution
 
-Text adapted from "Torero Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Torero_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Torero Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Torero_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

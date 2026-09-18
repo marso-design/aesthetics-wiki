@@ -10,7 +10,6 @@ palette: ["#131314", "#8D8F86", "#C7C2BC", "#636460", "#59474A", "#E8CCE5"]
 source_url: "https://aesthetics.fandom.com/wiki/Psychobilly"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 28
 ---
 
 # Psychobilly
@@ -154,37 +153,6 @@ The Spice Girls reimagined in the [pin-up](https://aesthetics.fandom.com/wiki/Pi
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/psychobilly/TheMeteors.jpg`
-- `images/psychobilly/PsychobillyNew.jpg`
-- `images/psychobilly/21e60e30ce2769d09df56453e70f1fec.jpg`
-- `images/psychobilly/C92baef814990313b6ac7a86aae601b1.jpg`
-- `images/psychobilly/76302f7422b1d0807e9fdbc57db27f37.jpg`
-- `images/psychobilly/Bf4d3cd6e573530ee49532698935bfca.jpg`
-- `images/psychobilly/86c9fe0be1972768edb4df5e0e3e886c.jpg`
-- `images/psychobilly/2df601446b7a006014638f70afa14a85.jpg`
-- `images/psychobilly/B4ee9472f94f053cd0c49c5a3dc9cc73.jpg`
-- `images/psychobilly/D952c7c81b4fa4b9ecdf0b45ba5b633f.jpg`
-- `images/psychobilly/531ea0e65498beb4d5bd9d987faeb30d.jpg`
-- `images/psychobilly/8d34604e947c2adc9dd4e0c101930e56.jpg`
-- `images/psychobilly/A97f5bf446a0dba8798e85e2325470c7.jpg`
-- `images/psychobilly/F4c4319d36d50eb92b9143a01cc0e240.jpg`
-- `images/psychobilly/62214da489b6b3495218a79a10499b31.jpg`
-- `images/psychobilly/26a7208429f6723ac076762d49f8713f.jpg`
-- `images/psychobilly/E25be1c26799bb65f471b2eadb62b772.jpg`
-- `images/psychobilly/576298bad4fd2e76db9e2baac528197e.jpg`
-- `images/psychobilly/15f95867ac447634caa14a13ec4379f2.jpg`
-- `images/psychobilly/2ae9abfd7adc08322974ee8a3d59dee9.jpg`
-- `images/psychobilly/Ed664785272b79edafcda39e78a50236.jpg`
-- `images/psychobilly/7ef6436e37cf0c5d787b87ea5b1a8be9.jpg`
-- `images/psychobilly/C66eac20d9dc4c8ef4fb10944a6ca418.jpg`
-- `images/psychobilly/Spicegirlspunkabilly.jpg`
-- `images/psychobilly/Bf638d002a20225abc2bb886cf336e85.jpg`
-- `images/psychobilly/5825a6922ce78702801ca128ae72e10b.jpg`
-- `images/psychobilly/PsychobillyArtwork.jpg`
-- `images/psychobilly/Psychobillyquiff.jpg`
-
 ## Source and attribution
 
-Text adapted from "Psychobilly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Psychobilly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Psychobilly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Psychobilly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

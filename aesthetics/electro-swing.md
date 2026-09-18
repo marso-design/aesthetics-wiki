@@ -13,7 +13,6 @@ related_media: ["Bendy and the Ink Machine", "Cuphead", "Mirror's Edge"]
 source_url: "https://aesthetics.fandom.com/wiki/Electro_Swing"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Electro Swing
@@ -98,18 +97,6 @@ Electro Swing music relies on a mix of traditional 4/4 "four-on-the-floor" beats
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/electro-swing/28227wjs.jpeg`
-- `images/electro-swing/Wp2012057.jpg`
-- `images/electro-swing/Wp7294489.jpg`
-- `images/electro-swing/Wp7294490.jpg`
-- `images/electro-swing/Wp7294499.jpg`
-- `images/electro-swing/D03bf7b2dad22f0e5084c3cad3010abd.jpg`
-- `images/electro-swing/Screen-Shot-2022-03-10-at-11.17.26-AM-1024x878.png`
-- `images/electro-swing/Maxresdefault111.jpg`
-- `images/electro-swing/Artworks-f12db60b-18e0-44a0-afc8-96c6546b3c50-0-t240x240.jpg`
-
 ## Source and attribution
 
-Text adapted from "Electro Swing" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Electro_Swing), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Electro Swing" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Electro_Swing), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

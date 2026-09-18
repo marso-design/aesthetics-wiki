@@ -11,7 +11,6 @@ related_media: ["Technology and science magazines", "news media"]
 source_url: "https://aesthetics.fandom.com/wiki/Med-Tech_Visions"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Med-Tech Visions
@@ -88,27 +87,6 @@ An inversion of the usual color scheme
 
 [[Abstract-wormhole-futuristic-technology-metaverse.mp4](https://aesthetics.fandom.com/wiki/File:Abstract-wormhole-futuristic-technology-metaverse.mp4 "Abstract-wormhole-futuristic-technology-metaverse.mp4 (7.95 MB)")](https://static.wikia.nocookie.net/aesthetics/images/3/38/Abstract-wormhole-futuristic-technology-metaverse.mp4/revision/latest?cb=20240429023555)
 
-## Images
-
-- `images/med-tech-visions/Science-vie-octobre-2010-1117-300x386.jpg`
-- `images/med-tech-visions/Science-vie-fevrier-2012-1133-300x386.jpg`
-- `images/med-tech-visions/Science-vie-avril-2012-1135-300x386.jpg`
-- `images/med-tech-visions/2zxspjrmqslabctivk7lkxno6j20.jpg`
-- `images/med-tech-visions/3e99eea0a1a79f20831cf9aaaca4691b.jpg`
-- `images/med-tech-visions/Medicinalis-Gmbh-003.jpg`
-- `images/med-tech-visions/Pfizer.png`
-- `images/med-tech-visions/1-1bdb16715e.webp`
-- `images/med-tech-visions/Istockphoto-1434534146-612x612.jpg`
-- `images/med-tech-visions/GettyImages-1183281148-copy-696x392.jpg`
-- `images/med-tech-visions/Embryonic-stem-cells-cellular-therapy-260nw-768933475.webp`
-- `images/med-tech-visions/CorTec-Communicating-with-the-Nervous-System.jpg`
-- `images/med-tech-visions/Gettyimages-1150397417.jpg`
-- `images/med-tech-visions/Istockphoto-1448844036-612x612.jpg`
-- `images/med-tech-visions/ALWw4gPY4TkRM9EZ7SxQwW-650-80.jpg.webp`
-- `images/med-tech-visions/Global-microchip-crisis-america.jpg`
-- `images/med-tech-visions/Untitled-25-1536x864.webp`
-- `images/med-tech-visions/Tecnopaganism.jpg`
-
 ## Source and attribution
 
-Text adapted from "Med-Tech Visions" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Med-Tech_Visions), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Med-Tech Visions" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Med-Tech_Visions), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ palette: ["#0B050E", "#3F5169", "#7CA6BB", "#70757B", "#332B39", "#1F1B24"]
 source_url: "https://aesthetics.fandom.com/wiki/Signalwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Signalwave
@@ -90,27 +89,6 @@ These samples are typically short, lo-fi, and are repeated in a hypnotic loop wi
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/signalwave/天気予報-weather-forecast-ひまわり画像-Cover-Art.jpg`
-- `images/signalwave/B4715976b7fc6e9613df5b27c7cb9804.jpg`
-- `images/signalwave/B2f969e84b7e5f990dc673633c2f52f2.jpg`
-- `images/signalwave/Aeb7d51bd209450474fa3ddc7d683c80.jpg`
-- `images/signalwave/F145824d3ffe44a46f598a4ba6cc6c8f.jpg`
-- `images/signalwave/F56d79b061ab0e027bbf8ad71c67699e.jpg`
-- `images/signalwave/0390aad1f86ff757ff94344df49cc21d.jpg`
-- `images/signalwave/D13ea97c612f36d4e8fb925546424ce5.jpg`
-- `images/signalwave/64a3199e4d192c01b9f8aade1ae3e81d.jpg`
-- `images/signalwave/My-debut-signalwave-album-qc-broadcasting-network-is-out-now-v0-Ho3bmxdmiCTcYQuJ2Lu3sv4xFMOU0foulnav6VaXON0.webp`
-- `images/signalwave/A40e5a4604bac0655db9646cdae8bfcd.jpg`
-- `images/signalwave/E72bb7607c9656cf92a3ea571e613f41.jpg`
-- `images/signalwave/9c6735b2d620a43147a8d93c77f26ff7.jpg`
-- `images/signalwave/8fbca2f1bf8ed7df7594cbfaab8a8967.jpg`
-- `images/signalwave/Dfbc038c8784dde6d3a0111f85c13c03.jpg`
-- `images/signalwave/97c4ac30a13ac5683b1b7042f2ec5ea3.jpg`
-- `images/signalwave/Dab58cf8af9a7f6f8ba95a00b5084905.jpg`
-- `images/signalwave/B4bb2b185d78b77c15bceb13d26491a0.jpg`
-
 ## Source and attribution
 
-Text adapted from "Signalwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Signalwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Signalwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Signalwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

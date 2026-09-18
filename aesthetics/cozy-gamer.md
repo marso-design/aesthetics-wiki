@@ -12,7 +12,6 @@ related_media: ["Stardew Valley", "Animal Crossing", "Unpacking", "Spiritfarer",
 source_url: "https://aesthetics.fandom.com/wiki/Cozy_Gamer"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Cozy Gamer
@@ -75,26 +74,6 @@ In contrast to the standard [RGB or "Pro-Gamer" aesthetic](https://aesthetics.fa
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/cozy-gamer/CozyGamerSetup.jpg`
-- `images/cozy-gamer/997882ef6fd6791dc94f9d4a24503462.jpg`
-- `images/cozy-gamer/C6f72f4705ee30c5cfcdba9e2acb6aae.jpg`
-- `images/cozy-gamer/2cd1c0b74dbf962ca8f38f6e4fde765c.jpg`
-- `images/cozy-gamer/9533cddfd0615cda48a0d84fff277a54.jpg`
-- `images/cozy-gamer/881db5d96df17948cc1ed66e8eb21ecb.jpg`
-- `images/cozy-gamer/Aa4804c6a95088bb533fa23772a05954.jpg`
-- `images/cozy-gamer/C5623a0d8299635976da0d7dba910959.jpg`
-- `images/cozy-gamer/Bfdd439ffbd207c78df41978634dcd14.jpg`
-- `images/cozy-gamer/Aa0c4d3a13d51bec5c17d0d9a68cedd9.jpg`
-- `images/cozy-gamer/83ed3b51e36ffcea249c9574af393191.jpg`
-- `images/cozy-gamer/Ebc7697b122ea6121cfe61680d3dbca6.jpg`
-- `images/cozy-gamer/681c479825b72f7f7b3d6cc698cae1c6.jpg`
-- `images/cozy-gamer/B6d82cdccc65b95beffbda7087fe837b.jpg`
-- `images/cozy-gamer/C21d0b66dc7de66c2d1fe547a73d6960.jpg`
-- `images/cozy-gamer/936e159a7c7138dcfeb8f36b392ef6f0.jpg`
-- `images/cozy-gamer/45ee6dfb26b1e2ccc9161322166f8ca1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cozy Gamer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cozy_Gamer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cozy Gamer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cozy_Gamer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

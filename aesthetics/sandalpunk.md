@@ -9,7 +9,6 @@ related_aesthetics: ["Steampunk", "Hellenic"]
 source_url: "https://aesthetics.fandom.com/wiki/Sandalpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Sandalpunk
@@ -70,22 +69,6 @@ Assassin's Creed Odyssey
 
 * [https://allthetropes.fandom.com/wiki/Sandal\_Punk](https://tropedia.fandom.com/wiki/Sandal_Punk)
 
-## Images
-
-- `images/sandalpunk/Liudmyla-stoian-soldiersmall.jpg`
-- `images/sandalpunk/Liudmyla-stoian-rome07environmentprojectsmalll.jpg`
-- `images/sandalpunk/C05b53767d6b41a43a35cba59f9ff1d8.jpg`
-- `images/sandalpunk/156ad159686bf553f9a02a049ff17032.jpg`
-- `images/sandalpunk/Manuel-castanon-jaguar-knight.jpg`
-- `images/sandalpunk/Antikythera-front-gears-and-bw-cutaway-modern-recon.jpg`
-- `images/sandalpunk/Gow.jpg`
-- `images/sandalpunk/Bronze.jpg`
-- `images/sandalpunk/1c2e1167d56c5715f3b615cc6efc170c.jpg`
-- `images/sandalpunk/B509ac0aac47862435d185413319d2ea.jpg`
-- `images/sandalpunk/Jung-park-hour-glass-700x422.jpg`
-- `images/sandalpunk/44ed3281fe5fe5ea02cdcd272e6053e1.jpg`
-- `images/sandalpunk/Sandalpunk.webp`
-
 ## Source and attribution
 
-Text adapted from "Sandalpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sandalpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sandalpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sandalpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Arabfunny", "Bright Tertiaries", "Dollar Store Vernacular"
 source_url: "https://aesthetics.fandom.com/wiki/Fotonight_Web"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 32
 ---
 
 # Fotonight Web
@@ -62,41 +61,6 @@ Art by BlumeCity
 * <https://www.reddit.com/r/FrutigerAero/comments/102bk7f/had_this_freaky_ass_dream_last_night_where/>
 * <https://www.reddit.com/r/FotonightWeb/>
 
-## Images
-
-- `images/fotonight-web/P80n16kss4va1.jpg`
-- `images/fotonight-web/J6kp7yih4cda1.jpg`
-- `images/fotonight-web/Pk9pwwg2rpca1.jpg`
-- `images/fotonight-web/Kk33rpj167da1.png`
-- `images/fotonight-web/Yd9pnfgcrvua1.webp`
-- `images/fotonight-web/7q0mk7lvn8na1.jpg`
-- `images/fotonight-web/Wzdn08bonjza1.jpg`
-- `images/fotonight-web/0crububo2koa1.png`
-- `images/fotonight-web/Byzailbt8uaa1.jpg`
-- `images/fotonight-web/Nzm5k9w27wza1.jpg`
-- `images/fotonight-web/Wpvzf1iydada1.jpg`
-- `images/fotonight-web/X8fv3g7dojda1.jpg`
-- `images/fotonight-web/1lr15fxdkpda1.jpg`
-- `images/fotonight-web/Yregik2pooda1.jpg`
-- `images/fotonight-web/S72e60huufna1.jpg`
-- `images/fotonight-web/Xuqy5zi48j2b1.jpg`
-- `images/fotonight-web/4vott7nfezia1.png`
-- `images/fotonight-web/F2ofs7v5bfma1.png`
-- `images/fotonight-web/32s8ajqqxlda1.jpg`
-- `images/fotonight-web/W7044d7rkgda1.webp`
-- `images/fotonight-web/107b4d7rkgda1.webp`
-- `images/fotonight-web/Ryfpgd7rkgda1.webp`
-- `images/fotonight-web/6q9fod7rkgda1.webp`
-- `images/fotonight-web/93n65e7rkgda1.webp`
-- `images/fotonight-web/Vktdmd7rkgda1.webp`
-- `images/fotonight-web/X4kzngvx5bda1.webp`
-- `images/fotonight-web/Fwwvjgvx5bda1.webp`
-- `images/fotonight-web/Su02zgvx5bda1.webp`
-- `images/fotonight-web/Oy4wogvx5bda1.webp`
-- `images/fotonight-web/T6pg4gvx5bda1.webp`
-- `images/fotonight-web/InternetCafe.jpeg`
-- `images/fotonight-web/7p46j1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fotonight Web" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fotonight_Web), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fotonight Web" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fotonight_Web), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

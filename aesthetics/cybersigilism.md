@@ -11,7 +11,6 @@ related_aesthetics: ["Acid Design", "Cyber Grunge", "Cyberpunk", "Drain", "Krush
 source_url: "https://aesthetics.fandom.com/wiki/Cybersigilism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Cybersigilism
@@ -66,28 +65,6 @@ Credit: @amg0d1
 
 ## References
 
-## Images
-
-- `images/cybersigilism/Nt2.jpg`
-- `images/cybersigilism/Ezekiel.png`
-- `images/cybersigilism/Ravealarm.jpg`
-- `images/cybersigilism/Yvescity.jpg`
-- `images/cybersigilism/Nt5.jpg`
-- `images/cybersigilism/Lyfestyle.png`
-- `images/cybersigilism/Wixapol.jpg`
-- `images/cybersigilism/855c0fb4e367470bf2e5c9922653d3e9.jpg`
-- `images/cybersigilism/2d6dc10558a5edebb99ed68bef42e240.jpg`
-- `images/cybersigilism/67f4fdfdbfd09b2539d45cd1257a7ec0.jpg`
-- `images/cybersigilism/1a96dd337c10e5311a39c5ed4fa8058e.jpg`
-- `images/cybersigilism/768343185c7f7e7e16a0a45eee10265c.jpg`
-- `images/cybersigilism/A5f85ac676d19dc3a5e23a82e1a5eec8.jpg`
-- `images/cybersigilism/Cbd82d437693889b3c952ed5c5a87ce2.jpg`
-- `images/cybersigilism/De137919d58df5ea79a96e96becf89db.jpg`
-- `images/cybersigilism/262b47b5298d7cf44331166093d8948c.jpg`
-- `images/cybersigilism/D3f369fccc9279b5b49007eb7312b4ff.jpg`
-- `images/cybersigilism/369a03215ba838cb0cce3b30934f9879.jpg`
-- `images/cybersigilism/Ed7119ab841c9245c0409226dc6debc4.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cybersigilism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cybersigilism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cybersigilism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cybersigilism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

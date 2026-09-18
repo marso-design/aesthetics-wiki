@@ -6,7 +6,6 @@ palette: ["#0A0809", "#1B1E1F", "#7E6F69", "#C89F83", "#5D3632", "#F9F8F0"]
 source_url: "https://aesthetics.fandom.com/wiki/Tanbi_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Tanbi Kei
@@ -43,25 +42,6 @@ Since it is a [Visual Kei](https://aesthetics.fandom.com/wiki/Visual_Kei "Visual
 
 ## Gallery
 
-## Images
-
-- `images/tanbi-kei/Malicemizer.jpg`
-- `images/tanbi-kei/Versailles3.jpg`
-- `images/tanbi-kei/Lariene.jpg`
-- `images/tanbi-kei/Lariene3.jpg`
-- `images/tanbi-kei/Versailles2.jpg`
-- `images/tanbi-kei/Kaya.jpg`
-- `images/tanbi-kei/Lariene2.jpg`
-- `images/tanbi-kei/Malicemizer2.jpg`
-- `images/tanbi-kei/Versailles.jpg`
-- `images/tanbi-kei/4106-david-group-shot.jpg`
-- `images/tanbi-kei/3979-art-cube-group-shot.jpg`
-- `images/tanbi-kei/242-lin-the-end-of-corruption-world-group-photo.jpg`
-- `images/tanbi-kei/131.png`
-- `images/tanbi-kei/30808-aurora-destinies-of-world-group-photo.jpg`
-- `images/tanbi-kei/93936-zeke-deux-group-photo.jpg`
-- `images/tanbi-kei/79412-scarlet-valse-group-photo.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tanbi Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tanbi_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tanbi Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tanbi_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

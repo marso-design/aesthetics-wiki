@@ -11,7 +11,6 @@ related_aesthetics: ["Baddie", "Bimbocore", "Bubblegum Bitch", "Femme Fatale", "
 source_url: "https://aesthetics.fandom.com/wiki/Cherry_Emoji_Twitter"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Cherry Emoji Twitter
@@ -121,26 +120,6 @@ Cherry: A Succubus Zine Vol.1
 
 ## References
 
-## Images
-
-- `images/cherry-emoji-twitter/C62b46a730587b87903392ee9ed211eb.jpg`
-- `images/cherry-emoji-twitter/83C4C7EB-AE0F-4736-B724-40CCC1FF9951.jpeg`
-- `images/cherry-emoji-twitter/A1CC0392-62E0-41F0-90C4-299CB699A881.jpeg`
-- `images/cherry-emoji-twitter/79002D08-2382-499F-9F2B-039054FE2EC3.jpeg`
-- `images/cherry-emoji-twitter/AD3E9109-3537-4BE1-9075-901CD1591717.jpeg`
-- `images/cherry-emoji-twitter/C4E7E006-D111-442A-BAD5-C75EA6FF20B1.jpeg`
-- `images/cherry-emoji-twitter/B55B4CD4-3EAD-4E03-AAB5-2DA8F2C5EB60.jpeg`
-- `images/cherry-emoji-twitter/Cherries.jpg`
-- `images/cherry-emoji-twitter/Cherrybowl.jpeg`
-- `images/cherry-emoji-twitter/CET6.jpg`
-- `images/cherry-emoji-twitter/CET2.jpg`
-- `images/cherry-emoji-twitter/CET3.jpg`
-- `images/cherry-emoji-twitter/CET1.gif`
-- `images/cherry-emoji-twitter/CET5.jpg`
-- `images/cherry-emoji-twitter/Devil-is-woman-compact-mirror-red.jpg`
-- `images/cherry-emoji-twitter/CET4.jpg`
-- `images/cherry-emoji-twitter/CET7.png`
-
 ## Source and attribution
 
-Text adapted from "Cherry Emoji Twitter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cherry_Emoji_Twitter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cherry Emoji Twitter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cherry_Emoji_Twitter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

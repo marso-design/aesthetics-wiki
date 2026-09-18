@@ -5,7 +5,6 @@ palette: ["#FEE7F0", "#C6BFAB", "#D7D7C2", "#9D7064", "#ABA393", "#D4A487"]
 source_url: "https://aesthetics.fandom.com/wiki/2014_Tumblr"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 73
 ---
 
 # 2014 Tumblr
@@ -209,82 +208,6 @@ This also applied to other subjects, such as [MBTI types](https://www.16personal
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/2014-tumblr/7b545123be64da2d40167a8168073a6b.jpg`
-- `images/2014-tumblr/B23be8b893803b9607db0ef1aa88d724.jpg`
-- `images/2014-tumblr/Cccandiceerosytmblr.gif`
-- `images/2014-tumblr/Hersheys.png`
-- `images/2014-tumblr/.♥.jpg`
-- `images/2014-tumblr/Rosy-flow.jpg`
-- `images/2014-tumblr/Middlepotaesthetic0.jpg`
-- `images/2014-tumblr/Middlepotaesthetic1.jpg`
-- `images/2014-tumblr/Middlepotaesthetic2.png`
-- `images/2014-tumblr/Middlepotaesthetic3.jpg`
-- `images/2014-tumblr/Middlepotaesthetic4.jpg`
-- `images/2014-tumblr/Middlepotaesthetic5.png`
-- `images/2014-tumblr/Middlepotaesthetic6.jpg`
-- `images/2014-tumblr/Middlepotaesthetic7.jpg`
-- `images/2014-tumblr/Middlepotaesthetic8.jpg`
-- `images/2014-tumblr/Middlepotaesthetic9.png`
-- `images/2014-tumblr/44-signs-you-might-be-a-hipster1.jpg`
-- `images/2014-tumblr/1635539155-skins-cast-photoshoot.jpg`
-- `images/2014-tumblr/1635539204-tumblr-effy-stonem-skins.gif`
-- `images/2014-tumblr/1635539177-american-apparel-kyle-james-patrick.jpg`
-- `images/2014-tumblr/1315683.jpg`
-- `images/2014-tumblr/1635523691-skins-indie-sleaze.jpg`
-- `images/2014-tumblr/1315782.jpg`
-- `images/2014-tumblr/1635539237-indie-sleaze-instagram.jpg`
-- `images/2014-tumblr/1635539283-indie-sleaze-avril-lavigne.jpg`
-- `images/2014-tumblr/1315783.jpg`
-- `images/2014-tumblr/1635523361-kanye-west-indie-sleaze.jpg`
-- `images/2014-tumblr/138441577fc2238cb4fffb44f7991f4d.jpg`
-- `images/2014-tumblr/16e4b3c1311001ef72de4ce41f8017fc.jpg`
-- `images/2014-tumblr/1d24f0f4135cc3fd65b055530105522d.jpg`
-- `images/2014-tumblr/22f05baae1e71a031a5f6866bc533f00.jpg`
-- `images/2014-tumblr/422ef6761090c84b9cf5d562bb9f82e1.jpg`
-- `images/2014-tumblr/5b51c4569ef3a55a0717956eb1f98f17.jpg`
-- `images/2014-tumblr/A082a14df8a31d01998c73b25fb1a13a.jpg`
-- `images/2014-tumblr/B6f98b72a60e0035181765c390f3299f.jpg`
-- `images/2014-tumblr/C53532b85c932403c06cefee54a18023.jpg`
-- `images/2014-tumblr/E82ac2dea2855b2c4e0d8abab9022e94.jpg`
-- `images/2014-tumblr/5cc12f8b5e26883cb7074ab8dd84e21a.jpg`
-- `images/2014-tumblr/Pastel-goth-drippy-cross.jpg`
-- `images/2014-tumblr/Meltychocolatemoon.jpg`
-- `images/2014-tumblr/Pastel-goth-accessories.jpg`
-- `images/2014-tumblr/44f507128e01f63e9a6901b76e1a8773.gif`
-- `images/2014-tumblr/74865688cdb845361be8816fb4e7b599.jpg`
-- `images/2014-tumblr/Cdss.jpg`
-- `images/2014-tumblr/Chanel-pearls-earring.jpg`
-- `images/2014-tumblr/Boys-with-sad-aesthetic-tumblr-dark-17q6b7yhbmnvjeyh.jpg`
-- `images/2014-tumblr/8126239fce591a4437314c9a6d40c0ad.jpg`
-- `images/2014-tumblr/Desktop-wallpaper-tumblr-grunge-boy-grunge-eboy.jpg`
-- `images/2014-tumblr/Sadtimes3.jpeg`
-- `images/2014-tumblr/Sadgirl.jpg`
-- `images/2014-tumblr/Sad.jpg`
-- `images/2014-tumblr/Sadtimes13.jpg`
-- `images/2014-tumblr/Couple.jpg`
-- `images/2014-tumblr/Air.jpg`
-- `images/2014-tumblr/Quote.jpg`
-- `images/2014-tumblr/Amap2.jpg`
-- `images/2014-tumblr/Boysweater.jpg`
-- `images/2014-tumblr/Chocolatr.jpg`
-- `images/2014-tumblr/Concrete.jpg`
-- `images/2014-tumblr/Originalkkkk.jpg`
-- `images/2014-tumblr/Girlss.jpg`
-- `images/2014-tumblr/Swag1.jpg`
-- `images/2014-tumblr/11323003.jpg`
-- `images/2014-tumblr/Anime-vaporwave-aesthetic-wallpaper-e940b86db10add4be637680f00e106ad.jpg`
-- `images/2014-tumblr/Arizona.png`
-- `images/2014-tumblr/1.jpg`
-- `images/2014-tumblr/8etnb4.jpg`
-- `images/2014-tumblr/6iYE4b.png`
-- `images/2014-tumblr/4al7vI.jpg`
-- `images/2014-tumblr/Lolita04.jpg`
-- `images/2014-tumblr/Gothpunk4.jpg`
-- `images/2014-tumblr/Decora01.jpg`
-- `images/2014-tumblr/Antiquekei06.jpg`
-
 ## Source and attribution
 
-Text adapted from "2014 Tumblr" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2014_Tumblr), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2014 Tumblr" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2014_Tumblr), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

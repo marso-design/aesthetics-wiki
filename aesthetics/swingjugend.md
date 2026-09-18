@@ -11,7 +11,6 @@ related_aesthetics: ["Jazz Age", "Stilyagi", "Zazou"]
 source_url: "https://aesthetics.fandom.com/wiki/Swingjugend"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Swingjugend
@@ -66,16 +65,6 @@ For the Swing Youth, swing and jazz music symbolized everything the Nazi regime 
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/swingjugend/Swingjugend.webp`
-- `images/swingjugend/German-swingjugend-swing-kids-ca-1939-they-danced-to-v0-dehlop1p8pm91.webp`
-- `images/swingjugend/025bd46c1ef8f043132d8f13616786a8.jpg`
-- `images/swingjugend/Afef26d38eefd5386c0d0529c560a2a2.jpg`
-- `images/swingjugend/Elderweiss10.jpg`
-- `images/swingjugend/3ce2061ae8240cb0bc3a7cbcaae2c1f94f73cd2be2fb691ac8f2ba54d4606699.jpg`
-- `images/swingjugend/87c3eab72946ed3f9fb6e662b961983f.jpg`
-
 ## Source and attribution
 
-Text adapted from "Swingjugend" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Swingjugend), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Swingjugend" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Swingjugend), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

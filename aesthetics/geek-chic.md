@@ -9,7 +9,6 @@ palette: ["#E4E5E4", "#595C5C", "#191A1A", "#9A877A", "#302F2E", "#D8CCBA"]
 source_url: "https://aesthetics.fandom.com/wiki/Geek_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Geek Chic
@@ -40,22 +39,6 @@ Accessories are the most defining aspect of the aesthetic. The single most iconi
 
 ## References
 
-## Images
-
-- `images/geek-chic/D734b6e52aa8f79a3412da024b2300f0.jpg`
-- `images/geek-chic/623b3225627ac8e5c68c1e70f87df7eb.jpg`
-- `images/geek-chic/A4cd15863596f6fbb587a5b4f2715607.jpg`
-- `images/geek-chic/7a82395ffdebcb3929a17ba0380e88b6.jpg`
-- `images/geek-chic/8ae8d2738f7ef1d4254e643a8cddf0cb.jpg`
-- `images/geek-chic/A7865338896cd054ca995dadf889588b.jpg`
-- `images/geek-chic/F3451d0ff44d342656332bde4e8f9c67.jpg`
-- `images/geek-chic/86e6412e98e6f20160b84219783dd444.jpg`
-- `images/geek-chic/1268363e9dfc1d06e503bb551b79e2c8.jpg`
-- `images/geek-chic/15ea61811cd4ec644951b16af8383d90.jpg`
-- `images/geek-chic/6389b73bdeedebca85695c3c8998c763.jpg`
-- `images/geek-chic/18d7d18dca6eee5197c48e85e1701d22.jpg`
-- `images/geek-chic/B3703ece36990baf8b337d6eabc1511d.jpg`
-
 ## Source and attribution
 
-Text adapted from "Geek Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Geek_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Geek Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Geek_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

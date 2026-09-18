@@ -10,7 +10,6 @@ related_aesthetics: ["Neo-Chinese Style"]
 source_url: "https://aesthetics.fandom.com/wiki/Shuimo_Feng"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Shuimo Feng
@@ -73,32 +72,6 @@ Neo-Chinese look
 
 ## References
 
-## Images
-
-- `images/shuimo-feng/Shuimo-Animation.jpg`
-- `images/shuimo-feng/Shuimo-PowerPoint.jpg`
-- `images/shuimo-feng/Shuimo-Gaming.webp`
-- `images/shuimo-feng/Shuimo-Stationery.png`
-- `images/shuimo-feng/Shuimo-DanceCostume.jpg`
-- `images/shuimo-feng/Shuimo-Hanfu.jpg`
-- `images/shuimo-feng/Shuimo-NeoChinese.jpg`
-- `images/shuimo-feng/Shuimo-ZhongguoQitan.png`
-- `images/shuimo-feng/Shuimo-GuFengCostume.jpg`
-- `images/shuimo-feng/Shuimo-BlackMythWukong.jpg`
-- `images/shuimo-feng/Shuimo-Fan.jpg`
-- `images/shuimo-feng/Shuimo-Interior.jpg`
-- `images/shuimo-feng/Shuimo-Package.webp`
-- `images/shuimo-feng/Shuimo-Package2.jpg`
-- `images/shuimo-feng/Shuimo-Poster1.webp`
-- `images/shuimo-feng/Shuimo-Poster2.jpg`
-- `images/shuimo-feng/Shuimo-GenshinImpactZibai.png`
-- `images/shuimo-feng/Shuimo-NiShuiHan1.jpg`
-- `images/shuimo-feng/Shuimo-HonorOfKings2.webp`
-- `images/shuimo-feng/Shuimo-HonorOfKings3.webp`
-- `images/shuimo-feng/Shuimo-HonorOfKings4.webp`
-- `images/shuimo-feng/Shuimo-NiShuiHan2.jpg`
-- `images/shuimo-feng/Shuimo-XuBeihong.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Shuimo Feng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shuimo_Feng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Shuimo Feng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shuimo_Feng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

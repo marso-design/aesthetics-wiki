@@ -11,7 +11,6 @@ related_media: ["Need for Speed: Underground", "DJ Hero", "The Amazing World of 
 source_url: "https://aesthetics.fandom.com/wiki/Stickerbomb"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Stickerbomb
@@ -43,14 +42,6 @@ Common motifs include:
 
 Let's Explore Hyper Specific 2000s Aesthetics
 
-## Images
-
-- `images/stickerbomb/B907bf4fa1f73622bf8bc1f7673190b7.jpg`
-- `images/stickerbomb/3f4f6520435ec4ce70116a2ea556d23b.jpg`
-- `images/stickerbomb/S-l1600.jpg`
-- `images/stickerbomb/6b1ffd4e37025c1b0354d9af3a97a5d3.jpg`
-- `images/stickerbomb/8db7b64be76fe81e1dbd14a18a1560a8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Stickerbomb" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Stickerbomb), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Stickerbomb" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Stickerbomb), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

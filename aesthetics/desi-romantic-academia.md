@@ -11,7 +11,6 @@ related_media: ["Jodha Akbar", "Padmavat", "Bajirao Mastani", "The Namesake", "H
 source_url: "https://aesthetics.fandom.com/wiki/Desi_Romantic_Academia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Desi Romantic Academia
@@ -161,10 +160,6 @@ Subtle soulful music describes the vibe that Desi Romantic Academia carry. Any g
 
 ## Gallery
 
-## Images
-
-- `images/desi-romantic-academia/Desi.jpg`
-
 ## Source and attribution
 
-Text adapted from "Desi Romantic Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Desi_Romantic_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Desi Romantic Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Desi_Romantic_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

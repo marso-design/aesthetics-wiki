@@ -11,7 +11,6 @@ related_aesthetics: ["Christian Girl Autumn", "Cinnamon Girl", "Cozycore", "Dark
 source_url: "https://aesthetics.fandom.com/wiki/Autumn_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Autumn Aesthetic
@@ -52,32 +51,6 @@ Musically, this mood is often represented by artists like Hozier, Bon Iver, and 
 
 ## References
 
-## Images
-
-- `images/autumn-aesthetic/B588e159eafb43c5b9b8f943dc77b9de.jpg`
-- `images/autumn-aesthetic/386b339891d847818870fe54acb24ee9.jpg`
-- `images/autumn-aesthetic/7b815507e6152fbc5dd0190e736773f6.jpg`
-- `images/autumn-aesthetic/7e91bc1a752ad622bc5b9f73b8e0d85b.jpg`
-- `images/autumn-aesthetic/842a60ff5d4992ab4d01cfe1b0bedce1.jpg`
-- `images/autumn-aesthetic/F66a0c0d92839744367797c36d73e061.jpg`
-- `images/autumn-aesthetic/Ec2f1faa1b02191bacfb22d216403d99.jpg`
-- `images/autumn-aesthetic/724e313defb0bbcaf45ce604a8da7f7e.jpg`
-- `images/autumn-aesthetic/9f9bee4bf4d4873b5ca0752cd18e52b4.jpg`
-- `images/autumn-aesthetic/Ff1f6ddc926cbaa98f19e4e9d5056494.jpg`
-- `images/autumn-aesthetic/Fall.jpg`
-- `images/autumn-aesthetic/Leafs.jpeg`
-- `images/autumn-aesthetic/Dogs.png`
-- `images/autumn-aesthetic/Pumpkin-pie-aesthetic.png`
-- `images/autumn-aesthetic/Alex-geerts-NuO6iTBkHxE-unsplash.jpg`
-- `images/autumn-aesthetic/Autumnbookstuff.jpg`
-- `images/autumn-aesthetic/Autumnacstreet.jpg`
-- `images/autumn-aesthetic/Moreautumnbook.jpg`
-- `images/autumn-aesthetic/Autumnstuff.png`
-- `images/autumn-aesthetic/Moreautumnstreet.png`
-- `images/autumn-aesthetic/Moreautumnstuffidontknow.png`
-- `images/autumn-aesthetic/Verycoolautumnstuffyesyes.png`
-- `images/autumn-aesthetic/Verywarmvibes.webp`
-
 ## Source and attribution
 
-Text adapted from "Autumn Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Autumn_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Autumn Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Autumn_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

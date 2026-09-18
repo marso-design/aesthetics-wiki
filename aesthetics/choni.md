@@ -10,7 +10,6 @@ related_aesthetics: ["Baddie", "Cani (male counterpart)", "Chav", "Chonga", "McB
 source_url: "https://aesthetics.fandom.com/wiki/Choni"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Choni
@@ -81,18 +80,6 @@ This classist double standard is highlighted by the fact that the negative conno
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/choni/SpanishChonis.jpg`
-- `images/choni/Choni-lore.png`
-- `images/choni/Choni3.jpg`
-- `images/choni/Choni2.jpg`
-- `images/choni/Ch4.jpg`
-- `images/choni/Ch1.jpg`
-- `images/choni/Choni.jpg`
-- `images/choni/Chonis2.png`
-- `images/choni/Chonis3.png`
-
 ## Source and attribution
 
-Text adapted from "Choni" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Choni), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Choni" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Choni), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

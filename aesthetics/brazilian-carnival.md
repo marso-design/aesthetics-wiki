@@ -11,7 +11,6 @@ related_aesthetics: ["Brazilian Bombshell", "Mandrake", "Manguebeat", "Venetian 
 source_url: "https://aesthetics.fandom.com/wiki/Brazilian_Carnival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Brazilian Carnival
@@ -128,22 +127,6 @@ Brazilian Carnival music mainly covers genres that emerged from the festival, su
 
 ## Gallery
 
-## Images
-
-- `images/brazilian-carnival/CarnivalMask.jpg`
-- `images/brazilian-carnival/Carnaboi.jpg`
-- `images/brazilian-carnival/CarnivalOlinda.jpg`
-- `images/brazilian-carnival/Frevoumbrella.jpg.jpg`
-- `images/brazilian-carnival/OlodumSalvador.jpg`
-- `images/brazilian-carnival/Carnivalparade.jpg`
-- `images/brazilian-carnival/Carnivaldancers.jpg`
-- `images/brazilian-carnival/Carnivalyellowmask.jpg`
-- `images/brazilian-carnival/Carnivalmasks.jpg`
-- `images/brazilian-carnival/Carnivalboys.jpg`
-- `images/brazilian-carnival/Carnivalgirls.jpg`
-- `images/brazilian-carnival/Carnivalgirl.jpg`
-- `images/brazilian-carnival/Carnivalfemaledancers.jpg.jpg`
-
 ## Source and attribution
 
-Text adapted from "Brazilian Carnival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brazilian_Carnival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Brazilian Carnival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brazilian_Carnival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

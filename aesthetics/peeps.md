@@ -10,7 +10,6 @@ related_media: ["Pokémon"]
 source_url: "https://aesthetics.fandom.com/wiki/PEEPS"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # PEEPS
@@ -66,14 +65,6 @@ Art by @wildtono
 
 ## References
 
-## Images
-
-- `images/peeps/Peeps.jpg`
-- `images/peeps/Peeps1.jpg`
-- `images/peeps/Peeps2.jpg`
-- `images/peeps/Peeps3.jpg`
-- `images/peeps/Peeps4.jpg`
-
 ## Source and attribution
 
-Text adapted from "PEEPS" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/PEEPS), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "PEEPS" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/PEEPS), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

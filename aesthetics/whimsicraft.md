@@ -10,7 +10,6 @@ related_aesthetics: ["Indiecraft", "Industrial Gothic", "Whimsigothic", "Maximal
 source_url: "https://aesthetics.fandom.com/wiki/Whimsicraft"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Whimsicraft
@@ -122,4 +121,4 @@ Illustration by Richard McNeel for How Magazine
 
 ## Source and attribution
 
-Text adapted from "Whimsicraft" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Whimsicraft), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Whimsicraft" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Whimsicraft), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Electro-industrial", "EBM", "Industrial Rock", "Cyberpunk liter
 source_url: "https://aesthetics.fandom.com/wiki/Rivethead"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Rivethead
@@ -257,12 +256,6 @@ Crystal Distortion (tekno/rave scene), not strictly industrial but demonstrates 
 | Fusion Aesthetics |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") ⚒ [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") ⚒ [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") ⚒ [New Beat](https://aesthetics.fandom.com/wiki/New_Beat "New Beat") |
 
-## Images
-
-- `images/rivethead/StevePykeCyberpunks.jpg`
-- `images/rivethead/AndOne.jpg`
-- `images/rivethead/AndOneMilitaryuniform.jpg`
-
 ## Source and attribution
 
-Text adapted from "Rivethead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rivethead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rivethead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rivethead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

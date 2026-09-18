@@ -10,7 +10,6 @@ related_aesthetics: ["Atompunk", "Googie", "Mid-Century Modern", "Populuxe", "Ra
 source_url: "https://aesthetics.fandom.com/wiki/Atomic_Age"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Atomic Age
@@ -45,4 +44,4 @@ The Atomic Age aesthetic uses a set of recurring motifs drawn from science and s
 
 ## Source and attribution
 
-Text adapted from "Atomic Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Atomic_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Atomic Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Atomic_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

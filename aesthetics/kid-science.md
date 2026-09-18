@@ -8,7 +8,6 @@ related_aesthetics: ["Kidcore", "Med-Tech Visions", "Science Academia", "Utopian
 source_url: "https://aesthetics.fandom.com/wiki/Kid_Science"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Kid Science
@@ -87,4 +86,4 @@ Clip from ToyLabTV science video (2019)
 
 ## Source and attribution
 
-Text adapted from "Kid Science" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kid_Science), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kid Science" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kid_Science), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

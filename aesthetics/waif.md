@@ -13,7 +13,6 @@ related_media: ["The Bell Jar by Sylvia Plath", "Girl", "Interrupted (1999)", "T
 source_url: "https://aesthetics.fandom.com/wiki/Waif"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Waif
@@ -336,15 +335,6 @@ The performative nature of the aesthetic, especially about negative traits such 
 | --- | --- | --- |
 | [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") ♡ [Bubblegum Coquette](https://aesthetics.fandom.com/wiki/Bubblegum_Coquette "Bubblegum Coquette") ♡ [Buckle Bunny](https://aesthetics.fandom.com/wiki/Buckle_Bunny "Buckle Bunny") ♡ [Coconut Girl](https://aesthetics.fandom.com/wiki/Coconut_Girl "Coconut Girl") ♡ [Coquette](https://aesthetics.fandom.com/wiki/Coquette "Coquette") ♡ [Coquette Academia](https://aesthetics.fandom.com/wiki/Coquette_Academia "Coquette Academia") ♡ [Dark Nymphet](https://aesthetics.fandom.com/wiki/Dark_Nymphet "Dark Nymphet") ♡ [Gloomy Coquette](https://aesthetics.fandom.com/wiki/Gloomy_Coquette "Gloomy Coquette") ♡ [Nymphet](https://aesthetics.fandom.com/wiki/Nymphet "Nymphet") ♡ [Trailer Park Princess](https://aesthetics.fandom.com/wiki/Trailer_Park_Princess "Trailer Park Princess") ♡ **Waif** |
 
-## Images
-
-- `images/waif/9536e598c74f8eed9168721205a3346b.jpg`
-- `images/waif/Waifspo.jpg`
-- `images/waif/Whisper.jpg`
-- `images/waif/Lala2.png`
-- `images/waif/Alicia.png`
-- `images/waif/Waifn.png`
-
 ## Source and attribution
 
-Text adapted from "Waif" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Waif), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Waif" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Waif), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

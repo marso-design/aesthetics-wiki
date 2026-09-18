@@ -13,7 +13,6 @@ related_media: ["Heavy Metal Parking Lot (1986)", "The Decline of Western Civili
 source_url: "https://aesthetics.fandom.com/wiki/Metalhead"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Metalhead
@@ -146,28 +145,6 @@ The subculture's identity is inextricably linked to the trailblazing bands of it
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/metalhead/JudasPriest.jpg`
-- `images/metalhead/A36ceaa617a8bd790c6f8fc38345020c.jpg`
-- `images/metalhead/De370ac2030d74fcc3e4e7886c7bed5e.jpg`
-- `images/metalhead/04defde3c21fd3ed9e1aa7d6e90257b4.jpg`
-- `images/metalhead/D807ff5ea47111a9c2ca641c12988984.jpg`
-- `images/metalhead/208b457c6c748c9041cf19a42e64c34a.jpg`
-- `images/metalhead/3919b2ec0a39d943f501f4797fa99344.jpg`
-- `images/metalhead/3d0f470986d37a725242974eea7657ef.jpg`
-- `images/metalhead/D549245f70c4dfff90906c83aa634d7b.jpg`
-- `images/metalhead/83dcec8f3dc0dee90d57f39ca48cc37a.jpg`
-- `images/metalhead/54107d14a70d74d743b0f8622d5adfee.jpg`
-- `images/metalhead/Cdbe81606e5eb515380b43bc1fc1fbb0.jpg`
-- `images/metalhead/8359f8589e1b05fb198b8c61f88d07f4.jpg`
-- `images/metalhead/28989d66134953bf94c833418cc64a7c.jpg`
-- `images/metalhead/A3a40cde12e35e9f914b61542f7a7810.jpg`
-- `images/metalhead/Fec2dcaddd6db36b42047872687cb0c8.jpg`
-- `images/metalhead/B3f533acc6bd5d49b3a5f0344882a7fb.jpg`
-- `images/metalhead/Tss--86298612c492f7c2b507d96fa6c2d944.jpg.webp`
-- `images/metalhead/Ronnie-james-dio-autobiography.webp`
-
 ## Source and attribution
 
-Text adapted from "Metalhead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Metalhead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Metalhead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Metalhead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

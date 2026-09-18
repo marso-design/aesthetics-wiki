@@ -11,7 +11,6 @@ related_media: ["No Players Online"]
 source_url: "https://aesthetics.fandom.com/wiki/After_Hours"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 33
 ---
 
 # After Hours
@@ -179,42 +178,6 @@ Seen in Almaty, Kazakhstan
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/after-hours/Walki-078-707330-4958.jpg`
-- `images/after-hours/665ab53eecb5fed003d2a17fb3bbba8d.jpg`
-- `images/after-hours/Afterhours1.jpg`
-- `images/after-hours/Afterhours2.jpg`
-- `images/after-hours/Afterhours3.jpg`
-- `images/after-hours/Afterhours4.jpg`
-- `images/after-hours/Afterhours5.jpg`
-- `images/after-hours/Afterhours6.jpg`
-- `images/after-hours/Afterhours7.jpg`
-- `images/after-hours/Afterhours8.jpg`
-- `images/after-hours/E92D0D12-8F0F-4E0B-BB0A-6148EC6A212C.jpeg`
-- `images/after-hours/D16205E8-B368-4FD9-BD33-469BD2C7C4D6.jpeg`
-- `images/after-hours/23C7DE5E-4A61-4671-B969-55F7C51149D2.webp`
-- `images/after-hours/A7DA565D-4359-48D5-B297-A4395294EB5B.jpeg`
-- `images/after-hours/14164186-2F20-481B-94EC-0CC9F3578A22.jpeg`
-- `images/after-hours/4E1D352C-FE19-48BD-8970-2D65C82BAB06.jpeg`
-- `images/after-hours/FE423339-8F32-436A-A426-BEDB99992AB3.jpeg`
-- `images/after-hours/6.jpg`
-- `images/after-hours/Nightwalks.jpg`
-- `images/after-hours/Ah.jpg`
-- `images/after-hours/Highway.jpeg`
-- `images/after-hours/Empty-night-highway.jpg`
-- `images/after-hours/Todays-Aesthetic-Is-Kenopsia.png`
-- `images/after-hours/Empty-Pink-Cafe.jpg`
-- `images/after-hours/Halte.jpg`
-- `images/after-hours/Gone-Shopping.jpg`
-- `images/after-hours/Abandoned-Hotel.jpg`
-- `images/after-hours/The-5AM-Ferry-From-Seattle.jpg`
-- `images/after-hours/No-Ones-Having-Lunch-Here.jpg`
-- `images/after-hours/Kenopsia-London.jpg`
-- `images/after-hours/Level-100-1.jpg`
-- `images/after-hours/Level-100-3.png`
-- `images/after-hours/TurkmenLiminal2.webp`
-
 ## Source and attribution
 
-Text adapted from "After Hours" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/After_Hours), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "After Hours" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/After_Hours), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

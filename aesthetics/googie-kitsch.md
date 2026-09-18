@@ -8,7 +8,6 @@ palette: ["#ECBA48", "#72B9AD", "#150E1A", "#783448", "#7E5854", "#331E2B"]
 source_url: "https://aesthetics.fandom.com/wiki/Googie_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Googie Kitsch
@@ -40,13 +39,6 @@ TBA
 
 ## Gallery
 
-## Images
-
-- `images/googie-kitsch/Sno-drift.png`
-- `images/googie-kitsch/Dreamcast.png`
-- `images/googie-kitsch/Esquivel.png`
-- `images/googie-kitsch/Nevele.png`
-
 ## Source and attribution
 
-Text adapted from "Googie Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Googie_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Googie Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Googie_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

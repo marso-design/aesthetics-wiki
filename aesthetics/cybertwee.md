@@ -11,7 +11,6 @@ related_media: ["Neuromancer (as a contrast/influence)", "Ghost in the Shell (as
 source_url: "https://aesthetics.fandom.com/wiki/Cybertwee"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Cybertwee
@@ -78,24 +77,6 @@ Cybertwee also explores the blurring boundaries between "real life" and "digital
 
 ## References
 
-## Images
-
-- `images/cybertwee/Cybertwee.png`
-- `images/cybertwee/Cyberneticring.jpg`
-- `images/cybertwee/Nft.jpg`
-- `images/cybertwee/6d078bd69aa5483a3cdd2f1f38eb65f9.jpg`
-- `images/cybertwee/Ezgif-26a66d8beab94d.gif`
-- `images/cybertwee/E8Qi5fjWEAEcysd.jpg`
-- `images/cybertwee/Godine-dome-touching-a-facet.gif`
-- `images/cybertwee/C6cb03d321d3221e30d318826ee4d0e7.jpg`
-- `images/cybertwee/C9Evq+.png`
-- `images/cybertwee/XmQvjU.jpg`
-- `images/cybertwee/Cybertweemanifestosm2.gif`
-- `images/cybertwee/574.png`
-- `images/cybertwee/680.png`
-- `images/cybertwee/Screen-Shot-2015-10-31-at-11.20.27-PM-1024x674.png`
-- `images/cybertwee/1280.png`
-
 ## Source and attribution
 
-Text adapted from "Cybertwee" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cybertwee), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cybertwee" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cybertwee), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

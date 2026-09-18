@@ -9,7 +9,6 @@ palette: ["#25232B", "#7C848B", "#ACB0AD", "#564644", "#846757", "#0E0B0D"]
 source_url: "https://aesthetics.fandom.com/wiki/Skater"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Skater
@@ -252,27 +251,6 @@ In the 1990s, [Hip-Hop](https://aesthetics.fandom.com/wiki/Hip-Hop "Hip-Hop") al
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/skater/Skaters.jpg`
-- `images/skater/03B232F2-Skate-girly.jpg`
-- `images/skater/Soft-skater-outift.jpg`
-- `images/skater/Soft-skater-girl-group.jpg`
-- `images/skater/Moxi-skater-girls.jpeg`
-- `images/skater/Skate-skirt-girl.jpg`
-- `images/skater/Roller-skate-fishnets.jpg`
-- `images/skater/Skater-boy-aesthetic-shot-1f2nwg27wftabc05.jpg`
-- `images/skater/Girlflip.jpg`
-- `images/skater/5ccc139f0dba14fed2dc24a9c86f25bd.jpg`
-- `images/skater/2ed563bec7d4c8d9736abb696a767bf9.jpg`
-- `images/skater/10636547.jpg`
-- `images/skater/6txm9xa5ith61.jpg`
-- `images/skater/Peraltasupreme.webp`
-- `images/skater/Skater-aesthetic-outfits-for-girls-v0-0hqmlpib3ls51.webp`
-- `images/skater/Skater-aesthetic-outfits-for-girls-v0-l1g1ipib3ls51.webp`
-- `images/skater/Skaterboy-aesthetic-v0-lj5pao9qtku91.webp`
-- `images/skater/Skaterboy-aesthetic-v0-ogvn8i4ptku91.webp`
-
 ## Source and attribution
 
-Text adapted from "Skater" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skater), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Skater" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skater), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

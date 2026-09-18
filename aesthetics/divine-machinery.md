@@ -11,7 +11,6 @@ related_media: ["Serial Experiments Lain", "Ghost in The Shell", "Neon Genesis E
 source_url: "https://aesthetics.fandom.com/wiki/Divine_Machinery"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Divine Machinery
@@ -74,24 +73,6 @@ External links to explore Divine Machinery:
 
 ## References
 
-## Images
-
-- `images/divine-machinery/Motherboard.jpg`
-- `images/divine-machinery/Div.mac.face.jpg`
-- `images/divine-machinery/Div.mac.reboot.jpg`
-- `images/divine-machinery/Div.mac.monitors.jpg`
-- `images/divine-machinery/Div.mac.wires.jpg`
-- `images/divine-machinery/Div.mac.hand.jpg`
-- `images/divine-machinery/Div.mac.revelation.jpg`
-- `images/divine-machinery/Div.mac.veins.jpg`
-- `images/divine-machinery/Div.mac.screens.jpg`
-- `images/divine-machinery/Div.mac.interface.jpg`
-- `images/divine-machinery/Div.mac.eyes.jpg`
-- `images/divine-machinery/Div.mac.fac.jpg`
-- `images/divine-machinery/Divinemachinery1.png`
-- `images/divine-machinery/Divinemachinery.png`
-- `images/divine-machinery/GhostInTheShell.png`
-
 ## Source and attribution
 
-Text adapted from "Divine Machinery" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Divine_Machinery), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Divine Machinery" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Divine_Machinery), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

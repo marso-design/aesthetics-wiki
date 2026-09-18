@@ -11,7 +11,6 @@ primary_platform: ["Xiaohongshu", "BiliBili", "Douyin"]
 source_url: "https://aesthetics.fandom.com/wiki/Yabi"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Yabi
@@ -70,25 +69,6 @@ Yabi [Gyaru](https://aesthetics.fandom.com/wiki/Gyaru "Gyaru")
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/yabi/YabiCollage.png`
-- `images/yabi/Yabi.png`
-- `images/yabi/Yabi3.png`
-- `images/yabi/Yabi2.png`
-- `images/yabi/Yabi7.png`
-- `images/yabi/Yabi4.png`
-- `images/yabi/Yabi5.png`
-- `images/yabi/Yabi6.png`
-- `images/yabi/Yabi8.png`
-- `images/yabi/Yabi12.jpg`
-- `images/yabi/Yabi10.jpg`
-- `images/yabi/Yabi11.png`
-- `images/yabi/Yabi9.png`
-- `images/yabi/YabiGirls3.jpg`
-- `images/yabi/YabiGirls1.jpg`
-- `images/yabi/YabiGirls2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Yabi" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yabi), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yabi" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yabi), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

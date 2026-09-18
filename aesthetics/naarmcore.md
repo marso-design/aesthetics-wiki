@@ -9,7 +9,6 @@ related_aesthetics: ["Gorpcore", "Normcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Naarmcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Naarmcore
@@ -39,22 +38,6 @@ The trend is also seen as a form of performative virtue signaling, where non-Ind
 
 ## References
 
-## Images
-
-- `images/naarmcore/Naarmcore.jpg`
-- `images/naarmcore/6c8c990520e0c74b7199f3c219eebf76.jpg`
-- `images/naarmcore/B38a843e9ab0727d4f187b40c10715e0.jpg`
-- `images/naarmcore/2fa45fe553a0c7fe5ce7be610f49efce.jpg`
-- `images/naarmcore/41210618d1ccd6ee703234758cc255f7.jpg`
-- `images/naarmcore/2221786d4581e2d8ffd8024cf4b4d5bb.jpg`
-- `images/naarmcore/57ce8fda70d29e25bb1757129e90c5b5.jpg`
-- `images/naarmcore/E0a7350a99267f287e692337593fb41a.jpg`
-- `images/naarmcore/2881abf62f2f610ab058f5865db9aa08.jpg`
-- `images/naarmcore/E85b6c530d480232ff72eb9f0d848e9e.jpg`
-- `images/naarmcore/F526fe70bff0c770abf08595326ce67d.jpg`
-- `images/naarmcore/D0c87de143a2f49596c3de23430bed35.jpg`
-- `images/naarmcore/7575a6607ce607bfdf2be7ab44d16046.jpg`
-
 ## Source and attribution
 
-Text adapted from "Naarmcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Naarmcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Naarmcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Naarmcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

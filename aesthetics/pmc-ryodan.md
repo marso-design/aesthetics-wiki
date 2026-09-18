@@ -11,7 +11,6 @@ related_media: ["Hunter x Hunter", "DotA 2", "Telegram", "VK"]
 source_url: "https://aesthetics.fandom.com/wiki/PMC_Ryodan"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # PMC Ryodan
@@ -84,19 +83,6 @@ An illustration with the phrase "We are a generation; Ryodan is with me," from a
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/pmc-ryodan/PMCRyodan.jpg`
-- `images/pmc-ryodan/79de6ad0a5a3a67336c2f7a56f061fff.jpg`
-- `images/pmc-ryodan/Cd235a5a51bbb14478142c4d7f8dc543.jpg`
-- `images/pmc-ryodan/2c1d483cfd2bef22fccfc2c91090f97d.jpg`
-- `images/pmc-ryodan/1b194ad38dac826df542c91dde7ed87b.jpg`
-- `images/pmc-ryodan/D23a3f6c792e246f8b25bf659d2bd5c2.jpg`
-- `images/pmc-ryodan/D25a5f666012358bf6e39875b7f99c3a.jpg`
-- `images/pmc-ryodan/E425fb34848d6d1cf733eddebd7249e2.jpg`
-- `images/pmc-ryodan/D0b0cc4fb9af5427034189f9001ea11e.jpg`
-- `images/pmc-ryodan/80c714009fdb5b83961a1bea9c5914c2.jpg`
-
 ## Source and attribution
 
-Text adapted from "PMC Ryodan" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/PMC_Ryodan), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "PMC Ryodan" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/PMC_Ryodan), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

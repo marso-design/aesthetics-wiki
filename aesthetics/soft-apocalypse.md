@@ -10,7 +10,6 @@ related_aesthetics: ["Avant Apocalypse", "Brutalism", "Industrial Decay", "Post-
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Apocalypse"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Soft Apocalypse
@@ -90,17 +89,6 @@ genre concept
 
 Yokohama Kaidashi Kikō (manga, 1994-2006)
 
-## Images
-
-- `images/soft-apocalypse/Ukraine.jpg`
-- `images/soft-apocalypse/2e937b5e054e43a99916c9f8526b5748.jpg`
-- `images/soft-apocalypse/14apocalypse.jpg`
-- `images/soft-apocalypse/SoftApoc1.png`
-- `images/soft-apocalypse/SoftApocFerrisWheel.jpg`
-- `images/soft-apocalypse/CarGraveyard.jpg`
-- `images/soft-apocalypse/Grass3.png`
-- `images/soft-apocalypse/Grass4.png`
-
 ## Source and attribution
 
-Text adapted from "Soft Apocalypse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Apocalypse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Soft Apocalypse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Apocalypse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

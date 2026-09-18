@@ -10,7 +10,6 @@ related_aesthetics: ["Cani", "Chav", "Gangsta Rap", "Gopnik", "Krocha", "Lad Cul
 source_url: "https://aesthetics.fandom.com/wiki/Talahon"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Talahon
@@ -77,18 +76,6 @@ Gucci bag
 
 ## References
 
-## Images
-
-- `images/talahon/Talahon1.png`
-- `images/talahon/TalahonGucciCap.jpeg`
-- `images/talahon/TalahonGif.gif`
-- `images/talahon/TalahonGif2.gif`
-- `images/talahon/TalahonTikTok.jpeg`
-- `images/talahon/Hassan.jpg`
-- `images/talahon/Guccibag.png`
-- `images/talahon/Baeb150a7b196bcd98225efbeb46c392.jpg`
-- `images/talahon/Fc19429b52eb4c8cc8b91294915b9354.jpg`
-
 ## Source and attribution
 
-Text adapted from "Talahon" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Talahon), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Talahon" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Talahon), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

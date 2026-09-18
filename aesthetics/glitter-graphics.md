@@ -5,7 +5,6 @@ palette: ["#9B2528", "#3B2A33", "#537277", "#7C9A99", "#E5E8F4", "#A3BEA9"]
 source_url: "https://aesthetics.fandom.com/wiki/Glitter_Graphics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 109
 ---
 
 # Glitter Graphics
@@ -153,118 +152,6 @@ Cover art for "kets4eki - z tobą być"
 
 ## References
 
-## Images
-
-- `images/glitter-graphics/Valentinesday.gif`
-- `images/glitter-graphics/55566.gif`
-- `images/glitter-graphics/83602.gif`
-- `images/glitter-graphics/Summerpicmix.gif`
-- `images/glitter-graphics/Bxzd.gif`
-- `images/glitter-graphics/Sweet-dreams.gif`
-- `images/glitter-graphics/4c9d8fae0c5ef30bf0ea32ed68fc52ab.jpg`
-- `images/glitter-graphics/361519-Ducky-Good-Morning-Gif.gif`
-- `images/glitter-graphics/Afe018f5c632dbf5e2e81de660fbcff0.gif`
-- `images/glitter-graphics/Good-morning-butterflies.gif`
-- `images/glitter-graphics/318301.gif`
-- `images/glitter-graphics/354554.gif`
-- `images/glitter-graphics/Af2726fdd5bd5fbad8d867c99cb84798.gif`
-- `images/glitter-graphics/Good-morning-coffee.gif`
-- `images/glitter-graphics/6b790db135e9785cdb6e0f38120ca462.gif`
-- `images/glitter-graphics/65904.gif`
-- `images/glitter-graphics/Bbcd9151f2999c688640476fe64577b6.gif`
-- `images/glitter-graphics/2668355j0lydfmyxe.gif`
-- `images/glitter-graphics/Name-graphics-bonnie-851303.gif`
-- `images/glitter-graphics/3340289d7gtuk63iv.gif`
-- `images/glitter-graphics/5555.jpg`
-- `images/glitter-graphics/Name-graphics-ashley-341129.gif`
-- `images/glitter-graphics/49cb4defdc7c587df2008e47bb832839.gif`
-- `images/glitter-graphics/2650856jwz0417965.gif`
-- `images/glitter-graphics/2355490ruq25431p3.gif`
-- `images/glitter-graphics/Name-graphics-nikki-633178.gif`
-- `images/glitter-graphics/Mam,e.gif`
-- `images/glitter-graphics/2442840h4dn6gsf01.gif`
-- `images/glitter-graphics/2011135x74lp8w2w1.gif`
-- `images/glitter-graphics/Kiss-35.gif`
-- `images/glitter-graphics/Summer-6.gif`
-- `images/glitter-graphics/Summer-10.gif`
-- `images/glitter-graphics/Flirt-19.gif`
-- `images/glitter-graphics/Glitter-bli44ngee.gif`
-- `images/glitter-graphics/Whats-you-favorite-2000s-2010s-internet-aesthetic-v0-khzipivi8k2c1.gif`
-- `images/glitter-graphics/Blingee15.gif`
-- `images/glitter-graphics/Blingee3.gif`
-- `images/glitter-graphics/85612.gif`
-- `images/glitter-graphics/Unnamed+(3).gif`
-- `images/glitter-graphics/9AjY.gif`
-- `images/glitter-graphics/VCxf.gif`
-- `images/glitter-graphics/Dh1uit1-1cd0a968-93ff-4485-bad2-ad3f818cb449.gif`
-- `images/glitter-graphics/Blingee1.jpg`
-- `images/glitter-graphics/Blingee2.gif`
-- `images/glitter-graphics/Blingee6.gif`
-- `images/glitter-graphics/Blingee4.gif`
-- `images/glitter-graphics/Blingee7.jpg`
-- `images/glitter-graphics/Blingee8.jpg`
-- `images/glitter-graphics/Blingee13.jpg`
-- `images/glitter-graphics/Blinge16.gif`
-- `images/glitter-graphics/Blingeecore17.gif`
-- `images/glitter-graphics/Blingee18.gif`
-- `images/glitter-graphics/Blinge4.jpg`
-- `images/glitter-graphics/197011.gif`
-- `images/glitter-graphics/2e283a331602cf61a88f19931925afb6.jpg`
-- `images/glitter-graphics/Picgifs-fantasy-5975554.gif`
-- `images/glitter-graphics/Fantasyblingee.gif`
-- `images/glitter-graphics/D2801dc3b4544f54eb21a821c588302b.gif`
-- `images/glitter-graphics/3lBd.gif`
-- `images/glitter-graphics/Picgifs-fantasy-4663387.gif`
-- `images/glitter-graphics/464993d6fjbuz1or.gif`
-- `images/glitter-graphics/E5d183c6adaa2e6a96dc45f616bc6b32.jpg`
-- `images/glitter-graphics/Fd984d09f3cd7d5850a2766008c04ea0.gif`
-- `images/glitter-graphics/Wkr0.gif`
-- `images/glitter-graphics/Gof5.gif`
-- `images/glitter-graphics/86479.gif`
-- `images/glitter-graphics/RPIE.gif`
-- `images/glitter-graphics/Darkgif.gif`
-- `images/glitter-graphics/Grazy4.gif`
-- `images/glitter-graphics/Blingeeeaster.gif`
-- `images/glitter-graphics/Blingeecatholic4.jpg`
-- `images/glitter-graphics/1245664547-403f840dGH21GF045HD4FG.gif`
-- `images/glitter-graphics/Catholicblingee.gif`
-- `images/glitter-graphics/1523606696035.gif`
-- `images/glitter-graphics/386588-Jesus-Happy-Easter-Rainbow.gif`
-- `images/glitter-graphics/114977beb8230a5cab938e9dd42f2bf0.gif`
-- `images/glitter-graphics/Religionblingee.gif`
-- `images/glitter-graphics/D25104b8eb4b3f607cdb8caeb7fdbdd9.gif`
-- `images/glitter-graphics/Lhxc.gif`
-- `images/glitter-graphics/2fa542cf3704a62eb4e0a1969c055b78.jpg`
-- `images/glitter-graphics/9028554af86ff5129379eeabf39799f1.gif`
-- `images/glitter-graphics/614c1b68ad0d6ec6591c78cdcda06830.jpg`
-- `images/glitter-graphics/Barbieblingee.gif`
-- `images/glitter-graphics/MNTu.gif`
-- `images/glitter-graphics/Deve2it-7cfe4292-0a92-4665-84e7-745e8d67b743.gif`
-- `images/glitter-graphics/ZNlh.gif`
-- `images/glitter-graphics/Deve1dv-0d735a3a-3fec-4176-b473-07381d2514e6.gif`
-- `images/glitter-graphics/7df5b1849c096b558d8a259c8bc9323f.gif`
-- `images/glitter-graphics/Artworks-7bBURRIX8SqKCMhe-6bBISw-t500x500.jpg`
-- `images/glitter-graphics/5mac.gif`
-- `images/glitter-graphics/5nm6.gif`
-- `images/glitter-graphics/91b97aff7e925158e63fda3db86364bf.gif`
-- `images/glitter-graphics/3kai.gif`
-- `images/glitter-graphics/Minaluvr.gif`
-- `images/glitter-graphics/31414.gif`
-- `images/glitter-graphics/Vwtq.gif`
-- `images/glitter-graphics/Full.gif`
-- `images/glitter-graphics/3k76rvx2mzp91.png`
-- `images/glitter-graphics/Steamuserimage.gif`
-- `images/glitter-graphics/Anime-argentina.gif`
-- `images/glitter-graphics/B6c4dc5ad64aaf05669141e7d6fd5107.300x300x1.jpg`
-- `images/glitter-graphics/Dfd9c6b93b7693e9418aa543768857be.300x300x1.jpg`
-- `images/glitter-graphics/HVF1.gif`
-- `images/glitter-graphics/Britain-england.gif`
-- `images/glitter-graphics/D85886ec8952964387fc5e9d4c25598f.gif`
-- `images/glitter-graphics/2eY2.gif`
-- `images/glitter-graphics/A275c95455a0f1ca1845f6d385c2b4f4.gif`
-- `images/glitter-graphics/Franceblingee.gif`
-- `images/glitter-graphics/105406686674f81837fa8b2664c24f40.gif`
-
 ## Source and attribution
 
-Text adapted from "Glitter Graphics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glitter_Graphics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Glitter Graphics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glitter_Graphics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

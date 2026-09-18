@@ -11,7 +11,6 @@ related_aesthetics: ["Art Deco", "Flapper", "Roaring 20s", "Weimar Cabaret"]
 source_url: "https://aesthetics.fandom.com/wiki/Garçonne"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Garçonne
@@ -60,22 +59,6 @@ The primary goal of the Garçonne aesthetic was to create a boyish, androgynous,
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/gar-onne/Garconne.jpg`
-- `images/gar-onne/1695b0d49ea14eeffbac05366c1a9b51.jpg`
-- `images/gar-onne/98f9c88b3fee04fc023d971b32f73617.jpg`
-- `images/gar-onne/88c70353175024e5d0595729409e6784.jpg`
-- `images/gar-onne/5011a59424e1f098d4a3994e4f23afe9.jpg`
-- `images/gar-onne/B4abf8e53594fd888f2c9dd456865afe.jpg`
-- `images/gar-onne/7bfc5d317bc142656ffd516bcfd41695.jpg`
-- `images/gar-onne/986f0f0da4abb3c91e232ea0596b800e.jpg`
-- `images/gar-onne/C25971085e2cebd46804b3e01a6b372c.jpg`
-- `images/gar-onne/61ede93a69ebbc620081712e3eb5d718.jpg`
-- `images/gar-onne/9e3599960dcb9ced8e44cbb7d2d38597.jpg`
-- `images/gar-onne/8f638013c16190fef5a8abfdd4231888.jpg`
-- `images/gar-onne/E9ec503ad5e6eae2baf2a718e9c12c77.jpg`
-
 ## Source and attribution
 
-Text adapted from "Garçonne" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Garçonne), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Garçonne" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Garçonne), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -4,7 +4,6 @@ slug: "subversion"
 source_url: "https://aesthetics.fandom.com/wiki/Subversion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Subversion
@@ -29,4 +28,4 @@ A classic example of aesthetic subversion: 1970s [punk](https://aesthetics.fando
 
 ## Source and attribution
 
-Text adapted from "Subversion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Subversion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Subversion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Subversion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

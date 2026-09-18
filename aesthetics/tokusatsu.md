@@ -13,7 +13,6 @@ related_media: ["Godzilla series", "Kamen Rider series", "Super Sentai series", 
 source_url: "https://aesthetics.fandom.com/wiki/Tokusatsu"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Tokusatsu
@@ -86,13 +85,6 @@ Legend Heroes.
 
 Kamen Rider Buffa's zombie form.
 
-## Images
-
-- `images/tokusatsu/ShowaRiders.webp`
-- `images/tokusatsu/ReiwaRiders.webp`
-- `images/tokusatsu/Ultraman.jpg`
-- `images/tokusatsu/Shin-Kamen-Rider-Takeshi-Hayato.webp`
-
 ## Source and attribution
 
-Text adapted from "Tokusatsu" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tokusatsu), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tokusatsu" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tokusatsu), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

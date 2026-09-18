@@ -11,7 +11,6 @@ related_aesthetics: ["Art Hoe", "Bohemian", "Earth Tones", "Hippie", "Rustic", "
 source_url: "https://aesthetics.fandom.com/wiki/Ethno-Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Ethno-Chic
@@ -46,26 +45,6 @@ Ethno-Chic fashion in India
 
 ## References
 
-## Images
-
-- `images/ethno-chic/Tagadert.png`
-- `images/ethno-chic/Ethno2.png`
-- `images/ethno-chic/Ethno1.png`
-- `images/ethno-chic/Ethno3.png`
-- `images/ethno-chic/Ethno4.png`
-- `images/ethno-chic/Ethno5.png`
-- `images/ethno-chic/Ethno6.png`
-- `images/ethno-chic/Ethno7.png`
-- `images/ethno-chic/Ethno8.png`
-- `images/ethno-chic/Ethnochic1.jpg`
-- `images/ethno-chic/Ethnochic2.jpg`
-- `images/ethno-chic/Ethnochic3.jpg`
-- `images/ethno-chic/Ethnochic4.png`
-- `images/ethno-chic/Ethnochic6.jpg`
-- `images/ethno-chic/Ethnochic5.jpg`
-- `images/ethno-chic/Ethnochic7.jpg`
-- `images/ethno-chic/Ethnochic8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ethno-Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ethno-Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ethno-Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ethno-Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

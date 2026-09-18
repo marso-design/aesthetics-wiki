@@ -9,7 +9,6 @@ related_aesthetics: ["Art Nouveau", "Bauhaus", "Cubism", "Decopunk", "Deco-Luxe"
 source_url: "https://aesthetics.fandom.com/wiki/Art_Deco"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Art Deco
@@ -263,4 +262,4 @@ Tulip chair, by Eero Saarinen, 1955–1956, plastic and textile cushion, an exam
 
 ## Source and attribution
 
-Text adapted from "Art Deco" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Art_Deco), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Art Deco" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Art_Deco), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Casino", "Dollar Store Vernacular", "Fairground Baroque", 
 source_url: "https://aesthetics.fandom.com/wiki/Funfair_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Funfair Kitsch
@@ -119,20 +118,6 @@ A "Ranita Loca" (Saltamontes) attraction during evening operation. The ride's ce
 
 ## References
 
-## Images
-
-- `images/funfair-kitsch/Saltamonte.jpg`
-- `images/funfair-kitsch/0608efb50a7a6372c103305140a94ade.jpg`
-- `images/funfair-kitsch/6713727418e4ac17440c5a3fdc32b8c5.jpg`
-- `images/funfair-kitsch/Decoracion-pintura-aerografia-restauracion-figuras-monedas-feria-decorcar-min.jpg`
-- `images/funfair-kitsch/Diseno-rotulacion-decoracion-aerografia-lonas-camas-elasticas-feria-zaragoza-pintura-min.jpg`
-- `images/funfair-kitsch/Aerografia-diseno-decoracion-feria-fachada-dragon-vinilo-impreso-rotulacion-decorcar-3-min.jpg`
-- `images/funfair-kitsch/D74e36851f5d6552b272d348272be29a.jpg`
-- `images/funfair-kitsch/4f09cd0c9b2433fa5a39d7079aff0862.jpg`
-- `images/funfair-kitsch/B5f52f415b4ea6849e8cde0cf0decc8d.jpg`
-- `images/funfair-kitsch/Brucomela.jpg`
-- `images/funfair-kitsch/DeepFriedKoolAids.jpg`
-
 ## Source and attribution
 
-Text adapted from "Funfair Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Funfair_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Funfair Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Funfair_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

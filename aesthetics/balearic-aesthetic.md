@@ -10,7 +10,6 @@ related_aesthetics: ["Acid House", "Bohemian", "Hippie", "Psychedelia", "New Bea
 source_url: "https://aesthetics.fandom.com/wiki/Balearic_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Balearic Aesthetic
@@ -162,4 +161,4 @@ RELAX LOUNGE CHILLOUT Beautiful Luxury Chill - Jjos - Balearic Summer 2024 - Rel
 
 ## Source and attribution
 
-Text adapted from "Balearic Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Balearic_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Balearic Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Balearic_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Nakayoshi Magazine", "Ciao Magazine"]
 source_url: "https://aesthetics.fandom.com/wiki/Jojifuku"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 29
 ---
 
 # Jojifuku
@@ -123,38 +122,6 @@ Art by Bisuko Ezaki
 
 ## References
 
-## Images
-
-- `images/jojifuku/Jojifuku.jpg`
-- `images/jojifuku/Jojifuku1.jpg`
-- `images/jojifuku/Jojifuku2.jpg`
-- `images/jojifuku/Jojifuku3.jpg`
-- `images/jojifuku/Jojifuku4.jpg`
-- `images/jojifuku/Jojifuku6.jpg`
-- `images/jojifuku/Jojifuku7.jpg`
-- `images/jojifuku/Jojifuku8.jpg`
-- `images/jojifuku/Jojifuku9.jpg`
-- `images/jojifuku/Jojifuku10.jpg`
-- `images/jojifuku/Jojifuku11.jpg`
-- `images/jojifuku/Jojifuku12.jpg`
-- `images/jojifuku/Jojifuku13.jpg`
-- `images/jojifuku/Jojifuku14.jpg`
-- `images/jojifuku/Jojifuku15.png`
-- `images/jojifuku/Jojifuku16.jpg`
-- `images/jojifuku/Jojifuku17.jpg`
-- `images/jojifuku/Jojifukueght.jpg`
-- `images/jojifuku/Jojifuku19.jpg`
-- `images/jojifuku/Jojifuku20.jpg`
-- `images/jojifuku/Jojifukua7t.jpg`
-- `images/jojifuku/Jojifuku21.jpg`
-- `images/jojifuku/Jojifuku22.jpg`
-- `images/jojifuku/Jojifuku23.jpg`
-- `images/jojifuku/Jojifuku24.jpg`
-- `images/jojifuku/Ainai7tan.jpg`
-- `images/jojifuku/Jojifukube.jpg`
-- `images/jojifuku/JojifukuBaseOutfit.jpg`
-- `images/jojifuku/JojifukuOutfitGuide.jpg`
-
 ## Source and attribution
 
-Text adapted from "Jojifuku" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jojifuku), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Jojifuku" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jojifuku), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

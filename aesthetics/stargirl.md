@@ -10,7 +10,6 @@ related_aesthetics: ["Y2K", "Cyber Grunge", "Krushclub", "Rockstar GF", "XO"]
 source_url: "https://aesthetics.fandom.com/wiki/Stargirl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Stargirl
@@ -75,14 +74,6 @@ This aesthetic, as mentioned, is divided into two sects fashion-wise: luxurious 
 
 ## Gallery
 
-## Images
-
-- `images/stargirl/Abc46b29226930d6a91d8573ea4e410d.png`
-- `images/stargirl/446a39834257d712dd0987abc91173ab.jpeg`
-- `images/stargirl/69443294fd15141d6a39b580e712045f.jpeg`
-- `images/stargirl/Ce3c97f9b47f276f3a0697adaead2933.jpeg`
-- `images/stargirl/Stargirl2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Stargirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Stargirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Stargirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Stargirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

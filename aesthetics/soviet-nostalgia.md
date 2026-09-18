@@ -8,7 +8,6 @@ related_aesthetics: ["Communist Chic", "Grandparentcore", "Ostalgie", "PRL Nosta
 source_url: "https://aesthetics.fandom.com/wiki/Soviet_Nostalgia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Soviet Nostalgia
@@ -76,4 +75,4 @@ In 2021, the trend “Makeup in the style of a bandit’s wife from the 90s” a
 
 ## Source and attribution
 
-Text adapted from "Soviet Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soviet_Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Soviet Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soviet_Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

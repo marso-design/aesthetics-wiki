@@ -13,7 +13,6 @@ related_media: ["Neon Genesis Evangelion", "Chobits", "Serial Experiments Lain",
 source_url: "https://aesthetics.fandom.com/wiki/Cyber_Angel"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Cyber Angel
@@ -142,10 +141,6 @@ While there are no brands that specifically advertise their clothing as 'cyber a
 
 ## Gallery
 
-## Images
-
-- `images/cyber-angel/WXKpjFfaudg3KK8gXD9MA2waAbfBx3op-24.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cyber Angel" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Angel), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyber Angel" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Angel), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

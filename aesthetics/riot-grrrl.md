@@ -11,7 +11,6 @@ related_media: ["The Punk Singer (2013)", "Girls to the Front: The True Story of
 source_url: "https://aesthetics.fandom.com/wiki/Riot_Grrrl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Riot Grrrl
@@ -174,13 +173,6 @@ Bikini Kill
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/riot-grrrl/RiotGrrrl.jpg`
-- `images/riot-grrrl/Riotgrrrl.png`
-- `images/riot-grrrl/Grrrlfanzine.png`
-- `images/riot-grrrl/Killallrock.png`
-
 ## Source and attribution
 
-Text adapted from "Riot Grrrl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Riot_Grrrl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Riot Grrrl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Riot_Grrrl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

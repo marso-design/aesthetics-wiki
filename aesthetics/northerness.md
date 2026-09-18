@@ -11,7 +11,6 @@ related_aesthetics: ["Adventurecore", "Cabincore", "Cottagecore", "Crowcore", "D
 source_url: "https://aesthetics.fandom.com/wiki/Northerness"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Northerness
@@ -134,32 +133,6 @@ Breath of Yggdrasil
 
 "The Golden Key", John Bauer, c. 1915
 
-## Images
-
-- `images/northerness/Northern-pelt-wood.jpg`
-- `images/northerness/Northern-snow-dog.jpg`
-- `images/northerness/Northern-viking-ship.jpg`
-- `images/northerness/Northern-ice.jpg`
-- `images/northerness/Northern-drinking-horn-runes.jpg`
-- `images/northerness/Wolf-green-howl.jpg`
-- `images/northerness/Northern-mjolnir-necklace.jpg`
-- `images/northerness/Mossy-rock-wet.jpg`
-- `images/northerness/Nordic-face-paint.jpg`
-- `images/northerness/Northern-viking-priestess.jpg`
-- `images/northerness/Northern-longboat-steam.jpg`
-- `images/northerness/Northern-breath-Yggdrasil-mythology.jpg`
-- `images/northerness/John-Bauer.jpg`
-- `images/northerness/Keyholder.jpg`
-- `images/northerness/33192097-tree-branch-covered-by-the-first-snow-on-sunrise-early-morning-winter-landscape.jpg`
-- `images/northerness/Download-17.jpg`
-- `images/northerness/Download-23.jpg`
-- `images/northerness/Download-16.jpg`
-- `images/northerness/Download-19.jpg`
-- `images/northerness/Download-6.jpg`
-- `images/northerness/Download-18.jpg`
-- `images/northerness/Download-14.jpg`
-- `images/northerness/Download-5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Northerness" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Northerness), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Northerness" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Northerness), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

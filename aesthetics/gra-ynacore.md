@@ -10,7 +10,6 @@ related_aesthetics: ["Disco Polo", "Glitter Graphics", "Live Laugh Love", "Old W
 source_url: "https://aesthetics.fandom.com/wiki/Grażynacore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Grażynacore
@@ -58,15 +57,6 @@ Edit featuring Polish communist politician Edward Gierek.
 
 ## References
 
-## Images
-
-- `images/gra-ynacore/Grazynacore.jpg`
-- `images/gra-ynacore/Grazy5.jpg`
-- `images/gra-ynacore/Grazy2.jpg`
-- `images/gra-ynacore/Grazy3.png`
-- `images/gra-ynacore/Grazy.jpg`
-- `images/gra-ynacore/Grazy4.gif`
-
 ## Source and attribution
 
-Text adapted from "Grażynacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grażynacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Grażynacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grażynacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

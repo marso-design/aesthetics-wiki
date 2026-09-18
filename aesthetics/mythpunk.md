@@ -9,7 +9,6 @@ palette: ["#08192E", "#323731", "#918258", "#CCC095", "#674D35"]
 source_url: "https://aesthetics.fandom.com/wiki/Mythpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Mythpunk
@@ -78,13 +77,6 @@ Leviathan from Worm, a silent killer based on the Biblical monsters
 
 The Path - Story Trailer
 
-## Images
-
-- `images/mythpunk/D18924F3-B586-4FC2-8CCE-7AD1F708AA2D.jpeg`
-- `images/mythpunk/2T==.jpeg`
-- `images/mythpunk/Shishi.png`
-- `images/mythpunk/Leviathan.png`
-
 ## Source and attribution
 
-Text adapted from "Mythpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mythpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mythpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mythpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

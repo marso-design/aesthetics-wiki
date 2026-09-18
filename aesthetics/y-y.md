@@ -11,7 +11,6 @@ related_media: ["Salut les copains"]
 source_url: "https://aesthetics.fandom.com/wiki/Yé-yé"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 30
 ---
 
 # Yé-yé
@@ -221,39 +220,6 @@ Cover for the 31th edition of the Salut les copains magazine, featuring Françoi
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • **Yé-yé**  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/y-y/FrancoiseHardy1962.jpg`
-- `images/y-y/SylvieVartanJohnnyHallyday.jpg`
-- `images/y-y/Massiel.jpg`
-- `images/y-y/SheilaCannes.png`
-- `images/y-y/JacquelineTaieb.jpg`
-- `images/y-y/Clothilde.jpg`
-- `images/y-y/267948621dcbdde4064ad954e7df552f.png`
-- `images/y-y/Karina.jpg`
-- `images/y-y/Salome.jpg`
-- `images/y-y/ConchaVelasco.png`
-- `images/y-y/RaphaelSinger.jpg`
-- `images/y-y/SergeGainsbourg.png`
-- `images/y-y/JohnnyHallyday.jpg`
-- `images/y-y/JacquesDutronc2.png`
-- `images/y-y/Ye-ye-introduction-book.png`
-- `images/y-y/FrancoiseHardy.jpg`
-- `images/y-y/SylvieVartanFotogramas.jpg`
-- `images/y-y/Le-premier-bonheur-du-jour.jpg`
-- `images/y-y/ConchaVelasco2.png`
-- `images/y-y/JacquesDutronc.jpg`
-- `images/y-y/AnniePhilippe.jpg`
-- `images/y-y/PorAmourParPitie.jpg`
-- `images/y-y/JacquelineTaieb2.jpg`
-- `images/y-y/RitaPavone2.jpg`
-- `images/y-y/GillianHills.png`
-- `images/y-y/SalutLesCopains.jpg`
-- `images/y-y/SalutLesCopainsMagazine66.jpg`
-- `images/y-y/SalutLesCopainsMagazine.jpg`
-- `images/y-y/SalutLesCopainsMagazine8.jpg`
-- `images/y-y/YeYeContestPortugal.jpg`
-
 ## Source and attribution
 
-Text adapted from "Yé-yé" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yé-yé), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yé-yé" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yé-yé), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["Acid House", "Britpop", "Casuals", "Corporate Hippie", "Cy
 source_url: "https://aesthetics.fandom.com/wiki/Cool_Britannia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Cool Britannia
@@ -125,4 +124,4 @@ Blur - Girls And Boys
 
 ## Source and attribution
 
-Text adapted from "Cool Britannia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cool_Britannia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cool Britannia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cool_Britannia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

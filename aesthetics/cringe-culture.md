@@ -4,7 +4,6 @@ slug: "cringe-culture"
 source_url: "https://aesthetics.fandom.com/wiki/Cringe_Culture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Cringe Culture
@@ -36,4 +35,4 @@ By the late 2010s and early 2020s, a counter-movement emerged, with the slogan o
 
 ## Source and attribution
 
-Text adapted from "Cringe Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cringe_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cringe Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cringe_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ primary_platform: ["TikTok", "4chan"]
 source_url: "https://aesthetics.fandom.com/wiki/Warcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Warcore
@@ -52,17 +51,6 @@ Photo by @phantomprotocol on Instagram
 
 ## References
 
-## Images
-
-- `images/warcore/1641922657218-warcore.jpeg`
-- `images/warcore/New-to-warcore-techwear-darkwear-in-general-where-to-find-v0-pgu5dbxbk6jc1.png`
-- `images/warcore/438f3a690ae0de7ae8458a769951a54b.jpg`
-- `images/warcore/2e76b8b8c0aca1cb5696e7c51289c5cf.jpg`
-- `images/warcore/49394bef4276f7cccd1e776281b7dc80.jpg`
-- `images/warcore/C6156e9a9295375d784664c488091c1f.jpg`
-- `images/warcore/6020968450c091f9a7a452fda60bcf26.jpg`
-- `images/warcore/080b6d43bd1ce94dac1e09a621d76e6d.jpg`
-
 ## Source and attribution
 
-Text adapted from "Warcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Warcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Warcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Warcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

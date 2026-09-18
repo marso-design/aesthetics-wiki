@@ -10,7 +10,6 @@ palette: ["#241721", "#839CC4", "#557994", "#753148", "#545D57", "#7F5E5F"]
 source_url: "https://aesthetics.fandom.com/wiki/Dreamcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Dreamcore
@@ -250,25 +249,6 @@ Multiple TikToks using the visuals of Dreamcore.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/dreamcore/Dreamcoreimg1.jpg`
-- `images/dreamcore/TypDreamcoreimg1.jpg`
-- `images/dreamcore/Dreamcore9.png`
-- `images/dreamcore/Dream-street.jpeg`
-- `images/dreamcore/Doyouknowthewaytotheheaven.png`
-- `images/dreamcore/Dreamcore6.jpg`
-- `images/dreamcore/16f84044840189e7d96b7f6e1a07b1b4.jpg`
-- `images/dreamcore/Flower-hallway-dreamcore-aesthetic.jpg`
-- `images/dreamcore/Dr.eer.jpg`
-- `images/dreamcore/Piratedreamcore.jpg`
-- `images/dreamcore/Dreamcore11.webp`
-- `images/dreamcore/192147e8988e83eaa987047221417ab0.jpg`
-- `images/dreamcore/LizardKDreamcore.png`
-- `images/dreamcore/Dreamcoreimg9.webp`
-- `images/dreamcore/98a3224995b17d93ee8b40952208075b.jpg`
-- `images/dreamcore/Dreamcoreimg10.png`
-
 ## Source and attribution
 
-Text adapted from "Dreamcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dreamcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dreamcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dreamcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

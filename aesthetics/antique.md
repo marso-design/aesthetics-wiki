@@ -5,7 +5,6 @@ palette: ["#090302", "#582810", "#BA7240", "#854018", "#EAE7E0", "#240F08"]
 source_url: "https://aesthetics.fandom.com/wiki/Antique"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Antique
@@ -22,10 +21,6 @@ The value of an antique is derived from more than just its age. It is often asse
 
 The word "antique" entered English from the French *antique*, which is derived from the Latin word *antiquus*, meaning "old," "ancient," or "venerable." Originally, the term was used primarily to refer to the [classical period](https://aesthetics.fandom.com/wiki/Classicism "Classicism") of ancient Greece and Rome. Over time, its meaning broadened to describe objects from any historical period, provided they are old enough to be considered of a past age.
 
-## Images
-
-- `images/antique/AntiqueFurniture.png`
-
 ## Source and attribution
 
-Text adapted from "Antique" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Antique), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Antique" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Antique), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

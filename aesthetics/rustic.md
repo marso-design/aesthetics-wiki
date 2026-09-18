@@ -8,7 +8,6 @@ related_aesthetics: ["Americana", "Cabincore", "Cottagecore", "Country", "Lumber
 source_url: "https://aesthetics.fandom.com/wiki/Rustic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Rustic
@@ -80,24 +79,6 @@ Country and Folk are the genres most strongly associated with Rustic. Popular ba
 
 ## Gallery
 
-## Images
-
-- `images/rustic/Jhvjhvfvhwqrwr.jpg`
-- `images/rustic/Ejrbkhfbvhfveafverv.jpg`
-- `images/rustic/Hvjgchgcgcgcg.jpg`
-- `images/rustic/Qwrjbqhjbhjerv.jpg`
-- `images/rustic/Qwkjbrfhjwbhjbwrjfbwrv.jpg`
-- `images/rustic/Qwlrngqjkebrghkqerg.jpg`
-- `images/rustic/Qwbfjqhbrhqberfg.jpg`
-- `images/rustic/F69A014F-FE91-48DC-A7C7-8DE28F49A099.jpeg`
-- `images/rustic/01682C4D-5D2C-4B9F-ABDC-71D2142B89F0.jpeg`
-- `images/rustic/E4E7A209-A187-47BA-9E95-C9033CB8801C.jpeg`
-- `images/rustic/C6725D3B-6B39-4789-8B86-CDF2F0CEF0EC.jpeg`
-- `images/rustic/BAC0AE3A-0D3F-4C6F-8A71-EE59C8E9903D.jpeg`
-- `images/rustic/02AE2681-1799-4A71-9377-1DDA9A7DE251.jpeg`
-- `images/rustic/61E9F74B-AD81-40E5-9A61-21708F21D9B8.jpeg`
-- `images/rustic/242762B7-67B6-4541-8A66-D74CF0798D86.jpg`
-
 ## Source and attribution
 
-Text adapted from "Rustic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rustic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rustic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rustic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

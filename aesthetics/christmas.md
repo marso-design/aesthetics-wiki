@@ -10,7 +10,6 @@ related_aesthetics: ["Winter"]
 source_url: "https://aesthetics.fandom.com/wiki/Christmas"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 106
 ---
 
 # Christmas
@@ -313,115 +312,6 @@ Conversely, Christmas may also be alienating to non-Christians. Because of its u
 
 Rudolph the Red-Nosed Reindeer
 
-## Images
-
-- `images/christmas/Christmas.jpg`
-- `images/christmas/34d59186ac811c6e29efd9e338236c14.png`
-- `images/christmas/Tartan-tidings.jpg`
-- `images/christmas/F02c5735547dfb5378b54e7b2156de59.jpg`
-- `images/christmas/76cb4ac82ee1bb523a44b0e35121f56e.jpg`
-- `images/christmas/Smolredxmastree.png`
-- `images/christmas/1ff86af78d4340bf004c1e180967eae8.jpg`
-- `images/christmas/Red-christmas-ornaments.jpg`
-- `images/christmas/Lime-green-christmas-tree.jpg`
-- `images/christmas/A-beautiful-glam-Christmas-tree-with-silver-light-and-emerald-green-ornaments-leaf-ornaments-and-beads-plus-a-white-star-topper.jpg`
-- `images/christmas/Emerald-Green-Christmas-Decorations.jpeg`
-- `images/christmas/Christmasgreenery.png`
-- `images/christmas/Cutebluexmas.png`
-- `images/christmas/1606844283353.jpeg`
-- `images/christmas/47cbc2bd6c96a24b1ba5b22b008b8071.jpg`
-- `images/christmas/Istockphoto-629384630-612x612.jpg`
-- `images/christmas/152ee623bcb20152168782e2fdaf7b13.jpg`
-- `images/christmas/6e646879947ee79e8a24a6664d6d308f.jpg`
-- `images/christmas/Blueball.png`
-- `images/christmas/05845388b73ffb9fefca1279a07bd3d9.gif`
-- `images/christmas/Blue-christmas-ornaments-galaxy-bg.jpg`
-- `images/christmas/Blue-christmas-ornaments-and-snowflakes.jpg`
-- `images/christmas/Snow-tree.jpeg`
-- `images/christmas/2cc2e0150f97fec03651f24c3c3b676f.jpg`
-- `images/christmas/7db3a2ea6d2a9c723c3691e80af9a75c.jpg`
-- `images/christmas/Cutesnowtree.png`
-- `images/christmas/Verycutesnowornaments.png`
-- `images/christmas/Silverballs.png`
-- `images/christmas/Smolsnowtree.png`
-- `images/christmas/6e803affb07d6a19421115c6963bc74b.jpg`
-- `images/christmas/Goldenchristmas.png`
-- `images/christmas/093f12c655b26f75990afab61511aa47--natalina.jpg`
-- `images/christmas/Christmaswithtoomuchwhite.png`
-- `images/christmas/Goldenxmastree.png`
-- `images/christmas/Classychristmas.png`
-- `images/christmas/20190520arvore-de-natal-dourada-23.jpg`
-- `images/christmas/Christmasneweve2022.png`
-- `images/christmas/Golden-christmas-background-with-hanging-baubles-free-vector.jpg`
-- `images/christmas/Lightgoldenchristmas.png`
-- `images/christmas/14-jaw-dropping-holiday-black-and-gold-decor-with-a-faux-mantel-a-gilded-frame-and-candles-a-gold-Christmas-tree-with-black-ornaments-and-lots-of-lights.jpg`
-- `images/christmas/0552e79527b1f2a0cd587ac24b010d79.jpg`
-- `images/christmas/Tree-new-year-christmas-shopping-center-wallpaper.jpg`
-- `images/christmas/D0155d82db99b11847263d0c70432934.jpg`
-- `images/christmas/Darkgoldmerrychristmas.png`
-- `images/christmas/Pastelxmasdecor.jpg`
-- `images/christmas/Pastel-pink-christmas-cookies.jpg`
-- `images/christmas/Pastel-Christmas-Watercolor-Clipart-Graphics-6158072-1.jpg`
-- `images/christmas/Pastel-pink-and-white-christmas-nutcracker-aesthetic.jpg`
-- `images/christmas/Pink-christmas-aesthetic.jpg`
-- `images/christmas/Pastel-pink-christmas-aesthetic-tree-and-ornaments.jpg`
-- `images/christmas/Pastel-pink-christmas.jpg`
-- `images/christmas/Xmastreeonthesnow.png`
-- `images/christmas/A7da279a2b884ba472d53a52813a5cb0.jpg`
-- `images/christmas/713755919267-1.jpg`
-- `images/christmas/HD-wallpaper-winter-christmas-night-house-in-the-mountains-santa-claus-sleigh-deer-christmas-tree-new-year.jpg`
-- `images/christmas/Thumb-1920-727286.jpg`
-- `images/christmas/Christmas-tree-gettyimages-1072744106.jpg`
-- `images/christmas/36e231c3fc4af4c1ec34f520cf33b209.gif`
-- `images/christmas/Rainbow-Chistmas-Lights.jpg`
-- `images/christmas/Rainbow-Lights-And-Trees-For-Christmas.jpg`
-- `images/christmas/Rainbow-Chistmas-Lights2.jpg`
-- `images/christmas/14.-A-Lovely-Setting.jpg`
-- `images/christmas/Santaonthebeach.png`
-- `images/christmas/Sandmanxmas.png`
-- `images/christmas/Christmas-lights-on-palm-trees.jpg`
-- `images/christmas/5530294753f75c070a7dcd02aef2ee15.jpg`
-- `images/christmas/Klaussurfin.jpg`
-- `images/christmas/Xmasinaustralia.png`
-- `images/christmas/Summerchristmas.png`
-- `images/christmas/9f3c8107c5a03897a200c69f348c2109.jpg`
-- `images/christmas/F4db0646c894131d1bd9968a1cdfbe07--purple-christmas-tree-coastal-christmas.jpg`
-- `images/christmas/8339d0c5ba62cbb7b02d9cbd71df2eb9.jpg`
-- `images/christmas/66e430f7105ca3ae2d3aa3c41d326482--holiday-beach-holiday-tree.jpg`
-- `images/christmas/Beach-themed-christmas-tree.jpg`
-- `images/christmas/Xmasballsonthebeach.png`
-- `images/christmas/Things-to-do-in-summer-christmas-2.jpg`
-- `images/christmas/Coastalchristmas.png`
-- `images/christmas/Victorianxmastoys.png`
-- `images/christmas/Victorianchristmas-clipart-graphicsfairy010.jpg`
-- `images/christmas/Victoriasenglishchristmas.png`
-- `images/christmas/Victorian-christmas.jpg`
-- `images/christmas/7da81d7f13b497df789a1b500eea581d.jpg`
-- `images/christmas/48ec67d3e51166c769c7630919e2b6ee.jpg`
-- `images/christmas/A8970004117c80877c683130a6aa5b8b.jpg`
-- `images/christmas/4202e140d252d931011a84e51c629ceb.jpg`
-- `images/christmas/Cac2389a46d626bb6c3c7d45a800f7ca.jpg`
-- `images/christmas/3b452171e1d7b9f85c7ea73679730456.jpg`
-- `images/christmas/36676e456caea503d4fd04127f4dca69.jpg`
-- `images/christmas/838a690ceae30736358973fa4fa237e8.jpg`
-- `images/christmas/Most-wonderful-time-of-the-year-christmas-aes.jpg`
-- `images/christmas/Ornaments-Christmas-aesthetic.png`
-- `images/christmas/Candy-canes-christmas-aesthetic.png`
-- `images/christmas/Relaxing-christmas-aesthetic.png`
-- `images/christmas/Fireplace-xmas-tree-christmas-aesthetic.png`
-- `images/christmas/Colorful-Christmas-ornaments-and-lights.png`
-- `images/christmas/Christmas-tree-aesthetic.png`
-- `images/christmas/Red-christmas-aesthetic.jpg`
-- `images/christmas/Cozychristmas.png`
-- `images/christmas/Red-scarf-and-skates-christmas-aesthetic.jpg`
-- `images/christmas/Christmas-cookies-and-gingerbread-house.jpg`
-- `images/christmas/Christmastree8.png`
-- `images/christmas/Christmasstar8.png`
-- `images/christmas/Christmasdecoration8.png`
-- `images/christmas/Catchristmaslights.jpg`
-- `images/christmas/Xmas-tree-branches-lights-and-candles-aesthetic.jpg`
-- `images/christmas/Christmas-stocking-at-night-684x1024.jpg`
-
 ## Source and attribution
 
-Text adapted from "Christmas" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Christmas), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Christmas" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Christmas), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

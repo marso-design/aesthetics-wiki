@@ -12,7 +12,6 @@ related_media: ["Rango", "Coco", "Krazy Kat", "Area 51"]
 source_url: "https://aesthetics.fandom.com/wiki/Desert"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Desert
@@ -185,22 +184,6 @@ Oingo Boingo Thursday Halloween '90 show (10 25 90)
 
 ## Gallery
 
-## Images
-
-- `images/desert/Desert-cacti-field.jpg`
-- `images/desert/Desert-alien-parking.jpg`
-- `images/desert/Desert-alien-tourist.jpg`
-- `images/desert/Desert-ufo.jpg`
-- `images/desert/Desert-roswell-area51.jpg`
-- `images/desert/4F8AEB82-CFB6-4351-AA05-6AF0BCA186BE.png`
-- `images/desert/Desert-aliens.jpg`
-- `images/desert/Desert-cacti.jpg`
-- `images/desert/Desert-hot.jpg`
-- `images/desert/Desert-night.jpg`
-- `images/desert/Desert-peace.jpg`
-- `images/desert/Canyon-night-thumb.jpg`
-- `images/desert/Tran-night-desert-canyon.jpg`
-
 ## Source and attribution
 
-Text adapted from "Desert" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Desert), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Desert" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Desert), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

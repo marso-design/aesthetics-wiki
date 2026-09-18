@@ -14,7 +14,6 @@ related_media: ["Wings of Desire (1987)"]
 source_url: "https://aesthetics.fandom.com/wiki/Angelcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Angelcore
@@ -90,32 +89,6 @@ The color palette mirrors that of the broader aesthetic, focusing on whites, cre
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/angelcore/Angelcore.jpg`
-- `images/angelcore/Angelcoreaesthetic1.jpg`
-- `images/angelcore/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f41757954477530476f624f6e6d513d3d2d332e313566376665316631653130316638323631303138353634393433322e6a7067.jpeg`
-- `images/angelcore/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5f4670374a6d43524b417a6e42513d3d2d342e3136306664363865613539363261376636343938383234353332342e6a7067.jpeg`
-- `images/angelcore/Cloud.jpg`
-- `images/angelcore/96c4e3efbc7d7def637637e41c51bdc5.jpg`
-- `images/angelcore/920aebaf499fa1ee1bda5e287645b928.jpg`
-- `images/angelcore/976d57e5616df5a5c62070edec461b41.jpg`
-- `images/angelcore/Ripple.jpg`
-- `images/angelcore/Cherub.jpg`
-- `images/angelcore/A029CBE5-D69D-4DFA-85FB-6DE8517DB526.jpeg`
-- `images/angelcore/Mmmooonnn.jpg`
-- `images/angelcore/Water.jpg`
-- `images/angelcore/Lantern1.jpg`
-- `images/angelcore/Angelp5.jpeg`
-- `images/angelcore/Angelp3.png`
-- `images/angelcore/2an168ekm6i51.jpg`
-- `images/angelcore/403524e4d01fc61764ef584525c0f43f.jpg`
-- `images/angelcore/D2ee147e17326af47cfbc250a8a6aff3.jpg`
-- `images/angelcore/Fgfgdfdmlhhs.jpg`
-- `images/angelcore/90760AB0-0BE0-4534-88B9-4C707252C786.jpeg`
-- `images/angelcore/Surfing.jpg`
-- `images/angelcore/90D6E666-BD8B-4FBA-80CD-160354C4322D.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Angelcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Angelcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Angelcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Angelcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

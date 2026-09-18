@@ -12,7 +12,6 @@ primary_platform: ["Instagram", "Pinterest"]
 source_url: "https://aesthetics.fandom.com/wiki/Unicorn_Trend"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Unicorn Trend
@@ -55,17 +54,6 @@ Unicorn-themed fashion translated the aesthetic's elements into clothing and acc
 
 ## References
 
-## Images
-
-- `images/unicorn-trend/031F283D-B5CD-4389-8578-45F3781B89ED.jpeg`
-- `images/unicorn-trend/1B0947B9-3205-4889-B5C0-C0303B91BA53.jpeg`
-- `images/unicorn-trend/45E40F74-30DC-40F2-9220-3C10E2CE4D54.webp`
-- `images/unicorn-trend/594EB43B-A983-46D7-85C9-E8967DB7640E.jpeg`
-- `images/unicorn-trend/Beautiful-unicorn-on-clouds-stars-260nw-1184613688.webp`
-- `images/unicorn-trend/Unicorncore.jpg`
-- `images/unicorn-trend/Unicorn-food-instagram-2017.jpg`
-- `images/unicorn-trend/Unicorn-in-the-mid-late-2010s-v0-utmgwlgqn38e1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Unicorn Trend" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Unicorn_Trend), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Unicorn Trend" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Unicorn_Trend), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

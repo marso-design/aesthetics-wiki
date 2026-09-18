@@ -9,7 +9,6 @@ related_aesthetics: ["Hellenic", "Art Deco", "Egyptian Revival"]
 source_url: "https://aesthetics.fandom.com/wiki/Ancient_Egypt"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Ancient Egypt
@@ -238,11 +237,6 @@ Ancient Egypt is a popular setting for fantasy films, especially those involving
 * *Living on the Ceiling* - Blancmange
 * Nefertiti by Two Big Boys
 
-## Images
-
-- `images/ancient-egypt/Egypt1.png`
-- `images/ancient-egypt/The-God-Aker.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ancient Egypt" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ancient_Egypt), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ancient Egypt" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ancient_Egypt), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

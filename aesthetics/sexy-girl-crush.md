@@ -10,7 +10,6 @@ related_aesthetics: ["Sexy", "Girl Crush", "Femme Fatale"]
 source_url: "https://aesthetics.fandom.com/wiki/Sexy-Girl_Crush"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Sexy-Girl Crush
@@ -92,13 +91,6 @@ Aesthetic reference image
 
 Brown Eyed Girls "Kill Bill"
 
-## Images
-
-- `images/sexy-girl-crush/T-ARA.jpg`
-- `images/sexy-girl-crush/After-school.jpg`
-- `images/sexy-girl-crush/T-ARA1.jpg`
-- `images/sexy-girl-crush/7919c3ab61afe09360d5c40ce8d6c4c2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sexy-Girl Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sexy-Girl_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sexy-Girl Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sexy-Girl_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

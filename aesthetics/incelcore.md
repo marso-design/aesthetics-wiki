@@ -11,7 +11,6 @@ related_aesthetics: ["Doomer", "Midwest Emo", "Meme Rap", "Nerdcore", "Olderbrot
 source_url: "https://aesthetics.fandom.com/wiki/Incelcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # Incelcore
@@ -244,30 +243,6 @@ Promotional imagery by Fried by Fluoride utilizing "deep-fried" editing and iron
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/incelcore/Gamer.jpg`
-- `images/incelcore/47b89413d2c7d14cba2087a2eec9d159.jpg`
-- `images/incelcore/0239867d77aca2fb557f46bf4c38ffec.jpg`
-- `images/incelcore/Artworks-ArxoqcuzztECpvye-Ul7Zxw-t240x240.jpg`
-- `images/incelcore/0712bfed63d15f7fd6ce27e643dae197.jpg`
-- `images/incelcore/805073d48ecf25090190743812c6543a.jpg`
-- `images/incelcore/0ab479216201ac2c2f692696ebf56e71.jpg`
-- `images/incelcore/9edc2035ad733f023578d1993893ed65.jpg`
-- `images/incelcore/330b2ab0d80712a03bbf09390f11f07b.jpg`
-- `images/incelcore/Bd21557c3f8e20a272f1c20ddcc02ba1.jpg`
-- `images/incelcore/734a0e61391d7ebc806e8c4f2ed765eb.jpg`
-- `images/incelcore/B0b16d09b6e10a7ef7d656d60314dace.jpg`
-- `images/incelcore/9b05dfb6bcecda9e08435e08edd3f12f.jpg`
-- `images/incelcore/102794b89aa32ffe98c58300c932427b.jpg`
-- `images/incelcore/B759c55d66f49acf08eede104322ddd7.jpg`
-- `images/incelcore/Artworks-AGyPWs4A2U4TideV-CMlwAw-t500x500.jpg`
-- `images/incelcore/7ec96f1324f21db40d7291b728fa783c.jpg`
-- `images/incelcore/1c7d32410e652935054162ef583b987e.jpg`
-- `images/incelcore/B5438b39db2ae8096d0cdc8551c1b983.jpg`
-- `images/incelcore/A736e5d35feff31807909f1a80c8b69f.jpg`
-- `images/incelcore/823fca347f795f9deef1b0ca0fe07405.jpg`
-
 ## Source and attribution
 
-Text adapted from "Incelcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Incelcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Incelcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Incelcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

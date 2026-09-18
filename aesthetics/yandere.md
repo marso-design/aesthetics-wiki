@@ -10,7 +10,6 @@ related_aesthetics: ["Animecore", "Cutegore", "Erokawa", "Gurokawa", "Lovecore",
 source_url: "https://aesthetics.fandom.com/wiki/Yandere"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Yandere
@@ -126,22 +125,6 @@ Main hypocritical personality of a Yandere in a nutshell.
 
 Hatsune Miku depicted as a Yandere
 
-## Images
-
-- `images/yandere/Yandere.jpg`
-- `images/yandere/Yanderecore.jpg`
-- `images/yandere/12.gif`
-- `images/yandere/2ba2cac30e69ad7db33af5beb3662134.jpg`
-- `images/yandere/Faafdd8f63cfa22393ea229de18cbb73.jpg`
-- `images/yandere/C5bb5d51cdd4e01b22f59957940ebb36.jpg`
-- `images/yandere/Soulmates.jpg`
-- `images/yandere/Unstable.jpg`
-- `images/yandere/2007aesthetic.jpg`
-- `images/yandere/2007.jpg.png`
-- `images/yandere/Yan.jpeg`
-- `images/yandere/Yukakopt4.gif`
-- `images/yandere/MikuYandere.jpg`
-
 ## Source and attribution
 
-Text adapted from "Yandere" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yandere), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yandere" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yandere), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

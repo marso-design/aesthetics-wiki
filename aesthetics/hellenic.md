@@ -10,7 +10,6 @@ related_aesthetics: ["Angelcore", "Classicism", "Dionysism", "Hollywood Regency"
 source_url: "https://aesthetics.fandom.com/wiki/Hellenic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Hellenic
@@ -251,13 +250,6 @@ Hellenic mood board
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/hellenic/48EC3414-C696-4EC4-B342-1C91320946CA.jpeg`
-- `images/hellenic/Cupid-and-psyche-sculpture.jpg`
-- `images/hellenic/Shell-pearls.jpg`
-- `images/hellenic/Venus-de-milo.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hellenic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hellenic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hellenic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hellenic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

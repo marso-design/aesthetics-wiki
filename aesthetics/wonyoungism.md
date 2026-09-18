@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "YouTube", "Pinterest"]
 source_url: "https://aesthetics.fandom.com/wiki/Wonyoungism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 28
 ---
 
 # Wonyoungism
@@ -95,37 +94,6 @@ Unleash Your Inner Confidence- Mastering the "Wonyoung" Mindset🥥🦢
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/wonyoungism/39d192c16135ef5b19c3636c60fbb4f1.jpg`
-- `images/wonyoungism/8b696aa890972c19d453396d82baf8f3.jpg`
-- `images/wonyoungism/4289640903916ba19d66a0fca448a87d.jpg`
-- `images/wonyoungism/B0c14d2e0a2734f5fa846bfa24dccdbb.jpg`
-- `images/wonyoungism/1d45841f106e9e9425bbbf54c5745b30.jpg`
-- `images/wonyoungism/Aa04018078eba98590661d10185d8abd.jpg`
-- `images/wonyoungism/8d86db03dc19deb6814ef80ba6aa48c6.jpg`
-- `images/wonyoungism/38ee1b5861b909f6403a79b067e3e151.jpg`
-- `images/wonyoungism/82b5d71e40dfdde6f6aa9e35b8035953.jpg`
-- `images/wonyoungism/8fb6bc981f467b7bcf4357e2639d3bdd.jpg`
-- `images/wonyoungism/0472b0b1a66bb5145f34e4b821372b33.jpg`
-- `images/wonyoungism/F25cc997a9fb28c18c4333e654f28d73.jpg`
-- `images/wonyoungism/6023846780126c805c647f9fe4042c3a.jpg`
-- `images/wonyoungism/522f70d0a249a736030910a4d963115b.jpg`
-- `images/wonyoungism/988e4c6d1c57cea274471d24248918a3.jpg`
-- `images/wonyoungism/547ecb2ede7174467b9d973a2634a1e8.jpg`
-- `images/wonyoungism/A3484c41e7c5d890ebeea49d3a3c8e19.jpg`
-- `images/wonyoungism/68b81b00d0e89c1b70516ebe8869a96d.jpg`
-- `images/wonyoungism/44cfbc604711f249e2a6c4ba978e6a76.jpg`
-- `images/wonyoungism/Fa0dd01c08af4122abf3802fa3dc289f.jpg`
-- `images/wonyoungism/Wonyoung1.jpg`
-- `images/wonyoungism/Wonyoung2.jpg`
-- `images/wonyoungism/Wonyoung3.jpg`
-- `images/wonyoungism/Wonyoung4.jpg`
-- `images/wonyoungism/Wonyoung11.jpg`
-- `images/wonyoungism/Wonyoung14.png`
-- `images/wonyoungism/Wonyvlogz.png`
-- `images/wonyoungism/F4iryfelixx.png`
-
 ## Source and attribution
 
-Text adapted from "Wonyoungism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wonyoungism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wonyoungism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wonyoungism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

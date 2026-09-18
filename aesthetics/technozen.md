@@ -10,7 +10,6 @@ related_aesthetics: ["Chromecore", "Flat Design", "Four Colors", "★Frutiger Ae
 source_url: "https://aesthetics.fandom.com/wiki/Technozen"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 24
 ---
 
 # Technozen
@@ -173,33 +172,6 @@ Wii Boxing Training exterior trees
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● **Technozen** ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/technozen/41ZeUHZBIsL.jpg`
-- `images/technozen/72D37091-533A-4CAF-88FE-71259D2E5131.jpg`
-- `images/technozen/1989Shoot-1.png`
-- `images/technozen/ABC52312-4600-495A-88D0-867EB0D22721.jpg`
-- `images/technozen/FAE02ECC-88E0-477B-B150-705E62DEE85D.jpg`
-- `images/technozen/FD4794F5-12CE-47EC-A975-9BD3254EF39B.jpg`
-- `images/technozen/Asimo.webp`
-- `images/technozen/Pictochat.webp`
-- `images/technozen/E784ADD7-D96C-45B6-AFDA-5DC794E87E80.jpg`
-- `images/technozen/0A76EB22-4AD3-4932-B176-6ABE1CDB4457.jpg`
-- `images/technozen/16CF6833-D086-446F-A5F4-796388EC42A3.jpg`
-- `images/technozen/32FBC01E-FC97-446D-8D89-0C21C4A105D1.jpg`
-- `images/technozen/0354C8CA-5708-451E-BF20-6C01EF5CC750.jpg`
-- `images/technozen/Brainage.webp`
-- `images/technozen/E25B67C1-9B83-401A-A14C-9DF4CBB99CBF.jpg`
-- `images/technozen/75735665-6948-4C2C-91CD-F574660926FC.jpg`
-- `images/technozen/0E8325E0-3C06-4FA9-9AB5-3F7BF43A9C15.jpg`
-- `images/technozen/A09F6C48-C268-465E-964C-32801F417881.jpg`
-- `images/technozen/Technozen-stairs.png`
-- `images/technozen/9BF1679B-39E3-4694-BD24-979824E9F681.jpg`
-- `images/technozen/Dsi-ll-xl.jpg`
-- `images/technozen/Design-ah-exhibition.jpg`
-- `images/technozen/ArtOfBalance.jpeg`
-- `images/technozen/Dewr2mf-e4c0d79b-ffe6-4532-807c-427243c422ff.jpg`
-
 ## Source and attribution
 
-Text adapted from "Technozen" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Technozen), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Technozen" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Technozen), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

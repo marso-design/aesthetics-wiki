@@ -11,7 +11,6 @@ related_media: ["Sherlock Holmes series (Arthur Conan Doyle)", "Works by Charles
 source_url: "https://aesthetics.fandom.com/wiki/Victorian"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Victorian
@@ -398,10 +397,6 @@ Dress inspired by Victorian fashion, 2010s-very early 2020s
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/victorian/9D562DB8-EA47-4B58-A568-FE4340409204.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Victorian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Victorian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Victorian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Victorian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

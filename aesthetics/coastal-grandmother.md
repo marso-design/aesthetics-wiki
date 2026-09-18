@@ -11,7 +11,6 @@ related_aesthetics: ["Après-ski", "Coastal Cowgirl", "Coastal Style", "Eclectic
 source_url: "https://aesthetics.fandom.com/wiki/Coastal_Grandmother"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Coastal Grandmother
@@ -86,28 +85,6 @@ The aesthetic's music is best represented by "Coastal Grandmother" playlists on 
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/coastal-grandmother/CGM5.jpg`
-- `images/coastal-grandmother/Bac07df9d6e02f32495b3a53e351789e.jpg`
-- `images/coastal-grandmother/A-14.webp`
-- `images/coastal-grandmother/5653ef85382b05127f9ca3d928760d92.jpg`
-- `images/coastal-grandmother/F244fb1b5cff12a714ea1899c9ffcdf4.jpg`
-- `images/coastal-grandmother/D6956161133be81ddc487fd78adad636.jpg`
-- `images/coastal-grandmother/E021f258721af0c5fe59348f33fc829b.jpg`
-- `images/coastal-grandmother/88faa5fe3648bcdb86c079eb19c3e13a.jpg`
-- `images/coastal-grandmother/3cbde6919859620055aea49c9864f7a4.jpg`
-- `images/coastal-grandmother/2f545048eb97efe5710b6a7f05f54fed.jpg`
-- `images/coastal-grandmother/6b572979bf97f7c12d0936f7afa8c6da.jpg`
-- `images/coastal-grandmother/43eca138506bfef4d667d970f963d7aa.jpg`
-- `images/coastal-grandmother/GettyImages-506387326-bee24f5419da43248accd6ee08692535.jpg`
-- `images/coastal-grandmother/09d0773714485505997a5798352a1b49.jpg`
-- `images/coastal-grandmother/52c31bfe2e440f67af2803035be983ac.jpg`
-- `images/coastal-grandmother/5e91277d8a8be7829f798285c8823bc5.jpg`
-- `images/coastal-grandmother/A499c12ed77f521a9d6b93ac140b3e7e.jpg`
-- `images/coastal-grandmother/Ec5e1c8b959f42fc9e988110854500ba.jpg`
-- `images/coastal-grandmother/Coastalgrandma.jpg`
-
 ## Source and attribution
 
-Text adapted from "Coastal Grandmother" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Coastal_Grandmother), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Coastal Grandmother" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Coastal_Grandmother), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

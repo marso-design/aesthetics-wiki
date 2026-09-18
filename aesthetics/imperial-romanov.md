@@ -9,7 +9,6 @@ palette: ["#D4CCC3", "#928A86", "#6B6360", "#423D3C", "#B8B1AD", "#A49D98"]
 source_url: "https://aesthetics.fandom.com/wiki/Imperial_Romanov"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Imperial Romanov
@@ -62,11 +61,6 @@ OTMA: Olga, Tatiana, Maria & Anastasia Romanov
 
 OTMA photographed while mushroom picking
 
-## Images
-
-- `images/imperial-romanov/Bfba625df3dfb8130a5caa8401be9580.jpg`
-- `images/imperial-romanov/OTMA.jpg`
-
 ## Source and attribution
 
-Text adapted from "Imperial Romanov" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Imperial_Romanov), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Imperial Romanov" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Imperial_Romanov), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

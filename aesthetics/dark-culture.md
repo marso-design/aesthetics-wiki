@@ -5,7 +5,6 @@ palette: ["#FFFFFE", "#030205", "#69605D", "#302927", "#E6E7E0", "#9E9C8D"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Culture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Dark Culture
@@ -125,19 +124,6 @@ Dark Culture is musically diverse, united by a shared dark or "cold" atmosphere:
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • **Dark Culture** • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/dark-culture/SiouxsieSioux.jpg`
-- `images/dark-culture/Goth1.png`
-- `images/dark-culture/Rivethead2.jpg`
-- `images/dark-culture/Bff286a5695fc4893403ec4abcd41bae.jpg`
-- `images/dark-culture/Cceaeda4030bed28449991d458b41477.jpg`
-- `images/dark-culture/D7d66cb14ff844953c4ac04f9c30faa7.jpg`
-- `images/dark-culture/49ba01fe816a31b90d6ba6538447c132.jpg`
-- `images/dark-culture/Victoriangoth5.jpg`
-- `images/dark-culture/Victoriangoth1.jpg`
-- `images/dark-culture/Victoriangoth2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dark Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Culture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Culture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ primary_platform: ["SoundCloud", "YouTube", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Brazilian_Phonk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Brazilian Phonk
@@ -107,22 +106,6 @@ Source unknown
 | Regional & Niche |
 | **Brazilian Phonk** • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/brazilian-phonk/BrazilianPhonk.jpg`
-- `images/brazilian-phonk/330d7abd7b52e3a6dc528bf5f259d397.jpg`
-- `images/brazilian-phonk/86067681cf103a54e41c07ec1a41db18.jpg`
-- `images/brazilian-phonk/970997b9982414348a9fcb6589a90446.jpg`
-- `images/brazilian-phonk/A4709ca3c176eb9ba16c7cd53f94bdec.jpg`
-- `images/brazilian-phonk/40230821f86968504940a7a995a35698.jpg`
-- `images/brazilian-phonk/13abd55574ca4da880823fd189594324.jpg`
-- `images/brazilian-phonk/4aa48c4429f9b945424c53c0ee164f4f.jpg`
-- `images/brazilian-phonk/56082ae26266cd5f4052896bf7efb9ce.jpg`
-- `images/brazilian-phonk/Fa6fed9d23feb0837b2e649e01071aa4.jpg`
-- `images/brazilian-phonk/4897894232a083ad56d927b36b272df0.jpg`
-- `images/brazilian-phonk/1607bb3a4ab20a73c147cd78937c8bcf.jpg`
-- `images/brazilian-phonk/3ba2ada1b7e58c3fcb40e806669d27a5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Brazilian Phonk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brazilian_Phonk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Brazilian Phonk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brazilian_Phonk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

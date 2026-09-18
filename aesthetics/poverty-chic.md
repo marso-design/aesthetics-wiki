@@ -12,7 +12,6 @@ related_media: ["Zoolander (film)", "\"Derelicte\" campaign"]
 source_url: "https://aesthetics.fandom.com/wiki/Poverty_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Poverty Chic
@@ -84,25 +83,6 @@ Being poor is cool, only if you're rich.
 
 ## References
 
-## Images
-
-- `images/poverty-chic/BalenciagaMudShow.webp`
-- `images/poverty-chic/C9aa61fb88862d187c4814dad579164f.jpg`
-- `images/poverty-chic/386e6510405af3c2e9b0aaabb3878ef3.jpg`
-- `images/poverty-chic/38112f0443183d6e088017c54c2e6b4c.jpg`
-- `images/poverty-chic/9e36752eb8a95009cfc26d5a77eb4089.jpg`
-- `images/poverty-chic/B85637487396013ba492bf9e0fc6f2e9.jpg`
-- `images/poverty-chic/D0e78e459baf86ef3a6c1f24f694a127.jpg`
-- `images/poverty-chic/9e2f47dd0bc6b79cfafafceddf5f0cdd.jpg`
-- `images/poverty-chic/54c6f9cf3f9c07e0f9f3276503affd4b.jpg`
-- `images/poverty-chic/035cd9885a96474c05a173de303325a5.jpg`
-- `images/poverty-chic/853813aed0d8adf4c665d19a184968fd.jpg`
-- `images/poverty-chic/Ff0961994e5eda908c7f52db027b7115.jpg`
-- `images/poverty-chic/F3431ca35477cd3992db5714ddfc6812.jpg`
-- `images/poverty-chic/63cde748002fbeeaebf73a9b8791e44d.jpg`
-- `images/poverty-chic/95ae35d63984b3cc00f491137ef9e5d9.jpg`
-- `images/poverty-chic/E6e9f6065c6864396cdc01f8d1e43eee.jpg`
-
 ## Source and attribution
 
-Text adapted from "Poverty Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Poverty_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Poverty Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Poverty_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

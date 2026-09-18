@@ -12,7 +12,6 @@ related_aesthetics: ["Abstract Tech", "Biopunk", "Cyberpop", "Cyberpunk", "Cyber
 source_url: "https://aesthetics.fandom.com/wiki/Cyberprep"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Cyberprep
@@ -108,21 +107,6 @@ From the webcomic *Always Human*
 
 From *Ralph Breaks the Internet*
 
-## Images
-
-- `images/cyberprep/63zwh9aujqq01.jpg`
-- `images/cyberprep/Zbacvztp0c701.jpg`
-- `images/cyberprep/Pdccptvatfh01.jpg`
-- `images/cyberprep/Studio.jpg`
-- `images/cyberprep/Cyborg.jpg`
-- `images/cyberprep/Media.jpg`
-- `images/cyberprep/95e39583f9829949655ff0c8d305502f.jpg`
-- `images/cyberprep/E4c35257edd963add8ed2809a5c01f48.jpg`
-- `images/cyberprep/C9180860b9cb5ff405c1737d6e260368.jpg`
-- `images/cyberprep/Thanh-pho-mo-uoc-trong-100-nam-toi.jpg`
-- `images/cyberprep/Max-van-den-berg-perfect-utopia-min.jpg`
-- `images/cyberprep/CyberpunkRBTI.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cyberprep" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyberprep), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyberprep" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyberprep), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

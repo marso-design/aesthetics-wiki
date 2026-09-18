@@ -10,7 +10,6 @@ related_aesthetics: ["Bauhaus", "Constructivism", "Impressionism", "Kinetic Art"
 source_url: "https://aesthetics.fandom.com/wiki/Op_Art"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Op Art
@@ -73,4 +72,4 @@ Op Art frequently employs stark contrasts, often using black and white to maximi
 
 ## Source and attribution
 
-Text adapted from "Op Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Op_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Op Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Op_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

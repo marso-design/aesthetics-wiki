@@ -12,7 +12,6 @@ related_media: ["Leave It to Beaver", "The Donna Reed Show", "I Love Lucy", "Ple
 source_url: "https://aesthetics.fandom.com/wiki/50s_Suburbia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # 50s Suburbia
@@ -184,16 +183,6 @@ Many illustrations of 50s Suburbia are part of [American Kitsch](https://aesthet
 
 ## Gallery
 
-## Images
-
-- `images/50s-suburbia/LevittownPA.jpg`
-- `images/50s-suburbia/Fence.jpg`
-- `images/50s-suburbia/Cleaning.jpg`
-- `images/50s-suburbia/Fridge.jpg`
-- `images/50s-suburbia/Mailman.jpg`
-- `images/50s-suburbia/Prayer.jpg`
-- `images/50s-suburbia/Sweeping.jpg`
-
 ## Source and attribution
 
-Text adapted from "50s Suburbia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/50s_Suburbia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "50s Suburbia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/50s_Suburbia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

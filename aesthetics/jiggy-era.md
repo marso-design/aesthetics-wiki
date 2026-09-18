@@ -10,7 +10,6 @@ related_aesthetics: ["Afrofuturism", "Gangsta Rap", "Funfair Kitsch", "Hip-Hop",
 source_url: "https://aesthetics.fandom.com/wiki/Jiggy_Era"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Jiggy Era
@@ -93,4 +92,4 @@ Timbaland & Magoo - Luv 2 Luv Ya (Original Video)
 
 ## Source and attribution
 
-Text adapted from "Jiggy Era" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jiggy_Era), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Jiggy Era" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jiggy_Era), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

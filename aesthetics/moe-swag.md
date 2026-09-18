@@ -11,7 +11,6 @@ related_aesthetics: ["Future Funk", "Pen & Pixel", "Meme Rap", "Moe", "MLG", "Lo
 source_url: "https://aesthetics.fandom.com/wiki/Moe_Swag"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Moe Swag
@@ -101,23 +100,6 @@ Tyler , the Creator hugging Natsuki from Doki Doki Literature Club.
 
 ## References
 
-## Images
-
-- `images/moe-swag/LudaGetsFunky.jpg`
-- `images/moe-swag/KokoneAndObama.jpg`
-- `images/moe-swag/KimJonUNAnime.jpg`
-- `images/moe-swag/KFCAndAsuka.png`
-- `images/moe-swag/LilUziVertReiAyanami.jpg`
-- `images/moe-swag/QuestionableFutureEP.jpg`
-- `images/moe-swag/ZeroTwoSnoopDog.png`
-- `images/moe-swag/GopnikTaiga.jpg`
-- `images/moe-swag/Cover3.jpg`
-- `images/moe-swag/MikuMoeSwag.jpg`
-- `images/moe-swag/ChikaMoeSwag.jpg`
-- `images/moe-swag/TupacMoeSwag.jpg`
-- `images/moe-swag/4fd904ab2e1d205d97f027591d4712f0.jpg`
-- `images/moe-swag/Gangstawaifus.jpg`
-
 ## Source and attribution
 
-Text adapted from "Moe Swag" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Moe_Swag), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Moe Swag" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Moe_Swag), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

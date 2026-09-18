@@ -8,7 +8,6 @@ related_aesthetics: ["Bardcore", "Dark Fantasy", "Fantasy", "Medieval", "Medieva
 source_url: "https://aesthetics.fandom.com/wiki/Knightcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Knightcore
@@ -165,25 +164,6 @@ credit: and-speak.tumblr.com
 
 credit: and-speak.tumblr.com
 
-## Images
-
-- `images/knightcore/MonicaVitti.jpeg`
-- `images/knightcore/Castle-hill.jpg`
-- `images/knightcore/Ornate-garden-arch.jpg`
-- `images/knightcore/Woman-knight-portrait.jpg`
-- `images/knightcore/And-speak-knight-portrait.jpg`
-- `images/knightcore/Darknature9.jpg`
-- `images/knightcore/Woman-knight.jpg`
-- `images/knightcore/And-speak-knight.jpg`
-- `images/knightcore/Darknature3.jpg`
-- `images/knightcore/Rain.jpg`
-- `images/knightcore/45260745be8249e76f80fa45aa35622a.jpg`
-- `images/knightcore/A2fb0087b3628c97724ad5cb924fa994.jpg`
-- `images/knightcore/0b5b2b05b44b0e3e820fc239620f831a.jpg`
-- `images/knightcore/7bd5afa595d03c51bd84f9a2cb278d6c.jpg`
-- `images/knightcore/6eedd75e627c5de1ef2921a069c63663.jpg`
-- `images/knightcore/5e2d204dba0066867debbf84ea368d98.jpg`
-
 ## Source and attribution
 
-Text adapted from "Knightcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Knightcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Knightcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Knightcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

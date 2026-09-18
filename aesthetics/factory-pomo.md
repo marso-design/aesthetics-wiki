@@ -7,7 +7,6 @@ palette: ["#FFFFFF", "#2D2E31", "#A58163", "#4C4F5C", "#181B1F", "#BAB6A7"]
 source_url: "https://aesthetics.fandom.com/wiki/Factory_Pomo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Factory Pomo
@@ -61,26 +60,6 @@ The logo of *ReBoot*, a 1994 sci-fi animated series
 * [The Brief Reign of Factory Pomo](https://www.are.na/editorial/the-brief-reign-of-factory-pomo) - Essay by Evan Collins situation the aesthetics in its context
 * [factory pomo - aesthetic breakdown](https://youtu.be/dv9G44y5kdI) - A video by Puz explaining the aesthetic
 
-## Images
-
-- `images/factory-pomo/Pomohead.jpg`
-- `images/factory-pomo/Lagear.png`
-- `images/factory-pomo/Pomocity.png`
-- `images/factory-pomo/Pomoguide.jpeg`
-- `images/factory-pomo/Hahncompany.jpg`
-- `images/factory-pomo/Pomostage.jpg`
-- `images/factory-pomo/Moosehead.png`
-- `images/factory-pomo/Compactdisc.jpg`
-- `images/factory-pomo/Raptorslogo.png`
-- `images/factory-pomo/Cokelogo.jpg`
-- `images/factory-pomo/Beakman.jpg`
-- `images/factory-pomo/CCmusic.png`
-- `images/factory-pomo/Billnye.jpg`
-- `images/factory-pomo/Tomorrowland94.jpg`
-- `images/factory-pomo/Segalondon.png`
-- `images/factory-pomo/Sonicscreensaver.jpg`
-- `images/factory-pomo/SNL90s.png`
-
 ## Source and attribution
 
-Text adapted from "Factory Pomo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Factory_Pomo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Factory Pomo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Factory_Pomo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

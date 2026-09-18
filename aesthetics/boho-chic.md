@@ -10,7 +10,6 @@ related_aesthetics: ["Bohemian", "Ethnic Chic", "Geo-Boho", "Groovival", "Hippie
 source_url: "https://aesthetics.fandom.com/wiki/Boho-Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Boho-Chic
@@ -49,11 +48,6 @@ While Boho-Chic borrows heavily from the historical [Bohemian](https://aesthetic
 
 ## References
 
-## Images
-
-- `images/boho-chic/BohoStyle.jpg`
-- `images/boho-chic/Imagesuuuuuuuuuuu.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Boho-Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Boho-Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Boho-Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Boho-Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

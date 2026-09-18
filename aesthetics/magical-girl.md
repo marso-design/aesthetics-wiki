@@ -11,7 +11,6 @@ related_aesthetics: ["Animecore", "Fairy Kei", "Kawaii", "Moe", "Nanchatte Seifu
 source_url: "https://aesthetics.fandom.com/wiki/Magical_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Magical Girl
@@ -186,18 +185,6 @@ Puella Magi Madoka Magica Blu-Ray Volume One
 
 Thumbnail for Retry Now by NAKISO, drawn by castchannelstation
 
-## Images
-
-- `images/magical-girl/90sMadokabyPikiru.jpg`
-- `images/magical-girl/WITCH.jpg`
-- `images/magical-girl/Ma.jpg`
-- `images/magical-girl/Magical-girl-weapons.jpg`
-- `images/magical-girl/Cute.gif`
-- `images/magical-girl/Static-assets-upload8828827433145971661.webp`
-- `images/magical-girl/Kiracurewhipprecure-transform.gif`
-- `images/magical-girl/Precure-cure-la-mer.gif`
-- `images/magical-girl/Flandrescarletmg.jpg`
-
 ## Source and attribution
 
-Text adapted from "Magical Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Magical_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Magical Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Magical_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

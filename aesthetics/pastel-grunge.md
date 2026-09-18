@@ -10,7 +10,6 @@ related_aesthetics: ["Cuddle Party", "E-Girl", "Grunge", "Heroin Chic", "Pastel 
 source_url: "https://aesthetics.fandom.com/wiki/Pastel_Grunge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Pastel Grunge
@@ -133,10 +132,6 @@ The Pastel Grunge aesthetic is influenced by a lot of music. It's common to see 
 
 ## Gallery
 
-## Images
-
-- `images/pastel-grunge/Cdss.jpg`
-
 ## Source and attribution
 
-Text adapted from "Pastel Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pastel_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pastel Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pastel_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

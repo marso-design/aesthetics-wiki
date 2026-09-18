@@ -9,7 +9,6 @@ related_aesthetics: ["Beatnik", "Bon Chic", "Bon Genre", "Boujee", "Dark Academi
 source_url: "https://aesthetics.fandom.com/wiki/Chic_Modernist"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 26
 ---
 
 # Chic Modernist
@@ -70,35 +69,6 @@ Masculine fashion may include:
 
 Casual, Smart, Business Casual
 
-## Images
-
-- `images/chic-modernist/Chic-modern-mini-skirt.jpg`
-- `images/chic-modernist/CHic.jpg`
-- `images/chic-modernist/Chic-modern-long-coat.jpg`
-- `images/chic-modernist/Chic-modern-camel-coat.jpg`
-- `images/chic-modernist/Chic-modern-dark-colors.jpg`
-- `images/chic-modernist/Chic-modern-sweater.jpg`
-- `images/chic-modernist/Chic-modernist-room-french.jpg`
-- `images/chic-modernist/Chic-modern-dark-winter.jpg`
-- `images/chic-modernist/Chic-casual.jpg`
-- `images/chic-modernist/Chic-stripes.jpg`
-- `images/chic-modernist/Chic-blazer.jpg`
-- `images/chic-modernist/Chic-skirt.jpg`
-- `images/chic-modernist/Chic-plaid-black.jpg`
-- `images/chic-modernist/Chic-male-street.jpg`
-- `images/chic-modernist/Chic-male-tan.jpg`
-- `images/chic-modernist/Chic-male-black-most.jpg`
-- `images/chic-modernist/Casual-male-chic-dark.jpg`
-- `images/chic-modernist/Dark-male-chic.jpg`
-- `images/chic-modernist/Chic-mean-red-pants.jpg`
-- `images/chic-modernist/Chic-men-jean.jpg`
-- `images/chic-modernist/Chic-men-sweater.jpg`
-- `images/chic-modernist/Chic-men-vans.jpg`
-- `images/chic-modernist/Chic-men-green.jpg`
-- `images/chic-modernist/Chic-men-black.jpg`
-- `images/chic-modernist/Chic-men-levels.jpg`
-- `images/chic-modernist/Couple-black-white-chic-outfit.jpg`
-
 ## Source and attribution
 
-Text adapted from "Chic Modernist" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chic_Modernist), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chic Modernist" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chic_Modernist), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

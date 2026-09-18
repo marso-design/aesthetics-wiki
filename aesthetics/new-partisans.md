@@ -11,7 +11,6 @@ related_aesthetics: ["Communist Chic", "New Primitivism", "Socialist Realism", "
 source_url: "https://aesthetics.fandom.com/wiki/New_Partisans"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # New Partisans
@@ -127,17 +126,6 @@ A close-up of the Yugoslav Partisan *Titovka* cap with the prominent red star, w
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/new-partisans/Merlin-tesko-meni-sa-tobom-a-jos-teze-bez-tebe-Cover-Art.jpg`
-- `images/new-partisans/Bijelo-dugme-pljuni-i-zapjevaj-moja-jugoslavijo-Cover-Art.jpg`
-- `images/new-partisans/Jugosloveni-doslo-mi-je-da-se-napijem-Cover-Art.jpg`
-- `images/new-partisans/Alisa-da-li-si-cula-pesmu-umornih-slavuja-Cover-Art.jpg`
-- `images/new-partisans/Bolero-o-jesenjinu-Cover-Art.jpg`
-- `images/new-partisans/Plavi-orkestar-smrt-fasizmu-Cover-Art.jpg`
-- `images/new-partisans/Jugosloveni-vruce-osvezavajuce-Cover-Art.jpg`
-- `images/new-partisans/PlaviOrkestar.jpg`
-
 ## Source and attribution
 
-Text adapted from "New Partisans" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Partisans), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "New Partisans" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Partisans), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

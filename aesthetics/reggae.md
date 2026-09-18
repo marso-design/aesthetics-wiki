@@ -11,7 +11,6 @@ related_media: ["Trojan Records"]
 source_url: "https://aesthetics.fandom.com/wiki/Reggae"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Reggae
@@ -149,21 +148,6 @@ The Wailers
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • **Reggae** • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/reggae/Reggaera.jpg`
-- `images/reggae/Bobmarley01.jpg`
-- `images/reggae/Thewailers.jpg`
-- `images/reggae/Reggaelion.jpg`
-- `images/reggae/Rastapeople.jpg`
-- `images/reggae/Reggaemood01.jpg`
-- `images/reggae/Reggaemood02.jpg`
-- `images/reggae/Onelovereggae.jpg`
-- `images/reggae/Reggaesky.jpg`
-- `images/reggae/Reggaeafrica.jpg`
-- `images/reggae/Reggaebangle.jpg`
-- `images/reggae/Bobmarley.jpg`
-
 ## Source and attribution
 
-Text adapted from "Reggae" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Reggae), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Reggae" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Reggae), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

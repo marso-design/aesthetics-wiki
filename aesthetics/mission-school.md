@@ -11,7 +11,6 @@ related_aesthetics: ["Beatnik", "Constructivism", "Earth Tones", "Frasurbane", "
 source_url: "https://aesthetics.fandom.com/wiki/Mission_School"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Mission School
@@ -56,23 +55,6 @@ An installation by Barry McGee, showcasing the Mission School's characteristic "
 
 ## References
 
-## Images
-
-- `images/mission-school/Missionschool2.png`
-- `images/mission-school/Melvyn.png`
-- `images/mission-school/Hazels.png`
-- `images/mission-school/Missionschool.png`
-- `images/mission-school/Mission2008.jpg`
-- `images/mission-school/Perfect.jpg`
-- `images/mission-school/Olive.png`
-- `images/mission-school/Msfigures.png`
-- `images/mission-school/Kittybobo2.png`
-- `images/mission-school/EeyXLj4XsAQCE4U.png`
-- `images/mission-school/Missionhillbackground.jpg`
-- `images/mission-school/Toymachine.jpg`
-- `images/mission-school/Allengarage.jpg`
-- `images/mission-school/Mcgee.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mission School" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mission_School), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mission School" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mission_School), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

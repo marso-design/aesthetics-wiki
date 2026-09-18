@@ -11,7 +11,6 @@ related_aesthetics: ["Britpop", "Casuals", "Rave", "Y2K Futurism"]
 source_url: "https://aesthetics.fandom.com/wiki/UK_Garage"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # UK Garage
@@ -127,18 +126,6 @@ While men's fashion focused on high-end designer labels, the "Garage Girl" look 
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/uk-garage/One-Nation-26.10.1996.jpg`
-- `images/uk-garage/Ukg.jpg`
-- `images/uk-garage/644cc8347bd10b0111edcd09c127b50a.jpg`
-- `images/uk-garage/1517395584252-Heat-14111997.webp`
-- `images/uk-garage/14C54E4B-80FF-4080-9761-05153DF8E280-684x1024.jpg`
-- `images/uk-garage/3288b23c11c9b59fb3eff1a45b3ec6e8.jpg`
-- `images/uk-garage/1517395872522-United-Dance-1998.webp`
-- `images/uk-garage/1070028.webp`
-- `images/uk-garage/1517395261889-One-Nation-27091997.webp`
-
 ## Source and attribution
 
-Text adapted from "UK Garage" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/UK_Garage), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "UK Garage" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/UK_Garage), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

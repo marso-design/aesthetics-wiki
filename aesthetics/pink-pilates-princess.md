@@ -8,7 +8,6 @@ related_aesthetics: ["2014 Girly", "Ballet", "Pink Princess", "That Girl", "Doll
 source_url: "https://aesthetics.fandom.com/wiki/Pink_Pilates_Princess"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Pink Pilates Princess
@@ -70,29 +69,6 @@ wonyoung doing pilates
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/pink-pilates-princess/Pink-pilates-princess.jpg`
-- `images/pink-pilates-princess/B8922265282d05cd7f2023d5eb01a9a9.jpg`
-- `images/pink-pilates-princess/Ab67706c0000bebbed35275b32d09a37fe516e60.jpg`
-- `images/pink-pilates-princess/48c00c0fb6740863be563994c57fef28.jpg`
-- `images/pink-pilates-princess/R0147912.webp`
-- `images/pink-pilates-princess/Pilate.jpg`
-- `images/pink-pilates-princess/Yoga.jpg`
-- `images/pink-pilates-princess/🦷.jpg`
-- `images/pink-pilates-princess/B213821e90bf4f19d50106ba2abf4c5f.jpg`
-- `images/pink-pilates-princess/05d94e0b28c5015d6efd1058e868dfc9.jpg`
-- `images/pink-pilates-princess/F9d35f29af35bb7ce376eb93f97e803e.jpg`
-- `images/pink-pilates-princess/75e5e971636afa044be4266b6874b128.jpg`
-- `images/pink-pilates-princess/Ce249a7f371629018f84dafd71abe316.jpg`
-- `images/pink-pilates-princess/01770434a7ec860a18a0857045fc736e.jpg`
-- `images/pink-pilates-princess/Ec0fa306108e3aa41957ccb85a6e6582.jpg`
-- `images/pink-pilates-princess/Ae096d8c7094cfe4b4ad762c2a3c67d5.jpg`
-- `images/pink-pilates-princess/Daa1d89da9825016de199e8fd943a750.jpg`
-- `images/pink-pilates-princess/52c9417903de6b43d62e6f24ede1b739.jpg`
-- `images/pink-pilates-princess/60594935537e6bd7ca6f0354de816925.jpg`
-- `images/pink-pilates-princess/373f2a6dbf225699df0c387569d35edf.jpg`
-
 ## Source and attribution
 
-Text adapted from "Pink Pilates Princess" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pink_Pilates_Princess), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pink Pilates Princess" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pink_Pilates_Princess), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

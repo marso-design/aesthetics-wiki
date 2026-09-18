@@ -10,7 +10,6 @@ primary_platform: ["TikTok", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Beach_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Beach Goth
@@ -54,10 +53,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 [[1]](https://studybreaks.com/culture/sounds/beach-goth/)
 
-## Images
-
-- `images/beach-goth/Bd4b13a16c76606883514c671b446584.jpg`
-
 ## Source and attribution
 
-Text adapted from "Beach Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Beach_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Beach Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Beach_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

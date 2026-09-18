@@ -13,7 +13,6 @@ related_media: ["Touhou Project", "McDondald's Japan commercials", "Z-Kai", "\"R
 source_url: "https://aesthetics.fandom.com/wiki/OtoMAD"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # OtoMAD
@@ -106,10 +105,6 @@ Octagonzakura
 
 ## References
 
-## Images
-
-- `images/otomad/キドアイラク.jpg`
-
 ## Source and attribution
 
-Text adapted from "OtoMAD" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/OtoMAD), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "OtoMAD" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/OtoMAD), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Brazilian Bombshell", "Coquette", "Heroin Chic", "Waif", "
 source_url: "https://aesthetics.fandom.com/wiki/Slavic_Doll"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 35
 ---
 
 # Slavic Doll
@@ -180,44 +179,6 @@ Vlada Roslyakova on the cover of Vogue Italy, April 2005.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • **Slavic Doll** • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/slavic-doll/6fc0ee04e141ec56ecdeb824d6a04386.jpg`
-- `images/slavic-doll/Vlada.jpg`
-- `images/slavic-doll/The-slavic-dolls-of-the-2000s-v0-20wkp84q41ic1.webp`
-- `images/slavic-doll/Ruslana.webp`
-- `images/slavic-doll/Tanya.webp`
-- `images/slavic-doll/The-slavic-dolls-of-the-2000s-v0-pwmgn0ik11ic1.webp`
-- `images/slavic-doll/The-slavic-dolls-of-the-2000s-v0-k0j5e3tl11ic1.webp`
-- `images/slavic-doll/The-slavic-dolls-of-the-2000s-v0-cm7ws3tl11ic1.webp`
-- `images/slavic-doll/The-slavic-dolls-of-the-2000s-v0-2huh52tl11ic1.webp`
-- `images/slavic-doll/Dae7d4164ad41caa1279c8b8de8281a3.jpg`
-- `images/slavic-doll/5f2947b0a167933b862afb508828a371.jpg`
-- `images/slavic-doll/Ee0db6915a160047e67e58bf657879df.jpg`
-- `images/slavic-doll/27f11c84035658aab066a77cffb30a61.jpg`
-- `images/slavic-doll/Snejana.jpg`
-- `images/slavic-doll/4e304383e5ba2f76b4e7172cd0246569.jpg`
-- `images/slavic-doll/9a628e29fb683579798849eb834ec4b1.jpg`
-- `images/slavic-doll/0bf0e0f469093264ee063ef44d3f1c84.jpg`
-- `images/slavic-doll/F93cdc4164c65b97f11d3fbcbd4570e0.jpg`
-- `images/slavic-doll/The-slavic-dolls-of-the-2000s-v0-9um73scc51ic1.webp`
-- `images/slavic-doll/The-slavic-dolls-of-the-2000s-v0-ddqgqucc51ic1.webp`
-- `images/slavic-doll/Tanya2.jpg`
-- `images/slavic-doll/Vogue-russia-2008-september-00-fullsize.jpg`
-- `images/slavic-doll/Vogue-japan-2003-october-01-fullsize.jpg`
-- `images/slavic-doll/Vogue-japan-2004-september-00-fullsize.jpg`
-- `images/slavic-doll/Elle-czech-2004-march-01-fullsize.jpg`
-- `images/slavic-doll/Vogue-italy-2004-august-00-fullsize.jpg`
-- `images/slavic-doll/Vogue-japan-2005-february-00-fullsize.jpg`
-- `images/slavic-doll/High-fashion-2000-june-01-single.jpg`
-- `images/slavic-doll/Mm-magazine-2004-february-27-fullsize.jpg`
-- `images/slavic-doll/Jalouse-1999-may-00-fullsize.jpg`
-- `images/slavic-doll/Vogue-russia-2010-june-02-fullsize.jpg`
-- `images/slavic-doll/Lofficiel-france-2005-april-00-fullsize.jpg`
-- `images/slavic-doll/Numero-tokyo-2008-june-01-fullsize.jpg`
-- `images/slavic-doll/Vogue-russia-2006-june-01-fullsize.jpg`
-- `images/slavic-doll/Vogue-italy-2005-april-02-fullsize.jpg`
-
 ## Source and attribution
 
-Text adapted from "Slavic Doll" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Slavic_Doll), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Slavic Doll" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Slavic_Doll), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

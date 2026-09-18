@@ -11,7 +11,6 @@ related_aesthetics: ["Adventurecore", "Cabincore", "Grunge", "Hipster", "Normcor
 source_url: "https://aesthetics.fandom.com/wiki/Lumberjack"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Lumberjack
@@ -48,22 +47,6 @@ The defining grooming characteristic of the Lumberjack aesthetic is the full bea
 
 ## References
 
-## Images
-
-- `images/lumberjack/911f6f6b6aa6f6c72bfe416d2d414fa8.jpg`
-- `images/lumberjack/0656d4ef766131c4a80cf0884d940ebb.jpg`
-- `images/lumberjack/742014b3a06a8434d33127a1d04d714b.jpg`
-- `images/lumberjack/39dc1d925b61a278e3cf8e5104539ac6.jpg`
-- `images/lumberjack/168b7289e34b032cf1246f51697ee6e2.jpg`
-- `images/lumberjack/2916100615c3e3821877fec994805cd8.jpg`
-- `images/lumberjack/C0e9539549b573b6ea30f944423ac54a.jpg`
-- `images/lumberjack/9e06ae26d01193085e7ddf27b1667441.jpg`
-- `images/lumberjack/1e7330dbe713cfb6a1587fc3eb2b9af1.jpg`
-- `images/lumberjack/687f2ee8e5c5a890afe0963ed3cbaf7e.jpg`
-- `images/lumberjack/905f1d58641fe49a912fe78ed273846e.jpg`
-- `images/lumberjack/4bb64e4864be38f314219a55c573d486.jpg`
-- `images/lumberjack/05506a21c0b8ccdb9363adf7018bed20.jpg`
-
 ## Source and attribution
 
-Text adapted from "Lumberjack" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lumberjack), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lumberjack" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lumberjack), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

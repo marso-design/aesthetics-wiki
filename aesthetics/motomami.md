@@ -11,7 +11,6 @@ related_aesthetics: ["Biker", "Choni", "Cyberpunk", "McBling", "Neoperreo", "Rax
 source_url: "https://aesthetics.fandom.com/wiki/Motomami"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Motomami
@@ -69,21 +68,6 @@ Kim Kardashian's take on the Motomami aesthetic.
 
 ## References
 
-## Images
-
-- `images/motomami/Moto2.jpg`
-- `images/motomami/Moto4.jpg`
-- `images/motomami/Moto3.jpg`
-- `images/motomami/Moto1.jpg`
-- `images/motomami/Motomamifashion4.png`
-- `images/motomami/MotomamiOutfit.jpg`
-- `images/motomami/Motomamifashion2.png`
-- `images/motomami/Motomamifashion.png`
-- `images/motomami/Motomamifashion5.png`
-- `images/motomami/Motomamifashion3.png`
-- `images/motomami/Paulruz.png`
-- `images/motomami/KimKardashianMotomami.png`
-
 ## Source and attribution
 
-Text adapted from "Motomami" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Motomami), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Motomami" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Motomami), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ primary_platform: ["Tumblr", "Pinterest", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Traumacore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 31
 ---
 
 # Traumacore
@@ -113,40 +112,6 @@ cutesy my melody theme overlaid with childish (but dark) words/sentences, cuts, 
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/traumacore/Traumacore-Sanrio.jpeg`
-- `images/traumacore/B9F92E8B-B7BC-4193-A835-5C54A5046847.jpeg`
-- `images/traumacore/2F8A84FD-789F-4586-ABB6-4D792A397481.jpeg`
-- `images/traumacore/Icant.jpg`
-- `images/traumacore/Helpme.png`
-- `images/traumacore/Ifeel.jpg`
-- `images/traumacore/Whywouldyou.png`
-- `images/traumacore/99684ab526144c90a3e07446887a1bd7.jpg`
-- `images/traumacore/F1eead545355f18c14e10d6a3350a354.jpg`
-- `images/traumacore/307927002165211.webp`
-- `images/traumacore/Original.png`
-- `images/traumacore/Traumacore-Sanrio-01.png`
-- `images/traumacore/Trauma.png`
-- `images/traumacore/Htrhrjytyfh.png`
-- `images/traumacore/Lies.jpg`
-- `images/traumacore/Trurh.jpg`
-- `images/traumacore/F3f88d11f0c9f9b38d5b69da5207c72d.jpeg`
-- `images/traumacore/Mytraumacore1.jpg`
-- `images/traumacore/Mytraumacore.jpg`
-- `images/traumacore/Mytraumacore2.jpg`
-- `images/traumacore/31D43EE2-EFA7-468B-AABB-3E886E037933.jpeg`
-- `images/traumacore/F69359FC-1749-480A-AD71-E7DE9182A206.jpeg`
-- `images/traumacore/EEB23F82-BC62-4FD0-B52F-593EEEE0E3B4.jpeg`
-- `images/traumacore/8A289F65-D561-4448-AAB5-C1074C0A69AE.png`
-- `images/traumacore/Nyanpasu.jpg`
-- `images/traumacore/Oh.jpg`
-- `images/traumacore/Lololol.jpg`
-- `images/traumacore/Guyuyguy.jpg`
-- `images/traumacore/Xxvanillasoulxx.traumacore.webp`
-- `images/traumacore/F9E917B2-C7FB-4F73-BB6F-08D56491BE7A.jpeg`
-- `images/traumacore/Cutie.jpg`
-
 ## Source and attribution
 
-Text adapted from "Traumacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Traumacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Traumacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Traumacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

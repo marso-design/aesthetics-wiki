@@ -9,7 +9,6 @@ related_media: ["Ecchi or R-18 Girls' Love/Yuri manga"]
 source_url: "https://aesthetics.fandom.com/wiki/Erokawa"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Erokawa
@@ -87,12 +86,6 @@ creepyyeha lingerie
 
 Panty and Stocking With Garterbelt
 
-## Images
-
-- `images/erokawa/EAo0XspUcAUjqpt.jpg`
-- `images/erokawa/DAzBMkvUAAE0y9k.jpg`
-- `images/erokawa/Chorker7.jpg`
-
 ## Source and attribution
 
-Text adapted from "Erokawa" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Erokawa), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Erokawa" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Erokawa), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

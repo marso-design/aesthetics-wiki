@@ -10,7 +10,6 @@ related_aesthetics: ["Girl Crush", "High Teen", "Neon Tech", "Avant Apocalypse",
 source_url: "https://aesthetics.fandom.com/wiki/Teen_Crush"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Teen Crush
@@ -68,13 +67,6 @@ The rapid proliferation of the Teen Crush aesthetic between 2019 and 2021 led to
 
 ## References
 
-## Images
-
-- `images/teen-crush/ITZY.jpg`
-- `images/teen-crush/Aespa2.jpg`
-- `images/teen-crush/Itzy-itz-itzy-cover-art.webp`
-- `images/teen-crush/HD-wallpaper-itzy-hwang-yeji-jyp-korea-kpop-lee-chaeryeong-lia-shin-ryujin-shin-yuna.jpg`
-
 ## Source and attribution
 
-Text adapted from "Teen Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Teen_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Teen Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Teen_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

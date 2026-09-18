@@ -11,7 +11,6 @@ related_aesthetics: ["Art Nouveau", "Bohemian"]
 source_url: "https://aesthetics.fandom.com/wiki/Parisian_Apaches"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Parisian Apaches
@@ -103,24 +102,6 @@ Illustration from Le Petit Journal, depicting Apaches fighting against the Paris
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/parisian-apaches/ParisianApachesNew.jpg`
-- `images/parisian-apaches/Apaches-300x185.jpg`
-- `images/parisian-apaches/B2b52e6fe67448a19ef3c13d09523daa.jpg`
-- `images/parisian-apaches/C9e2dde9914892ad7f257720e790d881.jpg`
-- `images/parisian-apaches/660e50708a11873c4afe46e9be4f189a.jpg`
-- `images/parisian-apaches/Gastyne.jpg`
-- `images/parisian-apaches/ApachesEnJupons.jpg`
-- `images/parisian-apaches/5ce0a685cb39eab25b2767400f9066c6.jpg`
-- `images/parisian-apaches/E4674c8a885a3f97b28c466f67d8e21b.jpg`
-- `images/parisian-apaches/Fa96e75778037e8f78142cc2b76a541a.jpg`
-- `images/parisian-apaches/903848df2db1c63214404187262f80d3.jpg`
-- `images/parisian-apaches/3a80920d830986a1f3f4d1110284f2b4.jpg`
-- `images/parisian-apaches/1280px-Apachesvspolicebastille.jpg`
-- `images/parisian-apaches/8700aef9f8ad9bf03fe04a9d8ff9a0be.jpg`
-- `images/parisian-apaches/ApacheAccessories.jpg`
-
 ## Source and attribution
 
-Text adapted from "Parisian Apaches" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Parisian_Apaches), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Parisian Apaches" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Parisian_Apaches), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Corpcore", "Dark Academia", "Goth", "Office Siren"]
 source_url: "https://aesthetics.fandom.com/wiki/Corporate_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Corporate Goth
@@ -49,22 +48,6 @@ The core principle of Corporate Goth is compromise. It is a conscious strategy f
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/corporate-goth/Ddf3c743893000d9f0ca6e3af4747a09.jpg`
-- `images/corporate-goth/7e638e9a196119dd36e43ad51c60ae89.jpg`
-- `images/corporate-goth/658f3ff05189f03f3c3441b6d20f99bd.jpg`
-- `images/corporate-goth/Cb2f6afdb203ee07a47ef32c4caeb35f.jpg`
-- `images/corporate-goth/D926efaca4dba1e432c4e5a7bba86f5c.jpg`
-- `images/corporate-goth/Bde4b4d9447425c7d9ea411b5bed0182.jpg`
-- `images/corporate-goth/E2f4293ac5a941ef7409c7c6b100593c.jpg`
-- `images/corporate-goth/0271f37b974fd291c899f3c59a093084.jpg`
-- `images/corporate-goth/1694a607993d7a479cb67ce53e0d1821.jpg`
-- `images/corporate-goth/Cc5f09dd0b0b9a28dd823ebb5cbbf3f3.jpg`
-- `images/corporate-goth/1cb86ae79d3cfa7b7ce6d99b43f0bea9.jpg`
-- `images/corporate-goth/903aa750d154b09fc042b552a8cd7c93.jpg`
-- `images/corporate-goth/7e2a83bde2896888c1fd9eee3bd2c232.jpg`
-
 ## Source and attribution
 
-Text adapted from "Corporate Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corporate_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Corporate Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corporate_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

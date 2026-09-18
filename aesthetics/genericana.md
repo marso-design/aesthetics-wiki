@@ -8,7 +8,6 @@ related_aesthetics: ["Decoplex", "Hipness Purgatory", "Industral Americana", "Li
 source_url: "https://aesthetics.fandom.com/wiki/Genericana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Genericana
@@ -25,4 +24,4 @@ _Also known as: Contemporary-Conformist, Industriana_
 
 ## Source and attribution
 
-Text adapted from "Genericana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Genericana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Genericana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Genericana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

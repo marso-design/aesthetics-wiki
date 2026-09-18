@@ -4,7 +4,6 @@ slug: "vamp"
 source_url: "https://aesthetics.fandom.com/wiki/Vamp"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Vamp
@@ -26,4 +25,4 @@ The following is a list of links to pages that might share the same title. Pleas
 
 ## Source and attribution
 
-Text adapted from "Vamp" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vamp), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vamp" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vamp), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

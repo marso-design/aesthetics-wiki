@@ -10,7 +10,6 @@ palette: ["#211C1B", "#433734", "#634B3F", "#020401", "#B5836D", "#D0B095"]
 source_url: "https://aesthetics.fandom.com/wiki/Snackwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Snackwave
@@ -35,11 +34,6 @@ A pizza-print outfit worn by Beyoncé.
 
 ## References
 
-## Images
-
-- `images/snackwave/DFSVMBR5FZCBZDKJSDPXAAB4ZU.jpg`
-- `images/snackwave/A4c589898d03696004174776b1e8aba7.jpg`
-
 ## Source and attribution
 
-Text adapted from "Snackwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Snackwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Snackwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Snackwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

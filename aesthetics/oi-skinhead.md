@@ -12,7 +12,6 @@ related_media: ["Strength Thru Oi! (Compilation)", "Capital Offence (Crown Court
 source_url: "https://aesthetics.fandom.com/wiki/Oi!_Skinhead"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Oi! Skinhead
@@ -129,21 +128,6 @@ The Oi! aesthetic is characterized by a more rugged, "hard-boiled" appearance co
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/oi-skinhead/Image-1046x1536.png`
-- `images/oi-skinhead/C2750ea307366e1667ba01773fd03d3f.jpg`
-- `images/oi-skinhead/26d2914e6b577f70eeaa84da1ef534e0.jpg`
-- `images/oi-skinhead/4ed102830ba57fe567d8d27419602cc7.jpg`
-- `images/oi-skinhead/F1bfdd0cc4ec4e3e96f9f343a47d830a.jpg`
-- `images/oi-skinhead/8c6e57ac621b755b304379f27e3411b0.jpg`
-- `images/oi-skinhead/C51733dc28330a6da7b67c315ac2e67c.jpg`
-- `images/oi-skinhead/23392e79d8dc64436b97adbd67158440.jpg`
-- `images/oi-skinhead/7e5a99916a700e9e192a6c7d60a35be3.jpg`
-- `images/oi-skinhead/7ad3156d7c320a3c429bc60c9109d5f1.jpg`
-- `images/oi-skinhead/28871ccfa7e53fb80f9d4b633c210686.jpg`
-- `images/oi-skinhead/Cb6dc54a03daf71f964aeeb813e8ca30.jpg`
-
 ## Source and attribution
 
-Text adapted from "Oi! Skinhead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Oi!_Skinhead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Oi! Skinhead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Oi!_Skinhead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

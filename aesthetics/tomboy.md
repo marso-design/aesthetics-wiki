@@ -11,7 +11,6 @@ related_aesthetics: ["90s Cool", "Adventurecore", "Bro Hoe", "Femboy (counterpar
 source_url: "https://aesthetics.fandom.com/wiki/Tomboy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Tomboy
@@ -230,16 +229,6 @@ Contrary to popular belief, not all tomboyish girls are "dumb" or hate school. M
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/tomboy/Tomboy.jpeg`
-- `images/tomboy/Boyfriends-clothes.jpg`
-- `images/tomboy/Boyfriend-fit-jeans.jpg`
-- `images/tomboy/Tomboy-basketball.jpg`
-- `images/tomboy/Tomboy-butch.jpg`
-- `images/tomboy/Tomboy-casual.jpg`
-- `images/tomboy/Tomboy-kristen.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tomboy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tomboy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tomboy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tomboy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -13,7 +13,6 @@ related_media: ["American Psycho", "Nightcrawler", "The Wolf of Wall Street", "P
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Triad"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Dark Triad
@@ -67,21 +66,6 @@ The shock value inherent in the aesthetic frequently crosses the line into genui
 
 ## References
 
-## Images
-
-- `images/dark-triad/Hq720iijokwjxw.jpg`
-- `images/dark-triad/Ab67616d0000b273a377c952619363cea1a4c5b7.jpg`
-- `images/dark-triad/109i1e9d0.jpg`
-- `images/dark-triad/Ikkomkol.jpg`
-- `images/dark-triad/I8uh98iijioi.jpg`
-- `images/dark-triad/Osjkkskdc.jpg`
-- `images/dark-triad/Ab67616d0000b273d93a9ea2def89a1d359cbe6d.jpg`
-- `images/dark-triad/Imaidickwo.jpg`
-- `images/dark-triad/Imakdmodkmoid.jpg`
-- `images/dark-triad/Ijiohuiiuhjk.jpg`
-- `images/dark-triad/Doiocdodwoj.jpg`
-- `images/dark-triad/47a75592d52f543dbc16b824b353eef6.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dark Triad" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Triad), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Triad" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Triad), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

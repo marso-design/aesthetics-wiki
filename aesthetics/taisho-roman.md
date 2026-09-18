@@ -10,7 +10,6 @@ related_aesthetics: ["Art Deco", "Romanticism", "Neoclassicism", "Roaring 20s", 
 source_url: "https://aesthetics.fandom.com/wiki/Taisho_Roman"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Taisho Roman
@@ -94,10 +93,6 @@ Arknights Taisho Roman fanart by [kuroinu9](https://t.bilibili.com/8289209486210
 
 -ENG sub- Taishou Yakyuu Musume - Koume sings a song about Tokyo - Ep 1
 
-## Images
-
-- `images/taisho-roman/Arknights.png`
-
 ## Source and attribution
 
-Text adapted from "Taisho Roman" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Taisho_Roman), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Taisho Roman" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Taisho_Roman), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Gangsta Rap", "Glitter Graphics", "Haunted Mound", "Hip-Ho
 source_url: "https://aesthetics.fandom.com/wiki/Pen_&_Pixel"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Pen & Pixel
@@ -76,21 +75,6 @@ Lil Wayne "Tha Block Is Hot"
 
 ## References
 
-## Images
-
-- `images/pen-and-pixel/Lil-flip-leprechaun-58b8ddb75f9b58af5c8fe755.webp`
-- `images/pen-and-pixel/R-1786516-1498330518-2703.jpg`
-- `images/pen-and-pixel/R-22086619-1644402197-4719.jpg`
-- `images/pen-and-pixel/R-4365928-1614852423-7645.jpg`
-- `images/pen-and-pixel/Df901de05d0eaf8cdc5f331c867e6716.webp`
-- `images/pen-and-pixel/Mercedes-Rear-End-2--58b8dda55f9b58af5c8fe697.webp`
-- `images/pen-and-pixel/R-1325459-1209793601.jpg`
-- `images/pen-and-pixel/2102af32064e692bb7a3c8cf60da0585.640x640x1.jpg`
-- `images/pen-and-pixel/Stewmac-Bustin-Nutz-58b8dd6d5f9b58af5c8fdf62.webp`
-- `images/pen-and-pixel/Thablockishot.jpg`
-- `images/pen-and-pixel/Frustrated-58b8ddc13df78c353c23fdf4.webp`
-- `images/pen-and-pixel/Big-Bear-Doing-Thangs-58b8dd7e5f9b58af5c8fe25f.webp`
-
 ## Source and attribution
 
-Text adapted from "Pen & Pixel" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pen_&_Pixel), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pen & Pixel" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pen_&_Pixel), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

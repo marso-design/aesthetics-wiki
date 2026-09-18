@@ -10,7 +10,6 @@ palette: ["#18191A", "#B4CCC9", "#EDF3F0", "#2F3634", "#58665F", "#7C908A"]
 source_url: "https://aesthetics.fandom.com/wiki/Afropunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Afropunk
@@ -107,20 +106,6 @@ A significant manifestation of the movement is the annual Afropunk Festival, fou
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/afropunk/Novatwins.jpg`
-- `images/afropunk/Afropunk1.jpg`
-- `images/afropunk/Afropunk2.jpg`
-- `images/afropunk/Afropunk3.jpg`
-- `images/afropunk/Afropunk4.jpg`
-- `images/afropunk/Afropunk5.jpg`
-- `images/afropunk/F77af012d7f560b8cb3e6dfe273b8181.jpg`
-- `images/afropunk/Afropunk6.jpg`
-- `images/afropunk/Afropunk7.jpg`
-- `images/afropunk/Afropunk8.jpg`
-- `images/afropunk/Afropunk9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Afropunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Afropunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Afropunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Afropunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

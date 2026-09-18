@@ -11,7 +11,6 @@ related_aesthetics: ["Music:", "Grunge", "Hip-Hop", "Punk", "Witch House", "Visu
 source_url: "https://aesthetics.fandom.com/wiki/Urbancore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Urbancore
@@ -109,32 +108,6 @@ Hypebeast fashion
 
 Better be ready to catch this drip.
 
-## Images
-
-- `images/urbancore/Alley2nowhere.jpg`
-- `images/urbancore/Barthelemy-de-mazenod-TPi58VQE5gs-unsplash.jpg`
-- `images/urbancore/Bas-emmen-I6684pdjkI0-unsplash.jpg`
-- `images/urbancore/Justin-chavanelle-3XG7v7T9vrY-unsplash.jpg`
-- `images/urbancore/Anastase-maragos-1ipX2EiwHhA-unsplash.jpg`
-- `images/urbancore/Free-to-use-sounds-f0Pi70oLX6Q-unsplash.jpg`
-- `images/urbancore/Nuno-silva-7t2jkKb-5CE-unsplash.jpg`
-- `images/urbancore/53ac3119f3fb22b355cd5013c069059d53f3fd7e.png`
-- `images/urbancore/E14244f6bd932c5af02632239b685955df28a45f.png`
-- `images/urbancore/6785556a34989ad558dc39d129b5b9c3.jpg`
-- `images/urbancore/6510720a465dd1d00ac79d31c8081146.jpg`
-- `images/urbancore/Uc6.PNG`
-- `images/urbancore/Uc5.PNG`
-- `images/urbancore/Uc3.PNG`
-- `images/urbancore/Uc2.PNG`
-- `images/urbancore/Uc1.PNG`
-- `images/urbancore/E92D0D12-8F0F-4E0B-BB0A-6148EC6A212C.jpeg`
-- `images/urbancore/EC371444-42C6-4E7B-868B-90F267ECF80C.jpeg`
-- `images/urbancore/1111111111111111111111.jpg`
-- `images/urbancore/Hypebeast.PNG`
-- `images/urbancore/DD1CC090-A2A5-4792-88DE-FEAD4D61E53C.jpeg`
-- `images/urbancore/2Q==om.jpeg`
-- `images/urbancore/Imageshdgsgagss.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Urbancore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Urbancore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Urbancore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Urbancore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

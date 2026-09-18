@@ -12,7 +12,6 @@ related_media: ["Pony Express (1953)", "Western films"]
 source_url: "https://aesthetics.fandom.com/wiki/Bills_(Congolese_subculture)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Bills (Congolese subculture)
@@ -68,18 +67,6 @@ These practices included kamon, a local custom where the skin was cut and rubbed
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/bills-congolese-subculture/Kinshasa-cowboys-congo.jpg`
-- `images/bills-congolese-subculture/151124152228-kinshasa-cowboys-2.jpg`
-- `images/bills-congolese-subculture/151124153308-kinshasa-cowboys-4.jpg`
-- `images/bills-congolese-subculture/151124153712-kinshasa-cowboys-5.jpg`
-- `images/bills-congolese-subculture/0202.jpg`
-- `images/bills-congolese-subculture/Bills.jpg`
-- `images/bills-congolese-subculture/Bowing.jpg`
-- `images/bills-congolese-subculture/CVtIGSrW4AApd1B.jpg`
-- `images/bills-congolese-subculture/Kinshasa-congo-yankees-cowboys.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bills (Congolese subculture)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bills_(Congolese_subculture)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bills (Congolese subculture)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bills_(Congolese_subculture)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["Neuromancer", "Blade Runner", "Akira", "Ghost in the Shell", "T
 source_url: "https://aesthetics.fandom.com/wiki/Cyberpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 24
 ---
 
 # Cyberpunk
@@ -203,33 +202,6 @@ Back to the Future Part II (1989)
 
 ## References
 
-## Images
-
-- `images/cyberpunk/Mdvmefeejg331.webp`
-- `images/cyberpunk/Dqv2TuG.jpg`
-- `images/cyberpunk/Akira-post.jpg`
-- `images/cyberpunk/Cpwiki4.png`
-- `images/cyberpunk/Cyberpunkcity.png`
-- `images/cyberpunk/AkiraNeoTokyo.png`
-- `images/cyberpunk/Cyberpunk2077.gif`
-- `images/cyberpunk/Bttfpii.png`
-- `images/cyberpunk/15304.gif`
-- `images/cyberpunk/F739190a9148e90d607e4798f185fcfa.jpg`
-- `images/cyberpunk/Cyber-punk-neon-sunglasses.jpg`
-- `images/cyberpunk/1a74cac3b3e029eaadd5d44cc2542571.jpg`
-- `images/cyberpunk/N0n14uqjw5811.jpg`
-- `images/cyberpunk/B4510b2e00374852606319b5626cceff.jpg`
-- `images/cyberpunk/04ec9b356c3aa2502291a671fa025698.jpg`
-- `images/cyberpunk/7450685cb30e8714a1d4e84630e333c2.jpg`
-- `images/cyberpunk/07899dc7b29b909ae86ee16ef4eef72d.jpg`
-- `images/cyberpunk/Adb7c5ea89f2187a2ed4545b9a9e82a1.jpg`
-- `images/cyberpunk/VirtuaVerse.png`
-- `images/cyberpunk/Cyberpunk.jpg`
-- `images/cyberpunk/Black-cyber-punk-outfit.jpg`
-- `images/cyberpunk/Cyber-punk-black-outfit-woman.jpg`
-- `images/cyberpunk/Cpwikirucp.jpg`
-- `images/cyberpunk/Daft-punk-img-1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cyberpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyberpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyberpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyberpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

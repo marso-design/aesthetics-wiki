@@ -12,7 +12,6 @@ related_media: ["The Godfather trilogy", "Goodfellas", "The Sopranos", "Scarface
 source_url: "https://aesthetics.fandom.com/wiki/Mafia_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Mafia Aesthetic
@@ -95,29 +94,6 @@ By conflating various distinct criminal organizations (such as the Sicilian [Cos
 
 ## References
 
-## Images
-
-- `images/mafia-aesthetic/Mafia-moodboard.jpg`
-- `images/mafia-aesthetic/Money.jpg`
-- `images/mafia-aesthetic/Heel-on-hand.jpg`
-- `images/mafia-aesthetic/Mafia-gun.jpg`
-- `images/mafia-aesthetic/Drink-in-dark-room.jpg`
-- `images/mafia-aesthetic/Mafia-meeting.jpg`
-- `images/mafia-aesthetic/Smoking-bar-man.jpg`
-- `images/mafia-aesthetic/Bloody-knuckles.jpg`
-- `images/mafia-aesthetic/Italian-city-night-alley.jpg`
-- `images/mafia-aesthetic/Lingerie-knife-red.jpg`
-- `images/mafia-aesthetic/Whiskey-cigar.jpg`
-- `images/mafia-aesthetic/Mafia-woman.jpg`
-- `images/mafia-aesthetic/Femme-fatale-red-shades.jpg`
-- `images/mafia-aesthetic/Ill-give-you-war-text.jpg`
-- `images/mafia-aesthetic/Red-nails-cut.jpg`
-- `images/mafia-aesthetic/White-coat-black-outfit-chic-sleek.jpg`
-- `images/mafia-aesthetic/B454c22592980baece8f610b5b851fbc.png`
-- `images/mafia-aesthetic/Leather-short-hair.jpg`
-- `images/mafia-aesthetic/Bloody-suit.jpg`
-- `images/mafia-aesthetic/Gloves-gun-suit.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mafia Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mafia_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mafia Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mafia_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Autumn Aesthetic", "Cabincore", "Cottagecore", "Cozy Gamer
 source_url: "https://aesthetics.fandom.com/wiki/Cozycore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Cozycore
@@ -40,23 +39,6 @@ The philosophy of Cozycore is often seen as a gentle rejection of "hustle cultur
 
 ## References
 
-## Images
-
-- `images/cozycore/18208082e418c59ea13d0df1fbd11cd0.jpg`
-- `images/cozycore/51a866d8cd5b92bea718c2fadbc15a35.jpg`
-- `images/cozycore/663a1de0c5d8ba7a02ec49aac4b13f38.jpg`
-- `images/cozycore/EVcTfwnWoAYvWh7.jpg`
-- `images/cozycore/07fb5d4b8c064c1f1d67adf8d9880211.jpg`
-- `images/cozycore/9cd3539f2be0ac831ccabbca983b6003.jpg`
-- `images/cozycore/Dreamer.jpg`
-- `images/cozycore/Messybed2.png`
-- `images/cozycore/Messybed.png`
-- `images/cozycore/Messyroom.png`
-- `images/cozycore/Notebooks.jpg`
-- `images/cozycore/Breathe.jpg`
-- `images/cozycore/Rainy.png`
-- `images/cozycore/Ccomfy.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cozycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cozycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cozycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cozycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Acid Design", "Acid House", "Britpop", "Casuals", "Freakbe
 source_url: "https://aesthetics.fandom.com/wiki/Madchester"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Madchester
@@ -169,25 +168,6 @@ The Madchester brand itself has seen a modern resurgence, with the MDCR label be
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/madchester/9422d542ddae9e3365004b09f2c83588.jpg`
-- `images/madchester/Madchester2.jpg`
-- `images/madchester/Stone-Roses-005.webp`
-- `images/madchester/Stone-Roses-006.webp`
-- `images/madchester/C1f3ff817b3006219e233c8f5590925b.jpg`
-- `images/madchester/New-Order-004.webp`
-- `images/madchester/The-Smiths-003.webp`
-- `images/madchester/Dc81be2ed1d72c92cb659de149cf2b84.jpg`
-- `images/madchester/37b4b4ec8b688c1729afedc614621e8a.jpg`
-- `images/madchester/C224b07a5492186af9d24107d68059e7.jpg`
-- `images/madchester/85f3267129a2df6364ab6dadff906133.jpg`
-- `images/madchester/Ed5de8067fd322325507696018cdb42d.jpg`
-- `images/madchester/15e3225d5d35b49e3e4f5cc8a9558be2.jpg`
-- `images/madchester/7f910a8db0d1193a2b5f1db8b2fac59c.jpg`
-- `images/madchester/F1deba9163c185dacee5743d92ebedf4.jpg`
-- `images/madchester/C18d416e77d29c214b977a2c86fa8a43.jpg`
-
 ## Source and attribution
 
-Text adapted from "Madchester" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Madchester), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Madchester" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Madchester), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["American Kitsch", "Burlesque", "Club Kids", "Dark Academia
 source_url: "https://aesthetics.fandom.com/wiki/Camp"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Camp
@@ -200,19 +199,6 @@ It is also difficult to classify visuals because camp is unlimited, and highly d
 * <https://slate.com/culture/2013/04/camp-and-campy-theres-a-big-difference.html>
 * <https://www.widewalls.ch/magazine/campy-art-definition-artworks-culture>
 
-## Images
-
-- `images/camp/Monroe.jpg`
-- `images/camp/Alejandro-cartagena-YjOjxsK3F5Y-unsplash.jpg`
-- `images/camp/Quino-al-Reij7gMtXP4-unsplash.jpg`
-- `images/camp/Pawel-szvmanski-5siPaKXak0w-unsplash.jpg`
-- `images/camp/Susan-mohr-INLHpZKShao-unsplash.jpg`
-- `images/camp/NDLYYYYGFI2OTBAH6UDF2S2VKM.gif`
-- `images/camp/One-Iconic-Look-Marilyn-Monroe-Gentlemen-Prefer-Blondes-Costumes-Fashion-Tom-Lorenzo-Site-2.jpg`
-- `images/camp/Gentlemen-2-WEB.jpg`
-- `images/camp/Elvis1.jpg`
-- `images/camp/Batman.jpg`
-
 ## Source and attribution
 
-Text adapted from "Camp" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Camp), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Camp" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Camp), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

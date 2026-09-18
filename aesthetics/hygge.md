@@ -11,7 +11,6 @@ related_media: ["\"The Little Book of Hygge\" by Meik Wiking"]
 source_url: "https://aesthetics.fandom.com/wiki/Hygge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Hygge
@@ -98,17 +97,6 @@ Examples include:
 
 ## References
 
-## Images
-
-- `images/hygge/Hygge.jpg`
-- `images/hygge/Pour-etre-heureux-adoptez-la-hygge-attitude.jpg`
-- `images/hygge/1ac29fe520fb85380e5f196fb73fac8b.jpg`
-- `images/hygge/7dc2281de0fb766e70bc6c9fd6c723e7.jpg`
-- `images/hygge/35ab82c8927b921615a8350476757559.jpg`
-- `images/hygge/Ec29163c4740dd2196680b26549ab3ad.jpg`
-- `images/hygge/Acb4ce4febace38a58768a212f80a40b.jpg`
-- `images/hygge/Fcb2ab7bda33c0f73c72194dbb315c23.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hygge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hygge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hygge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hygge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

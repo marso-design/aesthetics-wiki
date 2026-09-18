@@ -10,7 +10,6 @@ palette: ["#000000", "#E4DBC9", "#FFFFFF", "#A88E87", "#2B2A27", "#B6B3B4"]
 source_url: "https://aesthetics.fandom.com/wiki/Straight_Edge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Straight Edge
@@ -60,22 +59,6 @@ The sound of Straight Edge is rooted in **hardcore punk**; a faster, louder, and
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/straight-edge/StraightEdge.jpg`
-- `images/straight-edge/06db8bda21065d3a836c024b36487b99.jpg`
-- `images/straight-edge/D05877ad3810e4d4a9e49f2b8bf6e5ee.jpg`
-- `images/straight-edge/0986914af9bf2b19a0bb0322fea709ae.jpg`
-- `images/straight-edge/596f8ac34f07b0f5d0979625cce78d64.jpg`
-- `images/straight-edge/1b965bc7fb01dd8f79935a7161e6af89.jpg`
-- `images/straight-edge/1abc6057522ab7d5b37b869f26a06b80.jpg`
-- `images/straight-edge/Ab9f864379a5f07faa141bfc03bc498f.jpg`
-- `images/straight-edge/1811e3295a8c0aa817753bbb7fdc6777.jpg`
-- `images/straight-edge/Abd8663fdf2798ffa6578d6190816266.jpg`
-- `images/straight-edge/D38caad049c851f2071cd00ac71d858b.jpg`
-- `images/straight-edge/D9c19be86125767dd07e62519c39b9ff.jpg`
-- `images/straight-edge/F5784e95a6668af7baa13c84d7d51429.jpg`
-
 ## Source and attribution
 
-Text adapted from "Straight Edge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Straight_Edge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Straight Edge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Straight_Edge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["The Craft (1996)", "Charmed (1998-2006)", "Practical Magic", "H
 source_url: "https://aesthetics.fandom.com/wiki/Witchcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 25
 ---
 
 # Witchcore
@@ -248,34 +247,6 @@ Altar for Goddess of Witches Hecate
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/witchcore/Witch.jpg`
-- `images/witchcore/4axl3km8jdg11.jpg`
-- `images/witchcore/10c6a1354e2d2ebd0346ede56609e3d4.jpg`
-- `images/witchcore/00xu7ha3hr821.jpg`
-- `images/witchcore/97c140d093ca396910d9768d490270af.jpg`
-- `images/witchcore/9k=Witchcore.jpeg`
-- `images/witchcore/Modern-witch.jpg`
-- `images/witchcore/A7e1b054238f495e24fe1b82ba964ca5.jpg`
-- `images/witchcore/0b5fdac64e187fd6707d24568ba3d3bb.jpg`
-- `images/witchcore/Opij1mdgxao11.jpg`
-- `images/witchcore/D948419379556ef899ee17fa576d4ab3.jpg`
-- `images/witchcore/Witchcore.jpeg`
-- `images/witchcore/Modern-Witch-0-8-1.png`
-- `images/witchcore/231.jpg`
-- `images/witchcore/Witchcore-perfume-bottle.jpg`
-- `images/witchcore/2D6DCBEB-A2DD-4D91-8C62-B74BF01C3646.jpeg`
-- `images/witchcore/Hecate-altar.jpg`
-- `images/witchcore/5F8A8AD8-46F2-4643-B297-42952A7F8017.jpeg`
-- `images/witchcore/64231a7349f06c779638e6c3b397993f.jpg`
-- `images/witchcore/Eca1c91f5ed6369d1856b45629cf628f.jpg`
-- `images/witchcore/0c2163bdf33876364b82acbda1c7cfdd.jpg`
-- `images/witchcore/E6ac6fc935cae6ef2817719bb3180f03.jpg`
-- `images/witchcore/5201cb2d530f935d60e738c5fc02314f.jpg`
-- `images/witchcore/149f6b0860fa84a4b7d6eab83164ea89.jpg`
-- `images/witchcore/Tag-witch.jpg`
-
 ## Source and attribution
 
-Text adapted from "Witchcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Witchcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Witchcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Witchcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

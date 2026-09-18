@@ -4,7 +4,6 @@ slug: "rare-aesthetic-trend"
 source_url: "https://aesthetics.fandom.com/wiki/Rare_aesthetic_(trend)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Rare aesthetic (trend)
@@ -47,4 +46,4 @@ Culturally, this marks a shift where the term "aesthetic" no longer describes a 
 
 ## Source and attribution
 
-Text adapted from "Rare aesthetic (trend)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rare_aesthetic_(trend)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rare aesthetic (trend)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rare_aesthetic_(trend)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

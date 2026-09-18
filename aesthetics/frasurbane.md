@@ -9,7 +9,6 @@ related_aesthetics: ["Austurbane", "Bon Chic", "Bon Genre", "Corporate Grunge", 
 source_url: "https://aesthetics.fandom.com/wiki/Frasurbane"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Frasurbane
@@ -70,12 +69,6 @@ Key visual elements of Frasurbane include:
 
 ## References
 
-## Images
-
-- `images/frasurbane/Frasurbane.png`
-- `images/frasurbane/Frasurbane7.jpg`
-- `images/frasurbane/Frasurbane9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Frasurbane" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Frasurbane), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Frasurbane" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Frasurbane), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

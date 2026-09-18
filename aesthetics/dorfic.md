@@ -11,7 +11,6 @@ related_aesthetics: ["★Abstract Tech", "Cyberpunk", "Dark Aero", "★Frutiger 
 source_url: "https://aesthetics.fandom.com/wiki/DORFic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # DORFic
@@ -219,25 +218,6 @@ IFM Truck designed by Luigi Colani
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● **DORFic**  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/dorfic/Office-2003-visuals.png`
-- `images/dorfic/Office-2010-visuals.png`
-- `images/dorfic/MS-LV-LBS-LISTAS-WEBSITE.png`
-- `images/dorfic/Xboxlivetab-360bladesdashboard.png`
-- `images/dorfic/Android1-development.png`
-- `images/dorfic/Windows81-Desktop.png`
-- `images/dorfic/97FBED8A-A57E-493B-8B92-1007ADD960CA.jpeg`
-- `images/dorfic/CB89538C-E184-4F1E-90A3-5859C6594767.webp`
-- `images/dorfic/Doomingtons.png`
-- `images/dorfic/E686B939-4678-49C3-8166-64DAC4714CFE.jpeg`
-- `images/dorfic/RinKagamine.jpg`
-- `images/dorfic/BeehiveDORFIC.jpg`
-- `images/dorfic/B9865093-C1C2-49D6-8543-0B4164AAE297.jpeg`
-- `images/dorfic/A8E35184-D2E9-458A-9EEF-7CD0E4205777.jpeg`
-- `images/dorfic/6861A67F-8517-43E5-8F09-3EDF9833A42D.jpeg`
-- `images/dorfic/FA5A2B60-7D4F-4A77-AD10-DB98D0BFC38B.jpeg`
-
 ## Source and attribution
 
-Text adapted from "DORFic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/DORFic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "DORFic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/DORFic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

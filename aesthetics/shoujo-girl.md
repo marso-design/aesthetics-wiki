@@ -11,7 +11,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Shoujo_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Shoujo Girl
@@ -85,18 +84,6 @@ Shoujo inspired outfits ૮ • ﻌ - ა⋆ -outfitstyling -outfitideas -outfit
 
 Becoming a shoujo girl (part 1) 🍧🍡🎀!!! (shoujo anime-girly-dollete tiktok compilation)
 
-## Images
-
-- `images/shoujo-girl/Hj65.jpg`
-- `images/shoujo-girl/Hj51.jpg`
-- `images/shoujo-girl/Hj58.jpg`
-- `images/shoujo-girl/Hj50.jpg`
-- `images/shoujo-girl/Himejaki.jpg`
-- `images/shoujo-girl/Hj35.jpg`
-- `images/shoujo-girl/Hj36.jpg`
-- `images/shoujo-girl/Hj33.jpg`
-- `images/shoujo-girl/Hj6.jpg`
-
 ## Source and attribution
 
-Text adapted from "Shoujo Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shoujo_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Shoujo Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shoujo_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Kid Science", "Kidcore", "Utopian Scholastic"]
 source_url: "https://aesthetics.fandom.com/wiki/Late_2000s_Elementary_School"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Late 2000s Elementary School
@@ -81,10 +80,6 @@ Yellow gym scooter
 
 * [Subreddit](https://www.reddit.com/r/ElementaryNostalgia/)
 
-## Images
-
-- `images/late-2000s-elementary-school/ScooterYellow.png`
-
 ## Source and attribution
 
-Text adapted from "Late 2000s Elementary School" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Late_2000s_Elementary_School), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Late 2000s Elementary School" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Late_2000s_Elementary_School), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

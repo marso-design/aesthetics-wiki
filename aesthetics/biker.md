@@ -10,7 +10,6 @@ related_aesthetics: ["Bosozoku", "Grunge", "Gyaru", "Metal", "Motomami", "Post-A
 source_url: "https://aesthetics.fandom.com/wiki/Biker"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 32
 ---
 
 # Biker
@@ -171,41 +170,6 @@ Metal, hard rock, and punk music is usually associated with bikers.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/biker/Petrebels-AR12trGJyjA-unsplash.jpg`
-- `images/biker/Alex-iby-oqqEC31VT7I-unsplash.jpg`
-- `images/biker/Allef-vinicius-0JuH3xmGZ4o-unsplash.jpg`
-- `images/biker/Asdrubal-luna-5UsK71iAP1c-unsplash.jpg`
-- `images/biker/Asdrubal-luna-w3woix46Nek-unsplash.jpg`
-- `images/biker/Austin-neill-3vQmhZQpDiY-unsplash.jpg`
-- `images/biker/Benjamin-suter-abx3A7d7CYE-unsplash.jpg`
-- `images/biker/Billy-freeman-arlHo8Vg69o-unsplash.jpg`
-- `images/biker/Damir-spanic-T2k6ntWAEKU-unsplash.jpg`
-- `images/biker/Harley-davidson-QD6GvrDFPAA-unsplash.jpg`
-- `images/biker/Spencer-davis-duXwICzzshc-unsplash.jpg`
-- `images/biker/Harley-davidson-Sac6Ri0Lhrc-unsplash.jpg`
-- `images/biker/Daniel-adesina-WlCNl0Ko5Ps-unsplash.jpg`
-- `images/biker/Edewaa-foster-K6BViu7747w-unsplash.jpg`
-- `images/biker/Edewaa-foster-gnjpa9eJQbE-unsplash.jpg`
-- `images/biker/Edewaa-foster-1oY2OpM8FKU-unsplash.jpg`
-- `images/biker/Elizeu-dias-Pfe3Ln-hpyU-unsplash.jpg`
-- `images/biker/Erica-lewis-VbFNkcbgaGo-unsplash.jpg`
-- `images/biker/Harold-wainwright-sz8nF9Fo73g-unsplash.jpg`
-- `images/biker/Henry-orr-0qmQVTEMdGo-unsplash.jpg`
-- `images/biker/Henry-orr-QStVQcQIDDw-unsplash.jpg`
-- `images/biker/Imani-bahati-o9yT-NdVHcQ-unsplash.jpg`
-- `images/biker/Jia-ye-COqQwsiMqMc-unsplash.jpg`
-- `images/biker/Jingming-pan-ku6vi7gS-2g-unsplash.jpg`
-- `images/biker/Mike-lloyd-hyyFzy1VNp4-unsplash.jpg`
-- `images/biker/Mike-montgomery-H7UBlfVVHss-unsplash.jpg`
-- `images/biker/Nick-fewings-6CkEdwHyGmo-unsplash.jpg`
-- `images/biker/Oleg-yeltsov-8zKCsiPHcSA-unsplash.jpg`
-- `images/biker/Ricardo-arce-PvCX1T7DHhI-unsplash.jpg`
-- `images/biker/Sean-delshadi-ox2VVRxENFs-unsplash.jpg`
-- `images/biker/Sierra-koder-TdfB9aIjIk4-unsplash.jpg`
-- `images/biker/Toa-heftiba-4UBh9FoYI7U-unsplash.jpg`
-
 ## Source and attribution
 
-Text adapted from "Biker" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Biker), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Biker" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Biker), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

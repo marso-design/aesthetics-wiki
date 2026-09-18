@@ -11,7 +11,6 @@ related_aesthetics: ["Hipster", "Hippie", "Psychedelia", "Tropical", "Brazilian 
 source_url: "https://aesthetics.fandom.com/wiki/Tropicália"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Tropicália
@@ -49,10 +48,6 @@ Heitor's music was strongly influenced by Bach's style, but the Brazilian musici
 
 <https://www.todamateria.com.br/tropicalismo/>
 
-## Images
-
-- `images/tropic-lia/Tropicalism.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tropicália" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropicália), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tropicália" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropicália), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ primary_platform: ["Tumblr", "TikTok", "Pinterest"]
 source_url: "https://aesthetics.fandom.com/wiki/Lovecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Lovecore
@@ -61,28 +60,6 @@ The music associated with Lovecore is not a specific genre, but a collection of 
 
 ## References
 
-## Images
-
-- `images/lovecore/LovecoreMoodboard.jpg`
-- `images/lovecore/Lovecore.jpg`
-- `images/lovecore/254e3ec861f4f190e110796d60a2137d.jpg`
-- `images/lovecore/Pink-love-pretty-in-pink.jpg`
-- `images/lovecore/5504b4736ed29db6110339356d04124c.jpg`
-- `images/lovecore/8c0a5f5d2549ecf15dc6e7b82158db4d.jpg`
-- `images/lovecore/Dc4li48-866e877f-d4a9-4191-b322-39d34f00a415.png`
-- `images/lovecore/Candy-hearts.png`
-- `images/lovecore/BFC5.jpg`
-- `images/lovecore/Pink-heart-bathtub-love.png`
-- `images/lovecore/Bright-red-heart-lovecore-aesthetic.jpg`
-- `images/lovecore/ENjx9ZUW4AASYxw.jpg`
-- `images/lovecore/Red-pink-and-light-pink-hearts-lovecore-aesthetic.jpg`
-- `images/lovecore/Finger-heart-upsidedown.jpg`
-- `images/lovecore/Lipstick-mirror.jpg`
-- `images/lovecore/Lovecore-pink-white-and-red-hearts.png`
-- `images/lovecore/Egon-schiele-two-girls-lovers-1.png`
-- `images/lovecore/Lovecore-cute-pink-hearts.jpg`
-- `images/lovecore/Lovecorecoollol.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Lovecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lovecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lovecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lovecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

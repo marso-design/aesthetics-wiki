@@ -10,7 +10,6 @@ related_aesthetics: ["Cabincore", "Cottagecore", "Cryptidcore", "Dark Naturalism
 source_url: "https://aesthetics.fandom.com/wiki/Forestpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Forestpunk
@@ -66,24 +65,6 @@ The music associated with the aesthetic often falls within the folk, acoustic, a
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/forestpunk/5207075C-B9C3-4CFE-8986-53D567039993.jpg`
-- `images/forestpunk/7FAB6A05-4B28-4ADA-A2A4-4C40F8AB20C4.jpeg`
-- `images/forestpunk/08551F47-2496-47D3-8F2E-051333D55E78.jpeg`
-- `images/forestpunk/33D27B64-33E1-4674-95C5-6C8345D48D11.jpeg`
-- `images/forestpunk/81282172-C788-4D3E-9C42-49D3228BEDFC.jpeg`
-- `images/forestpunk/20521277-A46E-457C-9860-EB3CEF8F152B.jpeg`
-- `images/forestpunk/68A790AF-344F-4C4E-A05E-B71834380E09.jpeg`
-- `images/forestpunk/6E15D5C3-E57F-41B7-9EDD-7B3AC4611A49.jpeg`
-- `images/forestpunk/Darkdeer.jpg`
-- `images/forestpunk/Darkcrow.jpg`
-- `images/forestpunk/485cc4c161615a9abb1c033d7fc0442e.jpg`
-- `images/forestpunk/Deadforestwitch.jpg`
-- `images/forestpunk/Lanternlit.jpg`
-- `images/forestpunk/10e3f7802f2389322809791626695cd6.jpg`
-- `images/forestpunk/Dieterkleinforestpunk-10.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Forestpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Forestpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Forestpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Forestpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

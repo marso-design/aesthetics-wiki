@@ -12,7 +12,6 @@ primary_platform: ["Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Lobotomy_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Lobotomy Chic
@@ -102,10 +101,6 @@ As stated before, the motive of the aesthetic is to act detached and unintereste
 
 ## References
 
-## Images
-
-- `images/lobotomy-chic/7115fd47ecc91719bbc23a2d53aa8b42.jpg`
-
 ## Source and attribution
 
-Text adapted from "Lobotomy Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lobotomy_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lobotomy Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lobotomy_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

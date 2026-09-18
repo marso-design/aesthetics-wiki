@@ -9,7 +9,6 @@ related_aesthetics: ["Animecore", "Cyberdelic", "Hyperpop", "Kawaii", "Kidcore",
 source_url: "https://aesthetics.fandom.com/wiki/Bubble_Bujo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Bubble Bujo
@@ -119,4 +118,4 @@ Although fashion is not a key element of this aesthetic, here are some popular t
 
 ## Source and attribution
 
-Text adapted from "Bubble Bujo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubble_Bujo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bubble Bujo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubble_Bujo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

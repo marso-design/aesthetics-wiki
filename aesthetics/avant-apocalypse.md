@@ -11,7 +11,6 @@ related_media: ["Dystopian films (e.g., Dune)", "Sci-fi"]
 source_url: "https://aesthetics.fandom.com/wiki/Avant_Apocalypse"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Avant Apocalypse
@@ -63,21 +62,6 @@ Image by kiyatips on Pinterest
 
 ## References
 
-## Images
-
-- `images/avant-apocalypse/AvantApocalypse.webp`
-- `images/avant-apocalypse/2f21b2960197998a7c1655dc9c621bfb.jpg`
-- `images/avant-apocalypse/01d5d1f9d1be7540272ee1c5a423ef20.jpg`
-- `images/avant-apocalypse/5314906c0b6f8f3b42967a0dcd0628b2.jpg`
-- `images/avant-apocalypse/Apocolypse-ig-3.jpg`
-- `images/avant-apocalypse/22225567.jpg`
-- `images/avant-apocalypse/0d74937ad63d91ab53a4916452622e63.jpg`
-- `images/avant-apocalypse/Avantapoc2.jpg`
-- `images/avant-apocalypse/Avantapoc.jpg`
-- `images/avant-apocalypse/Avantapoc1.jpg`
-- `images/avant-apocalypse/Avantapoc3.jpg`
-- `images/avant-apocalypse/AVANTAPOCA.jpg`
-
 ## Source and attribution
 
-Text adapted from "Avant Apocalypse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Avant_Apocalypse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Avant Apocalypse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Avant_Apocalypse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

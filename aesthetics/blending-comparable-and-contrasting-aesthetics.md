@@ -4,7 +4,6 @@ slug: "blending-comparable-and-contrasting-aesthetics"
 source_url: "https://aesthetics.fandom.com/wiki/Blending:_Comparable_&_Contrasting_Aesthetics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Blending: Comparable & Contrasting Aesthetics
@@ -52,4 +51,4 @@ See [Colour Theory](https://aesthetics.fandom.com/wiki/Colour_Theory "Colour The
 
 ## Source and attribution
 
-Text adapted from "Blending: Comparable & Contrasting Aesthetics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blending:_Comparable_&_Contrasting_Aesthetics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Blending: Comparable & Contrasting Aesthetics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blending:_Comparable_&_Contrasting_Aesthetics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

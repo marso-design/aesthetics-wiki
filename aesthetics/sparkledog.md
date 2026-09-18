@@ -8,7 +8,6 @@ related_aesthetics: ["2010s Dark Fandom", "Hands Up", "Scene", "Poster Gal", "Fu
 source_url: "https://aesthetics.fandom.com/wiki/Sparkledog"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Sparkledog
@@ -70,25 +69,6 @@ Calllab with Rossalli
 
 Aisle 12
 
-## Images
-
-- `images/sparkledog/OLOLOL.png`
-- `images/sparkledog/Sparklefloat.gif`
-- `images/sparkledog/Fascai.png`
-- `images/sparkledog/Sparklepiss.jpg`
-- `images/sparkledog/Anatomywow.jpg`
-- `images/sparkledog/Bignosesparkledog.gif`
-- `images/sparkledog/SPARKLEQUEEN.png`
-- `images/sparkledog/Sparkledog.png`
-- `images/sparkledog/Hypocritez.jpg`
-- `images/sparkledog/Sparklebig.jpg`
-- `images/sparkledog/Bananadana.jpg`
-- `images/sparkledog/Kitaminerin.jpg`
-- `images/sparkledog/Gloriousgod.jpg`
-- `images/sparkledog/Gar.jpg`
-- `images/sparkledog/Ligk.gif`
-- `images/sparkledog/Bubblegumkittycat.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sparkledog" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sparkledog), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sparkledog" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sparkledog), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

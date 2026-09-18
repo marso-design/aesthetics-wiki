@@ -11,7 +11,6 @@ related_aesthetics: ["Alt Kid", "Arcadecore", "Babycore", "Cacareco Girl", "Cand
 source_url: "https://aesthetics.fandom.com/wiki/Kidcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 29
 ---
 
 # Kidcore
@@ -169,38 +168,6 @@ A yellow slide leading to a ball pit with many colorful balls.
 
 ## References
 
-## Images
-
-- `images/kidcore/Gymboree-Store.jpg`
-- `images/kidcore/Bd300253f7bb148d27e8c948b2e7d89b.jpg`
-- `images/kidcore/Hello-Kitty-stickers.jpg`
-- `images/kidcore/ERd--nYWkAExkjy.jpg`
-- `images/kidcore/Sticker-eyeshadow-gemsonmyface.jpg`
-- `images/kidcore/Rainbowblocks.png`
-- `images/kidcore/EV6gE4YX0AAHk2M.jpg`
-- `images/kidcore/Partymuch.PNG`
-- `images/kidcore/Yum.PNG`
-- `images/kidcore/Worm.PNG`
-- `images/kidcore/94438E2E-D065-4B0F-9E36-1CAE55CCF04E.jpg`
-- `images/kidcore/Kidcore2.jpg`
-- `images/kidcore/Saved.PNG`
-- `images/kidcore/Woman.PNG`
-- `images/kidcore/Sasha-Koss-makeup.png`
-- `images/kidcore/Stickercore.PNG`
-- `images/kidcore/Alien.PNG`
-- `images/kidcore/Hurt.PNG`
-- `images/kidcore/Awesome.PNG`
-- `images/kidcore/Juicyjuice.PNG`
-- `images/kidcore/Plastic-kidcore-cake.webp`
-- `images/kidcore/Ea6e481c10a97c237c701e728956b5bb.jpg`
-- `images/kidcore/D7a733b66c2afb664e36a66d750ed382.jpg`
-- `images/kidcore/D68c6021d13f2e05a92549957aebfc8f.png`
-- `images/kidcore/Swagcat.jpg`
-- `images/kidcore/Ribbonroad.png`
-- `images/kidcore/Sweaterkidcore.jpg`
-- `images/kidcore/Rollingskating.jpg`
-- `images/kidcore/Jellybeansuwu.jpg`
-
 ## Source and attribution
 
-Text adapted from "Kidcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kidcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kidcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kidcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

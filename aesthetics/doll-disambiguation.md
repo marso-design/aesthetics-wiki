@@ -4,7 +4,6 @@ slug: "doll-disambiguation"
 source_url: "https://aesthetics.fandom.com/wiki/Doll_(disambiguation)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Doll (disambiguation)
@@ -29,4 +28,4 @@ This page is a disambiguation for the various aesthetic concepts and trends asso
 
 ## Source and attribution
 
-Text adapted from "Doll (disambiguation)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Doll_(disambiguation)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Doll (disambiguation)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Doll_(disambiguation)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["American Kitsch", "Factory Pomo", "Fanfare", "Liminal Spac
 source_url: "https://aesthetics.fandom.com/wiki/Festival_Marketplace"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Festival Marketplace
@@ -58,10 +57,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 ## References
 
-## Images
-
-- `images/festival-marketplace/Tuggeranong.jpg`
-
 ## Source and attribution
 
-Text adapted from "Festival Marketplace" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Festival_Marketplace), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Festival Marketplace" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Festival_Marketplace), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

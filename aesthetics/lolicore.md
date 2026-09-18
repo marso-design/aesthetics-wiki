@@ -11,7 +11,6 @@ primary_platform: ["4chan", "SoundCloud", "YouTube", "Bandcamp"]
 source_url: "https://aesthetics.fandom.com/wiki/Lolicore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 23
 ---
 
 # Lolicore
@@ -245,32 +244,6 @@ Cover art for "TOKATI" by CDR
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/lolicore/Onomatopeee.png`
-- `images/lolicore/Loli-ripe-little-sweet-dolores-Cover-Art.jpg`
-- `images/lolicore/Loli-ripe-objet-du-desir-Cover-Art.jpg`
-- `images/lolicore/Goreshit-my-love-feels-all-wrong-Cover-Art.png`
-- `images/lolicore/Goreshit-DancefloorDegraderCoverart.png`
-- `images/lolicore/Goreshit-tomboyish-love-for-soda-pop-and-apple-sweets-Cover-Art.png`
-- `images/lolicore/Lolishit-my-so-called-lolicore-Cover-Art.png`
-- `images/lolicore/Japshitfun-lolicore-ruined-my-life-Cover-Art.png`
-- `images/lolicore/Japshitfun-lolispeedshit-Cover-Art.png`
-- `images/lolicore/Goreshit-dj-ninja-love-mistake-goreshit-and-dj-ninja-love-mistake-split-Cover-Art.png`
-- `images/lolicore/Himeko-katagiri-i-love-you-azusa-Cover-Art.jpg`
-- `images/lolicore/Himeko-katagiri-napkin-terrorizer-harajuku-babylon-Cover-Art.png`
-- `images/lolicore/Cdr-the-new-kusoikore-album-Cover-Art.png`
-- `images/lolicore/Cdr-kusoikore-works-Cover-Art.jpg`
-- `images/lolicore/Thcdr-thcdr-3rd-original-album-Cover-Art.png`
-- `images/lolicore/500x500.jpg`
-- `images/lolicore/Rory-in-early-20s-mudarashi-Cover-Art.png`
-- `images/lolicore/264x264.jpg`
-- `images/lolicore/Haizai-audio-yumeo-meronti-princess-army-wedding-combat-punks-Cover-Art.png`
-- `images/lolicore/Sorry-about-my-face-i-want-to-remix-mine-Cover-Art.png`
-- `images/lolicore/Round-wave-crusher-born-in-the-wrong-place-Cover-Art.png`
-- `images/lolicore/Nekophiliac-misunderstood-Cover-Art.png`
-- `images/lolicore/EssentialLolicoreMu2010.png`
-
 ## Source and attribution
 
-Text adapted from "Lolicore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lolicore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Lolicore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Lolicore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

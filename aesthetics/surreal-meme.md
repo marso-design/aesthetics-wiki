@@ -10,7 +10,6 @@ related_aesthetics: ["Arabfunny", "Deep Fried Meme", "Heart Emoji Meme", "MLG", 
 source_url: "https://aesthetics.fandom.com/wiki/Surreal_Meme"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Surreal Meme
@@ -51,20 +50,6 @@ Orang
 
 ## References
 
-## Images
-
-- `images/surreal-meme/Orang.jpg`
-- `images/surreal-meme/005bbe6f03925b5827b12d89769a011b.jpg`
-- `images/surreal-meme/D23f6d919021b0b7024721c9b21cdac5.jpg`
-- `images/surreal-meme/E229174e3a6cb2dc3eea2c024de4b0f4.jpg`
-- `images/surreal-meme/D79df57c113eaab0ea5bb306bc8fce18.jpg`
-- `images/surreal-meme/105dc6349ea7932287df57b991badb2e.jpg`
-- `images/surreal-meme/3a9f6a91f99216757822db3dd8fb93d9.jpg`
-- `images/surreal-meme/2929a2a607d797c1212aa116edc0f63e.jpg`
-- `images/surreal-meme/E3de98eb84ef8ebb9135e6e67cb97f2c.jpg`
-- `images/surreal-meme/Da66f0a5013ab3ef47f6390487b9c8ff.jpg`
-- `images/surreal-meme/Stonks.jpg`
-
 ## Source and attribution
 
-Text adapted from "Surreal Meme" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Surreal_Meme), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Surreal Meme" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Surreal_Meme), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

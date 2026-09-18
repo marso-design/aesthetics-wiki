@@ -8,7 +8,6 @@ related_aesthetics: ["Northerness"]
 source_url: "https://aesthetics.fandom.com/wiki/Viking_Art"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Viking Art
@@ -105,14 +104,6 @@ There are also a number of misconceptions surrounding the group, including the i
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/viking-art/VikingVillage.jpg`
-- `images/viking-art/Northern-viking-ship.jpg`
-- `images/viking-art/Longhouse.png`
-- `images/viking-art/Northern-longboat-steam.jpg`
-- `images/viking-art/Oseberg.png`
-
 ## Source and attribution
 
-Text adapted from "Viking Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Viking_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Viking Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Viking_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Angelcore", "Chromecore", "Y2K Futurism", "Kawaii Gamer", 
 source_url: "https://aesthetics.fandom.com/wiki/Mizuiro"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 39
 ---
 
 # Mizuiro
@@ -127,48 +126,6 @@ ayami\_zombie's Instagram profile in 2015
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • **Mizuiro** • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/mizuiro/Https---64.media.tumblr.com-4d074e1e7438667f4b230c95fb6fc54e-ec0b2706b340fff1-5e-s1280x1920-1ff460265545b1dac6872a4ddef8b6d9d40194dd.pnj.jpg`
-- `images/mizuiro/Doodle.jpg`
-- `images/mizuiro/Fo7KHsVaYAEikzQ.jpg`
-- `images/mizuiro/Que-14146407854.jpg`
-- `images/mizuiro/Mizuiro.jpg`
-- `images/mizuiro/M38.jpg`
-- `images/mizuiro/M36.jpg`
-- `images/mizuiro/M37.jpg`
-- `images/mizuiro/M2.jpg`
-- `images/mizuiro/M30.jpg`
-- `images/mizuiro/M31.jpg`
-- `images/mizuiro/M32.jpg`
-- `images/mizuiro/M33.jpg`
-- `images/mizuiro/M34.jpg`
-- `images/mizuiro/M35.jpg`
-- `images/mizuiro/M15.jpg`
-- `images/mizuiro/M16.jpg`
-- `images/mizuiro/M17.jpg`
-- `images/mizuiro/M18.jpg`
-- `images/mizuiro/M19.jpg`
-- `images/mizuiro/M20.jpg`
-- `images/mizuiro/M21.jpg`
-- `images/mizuiro/M23.jpg`
-- `images/mizuiro/M24.jpg`
-- `images/mizuiro/M25.jpg`
-- `images/mizuiro/M26.jpg`
-- `images/mizuiro/M27.jpg`
-- `images/mizuiro/M29.jpg`
-- `images/mizuiro/M11.jpg`
-- `images/mizuiro/M12.jpg`
-- `images/mizuiro/M13.jpg`
-- `images/mizuiro/M14.jpg`
-- `images/mizuiro/M7.jpg`
-- `images/mizuiro/M8.jpg`
-- `images/mizuiro/M9.jpg`
-- `images/mizuiro/M3.jpg`
-- `images/mizuiro/M5.jpeg`
-- `images/mizuiro/M6.jpeg`
-- `images/mizuiro/M4a.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mizuiro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mizuiro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mizuiro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mizuiro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

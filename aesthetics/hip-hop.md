@@ -12,7 +12,6 @@ related_media: ["Hip-hop music", "music videos", "graffiti art", "dance performa
 source_url: "https://aesthetics.fandom.com/wiki/Hip-Hop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Hip-Hop
@@ -237,24 +236,6 @@ Lil Wayne "Tha Block Is Hot"
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/hip-hop/HipHopHigherQuality.jpeg`
-- `images/hip-hop/B-boy.gif`
-- `images/hip-hop/224320-2049x1463-hip-hop.jpg`
-- `images/hip-hop/HipHopForChangeReplacementPhoto-900x600.jpg`
-- `images/hip-hop/B-kei(1).jpeg`
-- `images/hip-hop/Lil-flip-leprechaun-58b8ddb75f9b58af5c8fe755.webp`
-- `images/hip-hop/R-1786516-1498330518-2703.jpg`
-- `images/hip-hop/R-22086619-1644402197-4719.jpg`
-- `images/hip-hop/R-4365928-1614852423-7645.jpg`
-- `images/hip-hop/Df901de05d0eaf8cdc5f331c867e6716.webp`
-- `images/hip-hop/R-1325459-1209793601.jpg`
-- `images/hip-hop/2102af32064e692bb7a3c8cf60da0585.640x640x1.jpg`
-- `images/hip-hop/Stewmac-Bustin-Nutz-58b8dd6d5f9b58af5c8fdf62.webp`
-- `images/hip-hop/Thablockishot.jpg`
-- `images/hip-hop/Frustrated-58b8ddc13df78c353c23fdf4.webp`
-
 ## Source and attribution
 
-Text adapted from "Hip-Hop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hip-Hop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hip-Hop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hip-Hop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

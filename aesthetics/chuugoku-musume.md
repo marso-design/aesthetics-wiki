@@ -9,7 +9,6 @@ palette: ["#262841", "#5F6584", "#8089A0", "#9C716F", "#6C3946", "#E0D7CB"]
 source_url: "https://aesthetics.fandom.com/wiki/Chuugoku_Musume"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Chuugoku Musume
@@ -62,18 +61,6 @@ Collage of kpop idols dressed in Chuugoku Musume fashion
 
 ## References
 
-## Images
-
-- `images/chuugoku-musume/ChuugokuMusume-1.jpg`
-- `images/chuugoku-musume/ChuugokuMusume-9.jpeg`
-- `images/chuugoku-musume/ChuugokuMusume-8.jpeg`
-- `images/chuugoku-musume/ChuugokuMusume-7.jpeg`
-- `images/chuugoku-musume/ChuugokuMusume-2.jpg`
-- `images/chuugoku-musume/ChuugukuMusume-3.jpg`
-- `images/chuugoku-musume/ChuugokuMusume-4.jpg`
-- `images/chuugoku-musume/ChuugokuMusume-5.jpg`
-- `images/chuugoku-musume/ChuugokuMusume-Rednote.png`
-
 ## Source and attribution
 
-Text adapted from "Chuugoku Musume" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chuugoku_Musume), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chuugoku Musume" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chuugoku_Musume), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

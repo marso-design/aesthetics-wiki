@@ -12,7 +12,6 @@ related_media: ["Arcaea", "Cytus II", "CHUNITHM", "KALPA", "Maimai DX", "O.N.G.E
 source_url: "https://aesthetics.fandom.com/wiki/Artcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 24
 ---
 
 # Artcore
@@ -184,33 +183,6 @@ Team Grimoire - Katastrophe
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/artcore/ArtByCierra.jpg`
-- `images/artcore/Artcore-felys1.jpeg`
-- `images/artcore/Artcore-felys2.jpeg`
-- `images/artcore/AngelFalse.jpg`
-- `images/artcore/ArreterLeTemps.jpg`
-- `images/artcore/AxiumTairitsu.jpg`
-- `images/artcore/VividTheory.jpg`
-- `images/artcore/LaqrymaInTheWasteland.jpg`
-- `images/artcore/FractureRay.png`
-- `images/artcore/Worldfragments.png`
-- `images/artcore/Primstone.png`
-- `images/artcore/Sensationinthesky.jpg`
-- `images/artcore/MagMel.jpg`
-- `images/artcore/Dreamlesswanderer.jpg`
-- `images/artcore/Agartha.jpg`
-- `images/artcore/CrisTears.png`
-- `images/artcore/Parousia.png`
-- `images/artcore/SwellStrings.png`
-- `images/artcore/Katastrophe.png`
-- `images/artcore/Artcore-Puru2.webp`
-- `images/artcore/Artcore-Puru.webp`
-- `images/artcore/Artcore-HyuN.png`
-- `images/artcore/Artcore-Laur.jpeg`
-- `images/artcore/Arcaea.jpg`
-
 ## Source and attribution
 
-Text adapted from "Artcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Artcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Artcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Artcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

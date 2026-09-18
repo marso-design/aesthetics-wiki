@@ -10,7 +10,6 @@ related_aesthetics: ["Classicism", "Cuddle Party", "Devilcore", "Hellenic", "Lov
 source_url: "https://aesthetics.fandom.com/wiki/Dionysism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Dionysism
@@ -119,25 +118,6 @@ Dionysism has a core value of hedonism, so comfort is first and foremost in a Di
 
 ## Gallery
 
-## Images
-
-- `images/dionysism/Sfhajskdhflasihd.jpg`
-- `images/dionysism/Grapes-eating.jpg`
-- `images/dionysism/Wine-tower.jpg`
-- `images/dionysism/Cult-of-dionysus-painting.jpg`
-- `images/dionysism/Dionysus-statue.jpg`
-- `images/dionysism/Triumph-Bacchus-oil-canvas-Ciro-Ferri-dionysus.jpg`
-- `images/dionysism/Male-painting-ivy-classic.jpg`
-- `images/dionysism/Red-club.jpg`
-- `images/dionysism/Wine.jpg`
-- `images/dionysism/Greeknn.jpg`
-- `images/dionysism/Greek4.jpg`
-- `images/dionysism/Greek5.jpg`
-- `images/dionysism/Greek3.jpg`
-- `images/dionysism/Greek1.jpg`
-- `images/dionysism/Greek6.jpg`
-- `images/dionysism/External-content.duckduckgo.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dionysism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dionysism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dionysism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dionysism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

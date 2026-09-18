@@ -11,7 +11,6 @@ subgenres: ["Tropicabana interior design"]
 source_url: "https://aesthetics.fandom.com/wiki/Tropicabana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Tropicabana
@@ -232,11 +231,6 @@ A lily, one of the many flowers used in the Tropicabana aesthetic.
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/tropicabana/Winx.jpg`
-- `images/tropicabana/Barbie.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tropicabana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropicabana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tropicabana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropicabana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Bioshock Infinite"]
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Colonial_Wanderlust"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Soft Colonial Wanderlust
@@ -219,23 +218,6 @@ HENDRICK'S GIN Escape
 * <https://anemptyblissbeyondthisworld.neocities.org/CARI/soft-colonial>
 * <https://www.facebook.com/groups/1814814568843897>
 
-## Images
-
-- `images/soft-colonial-wanderlust/62cac6398bdd0ba7df7f4107932011b3.jpg`
-- `images/soft-colonial-wanderlust/Banana-republic-bookstore-sanfran.png`
-- `images/soft-colonial-wanderlust/Erasure-Wonderland.jpg`
-- `images/soft-colonial-wanderlust/Watch.webp`
-- `images/soft-colonial-wanderlust/Indigoso.jpg`
-- `images/soft-colonial-wanderlust/Oddville.jpg`
-- `images/soft-colonial-wanderlust/ArcadeFireFuneralCover.jpg`
-- `images/soft-colonial-wanderlust/Namie.jpg`
-- `images/soft-colonial-wanderlust/Journal.webp`
-- `images/soft-colonial-wanderlust/Bioshock.jpg`
-- `images/soft-colonial-wanderlust/Fearless-flyer.webp`
-- `images/soft-colonial-wanderlust/18a1ec6be7084d749ada05b4a2650aee.png`
-- `images/soft-colonial-wanderlust/Airbaloon.gif`
-- `images/soft-colonial-wanderlust/Penhaligon's.jpg`
-
 ## Source and attribution
 
-Text adapted from "Soft Colonial Wanderlust" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Colonial_Wanderlust), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Soft Colonial Wanderlust" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Colonial_Wanderlust), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

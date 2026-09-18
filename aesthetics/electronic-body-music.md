@@ -11,7 +11,6 @@ related_aesthetics: ["Aggrotech (subgenre)", "Brutalism", "Constructivism", "Cyb
 source_url: "https://aesthetics.fandom.com/wiki/Electronic_Body_Music"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Electronic Body Music
@@ -256,27 +255,6 @@ DAF - Liebe auf den Ersten Blick
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/electronic-body-music/NextWaveAcidPunx.jpg`
-- `images/electronic-body-music/11DZLZSMfvTiGQ.gif`
-- `images/electronic-body-music/5248a64242481015dbfe6f7a78c248a9.jpg`
-- `images/electronic-body-music/1200x1200bf-60.jpg`
-- `images/electronic-body-music/3fd70bfa0d726f108b5763b771dee549.jpg`
-- `images/electronic-body-music/D26980389b17638c61d11289762c0430.jpg`
-- `images/electronic-body-music/7defa7c96fe7fcbc0ddb540f47a57540.jpg`
-- `images/electronic-body-music/FrontLineAssembly.jpg`
-- `images/electronic-body-music/65cfb1529383dc8094ca5168aa8b90bd.jpg`
-- `images/electronic-body-music/0e546472197f331b46407c298d114d80.jpg`
-- `images/electronic-body-music/2b93dd57c44fd270febb373bb18d8c9c.jpg`
-- `images/electronic-body-music/MissConstruction.jpg`
-- `images/electronic-body-music/AllesIstGut.jpg`
-- `images/electronic-body-music/DAF.png`
-- `images/electronic-body-music/333bcba63a6dcc50f63b0d453cf96a74.jpg`
-- `images/electronic-body-music/3906c6ee159a6c4609aed272e850427a.jpg`
-- `images/electronic-body-music/TheWebsite.gif`
-- `images/electronic-body-music/Bff286a5695fc4893403ec4abcd41bae.jpg`
-
 ## Source and attribution
 
-Text adapted from "Electronic Body Music" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Electronic_Body_Music), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Electronic Body Music" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Electronic_Body_Music), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

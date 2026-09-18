@@ -11,7 +11,6 @@ related_aesthetics: ["Grunge", "Horror Punk", "Post-Apocalyptic"]
 source_url: "https://aesthetics.fandom.com/wiki/Zombie_Apocalypse"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Zombie Apocalypse
@@ -105,14 +104,6 @@ Warning signs, old buildings, and derelict cities all contribute to the [post-ap
 
 ## Gallery
 
-## Images
-
-- `images/zombie-apocalypse/Zombapoc1.jpg`
-- `images/zombie-apocalypse/Zombapoc2.jpg`
-- `images/zombie-apocalypse/Zombapoc3.jpg`
-- `images/zombie-apocalypse/Zombapoc4.jpg`
-- `images/zombie-apocalypse/Zombapoc5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Zombie Apocalypse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Zombie_Apocalypse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Zombie Apocalypse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Zombie_Apocalypse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

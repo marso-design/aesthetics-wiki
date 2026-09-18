@@ -10,7 +10,6 @@ related_aesthetics: ["Atompunk", "Art Nouveau", "Clockpunk", "Cyberpunk", "Dark 
 source_url: "https://aesthetics.fandom.com/wiki/Steampunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Steampunk
@@ -68,13 +67,6 @@ A general groundrule of where to draw inspiration for your Steampunk work of art
 
 ## References
 
-## Images
-
-- `images/steampunk/Steampunk-coffee-machine.jpg`
-- `images/steampunk/68bffce15145ba6ea21de94e6269d1ce.jpg`
-- `images/steampunk/T-Punk.jpeg`
-- `images/steampunk/Steampunk-bee.webp`
-
 ## Source and attribution
 
-Text adapted from "Steampunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Steampunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Steampunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Steampunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

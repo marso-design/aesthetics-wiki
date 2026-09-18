@@ -11,7 +11,6 @@ primary_platform: ["Pinterest", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Military_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Military Goth
@@ -66,19 +65,6 @@ Picture by Sarah Smith, 2008
 
 ## Notes
 
-## Images
-
-- `images/military-goth/SarahSmith2008.jpg`
-- `images/military-goth/45aa498ba76217d8fc3db9344c851f32.jpg`
-- `images/military-goth/A6853d9483e6f7c487601f8f528dc92b.jpg`
-- `images/military-goth/E56d1010d4d942c1c31cab9df0491d4c.jpg`
-- `images/military-goth/15ae5829bf1a121115d4230684bf54fd.jpg`
-- `images/military-goth/0b4662db9f93aa43e42e1cc56f431033.jpg`
-- `images/military-goth/59451357e124b9f0bf272de69ae15bc3.jpg`
-- `images/military-goth/9953b8264377ece444fe766d0be279b5.jpg`
-- `images/military-goth/37232cf4acc4a2a235bbbf5cbcd93bdd.jpg`
-- `images/military-goth/7a010b70480c1390533df574028c8e21.jpg`
-
 ## Source and attribution
 
-Text adapted from "Military Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Military_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Military Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Military_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

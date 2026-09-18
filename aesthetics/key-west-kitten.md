@@ -11,7 +11,6 @@ primary_platform: ["Tumblr", "Pinterest"]
 source_url: "https://aesthetics.fandom.com/wiki/Key_West_Kitten"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Key West Kitten
@@ -82,10 +81,6 @@ Some of the most common visuals include:
 
 ## Navigation
 
-## Images
-
-- `images/key-west-kitten/KWK5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Key West Kitten" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Key_West_Kitten), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Key West Kitten" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Key_West_Kitten), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

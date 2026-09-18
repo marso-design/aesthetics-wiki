@@ -12,7 +12,6 @@ related_media: ["Tasha Tudor", "KOKIA’s The Voice", "Vashti Bunyan’s Just An
 source_url: "https://aesthetics.fandom.com/wiki/Mori_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Mori Kei
@@ -222,23 +221,6 @@ An example of Dark Mori Kei by Anya Apples
 
 ## References
 
-## Images
-
-- `images/mori-kei/Mori-Kei-cropped.jpeg`
-- `images/mori-kei/Fd9831fb-f0c0-4156-8366-44ef20139411.octet-stream.jpg`
-- `images/mori-kei/Be2c359f-b36f-4946-8cb6-f19df59c0ea7.octet-stream.jpg`
-- `images/mori-kei/De9b76d7-3615-4351-b988-bc2574b5d47c.octet-stream.jpg`
-- `images/mori-kei/4fef314fb8e8af1deff4882f19673831.jpg`
-- `images/mori-kei/Morispring1-733x1024.jpg`
-- `images/mori-kei/59b381007a9922dd865993d7f8c49494.jpg`
-- `images/mori-kei/Cca3dd035c66887c2186bd536d327c27.jpg`
-- `images/mori-kei/F270566478b8c39f2ca2892925b2b4ff.jpg`
-- `images/mori-kei/S-l1000.jpg`
-- `images/mori-kei/Mori-girl-crochet.jpg`
-- `images/mori-kei/185678999.jpeg`
-- `images/mori-kei/Ef4d6326-988f-4a32-abdf-ccf01b0117d5.octet-stream.jpg`
-- `images/mori-kei/Edc2867cb44318c469a24ecc8d426337-600x600.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mori Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mori_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mori Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mori_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

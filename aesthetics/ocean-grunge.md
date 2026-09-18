@@ -11,7 +11,6 @@ related_media: ["Aliens of the Deep (2005)", "Narcosis (game) (2017-)", "League 
 source_url: "https://aesthetics.fandom.com/wiki/Ocean_Grunge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Ocean Grunge
@@ -67,17 +66,6 @@ What awaits you in your oceanic grave.
 * [RYM Ultimate Box Set > Oceangrunge](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set-oceangrunge/)
 * [Beneath Black Waters: A Guide to Oceangrunge](https://rateyourmusic.com/list/BrothermanTrill/beneath-black-waters-a-guide-to-oceangrunge/)
 
-## Images
-
-- `images/ocean-grunge/2d2326018f1d73f3ed844b8c8c54a350.jpg`
-- `images/ocean-grunge/4c8001a5a6be83e8acac1b87ea183422.jpg`
-- `images/ocean-grunge/0dec131113-cute.jpg`
-- `images/ocean-grunge/David-wentworth-deepseamermaid.jpg`
-- `images/ocean-grunge/840c4c71c04b47c4c712d99b96f1e776.jpg`
-- `images/ocean-grunge/Download-1592734169.jpg`
-- `images/ocean-grunge/Pudding-10.jpg`
-- `images/ocean-grunge/Oceangrunge3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ocean Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ocean_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ocean Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ocean_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

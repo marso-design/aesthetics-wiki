@@ -11,7 +11,6 @@ related_aesthetics: ["Academic Art", "Baroque", "Hellenic", "Italian Renaissance
 source_url: "https://aesthetics.fandom.com/wiki/Classicism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Classicism
@@ -103,12 +102,6 @@ Aphrodite and her love Adonis
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/classicism/Luv.png`
-- `images/classicism/Greek-columns.jpg`
-- `images/classicism/Aphrodite-adonis-painting.jpg`
-
 ## Source and attribution
 
-Text adapted from "Classicism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Classicism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Classicism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Classicism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

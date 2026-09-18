@@ -10,7 +10,6 @@ related_aesthetics: ["Byzantine", "Carolingian Art", "Ottonian Art", "Pre-Romane
 source_url: "https://aesthetics.fandom.com/wiki/Romanesque"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Romanesque
@@ -97,4 +96,4 @@ TBA
 
 ## Source and attribution
 
-Text adapted from "Romanesque" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romanesque), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Romanesque" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romanesque), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["Gravity Falls", "Twin Peaks", "Unsolved Mysteries", "The Twilig
 source_url: "https://aesthetics.fandom.com/wiki/Cryptidcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Cryptidcore
@@ -469,25 +468,6 @@ pastel themed cryptidcore
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/cryptidcore/29f5ef89d96aa324681bc6401b039fa0.jpg`
-- `images/cryptidcore/CryptidAcademia444.jpg`
-- `images/cryptidcore/7ccc6623e3ee924680f2dc75cf354c2f.jpg`
-- `images/cryptidcore/Cryptidcore1.jpg`
-- `images/cryptidcore/Cryptidcore2.jpg`
-- `images/cryptidcore/Cryptidcore3.jpg`
-- `images/cryptidcore/Cryptidcore4.jpg`
-- `images/cryptidcore/Cryptidcore5.jpg`
-- `images/cryptidcore/Cryptidcore6.jpg`
-- `images/cryptidcore/Cryptidcore7.jpg`
-- `images/cryptidcore/Cryptidcore8.jpg`
-- `images/cryptidcore/E7c3ddd6qh.jpg`
-- `images/cryptidcore/Cryptcore.jpg`
-- `images/cryptidcore/Aliencore5.jpg`
-- `images/cryptidcore/Desert-roswell-area51.jpg`
-- `images/cryptidcore/CrypidCore1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cryptidcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cryptidcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cryptidcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cryptidcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

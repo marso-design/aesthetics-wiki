@@ -11,7 +11,6 @@ related_aesthetics: ["Animecore", "Bubblegum Dance", "Femcel", "Gurokawa", "Heis
 source_url: "https://aesthetics.fandom.com/wiki/Cutecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Cutecore
@@ -206,22 +205,6 @@ Kawaiicore-cutecore tiktok compilation!! 🍡🍓🦴
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/cutecore/E003efc008b1f7e8db8a311b5c000f49.jpg`
-- `images/cutecore/Cutegore.jpg`
-- `images/cutecore/AoiMukouEditMadeByPinkChan.jpg`
-- `images/cutecore/A9d9f85713cde1c8b7cdb33f786db519.jpg`
-- `images/cutecore/22dd292b182b3b098deb4529737f295d.jpg`
-- `images/cutecore/0d2dd53958fafb4e6f45da4632ea8250.jpg`
-- `images/cutecore/C67216eb1d1ee4ab0da095d133dbe182.jpg`
-- `images/cutecore/Onomatopeee.png`
-- `images/cutecore/CutecorePudding.jpg`
-- `images/cutecore/MioAkiyamaCutecore.jpg`
-- `images/cutecore/CutecoreEmojiCombos.jpg`
-- `images/cutecore/MeloclawsCutecore.jpg`
-- `images/cutecore/CutecoreMediaList.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cutecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cutecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cutecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cutecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

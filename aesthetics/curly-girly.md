@@ -10,7 +10,6 @@ related_aesthetics: ["Barbiecore", "Cyber Stylin'", "Kidcore", "Global Village C
 source_url: "https://aesthetics.fandom.com/wiki/Curly_Girly"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Curly Girly
@@ -313,11 +312,6 @@ Several retailers from 1996 to 2005 defined the Y2K aesthetic, catering to teens
 
 ## References
 
-## Images
-
-- `images/curly-girly/Curly-Girly.jpg`
-- `images/curly-girly/Curly-Girly1.png`
-
 ## Source and attribution
 
-Text adapted from "Curly Girly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Curly_Girly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Curly Girly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Curly_Girly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

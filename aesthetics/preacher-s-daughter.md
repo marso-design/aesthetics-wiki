@@ -11,7 +11,6 @@ primary_platform: ["Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Preacher's_Daughter"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Preacher's Daughter
@@ -229,4 +228,4 @@ Finally, there is critique about commercialisation of a “dark aesthetic” and
 
 ## Source and attribution
 
-Text adapted from "Preacher's Daughter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Preacher's_Daughter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Preacher's Daughter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Preacher's_Daughter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

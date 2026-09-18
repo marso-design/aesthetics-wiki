@@ -11,7 +11,6 @@ related_media: ["Walking the Clouds anthology", "Biidaaban: First Light"]
 source_url: "https://aesthetics.fandom.com/wiki/Indigenous_Futurisms"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Indigenous Futurisms
@@ -165,18 +164,6 @@ Mylar dresses by Wendy Ponca
 
 ## References
 
-## Images
-
-- `images/indigenous-futurisms/Biidaaban.jpg`
-- `images/indigenous-futurisms/0425-LINDIGENOUSFUTURISM-spaceship.jpg`
-- `images/indigenous-futurisms/Discovery-is-Toxic.jpg`
-- `images/indigenous-futurisms/JoeLatimer.com-Blog-Indigenous-Futurism-05-07-27-19.jpg`
-- `images/indigenous-futurisms/Romero-The-Zenith.jpg`
-- `images/indigenous-futurisms/Screen-Shot-2016-11-28-at-8.25.54-AM-300x203.png`
-- `images/indigenous-futurisms/Screen-shot-2017-09-28-at-12-06-29-am1.png`
-- `images/indigenous-futurisms/Jeffrey-Gibson-SHE-KNOWS-OTHER-WORLDS-1.jpg`
-- `images/indigenous-futurisms/WP-5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Indigenous Futurisms" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indigenous_Futurisms), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Indigenous Futurisms" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indigenous_Futurisms), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Hippie", "Psychedelia", "Flower Power", "Shibuya-Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Sunshine_Pop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Sunshine Pop
@@ -89,12 +88,6 @@ The sole self-titled album by The Yellow Balloon, 1967.
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/sunshine-pop/R-5616801-1517579725-2644.jpg`
-- `images/sunshine-pop/Peppermintrainbow.png`
-- `images/sunshine-pop/Ab67616d0000b2739b081149d6f29ab952111480.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sunshine Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sunshine_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sunshine Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sunshine_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_aesthetics: ["Christmas", "Halloween", "Saint Patrick's Day", "Spring"]
 source_url: "https://aesthetics.fandom.com/wiki/Easter"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Easter
@@ -87,19 +86,6 @@ Although among the Christian values it is worth mentioning:
 
 ## Gallery
 
-## Images
-
-- `images/easter/D026f1b7cd12b01369d6d0139c4219cf.png`
-- `images/easter/56ed356ef0b25246bbe9fee3983c9d6d.png`
-- `images/easter/03fe9a4068d14d649af3213ecd73262f.png`
-- `images/easter/208579a9c8ef7e70e2c11665ff92986c.png`
-- `images/easter/57bae367290eb04b1232ebea5a98db6d.png`
-- `images/easter/3ddb4f86db2ad16e7a1c2ad7ad24db31.png`
-- `images/easter/Easter-Design.jpeg`
-- `images/easter/Easter-Design2.jpeg`
-- `images/easter/Easter-Design3.png`
-- `images/easter/Easter-Package1.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Easter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Easter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Easter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Easter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

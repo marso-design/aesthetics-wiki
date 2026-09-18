@@ -10,7 +10,6 @@ related_aesthetics: ["Cassette Futurism", "Disco", "Earth Tones", "Gen X Soft Cl
 source_url: "https://aesthetics.fandom.com/wiki/Supergraphic_Ultramodern"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Supergraphic Ultramodern
@@ -115,10 +114,6 @@ Serigraphs (1980), Fidelity Arts
 
 Dr. No Title Sequence (1962), Maurice Binder
 
-## Images
-
-- `images/supergraphic-ultramodern/FMUY8oJVEAAWcln.jpg`
-
 ## Source and attribution
 
-Text adapted from "Supergraphic Ultramodern" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Supergraphic_Ultramodern), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Supergraphic Ultramodern" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Supergraphic_Ultramodern), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

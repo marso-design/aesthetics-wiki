@@ -11,7 +11,6 @@ palette: ["#000001", "#070626", "#4D6B8F", "#909AB5", "#ADC2D2", "#F5FBFC"]
 source_url: "https://aesthetics.fandom.com/wiki/Hyperborean"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Hyperborean
@@ -82,13 +81,6 @@ The Hyperborean aesthetic is widely criticized for promoting racism, xenophobia,
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • **Hyperborean** • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/hyperborean/25f377e52a85ffaf78f1bf0c71f176554f3cf52e.jpg`
-- `images/hyperborean/Vsevolod-ivanov-the-grandchildren-of-perun-exodus-of-the-hyperboreans-2006.jpg`
-- `images/hyperborean/F6aa6a108963161bb8cb65add90dd5b8.jpg`
-- `images/hyperborean/C0495fc56166ebd79a4ff1cdc0598cdf112e47d3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hyperborean" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hyperborean), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hyperborean" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hyperborean), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

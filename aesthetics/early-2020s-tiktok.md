@@ -5,7 +5,6 @@ palette: ["#705542", "#2E252E", "#4B4655", "#96734F", "#CDBAA2", "#9C5647"]
 source_url: "https://aesthetics.fandom.com/wiki/Early_2020s_TikTok"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 39
 ---
 
 # Early 2020s TikTok
@@ -162,48 +161,6 @@ The following aesthetics were also highly prevalent on TikTok during the early 2
 * [Traumacore](https://aesthetics.fandom.com/wiki/Traumacore "Traumacore")
 * [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore")
 
-## Images
-
-- `images/early-2020s-tiktok/Indie-bucket-hat.jpg`
-- `images/early-2020s-tiktok/Euphoric-indie.jpg`
-- `images/early-2020s-tiktok/Kidcore2.jpg`
-- `images/early-2020s-tiktok/1BE59C4E-ED0D-418C-8103-D5717DA6A81E.jpeg`
-- `images/early-2020s-tiktok/D8750B08-586A-4031-9C84-40B53FDD4BAB.jpeg`
-- `images/early-2020s-tiktok/Egirl.jpg`
-- `images/early-2020s-tiktok/Egirl-makeup-green-bangs.jpg`
-- `images/early-2020s-tiktok/Egirl-heart-lock.jpg`
-- `images/early-2020s-tiktok/Purple-black-fishnets-nails.jpg`
-- `images/early-2020s-tiktok/Wp8935351.jpg`
-- `images/early-2020s-tiktok/0810c62091b7975470cc96233cfb71b3.jpg`
-- `images/early-2020s-tiktok/Bunni2.jpg`
-- `images/early-2020s-tiktok/Bunni.jpg`
-- `images/early-2020s-tiktok/Bunni3.jpg`
-- `images/early-2020s-tiktok/Bunni6.jpg`
-- `images/early-2020s-tiktok/Bunni4.jpg`
-- `images/early-2020s-tiktok/Bunni5.jpg`
-- `images/early-2020s-tiktok/Bunni7.jpg`
-- `images/early-2020s-tiktok/Bunni8.jpg`
-- `images/early-2020s-tiktok/A835aed1a4f1c6f99ac504f38b398663.jpg`
-- `images/early-2020s-tiktok/E778505f3bc9ce6e132f15eafc544480.jpg`
-- `images/early-2020s-tiktok/Scenecore2.jpeg`
-- `images/early-2020s-tiktok/Skyscenecore.gif`
-- `images/early-2020s-tiktok/Mlgscenecore.jpg`
-- `images/early-2020s-tiktok/CringeJacket.jpg`
-- `images/early-2020s-tiktok/Kandibraceletshalloween.png`
-- `images/early-2020s-tiktok/Glitchcore.jpg`
-- `images/early-2020s-tiktok/Glitchcorekuromierror.gif`
-- `images/early-2020s-tiktok/82ab844b0140a88dca073a54b702cafa.jpg`
-- `images/early-2020s-tiktok/149e7e927241942232e59289325d4fe6.jpg`
-- `images/early-2020s-tiktok/B083928dd12db5bd93a43cd2097d7679.jpg`
-- `images/early-2020s-tiktok/8227c084e04a8046b8cdb1fbf54c43fb.jpg`
-- `images/early-2020s-tiktok/Bacf9635aee2dc950937dd4510343d46.jpg`
-- `images/early-2020s-tiktok/KilluaSparkle.jpg`
-- `images/early-2020s-tiktok/46459778fc738a11a69f9e63235c3916.jpg`
-- `images/early-2020s-tiktok/226af08f89dedb83d1f2a2a83d2fc58c.jpg`
-- `images/early-2020s-tiktok/Dec3612338735b5bf2052cac2ebd6335.jpg`
-- `images/early-2020s-tiktok/3226cf1964c9b250ab9796663baef6f8.jpg`
-- `images/early-2020s-tiktok/STodoroki.png`
-
 ## Source and attribution
 
-Text adapted from "Early 2020s TikTok" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Early_2020s_TikTok), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Early 2020s TikTok" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Early_2020s_TikTok), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

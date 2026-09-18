@@ -10,7 +10,6 @@ related_media: ["Vogue", "Tatler", "Town and Country"]
 source_url: "https://aesthetics.fandom.com/wiki/Old_Money"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Old Money
@@ -271,10 +270,6 @@ Saveliy Kozin
 
 ## References
 
-## Images
-
-- `images/old-money/Rothschild.jpg`
-
 ## Source and attribution
 
-Text adapted from "Old Money" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Old_Money), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Old Money" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Old_Money), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Barbie", "Bratz"]
 source_url: "https://aesthetics.fandom.com/wiki/Bubblegum_Bitch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Bubblegum Bitch
@@ -260,25 +259,6 @@ A possible outfit
 
 Teenage Bubbles from the Powerpuff Girls (as well as teenage Blossom and Buttercup) are commonly used as profile pictures in this aesthetic.
 
-## Images
-
-- `images/bubblegum-bitch/BubblegumBitch1.jpg`
-- `images/bubblegum-bitch/BubblegumBitch2.jpg`
-- `images/bubblegum-bitch/BubblegumBitch3.jpg`
-- `images/bubblegum-bitch/EattherichHello.jpg`
-- `images/bubblegum-bitch/Sugarpink.jpg`
-- `images/bubblegum-bitch/Movebitch.jpg`
-- `images/bubblegum-bitch/FthePolice.jpg`
-- `images/bubblegum-bitch/Barbiehaseverything.jpg`
-- `images/bubblegum-bitch/Gum.jpg`
-- `images/bubblegum-bitch/Unknown-14.jpeg`
-- `images/bubblegum-bitch/99412d6bc3b2dcf64ea1b6040f162689.jpg`
-- `images/bubblegum-bitch/3b615dba-ce95-4abf-b0eb-31b2816f2d16.png`
-- `images/bubblegum-bitch/86b423cf-7f78-457b-8e57-d714bf08398a.png`
-- `images/bubblegum-bitch/Images-6.jpeg`
-- `images/bubblegum-bitch/Barbie-shoes.jpg`
-- `images/bubblegum-bitch/Ddnd!.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Bubblegum Bitch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubblegum_Bitch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bubblegum Bitch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubblegum_Bitch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

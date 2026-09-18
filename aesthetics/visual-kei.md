@@ -12,7 +12,6 @@ subgenres: ["Oshare Kei", "Tanbi Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Visual_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 63
 ---
 
 # Visual Kei
@@ -411,72 +410,6 @@ Exist Trace (an all-female Neo Visual Kei band) performing in Pittsburgh in 2012
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/visual-kei/13615-the-sound-bee-hd-group-shot.jpg`
-- `images/visual-kei/26186-cula-group-photo.jpeg`
-- `images/visual-kei/3601-laveil-mizeria-la-veil-mizeria-group-photo-for-jakumetsu-kyouen-type-b.jpg`
-- `images/visual-kei/104700-grieva-uncategorized.jpg`
-- `images/visual-kei/44387-la-sadies-group-photo.jpg`
-- `images/visual-kei/143568-due-le-quartz-group-photo.jpg`
-- `images/visual-kei/8364-nostalgia-group-shot.jpg`
-- `images/visual-kei/144542-phantasmagoria-group-photo.jpg`
-- `images/visual-kei/157.png`
-- `images/visual-kei/536--.jpg`
-- `images/visual-kei/Malicemizer2.jpg`
-- `images/visual-kei/Versailles.jpg`
-- `images/visual-kei/140265-photo.jpg`
-- `images/visual-kei/277.png`
-- `images/visual-kei/84854-misaruka-group-photo.jpg`
-- `images/visual-kei/140266-photo.jpg`
-- `images/visual-kei/242-lin-the-end-of-corruption-world-group-photo.jpg`
-- `images/visual-kei/133016-art-cube-group-photo.png`
-- `images/visual-kei/139108-photo.png`
-- `images/visual-kei/139125-photo.jpg`
-- `images/visual-kei/27070-laputa-group-photo.jpeg`
-- `images/visual-kei/139126-photo.jpg`
-- `images/visual-kei/5659-kein-group-shot.jpg`
-- `images/visual-kei/138812-phobia-photo.jpg`
-- `images/visual-kei/123389-vizell-group-photo.jpg`
-- `images/visual-kei/99673-lamiel-group-photo.jpg`
-- `images/visual-kei/117660-gibkiy-gibkiy-gibkiy-group-photo.jpg`
-- `images/visual-kei/41629-hollowgram-group-photo.jpeg`
-- `images/visual-kei/434--.jpg`
-- `images/visual-kei/43133-baroque-group-photo.jpg`
-- `images/visual-kei/Lmc-japanese-band-674bcd9b-f3cb-4819-9403-bfff26c2a52-resize-750.png`
-- `images/visual-kei/Megamasso.jpg`
-- `images/visual-kei/138664-aile-group-photo.jpg`
-- `images/visual-kei/142348-photo.jpg`
-- `images/visual-kei/30683-kra-group-photo.jpg`
-- `images/visual-kei/6947-sug-group-photo.png`
-- `images/visual-kei/112522-the-madna-uncategorized.jpg`
-- `images/visual-kei/9578-eimy-group-shot.jpg`
-- `images/visual-kei/29550-charlotte-group-photo.jpg`
-- `images/visual-kei/141081-photo.jpg`
-- `images/visual-kei/8353.jpg`
-- `images/visual-kei/108497-enishi-group-photo.jpg`
-- `images/visual-kei/3779-zin-group-shot.jpg`
-- `images/visual-kei/3759.jpg`
-- `images/visual-kei/8252-memento-mori-group-shot.jpg`
-- `images/visual-kei/136016-asagi-group-photo.jpg`
-- `images/visual-kei/15947-orochi-group-shot.jpg`
-- `images/visual-kei/3844-shinotsuku-ame-group-shot.jpg`
-- `images/visual-kei/26495-reirei-group-photo.png`
-- `images/visual-kei/145469-photo.jpg`
-- `images/visual-kei/145463-photo.jpg`
-- `images/visual-kei/76910-gargoyle-group-photo.jpg`
-- `images/visual-kei/27317-g-d-flickers-group-photo.jpeg`
-- `images/visual-kei/5345-kamaitachi-5.jpg`
-- `images/visual-kei/9k=.jpeg`
-- `images/visual-kei/Ab6761610000e5ebc36c43469d76a38a88cfaf9c.jpg`
-- `images/visual-kei/Visual-kei-i1.webp`
-- `images/visual-kei/Visual-kei-i2.webp`
-- `images/visual-kei/Versailles-Visual-Kei-Fan-Fashion-2012-12-20-002.webp`
-- `images/visual-kei/More-visiual-kei.webp`
-- `images/visual-kei/Fernopaa-Sex-Pot-Revenge-Harajuku-20150607DSC9130.webp`
-- `images/visual-kei/4106-david-group-shot.jpg`
-- `images/visual-kei/Versailles3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Visual Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Visual_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Visual Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Visual_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

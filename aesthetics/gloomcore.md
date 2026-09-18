@@ -9,7 +9,6 @@ related_aesthetics: ["Changelingcore", "Cottagegore", "Crowcore", "Cryptidcore",
 source_url: "https://aesthetics.fandom.com/wiki/Gloomcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Gloomcore
@@ -172,26 +171,6 @@ Sleeping Dandelion
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/gloomcore/BE709208-0310-4DE5-B3B9-704DFB369044.jpg`
-- `images/gloomcore/6CF66A68-B1CC-4596-92C9-5FC4A9D0E9D3.jpg`
-- `images/gloomcore/2F9D0899-4E2F-405C-A1D1-6345163FD800.jpg`
-- `images/gloomcore/7C5EA2A5-F4BF-44E5-998C-6DD21D0890A9.jpg`
-- `images/gloomcore/B56AC1D0-DDBA-4E46-BBEC-84E8B838094D.jpg`
-- `images/gloomcore/493D7905-BF96-4071-9266-F1D3D34CA34E.webp`
-- `images/gloomcore/FF330805-F1FB-4ABB-ABD8-E3C990B71E05.jpg`
-- `images/gloomcore/2480DE24-EE8D-43B1-9AE0-A4B2CDD5557C.jpg`
-- `images/gloomcore/1D8D4FE9-EB5E-4121-BBD7-102E462B297D.jpg`
-- `images/gloomcore/B77442AD-53AA-4B31-90B3-755B4A96D431.webp`
-- `images/gloomcore/66EE57AA-7B80-47C1-9008-911F576EF828.jpeg`
-- `images/gloomcore/Rain.jpg`
-- `images/gloomcore/Dandelion2.jpg`
-- `images/gloomcore/Darkforest.jpg`
-- `images/gloomcore/Foggytreesroad.jpg`
-- `images/gloomcore/Forest-dark.jpg`
-- `images/gloomcore/Fairyforestgirl.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gloomcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gloomcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gloomcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gloomcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

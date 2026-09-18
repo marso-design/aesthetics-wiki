@@ -11,7 +11,6 @@ related_media: ["Wild Style (1983)", "Beat Street (1984)", "Video Music Box (198
 source_url: "https://aesthetics.fandom.com/wiki/Graffiti_Pop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Graffiti Pop
@@ -223,4 +222,4 @@ Goof Troop promo 1
 
 ## Source and attribution
 
-Text adapted from "Graffiti Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Graffiti_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Graffiti Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Graffiti_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Yugoslav popular culture", "Ex-Yu Rock and New Wave music", "Yu
 source_url: "https://aesthetics.fandom.com/wiki/Yugo-Nostalgia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Yugo-Nostalgia
@@ -176,31 +175,6 @@ Football Association of Yugoslavia uniform
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/yugo-nostalgia/Yugonostalgia.png`
-- `images/yugo-nostalgia/4e0795c85891df0debe63bcf18ede1a6.jpg`
-- `images/yugo-nostalgia/9dea33a9b73ba42d921770e0023bb39d.jpg`
-- `images/yugo-nostalgia/1e6214e7d5eb611c70e05fda52bba44b.jpg`
-- `images/yugo-nostalgia/Cf25bfef8bf496e30d8ca0092ccd39de.jpg`
-- `images/yugo-nostalgia/0bdda73e670e5d28f10bedd6096336b8.jpg`
-- `images/yugo-nostalgia/1066b794b44aa9231728ced024529c4c.jpg`
-- `images/yugo-nostalgia/5aec6f11fd56108638de49096a6e6412.jpg`
-- `images/yugo-nostalgia/C0d6553531a0748991de426f5af3ec6e.jpg`
-- `images/yugo-nostalgia/A9cf008c5ad52a9911a336d23f3d7c36.jpg`
-- `images/yugo-nostalgia/B5e78b82d69c1c3c9c67f43235d7e7c8.jpg`
-- `images/yugo-nostalgia/8e7b338e388040494294af9153255b53.jpg`
-- `images/yugo-nostalgia/3aa37fd69ecc8b11161f7df964baf586.jpg`
-- `images/yugo-nostalgia/76eb44a67bd96b698d2816a9befc06d5.jpg`
-- `images/yugo-nostalgia/2dbcd16a0522f1021f39b20de6807742.jpg`
-- `images/yugo-nostalgia/C9088cb54971803716542e68c60cfece.jpg`
-- `images/yugo-nostalgia/E730276ce8a9f0bc21b64effb56e51a5.jpg`
-- `images/yugo-nostalgia/Dba8c146a091aa96ed69b97245bd912b.jpg`
-- `images/yugo-nostalgia/0f93232979d5991d750b9fa3bf4b3a7c.jpg`
-- `images/yugo-nostalgia/F85c12d8b66a1e3a08d9b2613c8079ed.jpg`
-- `images/yugo-nostalgia/D21c2b0784ca651d3d9fce33c6cd9379.jpg`
-- `images/yugo-nostalgia/10ebbf1a34d5b7da723b28b2481f9d8f.jpg`
-
 ## Source and attribution
 
-Text adapted from "Yugo-Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yugo-Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yugo-Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yugo-Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

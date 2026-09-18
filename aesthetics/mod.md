@@ -11,7 +11,6 @@ related_aesthetics: ["Beatnik", "Dolly Girl", "Hippie", "Mod Revival", "Northern
 source_url: "https://aesthetics.fandom.com/wiki/Mod"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Mod
@@ -101,21 +100,6 @@ The Mod subculture was both a subject of and an influence on film and television
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/mod/ModCouple.jpg`
-- `images/mod/1960-pattern-purple-green-brown-shift-dresses.jpg`
-- `images/mod/936105ed6ad8291e3c75d5b81b678100.jpg`
-- `images/mod/A0a39f276242e181c8c5d7a0bae46d78.jpg`
-- `images/mod/44a71df28102a376afce8f59d971ac37.jpg`
-- `images/mod/234f646fc582cf93ff6e5bd1dd2dc0ee.jpg`
-- `images/mod/1968-1-ne-0005.jpg`
-- `images/mod/Ea6b77739e01e841564565baa0ed330b.jpg`
-- `images/mod/1968-1-ne-0012.jpg`
-- `images/mod/Rockers.jpg`
-- `images/mod/Modscooter.jpg`
-- `images/mod/Scooter.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mod" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mod), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mod" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mod), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

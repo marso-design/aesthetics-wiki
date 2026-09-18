@@ -5,7 +5,6 @@ palette: ["#FCFFFC", "#16151E", "#5A626D", "#5C3239", "#97ADA4", "#9A837F"]
 source_url: "https://aesthetics.fandom.com/wiki/Early_Web_2.0_Nostalgia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Early Web 2.0 Nostalgia
@@ -96,20 +95,6 @@ This divide in perception is largely generational. For Gen Z, who were children 
 * [Swag](https://aesthetics.fandom.com/wiki/Swag "Swag")
 * [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia")
 
-## Images
-
-- `images/early-web-2-0-nostalgia/ASDFmovie.gif`
-- `images/early-web-2-0-nostalgia/Ragecomics.jpg`
-- `images/early-web-2-0-nostalgia/OldMemes.png`
-- `images/early-web-2-0-nostalgia/2010sInternetCollage.jpg`
-- `images/early-web-2-0-nostalgia/ChicagoPokemonGoCrowds2016.jpg`
-- `images/early-web-2-0-nostalgia/Summer2016Aesthetic.jpg`
-- `images/early-web-2-0-nostalgia/SupremeHypebeast.png`
-- `images/early-web-2-0-nostalgia/2010sInternetByFYMaxine.jpg`
-- `images/early-web-2-0-nostalgia/CSGOSurf.jpg`
-- `images/early-web-2-0-nostalgia/PinkGuy.jpg`
-- `images/early-web-2-0-nostalgia/RedHairFeminist.jpg`
-
 ## Source and attribution
 
-Text adapted from "Early Web 2.0 Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Early_Web_2.0_Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Early Web 2.0 Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Early_Web_2.0_Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

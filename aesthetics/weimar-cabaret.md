@@ -11,7 +11,6 @@ related_aesthetics: ["Art Deco", "Dadaism", "Dark Cabaret", "Expressionism", "Fl
 source_url: "https://aesthetics.fandom.com/wiki/Weimar_Cabaret"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Weimar Cabaret
@@ -74,26 +73,6 @@ Second, this image was cemented in the global imagination by the 1972 film *Caba
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/weimar-cabaret/WeimarCabaret.png`
-- `images/weimar-cabaret/680d54b1efe4cf15ef7d23ce1e799115.jpg`
-- `images/weimar-cabaret/Bfdc4831b49a0e64bf1dff2aa384b0e5.jpg`
-- `images/weimar-cabaret/Bb58d075dec10296e7c40c8cad025621.jpg`
-- `images/weimar-cabaret/Ced4b43a6e58660acdc8b64e629353ca.jpg`
-- `images/weimar-cabaret/9a4291f8274cface9cb2171eb54f1a20.jpg`
-- `images/weimar-cabaret/06411014323aa0c2649188452ae3dd47.jpg`
-- `images/weimar-cabaret/6bcb255b0e0767b1033a811a5cb8268e.jpg`
-- `images/weimar-cabaret/3eabb120d5fa01a776a43013c31ba996.jpg`
-- `images/weimar-cabaret/0ad3499e26105c3bbd8195d708db9c45.jpg`
-- `images/weimar-cabaret/E0a3c79842d57bd1acaa11af4c243d0a.jpg`
-- `images/weimar-cabaret/3321c6edad590c721fef6d4ad9f61c59.jpg`
-- `images/weimar-cabaret/9d31ad2018dc9000f6b0db7d675b64fb.jpg`
-- `images/weimar-cabaret/22e60ec68c75db1b6f0d8f097701fd11.jpg`
-- `images/weimar-cabaret/6d66573c4f95e88e3de6e6fccfde905f.jpg`
-- `images/weimar-cabaret/D6bb8f82fb5a94564abcb6dc4ea121a2.jpg`
-- `images/weimar-cabaret/F51a002feadae175a8fb69a8cf9d4a76.jpg`
-
 ## Source and attribution
 
-Text adapted from "Weimar Cabaret" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Weimar_Cabaret), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Weimar Cabaret" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Weimar_Cabaret), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

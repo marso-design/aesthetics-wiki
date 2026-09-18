@@ -8,7 +8,6 @@ palette: ["#1C1B1B", "#5D423D", "#6C6258", "#A88959", "#A79774", "#97634A"]
 source_url: "https://aesthetics.fandom.com/wiki/Wei_and_Jin_Dynasties"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Wei and Jin Dynasties
@@ -91,25 +90,6 @@ Reconstructed fashion of the Wei and Jin dynasties
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/wei-and-jin-dynasties/WeiJin-TheAdmonitionsScroll.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-嘉峪关魏晋墓彩绘砖画.jpeg`
-- `images/wei-and-jin-dynasties/ShenxianFu-OriginLuoShenFuTu.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-尸毗王本生.png`
-- `images/wei-and-jin-dynasties/WeiJin-宣示表.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-兰亭序.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-平复帖.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-云冈石窟第20窟释迦牟尼坐像.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-麦积山石窟第133窟童男童女造像.png`
-- `images/wei-and-jin-dynasties/WeiJin-敦煌莫高窟第275窟交脚弥勒菩萨.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-青瓷莲花尊.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-青釉褐彩鸡首壶.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-青釉堆塑楼阙飞鸟人物罐.jpeg`
-- `images/wei-and-jin-dynasties/ShenxianFu-OriginWeiJinFashion.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-嘉峪关魏晋墓彩绘砖画Overview.jpeg`
-- `images/wei-and-jin-dynasties/WeiJin-SevenSages.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Wei and Jin Dynasties" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wei_and_Jin_Dynasties), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wei and Jin Dynasties" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wei_and_Jin_Dynasties), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

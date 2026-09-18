@@ -11,7 +11,6 @@ related_aesthetics: ["2 Tone", "Beatnik", "Mod", "Reggae", "Skinhead", "Teddy Bo
 source_url: "https://aesthetics.fandom.com/wiki/Rude_Boy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Rude Boy
@@ -49,10 +48,6 @@ Rude Boys in Notting Hill, London (1974)
 
 ## References
 
-## Images
-
-- `images/rude-boy/Bafkreieti7dnyduji5qk6x77sir2sswvde2udwfuxos4zwx75fejv42cx4.jpg`
-
 ## Source and attribution
 
-Text adapted from "Rude Boy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rude_Boy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rude Boy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rude_Boy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

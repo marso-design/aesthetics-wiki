@@ -9,7 +9,6 @@ palette: ["#7B7E66", "#1B1816", "#A18F77", "#F1F0EC", "#CDC6BF", "#525249"]
 source_url: "https://aesthetics.fandom.com/wiki/Hopecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Hopecore
@@ -40,13 +39,6 @@ The auditory component strictly guides the emotional pacing of the videos. Creat
 
 ## References
 
-## Images
-
-- `images/hopecore/Hopecore.jpg`
-- `images/hopecore/SAFETY.jpg`
-- `images/hopecore/DOGGIE.jpg`
-- `images/hopecore/Hopecore.jpg.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hopecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hopecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hopecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hopecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

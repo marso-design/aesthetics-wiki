@@ -10,7 +10,6 @@ related_aesthetics: ["Baroque", "Chinoiserie", "Decadence", "Gustavian", "Neocla
 source_url: "https://aesthetics.fandom.com/wiki/Rococo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Rococo
@@ -312,4 +311,4 @@ Rococo-inspired outfit, part of ”Lights, Glamour, Action” by Daniel Sachon, 
 
 ## Source and attribution
 
-Text adapted from "Rococo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rococo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rococo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rococo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

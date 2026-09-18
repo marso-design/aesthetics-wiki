@@ -10,7 +10,6 @@ related_aesthetics: ["Candycore", "Internet Awesomesauce", "Kidcore", "Maximalis
 source_url: "https://aesthetics.fandom.com/wiki/LOLcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # LOLcore
@@ -76,26 +75,6 @@ Katy Perry wearing Moschino-branded clothing.
 
 ## References
 
-## Images
-
-- `images/lolcore/Lolcore.jpg`
-- `images/lolcore/LOLcore20.jpg`
-- `images/lolcore/LOLcore2.jpeg`
-- `images/lolcore/LOLcore3.jpeg`
-- `images/lolcore/LOLcore4.jpeg`
-- `images/lolcore/LOLcore7.jpg`
-- `images/lolcore/LOLcore5.jpeg`
-- `images/lolcore/LOLcore8.jpg`
-- `images/lolcore/LOLcore6.jpeg`
-- `images/lolcore/LOLcore16.jpg`
-- `images/lolcore/Sheila.jpg`
-- `images/lolcore/LOLcore14.jpg`
-- `images/lolcore/LOLcore15.jpg`
-- `images/lolcore/LOLcore17.jpg`
-- `images/lolcore/LOLcore18.jpg`
-- `images/lolcore/LOLcore19.png`
-- `images/lolcore/LOLcore1.jpeg`
-
 ## Source and attribution
 
-Text adapted from "LOLcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/LOLcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "LOLcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/LOLcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

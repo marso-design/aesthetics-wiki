@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "Twitter (X)"]
 source_url: "https://aesthetics.fandom.com/wiki/Brat_Summer"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Brat Summer
@@ -64,25 +63,6 @@ Brat Summer college board.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/brat-summer/0443e26bb7dce6e656ae001761273bb3.jpg`
-- `images/brat-summer/B64003fa8e920bae463a329278169deb.jpg`
-- `images/brat-summer/E9f9ddb6d1811c5f64e5970ec7c5ed32.jpg`
-- `images/brat-summer/8a5fcf29961ab876bfc55c91685417ef.jpg`
-- `images/brat-summer/774ae46e69749ebc801a2ff90c985023.jpg`
-- `images/brat-summer/017d590268f3e70813d78658272bbfae.jpg`
-- `images/brat-summer/2aaa014a04f7fc0c85559f42bec5f435.jpg`
-- `images/brat-summer/B99d1bc686b39e0eb145e8adb319b856.jpg`
-- `images/brat-summer/6461f9f66316bf0847242b9bdec77c0c.jpg`
-- `images/brat-summer/2e47ddd61f2f1e030c203962c5cec342.jpg`
-- `images/brat-summer/Cffcb1f855cc6e85faef5005987bc479.jpg`
-- `images/brat-summer/Cefbbaf87a48702299fec35d75932948.jpg`
-- `images/brat-summer/0d6f3d22b30b9a31826283a625239c72.jpg`
-- `images/brat-summer/Fc0aa9e8a50362bdc542e47cc61f3e33.jpg`
-- `images/brat-summer/17a2f06da8a257708f5cd2ffe3fe674c.jpg`
-- `images/brat-summer/33fce623e5b625c37cb0fd4d3d7a65b8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Brat Summer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brat_Summer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Brat Summer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brat_Summer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

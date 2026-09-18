@@ -11,7 +11,6 @@ related_aesthetics: ["Girl Crush", "Hallyu", "Techwear", "Warcore", "Urbancore",
 source_url: "https://aesthetics.fandom.com/wiki/Rebels"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Rebels
@@ -105,10 +104,6 @@ Beyond the sound, the Rebels concept frequently clashes with South Korean broadc
 
 ## References
 
-## Images
-
-- `images/rebels/ATEEZ.jpg`
-
 ## Source and attribution
 
-Text adapted from "Rebels" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rebels), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rebels" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rebels), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Formula 1", "Le Mans", "WRC", "NASCAR", "Drive to Survive"]
 source_url: "https://aesthetics.fandom.com/wiki/Racing"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Racing
@@ -92,31 +91,6 @@ Sebastian Vettel, Scuderia Ferrari, Formula 1
 
 ## References
 
-## Images
-
-- `images/racing/Schumi.jpeg`
-- `images/racing/Fdbe9e15863be169c422b006070d3fae.jpg`
-- `images/racing/Caa755ecad88b6a6fed381b43d2e2c0e.jpg`
-- `images/racing/C31dc33b121876f2b0c5e4c1c726890d.jpg`
-- `images/racing/8f276457db071ecc8896a8f73045ef61.jpg`
-- `images/racing/9773baab104c24bfad5841b80b5c1b89.jpg`
-- `images/racing/A82d0ef27b765cfd6087084c942517cf.jpg`
-- `images/racing/0cc87895110ee74e15878bbc52bfb405.jpg`
-- `images/racing/A4a2caca779494cc1465fa6eeccd9421.jpg`
-- `images/racing/Cdd7e743420fbdeb03dda732cc14f596.jpg`
-- `images/racing/18186c5338fbcccf9c27489df06829f6.jpg`
-- `images/racing/A2ed52fe72656cb06b5edca9c3eba111.jpg`
-- `images/racing/91d967fc3b493d537a908440abfb1062.jpg`
-- `images/racing/Ce7eaa2d962e733eb2a1da3bb26f75b6.jpg`
-- `images/racing/Ea9e6a88cff6ce96645dbd426405a88e.jpg`
-- `images/racing/D7683b2643a3e4deccf3b2e566f3b1d7.jpg`
-- `images/racing/1648cf634d8c8706ccb74e5b4340672b.jpg`
-- `images/racing/412a5ec9aa8879594a27b36bf4f8e0c4.jpg`
-- `images/racing/9a7a1446edb7c07c89dc2922b566da1b.jpg`
-- `images/racing/9525040fee411d9d1fdbf1bdfc818d36.jpg`
-- `images/racing/903cc65390de8204ef4b39b56a757dc2.jpg`
-- `images/racing/CheckeredFlags.jpg`
-
 ## Source and attribution
 
-Text adapted from "Racing" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Racing), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Racing" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Racing), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

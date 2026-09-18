@@ -10,7 +10,6 @@ related_aesthetics: ["Burlesque", "Rocker Grrl Diva", "Camp", "Deathrock", "Goth
 source_url: "https://aesthetics.fandom.com/wiki/Glam_Rock"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Glam Rock
@@ -117,16 +116,6 @@ Keith Emerson
 * [Glam Rock on Rate Your Music](https://rateyourmusic.com/genre/glam-rock/)
 * <https://en.wikipedia.org/wiki/Glam_rock>
 
-## Images
-
-- `images/glam-rock/Queen5.jpg`
-- `images/glam-rock/Glam-bowie.jpg`
-- `images/glam-rock/Glam-elton.png`
-- `images/glam-rock/Glam-freddie.jpg`
-- `images/glam-rock/Glam-trex.jpg`
-- `images/glam-rock/Glam-alice.jpg`
-- `images/glam-rock/Glam-iggy.jpg`
-
 ## Source and attribution
 
-Text adapted from "Glam Rock" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glam_Rock), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Glam Rock" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glam_Rock), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

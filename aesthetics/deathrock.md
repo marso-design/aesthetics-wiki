@@ -11,7 +11,6 @@ related_media: ["The Return of the Living Dead (film)", "Only Theatre of Pain (a
 source_url: "https://aesthetics.fandom.com/wiki/Deathrock"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Deathrock
@@ -93,24 +92,6 @@ Rozz Williams of Christian Death in a wedding dress
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/deathrock/476ef226eea2154ce5ceeec493cfb9a3.jpg`
-- `images/deathrock/Fiends.jpg`
-- `images/deathrock/Deathrock-fashion-punk-fashion.jpg`
-- `images/deathrock/Deathhawk-hardcore-style.jpg`
-- `images/deathrock/9a424c1eace3bcdc4344972eddd506b3.jpg`
-- `images/deathrock/7852c6b96c71a389fce3a5984e817db6.jpg`
-- `images/deathrock/F44c861b4f89e72e2fb87b2907c965e0.jpg`
-- `images/deathrock/5b69f407bfaf42b45d11454ae54ab496.jpg`
-- `images/deathrock/3743037fe22596f37417c7fa61811874.jpg`
-- `images/deathrock/4648ab753b0b05941806dc6eb1e89260.jpg`
-- `images/deathrock/D0bd7a76351b45a8d39e16e4469ad2af.jpg`
-- `images/deathrock/Ff53fa6e4e1ee68cc98d704cc7fc6c84.jpg`
-- `images/deathrock/47898191834ef8472e0dd11aa55bd17e.jpg`
-- `images/deathrock/E236d77ed7cc2b6ff705f54b01405cbf.jpg`
-- `images/deathrock/A988fe6464c72dbce95f67d8ae3ea81a.jpg`
-
 ## Source and attribution
 
-Text adapted from "Deathrock" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Deathrock), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Deathrock" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Deathrock), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

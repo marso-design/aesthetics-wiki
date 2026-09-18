@@ -5,7 +5,6 @@ palette: ["#232726", "#AAB5B6", "#707C81", "#908C84", "#121111", "#EBF4F7"]
 source_url: "https://aesthetics.fandom.com/wiki/Aesthetics_Wiki"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 47
 ---
 
 # Aesthetics Wiki
@@ -294,56 +293,6 @@ Thank you to the winner of our redesign contest, Ethan Duke! The background and 
 
 * Note: This section is updated manually and only highlights fully documented entries. Underdeveloped stubs are excluded to maintain archive quality. See [New Pages](https://aesthetics.fandom.com/wiki/Special:NewPages "Special:NewPages") for the complete list of recent additions.
 
-## Images
-
-- `images/aesthetics-wiki/TheScream.jpg`
-- `images/aesthetics-wiki/ClassicMickey.gif`
-- `images/aesthetics-wiki/Humphrey-Bogart.jpg`
-- `images/aesthetics-wiki/GRUNGE-NIRVANA.png`
-- `images/aesthetics-wiki/Cottagecore.jpg`
-- `images/aesthetics-wiki/WebcoreAesthetic.jpg`
-- `images/aesthetics-wiki/Siouxsie-and-the-banshees-style-icon-12.png`
-- `images/aesthetics-wiki/CMxvALdUAAAJd9W.jpg`
-- `images/aesthetics-wiki/MarylinAndy.jpg`
-- `images/aesthetics-wiki/TrellickTower.jpg`
-- `images/aesthetics-wiki/Mdvmefeejg331.webp`
-- `images/aesthetics-wiki/Black-widow-femme-fatale.jpg`
-- `images/aesthetics-wiki/DankVille.webp`
-- `images/aesthetics-wiki/Poolcoreunderground.jpg`
-- `images/aesthetics-wiki/2023581e3d7c26353e6f0f5ad5b7f609.jpg`
-- `images/aesthetics-wiki/Kc1.jpg`
-- `images/aesthetics-wiki/Angelcoreaesthetic1.jpg`
-- `images/aesthetics-wiki/Gymboree-Store.jpg`
-- `images/aesthetics-wiki/Black.png`
-- `images/aesthetics-wiki/ViciousPink.jpg`
-- `images/aesthetics-wiki/10350.jpg`
-- `images/aesthetics-wiki/VSCOGirlInfobox.jpg`
-- `images/aesthetics-wiki/Jiangshi-MrVampire.jpeg`
-- `images/aesthetics-wiki/CBronzeAge-HoumuwuDing.jpeg`
-- `images/aesthetics-wiki/Nyashka.jpg`
-- `images/aesthetics-wiki/ChineseFolkHorror-image1.jpeg`
-- `images/aesthetics-wiki/ChuugokuMusume-1.jpg`
-- `images/aesthetics-wiki/Tang-Painting6.jpg`
-- `images/aesthetics-wiki/CDream-99.webp`
-- `images/aesthetics-wiki/Jiangnan-Rain3.jpg`
-- `images/aesthetics-wiki/Shuimo-Animation.jpg`
-- `images/aesthetics-wiki/QinglengFeng-LuXueqi.webp`
-- `images/aesthetics-wiki/DunhuangFeng-NineColorDeerAnimation.webp`
-- `images/aesthetics-wiki/Sinofuturism-Chongqing.jpg`
-- `images/aesthetics-wiki/RussianCosmism-OnTheMoon.png`
-- `images/aesthetics-wiki/GulfFuturism-SophiaAlMariaFutureTents.webp`
-- `images/aesthetics-wiki/ETautz.jpg`
-- `images/aesthetics-wiki/BBY-WomensFashion1.jpg`
-- `images/aesthetics-wiki/SongDynasty-QianLiJiangShanTu.png`
-- `images/aesthetics-wiki/Cdbaa18c681f908547ff7a37f7a2452c.jpg`
-- `images/aesthetics-wiki/Dreamcoreimg1.jpg`
-- `images/aesthetics-wiki/Jiraikei.jpg`
-- `images/aesthetics-wiki/C03C26FF-D51D-4525-85F8-1E3FF4E0BFA4.gif`
-- `images/aesthetics-wiki/Metrooooooooo.png`
-- `images/aesthetics-wiki/Gen-X-Soft-Club.jpg`
-- `images/aesthetics-wiki/DiscordLogo.png`
-- `images/aesthetics-wiki/RedditLogo.webp`
-
 ## Source and attribution
 
-Text adapted from "Aesthetics Wiki" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aesthetics_Wiki), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Aesthetics Wiki" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aesthetics_Wiki), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

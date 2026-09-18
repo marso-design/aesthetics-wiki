@@ -12,7 +12,6 @@ related_media: ["Ageha Magazine", "Kilala Magazine"]
 source_url: "https://aesthetics.fandom.com/wiki/Hime_Gyaru"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Hime Gyaru
@@ -73,24 +72,6 @@ Hime Gyaru was likely created and popularised around 2006-2012. It is seen as an
 | --- | --- | --- |
 | [Agejo](https://aesthetics.fandom.com/wiki/Agejo "Agejo") ❀ [Amekaji](https://aesthetics.fandom.com/wiki/Amekaji "Amekaji") ❀ Ane Gyaru ❀ B-Gyaru ❀ [Ganguro](https://aesthetics.fandom.com/wiki/Ganguro "Ganguro") ❀ [Gyaruo](https://aesthetics.fandom.com/wiki/Gyaruo "Gyaruo") ❀ **Hime Gyaru** ❀ [Himekaji](https://aesthetics.fandom.com/wiki/Himekaji "Himekaji") ❀ [Kogal](https://aesthetics.fandom.com/wiki/Kogal "Kogal") ❀ [Manba](https://aesthetics.fandom.com/wiki/Manba "Manba") ❀ Mode Gyaru ❀ [Neo Gyaru](https://aesthetics.fandom.com/wiki/Neo_Gyaru "Neo Gyaru") ❀ [Onee Gyaru](https://aesthetics.fandom.com/wiki/Onee_Gyaru "Onee Gyaru") ❀ Ora Ora Kei ❀ Rokku ❀ [Tsuyome Gyaru](https://aesthetics.fandom.com/wiki/Tsuyome_Gyaru "Tsuyome Gyaru") ❀ Yamanba |
 
-## Images
-
-- `images/hime-gyaru/Himegyaru2.jpg`
-- `images/hime-gyaru/Himegyaru.jpg`
-- `images/hime-gyaru/Himegyaru3.jpg`
-- `images/hime-gyaru/Himegyaru4.webp`
-- `images/hime-gyaru/Himegyaru5.webp`
-- `images/hime-gyaru/Himegyaru6.jpg`
-- `images/hime-gyaru/Himegyaru7.jpg`
-- `images/hime-gyaru/Himegyaru8.jpg`
-- `images/hime-gyaru/Himegyaru9.jpg`
-- `images/hime-gyaru/Himegyaru10.jpg`
-- `images/hime-gyaru/Himegyaru11.webp`
-- `images/hime-gyaru/Himegyaru12.png`
-- `images/hime-gyaru/Himegyaru13.png`
-- `images/hime-gyaru/Himegyaru14.jpg`
-- `images/hime-gyaru/Himegyaru15.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hime Gyaru" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hime_Gyaru), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hime Gyaru" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hime_Gyaru), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

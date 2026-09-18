@@ -13,7 +13,6 @@ related_media: ["Singles (1992 film)", "Hype! (1996 documentary)"]
 source_url: "https://aesthetics.fandom.com/wiki/Grunge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Grunge
@@ -308,18 +307,6 @@ In the 1990s, grunge’s impact on literature was characterized by a "raw and un
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/grunge/GRUNGE-NIRVANA.png`
-- `images/grunge/3.png`
-- `images/grunge/6-.png`
-- `images/grunge/5.png`
-- `images/grunge/4-.png`
-- `images/grunge/7.png`
-- `images/grunge/9.png`
-- `images/grunge/8.png`
-- `images/grunge/110.png`
-
 ## Source and attribution
 
-Text adapted from "Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

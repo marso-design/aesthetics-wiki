@@ -11,7 +11,6 @@ related_media: ["Triumph of the Will (Leni Riefenstahl, 1935)", "Opus Dei (Laiba
 source_url: "https://aesthetics.fandom.com/wiki/Totalitarian_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Totalitarian Kitsch
@@ -51,4 +50,4 @@ Under Construction
 
 ## Source and attribution
 
-Text adapted from "Totalitarian Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Totalitarian_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Totalitarian Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Totalitarian_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

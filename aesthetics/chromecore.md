@@ -11,7 +11,6 @@ related_media: ["Jetix"]
 source_url: "https://aesthetics.fandom.com/wiki/Chromecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 80
 ---
 
 # Chromecore
@@ -89,89 +88,6 @@ Everything is chrome in the future. - Spongebob - SB-129
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ **Chromecore** ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/chromecore/Fcc4af294e58397c32e9d32032e63e05.gif`
-- `images/chromecore/41X3B28XR7L.jpg`
-- `images/chromecore/Game-Boy-Micro.png`
-- `images/chromecore/41J1wenkUTL.png`
-- `images/chromecore/41jlw52GkPL.jpg`
-- `images/chromecore/E7f942ff808de9217975ab2c34ae7d23.png`
-- `images/chromecore/Sonywalkman.webp`
-- `images/chromecore/Evernote-camera-roll-20150803-171533.jpg`
-- `images/chromecore/C0c460579ff69b8be89172e228559d17.jpg`
-- `images/chromecore/23fd2d0ff9d80d935d9aa8b688643d44.jpg`
-- `images/chromecore/4202c6fac4a7f052dec19bf14fd7d00e.jpg`
-- `images/chromecore/112ff281b7f1bc9f830b6bda370748e1.jpg`
-- `images/chromecore/55d2c454aa33895f4e621da6338db541.jpg`
-- `images/chromecore/D9ee05ac6859d690b4c71c5de8ec06d7.jpg`
-- `images/chromecore/30695c1da80fb8b92ea623018801849a.jpg`
-- `images/chromecore/2011-08-11-nokia-c7.webp`
-- `images/chromecore/642acffa8f0f6dadc08a5cdd9921580d.jpg`
-- `images/chromecore/Be870ca494de77374a4330ff91a80dc3.webp`
-- `images/chromecore/1a47311066214daa22760d8191892ad0.jpg`
-- `images/chromecore/09695f3f276a82d96051c7c522352897.jpg`
-- `images/chromecore/E306f522d914100242c5cf158bc9ab8c.jpg`
-- `images/chromecore/52cb41dca0d60e9e1fdfa79ab407e648.jpg`
-- `images/chromecore/D24EBIpU0AADeZt.jpg`
-- `images/chromecore/FKmufnCWQAQFY0X.jpg`
-- `images/chromecore/93e781f0cf1ce2924b0d658307fb5c62.jpg`
-- `images/chromecore/9a25fff04bc7eb555688173d43276a4c.jpg`
-- `images/chromecore/E553442e4ad3a762a567ca9c10413649.jpg`
-- `images/chromecore/3e262a4bbe3716a077082aabab863ef2.jpg`
-- `images/chromecore/Nokia-NGage-LL.jpg`
-- `images/chromecore/1024px-Gizmondo.jpg`
-- `images/chromecore/Rca.jpg`
-- `images/chromecore/Jetix.png`
-- `images/chromecore/Xs-engineering-2002.png`
-- `images/chromecore/378547dc9b1c60cfbc68434bbe0c1378.jpg`
-- `images/chromecore/-8yevw97yv102u8wybvuwybvuwb.jpg`
-- `images/chromecore/8q7gt17tvqytfaytvauyga89ao.jpg`
-- `images/chromecore/91ctebrKU9L8wy2ubvuvayvauygqjhbwuslw.jpg`
-- `images/chromecore/298eyfilqebfliywgefih2wvrioyg2eifhb.png`
-- `images/chromecore/Whcvwekhdbwkcbwkjedbkqnbskqw.jpg`
-- `images/chromecore/3eiufg3ihfbv2wl.hsdvl2khwbs;o2h3e'pih2ehk1b;oeugh3ouehou3hdeb2hb.jpg`
-- `images/chromecore/86dxtdxeazygc5excutdtygv57excy7tf5c6rc57edyfctex.jpg`
-- `images/chromecore/B60tm2qrsnb418wyg802g0278yv2uybv12uyvb1oubvquob208ybg08ybwu08ywb08uywqb8wqyb80wqb8yb28yb20ubw.webp`
-- `images/chromecore/2uv279tvb2ubqwubqoih2089h28ibnqwihqbwnioqwbuhywbuo2hbuoqwihbipqwh.jpg`
-- `images/chromecore/B0fb83cc20af3abe264291bb17fb2a13.png`
-- `images/chromecore/34674d10748d58a5847bd76cd1383860.png`
-- `images/chromecore/Wibwbishbaiaisbhsbsbuybeuhkjaisa.jpg`
-- `images/chromecore/12345643465434543234565434567890yfctyfcyfcvyfcvhgvhy.jpg`
-- `images/chromecore/Euwybq8uybqwuybqwugtav.jpg`
-- `images/chromecore/1327f0b33ee0b28008e1a088ab8017ef.jpg`
-- `images/chromecore/47a6f9a87d3dde0ef65a012b701be710.jpg`
-- `images/chromecore/0bbcffd9d6fa6a98dc92acd1662f7105.jpg`
-- `images/chromecore/Wefwbefkhbfkhebfkwfkwef,hgfkgfwhgfvfrawed.jpg`
-- `images/chromecore/2egkhrvi23r.jpg`
-- `images/chromecore/3;iyrg23khb2hvr2h3rnbekbfauhdow.jpg`
-- `images/chromecore/63782336ddf2cadd575091aa25d2c34e.jpg`
-- `images/chromecore/2jwhwbqbjaq.jpg`
-- `images/chromecore/Sjhbaahba.webp`
-- `images/chromecore/3caf5b236cf4d3fa55146a64eb34e702.jpg`
-- `images/chromecore/De3bc166a2f0cd0cfa09bc3b31318925.jpg`
-- `images/chromecore/Dc71c334985dec4414311fd37f502409.jpg`
-- `images/chromecore/6743d13fea6b3e44172e581c6143770a.jpg`
-- `images/chromecore/56fb51d950298de3adf111530881378b.jpg`
-- `images/chromecore/89d7a08cc672c38e1196ace11110aa9a.jpg`
-- `images/chromecore/A62aa2d3b32a79594ee9bbadfaf93c70.jpg`
-- `images/chromecore/B3cedfa44b967c941c85995b5486d553.jpg`
-- `images/chromecore/B300d60b5a58a7dd595071f91b6c1ccc.jpg`
-- `images/chromecore/Af9a1f6b80a91b2a7e93e09baf5ecdcb.jpg`
-- `images/chromecore/0b64d2fbf59e7624911d46265ec3446a.jpg`
-- `images/chromecore/888713cb9c846b2ef0cdf7186e421398.jpg`
-- `images/chromecore/0ff7b393001976164eabc317b9572951.jpg`
-- `images/chromecore/Fbf8a529da997f96cd19e68c1a7f5604.jpg`
-- `images/chromecore/F7e62939fe207ecc0a7721765f4df0b2.jpg`
-- `images/chromecore/44491b65623c2f1e01da7e5e54c004b5.jpg`
-- `images/chromecore/7f69805ad3352eba0c0d053b9234b5bd.jpg`
-- `images/chromecore/013455545667f41e9405cb0d94176e9c.jpg`
-- `images/chromecore/Cf4988cdddb68a1112d8ff6ccb02b5fc.jpg`
-- `images/chromecore/02fbdc783b879c8521defef6f6fff7c5.jpg`
-- `images/chromecore/4de6716bfa855dfa66e7aaab4357100c.jpg`
-- `images/chromecore/9f02e5ff52820d223c52faaa1e73ce57.jpg`
-- `images/chromecore/F317ac8381a3ec80c8c5d6c7e84dca50.jpg`
-
 ## Source and attribution
 
-Text adapted from "Chromecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chromecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chromecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chromecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

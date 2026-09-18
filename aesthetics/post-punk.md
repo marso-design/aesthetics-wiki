@@ -9,7 +9,6 @@ palette: ["#4C4F52", "#0A0A0A", "#EDEDED", "#7F8285", "#313233", "#1E1E1F"]
 source_url: "https://aesthetics.fandom.com/wiki/Post-Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Post-Punk
@@ -85,12 +84,6 @@ The sound is often characterized by prominent, melodic basslines, sharp and angu
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ **Post-Punk** |
 
-## Images
-
-- `images/post-punk/UnknownPleasures.webp`
-- `images/post-punk/Curtis-us-trenchcoat-byrne.png`
-- `images/post-punk/Bauhaus.webp`
-
 ## Source and attribution
 
-Text adapted from "Post-Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Post-Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Post-Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Post-Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

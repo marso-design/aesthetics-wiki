@@ -13,7 +13,6 @@ related_media: ["Johnnie Walker Blue Label whisky", "KFC or Debonair's Pizza", "
 source_url: "https://aesthetics.fandom.com/wiki/Skhothane"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Skhothane
@@ -75,14 +74,6 @@ Academically, the practice is interpreted as a necessary act of rehumanization a
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/skhothane/Skhothane.jpg`
-- `images/skhothane/41755cc9e2b847f2bfa784e570edd230.webp`
-- `images/skhothane/Izikhothane-young-people--011.webp`
-- `images/skhothane/DejggAFX4AUmZUK.jpg`
-- `images/skhothane/DkkeTZVW4AAygqn.jpg`
-
 ## Source and attribution
 
-Text adapted from "Skhothane" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skhothane), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Skhothane" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skhothane), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

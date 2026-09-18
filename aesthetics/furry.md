@@ -10,7 +10,6 @@ related_aesthetics: ["Kidcore", "Neko", "Pastel Gore", "Puppygirl", "Raver", "Sc
 source_url: "https://aesthetics.fandom.com/wiki/Furry"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Furry
@@ -263,20 +262,6 @@ A [Fluttershy](https://mlp.fandom.com/wiki/Fluttershy) furkig by @ayichen
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/furry/Img.jpeg`
-- `images/furry/Fursuit.jpg`
-- `images/furry/Starpupstudio.jpg`
-- `images/furry/8e0de590-20dd-4c58-8835-21a776dca1a7.jpg`
-- `images/furry/4e47f6eb-ceca-409c-83a5-b050ce27510f.jpg`
-- `images/furry/Moss!!!.jpg`
-- `images/furry/Furry.jpg`
-- `images/furry/!Dinomask!.jpg`
-- `images/furry/60870e2c-4fbf-40a7-a693-58d375a4f164.jpg`
-- `images/furry/Dbf847ed-aaff-4746-be8f-282f6683eaaf.jpg`
-- `images/furry/Fluttershyfurkig.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Furry" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Furry), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Furry" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Furry), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

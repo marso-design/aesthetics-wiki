@@ -11,7 +11,6 @@ related_media: ["Blade Runner"]
 source_url: "https://aesthetics.fandom.com/wiki/Neon_Noir"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Neon Noir
@@ -90,11 +89,6 @@ Far Cry 3 Blood Dragon Official Trailer
 
 ## References
 
-## Images
-
-- `images/neon-noir/Wp1895674.jpg`
-- `images/neon-noir/4fTJCA.png`
-
 ## Source and attribution
 
-Text adapted from "Neon Noir" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neon_Noir), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neon Noir" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neon_Noir), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -7,7 +7,6 @@ related_aesthetics: ["Cult Party Kei", "Delicate Sweet", "Fairy Kei", "Hime Loli
 source_url: "https://aesthetics.fandom.com/wiki/Sweet_Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Sweet Lolita
@@ -58,21 +57,6 @@ Jewelry, especially those released by the brand Angelic Pretty, may be plastic a
 
 ## Gallery
 
-## Images
-
-- `images/sweet-lolita/Sweetlolitas.jpg`
-- `images/sweet-lolita/Sweetlolitas2.jpg`
-- `images/sweet-lolita/Sweetgirl.jpg`
-- `images/sweet-lolita/Swet.jpg`
-- `images/sweet-lolita/Sweetblue.jpg`
-- `images/sweet-lolita/Sweetprint.jpg`
-- `images/sweet-lolita/Sweeeet.jpg`
-- `images/sweet-lolita/Sweeeeet.jpg`
-- `images/sweet-lolita/Sweeeeeeeeet.jpg`
-- `images/sweet-lolita/Sweetdress.jpg`
-- `images/sweet-lolita/Sweettetet.jpg`
-- `images/sweet-lolita/Swettt.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sweet Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sweet_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sweet Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sweet_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["Clueless", "Gossip Girl"]
 source_url: "https://aesthetics.fandom.com/wiki/2000s_Preppy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # 2000s Preppy
@@ -93,13 +92,6 @@ Paris Hilton
 
 Abercrombie & Fitch catalogue
 
-## Images
-
-- `images/2000s-preppy/CluelessClothes.png`
-- `images/2000s-preppy/Sub-buzz-287-1590770248-2.webp`
-- `images/2000s-preppy/On-the-2000s-preppy-clothing-trend-v0-6l9abrn59ldf1.webp`
-- `images/2000s-preppy/Preppyimage.jpg`
-
 ## Source and attribution
 
-Text adapted from "2000s Preppy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2000s_Preppy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2000s Preppy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2000s_Preppy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

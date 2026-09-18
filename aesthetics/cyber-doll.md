@@ -10,7 +10,6 @@ related_aesthetics: ["Cyber Angel", "Dollcore", "E-Girl (socially)", "Jirai Kei"
 source_url: "https://aesthetics.fandom.com/wiki/Cyber_Doll"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Cyber Doll
@@ -66,17 +65,6 @@ Umi Chii
 
 ## References
 
-## Images
-
-- `images/cyber-doll/UmiChii2.jpeg`
-- `images/cyber-doll/CyberdollTikTok.png`
-- `images/cyber-doll/CyberdollTikTok2.png`
-- `images/cyber-doll/9518b7019be609b01c68b36eefddb6fe.jpg`
-- `images/cyber-doll/CyberdollTikTok3.png`
-- `images/cyber-doll/UmiChii1.jpg`
-- `images/cyber-doll/UmiChii3.jpg`
-- `images/cyber-doll/CyberDollTutorial.webp`
-
 ## Source and attribution
 
-Text adapted from "Cyber Doll" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Doll), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyber Doll" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Doll), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ primary_platform: ["Spotify", "TikTok", "YouTube"]
 source_url: "https://aesthetics.fandom.com/wiki/Tumbado"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Tumbado
@@ -49,10 +48,6 @@ The movement was pioneered in the late 2010s by artists like Natanael Cano, who 
 
 ## References
 
-## Images
-
-- `images/tumbado/Corridos-tumbados.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tumbado" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tumbado), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tumbado" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tumbado), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

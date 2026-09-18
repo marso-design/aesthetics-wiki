@@ -10,7 +10,6 @@ related_aesthetics: ["Tropical", "Dreamcore", "Nautical", "Liminal Space", "Pool
 source_url: "https://aesthetics.fandom.com/wiki/Tropideco"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Tropideco
@@ -53,10 +52,6 @@ Tropideco music focuses on nostalgic and slowed down songs with the ukulele bein
 
 ## Gallery
 
-## Images
-
-- `images/tropideco/176955190966184236.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tropideco" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropideco), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tropideco" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropideco), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

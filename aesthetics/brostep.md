@@ -13,7 +13,6 @@ related_media: ["Call of Duty (Montages)", "Transformers (film series)", "Border
 source_url: "https://aesthetics.fandom.com/wiki/Brostep"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Brostep
@@ -115,18 +114,6 @@ The term "Brostep" itself was an insult used to mock the "frat bro" audience tha
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/brostep/30804ae35e43823b73eaecb5cea6e01c.jpg`
-- `images/brostep/Xgm28bj.jpg`
-- `images/brostep/HD-wallpaper-excision-x-rated-dubstep-music-excision-logo.jpg`
-- `images/brostep/Excision-Shambhala.jpg`
-- `images/brostep/IKyirIt.jpg`
-- `images/brostep/Desktop-wallpaper-gas-mask-by-stanky991-for-your-mobile-tablet-explore-gas-mask-mask-cool-gas-mask-dubstep-gas-mask-biohazard-mask.jpg`
-- `images/brostep/Dark-gas-mask-biohazard-wallpaper-preview.jpg`
-- `images/brostep/WJXDGI.png`
-- `images/brostep/1cVAMK.png`
-
 ## Source and attribution
 
-Text adapted from "Brostep" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brostep), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Brostep" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brostep), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

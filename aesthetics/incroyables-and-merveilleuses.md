@@ -12,7 +12,6 @@ related_media: ["Caricatures by Carle Vernet", "Journal des Incroyables"]
 source_url: "https://aesthetics.fandom.com/wiki/Incroyables_and_Merveilleuses"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Incroyables and Merveilleuses
@@ -59,12 +58,6 @@ ditto
 
 ## References
 
-## Images
-
-- `images/incroyables-and-merveilleuses/MadameTallienparGérard..jpg`
-- `images/incroyables-and-merveilleuses/Lesincroyables.jpg`
-- `images/incroyables-and-merveilleuses/Boilly-Point-de-Convention-ca1797.jpg`
-
 ## Source and attribution
 
-Text adapted from "Incroyables and Merveilleuses" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Incroyables_and_Merveilleuses), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Incroyables and Merveilleuses" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Incroyables_and_Merveilleuses), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

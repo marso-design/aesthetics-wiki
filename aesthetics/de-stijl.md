@@ -4,7 +4,6 @@ slug: "de-stijl"
 source_url: "https://aesthetics.fandom.com/wiki/De_Stijl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # De Stijl
@@ -80,4 +79,4 @@ Screenshot from Katy Perry's This Is How We Do music video, 2013
 
 ## Source and attribution
 
-Text adapted from "De Stijl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/De_Stijl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "De Stijl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/De_Stijl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

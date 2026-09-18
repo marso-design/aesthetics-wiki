@@ -12,7 +12,6 @@ related_media: ["Rosemary's Baby (1968)", "The Exorcist (1973)", "The Nun (2018)
 source_url: "https://aesthetics.fandom.com/wiki/Catholic_Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Catholic Horror
@@ -112,20 +111,6 @@ However, the association between Catholicism and the macabre predates modern cin
 
 ## References
 
-## Images
-
-- `images/catholic-horror/TheNun.webp`
-- `images/catholic-horror/CH1.png`
-- `images/catholic-horror/CH2.png`
-- `images/catholic-horror/CH3.jpg`
-- `images/catholic-horror/CH4.gif`
-- `images/catholic-horror/CH9.png`
-- `images/catholic-horror/CH7.jpg`
-- `images/catholic-horror/CH10.jpg`
-- `images/catholic-horror/CH5.jpg`
-- `images/catholic-horror/CH8.jpg`
-- `images/catholic-horror/CH6.jpg`
-
 ## Source and attribution
 
-Text adapted from "Catholic Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Catholic_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Catholic Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Catholic_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

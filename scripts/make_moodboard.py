@@ -178,7 +178,8 @@ def main():
             slugs = slugs[:args.limit]
     elif args.slug:
         if args.slug not in palettes:
-            raise SystemExit("no palette for '%s' (needs local images + palette.py)"
+            raise SystemExit("no palette for '%s' (140 of 1,201 entries have none; "
+                             "try gen_moodboard.py or a related aesthetic)"
                              % args.slug)
         slugs = [args.slug]
     else:

@@ -11,7 +11,6 @@ related_aesthetics: ["Bloghouse", "Indie Kid", "Indie Sleaze", "Dark Academia", 
 source_url: "https://aesthetics.fandom.com/wiki/Indie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 30
 ---
 
 # Indie
@@ -194,39 +193,6 @@ Pavement- "Harness Your Hopes" (Official Lyric Video)
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/indie/Panicsmiths.jpg`
-- `images/indie/Housemartins.jpg`
-- `images/indie/StoneRoses1990.jpg`
-- `images/indie/Felt80s.jpg`
-- `images/indie/Marinegirls.jpg`
-- `images/indie/Talulahgosh.webp`
-- `images/indie/Bis90s.jpg`
-- `images/indie/BOB.jpg`
-- `images/indie/Heavenlyindie.jpg`
-- `images/indie/Groove-farm-poster.jpg`
-- `images/indie/FieldMiceGarden.jpg`
-- `images/indie/BlueboyHarlow.jpg`
-- `images/indie/Ojlove.jpg`
-- `images/indie/Moz2.jpg`
-- `images/indie/Bluebells.jpg`
-- `images/indie/Pale-Fountains-800x360.jpg`
-- `images/indie/Moz1.jpg`
-- `images/indie/Shopassistants.jpg`
-- `images/indie/C86.jpg`
-- `images/indie/Closelobsters.jpg`
-- `images/indie/Anyonemistake.jpg`
-- `images/indie/Backoflove.jpg`
-- `images/indie/Beloved100words.jpg`
-- `images/indie/Georgebest.jpg`
-- `images/indie/Heavenknows.jpg`
-- `images/indie/London0hull4.jpg`
-- `images/indie/Meatismurder.jpg`
-- `images/indie/Pacificstreet.jpg`
-- `images/indie/Shoplifters.jpg`
-- `images/indie/Tvps.jpg`
-
 ## Source and attribution
 
-Text adapted from "Indie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Indie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ palette: ["#807C70", "#605E56", "#171A19", "#3A372F", "#9D9B92", "#CBC9BF"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Romanticism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Dark Romanticism
@@ -64,14 +63,6 @@ Dark Romanticism is most closely associated with American literature. Key figure
 
 ## Gallery
 
-## Images
-
-- `images/dark-romanticism/Moby-dick-thumb.jpg`
-- `images/dark-romanticism/Der-Nachtmaur.jpg`
-- `images/dark-romanticism/The-ministers-black-veil.jpg`
-- `images/dark-romanticism/Colman-the-edge-of-doom.jpg`
-- `images/dark-romanticism/Goya-witches-in-the-air.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dark Romanticism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Romanticism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Romanticism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Romanticism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

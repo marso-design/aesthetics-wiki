@@ -13,7 +13,6 @@ related_media: ["Bridgerton", "The Crown", "Marie Antoinette (2006)"]
 source_url: "https://aesthetics.fandom.com/wiki/Royalcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # Royalcore
@@ -81,30 +80,6 @@ The Royalcore aesthetic extends to interior design, aiming to replicate the opul
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/royalcore/Gown.jpg`
-- `images/royalcore/6a233b3707ee7fc5fdcf3891296ea59c.jpg`
-- `images/royalcore/9cf752c46ae14019c0e5ecbae970bedb.jpg`
-- `images/royalcore/8697abc663b54cdfdef847d414ae9736.jpg`
-- `images/royalcore/139436cb0fc9e088a22e7515df29cc5f.jpg`
-- `images/royalcore/11aed6e350f56c805c0502c941289a91.jpg`
-- `images/royalcore/F6db208f0779cdd26fbbda65cd9f4927.jpg`
-- `images/royalcore/Ed04331f5f834ecb5ab010f5388bfb39.jpg`
-- `images/royalcore/17a6e59ac0cca6d753cc3ed02aedfc80.jpg`
-- `images/royalcore/37bbd0099ae3473e73234d5996845d51.jpg`
-- `images/royalcore/272ae021b1073f851ee408c58d862bb6.jpg`
-- `images/royalcore/9c2c4024feb777abb1600ae9ac2d149d.jpg`
-- `images/royalcore/Fe7cbcd4df02205ab6d78081d2452e4b.jpg`
-- `images/royalcore/Eda659692f6a821294a07cead0a54e9a.jpg`
-- `images/royalcore/519de94e2d2d512d8a331b7f30e38656.jpg`
-- `images/royalcore/9eef5fbd991acc78ad5940b179301f0c.jpg`
-- `images/royalcore/Ca72bbefd0633c4591f7d8933d623901.jpg`
-- `images/royalcore/2dd801ca543c661f198249d9626a0920.jpg`
-- `images/royalcore/23161d0015d7a77b0ce49de4a12fc49b.jpg`
-- `images/royalcore/0aa32e966e3816a624156e7605bb2231.jpg`
-- `images/royalcore/59b23f0fb9b5cf310778beef1fab24fb.jpg`
-
 ## Source and attribution
 
-Text adapted from "Royalcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Royalcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Royalcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Royalcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

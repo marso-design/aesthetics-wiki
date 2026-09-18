@@ -12,7 +12,6 @@ related_media: ["Magazines (egg, Ranzuki)"]
 source_url: "https://aesthetics.fandom.com/wiki/Manba"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Manba
@@ -80,19 +79,6 @@ The term **Ogyaru** is not a substyle of Gyaru but a descriptive label for a spe
 | --- | --- | --- |
 | [Agejo](https://aesthetics.fandom.com/wiki/Agejo "Agejo") ❀ [Amekaji](https://aesthetics.fandom.com/wiki/Amekaji "Amekaji") ❀ Ane Gyaru ❀ B-Gyaru ❀ [Ganguro](https://aesthetics.fandom.com/wiki/Ganguro "Ganguro") ❀ [Gyaruo](https://aesthetics.fandom.com/wiki/Gyaruo "Gyaruo") ❀ [Hime Gyaru](https://aesthetics.fandom.com/wiki/Hime_Gyaru "Hime Gyaru") ❀ [Himekaji](https://aesthetics.fandom.com/wiki/Himekaji "Himekaji") ❀ [Kogal](https://aesthetics.fandom.com/wiki/Kogal "Kogal") ❀ **Manba** ❀ Mode Gyaru ❀ [Neo Gyaru](https://aesthetics.fandom.com/wiki/Neo_Gyaru "Neo Gyaru") ❀ [Onee Gyaru](https://aesthetics.fandom.com/wiki/Onee_Gyaru "Onee Gyaru") ❀ Ora Ora Kei ❀ Rokku ❀ [Tsuyome Gyaru](https://aesthetics.fandom.com/wiki/Tsuyome_Gyaru "Tsuyome Gyaru") ❀ Yamanba |
 
-## Images
-
-- `images/manba/Manba(1).jpg`
-- `images/manba/Tropicalgyaru1.jpg`
-- `images/manba/Tropicalgyaru2.jpg`
-- `images/manba/1006f3ba6b711a454844b3c82c8507c9-1-.jpg`
-- `images/manba/Groupfomanbas.jpg`
-- `images/manba/Manbas1.jpg`
-- `images/manba/Manbas4.jpg`
-- `images/manba/Manbas3.jpg`
-- `images/manba/Manbas2.jpg`
-- `images/manba/Manbagal.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Manba" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Manba), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Manba" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Manba), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

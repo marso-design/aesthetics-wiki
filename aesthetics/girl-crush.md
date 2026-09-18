@@ -11,7 +11,6 @@ related_media: ["Music videos by groups like 2NE1", "BLACKPINK", "EVERGLOW", "(G
 source_url: "https://aesthetics.fandom.com/wiki/Girl_Crush"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Girl Crush
@@ -127,15 +126,6 @@ Generally, Girl Crush music and production traits has a very deep, synergistic r
 
 ## References
 
-## Images
-
-- `images/girl-crush/Jenlisagc.jpg`
-- `images/girl-crush/Highheelsgc.jpg`
-- `images/girl-crush/Outfitgc.jpg`
-- `images/girl-crush/Girlcrushkpop.jpg`
-- `images/girl-crush/Bootsgc.jpg`
-- `images/girl-crush/Whiplash.jpg`
-
 ## Source and attribution
 
-Text adapted from "Girl Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Girl_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Girl Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Girl_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

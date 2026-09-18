@@ -12,7 +12,6 @@ related_media: ["Pink Flamingos (1972)"]
 source_url: "https://aesthetics.fandom.com/wiki/Trailer_Park_Princess"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Trailer Park Princess
@@ -296,23 +295,6 @@ Anna Nicole Smith
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/trailer-park-princess/3dd28a2681618cf87e89c5ded272fa56.jpg`
-- `images/trailer-park-princess/S-l640338.jpg`
-- `images/trailer-park-princess/8ospromqueen.png`
-- `images/trailer-park-princess/2ad5e5cd1d31bdadd3153821f4f46125.jpg`
-- `images/trailer-park-princess/6518d483e77ad2a0ecc6efdbe8b11b94.jpg`
-- `images/trailer-park-princess/2fc7a6a6cfffe42299467cbcbced35bb.jpg`
-- `images/trailer-park-princess/7968f4f6541055db768d13a3ff5b1b67.jpg`
-- `images/trailer-park-princess/Aaaf985a00f082adc469495d2a4f5a82.jpg`
-- `images/trailer-park-princess/110a80cf415cd31fa218ac867010a1f2.jpg`
-- `images/trailer-park-princess/4f981e3bea4878f41691904d9346f896.jpg`
-- `images/trailer-park-princess/C155e62d053c3cab11a2aafc1b54f272.jpg`
-- `images/trailer-park-princess/Image-w1280.jpg`
-- `images/trailer-park-princess/EYeujmbX0AQBe-d.jpg`
-- `images/trailer-park-princess/Just-wanted-to-share-some-of-my-fav-lana-photos-v0-im1lxvrvcmta1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Trailer Park Princess" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trailer_Park_Princess), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Trailer Park Princess" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trailer_Park_Princess), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Cottagecore", "Gardencore", "Grandmacore", "Naturecore", "
 source_url: "https://aesthetics.fandom.com/wiki/Bloomcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 32
 ---
 
 # Bloomcore
@@ -67,41 +66,6 @@ The Basketball Diaries
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/bloomcore/0627eabaa6b652c85d57a4d6db22a7c3.jpg`
-- `images/bloomcore/Image7.jpg`
-- `images/bloomcore/Image11.jpg`
-- `images/bloomcore/Image5.jpg`
-- `images/bloomcore/Image3.jpg`
-- `images/bloomcore/D.jpeg`
-- `images/bloomcore/Image10.jpg`
-- `images/bloomcore/Image8.jpg`
-- `images/bloomcore/Gardencore.jpg`
-- `images/bloomcore/Image2.jpg`
-- `images/bloomcore/Image4.jpg`
-- `images/bloomcore/529b5177-e1a4-4f1b-9930-bf078a66c5c4.jpg`
-- `images/bloomcore/☻.jpg`
-- `images/bloomcore/Bloomcore.jpg`
-- `images/bloomcore/Aww.jpg`
-- `images/bloomcore/Image.jpg`
-- `images/bloomcore/Image1.jpg`
-- `images/bloomcore/Flowers.jpg`
-- `images/bloomcore/70c7c822f8b02018a168dcee70c0be5c.jpg`
-- `images/bloomcore/Cottagecore-fairycore-hd-wallpaper-preview.jpg`
-- `images/bloomcore/67fb0ecb1b62693fb863dae1305d1e39.jpg`
-- `images/bloomcore/Spring11.jpg`
-- `images/bloomcore/6b3dfc6ac9d3ff449650ce2171b2c860.jpg`
-- `images/bloomcore/0cc39a62f4caee698edb550602e072c2.jpg`
-- `images/bloomcore/Bloomers.jpg`
-- `images/bloomcore/Close-up.jpg`
-- `images/bloomcore/Colorful.jpg`
-- `images/bloomcore/Field.jpg`
-- `images/bloomcore/Spring9.jpg`
-- `images/bloomcore/Spring2.jpg`
-- `images/bloomcore/Spring5.jpg`
-- `images/bloomcore/Bloomcore1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bloomcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bloomcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bloomcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bloomcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

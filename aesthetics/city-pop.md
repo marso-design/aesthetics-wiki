@@ -9,7 +9,6 @@ palette: ["#1C1924", "#203963", "#4C3848", "#4E6383", "#BF888D", "#6D3E4C"]
 source_url: "https://aesthetics.fandom.com/wiki/City_Pop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # City Pop
@@ -100,16 +99,6 @@ Men's hairstyles are similar to women's hairstyles, being long and voluminous
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • **City Pop** • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/city-pop/BC776FB7-DD41-4593-B75B-F3520214DAB4.jpeg`
-- `images/city-pop/14194989-3482-4F54-A1BE-379796D4FADB.jpeg`
-- `images/city-pop/3FA18970-894F-4A54-860F-703820117E74.jpeg`
-- `images/city-pop/6DCA1403-C515-46ED-8F1C-6DE09ADB1CA8.jpeg`
-- `images/city-pop/B3223429-B743-45F6-AA65-E07940B2EE6E.jpeg`
-- `images/city-pop/E6E43C0C-705C-46C7-98B5-D3FDFE6CE2A1.jpeg`
-- `images/city-pop/Citypop1.png`
-
 ## Source and attribution
 
-Text adapted from "City Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/City_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "City Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/City_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

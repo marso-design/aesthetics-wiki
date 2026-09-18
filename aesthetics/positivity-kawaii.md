@@ -11,7 +11,6 @@ related_aesthetics: ["2014 Tumblr", "Galaxy Print", "Kawaii", "Live Laugh Love",
 source_url: "https://aesthetics.fandom.com/wiki/Positivity_Kawaii"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Positivity Kawaii
@@ -75,23 +74,6 @@ Pusheen: How to achieve your goals
 
 ## References
 
-## Images
-
-- `images/positivity-kawaii/PusheenPositivity.jpg`
-- `images/positivity-kawaii/5f611bd6cc0879867db399af3195d084.jpg`
-- `images/positivity-kawaii/956dc92be9003d59649f0bc15932aafb.jpg`
-- `images/positivity-kawaii/7770ee291de6652b6fc99b3b1fa5e645.jpg`
-- `images/positivity-kawaii/4f672e7b420a87eafd3bb36d7a46146c.jpg`
-- `images/positivity-kawaii/Wellnesskawaii.png`
-- `images/positivity-kawaii/Pk3.png`
-- `images/positivity-kawaii/Pk1.png`
-- `images/positivity-kawaii/Pk2.png`
-- `images/positivity-kawaii/Standout.jpg`
-- `images/positivity-kawaii/ME-TENEIS-FRONT-2022-1-700x700.jpg`
-- `images/positivity-kawaii/Coquettecroquette.png`
-- `images/positivity-kawaii/Pusheenicorn.png`
-- `images/positivity-kawaii/PusheenGoals.gif`
-
 ## Source and attribution
 
-Text adapted from "Positivity Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Positivity_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Positivity Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Positivity_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

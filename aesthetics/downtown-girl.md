@@ -10,7 +10,6 @@ related_aesthetics: ["Autumn", "Uptown Girl", "Thought Daughter"]
 source_url: "https://aesthetics.fandom.com/wiki/Downtown_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Downtown Girl
@@ -213,18 +212,6 @@ Downtown boy emerged around the same time as downtown girl, and the style has a 
 
 Downtown girl outfits - make up - routines - lifestyle - haul - TikTok compilation 📹💋🎸📚
 
-## Images
-
-- `images/downtown-girl/DowntownGirl.jpg`
-- `images/downtown-girl/8afa3092-6d83-468e-b9b8-acb22c99fccb.jpg`
-- `images/downtown-girl/Tytytytyty.jpg`
-- `images/downtown-girl/Bababa.jpg`
-- `images/downtown-girl/Mwahaha.jpg`
-- `images/downtown-girl/Doddod.jpg`
-- `images/downtown-girl/Coffees.jpg`
-- `images/downtown-girl/Screenshot.png`
-- `images/downtown-girl/034c4962-b037-43be-b836-8efff0b2a71d.jpg`
-
 ## Source and attribution
 
-Text adapted from "Downtown Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Downtown_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Downtown Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Downtown_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

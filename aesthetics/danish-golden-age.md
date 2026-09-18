@@ -11,7 +11,6 @@ related_aesthetics: ["Dutch Golden Age (influence)", "Realism", "Romanticism", "
 source_url: "https://aesthetics.fandom.com/wiki/Danish_Golden_Age"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Danish Golden Age
@@ -77,10 +76,6 @@ The Danish Golden Age is recognized as a formative period for Danish national id
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/danish-golden-age/ChristenKøbke-ViewOfTheNorthBastionOfTheCitadelInCopenhagen.jpg`
-
 ## Source and attribution
 
-Text adapted from "Danish Golden Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Danish_Golden_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Danish Golden Age" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Danish_Golden_Age), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

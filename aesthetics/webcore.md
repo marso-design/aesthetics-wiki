@@ -12,7 +12,6 @@ primary_platform: ["YouTube", "TikTok", "SoundCloud"]
 source_url: "https://aesthetics.fandom.com/wiki/Webcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 33
 ---
 
 # Webcore
@@ -149,42 +148,6 @@ Magdalena Bay - Secrets (Your Fire) (Official Video)
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/webcore/WebcoreAesthetic.jpg`
-- `images/webcore/WebcoreInfobox.jpg`
-- `images/webcore/Ena.jpg`
-- `images/webcore/E3af223aaff77bd17121de4b08ed2dd9.jpg`
-- `images/webcore/E69219c328e7fc94e016fa16e276d413.jpg`
-- `images/webcore/11b9ded97be1058e60fe51c117bc693b.jpg`
-- `images/webcore/2d33ccdb02f8d79b30ea80a1df4e0d31.jpg`
-- `images/webcore/Nanami.webp`
-- `images/webcore/0ed30556d1be87f72da80a1646c70bc4.jpg`
-- `images/webcore/F7c661f437da2026de3449525d685208.jpg`
-- `images/webcore/6db08bbb4ad798d3a6d81153b39ee80d.jpg`
-- `images/webcore/3e917ca86b17dd2bfa4dcbd339f69f88.jpg`
-- `images/webcore/C752e21c69fb9fc7be9f92d8df06ad81.jpg`
-- `images/webcore/2f6a517a0522e48bd05c99b721ac5ba6.jpg`
-- `images/webcore/D25a4f85ff067eb0c8026b018b9a24b8.jpg`
-- `images/webcore/06bbfac229a48cd95adebc269b0b6749.jpg`
-- `images/webcore/Ee3b75ff6e558a6b586a40bec421b9e7.jpg`
-- `images/webcore/26aa34356538e54a09bcc169a5dc8e3a.jpg`
-- `images/webcore/87f8b066ecf12d2648856746fa46d840.jpg`
-- `images/webcore/715a77f6c4c048a32987049ec455e114.jpg`
-- `images/webcore/8f2bee28263f9a7dc425350d970b622e.jpg`
-- `images/webcore/E0769ee6d564cdddd02af53f9347a862.jpg`
-- `images/webcore/E058c8956d8af784607fb0ca253da99c.jpg`
-- `images/webcore/Ed4d3460c5925591602da17ecf15ba1a.gif`
-- `images/webcore/Ab8542bb63aecc50b5f2da3e955a3939.jpg`
-- `images/webcore/9fb6eba33db80cea8c8d0ac9697e8670.jpg`
-- `images/webcore/6df9b5074cbd3e2980618914d04c37c2.jpg`
-- `images/webcore/79ed9fe263a22b23af60d321ce3e280d.gif`
-- `images/webcore/Onthefloor.jpg`
-- `images/webcore/466d1bb9a42aa7c59af2709f640947b7.jpg`
-- `images/webcore/9A445B32-D207-4B09-B033-DE589A37D635.jpg`
-- `images/webcore/SufferParty.png`
-- `images/webcore/WindowsXP2.png`
-
 ## Source and attribution
 
-Text adapted from "Webcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Webcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Webcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Webcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

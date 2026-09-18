@@ -11,7 +11,6 @@ primary_platform: ["Tumblr", "Pinterest"]
 source_url: "https://aesthetics.fandom.com/wiki/Babycore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Babycore
@@ -71,27 +70,6 @@ While some people who engage in age regression or are part of the ABDL community
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/babycore/Babycore.cover.jpeg`
-- `images/babycore/Babycore.jpeg`
-- `images/babycore/899ad80e3389065344cd6d53e156042a.jpg`
-- `images/babycore/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f365378624652754671596b4e45773d3d2d362e313566383338653361396364323832663938373938383930333437392e6a7067.jpeg`
-- `images/babycore/Cuteeeeeeee.jpg`
-- `images/babycore/Bbcore.jpg`
-- `images/babycore/5eb7fee00cc10c62e55d69fedbfcc531.jpeg`
-- `images/babycore/Babycoreee.jpg`
-- `images/babycore/Cinnamoroll.jpg`
-- `images/babycore/Milk-bottle-pink-white.jpg`
-- `images/babycore/Shortcake.jpg`
-- `images/babycore/D28F9A72-D44B-4D73-9B7B-AADE17F4DD47.jpeg`
-- `images/babycore/Tuxedosamm.jpg`
-- `images/babycore/Twinstarzzs.jpg`
-- `images/babycore/Sleepycore.jpg`
-- `images/babycore/Carebearz.jpg`
-- `images/babycore/Babycore1.jpg`
-- `images/babycore/Babycore2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Babycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Babycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Babycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Babycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

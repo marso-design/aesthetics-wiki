@@ -11,7 +11,6 @@ related_aesthetics: ["2014 Tumblr", "Baddie", "Bloghouse", "Hip-Hop", "Hypebeast
 source_url: "https://aesthetics.fandom.com/wiki/Swag"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Swag
@@ -40,13 +39,6 @@ The music of the Swag era was initially defined by the minimalist, synth-driven 
 
 ## References
 
-## Images
-
-- `images/swag/Swag1.jpg`
-- `images/swag/9ae57776e1ed216243232c1b80465f3b.jpg`
-- `images/swag/Hoodtraqp1.jpg`
-- `images/swag/11323003.jpg`
-
 ## Source and attribution
 
-Text adapted from "Swag" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Swag), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Swag" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Swag), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

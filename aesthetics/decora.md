@@ -13,7 +13,6 @@ primary_platform: ["Harajuku (street style)", "Instagram", "Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Decora"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Decora
@@ -142,20 +141,6 @@ Decoden
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/decora/CMxvALdUAAAJd9W.jpg`
-- `images/decora/Cybr.grl.jpg`
-- `images/decora/Decora01.jpg`
-- `images/decora/Decora02.jpg`
-- `images/decora/Decora03.jpg`
-- `images/decora/Decora04.jpg`
-- `images/decora/Decora05.jpg`
-- `images/decora/Kurebayasi1.jpg`
-- `images/decora/BlackDecora.png`
-- `images/decora/Decoden.jpg`
-- `images/decora/E82.jpg`
-
 ## Source and attribution
 
-Text adapted from "Decora" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Decora), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Decora" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Decora), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

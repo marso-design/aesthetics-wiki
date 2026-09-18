@@ -11,7 +11,6 @@ primary_platform: ["Fotolog.com"]
 source_url: "https://aesthetics.fandom.com/wiki/Flogger"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Flogger
@@ -53,22 +52,6 @@ How to be a flogger.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/flogger/Floggers1.jpg`
-- `images/flogger/Floggers12.jpg`
-- `images/flogger/Floggers11.jpg`
-- `images/flogger/Flogger10.jpg`
-- `images/flogger/Flogger9.jpg`
-- `images/flogger/Flogger8.jpg`
-- `images/flogger/Floggers7.jpg`
-- `images/flogger/Floggers6.jpg`
-- `images/flogger/Floggers5.webp`
-- `images/flogger/Flogger4.webp`
-- `images/flogger/Flogger3.jpg`
-- `images/flogger/Flogger2.jpg`
-- `images/flogger/Flogger1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Flogger" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Flogger), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Flogger" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Flogger), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

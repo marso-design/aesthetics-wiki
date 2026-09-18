@@ -10,7 +10,6 @@ related_aesthetics: ["Bondage", "Communist Chic", "Electronic Body Music", "Glam
 source_url: "https://aesthetics.fandom.com/wiki/Nazi_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Nazi Chic
@@ -70,13 +69,6 @@ NACHTMAHR – Beweg Dich! (Official Video)
 
 ## References
 
-## Images
-
-- `images/nazi-chic/Destroy.png`
-- `images/nazi-chic/NaziChicModel.jpg`
-- `images/nazi-chic/MadchenInUniform.jpg`
-- `images/nazi-chic/Boylondon.jpg`
-
 ## Source and attribution
 
-Text adapted from "Nazi Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nazi_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nazi Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nazi_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

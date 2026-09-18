@@ -12,7 +12,6 @@ related_media: ["Twee: The Gentle Revolution in Music", "Books", "Television", "
 source_url: "https://aesthetics.fandom.com/wiki/Twee"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Twee
@@ -351,16 +350,6 @@ Big Fish (2003)
 
 ## References
 
-## Images
-
-- `images/twee/Twee.jpg`
-- `images/twee/KateNash.jpeg`
-- `images/twee/Talulah.jpg`
-- `images/twee/Lenka.jpeg`
-- `images/twee/Amelie.jpg`
-- `images/twee/Heavenlytwee.jpg`
-- `images/twee/Blueboy.jpg`
-
 ## Source and attribution
 
-Text adapted from "Twee" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Twee), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Twee" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Twee), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

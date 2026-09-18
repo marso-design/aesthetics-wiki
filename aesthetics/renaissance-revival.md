@@ -10,7 +10,6 @@ related_media: ["Ever After (1998)", "Romeo + Juliet", "Elizabeth (1998)"]
 source_url: "https://aesthetics.fandom.com/wiki/Renaissance_Revival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Renaissance Revival
@@ -56,19 +55,6 @@ Enya - Book Of Days (Official Music Video)
 * <https://www.facebook.com/groups/819131621545040>
 * <https://cari.institute/aesthetics/renaissance-revival>
 
-## Images
-
-- `images/renaissance-revival/Sixpence.jpg`
-- `images/renaissance-revival/R-2195662-1462072374-9506.jpg`
-- `images/renaissance-revival/R-2195662-1673711128-2582.jpg`
-- `images/renaissance-revival/R-2195662-1673711130-1736.jpg`
-- `images/renaissance-revival/R-2195662-1673711129-1955.jpg`
-- `images/renaissance-revival/R-2195662-1673711130-2679.jpg`
-- `images/renaissance-revival/Bjork.webp`
-- `images/renaissance-revival/Bio-morph.png`
-- `images/renaissance-revival/Madonna-as-norma-from-a-promo-poster-for-the-1999-mtv-video-v0-x04zygmv86nd1.webp`
-- `images/renaissance-revival/Y2k-or-1990s-renaissance-revival-vibes-v0-h4nnh9rerkgf1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Renaissance Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Renaissance_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Renaissance Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Renaissance_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

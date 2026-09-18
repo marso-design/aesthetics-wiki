@@ -11,7 +11,6 @@ related_aesthetics: ["Bohemian", "Cubism", "Curly Girly", "Earth Tones", "Eco-Be
 source_url: "https://aesthetics.fandom.com/wiki/Global_Village_Coffeehouse"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 32
 ---
 
 # Global Village Coffeehouse
@@ -240,41 +239,6 @@ Troubles the Cat S. 1 episode 1 crayon story designed by Santiago Cohen
 
 ## References
 
-## Images
-
-- `images/global-village-coffeehouse/Rushshow.jpeg`
-- `images/global-village-coffeehouse/Wecantdance.png`
-- `images/global-village-coffeehouse/Belcanto.png`
-- `images/global-village-coffeehouse/Hewson.png`
-- `images/global-village-coffeehouse/Fruitopia.png`
-- `images/global-village-coffeehouse/GVC11.png`
-- `images/global-village-coffeehouse/GVC7.png`
-- `images/global-village-coffeehouse/GVC3.png`
-- `images/global-village-coffeehouse/GVC1.png`
-- `images/global-village-coffeehouse/Mattarello.png`
-- `images/global-village-coffeehouse/ABCGVC.jpeg`
-- `images/global-village-coffeehouse/AdobeAcrobat5CDCover.jpg`
-- `images/global-village-coffeehouse/GVC8.png`
-- `images/global-village-coffeehouse/Starbuckscafe.png`
-- `images/global-village-coffeehouse/PeteSahutCoffee.jpeg`
-- `images/global-village-coffeehouse/GVC6.jpg`
-- `images/global-village-coffeehouse/GVC4.png`
-- `images/global-village-coffeehouse/Theearth.png`
-- `images/global-village-coffeehouse/EyeInDaSky.jpeg`
-- `images/global-village-coffeehouse/Pantone.png`
-- `images/global-village-coffeehouse/GVC2.png`
-- `images/global-village-coffeehouse/GVC14.jpg`
-- `images/global-village-coffeehouse/Dancing.jpeg`
-- `images/global-village-coffeehouse/Cocahits.png`
-- `images/global-village-coffeehouse/TheCountyNews.jpeg`
-- `images/global-village-coffeehouse/GVC5.png`
-- `images/global-village-coffeehouse/ThisIsn’tNintendo.png`
-- `images/global-village-coffeehouse/Undercover.jpeg`
-- `images/global-village-coffeehouse/CrapterNoons.jpeg`
-- `images/global-village-coffeehouse/GVC13.png`
-- `images/global-village-coffeehouse/GVC12.jpg`
-- `images/global-village-coffeehouse/XTC.jpg`
-
 ## Source and attribution
 
-Text adapted from "Global Village Coffeehouse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Global_Village_Coffeehouse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Global Village Coffeehouse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Global_Village_Coffeehouse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

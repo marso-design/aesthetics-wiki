@@ -9,7 +9,6 @@ palette: ["#FFFFFF", "#101111", "#626253", "#9B8C77", "#D7CCC3", "#C6B5A9"]
 source_url: "https://aesthetics.fandom.com/wiki/Spirited_Lad"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Spirited Lad
@@ -50,15 +49,6 @@ The subculture gained wide attention in the 2020s, with the spread of memes orig
 
 ## Gallery
 
-## Images
-
-- `images/spirited-lad/SpiritualLad-4.jpeg`
-- `images/spirited-lad/SpiritualLad-1.jpeg`
-- `images/spirited-lad/SpiritualLad-2.png`
-- `images/spirited-lad/SpiritualLad-3.jpeg`
-- `images/spirited-lad/SpiritualLad-5.jpeg`
-- `images/spirited-lad/SpiritualLad-6.gif`
-
 ## Source and attribution
 
-Text adapted from "Spirited Lad" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spirited_Lad), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Spirited Lad" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spirited_Lad), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

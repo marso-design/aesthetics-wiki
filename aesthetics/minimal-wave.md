@@ -11,7 +11,6 @@ related_media: ["Minimal Wave Records"]
 source_url: "https://aesthetics.fandom.com/wiki/Minimal_Wave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Minimal Wave
@@ -250,25 +249,6 @@ Linea Aspera - Malarone
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/minimal-wave/Synthesize.jpg`
-- `images/minimal-wave/ColdWavesAndMinimalElectronics.jpg`
-- `images/minimal-wave/NextWaveAcidPunxDeux.jpg`
-- `images/minimal-wave/R-3973268-1364355273-3000.jpg`
-- `images/minimal-wave/Artworks-000068620810-l6j762-t500x500.jpg`
-- `images/minimal-wave/SpyThriller.jpg`
-- `images/minimal-wave/DeuxGoldenDreams.jpg`
-- `images/minimal-wave/R-4838686-1427218063-7578.jpeg.jpg`
-- `images/minimal-wave/TechniquesBerlin.jpg`
-- `images/minimal-wave/BalPare.jpg`
-- `images/minimal-wave/Artworks-000268670543-0hb7nh-t500x500.jpg`
-- `images/minimal-wave/Oppenheimeranalysis.jpg`
-- `images/minimal-wave/1900x1900-000000-80-0-0.jpg`
-- `images/minimal-wave/TenthPlanet.jpg`
-- `images/minimal-wave/Topiary.jpg`
-- `images/minimal-wave/NearMarineland.jpg`
-
 ## Source and attribution
 
-Text adapted from "Minimal Wave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Minimal_Wave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Minimal Wave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Minimal_Wave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

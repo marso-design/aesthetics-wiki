@@ -10,7 +10,6 @@ palette: ["#120F09", "#233224", "#434E36", "#6D664D", "#6C4F37", "#718163"]
 source_url: "https://aesthetics.fandom.com/wiki/Nostalgiacore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Nostalgiacore
@@ -115,16 +114,6 @@ kids on Christmas morning in the 2000s
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/nostalgiacore/B5ff2b652d4ae5145feaddc26344a5d4.jpg`
-- `images/nostalgiacore/Sprinkler.jpg`
-- `images/nostalgiacore/Fireworks.jpg`
-- `images/nostalgiacore/BALLOONS.jpg`
-- `images/nostalgiacore/81bd4b9ba36e5213624761172175ace6.jpg`
-- `images/nostalgiacore/0c4153174f4903391c80e72813e755b8.jpg`
-- `images/nostalgiacore/03-27-2015.jpg`
-
 ## Source and attribution
 
-Text adapted from "Nostalgiacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nostalgiacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nostalgiacore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nostalgiacore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

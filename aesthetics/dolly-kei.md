@@ -11,7 +11,6 @@ related_media: ["The Brother's Grimm and Hans Christian Anderson books"]
 source_url: "https://aesthetics.fandom.com/wiki/Dolly_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Dolly Kei
@@ -74,20 +73,6 @@ While Dolly Kei is mainly based on visuals, there are some activities that are c
 
 ## References
 
-## Images
-
-- `images/dolly-kei/Antiquekei.jpg`
-- `images/dolly-kei/Grimoire1.jpg`
-- `images/dolly-kei/Antiquekei01.jpg`
-- `images/dolly-kei/Antiquekei02.jpg`
-- `images/dolly-kei/Antiquekei03.jpg`
-- `images/dolly-kei/Grimoire2.jpg`
-- `images/dolly-kei/Antiquekei04.jpg`
-- `images/dolly-kei/Antiquekei05.jpg`
-- `images/dolly-kei/Antiquekei06.jpg`
-- `images/dolly-kei/Antiquekei07.jpg`
-- `images/dolly-kei/Grimoire3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dolly Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dolly_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dolly Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dolly_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

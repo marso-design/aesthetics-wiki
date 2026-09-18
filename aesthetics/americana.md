@@ -5,7 +5,6 @@ palette: ["#5A3733", "#261516", "#A89C93", "#69544E", "#86756D", "#BE7D78"]
 source_url: "https://aesthetics.fandom.com/wiki/Americana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 49
 ---
 
 # Americana
@@ -94,58 +93,6 @@ Andy Warhol's "Marilyn Diptych," an iconic piece of American Pop Art.
 
 A traditional American Biker vest, known as a "kutte."
 
-## Images
-
-- `images/americana/Iojfovaidjodcadiocpk;mdl;lamkl.jpg`
-- `images/americana/Shadow-rider.jpg`
-- `images/americana/Like-i-said-plenty-of.jpg`
-- `images/americana/Dier.jpg`
-- `images/americana/@themiamidiner.jpg`
-- `images/americana/Rockabilly-Style-1.webp`
-- `images/americana/852e5dbb-2346-46eb-b345-de00d99d7480.png`
-- `images/americana/156dc3d62468cc1cf726ca07a5ec1544.jpg`
-- `images/americana/What-is-rocakbilly-style-everything-you-wanted-to-know-6.jpg`
-- `images/americana/91023i-9e0o32qe0ow.jpg`
-- `images/americana/D32378f4f4eaa9011b52a6b776245056.jpg`
-- `images/americana/Publicity-still-The-Outsiders-1983-Directed-by-Francis-Ford-Coppola-book-by-SE-Hinton-Matt-Dillon-Ralph-Macchio.webp`
-- `images/americana/Danny-zuko-from-grease.jpg`
-- `images/americana/Pictures-of-1950s-Greasers-That-Prove-The-Stereotypes-Are-True-483x600.jpg`
-- `images/americana/Jmkkjlmksl.ols'pk.jpg`
-- `images/americana/Hi39ipxqow.jpg`
-- `images/americana/Jhhjilhlikjihijk.jk.jpg`
-- `images/americana/Wdiohcwdddjodojc.jpg`
-- `images/americana/A6c83efcc74d5f83d4683045c6a2beeb.jpg`
-- `images/americana/5d80fb4a6f24eb00c77a844a.webp`
-- `images/americana/1950s-two-story-home-2490936.webp`
-- `images/americana/3784db89ff468d64b1e7539b760c713d.jpg`
-- `images/americana/Caption.jpg`
-- `images/americana/Route-66-scenes-in-oklahoma-v0-o4ce8tkjl3ef1.jpg`
-- `images/americana/Jkkj.jpg`
-- `images/americana/3afff5be1b752e16e607d5b4f0188288.jpg`
-- `images/americana/7778.jpg`
-- `images/americana/Lichtenstein-hopeless-roy-lichtenstein.webp`
-- `images/americana/C4f3f9ab6f528820611d866b7a1c1c29.webp`
-- `images/americana/Popart1212.jpg`
-- `images/americana/Pop+art+9.webp`
-- `images/americana/Pop+art+7.webp`
-- `images/americana/Roy-Lichtenstein-Sea-Shore-1964.jpg`
-- `images/americana/Ioijj;okdjjfkdlj.jpg`
-- `images/americana/Biker-style.jpg`
-- `images/americana/Dikmiapkxcklk;.jpg`
-- `images/americana/13dc-harley-2-jumbo.webp`
-- `images/americana/Sgaesthetic.jpg`
-- `images/americana/Dark-southern-gothic-true-detective-season-1-sort-of-feeling-v0-n3utinl50hnc1.webp`
-- `images/americana/Southern-gothic-horror-v0-lud8eycoa0zg1.webp`
-- `images/americana/Southern-gothic-dark-swampy-aesthetic-v0-bamxbjnibhng1.jpg`
-- `images/americana/Pkp.jpg`
-- `images/americana/Hoijjjj.jpg`
-- `images/americana/Traditional-hot-rods-photo-gallery-428.webp`
-- `images/americana/Black-And-Red-Hot-Rod-2-Hot-Rod-History-Motor-Speed-News.webp`
-- `images/americana/Downtown-hot-rod-v0-65zsqfgcdx5e1.webp`
-- `images/americana/B694ddfc05df529653fbc49fa1284680.jpg`
-- `images/americana/E64cffdf68757de05aee9f1cf05b20e8.jpg`
-- `images/americana/Teepeecurios.jpg`
-
 ## Source and attribution
 
-Text adapted from "Americana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Americana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Americana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Americana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

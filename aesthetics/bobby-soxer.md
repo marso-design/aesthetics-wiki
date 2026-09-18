@@ -12,7 +12,6 @@ related_media: ["The Bachelor and the Bobby-Soxer (1947 Film)", "Seventeen Magaz
 source_url: "https://aesthetics.fandom.com/wiki/Bobby-Soxer"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Bobby-Soxer
@@ -82,26 +81,6 @@ The behaviors and aesthetic of the Bobby-Soxers elicited widespread concern amon
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/bobby-soxer/BobbySoxers.jpg`
-- `images/bobby-soxer/Bobby-soxers-17.jpg`
-- `images/bobby-soxer/Bobby-soxers-13.jpg`
-- `images/bobby-soxer/Bobby-soxers-11.jpg`
-- `images/bobby-soxer/Bobby-soxers-14.jpg`
-- `images/bobby-soxer/Bobby-soxers-10.jpg`
-- `images/bobby-soxer/Bobby-soxers-16.jpg`
-- `images/bobby-soxer/Bobby-soxers-12.jpg`
-- `images/bobby-soxer/Bobby-soxers-8.jpg`
-- `images/bobby-soxer/Bobby-soxers-5.jpg`
-- `images/bobby-soxer/Bobby-soxers-7.jpg`
-- `images/bobby-soxer/Bobby-soxers-2.jpg`
-- `images/bobby-soxer/E73d198e7a4fca157848934db5e53855.jpg`
-- `images/bobby-soxer/Bobby-soxers-4.jpg`
-- `images/bobby-soxer/Bobby-soxers-3.jpg`
-- `images/bobby-soxer/Bobby-soxer-1950s-jpg.webp`
-- `images/bobby-soxer/1950s-bobby-soxer-socks-jpg.webp`
-
 ## Source and attribution
 
-Text adapted from "Bobby-Soxer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bobby-Soxer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bobby-Soxer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bobby-Soxer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ related_aesthetics: ["Adventurecore", "Americana", "Campcore", "Cottagecore", "P
 source_url: "https://aesthetics.fandom.com/wiki/American_Pioneers"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # American Pioneers
@@ -234,4 +233,4 @@ Little House on the Prairie
 
 ## Source and attribution
 
-Text adapted from "American Pioneers" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/American_Pioneers), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "American Pioneers" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/American_Pioneers), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

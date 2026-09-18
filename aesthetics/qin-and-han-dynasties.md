@@ -7,7 +7,6 @@ palette: ["#0A0A0A", "#4C463D", "#2E2C27", "#9A9A90", "#685245", "#7B756A"]
 source_url: "https://aesthetics.fandom.com/wiki/Qin_and_Han_Dynasties"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 30
 ---
 
 # Qin and Han Dynasties
@@ -153,39 +152,6 @@ Feng patterns from Han lacquerware (credit needed)
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/qin-and-han-dynasties/QinHan-SishenWadang.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Embroidery1.jpeg`
-- `images/qin-and-han-dynasties/QinHan-LiuboPatternMirror.jpeg`
-- `images/qin-and-han-dynasties/QinHan-TerracottaArmy.jpeg`
-- `images/qin-and-han-dynasties/QinHan-FlyingHorseOfGansu.jpeg`
-- `images/qin-and-han-dynasties/QinHan-StorytellerBeatingADrum.jpeg`
-- `images/qin-and-han-dynasties/QinHan-SishenMural.jpeg`
-- `images/qin-and-han-dynasties/QinHan-马王堆一号汉墓T型帛画Painting.jpeg`
-- `images/qin-and-han-dynasties/QinHan-HarvestBrick.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Liubo.jpeg`
-- `images/qin-and-han-dynasties/QinHan-LacquerDish.jpeg`
-- `images/qin-and-han-dynasties/QinHan-LacquerLianCase.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Fashion1.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Fashion2.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Fashion3.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Fashion4.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Modern.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Modern2.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Modern3.jpeg`
-- `images/qin-and-han-dynasties/QinHan-SishenPushou.png`
-- `images/qin-and-han-dynasties/QinHan-BronzeRhinoZun.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Boshanlu.jpeg`
-- `images/qin-and-han-dynasties/QinHan-LianMirrorCase.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Embroidery2.jpeg`
-- `images/qin-and-han-dynasties/QinHan-LiuboAndTextMirror.jpeg`
-- `images/qin-and-han-dynasties/QinHan-QinHuntingBrick.jpeg`
-- `images/qin-and-han-dynasties/QinHan-HanSaltMiningBrick.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Pattern2.jpeg`
-- `images/qin-and-han-dynasties/QinHan-Pattern.jpeg`
-- `images/qin-and-han-dynasties/QinHan-洛阳卜千秋墓壁画Mural.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Qin and Han Dynasties" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Qin_and_Han_Dynasties), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Qin and Han Dynasties" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Qin_and_Han_Dynasties), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

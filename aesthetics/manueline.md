@@ -10,7 +10,6 @@ related_aesthetics: ["Baroque", "Gothic", "Italian Renaissance", "Mudéjar", "Na
 source_url: "https://aesthetics.fandom.com/wiki/Manueline"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Manueline
@@ -184,14 +183,6 @@ Cloister, Jerónimos Monastery.
 
 ## References
 
-## Images
-
-- `images/manueline/TorreBelem.jpg`
-- `images/manueline/Batalhamonastery.png`
-- `images/manueline/TorreBelem2.jpg`
-- `images/manueline/ConventoCristo.jpg`
-- `images/manueline/JeronimosCloister.jpg`
-
 ## Source and attribution
 
-Text adapted from "Manueline" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Manueline), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Manueline" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Manueline), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

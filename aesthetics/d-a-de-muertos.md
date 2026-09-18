@@ -10,7 +10,6 @@ related_aesthetics: ["Autumn Aesthetic", "Halloween Aesthetic"]
 source_url: "https://aesthetics.fandom.com/wiki/Día_De_Muertos"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Día De Muertos
@@ -35,10 +34,6 @@ The visuals of Día de los Muertos (or Day Of The Dead) is vibrant, colourful an
 
 Coco (2019)
 
-## Images
-
-- `images/d-a-de-muertos/DayoftheDead-1.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Día De Muertos" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Día_De_Muertos), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Día De Muertos" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Día_De_Muertos), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

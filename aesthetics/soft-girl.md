@@ -10,7 +10,6 @@ related_aesthetics: ["Babycore", "Coquette", "Delicate Sweet", "E-Girl", "Hallyu
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Soft Girl
@@ -59,22 +58,6 @@ KidJess
 
 ## References
 
-## Images
-
-- `images/soft-girl/Kawaiisoftie.jpg`
-- `images/soft-girl/Softgirl.png`
-- `images/soft-girl/Afe9a18cf24899f194757e28db11e8de.jpg`
-- `images/soft-girl/4ad70b1d529f82cf1db44b30c1fd1cbe.jpg`
-- `images/soft-girl/Lilypichu-Instagram-selfie-787x1024.webp`
-- `images/soft-girl/80a9c8fd1e641cafdf38a18ca72459c5.png`
-- `images/soft-girl/Original64633.jpg`
-- `images/soft-girl/386b77a44149219ea9ea7ff67e47c23a.jpg`
-- `images/soft-girl/869125418241862348345886461.jpg`
-- `images/soft-girl/Ra398bb36a4acec7710cbb756a6bcba99.jpeg`
-- `images/soft-girl/Milk-pink-skirt.jpg`
-- `images/soft-girl/Milk-pink-skirts.jpg`
-- `images/soft-girl/Milk-sweater-bag.webp`
-
 ## Source and attribution
 
-Text adapted from "Soft Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Soft Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

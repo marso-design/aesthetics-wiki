@@ -9,7 +9,6 @@ related_aesthetics: ["Classicism", "Empire Style", "Neoclassicism", "Romanticism
 source_url: "https://aesthetics.fandom.com/wiki/Biedermeier"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Biedermeier
@@ -66,4 +65,4 @@ The aesthetic is characterized by its emphasis on simplicity, functionality, com
 
 ## Source and attribution
 
-Text adapted from "Biedermeier" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Biedermeier), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Biedermeier" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Biedermeier), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

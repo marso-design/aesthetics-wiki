@@ -11,7 +11,6 @@ related_media: ["The Blair Witch Project", "Twin Peaks"]
 source_url: "https://aesthetics.fandom.com/wiki/Witch_House"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Witch House
@@ -144,22 +143,6 @@ An Okkvlt Guide to Twin Peaks
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/witch-house/Niklas.jpg`
-- `images/witch-house/Maxresdefaultwitchhouse2.jpg`
-- `images/witch-house/Maxresdefaultwitchhouse.jpg`
-- `images/witch-house/Clams-casino-live-netherlands.jpg`
-- `images/witch-house/Teens-drugs-and-hiv-jokes-welcome-to-witch-house-in-russia-body-image-1434527870.webp`
-- `images/witch-house/815147939471165.jpg`
-- `images/witch-house/Twinx.jpg`
-- `images/witch-house/Witch1.jpg`
-- `images/witch-house/Witch2.jpg`
-- `images/witch-house/Witch3.jpg`
-- `images/witch-house/Witch4.jpg`
-- `images/witch-house/Witch5.png`
-- `images/witch-house/Witch-house-okkvlt-guide-to-twin-peaks-vol-3.png`
-
 ## Source and attribution
 
-Text adapted from "Witch House" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Witch_House), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Witch House" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Witch_House), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

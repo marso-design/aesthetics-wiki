@@ -12,7 +12,6 @@ related_media: ["macOS Big Sur (partial adoption)"]
 source_url: "https://aesthetics.fandom.com/wiki/Neumorphism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Neumorphism
@@ -95,15 +94,6 @@ Microsoft's Fluent 2 illustrations (2024)
 
 ## References
 
-## Images
-
-- `images/neumorphism/NeoKeyboard.png`
-- `images/neumorphism/Neomorphism2.png`
-- `images/neumorphism/1a2471a944cd702b5f9bbd6a85edf7a8.jpg`
-- `images/neumorphism/LqDbojzvFtqvPkhxexrLTH.jpg`
-- `images/neumorphism/892b65f6-b82b-49d0-8988-6236aff4de03.jpg`
-- `images/neumorphism/04TytR3y0cbyphD1vsWSxPa-2.webp`
-
 ## Source and attribution
 
-Text adapted from "Neumorphism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neumorphism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neumorphism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neumorphism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

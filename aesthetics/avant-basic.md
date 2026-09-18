@@ -10,7 +10,6 @@ related_aesthetics: ["Danish Pastel", "Dopamine", "Gen Z Maximalism", "Indie Kid
 source_url: "https://aesthetics.fandom.com/wiki/Avant_Basic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Avant Basic
@@ -82,19 +81,6 @@ Social media's influence is also noted, with influencers promoting constant cons
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/avant-basic/AvantBasic.jpg`
-- `images/avant-basic/615d347b2979851af0948b5ea0256ba0.jpg`
-- `images/avant-basic/3bddac5775f37248dc42f32ecfe60ad9.jpg`
-- `images/avant-basic/35b902d655b27210576f1c8b6670bc33.jpg`
-- `images/avant-basic/E6240e073a5c921ef69e9a139065f7c6.jpg`
-- `images/avant-basic/656789bccb1da22c666477f32dffcf68.jpg`
-- `images/avant-basic/Cf9c23c669da008bbbf269f689a5de19.jpg`
-- `images/avant-basic/10477989.webp`
-- `images/avant-basic/9e347c6c4ea166402eb59c6bd4d00647.jpg`
-- `images/avant-basic/A16142ab96216c185eda7734454c4e35.jpg`
-
 ## Source and attribution
 
-Text adapted from "Avant Basic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Avant_Basic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Avant Basic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Avant_Basic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ primary_platform: ["TikTok", "Pinterest", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Candycore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Candycore
@@ -73,24 +72,6 @@ Pinkie Pie's gala dress from the TV show My Little Pony: Friendship is Magic.
 
 ## References
 
-## Images
-
-- `images/candycore/Pip-and-pop.webp`
-- `images/candycore/So-much-candy-garry-gay.jpg`
-- `images/candycore/Candy!.jpg`
-- `images/candycore/Watermelons.jpg`
-- `images/candycore/Snacks.jpg`
-- `images/candycore/Sweets.png`
-- `images/candycore/Wp8335105-candycore-wallpapers.jpg`
-- `images/candycore/BlueTaffy.jpg`
-- `images/candycore/3520ffbc73616172a0337108e9e61201.jpg`
-- `images/candycore/D23ba6cf5b3742f3c63d0b1486639c02.jpg`
-- `images/candycore/Candycore-hearts.jpg`
-- `images/candycore/Hersheys.png`
-- `images/candycore/Candy1.jpg`
-- `images/candycore/Ladeedasweetparty.jpg`
-- `images/candycore/Pinkiepie-gala-dress.png`
-
 ## Source and attribution
 
-Text adapted from "Candycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Candycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Candycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Candycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ palette: ["#3E0506", "#7E450C", "#7883B0", "#4CB1FD", "#941507", "#C98441"]
 source_url: "https://aesthetics.fandom.com/wiki/Silicon_Dreams"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 34
 ---
 
 # Silicon Dreams
@@ -406,43 +405,6 @@ Yr So Wet 3.0 - Ultrademon + Dj Kiff - "Bubbles" SPLASH008-2
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/silicon-dreams/Scene1.jpg`
-- `images/silicon-dreams/Tubes.jpg`
-- `images/silicon-dreams/Newgaia.jpg`
-- `images/silicon-dreams/HD-wallpaper-volleyball-in-space-games-fantasy-3d-balls-space-volleyball-abstract.jpg`
-- `images/silicon-dreams/Wp2047209-king-crimson-wallpapers.jpg`
-- `images/silicon-dreams/Sunset-Bubbles.jpg`
-- `images/silicon-dreams/Bobo.jpg`
-- `images/silicon-dreams/Gege.jpg`
-- `images/silicon-dreams/Gbigb.jpg`
-- `images/silicon-dreams/Feygdg.jpg`
-- `images/silicon-dreams/Fifofe.jpg`
-- `images/silicon-dreams/Pxfuel.jpg`
-- `images/silicon-dreams/2292-58f7b2f9.jpg`
-- `images/silicon-dreams/2273-a9723421.jpg`
-- `images/silicon-dreams/2285-d8f5c4cc.jpg`
-- `images/silicon-dreams/Planeta-extranjero-512762.jpg`
-- `images/silicon-dreams/Dnb.jpg`
-- `images/silicon-dreams/Extranjero-de-la-fantas-rocas-y-lago-50830880.jpg`
-- `images/silicon-dreams/Istockphoto-518735182-1024x1024.jpg`
-- `images/silicon-dreams/Istockphoto-1219849219-1024x1024.jpg`
-- `images/silicon-dreams/Istockphoto-515680536-1024x1024.jpg`
-- `images/silicon-dreams/Istockphoto-467441122-1024x1024.jpg`
-- `images/silicon-dreams/Istockphoto-541272286-1024x1024.jpg`
-- `images/silicon-dreams/Static-assets-upload1638145428209166498.webp`
-- `images/silicon-dreams/Static-assets-upload9110435610099007674.webp`
-- `images/silicon-dreams/Static-assets-upload4924180753848085475.webp`
-- `images/silicon-dreams/Static-assets-upload16816437607879265230.webp`
-- `images/silicon-dreams/787a4ccfd91b06ac17e6dfbc196229b8.jpg`
-- `images/silicon-dreams/98cd95a9b2c3b2cd06ac2b1b70e74f30.jpg`
-- `images/silicon-dreams/5227fad75219b2c0b26e9307d82822c8.jpg`
-- `images/silicon-dreams/Artworks-VE8ArRAf5jyjvAYH-Xwh8Uw-t500x500.jpg`
-- `images/silicon-dreams/E7M-FAcVIAEBK8D.jpg`
-- `images/silicon-dreams/Ed0AAQAU4AAFsar.png`
-- `images/silicon-dreams/C0b2db16303ae4322f6afa0e8328cb00170fc294.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Silicon Dreams" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Silicon_Dreams), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Silicon Dreams" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Silicon_Dreams), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

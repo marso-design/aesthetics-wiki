@@ -10,7 +10,6 @@ related_aesthetics: ["Adventurecore", "Dieselpunk", "Safari Chic", "Steampunk", 
 source_url: "https://aesthetics.fandom.com/wiki/Adventure_Pulp"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Adventure Pulp
@@ -66,22 +65,6 @@ The following works are considered the most essential and visually influential e
 
 ## Gallery
 
-## Images
-
-- `images/adventure-pulp/Adventureprops.jpg`
-- `images/adventure-pulp/8b4adf6c3d34867445f3bb2f0d2cb732.jpg`
-- `images/adventure-pulp/648aace4d13c47d47f8023c8c78504ac.jpg`
-- `images/adventure-pulp/019af8c28403556730a8234d693d7cea.jpg`
-- `images/adventure-pulp/11951a1816cb0cd4d7f5a54d651486b7.jpg`
-- `images/adventure-pulp/6e4910c6c2031cad9b74b601fd1487c9.jpg`
-- `images/adventure-pulp/811eb0bca0d16e1898ee668cd791bea4.jpg`
-- `images/adventure-pulp/261abf40c740e0de2dfa7ad2385795ec.jpg`
-- `images/adventure-pulp/7b607aad39f12615c0554945328967c5.jpg`
-- `images/adventure-pulp/82624313c048afc4243d1d31fc300b4d.jpg`
-- `images/adventure-pulp/05a123d1d0d49f3ba8f1e7db0f99cdd1.jpg`
-- `images/adventure-pulp/698e80e6fcb2919c77ea888ee0a89513.jpg`
-- `images/adventure-pulp/4f8f264345c5b6126d8c43019ae3811d.jpg`
-
 ## Source and attribution
 
-Text adapted from "Adventure Pulp" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Adventure_Pulp), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Adventure Pulp" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Adventure_Pulp), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

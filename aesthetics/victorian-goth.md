@@ -11,7 +11,6 @@ related_aesthetics: ["Darkest Academia", "Goth", "Romantic Goth", "Steampunk", "
 source_url: "https://aesthetics.fandom.com/wiki/Victorian_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Victorian Goth
@@ -137,13 +136,6 @@ Victorian Goth music is very similar to Victorian music, but has a slower and da
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/victorian-goth/Victoriangoth5.jpg`
-- `images/victorian-goth/Victoriagoth4.jpg`
-- `images/victorian-goth/Victoriangoth2.jpg`
-- `images/victorian-goth/Victoriangoth1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Victorian Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Victorian_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Victorian Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Victorian_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

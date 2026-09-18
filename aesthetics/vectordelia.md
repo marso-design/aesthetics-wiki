@@ -12,7 +12,6 @@ related_media: ["Just Dance (1-3)", "Rayman Origins", "iPod silhouette commercia
 source_url: "https://aesthetics.fandom.com/wiki/Vectordelia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 77
 ---
 
 # Vectordelia
@@ -379,86 +378,6 @@ Girls' Generation 소녀시대 '비주얼 드림 (POP! POP!) MV
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/vectordelia/Metrooooooooo.png`
-- `images/vectordelia/Metro6.png`
-- `images/vectordelia/Vector-Music-Background-with-Speaker-and-Microphone.jpg`
-- `images/vectordelia/512d49c2c9795b0c0f0e0a1fb15eb135.jpg`
-- `images/vectordelia/0obrmvaf2bha1.webp`
-- `images/vectordelia/4lpyewaf2bha1.webp`
-- `images/vectordelia/Sk4zpvaf2bha1.webp`
-- `images/vectordelia/6oo6dvaf2bha1.webp`
-- `images/vectordelia/Fzt5ywaf2bha1.webp`
-- `images/vectordelia/Gblm0waf2bha1.webp`
-- `images/vectordelia/Bbuq76bf2bha1.webp`
-- `images/vectordelia/Yftov6bf2bha1.webp`
-- `images/vectordelia/V2fxsvaf2bha1.webp`
-- `images/vectordelia/JerkItOut.jpeg`
-- `images/vectordelia/Xbox360arcadeboxart.jpg`
-- `images/vectordelia/Vince-staples-vicoden.jpg`
-- `images/vectordelia/サイハテ.jpg`
-- `images/vectordelia/Blogyrosa.png`
-- `images/vectordelia/E6f4e5b273f8bc8a9264f708cd833cbb.jpg`
-- `images/vectordelia/C0c3cd2147247be7d0373adf01cefe84.jpg`
-- `images/vectordelia/Dho9g2v-4508b106-3263-46d1-893f-eb40fa3ecf22.jpg`
-- `images/vectordelia/Vector-drawing-pattern-plant-wallpaper-preview.jpg`
-- `images/vectordelia/Aero.png`
-- `images/vectordelia/69a60f001389c83a8f1f636c93710672.jpg`
-- `images/vectordelia/3da6b175c4d7ef189bab2d53d1066c77.jpg`
-- `images/vectordelia/Mettroooo.png`
-- `images/vectordelia/Easy-Bake.jpg`
-- `images/vectordelia/IDog.jpg`
-- `images/vectordelia/Justdance-2009-UI.png`
-- `images/vectordelia/Maxresdefault-9.jpg`
-- `images/vectordelia/1d8642dbaeeadd5cbeb32f3ad3a60fdc.jpg`
-- `images/vectordelia/2011TattooPony.jpg`
-- `images/vectordelia/Eb45724ce8cc5a1826b324bc42d99d41.jpg`
-- `images/vectordelia/TwinPanda.jpeg`
-- `images/vectordelia/Frutiger-metro.jpg`
-- `images/vectordelia/2010sAirpods.jpg`
-- `images/vectordelia/Pecutf9wcbq91.webp`
-- `images/vectordelia/975699c2d5b921889d0b8292607ec46d.jpg`
-- `images/vectordelia/80b60bf34dd65744a7ac655fa53cc827.jpg`
-- `images/vectordelia/D1df6y6-173b630e-56aa-488e-9442-533f250d9eb5.jpg`
-- `images/vectordelia/4e43cb11be8e22ce60531130f672cd8e.png`
-- `images/vectordelia/Oop.jpg`
-- `images/vectordelia/Wooo.jpg`
-- `images/vectordelia/CartoonNetworkPrefuse2009.png`
-- `images/vectordelia/EspacioCorunha.jpg`
-- `images/vectordelia/MusaWallpaper.webp`
-- `images/vectordelia/MusaBelievixWallpaper.webp`
-- `images/vectordelia/Mewsic.jpg`
-- `images/vectordelia/Mewsic2.webp`
-- `images/vectordelia/Metroirieeioi2.png`
-- `images/vectordelia/Metro4.png`
-- `images/vectordelia/Metro5.png`
-- `images/vectordelia/Zb0lwdwl447a1.png`
-- `images/vectordelia/717DHI6SOpL.jpg`
-- `images/vectordelia/DeBLOB2.jpg`
-- `images/vectordelia/Belanovaa.png`
-- `images/vectordelia/Untitled528.jpg`
-- `images/vectordelia/Scenes-Wallpaper-4.jpg`
-- `images/vectordelia/Dutd8c-1a76b1c1-4af9-4cf3-bd1e-9a2eaa1c2f60.jpg`
-- `images/vectordelia/Vector103.jpg`
-- `images/vectordelia/IcJI4E.jpg`
-- `images/vectordelia/Duxo5c-98606763-dbfe-4816-b6eb-fad42fb04d34.jpg`
-- `images/vectordelia/Dvt6og-6cb2964f-f2a2-496b-b624-1a27e6df7e25.jpg`
-- `images/vectordelia/Duxo10-2653f62e-4ea7-4817-aaec-66e62625e77d.jpg`
-- `images/vectordelia/Eurogamerxbox360graphic.webp`
-- `images/vectordelia/Novistarz.jpg`
-- `images/vectordelia/11154magichair.jpg`
-- `images/vectordelia/Metroconsole.jpg`
-- `images/vectordelia/Dots.jpg`
-- `images/vectordelia/2009PrototypeCN.webp`
-- `images/vectordelia/Tivometro.jpg`
-- `images/vectordelia/Nicksplathaircut.png`
-- `images/vectordelia/Mihimalife.png`
-- `images/vectordelia/Bizkids.jpg`
-- `images/vectordelia/FrutigerMetroIfound1.jpg`
-- `images/vectordelia/FrutigerMetroIfound2.png`
-- `images/vectordelia/FrutigerMetroIfound3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Vectordelia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vectordelia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vectordelia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vectordelia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

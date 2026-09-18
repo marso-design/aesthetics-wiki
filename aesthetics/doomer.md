@@ -13,7 +13,6 @@ related_media: ["Joker (2019)", "Taxi Driver (1976)", "music by Molchat Doma and
 source_url: "https://aesthetics.fandom.com/wiki/Doomer"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Doomer
@@ -96,26 +95,6 @@ An example of the Doomerwave aesthetic being used as an anti-war statement.
 
 ## References
 
-## Images
-
-- `images/doomer/DoomerExample.webp`
-- `images/doomer/D5.jpg`
-- `images/doomer/D4.jpg`
-- `images/doomer/D6.jpg`
-- `images/doomer/D7.jpg`
-- `images/doomer/D10.jpg`
-- `images/doomer/D8.jpg`
-- `images/doomer/D9.jpg`
-- `images/doomer/D11.jpg`
-- `images/doomer/Doomer2.jpg`
-- `images/doomer/Dw1.jpg`
-- `images/doomer/D3.jpg`
-- `images/doomer/Dw4.jpg`
-- `images/doomer/Doomerwave2.jpg`
-- `images/doomer/Doomer3.jpg`
-- `images/doomer/Dw3.jpg`
-- `images/doomer/Dw2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Doomer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Doomer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Doomer" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Doomer), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

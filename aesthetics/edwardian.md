@@ -11,7 +11,6 @@ related_media: ["A Room with a View (1908 novel)", "Howard's End (1910 novel)", 
 source_url: "https://aesthetics.fandom.com/wiki/Edwardian"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # Edwardian
@@ -114,30 +113,6 @@ As the decade progressed, a new silhouette began to emerge. The rigid S-bend sof
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/edwardian/1900sHilsdorf11.jpg`
-- `images/edwardian/1900sPaquin8.jpg`
-- `images/edwardian/1900sWorth1.jpg`
-- `images/edwardian/1900sVolker10.jpg`
-- `images/edwardian/1900sIlustrada5.jpg`
-- `images/edwardian/1900sLaModeArtisque3.jpg`
-- `images/edwardian/1900sWorth9.jpg`
-- `images/edwardian/1900sWorth4.jpg`
-- `images/edwardian/1900sWorth6.jpg`
-- `images/edwardian/1900sPalaisdeGlace7.jpg`
-- `images/edwardian/1900sPaquin2.jpg`
-- `images/edwardian/Istockphoto-182148466-612x612.jpg`
-- `images/edwardian/9382398292u.jpg`
-- `images/edwardian/Edwardianwomen.jpg`
-- `images/edwardian/Edwardianeramoremore15-1200x844.jpg`
-- `images/edwardian/Edwardianeramoremore9-1200x891.jpg`
-- `images/edwardian/60b0ce1ec2a1be9540ad8c78c004405d.jpg`
-- `images/edwardian/Uijsdzxchjk.jpg`
-- `images/edwardian/00009878.jpg`
-- `images/edwardian/GettyImages-919002154-025cdfc-e1674471155363.jpg`
-- `images/edwardian/D1986865af5a6322a5653614645a2b2c.jpg`
-
 ## Source and attribution
 
-Text adapted from "Edwardian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Edwardian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Edwardian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Edwardian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

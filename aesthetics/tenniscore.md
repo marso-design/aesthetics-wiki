@@ -10,7 +10,6 @@ related_aesthetics: ["Balletcore", "Barbiecore", "Blokecore", "Blokette", "Normc
 source_url: "https://aesthetics.fandom.com/wiki/Tenniscore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Tenniscore
@@ -52,23 +51,6 @@ The Tenniscore aesthetic centers around classic tennis attire with modern additi
 | --- | --- | --- |
 | [Aliyahcore](https://aesthetics.fandom.com/wiki/Aliyahcore "Aliyahcore") • [Avant Basic](https://aesthetics.fandom.com/wiki/Avant_Basic "Avant Basic") • [Barbiecore](https://aesthetics.fandom.com/wiki/Barbiecore "Barbiecore") • [Blokecore](https://aesthetics.fandom.com/wiki/Blokecore "Blokecore") • [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") • [Blueberry Girl](https://aesthetics.fandom.com/wiki/Blueberry_Girl "Blueberry Girl") • [Brat Summer](https://aesthetics.fandom.com/wiki/Brat_Summer "Brat Summer") • [Brazilian Bombshell](https://aesthetics.fandom.com/wiki/Brazilian_Bombshell "Brazilian Bombshell") • [Brazilcore](https://aesthetics.fandom.com/wiki/Brazilcore "Brazilcore") • [Cacareco Girl](https://aesthetics.fandom.com/wiki/Cacareco_Girl "Cacareco Girl") • [Cayetana](https://aesthetics.fandom.com/wiki/Cayetana "Cayetana") • [Cinnamon Girl](https://aesthetics.fandom.com/wiki/Cinnamon_Girl "Cinnamon Girl") • [Christian Girl Autumn](https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn "Christian Girl Autumn") • [Clean Girl](https://aesthetics.fandom.com/wiki/Clean_Girl "Clean Girl") • [Coastal Cowgirl](https://aesthetics.fandom.com/wiki/Coastal_Cowgirl "Coastal Cowgirl") • [Coastal Grandmother](https://aesthetics.fandom.com/wiki/Coastal_Grandmother "Coastal Grandmother") • [Dopamine Dressing](https://aesthetics.fandom.com/wiki/Dopamine_Dressing "Dopamine Dressing") • [Earthy Black Girl](https://aesthetics.fandom.com/wiki/Earthy_Black_Girl "Earthy Black Girl") • [Eclectic Grandpa](https://aesthetics.fandom.com/wiki/Eclectic_Grandpa "Eclectic Grandpa") • [Female Horror Game Protagonist Fashion](https://aesthetics.fandom.com/wiki/Female_Horror_Game_Protagonist_Fashion "Female Horror Game Protagonist Fashion") • [Frazzled English Woman](https://aesthetics.fandom.com/wiki/Frazzled_English_Woman "Frazzled English Woman") • [Girl Suffix](https://aesthetics.fandom.com/wiki/Category:Girl "Category:Girl") • [Granola Girl](https://aesthetics.fandom.com/wiki/Granola_Girl "Granola Girl") • [Grocery Girl Fall](https://aesthetics.fandom.com/wiki/Grocery_Girl_Fall "Grocery Girl Fall") • [Lulicore](https://aesthetics.fandom.com/wiki/Lulicore "Lulicore") • [Maillard Style](https://aesthetics.fandom.com/wiki/Maillard_Style "Maillard Style") • [Mermaidcore](https://aesthetics.fandom.com/wiki/Mermaidcore "Mermaidcore") • [Mob Wife](https://aesthetics.fandom.com/wiki/Mob_Wife "Mob Wife") • [Office Siren](https://aesthetics.fandom.com/wiki/Office_Siren "Office Siren") • [Peach Girl](https://aesthetics.fandom.com/wiki/Peach_Girl "Peach Girl") • [Pearlcore](https://aesthetics.fandom.com/wiki/Pearlcore "Pearlcore") • [Plazacore](https://aesthetics.fandom.com/wiki/Plazacore "Plazacore") • [Sad Beige](https://aesthetics.fandom.com/wiki/Sad_Beige "Sad Beige") • [Scandi Girl Winter](https://aesthetics.fandom.com/wiki/Scandi_Girl_Winter "Scandi Girl Winter") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Strawberry Girl](https://aesthetics.fandom.com/wiki/Strawberry_Girl "Strawberry Girl") • [Succubus Chic](https://aesthetics.fandom.com/wiki/Succubus_Chic "Succubus Chic") • **Tenniscore** • [That Girl](https://aesthetics.fandom.com/wiki/That_Girl "That Girl") • [Tomato Girl](https://aesthetics.fandom.com/wiki/Tomato_Girl "Tomato Girl") • [Tumbette](https://aesthetics.fandom.com/wiki/Tumbette "Tumbette") • [Vanilla Girl](https://aesthetics.fandom.com/wiki/Vanilla_Girl "Vanilla Girl") |
 
-## Images
-
-- `images/tenniscore/Tenniscore2.png`
-- `images/tenniscore/6be4f16dda08c97f2e34d8a5a4032104.jpg`
-- `images/tenniscore/96bf931ab7dbbf21ff69a03a27332c42.jpg`
-- `images/tenniscore/B03758bad0fd3210097b4b4059eac544.jpg`
-- `images/tenniscore/Bcddc95cdc9e4ced90cb97923d38c1f4.jpg`
-- `images/tenniscore/74d8cbb2011fc585d6cf8ea33ae58c57.jpg`
-- `images/tenniscore/D7bc2474e969f54376c2c805ae5fe51b.jpg`
-- `images/tenniscore/067027948a305c24fdc1410cb58d736d.jpg`
-- `images/tenniscore/Eeeb2c384ad1db38b9f577af438c8b40.jpg`
-- `images/tenniscore/662af5b843dd7dc6d8a6d71dba02aff8.jpg`
-- `images/tenniscore/B180371b1c44d274d82d29d146f6190f.jpg`
-- `images/tenniscore/51c66ad0464693dc1c195b733bf66e7e.jpg`
-- `images/tenniscore/35547341530e20ebec9ed4e9d63564e0.jpg`
-- `images/tenniscore/SuzanneLenglen.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tenniscore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tenniscore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tenniscore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tenniscore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

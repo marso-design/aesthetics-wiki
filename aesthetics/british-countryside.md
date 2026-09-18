@@ -11,7 +11,6 @@ related_media: ["Downtown Abbey", "Jeeves and Wooster", "Fantastic Mr. Fox", "Ge
 source_url: "https://aesthetics.fandom.com/wiki/British_Countryside"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # British Countryside
@@ -226,4 +225,4 @@ This section features fictional works that feature scenes of hunting, golfing, g
 
 ## Source and attribution
 
-Text adapted from "British Countryside" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/British_Countryside), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "British Countryside" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/British_Countryside), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/E-Boy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # E-Boy
@@ -74,26 +73,6 @@ The musical tastes associated with the E-Boy subculture are eclectic, reflecting
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/e-boy/Eboy-face-chains.jpg`
-- `images/e-boy/D66b12f88bcc7192589384754b893b15.jpg`
-- `images/e-boy/People-are-poison.jpg`
-- `images/e-boy/Eboy-smoke-up-cool-guy.jpg`
-- `images/e-boy/Are-you-lost.jpg`
-- `images/e-boy/Eboy-sad-colorful.jpg`
-- `images/e-boy/Eboy-floor.jpg`
-- `images/e-boy/Finger-heart-upsidedown.jpg`
-- `images/e-boy/Eboy-blonde.jpg`
-- `images/e-boy/Eboy-colors.jpg`
-- `images/e-boy/Finger-chains.jpg`
-- `images/e-boy/Sadtimes4.jpeg`
-- `images/e-boy/73e47c9882101e2af96587d0077414b5.jpg`
-- `images/e-boy/Af1e433aa07d1e74af38a6e4d20b6fa3.jpg`
-- `images/e-boy/042ac2e2e713e8fea6dc2efd49155529.jpg`
-- `images/e-boy/Ee4f132502594cfa007ea4d237f2a2b9.jpg`
-- `images/e-boy/4b5cadd4b8138fafed46618e90e189fb.jpg`
-
 ## Source and attribution
 
-Text adapted from "E-Boy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/E-Boy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "E-Boy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/E-Boy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

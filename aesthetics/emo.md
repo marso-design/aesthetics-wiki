@@ -13,7 +13,6 @@ related_aesthetics: ["Scene", "Fashioncore", "Goth", "Punk", "Grunge", "Midwest 
 source_url: "https://aesthetics.fandom.com/wiki/Emo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 28
 ---
 
 # Emo
@@ -287,37 +286,6 @@ by xXLaGataNegraXx on deviantART
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/emo/EmoExample.png`
-- `images/emo/LongCyanCoontails.jpg`
-- `images/emo/Anotheremoguy.jpg`
-- `images/emo/F8551f1acc94a4123cb8d7a91d5675ca.jpg`
-- `images/emo/Emoguy.jpg`
-- `images/emo/Emo2.jpg`
-- `images/emo/92df909a6d5f8e7b6f354338c4dd5438.jpg`
-- `images/emo/Emooooboy.jpg`
-- `images/emo/Emogal2.jpg`
-- `images/emo/Emo3.jpg`
-- `images/emo/Blackemogurl.jpg`
-- `images/emo/Emo4.jpg`
-- `images/emo/Emogal.jpg`
-- `images/emo/Emoboyy.jpg`
-- `images/emo/Princessemo.jpeg`
-- `images/emo/Whoaretheseguys.jpeg`
-- `images/emo/Annabluefull.webp`
-- `images/emo/2000saltart3.png`
-- `images/emo/0c664e9775d5d5b3c7f2bbaf3e4a23da.gif`
-- `images/emo/2000saltart5.png`
-- `images/emo/Iheartscreamo.png`
-- `images/emo/JackAndSally.jpg`
-- `images/emo/Emoboy.jpeg`
-- `images/emo/Emo.jpeg`
-- `images/emo/Emoblog.jpeg`
-- `images/emo/EmoSpongebob.jpeg`
-- `images/emo/Lagata.jpg`
-- `images/emo/D4v2ez4-411425f7-eedc-47c4-818c-66eeee6914b4.png`
-
 ## Source and attribution
 
-Text adapted from "Emo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Emo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Emo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Emo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

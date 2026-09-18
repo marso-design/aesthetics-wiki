@@ -9,7 +9,6 @@ related_aesthetics: ["Bubblegum Dance", "McBling", "Gen X Soft Club", "Groovival
 source_url: "https://aesthetics.fandom.com/wiki/Bubbleglam"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Bubbleglam
@@ -82,17 +81,6 @@ Paradisio Ft M.Garcia & Dj Patrick Samoy « BAILANDO » 1996 Take One (Officia
 
 Stella Getz - Dr. Love (Official Music Video
 
-## Images
-
-- `images/bubbleglam/Thebbule.jpeg`
-- `images/bubbleglam/Bubble6.jpg`
-- `images/bubbleglam/Bubble3.jpg`
-- `images/bubbleglam/Bubble10.jpg`
-- `images/bubbleglam/Bubble2.jpg`
-- `images/bubbleglam/Bubble1.jpg`
-- `images/bubbleglam/Gina.jpg`
-- `images/bubbleglam/Vvvvv.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bubbleglam" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubbleglam), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bubbleglam" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubbleglam), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

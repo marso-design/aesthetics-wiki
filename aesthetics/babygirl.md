@@ -11,7 +11,6 @@ related_aesthetics: ["Babycore", "Coquette", "Kawaii", "Nymphet", "Pastel Goth",
 source_url: "https://aesthetics.fandom.com/wiki/Babygirl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Babygirl
@@ -59,15 +58,6 @@ The primary criticism leveled against the Babygirl aesthetic stems from its visu
 
 ## Gallery
 
-## Images
-
-- `images/babygirl/Babygirl.jpg`
-- `images/babygirl/Baby-girl-fashion-skirt.jpg`
-- `images/babygirl/Baby-girl-shirt-pink.jpg`
-- `images/babygirl/Bbybirl-white-harness.jpg`
-- `images/babygirl/Bbygirl-overall.jpg`
-- `images/babygirl/Bbygirl-toes.jpg`
-
 ## Source and attribution
 
-Text adapted from "Babygirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Babygirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Babygirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Babygirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

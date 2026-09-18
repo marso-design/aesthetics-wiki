@@ -11,7 +11,6 @@ related_aesthetics: ["Cybergoth", "Cyberpunk", "Electronic Body Music", "Industr
 source_url: "https://aesthetics.fandom.com/wiki/Aggrotech"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Aggrotech
@@ -150,26 +149,6 @@ FGFC820 - Defense Condition 2
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/aggrotech/R-38537-1262519072.jpg`
-- `images/aggrotech/Agonoize-assimilation-chapter-one-Cover-Art.jpg`
-- `images/aggrotech/Fgfc820-urban-audio-warfare-cover-art.jpg`
-- `images/aggrotech/Esc-matte-Cover-Art.jpg`
-- `images/aggrotech/Phosgore-warhead-Cover-Art.jpg`
-- `images/aggrotech/Tamtrum-elektronic-blakc-mess-Cover-Art.jpg`
-- `images/aggrotech/Nachtmahr-alle-lust-will-ewigkeit-Cover-Art.jpg`
-- `images/aggrotech/Nachtmahr-feuer-frei-Cover-Art.jpg`
-- `images/aggrotech/Suicide-commando-bind-torture-kill-Cover-Art.jpg`
-- `images/aggrotech/Suicide-commando-implements-of-hell-Cover-Art.jpg`
-- `images/aggrotech/Aesthetic-perfection-all-beauty-destroyed-Cover-Art.jpg`
-- `images/aggrotech/Hatari-neyslutrans-Cover-Art.jpg`
-- `images/aggrotech/Aesthetic-perfection-a-violent-emotion-Cover-Art.jpg`
-- `images/aggrotech/Hocico-sangre-hirviente-Cover-Art.jpg`
-- `images/aggrotech/Unter-null-the-failure-epiphany-Cover-Art.jpg`
-- `images/aggrotech/Fgfc820-homeland-insecurity-Cover-Art.jpg`
-- `images/aggrotech/Fgfc820-defense-condition-2-Cover-Art.jpg`
-
 ## Source and attribution
 
-Text adapted from "Aggrotech" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aggrotech), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Aggrotech" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aggrotech), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

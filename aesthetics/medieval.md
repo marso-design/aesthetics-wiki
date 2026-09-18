@@ -9,7 +9,6 @@ palette: ["#481B1A", "#AB5F40", "#8B7E71", "#D3B382", "#C5975F", "#6D5F59"]
 source_url: "https://aesthetics.fandom.com/wiki/Medieval"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Medieval
@@ -66,13 +65,6 @@ Ottonian Art
 
 ## References
 
-## Images
-
-- `images/medieval/Troubadours2.jpg`
-- `images/medieval/Troubadours.jpg`
-- `images/medieval/JoanOfArc.jpg`
-- `images/medieval/OttonianArt.png`
-
 ## Source and attribution
 
-Text adapted from "Medieval" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Medieval), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Medieval" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Medieval), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

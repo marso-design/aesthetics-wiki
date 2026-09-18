@@ -7,7 +7,6 @@ key_colours: ["Neutrals"]
 source_url: "https://aesthetics.fandom.com/wiki/Grandparentcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Grandparentcore
@@ -55,4 +54,4 @@ see also [Grandmacore](https://aesthetics.fandom.com/wiki/Grandmacore "Grandmaco
 
 ## Source and attribution
 
-Text adapted from "Grandparentcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grandparentcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Grandparentcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grandparentcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

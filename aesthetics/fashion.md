@@ -5,7 +5,6 @@ palette: ["#FFFFFF", "#030304", "#8F9399", "#DCDCD9", "#42474A", "#887C80"]
 source_url: "https://aesthetics.fandom.com/wiki/Fashion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Fashion
@@ -152,11 +151,6 @@ Layering is the process of wearing one garment over another. This allows for a g
 
 Some examples of layering are sleeveless dresses over tops or other dresses, short sleeve or sleeveless tops over long sleeve ones, skirts over dresses or pants, and socks over tights.
 
-## Images
-
-- `images/fashion/Drape.jpg`
-- `images/fashion/Spinns-WEGO-Harajuku-Streetwear-20170312D507631.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

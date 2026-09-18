@@ -10,7 +10,6 @@ palette: ["#797F7A", "#DADDDC", "#463833", "#B2A89C", "#FAFCF9", "#CE8659"]
 source_url: "https://aesthetics.fandom.com/wiki/Catholic_Kitsch"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Catholic Kitsch
@@ -47,17 +46,6 @@ The counter-argument, defended by figures like Paul Griffiths, is that kitsch is
 
 ## References
 
-## Images
-
-- `images/catholic-kitsch/Aa16e8944dc6ea716e2a2c202b7a4549.jpg`
-- `images/catholic-kitsch/Image-asset.webp`
-- `images/catholic-kitsch/Catholickitsch.jpg`
-- `images/catholic-kitsch/8d54fab7b05a44cadb3b1be3b57b1e16.jpg`
-- `images/catholic-kitsch/D1ovf9r-352ff0fa-f116-4bdd-8773-6dce74d5f936.jpg`
-- `images/catholic-kitsch/6f1bc6d9eab9ced67a47fd08cff75c95.jpg`
-- `images/catholic-kitsch/Catholikitsch.jpg`
-- `images/catholic-kitsch/Grazy4.gif`
-
 ## Source and attribution
 
-Text adapted from "Catholic Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Catholic_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Catholic Kitsch" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Catholic_Kitsch), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

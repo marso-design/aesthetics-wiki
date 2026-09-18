@@ -10,7 +10,6 @@ related_media: ["Hamilton", "TURN: Washington's Spies", "Ken Burns", "Over the G
 source_url: "https://aesthetics.fandom.com/wiki/Historical_Americana"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Historical Americana
@@ -92,4 +91,4 @@ It is also not uncommon for towns and cities of historical interest to have even
 
 ## Source and attribution
 
-Text adapted from "Historical Americana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Historical_Americana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Historical Americana" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Historical_Americana), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

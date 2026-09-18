@@ -10,7 +10,6 @@ related_aesthetics: ["Brutalism", "Cassette Futurism", "Cyberpunk", "Modernism",
 source_url: "https://aesthetics.fandom.com/wiki/Giscardpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Giscardpunk
@@ -178,21 +177,6 @@ The Téletel (Minitel) service accessed via a Thomson terminal.
 * <https://theconversation.com/valery-giscard-destaing-the-last-great-leader-of-frances-liberal-right-151398>
 * <https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/679104/EPRS_BRI(2021)679104_EN.pdf>
 
-## Images
-
-- `images/giscardpunk/FranceForte1.jpg`
-- `images/giscardpunk/CarteRER1976.jpg`
-- `images/giscardpunk/LeGuepard.jpg`
-- `images/giscardpunk/TEE1.jpg`
-- `images/giscardpunk/TGV1.jpg`
-- `images/giscardpunk/CarTrainMapSummer1969.jpg`
-- `images/giscardpunk/CitroenKarin.jpg`
-- `images/giscardpunk/AnnuaireÉlectroniqueSaintMalo980.jpg`
-- `images/giscardpunk/Teletel.jpg`
-- `images/giscardpunk/Florent-Deloison.jpg`
-- `images/giscardpunk/TourNight1973.jpg`
-- `images/giscardpunk/TheWave1979.jpg`
-
 ## Source and attribution
 
-Text adapted from "Giscardpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Giscardpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Giscardpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Giscardpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

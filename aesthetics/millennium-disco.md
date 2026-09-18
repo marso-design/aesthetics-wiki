@@ -12,7 +12,6 @@ related_media: ["Boogie Nights", "Austin Powers in Goldmember", "54"]
 source_url: "https://aesthetics.fandom.com/wiki/Millennium_Disco"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Millennium Disco
@@ -330,4 +329,4 @@ In the late 1990s, a glossy, sleek aesthetic began to dominate music videos, ble
 
 ## Source and attribution
 
-Text adapted from "Millennium Disco" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Millennium_Disco), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Millennium Disco" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Millennium_Disco), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

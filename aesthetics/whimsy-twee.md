@@ -11,7 +11,6 @@ related_aesthetics: ["Clovercore", "Geek Chic", "Picniccore", "Heisei Retro", "J
 source_url: "https://aesthetics.fandom.com/wiki/Whimsy_Twee"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Whimsy Twee
@@ -53,26 +52,6 @@ Whimsy Twee departs heavily from the original Twee aesthetic from the 90s and 20
 
 ## References
 
-## Images
-
-- `images/whimsy-twee/WhimsyTwee.jpg`
-- `images/whimsy-twee/1f6dc4bd0ea1acf250969957149b538b.jpg`
-- `images/whimsy-twee/2beea42784254739f58d7fbae1a4ef2e.jpg`
-- `images/whimsy-twee/E44f3a98f32557718523eb0882fe9fc5.jpg`
-- `images/whimsy-twee/7ac6b7eaaf5e83551940ba03bf08616e.jpg`
-- `images/whimsy-twee/3a3cb9bdc326a83b34676b62e43d4050.jpg`
-- `images/whimsy-twee/655a04642069bde4acbac6d670c7e344.jpg`
-- `images/whimsy-twee/4d32071fe85f7771d1270fe7dd1a1832.jpg`
-- `images/whimsy-twee/68a1f1fa33a4262aed1ee995cf99fda6.jpg`
-- `images/whimsy-twee/51dacc48f38e158a3b495b418478b073.jpg`
-- `images/whimsy-twee/17e94731797a0b6980eb48e6040bca25.jpg`
-- `images/whimsy-twee/82de5627b9e0009d606f06b22126be5b.jpg`
-- `images/whimsy-twee/69c5e3a14f4f63859813dad8ff041258.jpg`
-- `images/whimsy-twee/Eb42452d4d7ab5ae4419de5976f33c9b.jpg`
-- `images/whimsy-twee/7e010410f370530b9d7e278e33fd5c56.jpg`
-- `images/whimsy-twee/3b8db2cb0c196a5d4ead0496d0c00045.jpg`
-- `images/whimsy-twee/182b81869c770ef6dc3c2bff55048d62.jpg`
-
 ## Source and attribution
 
-Text adapted from "Whimsy Twee" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Whimsy_Twee), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Whimsy Twee" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Whimsy_Twee), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

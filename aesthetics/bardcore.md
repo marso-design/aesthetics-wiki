@@ -12,7 +12,6 @@ related_media: ["The Witcher (Jaskier)", "Dungeons & Dragons (Bard class)", "med
 source_url: "https://aesthetics.fandom.com/wiki/Bardcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Bardcore
@@ -89,21 +88,6 @@ This can include rustic fabrics, simple tunics, cloaks, and functional footwear.
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/bardcore/Artworks-NRApMVxkvyNGdcFM-OvUzuA-t500x500.jpg`
-- `images/bardcore/324324324.jpg`
-- `images/bardcore/4432424.jpg`
-- `images/bardcore/9b4fb30bee8defc0b791fd97cc791b48.jpg`
-- `images/bardcore/4637eac3341bd8ad82bdc8132cf442df.jpg`
-- `images/bardcore/22841a4f4076331f911b486d452a37a2.jpg`
-- `images/bardcore/8271093101c841f020482a62cfda457a.jpg`
-- `images/bardcore/21ba92f520daba2b0da614c3d9d9f290.jpg`
-- `images/bardcore/4a0adbf444be44b9f22f25109dd8f528.jpg`
-- `images/bardcore/257792da4ebf7b9615a193ed9d4c657e.jpg`
-- `images/bardcore/B5f9259f32e1b98742af4f8c6ba71542.jpg`
-- `images/bardcore/449cf4cde5126341ced9eee2834cd6bb.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bardcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bardcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bardcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bardcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

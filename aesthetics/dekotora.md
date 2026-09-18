@@ -6,7 +6,6 @@ palette: ["#AED9F8", "#121A17", "#546560", "#6D7671", "#333D37", "#889FA0"]
 source_url: "https://aesthetics.fandom.com/wiki/Dekotora"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Dekotora
@@ -21,10 +20,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 **Dekotora** or **decotora** (デコトラ dekotora), an abbreviation for "decoration truck", are extravagantly decorated trucks in Japan. Commonly displaying neon or ultraviolet lights, extravagant paints, and stainless or golden parts (both on the exterior and the interior), dekotora may be created by workers out of their work trucks for fun, or they may be designed by hobbyists for special events. They are sometimes also referred to as **art trucks.**
 
-## Images
-
-- `images/dekotora/Truck.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Dekotora" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dekotora), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dekotora" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dekotora), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

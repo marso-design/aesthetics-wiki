@@ -11,7 +11,6 @@ related_aesthetics: ["Cottagecore", "Country", "Gustavian"]
 source_url: "https://aesthetics.fandom.com/wiki/French_Provincial_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # French Provincial Style
@@ -48,26 +47,6 @@ It is important to note that while the term "provincial" is often associated wit
 
 ## References
 
-## Images
-
-- `images/french-provincial-style/FPS4.jpg`
-- `images/french-provincial-style/FPS2.jpg`
-- `images/french-provincial-style/FPS3.jpg`
-- `images/french-provincial-style/FrenchProvincialStyle.jpg`
-- `images/french-provincial-style/FPS6.jpg`
-- `images/french-provincial-style/FPS7.jpg`
-- `images/french-provincial-style/FPS8.jpg`
-- `images/french-provincial-style/FPS11.jpg`
-- `images/french-provincial-style/FPS9.jpg`
-- `images/french-provincial-style/FPS10.jpg`
-- `images/french-provincial-style/FPS12.jpg`
-- `images/french-provincial-style/FPS17.jpeg`
-- `images/french-provincial-style/FPS16.jpeg`
-- `images/french-provincial-style/FPS15.jpg`
-- `images/french-provincial-style/FPS14.jpg`
-- `images/french-provincial-style/FPS13.jpg`
-- `images/french-provincial-style/FPS18.jpg`
-
 ## Source and attribution
 
-Text adapted from "French Provincial Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/French_Provincial_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "French Provincial Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/French_Provincial_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

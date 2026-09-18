@@ -12,7 +12,6 @@ primary_platform: ["Facebook", "Tiktok", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Geng-geng"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Geng-geng
@@ -69,10 +68,6 @@ YoungStunna has its own vocabulary by using existing colloquialism terms, which 
 
 ## References
 
-## Images
-
-- `images/geng-geng/Gengeng1.png`
-
 ## Source and attribution
 
-Text adapted from "Geng-geng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Geng-geng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Geng-geng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Geng-geng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Magazines (Men's Club, Popeye)", "Books (Take Ivy, Ametora)"]
 source_url: "https://aesthetics.fandom.com/wiki/Japanese_Ivy_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Japanese Ivy Style
@@ -41,25 +40,6 @@ Magazines were also important, with Men's Club serving as the primary guide thro
 
 ## References
 
-## Images
-
-- `images/japanese-ivy-style/Japanese-ivy-miyuki-zoku.jpg.webp`
-- `images/japanese-ivy-style/JapanesePreppy.webp`
-- `images/japanese-ivy-style/716e2672c6f5bce052e4d69dbd9173c9.jpg`
-- `images/japanese-ivy-style/7d87ffcec244a164535167db3fb64da1.jpg`
-- `images/japanese-ivy-style/B9979b0c3e3fdd753c92bf314cf17e2a.jpg`
-- `images/japanese-ivy-style/F55bedd51457a8b3205b92dfd6f8957f.jpg`
-- `images/japanese-ivy-style/84ce1cc718b4a834a8666281b9b90c4b.jpg`
-- `images/japanese-ivy-style/1c52db91a04fdd321687e12c0c935ad0.jpg`
-- `images/japanese-ivy-style/4252111cec192297412460488db6a2ea.jpg`
-- `images/japanese-ivy-style/7445397d5a13a931c83265b16679c5f1.jpg`
-- `images/japanese-ivy-style/5d00d3ef65df67ef2c85a95e78c6db1a.jpg`
-- `images/japanese-ivy-style/E3178ea2acdcc51745d247b8992b6b2f.jpg`
-- `images/japanese-ivy-style/C271b2397e59c1dc090dd74ac4887641.jpg`
-- `images/japanese-ivy-style/Ff2bc4e46cb75b83e96bc601a592f414.jpg`
-- `images/japanese-ivy-style/901ef56320c467b34730b04f52a5881e.jpg`
-- `images/japanese-ivy-style/46541598708af7605f81aa8f1af8a908.jpg`
-
 ## Source and attribution
 
-Text adapted from "Japanese Ivy Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Japanese_Ivy_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Japanese Ivy Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Japanese_Ivy_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

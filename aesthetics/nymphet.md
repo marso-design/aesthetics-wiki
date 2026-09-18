@@ -11,7 +11,6 @@ related_media: ["Lolita (1962)", "Lolita (1997)"]
 source_url: "https://aesthetics.fandom.com/wiki/Nymphet"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Nymphet
@@ -281,31 +280,6 @@ There is also a lack of representation in the aesthetic, as pointed out by POC N
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/nymphet/4d6189320e5ed1406ef76e68d28d3a880ecca059.jpg`
-- `images/nymphet/138441577fc2238cb4fffb44f7991f4d.jpg`
-- `images/nymphet/16e4b3c1311001ef72de4ce41f8017fc.jpg`
-- `images/nymphet/1d24f0f4135cc3fd65b055530105522d.jpg`
-- `images/nymphet/22f05baae1e71a031a5f6866bc533f00.jpg`
-- `images/nymphet/422ef6761090c84b9cf5d562bb9f82e1.jpg`
-- `images/nymphet/55e1148d3ff607d2a5990e1bc1603d6e.jpg`
-- `images/nymphet/5b51c4569ef3a55a0717956eb1f98f17.jpg`
-- `images/nymphet/A082a14df8a31d01998c73b25fb1a13a.jpg`
-- `images/nymphet/A77bc71ddaaecd45b7dc93e6f0185b6f.jpg`
-- `images/nymphet/B6f98b72a60e0035181765c390f3299f.jpg`
-- `images/nymphet/C53532b85c932403c06cefee54a18023.jpg`
-- `images/nymphet/Ca62ce2b94f006acccf825ff3e0d728b.jpg`
-- `images/nymphet/E82ac2dea2855b2c4e0d8abab9022e94.jpg`
-- `images/nymphet/E936fc4103e09e0cc54a01d8154f434c.jpg`
-- `images/nymphet/F59bff88010d01d4535b125452a11d58.jpg`
-- `images/nymphet/Dolores.jpg`
-- `images/nymphet/Dae2f6c4cb15c648f05af221da9972fc.jpg`
-- `images/nymphet/Floral-nymphet.jpg`
-- `images/nymphet/Er7fA6LVgAE7hDK.jpg`
-- `images/nymphet/Er7fFP5VkAMdYac.jpg`
-- `images/nymphet/Ek2oK6FVcAItGrK.jpg`
-
 ## Source and attribution
 
-Text adapted from "Nymphet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nymphet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nymphet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nymphet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

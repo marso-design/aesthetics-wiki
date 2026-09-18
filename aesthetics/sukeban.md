@@ -11,7 +11,6 @@ related_media: ["Sukeban Deka", "Tales of Yakjita College", "Hana no Asuka  Gumi
 source_url: "https://aesthetics.fandom.com/wiki/Sukeban"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Sukeban
@@ -63,13 +62,6 @@ Shenmue takes place in the town of Yokasuka, Japan and features a sukeban gang w
 
 ## References
 
-## Images
-
-- `images/sukeban/Sukeban.jpg`
-- `images/sukeban/Sukeban2.jpg`
-- `images/sukeban/EQ-AOQcVAAIJOoo.jpg`
-- `images/sukeban/1549211997277.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sukeban" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sukeban), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sukeban" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sukeban), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

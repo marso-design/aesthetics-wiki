@@ -12,7 +12,6 @@ related_media: ["Classic horror films (e.g., Universal Monsters, Hammer Films)",
 source_url: "https://aesthetics.fandom.com/wiki/Horror_Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Horror Punk
@@ -182,23 +181,6 @@ Jerry Only (The Misfits)
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/horror-punk/Misfits.webp`
-- `images/horror-punk/Horror-punk-2.jpg`
-- `images/horror-punk/Murderdolls-band.jpg`
-- `images/horror-punk/Lets-Get-into-Horror-Punk.png`
-- `images/horror-punk/Misfits-band.jpg`
-- `images/horror-punk/Spotlight-Street-Creature.webp`
-- `images/horror-punk/5335151ceb6806f2abe50b906a6020d8.webp`
-- `images/horror-punk/Horrorpunkgirl.jpg`
-- `images/horror-punk/37e1e292e487f7d7564eb56bef0539ca.jpg`
-- `images/horror-punk/Horrorpunks-Not-Dead-compilation-promo-min-1.jpg`
-- `images/horror-punk/A7d638e227192c2e6cf3547ce196a725.jpg`
-- `images/horror-punk/My-wip-horror-punk-jacket-v0-keipuz329elc1.webp`
-- `images/horror-punk/Horror-punk-jacket-update-v0-mzng14xr5lwd1.jpg`
-- `images/horror-punk/Misfits8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Horror Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Horror_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Horror Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Horror_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

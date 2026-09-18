@@ -11,7 +11,6 @@ related_media: ["Astro Boy", "Gigantor", "Mazinger Z", "Mobile Suit Gundam", "Tr
 source_url: "https://aesthetics.fandom.com/wiki/Mecha"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Mecha
@@ -97,27 +96,6 @@ Atom from *Real Steel*
 
 ## References
 
-## Images
-
-- `images/mecha/Evangelion.png`
-- `images/mecha/E524d986e9dca19f98463f2a7374031d.jpg`
-- `images/mecha/Bfecf8148b3439a4a748ab87deaad03c.jpg`
-- `images/mecha/Bf659cef8566fcaaddc61974fa01b1e1.jpg`
-- `images/mecha/De68d2bc68c8b0b751a394c7b9d1f0d4.jpg`
-- `images/mecha/F66d734c8db82b66518ff5808b1eee62.jpg`
-- `images/mecha/7a9cef63514f2216ff43db1755bcb697.jpg`
-- `images/mecha/4e081fde251cb44d3fd93b7b39cf3ab7.jpg`
-- `images/mecha/9f57bea822ae156b058011a67fc7308e.jpg`
-- `images/mecha/43191955e1c803370e029b2f78b999d4.jpg`
-- `images/mecha/0e649c585b71bdedfdd5d427f68ae31e.jpg`
-- `images/mecha/Cfea57759053bcf565a3a11ee082bf2d.jpg`
-- `images/mecha/9cacf27d81e447b3da34e58ae54864d7.jpg`
-- `images/mecha/ZetaGundam.png`
-- `images/mecha/IkutoYamashitaSuperEvangelion.png`
-- `images/mecha/GundamMKIV.png`
-- `images/mecha/KimarisVidar.png`
-- `images/mecha/Gunbuster.png`
-
 ## Source and attribution
 
-Text adapted from "Mecha" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mecha), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mecha" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mecha), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

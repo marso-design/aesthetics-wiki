@@ -11,7 +11,6 @@ related_aesthetics: ["Art Deco", "Dieselpunk", "Decopunk", "Factory Pomo", "Mid-
 source_url: "https://aesthetics.fandom.com/wiki/Streamline_Moderne"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Streamline Moderne
@@ -123,27 +122,6 @@ The exterior of Emerald City, Wizard of Oz (1939)
 * <https://thewestologist.wordpress.com/2014/04/04/spot-a-style-streamline-moderne/>
 * <https://timesofmalta.com/article/A-true-example-of-Streamline-Moderne.435799>
 
-## Images
-
-- `images/streamline-moderne/StreamlineModerne.jpg`
-- `images/streamline-moderne/SFMaritimeMuseum.jpg`
-- `images/streamline-moderne/Nbc-studio-streamlined.jpg`
-- `images/streamline-moderne/BUS05.jpg`
-- `images/streamline-moderne/Lobby-of-the-esquire-theatre-chicago-history-museum.jpg`
-- `images/streamline-moderne/Streamline-Moderne-Feat.jpg`
-- `images/streamline-moderne/Toaster1.jpg`
-- `images/streamline-moderne/Fan.jpg`
-- `images/streamline-moderne/60327a4671f942393c53760b8271f7a0.jpg`
-- `images/streamline-moderne/H.wViON8VwVqsl3-PUVYWQ.jpg`
-- `images/streamline-moderne/L8dz261hygib1.jpg`
-- `images/streamline-moderne/Shelvador-1934-35-usa-1.jpg`
-- `images/streamline-moderne/Lincoln-Zephyr-22Scrape22.jpg`
-- `images/streamline-moderne/Schlörwagen.jpg`
-- `images/streamline-moderne/1934-chyrsler-airflow-main-scaled.jpg`
-- `images/streamline-moderne/8859247753000.jpg`
-- `images/streamline-moderne/35d12389d280fe4ce7b44deb8e6fe0e8.jpg`
-- `images/streamline-moderne/The-emerald-city-in-the-wizard-of-oz-1939-was-a-great-v0-cr1j2ra5uex81.jpg`
-
 ## Source and attribution
 
-Text adapted from "Streamline Moderne" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Streamline_Moderne), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Streamline Moderne" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Streamline_Moderne), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

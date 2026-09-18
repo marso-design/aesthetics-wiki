@@ -11,7 +11,6 @@ related_aesthetics: ["Film Noir", "Italian Neorealism", "Mod", "Modernism", "Pos
 source_url: "https://aesthetics.fandom.com/wiki/French_New_Wave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # French New Wave
@@ -162,19 +161,6 @@ Les Quatre Cents Coups (1959)
 
 ## References
 
-## Images
-
-- `images/french-new-wave/AnnaKarina.jpeg`
-- `images/french-new-wave/Breathless.jpg`
-- `images/french-new-wave/400Blows.jpg`
-- `images/french-new-wave/Alphaville.jpg`
-- `images/french-new-wave/ElevatorToTheGallows.jpg`
-- `images/french-new-wave/CleoFrom5To7.jpg`
-- `images/french-new-wave/VivreSaVie.jpg`
-- `images/french-new-wave/AdieuPhilippine.jpg`
-- `images/french-new-wave/Lola2.png`
-- `images/french-new-wave/LesQuatreCentCoups.png`
-
 ## Source and attribution
 
-Text adapted from "French New Wave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/French_New_Wave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "French New Wave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/French_New_Wave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

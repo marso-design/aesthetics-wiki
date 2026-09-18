@@ -11,7 +11,6 @@ related_aesthetics: ["Saint Patrick's Day", "Autumn"]
 source_url: "https://aesthetics.fandom.com/wiki/Oktoberfest"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Oktoberfest
@@ -123,22 +122,6 @@ The main activities of Oktoberfest involve participating and attending the attra
 
 ## References
 
-## Images
-
-- `images/oktoberfest/Oktoberfest01.jpg`
-- `images/oktoberfest/Boyandgirltratchdancing.jpg`
-- `images/oktoberfest/Theresienwiese.jpg`
-- `images/oktoberfest/Oktoberfestfood03.jpg`
-- `images/oktoberfest/Gingerbreadhearts.jpg`
-- `images/oktoberfest/Gingerbreadheart.jpg`
-- `images/oktoberfest/Oktoberfestdecoration01.jpg`
-- `images/oktoberfest/Coupledancing.jpg`
-- `images/oktoberfest/Oktoberfestwomen01.jpg`
-- `images/oktoberfest/Oktoberfestmen.jpg`
-- `images/oktoberfest/Oktoberfestband.jpg`
-- `images/oktoberfest/Oktoberfestdecoration02.jpg`
-- `images/oktoberfest/Oktoberfestelements.jpg`
-
 ## Source and attribution
 
-Text adapted from "Oktoberfest" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Oktoberfest), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Oktoberfest" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Oktoberfest), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

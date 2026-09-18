@@ -10,7 +10,6 @@ related_aesthetics: ["Futurism", "Russian Futurism", "Indigenous Futurisms", "Af
 source_url: "https://aesthetics.fandom.com/wiki/Russian_Cosmism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Russian Cosmism
@@ -53,13 +52,6 @@ Intergalactic Mobile Fedorov Museum-Library
 
 ## References
 
-## Images
-
-- `images/russian-cosmism/RussianCosmism-OnTheMoon.png`
-- `images/russian-cosmism/RussianCosmism-IntergalacticMobileFedorovMuseumLibrary.webp`
-- `images/russian-cosmism/RussianCosmism-NewPlanet.jpg`
-- `images/russian-cosmism/RussianCosmism-FormulaoftheCosmos.jpg`
-
 ## Source and attribution
 
-Text adapted from "Russian Cosmism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Russian_Cosmism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Russian Cosmism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Russian_Cosmism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

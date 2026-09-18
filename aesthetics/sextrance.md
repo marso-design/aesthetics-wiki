@@ -13,7 +13,6 @@ related_media: ["Dismiss Yourself (record label)"]
 source_url: "https://aesthetics.fandom.com/wiki/Sextrance"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Sextrance
@@ -160,26 +159,6 @@ Cover art for "ㄹㄹㄹㅁ" by (§ⱥđ)ɨşŧƙⱥ
 
 ## References
 
-## Images
-
-- `images/sextrance/Ateriavia.jpg`
-- `images/sextrance/Sextrance1.jpg`
-- `images/sextrance/Imago.jpg`
-- `images/sextrance/M4gicfeel.jpg`
-- `images/sextrance/Raverats2.jpg`
-- `images/sextrance/Raverats.jpg`
-- `images/sextrance/Openbeta.jpg`
-- `images/sextrance/Joyrideintodawn.jpg`
-- `images/sextrance/Cybertrance.jpg`
-- `images/sextrance/Isyti.jpg`
-- `images/sextrance/Lvgvbra.jpg`
-- `images/sextrance/Himetrance.jpg`
-- `images/sextrance/Cacola.jpg`
-- `images/sextrance/Artworks-y7lD3FGXdbYvnaI3-Tyymdw-t500x500.png`
-- `images/sextrance/Somethingaboutyou.jpg`
-- `images/sextrance/Darkmagiciangirl.png`
-- `images/sextrance/Trance.gif`
-
 ## Source and attribution
 
-Text adapted from "Sextrance" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sextrance), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sextrance" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sextrance), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

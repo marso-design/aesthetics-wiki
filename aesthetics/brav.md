@@ -12,7 +12,6 @@ related_media: ["Bravú (magazine)", "Xabarín Club (TV program)", "Selección X
 source_url: "https://aesthetics.fandom.com/wiki/Bravú"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Bravú
@@ -185,26 +184,6 @@ This is a list of notes intended for people that might not be familiar with the 
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ **Bravú** ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/brav/BravuMagazineCoverArt.jpeg`
-- `images/brav/XabarinClub.jpg`
-- `images/brav/SeleccioNXa.png`
-- `images/brav/BravuMagazine3rdEdition.png`
-- `images/brav/BravuOcio.png`
-- `images/brav/Galiza-Bravú-1907251986.png`
-- `images/brav/Os-papaqueixos-a-loxica-aplastante-do-comite-de-propaganda-Cover-Art.jpg`
-- `images/brav/Rastreros-a-pinon-fixo-a-golpe-de-pixo-cover-art.jpg`
-- `images/brav/Skornabois-o-verme-homicida-cover-art.jpg`
-- `images/brav/1924348.jpg`
-- `images/brav/3441496.jpg`
-- `images/brav/Heredeiros-da-crus-a-cuadrilla-de-pepa-a-loba-Cover-Art.png`
-- `images/brav/Ruxe-ruxe-na-terra-dos-comentos-Cover-Art.jpg`
-- `images/brav/Os-diplomaticos-de-monte-alto-avante-toda-cover-art.jpg`
-- `images/brav/Yellow-pixolinas-non-pises-a-herba-cover-art.jpg`
-- `images/brav/Heredeiros-da-crus-erecsiones-munisipales-Cover-Art.jpg`
-- `images/brav/GaliciaBravuMap.png`
-
 ## Source and attribution
 
-Text adapted from "Bravú" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bravú), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bravú" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bravú), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

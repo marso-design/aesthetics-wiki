@@ -10,7 +10,6 @@ related_aesthetics: ["Art Deco", "Corporate Gen-X Cyber", "Corporate Grunge", "C
 source_url: "https://aesthetics.fandom.com/wiki/Memphis_Lite"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 26
 ---
 
 # Memphis Lite
@@ -197,35 +196,6 @@ Martin Solveig & GTA - Intoxicated (2015)
 
 ## References
 
-## Images
-
-- `images/memphis-lite/Memphis8.jpeg`
-- `images/memphis-lite/Paris-france-april-16-2022-600w-2146468723.png`
-- `images/memphis-lite/R-959234-1394132440-1325.jpg`
-- `images/memphis-lite/R-645573-1269538183.jpg`
-- `images/memphis-lite/R-1265987-1204928488.jpg`
-- `images/memphis-lite/5e385565a93d57c630d296e7d1651736.jpg`
-- `images/memphis-lite/Efa251124a01db235e464fcdc2bc84ff.jpg`
-- `images/memphis-lite/EPsxVvSXkAIfH7C.jpg`
-- `images/memphis-lite/Fa44b9b36e06853c3e4d2775beac75811.jpg`
-- `images/memphis-lite/CAREWORN.jpg`
-- `images/memphis-lite/Best-90s-movies-a-goofy-movie-1589565888.jpg`
-- `images/memphis-lite/4665382c50ea466c7bb5b1b6ba04b7dd-393x550.jpg`
-- `images/memphis-lite/1446817543220.jpeg`
-- `images/memphis-lite/Jp.webp`
-- `images/memphis-lite/Hq720.jpg`
-- `images/memphis-lite/D8cf8c57-ac9b-4dd2-9c6e-07fdc11b11d2.png`
-- `images/memphis-lite/Brochure-p2-1.png`
-- `images/memphis-lite/March-2-2017-bozeman-montana-600w-692618209.png`
-- `images/memphis-lite/Memphis11.jpeg`
-- `images/memphis-lite/Best-90s-movies-zenon-1589565894.jpg`
-- `images/memphis-lite/Dustin-diamond-then.jpg`
-- `images/memphis-lite/F5d08a010f872a5f09bcba8231953fdb-1-440x550.jpg`
-- `images/memphis-lite/Memphis3.jpg`
-- `images/memphis-lite/Memphis4.jpg`
-- `images/memphis-lite/Memphis5.jpg`
-- `images/memphis-lite/Memphis6.jpg`
-
 ## Source and attribution
 
-Text adapted from "Memphis Lite" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Memphis_Lite), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Memphis Lite" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Memphis_Lite), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

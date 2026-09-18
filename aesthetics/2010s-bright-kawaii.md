@@ -10,7 +10,6 @@ primary_platform: ["Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/2010s_Bright_Kawaii"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # 2010s Bright Kawaii
@@ -87,10 +86,6 @@ To add an edge, women in this aesthetic (the primary participants were cis femal
 
 ## Gallery
 
-## Images
-
-- `images/2010s-bright-kawaii/Kawaiicore.jpg`
-
 ## Source and attribution
 
-Text adapted from "2010s Bright Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Bright_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2010s Bright Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Bright_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

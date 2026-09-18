@@ -12,7 +12,6 @@ related_media: ["Akira", "Ghost in the Shell", "Blade Runner (as a key influence
 source_url: "https://aesthetics.fandom.com/wiki/Neo-Tokyo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Neo-Tokyo
@@ -72,24 +71,6 @@ Akira (1988) Legendary Trailer
 
 Official (english) 1988 Akira trailer
 
-## Images
-
-- `images/neo-tokyo/AkiraNeoTokyo.png`
-- `images/neo-tokyo/NeoTokyo.jpg`
-- `images/neo-tokyo/NeoTokyo2.png`
-- `images/neo-tokyo/NeoTokyo3.jpg`
-- `images/neo-tokyo/NeoToyko4.jpg`
-- `images/neo-tokyo/Dqv2TuG.jpg`
-- `images/neo-tokyo/NeoCity.gif`
-- `images/neo-tokyo/VirtuaVerse.png`
-- `images/neo-tokyo/VirtuaVerse.jpg`
-- `images/neo-tokyo/FortniteMegaCityCH4S2.png`
-- `images/neo-tokyo/Neon-district.jpg`
-- `images/neo-tokyo/15304.gif`
-- `images/neo-tokyo/R0stFAv.gif`
-- `images/neo-tokyo/Cyberpunk.jpg`
-- `images/neo-tokyo/Neon-Tokyo-with-Delorean-Cyberpunk-aesthetic.jpg`
-
 ## Source and attribution
 
-Text adapted from "Neo-Tokyo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Tokyo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neo-Tokyo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Tokyo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

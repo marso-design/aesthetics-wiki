@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "Reddit", "Music/YouTuber Branding (e.g., Kurtis Co
 source_url: "https://aesthetics.fandom.com/wiki/Neo-Aero"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Neo-Aero
@@ -101,24 +100,6 @@ Album Video to Dream OS (2025), Created by Win2k
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • **Neo-Aero** • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/neo-aero/NeoFrutigerAero.png`
-- `images/neo-aero/Ab67616d0000b2732e9fd14888e86fd7789dacad.jpg`
-- `images/neo-aero/Cc995cf6fb3e00dcec3261a4d70ce52b.jpg`
-- `images/neo-aero/A8b49e1cc8bd1dfda12e9361c68255cc.jpg`
-- `images/neo-aero/B90f952f36fd1cfdc58f27ba36a2d06b.jpg`
-- `images/neo-aero/F5efa00f1309a720ff0b3dfe4235cd34.jpg`
-- `images/neo-aero/Dfaba483b01f2f9c6faf21e1987b9c31.jpg`
-- `images/neo-aero/C593464b9ae38072c21a54228726da57.jpg`
-- `images/neo-aero/C835fe5222df159a1324ba1fb9bcb7eb.jpg`
-- `images/neo-aero/Fb115eee6c54625f7de497ae50cbe6a4.jpg`
-- `images/neo-aero/6d701f3a0501bb9569d0244f2b8632ce.jpg`
-- `images/neo-aero/32d0aeef4e915bb821a3aa9119d3b1b7.jpg`
-- `images/neo-aero/New-frutiger-aero-inspired-visuals-on-coke-freestyle-machine-v0-s61xrbkdm0ee1.webp`
-- `images/neo-aero/New-frutiger-aero-inspired-visuals-on-coke-freestyle-machine-v0-ywaonckdm0ee1.webp`
-- `images/neo-aero/New-frutiger-aero-inspired-visuals-on-coke-freestyle-machine-v0-re02lbkdm0ee1.webp`
-
 ## Source and attribution
 
-Text adapted from "Neo-Aero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Aero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neo-Aero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Aero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Scarfolk Council", "The Caretaker's Everywhere at the End of Ti
 source_url: "https://aesthetics.fandom.com/wiki/Hauntology"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Hauntology
@@ -91,29 +90,6 @@ In 2018 the UK government mistakenly included a Scarfolk poster in an issue of t
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/hauntology/C2fac2f651af3f1bc2234943ec34c230.jpg`
-- `images/hauntology/B964aa3986eb73b4881f0d8c9b269af8.jpg`
-- `images/hauntology/784bf1e6d5b25b30110f77a3bf041e9d.jpg`
-- `images/hauntology/4a37302de5c72e347503a5e2cfcea06a.jpg`
-- `images/hauntology/2fd7e75e5ca38b38041fcbdaa9e978b4.jpg`
-- `images/hauntology/C39b3221377f90f74db3ccc1c6ef383c.jpg`
-- `images/hauntology/Dca203a0c07c6a7c04c7e9e3b9b15c56.jpg`
-- `images/hauntology/003e88d44b15a28b997b0377f6abaeea.jpg`
-- `images/hauntology/Ed8bc288cfea15e272698607870c01bb.jpg`
-- `images/hauntology/585a805fc5c5994f29ae2f38d851a7e9.jpg`
-- `images/hauntology/Fa7d1144a5515fd51564473505f20364.jpg`
-- `images/hauntology/985e3fa55e14ab0d1b4516a605091eb3.jpg`
-- `images/hauntology/077d18e07d3384bbc0e6c517bbd3efda.jpg`
-- `images/hauntology/A9c39177a95490d9de23becf401d39ee.jpg`
-- `images/hauntology/8f6c73238a32f3a68b0db2a58b177964.jpg`
-- `images/hauntology/Cd4c69d67b16da03cf4eee7953f88849.jpg`
-- `images/hauntology/C7a41b7f97512283f9d1350dc1667b5b.jpg`
-- `images/hauntology/A23231ea2a22b451bc3b739b263d0494.jpg`
-- `images/hauntology/10f14b8121ad804c6062ba4aecdea669.jpg`
-- `images/hauntology/4b24714358880a1c2fce98f16d0a5503.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hauntology" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hauntology), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hauntology" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hauntology), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

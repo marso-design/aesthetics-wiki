@@ -12,7 +12,6 @@ primary_platform: ["Instagram", "Tumblr", "PicsArt"]
 source_url: "https://aesthetics.fandom.com/wiki/Grime_Art"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Grime Art
@@ -44,22 +43,6 @@ Key visual motifs include drooping, slimy drips of flesh that obscure parts of t
 
 ## References
 
-## Images
-
-- `images/grime-art/Grimeartt.jpg`
-- `images/grime-art/Grimeart.jpg`
-- `images/grime-art/Grimeart2.jpg`
-- `images/grime-art/Grimeart4.jpg`
-- `images/grime-art/Grimeart6.png`
-- `images/grime-art/Grimeart5.png`
-- `images/grime-art/Grimeart7.png`
-- `images/grime-art/Grimeart8.jpg`
-- `images/grime-art/Grimeart9.jpg`
-- `images/grime-art/Grimeart12.png`
-- `images/grime-art/Grimeart13.png`
-- `images/grime-art/Grimeart11.jpg`
-- `images/grime-art/Grimeart10.jpg`
-
 ## Source and attribution
 
-Text adapted from "Grime Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grime_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Grime Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grime_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

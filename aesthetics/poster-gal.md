@@ -10,7 +10,6 @@ related_media: ["See:Media"]
 source_url: "https://aesthetics.fandom.com/wiki/Poster_Gal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 30
 ---
 
 # Poster Gal
@@ -359,39 +358,6 @@ By AGirlCalledFred on deviantART
 
 By dodgethis9271 on deviantART
 
-## Images
-
-- `images/poster-gal/Certifiedhoodclassic.jpg`
-- `images/poster-gal/Meatwalmart.jpg`
-- `images/poster-gal/Slippage.jpg`
-- `images/poster-gal/Sailorsong.png`
-- `images/poster-gal/Punchbag.jpg`
-- `images/poster-gal/Gettinjiggywitit.jpeg`
-- `images/poster-gal/Spookydoom.jpeg`
-- `images/poster-gal/Berrii.jpg`
-- `images/poster-gal/Cronch.jpg`
-- `images/poster-gal/Postergalevolved.jpg`
-- `images/poster-gal/Chem.jpg`
-- `images/poster-gal/Wolfncow.jpeg`
-- `images/poster-gal/Clusterfuck.jpeg`
-- `images/poster-gal/Obeyme.jpg`
-- `images/poster-gal/Nothing.jpg`
-- `images/poster-gal/Freak.jpg`
-- `images/poster-gal/Inuyaaa.jpg`
-- `images/poster-gal/Artwaste.jpeg`
-- `images/poster-gal/Kentuckyfriedarchitect.jpg`
-- `images/poster-gal/18f1e002d2c9029257e3f21264aa86bc.jpg`
-- `images/poster-gal/Runaway.jpg`
-- `images/poster-gal/Aemoticon.jpg`
-- `images/poster-gal/Ohmygah.jpeg`
-- `images/poster-gal/Cooachella03.jpg`
-- `images/poster-gal/Cdcollection.jpg`
-- `images/poster-gal/Brichan.jpg`
-- `images/poster-gal/Fredroom.jpg`
-- `images/poster-gal/Dodgeitor.jpg`
-- `images/poster-gal/Postergalprime.jpg`
-- `images/poster-gal/Dinosaursgorawr.jpg`
-
 ## Source and attribution
 
-Text adapted from "Poster Gal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Poster_Gal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Poster Gal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Poster_Gal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["Geo-Boho", "Hexatron", "Metalheart"]
 source_url: "https://aesthetics.fandom.com/wiki/Polychrome"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Polychrome
@@ -30,10 +29,6 @@ Kelly Moran - In Parallel
 
 * <https://cari.institute/aesthetics/polychrome>
 
-## Images
-
-- `images/polychrome/F&F9.png`
-
 ## Source and attribution
 
-Text adapted from "Polychrome" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Polychrome), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Polychrome" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Polychrome), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

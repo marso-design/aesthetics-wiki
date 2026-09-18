@@ -11,7 +11,6 @@ related_media: ["CGDCT (\"Cute Girls Doing Cute Things\") genre", "visual novels
 source_url: "https://aesthetics.fandom.com/wiki/Moe"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 58
 ---
 
 # Moe
@@ -239,67 +238,6 @@ Noko Shikanoko from *My Deer Friend Nokotan*.
 
 ## References
 
-## Images
-
-- `images/moe/90smoe1.jpg`
-- `images/moe/90smoe2.png`
-- `images/moe/90smoe3.png`
-- `images/moe/Ojamajodoremi.jpg`
-- `images/moe/57e0468215f58bb672db6746f03ec57b.jpg`
-- `images/moe/Shampoo.jpg`
-- `images/moe/Creamymami.jpg`
-- `images/moe/Chacha.jpg`
-- `images/moe/Sweetmint.jpg`
-- `images/moe/Weddingpeach.jpg`
-- `images/moe/Toheart.jpg`
-- `images/moe/Toheartgirls.jpg`
-- `images/moe/2kmoe1.webp`
-- `images/moe/2kmoe3.png`
-- `images/moe/2kmoe4.png`
-- `images/moe/Mikurinfanart.jpg`
-- `images/moe/Nekomimi.jpg`
-- `images/moe/Kemonomimi.jpg`
-- `images/moe/Chibi1.jpg`
-- `images/moe/Chibi2.jpg`
-- `images/moe/Toheart2.jpg`
-- `images/moe/Digicharat.jpg`
-- `images/moe/Pitaten2.jpg`
-- `images/moe/Dacapo.jpg`
-- `images/moe/Lovelyidol.jpg`
-- `images/moe/Kagamiandtsukasa.jpg`
-- `images/moe/Kemonomimi2.jpg`
-- `images/moe/Hidamarisketch.jpg`
-- `images/moe/Koihime.png`
-- `images/moe/Maid.jpg`
-- `images/moe/Nekomimi2.jpg`
-- `images/moe/00aaf75273bb0fda009724b2193ae361.jpg`
-- `images/moe/F4f14290477c6033b0db693df4328bed.jpg`
-- `images/moe/C25c012d91bf7bd32efe8aa5139d6f49.jpg`
-- `images/moe/2c63d1bcff1b052f4f13b6adac2a0897.jpg`
-- `images/moe/Eab3f49172bee06d497071335949dd6a.jpg`
-- `images/moe/Ce73b1c6ce4a4f2badff916fecab3111.jpg`
-- `images/moe/2k1moe1.png`
-- `images/moe/2k1moe2.png`
-- `images/moe/2k1moe4.png`
-- `images/moe/Gochiusa.jpg`
-- `images/moe/82cbb327-de2d-4a06-a146-4d1130951342.jpg`
-- `images/moe/Littlebuster.jpg`
-- `images/moe/Nonnonbiyori.jpg`
-- `images/moe/Umaruchan.jpg`
-- `images/moe/2fda0f8d929ffac08954016618d975a9.jpg`
-- `images/moe/779c9dcbf44fdc971aa2b0bc4c60d7ce.jpg`
-- `images/moe/5cf966109dbc26a75d105c228be98197.jpg`
-- `images/moe/81d90006c5b97012cefc4e6306473f26.jpg`
-- `images/moe/8c6933873db4333f984201a617a31a63.jpg`
-- `images/moe/Aac4eaf843053db807c0b33ef1dc0563.jpg`
-- `images/moe/D4d5bab15edf74f719604072c47c6c7e.jpg`
-- `images/moe/64162b90fa07c624c4529f89c61f8e6e.jpg`
-- `images/moe/920fd8337daf816d995062ecd82fc6d6.jpg`
-- `images/moe/2k2moe1.png`
-- `images/moe/2k2moe3.png`
-- `images/moe/Precure.jpeg`
-- `images/moe/Nokotan.jpg`
-
 ## Source and attribution
 
-Text adapted from "Moe" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Moe), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Moe" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Moe), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

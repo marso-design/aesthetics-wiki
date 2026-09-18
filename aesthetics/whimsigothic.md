@@ -11,7 +11,6 @@ related_aesthetics: ["Cottagecore", "FantasY2K", "Gothic", "Grocery Girl Fall", 
 source_url: "https://aesthetics.fandom.com/wiki/Whimsigothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 27
 ---
 
 # Whimsigothic
@@ -313,36 +312,6 @@ Art for the 7th Guest (1992)
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/whimsigothic/Whimsigoth8.jpg`
-- `images/whimsigothic/Whimsigoth2.jpg`
-- `images/whimsigothic/Whimsigoth1.jpg`
-- `images/whimsigothic/Whimsigoth3.jpg`
-- `images/whimsigothic/Whimsigoth4.jpg`
-- `images/whimsigothic/Whimsigoth6.jpg`
-- `images/whimsigothic/Whimsigoth9.jpg`
-- `images/whimsigothic/Whimsigoth10.jpg`
-- `images/whimsigothic/Whimsigoth11.jpg`
-- `images/whimsigothic/Whimsigoth12.jpg`
-- `images/whimsigothic/A382bc61d8fb7f66e05683ff51beac77.jpg`
-- `images/whimsigothic/Leonardos-interior-design.webp`
-- `images/whimsigothic/Mariska-Willems-1.jpg`
-- `images/whimsigothic/Mariska-Willems-2.jpg`
-- `images/whimsigothic/Mariska-Willems-3.jpg`
-- `images/whimsigothic/Couthy-Home-Scotland.jpg`
-- `images/whimsigothic/Bill-Nelson-album.webp`
-- `images/whimsigothic/Shadowtime-album.png`
-- `images/whimsigothic/Running-Angels.jpg`
-- `images/whimsigothic/Restaurant-Bar-Browns.jpg`
-- `images/whimsigothic/Disco-Twin-Star.jpg`
-- `images/whimsigothic/Alchemy-merch.jpg`
-- `images/whimsigothic/Regina-Chi-Chi-Beignet.jpg`
-- `images/whimsigothic/Don-Carlos.jpg`
-- `images/whimsigothic/Whimsigoth+Bedroom.webp`
-- `images/whimsigothic/R-1134972-1258560075.jpg`
-- `images/whimsigothic/Morwenvaidt.jpg`
-
 ## Source and attribution
 
-Text adapted from "Whimsigothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Whimsigothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Whimsigothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Whimsigothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

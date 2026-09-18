@@ -12,7 +12,6 @@ related_media: ["Hotline Miami (video game)", "John Carpenter films"]
 source_url: "https://aesthetics.fandom.com/wiki/Darksynth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Darksynth
@@ -95,17 +94,6 @@ Cover art for "Evil Technology" by VHS Glitch
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/darksynth/Perturbator-i-am-the-night-Cover-Art.jpg`
-- `images/darksynth/Downloady8uh8u.jpg`
-- `images/darksynth/Deadlife.jpg.webp`
-- `images/darksynth/What-is-your-favorite-album-cover-v0-cbxqhh79vws81.webp`
-- `images/darksynth/Darksynth-album-the-antipope-resurrection-by-dark-smoke-signal.jpg`
-- `images/darksynth/Wfl-neo-darksynth-hellscape-3e155ef7-d30a-42a3-9482-2ba3033f117f.jpg`
-- `images/darksynth/Imageij9ijfd.jpg`
-- `images/darksynth/Artworks-000603659212-urffqp-t500x500.jpg`
-
 ## Source and attribution
 
-Text adapted from "Darksynth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Darksynth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Darksynth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Darksynth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

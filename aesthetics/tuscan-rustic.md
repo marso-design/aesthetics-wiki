@@ -11,7 +11,6 @@ related_aesthetics: ["Autumn", "Corporate Gen-X Cyber", "Country", "Eco-Beige", 
 source_url: "https://aesthetics.fandom.com/wiki/Tuscan_Rustic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 32
 ---
 
 # Tuscan Rustic
@@ -57,41 +56,6 @@ Furniture in the Tuscan Rustic style emphasizes natural materials, rustic textur
 
 ## References
 
-## Images
-
-- `images/tuscan-rustic/Tuscan-10.webp`
-- `images/tuscan-rustic/Tuscanrustic.jpg`
-- `images/tuscan-rustic/Tr1.jpg`
-- `images/tuscan-rustic/Tr.jpg`
-- `images/tuscan-rustic/Urhomez.png`
-- `images/tuscan-rustic/Urhomez2.jpeg`
-- `images/tuscan-rustic/Beige-room.jpg`
-- `images/tuscan-rustic/Alright22.png`
-- `images/tuscan-rustic/Ocinside.jpg`
-- `images/tuscan-rustic/4c2fc2b9260434976f1fe2c678f67db3.jpg`
-- `images/tuscan-rustic/1645335cf20b4e8e122c134145c5c250.jpg`
-- `images/tuscan-rustic/Dhddbdd.png`
-- `images/tuscan-rustic/Trik7.png`
-- `images/tuscan-rustic/Yu.png`
-- `images/tuscan-rustic/Drggg.png`
-- `images/tuscan-rustic/Eeeertgty.png`
-- `images/tuscan-rustic/Hu.png`
-- `images/tuscan-rustic/Xp.png`
-- `images/tuscan-rustic/Counter.png`
-- `images/tuscan-rustic/Tango.png`
-- `images/tuscan-rustic/222.jpg`
-- `images/tuscan-rustic/80oallct3n201.jpg`
-- `images/tuscan-rustic/Reeeeeeeeeeeeeeeeeeeeeel.jpg`
-- `images/tuscan-rustic/Oprah.jpg`
-- `images/tuscan-rustic/Homes1.jpg`
-- `images/tuscan-rustic/Homes2.jpg`
-- `images/tuscan-rustic/Homes3.jpg`
-- `images/tuscan-rustic/H21.jpg`
-- `images/tuscan-rustic/Inside3.jpg`
-- `images/tuscan-rustic/Theinside.jpg`
-- `images/tuscan-rustic/H22.jpg`
-- `images/tuscan-rustic/Adam-brody-nerd-seth-seth-cohen-the-oc-Favim.com-51120.jpg`
-
 ## Source and attribution
 
-Text adapted from "Tuscan Rustic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tuscan_Rustic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tuscan Rustic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tuscan_Rustic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

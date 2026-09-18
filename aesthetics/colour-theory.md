@@ -5,7 +5,6 @@ palette: ["#FFFFFF", "#C9B8A0", "#637A87", "#EB8C49", "#334872", "#241044"]
 source_url: "https://aesthetics.fandom.com/wiki/Colour_Theory"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Colour Theory
@@ -150,14 +149,6 @@ Try to have fun with it.
 
 ## References
 
-## Images
-
-- `images/colour-theory/RYB.png`
-- `images/colour-theory/Pri-sec-ter.png`
-- `images/colour-theory/RGB.png`
-- `images/colour-theory/8137AD13-4FCB-4352-AD55-230B0C0176AC.png`
-- `images/colour-theory/47FB6969-F256-4FCB-83A2-9A87C88A4733.png`
-
 ## Source and attribution
 
-Text adapted from "Colour Theory" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Colour_Theory), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Colour Theory" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Colour_Theory), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_media: ["20", "000 Leagues Under The Sea", "Red Seas Under Red Skies", "
 source_url: "https://aesthetics.fandom.com/wiki/Nautical_Fantasy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Nautical Fantasy
@@ -71,4 +70,4 @@ While [Oceanpunk](https://aesthetics.fandom.com/wiki/Oceanpunk "Oceanpunk") and 
 
 ## Source and attribution
 
-Text adapted from "Nautical Fantasy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nautical_Fantasy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nautical Fantasy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nautical_Fantasy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

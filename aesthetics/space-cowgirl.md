@@ -12,7 +12,6 @@ related_media: ["Don't Worry Darling (2022 film)", "The Jetsons", "Fievel Goes W
 source_url: "https://aesthetics.fandom.com/wiki/Space_Cowgirl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Space Cowgirl
@@ -43,26 +42,6 @@ The fashion of the aesthetic is bright and sleek with neon colors and sparkles,
 
 ## References
 
-## Images
-
-- `images/space-cowgirl/64189999e184bca49a10cbebf623e269.jpg`
-- `images/space-cowgirl/Fe35ad09b2e3a3a7a0a17010f1b9bb97.jpg`
-- `images/space-cowgirl/F8a7dea63649f014508326d178c3412f.jpg`
-- `images/space-cowgirl/05f3c040c1029e3768d64124ad7359d9.jpg`
-- `images/space-cowgirl/48d6bd3d01048e37aa1a8f2fbc9eef81.jpg`
-- `images/space-cowgirl/71abb685ae6ccc4fdc3302c819d7e82d.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-0.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-1.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-3.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-4.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-5.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-6.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-7.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-8.jpg`
-- `images/space-cowgirl/Who-are-space-cowgirls-and-9.jpg`
-- `images/space-cowgirl/8a87ac984ba39eb3d535ebe73bbaafa5.jpg`
-- `images/space-cowgirl/Space-cowgirl-white-pink-cowboy-hat-moon-photoshoot-backdrop-platform-boots-complete-costume-neon-cowboys.webp`
-
 ## Source and attribution
 
-Text adapted from "Space Cowgirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Space_Cowgirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Space Cowgirl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Space_Cowgirl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

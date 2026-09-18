@@ -13,7 +13,6 @@ primary_platform: ["Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Mochette"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Mochette
@@ -190,14 +189,6 @@ Artists popular with Mochette bloggers include:
 
 ## References
 
-## Images
-
-- `images/mochette/968full-valerie-and-her-week-of-wonders-screenshot.jpg`
-- `images/mochette/Daisies19661.png`
-- `images/mochette/Daisessss-900x674.jpg`
-- `images/mochette/Little-Otik-2001-03.jpg`
-- `images/mochette/Bugsinricepuddingpfp.png`
-
 ## Source and attribution
 
-Text adapted from "Mochette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mochette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mochette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mochette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

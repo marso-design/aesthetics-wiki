@@ -9,7 +9,6 @@ related_aesthetics: ["Art Nouveau", "Arts and Crafts", "Fantasy", "Glasgow Style
 source_url: "https://aesthetics.fandom.com/wiki/Celtic_Revival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Celtic Revival
@@ -60,4 +59,4 @@ Centuries later, in the 1890s, a growing desire for Irish independence from Brit
 
 ## Source and attribution
 
-Text adapted from "Celtic Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Celtic_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Celtic Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Celtic_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

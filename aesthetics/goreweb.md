@@ -12,7 +12,6 @@ primary_platform: ["Instagram", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Goreweb"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Goreweb
@@ -129,17 +128,6 @@ AGC fan art (artist unknown)
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/goreweb/Ededdandeddy.jpg`
-- `images/goreweb/Artworks-eE33oMjz82vLsxQN-GYpCCg-t500x500.jpg`
-- `images/goreweb/Artworks-vDDyPyV4dzZB1AmT-qvzz3g-t240x240.jpg`
-- `images/goreweb/Artworks-xpJFdYPXzx2iXmGG-p4nbhw-t240x240.jpg`
-- `images/goreweb/Artworks-jXTBOyKqPT1wDpZY-OzMSGQ-t500x500.jpg`
-- `images/goreweb/Agcstuff.jpg`
-- `images/goreweb/Webgore1.jpg`
-- `images/goreweb/Webgore.jpg`
-
 ## Source and attribution
 
-Text adapted from "Goreweb" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Goreweb), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Goreweb" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Goreweb), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

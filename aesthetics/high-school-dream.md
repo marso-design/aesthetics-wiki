@@ -11,7 +11,6 @@ related_media: ["Mean Girls (2004)", "High School Musical franchise", "Clueless 
 source_url: "https://aesthetics.fandom.com/wiki/High_School_Dream"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # High School Dream
@@ -143,28 +142,6 @@ Football is a major aspect of the High School Dream aesthetic
 
 High school parties are often glorified in this aesthetic
 
-## Images
-
-- `images/high-school-dream/4b24053b809f6b235258cec5af614b69.jpg`
-- `images/high-school-dream/0a224f7f829842592b9164c26423ad0f.jpg`
-- `images/high-school-dream/2c58ac091ad244e912a33b4335639b83.jpg`
-- `images/high-school-dream/6EE082DB-1729-4ABF-91C6-EFF6F0DCB3B9.jpeg`
-- `images/high-school-dream/7b372bdc65c2f8f72392249fa86b86b4.jpg`
-- `images/high-school-dream/9k=Hdd.jpeg`
-- `images/high-school-dream/F0944d2676134191621f90713d7616ef.jpg`
-- `images/high-school-dream/Riverdale1.0.jpg`
-- `images/high-school-dream/37c82e29d3f32c4375827399c19f96c7.jpg`
-- `images/high-school-dream/Tv-archie-08a9be34-71d1-11e9-9f06-5fc2ee80027a-780x520.jpg`
-- `images/high-school-dream/Betty-riverdale-cw-4.jpg`
-- `images/high-school-dream/C595ebf6441ab7d32c493ac7d155c456.jpg`
-- `images/high-school-dream/7e8da086cbc66a0804dc8deb07e8baf3.jpg`
-- `images/high-school-dream/Unnamedrocks.jpg`
-- `images/high-school-dream/9b9638edef56fd7821b261a2f422b7b5.jpg`
-- `images/high-school-dream/569f14c7787a592de21b0d0003f8838a.jpg`
-- `images/high-school-dream/3a22a00ddb948090afa1d62000e38ab6.jpg`
-- `images/high-school-dream/6EF8C6B6-1C90-435F-82B6-EF2BB99A66EE.jpeg`
-- `images/high-school-dream/933B7E0A-7BA7-41ED-8E5A-7CA2BDB38869.jpeg`
-
 ## Source and attribution
 
-Text adapted from "High School Dream" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/High_School_Dream), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "High School Dream" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/High_School_Dream), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

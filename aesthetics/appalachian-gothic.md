@@ -10,7 +10,6 @@ related_aesthetics: ["Adventurecore", "Suburban Gothic", "Regional Gothic", "Cab
 source_url: "https://aesthetics.fandom.com/wiki/Appalachian_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Appalachian Gothic
@@ -153,13 +152,6 @@ by user TranquilRaven34
 
 ## References
 
-## Images
-
-- `images/appalachian-gothic/HansellVACityWiseVA1.jpg`
-- `images/appalachian-gothic/P1050986.jpg`
-- `images/appalachian-gothic/7400-4-7.jpg`
-- `images/appalachian-gothic/20171030-bluefield-inline.jpg`
-
 ## Source and attribution
 
-Text adapted from "Appalachian Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Appalachian_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Appalachian Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Appalachian_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

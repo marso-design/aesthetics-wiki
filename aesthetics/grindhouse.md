@@ -11,7 +11,6 @@ related_aesthetics: ["Gangsta Rap", "Horror", "UrBling", "Vintage"]
 source_url: "https://aesthetics.fandom.com/wiki/Grindhouse"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Grindhouse
@@ -90,18 +89,6 @@ Another important player is Pam Grier, often called the queen of grindhouse, who
 
 ## Gallery
 
-## Images
-
-- `images/grindhouse/G2.jpg`
-- `images/grindhouse/7857785785.png`
-- `images/grindhouse/Theperfectredvelvet.jpg`
-- `images/grindhouse/221-700-1000-fa2e20083725543f865a429bfa8d39d2a51fa27f.jpg`
-- `images/grindhouse/Wet.jpg`
-- `images/grindhouse/Madworldcover.jpeg`
-- `images/grindhouse/6246275272.jpg`
-- `images/grindhouse/Illbleedcover.jpg`
-- `images/grindhouse/6373735.jpg`
-
 ## Source and attribution
 
-Text adapted from "Grindhouse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grindhouse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Grindhouse" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Grindhouse), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

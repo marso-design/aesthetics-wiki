@@ -11,7 +11,6 @@ related_media: ["Doctor Who", "Star Trek", "Star Wars", "The IT Crowd", "Napoleo
 source_url: "https://aesthetics.fandom.com/wiki/Nerd"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Nerd
@@ -125,17 +124,6 @@ Napolean Dynamite and Pedro Sánchez from *Napolean Dynamite*
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/nerd/H5=.jpeg`
-- `images/nerd/Nerdy-room.jpg`
-- `images/nerd/C1503d01a3a8521b3a9c091f3d922350.jpg`
-- `images/nerd/Eduhqufdgrurfo.jpg`
-- `images/nerd/Ef665e154ee6c2094902fb17ccf3b0a2.jpg`
-- `images/nerd/Ihfbwhibfhibfkdcjnss.jpg`
-- `images/nerd/QrRRDcgycVYFCfhcgcfGv.jpg`
-- `images/nerd/QeRdgydT5CFc.jpg`
-
 ## Source and attribution
 
-Text adapted from "Nerd" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nerd), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nerd" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nerd), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

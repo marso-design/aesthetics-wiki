@@ -12,7 +12,6 @@ related_media: ["The Lighthouse (2019)", "The Finest Hours (2016)", "Moby Dick b
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Nautical"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Dark Nautical
@@ -277,14 +276,6 @@ The following regions are some examples:
 
 ## Gallery
 
-## Images
-
-- `images/dark-nautical/Lighthouseblue.jpg`
-- `images/dark-nautical/Ships.jpg`
-- `images/dark-nautical/Anchor.jpg`
-- `images/dark-nautical/Cliffside.jpg`
-- `images/dark-nautical/Lighthousered.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dark Nautical" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Nautical), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Nautical" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Nautical), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

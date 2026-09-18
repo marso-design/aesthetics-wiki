@@ -7,7 +7,6 @@ palette: ["#181415", "#81414F", "#BBD8A4", "#5E5A63", "#383034", "#FFDF16"]
 source_url: "https://aesthetics.fandom.com/wiki/Pacific_Punk_Wave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Pacific Punk Wave
@@ -22,13 +21,6 @@ image_count: 4
 
 [Accurqirred mannerisms.png](https://aesthetics.fandom.com/wiki/Special:Upload?wpDestFile=Accurqirred+mannerisms.png "Accurqirred mannerisms.png")
 
-## Images
-
-- `images/pacific-punk-wave/Inca.png`
-- `images/pacific-punk-wave/Mercura.png`
-- `images/pacific-punk-wave/Zaza.png`
-- `images/pacific-punk-wave/Maxwell.png`
-
 ## Source and attribution
 
-Text adapted from "Pacific Punk Wave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pacific_Punk_Wave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pacific Punk Wave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pacific_Punk_Wave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

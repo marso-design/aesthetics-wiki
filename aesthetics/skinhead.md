@@ -12,7 +12,6 @@ related_media: ["Music (Ska, Reggae, Oi!)", "Film (Romper Stomper, American Hist
 source_url: "https://aesthetics.fandom.com/wiki/Skinhead"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Skinhead
@@ -103,11 +102,6 @@ The Skinhead Family Tree, explaining the roots and different sub-groups.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/skinhead/SkinheadGirls.jpg`
-- `images/skinhead/Russell-Crowe-Publicity-Romper-Stomper-skinhead-Hando-1992.jpg`
-
 ## Source and attribution
 
-Text adapted from "Skinhead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skinhead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Skinhead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skinhead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

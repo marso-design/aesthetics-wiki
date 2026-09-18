@@ -11,7 +11,6 @@ related_media: ["The Divine Comedy", "The Golden Legend", "The Decameron"]
 source_url: "https://aesthetics.fandom.com/wiki/Italian_Renaissance"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Italian Renaissance
@@ -55,4 +54,4 @@ This new philosophical outlook influenced every aspect of the Renaissance, from 
 
 ## Source and attribution
 
-Text adapted from "Italian Renaissance" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Italian_Renaissance), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Italian Renaissance" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Italian_Renaissance), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

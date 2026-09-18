@@ -11,7 +11,6 @@ primary_platform: ["Gothic & Lolita Bible (magazine)"]
 source_url: "https://aesthetics.fandom.com/wiki/Gothic_Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Gothic Lolita
@@ -124,17 +123,6 @@ The difference between Gothic Lolita and other Lolita styles in black lies in th
 
 Mana
 
-## Images
-
-- `images/gothic-lolita/GothicLolita00.jpg`
-- `images/gothic-lolita/GothicLolita.jpg`
-- `images/gothic-lolita/GothicLolita01.jpg`
-- `images/gothic-lolita/Mana.jpg`
-- `images/gothic-lolita/GothicLolita02.jpg`
-- `images/gothic-lolita/GothicLolita03.jpg`
-- `images/gothic-lolita/GothicLolita04.jpg`
-- `images/gothic-lolita/GothicLolita05.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gothic Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gothic_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gothic Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gothic_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Italian Renaissance", "Mannerism", "Rococo", "Spanish Gold
 source_url: "https://aesthetics.fandom.com/wiki/Baroque"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Baroque
@@ -304,10 +303,6 @@ Out of the Strong Came Forth Sweetness, by Flora Yukhnovich, 2019, oil on linen
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/baroque/2C65FFC0-C545-433A-B57D-F1AB1EC14956.png`
-
 ## Source and attribution
 
-Text adapted from "Baroque" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Baroque), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Baroque" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Baroque), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

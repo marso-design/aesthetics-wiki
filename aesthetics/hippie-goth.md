@@ -11,7 +11,6 @@ related_aesthetics: ["Goth", "Whimsigothic", "Gothabilly", "Hippie", "Bohemian",
 source_url: "https://aesthetics.fandom.com/wiki/Hippie_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Hippie Goth
@@ -180,18 +179,6 @@ Olivia Emily via oliviaemily.com ([here](https://oliviaemily.com/outfit/between-
 
 ## References
 
-## Images
-
-- `images/hippie-goth/78a4d4199be9cbe4d0fb6346d2a7c0f9.jpg`
-- `images/hippie-goth/Def9ef08f69e688ec65de98068814a62.jpg`
-- `images/hippie-goth/8596cbd1c93932b9cc397f354b5aa858.jpg`
-- `images/hippie-goth/03ba3ac8cb88407d143c6cd31c5f0eb2.jpg`
-- `images/hippie-goth/D98e1917cd28f825046e87f9cec538c2.jpg`
-- `images/hippie-goth/3e6e91f2bb8d2c26639023ec4930135e.jpg`
-- `images/hippie-goth/B639bd3d923f00515f160429b68b4cbd.jpg`
-- `images/hippie-goth/302df66fa2eeb7ba027f0539e6aec00b.jpg`
-- `images/hippie-goth/E99a7c364ec88f39472134730f379ca2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hippie Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hippie_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hippie Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hippie_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

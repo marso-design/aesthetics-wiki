@@ -11,7 +11,6 @@ related_aesthetics: ["Après-ski", "Autumn Aesthetic", "Christmas", "Cozycore", 
 source_url: "https://aesthetics.fandom.com/wiki/Winter_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Winter Aesthetic
@@ -57,25 +56,6 @@ Participation in the Winter aesthetic is often expressed through a set of intent
 
 ## References
 
-## Images
-
-- `images/winter-aesthetic/Cozy-bed.webp`
-- `images/winter-aesthetic/Winter10.jpg`
-- `images/winter-aesthetic/Winter9.jpg`
-- `images/winter-aesthetic/Winter8.jpg`
-- `images/winter-aesthetic/Winter7.jpg`
-- `images/winter-aesthetic/Winter6.jpg`
-- `images/winter-aesthetic/Winter5.jpg`
-- `images/winter-aesthetic/Winter4.jpg`
-- `images/winter-aesthetic/Winter3.jpg`
-- `images/winter-aesthetic/Winter1.jpg`
-- `images/winter-aesthetic/Red-scarf-and-skates-christmas-aesthetic.jpg`
-- `images/winter-aesthetic/Funkywinterac.jpg`
-- `images/winter-aesthetic/Yesyesfunkywinterac.jpg`
-- `images/winter-aesthetic/Winter2.jpg`
-- `images/winter-aesthetic/Gurglewurgleeghheheh.jpg`
-- `images/winter-aesthetic/Honkytonkyhonkybungle.jpg`
-
 ## Source and attribution
 
-Text adapted from "Winter Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Winter_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Winter Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Winter_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

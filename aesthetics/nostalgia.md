@@ -5,7 +5,6 @@ palette: ["#3F3C3C", "#FFFFFF", "#140D0F", "#292829", "#B87689", "#A83765"]
 source_url: "https://aesthetics.fandom.com/wiki/Nostalgia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Nostalgia
@@ -57,10 +56,6 @@ This strategy is highly effective because nostalgic feelings can influence spend
 
 ## References
 
-## Images
-
-- `images/nostalgia/RoseColoredGlasses.png`
-
 ## Source and attribution
 
-Text adapted from "Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

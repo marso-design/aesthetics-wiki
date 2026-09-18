@@ -8,7 +8,6 @@ related_aesthetics: ["Heisei Retro", "Shoujo", "Wabi-Sabi", "Tokusatsu", "Retrof
 source_url: "https://aesthetics.fandom.com/wiki/Showa_Retro"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Showa Retro
@@ -81,12 +80,6 @@ TBA
 
 ## Gallery
 
-## Images
-
-- `images/showa-retro/W338221935.1.jpg`
-- `images/showa-retro/Insert4.png`
-- `images/showa-retro/Showaretroboom.jpg`
-
 ## Source and attribution
 
-Text adapted from "Showa Retro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Showa_Retro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Showa Retro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Showa_Retro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

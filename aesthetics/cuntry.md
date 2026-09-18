@@ -12,7 +12,6 @@ primary_platform: ["Instagram", "Pinterest", "TikTok", "Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Cuntry"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Cuntry
@@ -158,31 +157,6 @@ Many brands who also make clothing within this aesthetic are also expensive and 
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/cuntry/A2d675e54cde1133089d26e97d3d46f7.jpg`
-- `images/cuntry/7aaab08f27dc6eb37a6cb53c59dc4bdf.jpg`
-- `images/cuntry/20e7d6efc67e45cf225b4dd666a5030e.jpg`
-- `images/cuntry/89ab13b0df6fa2fd150d7c16960435a9.jpg`
-- `images/cuntry/0efb0c4cc030767e34164470396967ee.jpg`
-- `images/cuntry/Ethel-correct.png`
-- `images/cuntry/Ethel5.jpg`
-- `images/cuntry/Fd577d85e0d4a5fda49c9ecac4e1bb4a.jpg`
-- `images/cuntry/Ethelcain4.jpg`
-- `images/cuntry/2USRLJQTOVGGDIXCSPF767ZHLY.jpeg`
-- `images/cuntry/While-we-wait-whose-yalls-favorite-artist-right-now-mines-v0-xem6vqul2o8d2.jpeg`
-- `images/cuntry/46027fe31f2e75aa5f71869542da489c.jpg`
-- `images/cuntry/JL5LFRSK4Y4ZKFGF6T7AIUPPGM.jpeg`
-- `images/cuntry/F4d9023893c876a9c1edceed97c6c38e.jpg`
-- `images/cuntry/6d8514306b2e6187160a0e7236755f3a.jpg`
-- `images/cuntry/Orvillepeck-2019-promo-15-carlossantolalla-424x640-72.jpg`
-- `images/cuntry/Sub-buzz-5178-1539194051-1.jpg`
-- `images/cuntry/1e58782b45624098eb905da21634fc97.jpg`
-- `images/cuntry/WoknPPliWWI-HD.jpg`
-- `images/cuntry/Beyonce-grammys-2024-02042024-758a026da10e4cd2aa2c012679f2450d.jpg`
-- `images/cuntry/Imrs.jpeg`
-- `images/cuntry/GS28eCPWkAEVync.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cuntry" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cuntry), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cuntry" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cuntry), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

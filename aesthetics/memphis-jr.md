@@ -9,7 +9,6 @@ related_aesthetics: ["Kidcore", "Memphis Design", "Memphis Lite", "Nostalgiacore
 source_url: "https://aesthetics.fandom.com/wiki/Memphis_Jr."
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Memphis Jr.
@@ -31,4 +30,4 @@ _Also known as: Playskool PoMo_
 
 ## Source and attribution
 
-Text adapted from "Memphis Jr." on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Memphis_Jr.), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Memphis Jr." on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Memphis_Jr.), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

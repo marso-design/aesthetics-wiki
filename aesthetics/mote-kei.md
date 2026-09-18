@@ -9,7 +9,6 @@ related_aesthetics: ["Girly Kei", "Gyaru", "Larme Kei"]
 source_url: "https://aesthetics.fandom.com/wiki/Mote_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Mote Kei
@@ -34,12 +33,6 @@ Guide to attract men with Mote Kei
 
 ## References
 
-## Images
-
-- `images/mote-kei/Yuriebihara.webp`
-- `images/mote-kei/Ray-mote-propose.webp`
-- `images/mote-kei/Motekei-snidel.webp`
-
 ## Source and attribution
 
-Text adapted from "Mote Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mote_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mote Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mote_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["I'm No Longer Here (Ya no estoy aquí) (2019 Film)"]
 source_url: "https://aesthetics.fandom.com/wiki/Cholombiano"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Cholombiano
@@ -93,22 +92,6 @@ Outfits are heavily adorned with Mexican religious iconography. T-shirts and hoo
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/cholombiano/Cholombianos.png`
-- `images/cholombiano/E353af8e92b62fbc45f942be6a53c4f7.jpg`
-- `images/cholombiano/24fa010680551c6cdc8468acaebebc0e.jpg`
-- `images/cholombiano/Ea26540d8c37054933526e50b4bd86f4.jpg`
-- `images/cholombiano/E1edbf259bef6a867bcd965364ba19ad.jpg`
-- `images/cholombiano/5f82ae0476f25d34a7121f2732e237cb.jpg`
-- `images/cholombiano/Dec32a930bd9a66b8c700adfe27a7a5b.jpg`
-- `images/cholombiano/B4a032791a552f2efa4fedcdaf6fc56f.jpg`
-- `images/cholombiano/F7ed59fbd5caaf055858a445278d0606.jpg`
-- `images/cholombiano/22may3.jpg`
-- `images/cholombiano/0d74b92934cdff73f291250e44334258.jpg`
-- `images/cholombiano/A8d7158dcf4698b74d15e7d26916c448.jpg`
-- `images/cholombiano/Bc2b49939a7ba1caf11da9823d6e51c8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cholombiano" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cholombiano), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cholombiano" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cholombiano), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

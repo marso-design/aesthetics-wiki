@@ -12,7 +12,6 @@ related_media: ["James Bond film series", "The Wolf of Wall Street (2013)", "Mia
 source_url: "https://aesthetics.fandom.com/wiki/Playboy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Playboy
@@ -83,11 +82,6 @@ The core Playboy archetype has several variations that emphasize different aspec
 
 ## References
 
-## Images
-
-- `images/playboy/Iron-Man-2.jpg`
-- `images/playboy/Boujee-car.jpg`
-
 ## Source and attribution
 
-Text adapted from "Playboy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Playboy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Playboy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Playboy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

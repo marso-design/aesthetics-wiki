@@ -8,7 +8,6 @@ palette: ["#1C2027", "#767674", "#3A363A", "#536267", "#959D99", "#E4DFD7"]
 source_url: "https://aesthetics.fandom.com/wiki/Shanzhai"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 31
 ---
 
 # Shanzhai
@@ -179,40 +178,6 @@ Abibas Store in Crimea
 
 ## References
 
-## Images
-
-- `images/shanzhai/Shanzai.jpeg`
-- `images/shanzhai/Shanzhai.png`
-- `images/shanzhai/Indexshanzhai.jpg`
-- `images/shanzhai/Unnamedshanzhai.jpg`
-- `images/shanzhai/Shanzhai20.jpg`
-- `images/shanzhai/Imageshanzhai.jpg`
-- `images/shanzhai/CJUa-qNUkAACPuB-1uqpauq.jpg`
-- `images/shanzhai/20141120-011831-4711019.jpg`
-- `images/shanzhai/Sonic3.png`
-- `images/shanzhai/Hongkonggame.png`
-- `images/shanzhai/7grandad.gif`
-- `images/shanzhai/Bc2.gif`
-- `images/shanzhai/Bootlegpikachu.png`
-- `images/shanzhai/Worldheroes2.png`
-- `images/shanzhai/Danshi.png`
-- `images/shanzhai/Pokebootleg.png`
-- `images/shanzhai/Somari.png`
-- `images/shanzhai/14cart.png`
-- `images/shanzhai/Minions.png`
-- `images/shanzhai/Mario14.png`
-- `images/shanzhai/Gamechild.png`
-- `images/shanzhai/Bc11.jpg`
-- `images/shanzhai/9in1.png`
-- `images/shanzhai/Bootlegs.png`
-- `images/shanzhai/Cursedconsole.png`
-- `images/shanzhai/Switchfake.png`
-- `images/shanzhai/Cartridges.jpg`
-- `images/shanzhai/Supermariofake.png`
-- `images/shanzhai/Bootlegcore.png`
-- `images/shanzhai/Абибасы.jpeg`
-- `images/shanzhai/Abibas.jpg`
-
 ## Source and attribution
 
-Text adapted from "Shanzhai" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shanzhai), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Shanzhai" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Shanzhai), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

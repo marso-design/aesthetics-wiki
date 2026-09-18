@@ -11,7 +11,6 @@ related_media: ["Donald Duck", "Popeye", "The Marvelous Misadventures of Flapjac
 source_url: "https://aesthetics.fandom.com/wiki/Nautical"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Nautical
@@ -106,23 +105,6 @@ Aesthetic Collage (Fashion Based)
 
 The logo for Bell Atlantic (now Verizon)
 
-## Images
-
-- `images/nautical/Nautical4.jpg`
-- `images/nautical/Nautical5.jpg`
-- `images/nautical/Nautical6.jpg`
-- `images/nautical/Nautical7.jpg`
-- `images/nautical/Nautical9.jpg`
-- `images/nautical/Nautical10.jpg`
-- `images/nautical/Nautical11.jpg`
-- `images/nautical/Nautical12.jpg`
-- `images/nautical/Nautical13.jpg`
-- `images/nautical/Seaglass2.jpg`
-- `images/nautical/NauticalHouse.png`
-- `images/nautical/StarsNauticalHomeDecor.png`
-- `images/nautical/NauticalBathroom.png`
-- `images/nautical/BellAtlanticLogo.png`
-
 ## Source and attribution
 
-Text adapted from "Nautical" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nautical), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Nautical" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Nautical), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

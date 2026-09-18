@@ -9,7 +9,6 @@ primary_platform: ["Tumblr and Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/2010s_Soft_Kawaii"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # 2010s Soft Kawaii
@@ -93,4 +92,4 @@ To match the warm-toned color palette of this aesthetic, and because this was a 
 
 ## Source and attribution
 
-Text adapted from "2010s Soft Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Soft_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2010s Soft Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Soft_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

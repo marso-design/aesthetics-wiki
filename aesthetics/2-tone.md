@@ -10,7 +10,6 @@ related_aesthetics: ["Mod", "New Wave", "Northern Soul", "Punk", "Reggae", "Rude
 source_url: "https://aesthetics.fandom.com/wiki/2_Tone"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # 2 Tone
@@ -109,4 +108,4 @@ The Specials
 
 ## Source and attribution
 
-Text adapted from "2 Tone" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2_Tone), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2 Tone" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2_Tone), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

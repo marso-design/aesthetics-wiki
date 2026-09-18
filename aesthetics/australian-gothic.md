@@ -10,7 +10,6 @@ subgenres: ["Tasmanian Gothic"]
 source_url: "https://aesthetics.fandom.com/wiki/Australian_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Australian Gothic
@@ -148,4 +147,4 @@ In the early years of colonised Australia, many early art movements (such as *[A
 
 ## Source and attribution
 
-Text adapted from "Australian Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Australian_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Australian Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Australian_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

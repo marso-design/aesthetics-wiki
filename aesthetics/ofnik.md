@@ -11,7 +11,6 @@ palette: ["#010102", "#181B25", "#5A596F", "#3D4357", "#E3DCEB", "#BEA2AB"]
 source_url: "https://aesthetics.fandom.com/wiki/Ofnik"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Ofnik
@@ -52,13 +51,6 @@ Fights, whether planned or spontaneous, were frequently filmed by bystanders on 
 
 ## Gallery
 
-## Images
-
-- `images/ofnik/2118650ca3b019f3c772fc11889795da.jpg`
-- `images/ofnik/Aa2a8fdf95f410fde62a24535db8c97d.jpg`
-- `images/ofnik/8357e41929e26b080da885cb676afcce.jpg`
-- `images/ofnik/F47e5ef026a089727b49d44f7fa0143f.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ofnik" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ofnik), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ofnik" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ofnik), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

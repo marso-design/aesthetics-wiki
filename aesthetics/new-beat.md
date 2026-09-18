@@ -12,7 +12,6 @@ related_media: ["The Sound of Belgium (2012 documentary)", "Mortal Kombat (for t
 source_url: "https://aesthetics.fandom.com/wiki/New_Beat"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # New Beat
@@ -183,26 +182,6 @@ Cold Sensation - Belgian Music Train
 | Fusion Aesthetics |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") ⚒ [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") ⚒ [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") ⚒ **New Beat** |
 
-## Images
-
-- `images/new-beat/NewBeat.jpg`
-- `images/new-beat/NewBeat1.jpg`
-- `images/new-beat/NewBeat2.jpg`
-- `images/new-beat/NewBeat3.jpg`
-- `images/new-beat/NewBeat4.jpg`
-- `images/new-beat/NewBeat5.jpg`
-- `images/new-beat/NewBeat6.jpg`
-- `images/new-beat/NewBeat7.jpg`
-- `images/new-beat/NewBeat8.jpg`
-- `images/new-beat/Popcorn.jpg`
-- `images/new-beat/NewBeat10.jpg`
-- `images/new-beat/NewBeat11.jpg`
-- `images/new-beat/Leunis5.jpg`
-- `images/new-beat/Newbeat.jpg`
-- `images/new-beat/New-beat-7.jpg`
-- `images/new-beat/De-0516-710838-front.jpg`
-- `images/new-beat/NewBeatLogo.jpg`
-
 ## Source and attribution
 
-Text adapted from "New Beat" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Beat), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "New Beat" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Beat), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

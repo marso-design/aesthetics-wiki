@@ -8,7 +8,6 @@ related_aesthetics: ["Cassette Futurism", "Early Cyber", "Cyberpunk", "Italo Dis
 source_url: "https://aesthetics.fandom.com/wiki/Laser_Grid"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Laser Grid
@@ -176,15 +175,6 @@ Other media
 * [Vanishing Point: How the Light Grid Defined 1980s Futurism](https://wearethemutants.com/2017/02/16/vanishing-point-how-the-light-grid-defined-1980s-futurism/)
 * [By Their Stripes You Shall Know Them](https://www.emblemetric.com/2012/12/18/by-their-stripes-you-shall-know-them/)
 
-## Images
-
-- `images/laser-grid/Tron-disneyscreencaps-com-7858.png`
-- `images/laser-grid/R-11598969-1519924133-2027.jpg`
-- `images/laser-grid/PXL2000.jpg`
-- `images/laser-grid/Wobbledogsbreedingsim.png`
-- `images/laser-grid/Uoja-nho.jpg`
-- `images/laser-grid/Grid-spiration.jpg`
-
 ## Source and attribution
 
-Text adapted from "Laser Grid" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Laser_Grid), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Laser Grid" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Laser_Grid), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

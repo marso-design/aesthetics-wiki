@@ -12,7 +12,6 @@ related_media: ["Jem and The Holograms (1985)", "The Dirt (2019)"]
 source_url: "https://aesthetics.fandom.com/wiki/Hair_Metal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Hair Metal
@@ -295,27 +294,6 @@ London
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/hair-metal/Dokken.jpg`
-- `images/hair-metal/LAGuns.jpg`
-- `images/hair-metal/A52606e57e68b8a54d8e0f880fa91988.jpg`
-- `images/hair-metal/8719c51b0d4e4de9de761eaf3ae8ecae.jpg`
-- `images/hair-metal/63b2026c4181e9713aeceef5a1bacf44.jpg`
-- `images/hair-metal/0f8f16f02f258f052964aea9dd0de2f5.jpg`
-- `images/hair-metal/62f35252f1a23e4c5f83c777cf7c9ea0.jpg`
-- `images/hair-metal/A21dbfaa0de3ffa2750e00292d6b216b.jpg`
-- `images/hair-metal/6b5443750576a1ae465b8a04ec76fc5f.jpg`
-- `images/hair-metal/4f02695cc44e5aa6aad40f1fcb8ac2d5.jpg`
-- `images/hair-metal/08051fb5e51c299f15fcd7b5683fe9af.jpg`
-- `images/hair-metal/Da0a9ebe195a6f976a33747198334a81.jpg`
-- `images/hair-metal/5b3ed82c4fbc199082b6f868fc1fe06f.jpg`
-- `images/hair-metal/57fac53bb0ab34839bae0f37a462daf4.jpg`
-- `images/hair-metal/9cc51e76581cd526b4d12d807e54304a.jpg`
-- `images/hair-metal/3661a5fe884aad15764463784099e108.jpg`
-- `images/hair-metal/16d880e0bae12442325387814f138812.jpg`
-- `images/hair-metal/18faad79a44941c185a48272a2ddbff0.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hair Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hair_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hair Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hair_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

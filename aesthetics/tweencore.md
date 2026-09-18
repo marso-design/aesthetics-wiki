@@ -12,7 +12,6 @@ primary_platform: ["Facebook (early era)", "Instagram (early era)", "Kik"]
 source_url: "https://aesthetics.fandom.com/wiki/Tweencore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Tweencore
@@ -192,28 +191,6 @@ Polly Pocket DVD Cover
 
 *Little Secrets* (2001)
 
-## Images
-
-- `images/tweencore/Tweencore1.jpeg`
-- `images/tweencore/Tweencore2.jpeg`
-- `images/tweencore/Tweencore3.jpeg`
-- `images/tweencore/Tweencore4.jpeg`
-- `images/tweencore/Tweencore5.jpeg`
-- `images/tweencore/Tweencore6.jpeg`
-- `images/tweencore/Tweencore7.jpeg`
-- `images/tweencore/Tweencore8.jpeg`
-- `images/tweencore/Claires2.png`
-- `images/tweencore/Claires3.png`
-- `images/tweencore/Palette.png`
-- `images/tweencore/Limited-too-store-mall2.webp`
-- `images/tweencore/3309485-360.jpeg`
-- `images/tweencore/GVTmivrXAAAj501.jpg`
-- `images/tweencore/201911300947070.Scan20203.jpg`
-- `images/tweencore/241617.jpg`
-- `images/tweencore/Curly-Girly.jpg`
-- `images/tweencore/Image-resizer.jpg`
-- `images/tweencore/66bd57b1230000330020d204.webp`
-
 ## Source and attribution
 
-Text adapted from "Tweencore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tweencore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tweencore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tweencore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

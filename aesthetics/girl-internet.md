@@ -4,7 +4,6 @@ slug: "girl-internet"
 source_url: "https://aesthetics.fandom.com/wiki/Girl_Internet"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Girl Internet
@@ -19,4 +18,4 @@ Critics point out how the usage of the term is often linked to negative stereoty
 
 ## Source and attribution
 
-Text adapted from "Girl Internet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Girl_Internet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Girl Internet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Girl_Internet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

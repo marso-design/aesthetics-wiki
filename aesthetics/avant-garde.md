@@ -8,7 +8,6 @@ palette: ["#110F0D", "#4C494C", "#877C78", "#DBDDD9", "#9A9490", "#BDB3AC"]
 source_url: "https://aesthetics.fandom.com/wiki/Avant-garde"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Avant-garde
@@ -97,20 +96,6 @@ In fashion terms, avant-garde spanned generations of notable designers who resh
 
 * [Avant-garde](https://pin.it/7071ywB) by AtoZAesthetics
 
-## Images
-
-- `images/avant-garde/Avante-1.jpeg`
-- `images/avant-garde/Avante-2.jpg`
-- `images/avant-garde/Avante-3.jpg`
-- `images/avant-garde/Avante-5.jpg`
-- `images/avant-garde/Avante-6.jpg`
-- `images/avant-garde/Avante-4.jpg`
-- `images/avant-garde/Freeze.jpg`
-- `images/avant-garde/F0DBD5D2-6332-4D93-BD67-2036B91AB039.jpg`
-- `images/avant-garde/45FB1194-0B82-4FEE-80C1-DCC9E121445D.jpg`
-- `images/avant-garde/875F89BB-556A-49FF-A4EB-5F0184C825DF.jpg`
-- `images/avant-garde/4C8D8222-5FF7-4003-BCE2-A545B9BFEE56.jpg`
-
 ## Source and attribution
 
-Text adapted from "Avant-garde" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Avant-garde), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Avant-garde" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Avant-garde), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

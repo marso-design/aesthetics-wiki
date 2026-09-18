@@ -11,7 +11,6 @@ related_aesthetics: ["Laborwave", "Nazi Chic", "New Partisans", "Punk", "Soviet 
 source_url: "https://aesthetics.fandom.com/wiki/Communist_Chic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Communist Chic
@@ -114,20 +113,6 @@ A model wearing highly tailored, severe, Soviet-inspired fashion.
 
 ## References
 
-## Images
-
-- `images/communist-chic/Communistchic.jpg`
-- `images/communist-chic/Newyorkdolls.png`
-- `images/communist-chic/Communistchic2.JPG`
-- `images/communist-chic/Goscha.jpg`
-- `images/communist-chic/Grimescommchic.png`
-- `images/communist-chic/Cc1.jpg`
-- `images/communist-chic/Cc2.jpg`
-- `images/communist-chic/Cc3.jpg`
-- `images/communist-chic/Communistchic4.jpg`
-- `images/communist-chic/Chechic.jpg`
-- `images/communist-chic/Leninstatue.png`
-
 ## Source and attribution
 
-Text adapted from "Communist Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Communist_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Communist Chic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Communist_Chic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

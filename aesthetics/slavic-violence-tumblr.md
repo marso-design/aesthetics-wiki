@@ -9,7 +9,6 @@ related_aesthetics: ["Bondage", "Morute", "Southern Gothic", "Soviet Nostalgia"]
 source_url: "https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Slavic Violence Tumblr
@@ -73,4 +72,4 @@ Servicemen of the Belarusian
 
 ## Source and attribution
 
-Text adapted from "Slavic Violence Tumblr" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Slavic Violence Tumblr" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

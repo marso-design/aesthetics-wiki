@@ -9,7 +9,6 @@ related_aesthetics: ["Cani", "Chav", "Cocalar", "Dizelaši", "Dresiarz", "Gopnik
 source_url: "https://aesthetics.fandom.com/wiki/Bombardier"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Bombardier
@@ -51,13 +50,6 @@ The following article contains and discusses content that may be distressing to 
 
 ## Gallery
 
-## Images
-
-- `images/bombardier/Geolgau.jpg`
-- `images/bombardier/Geolgau-cu-terry.jpg`
-- `images/bombardier/OGEastbull.jpg`
-- `images/bombardier/Numorcaiicandvorcainii.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bombardier" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bombardier), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bombardier" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bombardier), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

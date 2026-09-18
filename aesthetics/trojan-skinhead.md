@@ -12,7 +12,6 @@ related_media: ["Trojan Records releases", "Spirit of '69: A Skinhead Bible (Geo
 source_url: "https://aesthetics.fandom.com/wiki/Trojan_Skinhead"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Trojan Skinhead
@@ -90,15 +89,6 @@ The Trojan sound and aesthetic directly inspired the [2 Tone](https://aesthetics
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/trojan-skinhead/Skinheads1969.jpg`
-- `images/trojan-skinhead/9f29c49dc75cb8a97eedc1ba77caeb74.jpg`
-- `images/trojan-skinhead/Dd5229f7948d16b1848c33f61a27f717.jpg`
-- `images/trojan-skinhead/37fd401130dc7aeadd310004be29e130.jpg`
-- `images/trojan-skinhead/8957430564b5bd5956d6cf6589417889.jpg`
-- `images/trojan-skinhead/39436b67a85a284261e3f8ed3879af18.jpg`
-
 ## Source and attribution
 
-Text adapted from "Trojan Skinhead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trojan_Skinhead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Trojan Skinhead" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trojan_Skinhead), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

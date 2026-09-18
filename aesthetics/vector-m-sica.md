@@ -11,7 +11,6 @@ related_media: ["f5ve (J-pop Girl Group)", "Winx Club (Seasons 4–5)", "Suite P
 source_url: "https://aesthetics.fandom.com/wiki/Vector_Música"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Vector Música
@@ -86,14 +85,6 @@ Violetta - Theme Song - Official Disney Channel UK
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● **Vector Música** ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/vector-m-sica/MusaBelievixWallpaper.webp`
-- `images/vector-m-sica/EspacioCorunha.jpg`
-- `images/vector-m-sica/MusaWallpaper.webp`
-- `images/vector-m-sica/Mewsic.jpg`
-- `images/vector-m-sica/Mewsic2.webp`
-
 ## Source and attribution
 
-Text adapted from "Vector Música" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vector_Música), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Vector Música" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Vector_Música), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

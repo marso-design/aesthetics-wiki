@@ -11,7 +11,6 @@ related_aesthetics: ["Gothic", "Italian Renaissance", "Manueline", "Medieval", "
 source_url: "https://aesthetics.fandom.com/wiki/Gothic_Architecture"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Gothic Architecture
@@ -155,13 +154,6 @@ Another common feature of French Gothic cathedrals was a labyrinth or maze on th
 
 ## References
 
-## Images
-
-- `images/gothic-architecture/LeonCathedral.jpg`
-- `images/gothic-architecture/Gtchiarc2.jpg`
-- `images/gothic-architecture/Gothicarch1.jpg`
-- `images/gothic-architecture/Gothicarc2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gothic Architecture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gothic_Architecture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gothic Architecture" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gothic_Architecture), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Cluttercore", "Heisei Retro", "Juminocore", "Kidcore", "Mi
 source_url: "https://aesthetics.fandom.com/wiki/Cacareco_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Cacareco Girl
@@ -57,25 +56,6 @@ Lara Yukie
 | --- | --- | --- |
 | [Aliyahcore](https://aesthetics.fandom.com/wiki/Aliyahcore "Aliyahcore") • [Avant Basic](https://aesthetics.fandom.com/wiki/Avant_Basic "Avant Basic") • [Barbiecore](https://aesthetics.fandom.com/wiki/Barbiecore "Barbiecore") • [Blokecore](https://aesthetics.fandom.com/wiki/Blokecore "Blokecore") • [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") • [Blueberry Girl](https://aesthetics.fandom.com/wiki/Blueberry_Girl "Blueberry Girl") • [Brat Summer](https://aesthetics.fandom.com/wiki/Brat_Summer "Brat Summer") • [Brazilian Bombshell](https://aesthetics.fandom.com/wiki/Brazilian_Bombshell "Brazilian Bombshell") • [Brazilcore](https://aesthetics.fandom.com/wiki/Brazilcore "Brazilcore") • **Cacareco Girl** • [Cayetana](https://aesthetics.fandom.com/wiki/Cayetana "Cayetana") • [Cinnamon Girl](https://aesthetics.fandom.com/wiki/Cinnamon_Girl "Cinnamon Girl") • [Christian Girl Autumn](https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn "Christian Girl Autumn") • [Clean Girl](https://aesthetics.fandom.com/wiki/Clean_Girl "Clean Girl") • [Coastal Cowgirl](https://aesthetics.fandom.com/wiki/Coastal_Cowgirl "Coastal Cowgirl") • [Coastal Grandmother](https://aesthetics.fandom.com/wiki/Coastal_Grandmother "Coastal Grandmother") • [Dopamine Dressing](https://aesthetics.fandom.com/wiki/Dopamine_Dressing "Dopamine Dressing") • [Earthy Black Girl](https://aesthetics.fandom.com/wiki/Earthy_Black_Girl "Earthy Black Girl") • [Eclectic Grandpa](https://aesthetics.fandom.com/wiki/Eclectic_Grandpa "Eclectic Grandpa") • [Female Horror Game Protagonist Fashion](https://aesthetics.fandom.com/wiki/Female_Horror_Game_Protagonist_Fashion "Female Horror Game Protagonist Fashion") • [Frazzled English Woman](https://aesthetics.fandom.com/wiki/Frazzled_English_Woman "Frazzled English Woman") • [Girl Suffix](https://aesthetics.fandom.com/wiki/Category:Girl "Category:Girl") • [Granola Girl](https://aesthetics.fandom.com/wiki/Granola_Girl "Granola Girl") • [Grocery Girl Fall](https://aesthetics.fandom.com/wiki/Grocery_Girl_Fall "Grocery Girl Fall") • [Lulicore](https://aesthetics.fandom.com/wiki/Lulicore "Lulicore") • [Maillard Style](https://aesthetics.fandom.com/wiki/Maillard_Style "Maillard Style") • [Mermaidcore](https://aesthetics.fandom.com/wiki/Mermaidcore "Mermaidcore") • [Mob Wife](https://aesthetics.fandom.com/wiki/Mob_Wife "Mob Wife") • [Office Siren](https://aesthetics.fandom.com/wiki/Office_Siren "Office Siren") • [Peach Girl](https://aesthetics.fandom.com/wiki/Peach_Girl "Peach Girl") • [Pearlcore](https://aesthetics.fandom.com/wiki/Pearlcore "Pearlcore") • [Plazacore](https://aesthetics.fandom.com/wiki/Plazacore "Plazacore") • [Sad Beige](https://aesthetics.fandom.com/wiki/Sad_Beige "Sad Beige") • [Scandi Girl Winter](https://aesthetics.fandom.com/wiki/Scandi_Girl_Winter "Scandi Girl Winter") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Strawberry Girl](https://aesthetics.fandom.com/wiki/Strawberry_Girl "Strawberry Girl") • [Succubus Chic](https://aesthetics.fandom.com/wiki/Succubus_Chic "Succubus Chic") • [Tenniscore](https://aesthetics.fandom.com/wiki/Tenniscore "Tenniscore") • [That Girl](https://aesthetics.fandom.com/wiki/That_Girl "That Girl") • [Tomato Girl](https://aesthetics.fandom.com/wiki/Tomato_Girl "Tomato Girl") • [Tumbette](https://aesthetics.fandom.com/wiki/Tumbette "Tumbette") • [Vanilla Girl](https://aesthetics.fandom.com/wiki/Vanilla_Girl "Vanilla Girl") |
 
-## Images
-
-- `images/cacareco-girl/LaraYukie.png`
-- `images/cacareco-girl/Cacarecos-bolsa.jpeg`
-- `images/cacareco-girl/89268697c1a494785c19553913371bbd.jpg`
-- `images/cacareco-girl/0354944edc8a588f7927aa93bac76686.jpg`
-- `images/cacareco-girl/Ab9b564a7a85089f3853b436705c382c.jpg`
-- `images/cacareco-girl/747dbf8cd68b09ef113d9ec05637b882.jpg`
-- `images/cacareco-girl/032edd2e93021479c1daaf6a10e8ba5f.jpg`
-- `images/cacareco-girl/36d87a621fecf08bfcae669434d6f3ce.jpg`
-- `images/cacareco-girl/Fd6912d90c1b07f359ea484551e0dc5c.jpg`
-- `images/cacareco-girl/Eacfcce0b55ce7a7e39e963bc36ebeed.jpg`
-- `images/cacareco-girl/12177d0ca3d8ae4b7fd371bd7e9b14ad.jpg`
-- `images/cacareco-girl/40aa4f7b8a7deffaeaa7a26733c4198f.jpg`
-- `images/cacareco-girl/9941da09bae334a62690b43892332f16.jpg`
-- `images/cacareco-girl/13e896f2f91a3b928042029185abbb5b.jpg`
-- `images/cacareco-girl/746ae1954d08b721211d021cf8d58e8a.jpg`
-- `images/cacareco-girl/48b9f689e14f0fe020a4f5e74370917d.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cacareco Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cacareco_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cacareco Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cacareco_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

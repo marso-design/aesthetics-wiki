@@ -11,7 +11,6 @@ related_aesthetics: ["Acid Design", "Rave", "Psychedelia", "Groovival", "Madches
 source_url: "https://aesthetics.fandom.com/wiki/Acid_House"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Acid House
@@ -208,23 +207,6 @@ Collage featuring various flyers.
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/acid-house/AcidHouseFashion.jpg`
-- `images/acid-house/EAqHVL-UEBU71ex.jpg`
-- `images/acid-house/E443c9325ac72b857af85aa4669f2fbd.jpg`
-- `images/acid-house/74708a187c9a1e7f5361a9f3c87808c5.jpg`
-- `images/acid-house/24e6fb8e958bb14d3f5380bdef2210fd.jpg`
-- `images/acid-house/Acidbucket.jpg`
-- `images/acid-house/A3224a1f42174f240e0542ce672d96d4.jpg`
-- `images/acid-house/Acidhousecolours.jpg`
-- `images/acid-house/845db4d3e2e6b592c6241d413cdbcdf7.jpg`
-- `images/acid-house/940dd6b0d9544a63bbe41632b13727bb.jpg`
-- `images/acid-house/0785f8486ec90545a50f3a8f2f040552.jpg`
-- `images/acid-house/D75419e03c9d5c65d0354a256529c4c9.jpg`
-- `images/acid-house/Aciddenim.jpg`
-- `images/acid-house/958978b69454cc3c8fd2e1f6446c8048.jpg`
-
 ## Source and attribution
 
-Text adapted from "Acid House" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Acid_House), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Acid House" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Acid_House), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

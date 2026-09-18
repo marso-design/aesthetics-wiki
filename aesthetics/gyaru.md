@@ -11,7 +11,6 @@ palette: ["#9EADBC", "#DFE3E9", "#BEC3CE", "#A38470", "#374754", "#777B82"]
 source_url: "https://aesthetics.fandom.com/wiki/Gyaru"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Gyaru
@@ -359,28 +358,6 @@ Modern Gyaru
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/gyaru/Gyaru.jpg`
-- `images/gyaru/Gyaru90.jpeg`
-- `images/gyaru/Gyaru20.jpeg`
-- `images/gyaru/Gyaru1.jpg`
-- `images/gyaru/Gyaru2.jpg`
-- `images/gyaru/Gyaru3.jpg`
-- `images/gyaru/Gyaru4.jpg`
-- `images/gyaru/Gyaru5.jpg`
-- `images/gyaru/Gyaru6.jpg`
-- `images/gyaru/Gyaru7.jpg`
-- `images/gyaru/Gyaru8.jpg`
-- `images/gyaru/Gyaru9.jpg`
-- `images/gyaru/Gyaru10.jpg`
-- `images/gyaru/Gyaru11.jpg`
-- `images/gyaru/Gyaru12.jpg`
-- `images/gyaru/Manbas1.jpg`
-- `images/gyaru/Manbas3.jpg`
-- `images/gyaru/Himegyaru2.jpg`
-- `images/gyaru/Himegyaru3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gyaru" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gyaru), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gyaru" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gyaru), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

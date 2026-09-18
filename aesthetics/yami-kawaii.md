@@ -12,7 +12,6 @@ related_media: ["Wrist-Cut Transformation Subculture✡Menhera"]
 source_url: "https://aesthetics.fandom.com/wiki/Yami_Kawaii"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Yami Kawaii
@@ -188,20 +187,6 @@ There's also many VOCALOID producers who are popular within the aesthetic's comm
 
 ## References
 
-## Images
-
-- `images/yami-kawaii/22.jpg`
-- `images/yami-kawaii/ELQ1rjJUYAE8YjJ.jpg`
-- `images/yami-kawaii/ETJhSDaUcAEAlV6.jpg`
-- `images/yami-kawaii/Menhera-chan.jpg`
-- `images/yami-kawaii/EGLzfyzU0AEOFqh.jpg`
-- `images/yami-kawaii/Yamikawaiimagaz.png`
-- `images/yami-kawaii/DqCBj5OV4AEHYxF.jpg`
-- `images/yami-kawaii/Crazyrabbit.webp`
-- `images/yami-kawaii/D56801f18c8e643e0e774846c08ca06d.jpg`
-- `images/yami-kawaii/0b714e07f9c47ce92fa53bf9f8b6f88a.jpg`
-- `images/yami-kawaii/Dffe0d4023818820c72e08341bee56f1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Yami Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yami_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yami Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yami_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

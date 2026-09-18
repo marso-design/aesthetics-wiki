@@ -14,7 +14,6 @@ related_media: ["Modern Faerie Tales trilogy by Holly Black", "The Iron Fey seri
 source_url: "https://aesthetics.fandom.com/wiki/Fairy_Grunge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Fairy Grunge
@@ -178,24 +177,6 @@ A Fairy Grunge avatar made on the doll-based platform Everskies.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/fairy-grunge/Poli'sWoods.jpg`
-- `images/fairy-grunge/D8b8151ab2654bbc48143a3b69b37599.jpg`
-- `images/fairy-grunge/A893dea62aec26483a8c7b91469985c2.jpg`
-- `images/fairy-grunge/Cd4cca6a27a9033cb26dc41df52b4023.jpg`
-- `images/fairy-grunge/8db4d6d4d7e4ff66edab76886eb9e895.jpg`
-- `images/fairy-grunge/A8cd1d6f6e0b349ba69cb0019c9a7334.jpg`
-- `images/fairy-grunge/0f119d8fa829f81032d405022e98ce67.jpg`
-- `images/fairy-grunge/7ef091849a1db1b4fee88ffa2cc98621.jpg`
-- `images/fairy-grunge/Ca3d176fd2e9dddd537aa04ebbadf194.jpg`
-- `images/fairy-grunge/5d8c14e850b26f5b4f96030ec8df64c4.jpg`
-- `images/fairy-grunge/1743e3f0576cae4f691553ce12bf3e07.jpg`
-- `images/fairy-grunge/65ec3dff31d2294f543ea357ddbc9e4b.jpg`
-- `images/fairy-grunge/A84e8d1504f03cd73027384f49f19820(1).jpg`
-- `images/fairy-grunge/B35fc867668bff40dc6a29dfffe477cab782dbb0(1).jpg`
-- `images/fairy-grunge/Cyberfairy.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fairy Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fairy_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fairy Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fairy_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

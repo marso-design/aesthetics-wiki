@@ -4,7 +4,6 @@ slug: "aesthetics-101"
 source_url: "https://aesthetics.fandom.com/wiki/Aesthetics_101"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Aesthetics 101
@@ -35,4 +34,4 @@ The pages made for this section will help you to gain an understanding of the va
 
 ## Source and attribution
 
-Text adapted from "Aesthetics 101" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aesthetics_101), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Aesthetics 101" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aesthetics_101), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

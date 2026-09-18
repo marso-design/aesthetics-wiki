@@ -10,7 +10,6 @@ related_aesthetics: ["Berlin Techno Fashion", "Cyberpunk", "Gorpcore", "Hypebeas
 source_url: "https://aesthetics.fandom.com/wiki/Techwear"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Techwear
@@ -92,26 +91,6 @@ While often associated with a "ninja" or cyberpunk fantasy, the core philosophy 
 
 ## References
 
-## Images
-
-- `images/techwear/Techwear.jpg`
-- `images/techwear/Techwear1.jpg`
-- `images/techwear/Techwear2.jpg`
-- `images/techwear/Techwear3.jpg`
-- `images/techwear/Techwear4.jpg`
-- `images/techwear/Techwear5.jpg`
-- `images/techwear/Futuristic-ninja-techwear-kimono-techwear-kimono-imaphotic-2.webp`
-- `images/techwear/Only-time-short-sleeve-futuristic-hooded-jacket-techwear-official-9.webp`
-- `images/techwear/Embroidered-Hoodie-Techwear-black.webp`
-- `images/techwear/Ca893cf929c3a6485b2c5a5748a3d97d.jpg`
-- `images/techwear/A-brief-introduction-to-techwear-clothing-v0-oma2gqkgxdab1.webp`
-- `images/techwear/Techwear-color-e1706158231141.jpg`
-- `images/techwear/Tevh-vintage-1000x617.jpg`
-- `images/techwear/Teachwear-masc-e1706158491607.jpg`
-- `images/techwear/Techwear-color-2-e1706158163579.jpg`
-- `images/techwear/Acrnmgroup-1024x673.jpg`
-- `images/techwear/Enfin-Leve-19.jpg`
-
 ## Source and attribution
 
-Text adapted from "Techwear" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Techwear), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Techwear" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Techwear), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

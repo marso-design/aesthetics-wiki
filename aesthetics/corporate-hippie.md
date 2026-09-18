@@ -11,7 +11,6 @@ related_aesthetics: ["Beatnik", "Cyberdelic", "Flower Power", "Groovival", "Hipp
 source_url: "https://aesthetics.fandom.com/wiki/Corporate_Hippie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Corporate Hippie
@@ -99,10 +98,6 @@ RCA advertisement (1971)
 * <https://en.wikipedia.org/wiki/History_of_the_hippie_movement>
 * <https://en.wikipedia.org/wiki/Summer_of_Love>
 
-## Images
-
-- `images/corporate-hippie/RCAOldMaster.png`
-
 ## Source and attribution
 
-Text adapted from "Corporate Hippie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corporate_Hippie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Corporate Hippie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Corporate_Hippie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

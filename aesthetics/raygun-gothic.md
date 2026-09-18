@@ -11,7 +11,6 @@ palette: ["#9F9E8D", "#FCF9F9", "#424143", "#55695F", "#D7BC80", "#FBDE9E"]
 source_url: "https://aesthetics.fandom.com/wiki/Raygun_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Raygun Gothic
@@ -126,18 +125,6 @@ The Jetsons
 
 card
 
-## Images
-
-- `images/raygun-gothic/Tommorowland.jpg`
-- `images/raygun-gothic/Db500f95b890cfb4e8b1286f0233db7e.jpg`
-- `images/raygun-gothic/Auckland-in-fifty-years-1956.jpg`
-- `images/raygun-gothic/Futurism-Classroom.jpg`
-- `images/raygun-gothic/1240949c890af124c60cf49cbd3ca388.jpg`
-- `images/raygun-gothic/Futurism-Warehouse.jpg`
-- `images/raygun-gothic/Atom10.jpg`
-- `images/raygun-gothic/Atom12.jpg`
-- `images/raygun-gothic/Atom13.jpg`
-
 ## Source and attribution
 
-Text adapted from "Raygun Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Raygun_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Raygun Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Raygun_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

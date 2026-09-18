@@ -11,7 +11,6 @@ related_media: ["S.H.A.R.P. Attitude Documentary (2016)", "Anti-Racist Skinheads
 source_url: "https://aesthetics.fandom.com/wiki/Skinheads_Against_Racial_Prejudice_(S.H.A.R.P.)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Skinheads Against Racial Prejudice (S.H.A.R.P.)
@@ -29,4 +28,4 @@ This page has [not yet been validated](https://aesthetics.fandom.com/wiki/Catego
 
 ## Source and attribution
 
-Text adapted from "Skinheads Against Racial Prejudice (S.H.A.R.P.)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skinheads_Against_Racial_Prejudice_(S.H.A.R.P.)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Skinheads Against Racial Prejudice (S.H.A.R.P.)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skinheads_Against_Racial_Prejudice_(S.H.A.R.P.)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

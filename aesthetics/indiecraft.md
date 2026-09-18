@@ -8,7 +8,6 @@ related_aesthetics: ["Hipness Purgatory", "Indie", "Kidcore", "Skeuomorphism", "
 source_url: "https://aesthetics.fandom.com/wiki/Indiecraft"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Indiecraft
@@ -116,24 +115,6 @@ Ellie Fanning photoshoot by Szilveszter Makó.
 * [Indiecraft on CARI](https://cari.institute/aesthetics/indiecraft)
 * [Indiecraft collection by Evan Collins](https://www.are.na/evan-collins-1522646491/indiecraft)
 
-## Images
-
-- `images/indiecraft/Pareidolia.jpg`
-- `images/indiecraft/PBSKIDSINDIECRAFT.jpg`
-- `images/indiecraft/INDIECRAFT.jpg`
-- `images/indiecraft/Androidad.jpg`
-- `images/indiecraft/Boxshorts.jpg`
-- `images/indiecraft/R-982693-1180540086.jpg`
-- `images/indiecraft/31minutos.webp`
-- `images/indiecraft/Indiecrafts.webp`
-- `images/indiecraft/Weathervanes.jpg`
-- `images/indiecraft/VM5djAUfVKPuc7uvGQDmKD-1440-80.jpg.webp`
-- `images/indiecraft/S9Z3PMhQJgC2xb8uyrETWD-1440-80.jpg.webp`
-- `images/indiecraft/42e6TKKLfBxqXqoPqCPu5D-1440-80.jpg.webp`
-- `images/indiecraft/DeJgaKcnh4mvyfE4vjEeUL-1440-80.jpg.webp`
-- `images/indiecraft/BvHXqrxmMeW3yzyKeKSdTK-1440-80.jpg.webp`
-- `images/indiecraft/EyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMzY4NjAzMC9vcmlnaW5hbF84YTkyZTM5ZmEwODZiN2YzNzdmMWM4NzVkNDM1NWM3YS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQ0MCwiaGVpZ2h0Ijo0NDAsImZpdCI6ImNvdmVyIiwid2l0aG91dEVubGFyZ.webp`
-
 ## Source and attribution
 
-Text adapted from "Indiecraft" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indiecraft), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Indiecraft" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Indiecraft), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

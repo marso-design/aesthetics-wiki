@@ -11,7 +11,6 @@ related_aesthetics: ["Angelcore", "Casino", "Catholic Horror", "Gorecore", "Goth
 source_url: "https://aesthetics.fandom.com/wiki/Devilcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Devilcore
@@ -166,20 +165,6 @@ Devilcore fashion is based on dark colors, creepy accessories, and also religiou
 
 ## Gallery
 
-## Images
-
-- `images/devilcore/NeonDemon.jpg`
-- `images/devilcore/Devilgorl.jpeg`
-- `images/devilcore/Whew.jpg`
-- `images/devilcore/Demon-angel.jpg`
-- `images/devilcore/Devilgallll.jpg`
-- `images/devilcore/Devil-girl-silhouette.jpg`
-- `images/devilcore/Femme-fatale-red-boots-heels.jpg`
-- `images/devilcore/Gothc-red-trees.jpg`
-- `images/devilcore/Nightmare-hands.jpg`
-- `images/devilcore/Heel-on-hand.jpg`
-- `images/devilcore/Devilgirl.jpg`
-
 ## Source and attribution
 
-Text adapted from "Devilcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Devilcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Devilcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Devilcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

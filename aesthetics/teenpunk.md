@@ -11,7 +11,6 @@ related_aesthetics: ["Emo", "Glitter Graphics", "Mallgoth", "Parisian Girly", "P
 source_url: "https://aesthetics.fandom.com/wiki/Teenpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Teenpunk
@@ -150,24 +149,6 @@ Ashlee Simpson.
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/teenpunk/Avrillavigne.png`
-- `images/teenpunk/Teenpunkfashion4.png`
-- `images/teenpunk/Teenpunk4.jpg`
-- `images/teenpunk/Teenpunkfashion2.png`
-- `images/teenpunk/Teenpunkfashion.jpg`
-- `images/teenpunk/Teenpunk3.jpg`
-- `images/teenpunk/Teenpunk6.png`
-- `images/teenpunk/Teenpunk1.jpg`
-- `images/teenpunk/Teenpunk.png`
-- `images/teenpunk/Teenpunk5.png`
-- `images/teenpunk/Teenpunk8.png`
-- `images/teenpunk/Teenpunk7.png`
-- `images/teenpunk/VenusMH.jpg`
-- `images/teenpunk/Teenpunk9.png`
-- `images/teenpunk/Teenpunkfashion3.png`
-
 ## Source and attribution
 
-Text adapted from "Teenpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Teenpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Teenpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Teenpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

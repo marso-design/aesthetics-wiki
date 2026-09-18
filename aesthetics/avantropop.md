@@ -11,7 +11,6 @@ related_media: ["\"Noods\"", "\"Let's Go!/Prefuse\"", "and \"CHECK it\" eras of 
 source_url: "https://aesthetics.fandom.com/wiki/Avantropop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Avantropop
@@ -145,31 +144,6 @@ Big Brother (UK) Series 17 icon
 
 **Sueño Electro 1** album by Mexican group *Belanova* (2010)
 
-## Images
-
-- `images/avantropop/Static-assets-upload11174392085410163381.webp`
-- `images/avantropop/Static-assets-upload2135289728563167902.webp`
-- `images/avantropop/Static-assets-upload6399652306668569258.webp`
-- `images/avantropop/Static-assets-upload14510581439806559874.webp`
-- `images/avantropop/Static-assets-upload15278598900013054509.webp`
-- `images/avantropop/Static-assets-upload2977839847194535788.webp`
-- `images/avantropop/Static-assets-upload6974228415436732451.webp`
-- `images/avantropop/Static-assets-upload9401168041644727354.webp`
-- `images/avantropop/Static-assets-upload6607162344443317763.webp`
-- `images/avantropop/Static-assets-upload2888290546020640739.webp`
-- `images/avantropop/Static-assets-upload6055730204792155615.webp`
-- `images/avantropop/Static-assets-upload2447804999714449386.webp`
-- `images/avantropop/Static-assets-upload10271608451254581783.webp`
-- `images/avantropop/Static-assets-upload6680336434113231820.webp`
-- `images/avantropop/Static-assets-upload15213702143156386922.webp`
-- `images/avantropop/Static-assets-upload12539094674410508189.webp`
-- `images/avantropop/FunkyPanda.jpeg`
-- `images/avantropop/Ccaa2owen.gif`
-- `images/avantropop/926f30c81d892e3d9b290be7eab75989.jpg`
-- `images/avantropop/9fd4d3c076028aaa854e57c7437aaebc.jpg`
-- `images/avantropop/C3ab631e69f2bdeb782b7fe6530fc629.jpg`
-- `images/avantropop/R-1656150-1331408632.jpg`
-
 ## Source and attribution
 
-Text adapted from "Avantropop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Avantropop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Avantropop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Avantropop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

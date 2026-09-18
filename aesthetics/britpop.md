@@ -12,7 +12,6 @@ primary_platform: ["Music videos", "magazines (NME, Select, Loaded)"]
 source_url: "https://aesthetics.fandom.com/wiki/Britpop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Britpop
@@ -145,29 +144,6 @@ Oasis famously drew heavily from The Beatles, while Blur was influenced by the K
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/britpop/B8761ea2c497f45819af0f73a573d07c.jpg`
-- `images/britpop/36cc3ca627c134ec67bdd8dd40e22cfd.jpg`
-- `images/britpop/011b5221682dc3f9e43e31a5be53359b.jpg`
-- `images/britpop/4adf4c4905ecea80e3fa79eabd99a473.jpg`
-- `images/britpop/171f0b5a7a6abd3f3b66bcf579ea3c1d.jpg`
-- `images/britpop/6a244c4376fc4129403686700160bab1.jpg`
-- `images/britpop/B2bd69545338264201ac306efe784f93.jpg`
-- `images/britpop/B1541053917d0713f56f93bf6b28b9e7.jpg`
-- `images/britpop/0eed0b6187a93ebcabc894fce8c58473.jpg`
-- `images/britpop/50fd543b0a5c83e843d6002df0a3032a.jpg`
-- `images/britpop/D9e24dbd82613089a31f0e857b3abfcd.jpg`
-- `images/britpop/A8296f455f72b4cdd6adf9b601582597.jpg`
-- `images/britpop/218f059f85363071059dcd673846eec8.jpg`
-- `images/britpop/552fbfdb7eedda6617fa9bc40b4f9259.jpg`
-- `images/britpop/53a73a68c10359613e23e25c91cfbcda.jpg`
-- `images/britpop/D51bbd17a33b4681e2831f390b5a796c.jpg`
-- `images/britpop/F29ee692a9b74b3614c09e1dd39053f1.jpg`
-- `images/britpop/002dc637245082e263704efb6ca69b3c.jpg`
-- `images/britpop/D8f48753871de542602b740f9dd7025f.jpg`
-- `images/britpop/A8defce078aa17a29a17348479e0ed18.jpg`
-
 ## Source and attribution
 
-Text adapted from "Britpop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Britpop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Britpop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Britpop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ palette: ["#46420E", "#000000", "#9FFCEC", "#69B3AD", "#2A332C", "#547560"]
 source_url: "https://aesthetics.fandom.com/wiki/8-Bit"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # 8-Bit
@@ -152,24 +151,6 @@ Modern digital visualizations have harder lines and smaller palettes than the or
 * [The 8-bit culture has conquered indie games | Good Audience](https://blog.goodaudience.com/how-the-8-bit-culture-has-conquered-indie-games-3bfc492898cf)
 * [WHAT IS 8-BIT? | What are 8-bit graphics, anyway? - YouTube](https://www.youtube.com/watch?v=QaIoW1aL9GE)
 
-## Images
-
-- `images/8-bit/8-bitcovers.png`
-- `images/8-bit/Asterix-ms.png`
-- `images/8-bit/Asterix-snes.png`
-- `images/8-bit/Prince-persia-ms.png`
-- `images/8-bit/Prince-persia-sega.png`
-- `images/8-bit/Super-mario-bros-3.png`
-- `images/8-bit/Super-mario-world-snes.png`
-- `images/8-bit/Karateka.jpg`
-- `images/8-bit/Civilization.jpg`
-- `images/8-bit/KingsQuest1987.jpg`
-- `images/8-bit/Might-magic-2-dos.png`
-- `images/8-bit/Alex-kidd-in-miracle-world-sega-master-system-screenshot-the.png`
-- `images/8-bit/Civilisation-2-windows-3x.png`
-- `images/8-bit/Lemmings-sega-1992.png`
-- `images/8-bit/Prince-of-persia-dos.png`
-
 ## Source and attribution
 
-Text adapted from "8-Bit" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/8-Bit), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "8-Bit" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/8-Bit), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

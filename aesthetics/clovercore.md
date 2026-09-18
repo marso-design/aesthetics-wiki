@@ -10,7 +10,6 @@ related_aesthetics: ["Frutiger Eco", "Global Village Coffeehouse", "Heisei Retro
 source_url: "https://aesthetics.fandom.com/wiki/Clovercore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Clovercore
@@ -63,31 +62,6 @@ Promotional My Melody artwork posted by @Melody\_Mariland on X/Twitter
 
 A crossover fanart by Fukuchan featuring Yui Hirasawa from *K-On!* dressed as 'Amulet Clover' from *Shugo Chara!*. This piece shows the overlap between early-2000s [Magical Girl](https://aesthetics.fandom.com/wiki/Magical_Girl "Magical Girl") character designs and the clover aesthetic of the era.
 
-## Images
-
-- `images/clovercore/ClovercoreStationery.jpg`
-- `images/clovercore/Dd55290a15f68d6705c75c9cffa71c6b.jpg`
-- `images/clovercore/64616bf936db1260a8baf1f4c8640df6.jpg`
-- `images/clovercore/785d00f928f6af1aebff2f3098996ce7.jpg`
-- `images/clovercore/D90eaab54df698f6df6c5a9995bef4d2.jpg`
-- `images/clovercore/13eb4a2709a2bdbe60602959dd061d4f.jpg`
-- `images/clovercore/C8f335e08a841aa7e5311521b0a5e218.jpg`
-- `images/clovercore/7d4bb4d7c954c9c8e02b2bd8cc3771f9.jpg`
-- `images/clovercore/B02f0f1a349556973a4e57f6ab71144c.jpg`
-- `images/clovercore/9402d83376315600af3a17262fed9d5b.jpg`
-- `images/clovercore/Ad3f1c52e656021274d76c24fd182a97.jpg`
-- `images/clovercore/847c3186956931b790e366d1c2eace83.jpg`
-- `images/clovercore/87ff3940d48d37142528b1c9c08d8455.jpg`
-- `images/clovercore/3a864204e4839311f3dbc13ba2da9aef.jpg`
-- `images/clovercore/625fc005d731a72a01d1203631664c2e.jpg`
-- `images/clovercore/Dcad42a23d378bf41852842c575f31c1.jpg`
-- `images/clovercore/A16e27cebc7a865751459e748f36bd1f.jpg`
-- `images/clovercore/0564fe65fd593dcc8e62b7992dbb5335.jpg`
-- `images/clovercore/Af1fdd505158ac554798afa9765d9450.jpg`
-- `images/clovercore/D05b3c04f3c2c81444fdf57ed82b7a22.jpg`
-- `images/clovercore/99c76170ed1e473af10c283dd5eb51ee.jpg`
-- `images/clovercore/23e835c2d60f71a0c8336e3797b074fe.jpg`
-
 ## Source and attribution
 
-Text adapted from "Clovercore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Clovercore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Clovercore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Clovercore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

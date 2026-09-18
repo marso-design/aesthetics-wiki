@@ -11,7 +11,6 @@ related_media: ["It (1986/1990/2017)", "Something Wicked This Way Comes (1983)",
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Circus"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Dark Circus
@@ -90,25 +89,6 @@ Skull-topped canes, vintage megaphones, and bone-handled whips are common access
 
 ## References
 
-## Images
-
-- `images/dark-circus/DarkCircus.jpg`
-- `images/dark-circus/CARNIVALGORE4.jpg`
-- `images/dark-circus/27b9e908aa7eab9bb2227abcb60270bc.jpg`
-- `images/dark-circus/49ea71221e6af8a25d2de42039715055.jpg`
-- `images/dark-circus/Ff9d99757e29d005d222605c601664ad.jpg`
-- `images/dark-circus/6218bfeedb358f232ea4058f5a3b03ef.jpg`
-- `images/dark-circus/Fb48ebec9703870ee97cad424a81531c.jpg`
-- `images/dark-circus/16f2a979b7358e6bdbfe9e797e92dc52.jpg`
-- `images/dark-circus/Eebaf45a7424cb578b61c18816caf44e.jpg`
-- `images/dark-circus/6a84c31c3a767ca36454a626249d865e.jpg`
-- `images/dark-circus/Cb893f1cdf9fea1022e83b52df0af4ed.jpg`
-- `images/dark-circus/Fb6aef1ac1a05ab996cd3184eec19bdf.jpg`
-- `images/dark-circus/1394f1d499ebf5a23275d2e483ad4422.jpg`
-- `images/dark-circus/Circus-carnival-set-books-that-feel-eerie-v0-pmfikw812l5g1.webp`
-- `images/dark-circus/Dark-carnival-recommendations-v0-at7ft6zp05cg1.webp`
-- `images/dark-circus/Spooky-circus-horror-v0-atfu9i8265qg1.webp`
-
 ## Source and attribution
 
-Text adapted from "Dark Circus" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Circus), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Circus" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Circus), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

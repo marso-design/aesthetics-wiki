@@ -10,7 +10,6 @@ related_aesthetics: ["Casuals", "Ultras", "Gorpcore"]
 source_url: "https://aesthetics.fandom.com/wiki/Atzen"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Atzen
@@ -60,4 +59,4 @@ The visual identity is defined by a mix of athletic wear and technical outdoor f
 
 ## Source and attribution
 
-Text adapted from "Atzen" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Atzen), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Atzen" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Atzen), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

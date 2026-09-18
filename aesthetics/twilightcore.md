@@ -11,7 +11,6 @@ related_aesthetics: ["Dark Naturalism", "Fairy Grunge", "Fantasy", "FantasY2K", 
 source_url: "https://aesthetics.fandom.com/wiki/Twilightcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Twilightcore
@@ -144,13 +143,6 @@ T.A.T.u. - All The Things She Said (Official Music Video)
 
 Оксана Почепа Акула - Мало
 
-## Images
-
-- `images/twilightcore/883d94472d8a8122ab4644b64d883bd2.jpg`
-- `images/twilightcore/8e4cab89b1d0a0ef50317e26bb5ab6dd.jpg`
-- `images/twilightcore/F06f97b0c239c591c355b3c95e7e9938.jpg`
-- `images/twilightcore/Eva1.png`
-
 ## Source and attribution
 
-Text adapted from "Twilightcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Twilightcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Twilightcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Twilightcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

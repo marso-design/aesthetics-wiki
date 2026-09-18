@@ -9,7 +9,6 @@ related_aesthetics: ["Boujee", "Funfair Kitsch", "McBling", "Synthwave", "Vacati
 source_url: "https://aesthetics.fandom.com/wiki/Casino"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Casino
@@ -97,23 +96,6 @@ Celestia Ludenberg from Danganronpa, "The Ultimate Gambler"
 
 Bad Company "Straight Shooter" album cover (1975)
 
-## Images
-
-- `images/casino/5fca744e560893b4b2cfe8d851364db5.png`
-- `images/casino/Slot-Machines.jpg`
-- `images/casino/60301b91e22b15295800e5d85fe83445.jpg`
-- `images/casino/6579fcca201efe95afa7a946d6ef3350.jpg`
-- `images/casino/Casino.jpeg`
-- `images/casino/VIP-Chips.jpg`
-- `images/casino/Betting.jpg`
-- `images/casino/Goldcards.jpg`
-- `images/casino/CASINO.jpg`
-- `images/casino/Dice.jpg`
-- `images/casino/Cards.jpg`
-- `images/casino/7986a0775afd28821caef9969a2c95ab.jpg`
-- `images/casino/Firekeepersjpg-eb22b963c052381e.jpg`
-- `images/casino/00.png`
-
 ## Source and attribution
 
-Text adapted from "Casino" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Casino), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Casino" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Casino), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

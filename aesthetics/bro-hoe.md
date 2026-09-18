@@ -11,7 +11,6 @@ related_aesthetics: ["Biker", "Bro Culture", "McBling", "Olderbrothercore", "Pos
 source_url: "https://aesthetics.fandom.com/wiki/Bro_Hoe"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Bro Hoe
@@ -83,17 +82,6 @@ The aesthetic and its associated lifestyle were prominently featured in and popu
 
 ## References
 
-## Images
-
-- `images/bro-hoe/D27b6dc467bb5a457ebc81f379dda5cc.jpg`
-- `images/bro-hoe/66c6b2412d0ef4ad1be394a52354d918.jpg`
-- `images/bro-hoe/D7f3b00d519df8ccae8f665b4bb419b3.jpg`
-- `images/bro-hoe/20c758feb95fa2f2f55afd7b978402f8.jpg`
-- `images/bro-hoe/B92fd5255ab684e08b3b16ecea011cc6.jpg`
-- `images/bro-hoe/7dd6028ae3d0c028d8a1291c7be7e7a4.jpg`
-- `images/bro-hoe/D6f9a73d0992071e8f624bab486d8f9e.jpg`
-- `images/bro-hoe/4d01ab1c7e1d8af31fafbd1c9f5cf591.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bro Hoe" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bro_Hoe), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bro Hoe" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bro_Hoe), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -5,7 +5,6 @@ palette: ["#0B0909", "#332924", "#5C3D2F", "#565652", "#878884", "#756356"]
 source_url: "https://aesthetics.fandom.com/wiki/Punk_Derivatives"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 77
 ---
 
 # Punk Derivatives
@@ -108,86 +107,6 @@ These genres are defined by their exploration of specific environmental or socia
 
 **Mythpunk** is a literary genre that retells myths, legends, and fairy tales through a postmodern, speculative lens. It often "punks" the original source material by deconstructing tropes, subverting character roles, and applying modern social or philosophical critiques to ancient stories.
 
-## Images
-
-- `images/punk-derivatives/8vy7jp1y509a1.jpg`
-- `images/punk-derivatives/Steampunk-romances.jpg.webp`
-- `images/punk-derivatives/TomsWallPapers-1.jpg`
-- `images/punk-derivatives/1pic-1.jpg`
-- `images/punk-derivatives/6pic.jpg`
-- `images/punk-derivatives/Steameye.jpg`
-- `images/punk-derivatives/Steampunk-airship.jpg`
-- `images/punk-derivatives/Typewriter.jpg`
-- `images/punk-derivatives/I-cant-explain-by-shunya-yamashita-3.png`
-- `images/punk-derivatives/Jakub-rozalski-1920-warlordcut72.webp`
-- `images/punk-derivatives/Nfz-w7-by-600v.jpg`
-- `images/punk-derivatives/Dieselpunk4-e1600124481256.jpg`
-- `images/punk-derivatives/Dieselpunk-poster2.jpg`
-- `images/punk-derivatives/Dieselpunk-wars.jpg`
-- `images/punk-derivatives/Dieselpunk-pistol-e1600119025263.jpg`
-- `images/punk-derivatives/Debbie-ash-decopunk11.jpg`
-- `images/punk-derivatives/Fallout.jpg`
-- `images/punk-derivatives/Atom8.jpg`
-- `images/punk-derivatives/Atompunk.jpg`
-- `images/punk-derivatives/C9772c08506d4652f0ce63b761bad760.jpg`
-- `images/punk-derivatives/Clocks.jpg`
-- `images/punk-derivatives/Vo0yv9ybof5c1.webp`
-- `images/punk-derivatives/Yuu7lqzbof5c1.webp`
-- `images/punk-derivatives/Tesla.jpg`
-- `images/punk-derivatives/Lair.jpg`
-- `images/punk-derivatives/Telsapunk.jpg`
-- `images/punk-derivatives/X8pt1mu615751.jpg`
-- `images/punk-derivatives/What-is-teslapunk-v0-3rynjnf28t251.webp`
-- `images/punk-derivatives/What-is-teslapunk-v0-xt0s1ovm6t251.webp`
-- `images/punk-derivatives/Rococopunk-girls.webp`
-- `images/punk-derivatives/69eeacc1f3fe542061fb08ccfd106b0b.jpg`
-- `images/punk-derivatives/RococoPunk-crop7.webp`
-- `images/punk-derivatives/Sandalpunk.webp`
-- `images/punk-derivatives/1026308-new-gods-egypt-trailer-showcases-stunning-vfx-work.webp`
-- `images/punk-derivatives/Caveman.jpg`
-- `images/punk-derivatives/Stonepunk.jpg`
-- `images/punk-derivatives/Cave-gun-right-side.jpg`
-- `images/punk-derivatives/Cyberpunkcity.png`
-- `images/punk-derivatives/CyberpunkRBTI.jpg`
-- `images/punk-derivatives/Mute.jpg`
-- `images/punk-derivatives/Site-background-dark-1000x313.webp`
-- `images/punk-derivatives/Cyberpunk-techwearstorm-2.webp`
-- `images/punk-derivatives/Cyberpunk-mikhail-nilov-landscape-f19d01be73337f329aa895ae0a03d387-zybravgx2q47.jpeg`
-- `images/punk-derivatives/Tokyo3.png`
-- `images/punk-derivatives/CybPunk.png`
-- `images/punk-derivatives/Biopunk-building.jpg`
-- `images/punk-derivatives/Bi.jpg`
-- `images/punk-derivatives/Grayskulcreature.webp`
-- `images/punk-derivatives/Silkpunk.webp`
-- `images/punk-derivatives/779.jpg`
-- `images/punk-derivatives/Artwork-by-su-jian-v0-s3gcmg3imvf81.webp`
-- `images/punk-derivatives/My-latest-mechanimal-drawing-v0-peoxcp4a68mb1.webp`
-- `images/punk-derivatives/Hudaao-20230116101624.jpg`
-- `images/punk-derivatives/Simonstalenhag-2-1280x853.webp`
-- `images/punk-derivatives/Crystal-Herbalist.jpg`
-- `images/punk-derivatives/Imperial-Convoy.jpg`
-- `images/punk-derivatives/161cwzqyx7951.webp`
-- `images/punk-derivatives/Junkpunk5.jpg`
-- `images/punk-derivatives/Junkpunk3.jpg`
-- `images/punk-derivatives/Arrival-at-sky-harbour-small-crop.webp`
-- `images/punk-derivatives/Harbour-v.webp`
-- `images/punk-derivatives/08cf02df60e6018ba6ec1d736ff875e0.jpg`
-- `images/punk-derivatives/F3cf80228b33dbc833f2873d28cbbe1d.jpg`
-- `images/punk-derivatives/Sub.jpg`
-- `images/punk-derivatives/Lagoon-book-cover-closeup.jpg.optimal.jpg`
-- `images/punk-derivatives/Oceanpunk.jpg`
-- `images/punk-derivatives/Bioshock-1000x563.jpg`
-- `images/punk-derivatives/Fantasy.jpg`
-- `images/punk-derivatives/Rocketp.jpg`
-- `images/punk-derivatives/Mac-rebisz-20150220-esa-spaceplane-001.jpg`
-- `images/punk-derivatives/Solarpunkarchifutur.png`
-- `images/punk-derivatives/877121-min-1024x507.jpg.webp`
-- `images/punk-derivatives/Lunarpunk-squad2.jpg`
-- `images/punk-derivatives/Lunarpunk-squad.jpg`
-- `images/punk-derivatives/4c5b0b2838ce18e3863d6b07e6250bfd.jpg`
-- `images/punk-derivatives/Lunarpunk4.jpg`
-- `images/punk-derivatives/Lunarpunk2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Punk Derivatives" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Punk_Derivatives), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Punk Derivatives" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Punk_Derivatives), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

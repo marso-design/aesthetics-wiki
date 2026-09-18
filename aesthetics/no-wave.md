@@ -9,7 +9,6 @@ related_aesthetics: ["Punk", "Post-Punk", "Avant-garde", "New Wave", "Minimal Wa
 source_url: "https://aesthetics.fandom.com/wiki/No_Wave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # No Wave
@@ -126,4 +125,4 @@ Resources to listen to and learn more about No wave.
 
 ## Source and attribution
 
-Text adapted from "No Wave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/No_Wave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "No Wave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/No_Wave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["A Charlie Brown Thanksgiving"]
 source_url: "https://aesthetics.fandom.com/wiki/American_Thanksgiving"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # American Thanksgiving
@@ -57,18 +56,6 @@ The origin of the holiday is the Plymouth Colony learning how to catch eels and 
 
 ## References
 
-## Images
-
-- `images/american-thanksgiving/Thanksgiving.jpg`
-- `images/american-thanksgiving/Best-Thanksgiving-Traditions-aesthetic.png`
-- `images/american-thanksgiving/Pumpkin-pie-Thanksgiving-aesthetic.png`
-- `images/american-thanksgiving/Pumpkin-pie-aesthetic.png`
-- `images/american-thanksgiving/Thanksgiving-cornucopia-aesthetic.png`
-- `images/american-thanksgiving/Thanksgiving-aesthetic-wallpaper.jpg`
-- `images/american-thanksgiving/15-best-Thanksgiving-table-decor-ideas-1.jpg`
-- `images/american-thanksgiving/15-best-Thanksgiving-table-decor-ideas-2.png`
-- `images/american-thanksgiving/Thanksgiving-Pies.png`
-
 ## Source and attribution
 
-Text adapted from "American Thanksgiving" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/American_Thanksgiving), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "American Thanksgiving" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/American_Thanksgiving), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

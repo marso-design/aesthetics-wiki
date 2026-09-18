@@ -12,7 +12,6 @@ related_media: ["The Castle of Otranto", "Frankenstein", "Dracula", "the poetry 
 source_url: "https://aesthetics.fandom.com/wiki/Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Gothic
@@ -177,10 +176,6 @@ PBS - Mystery Intro - Edward Gorey
 
 ## References
 
-## Images
-
-- `images/gothic/D18924F3-B586-4FC2-8CCE-7AD1F708AA2D.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

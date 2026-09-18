@@ -11,7 +11,6 @@ primary_platform: ["YouTube", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/UK_Drill"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # UK Drill
@@ -125,22 +124,6 @@ This has resulted in unprecedented legal actions against artists. Hundreds of UK
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/uk-drill/UKDrill.png`
-- `images/uk-drill/1869d89cbfedc5c699fb0d8a68b22a8d.jpg`
-- `images/uk-drill/70c2de3c8f535ec645d68eb27b62efd3.jpg`
-- `images/uk-drill/E2e63d7bced723b0f93690c4eecd4197.jpg`
-- `images/uk-drill/E804eebb2a7008e524fbbc25d83d0a85.jpg`
-- `images/uk-drill/97609d48113896b48976b225f39afd0e.jpg`
-- `images/uk-drill/3f1ef6fb1c808916405111e86f488ae2.jpg`
-- `images/uk-drill/14859c68d0213440977dbfe3d01e2a95.jpg`
-- `images/uk-drill/757b22988e4c4455cada446961c99d0f.jpg`
-- `images/uk-drill/8da4a64864320084e052d698f19fffa4.jpg`
-- `images/uk-drill/4c9ac5b3a8a2fc715392bed7b207e536.jpg`
-- `images/uk-drill/175ac8d61c9e4cc9d0ca2f6dd22cf63a.jpg`
-- `images/uk-drill/75d4e16456f6b5a60b532a1a62a2fc8a.jpg`
-
 ## Source and attribution
 
-Text adapted from "UK Drill" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/UK_Drill), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "UK Drill" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/UK_Drill), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

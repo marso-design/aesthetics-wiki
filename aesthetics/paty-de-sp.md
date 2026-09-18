@@ -12,7 +12,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Paty_de_SP"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 43
 ---
 
 # Paty de SP
@@ -215,52 +214,6 @@ Paty de SP's music is the same as [Mandrake](https://aesthetics.fandom.com/wiki/
 
 ## References
 
-## Images
-
-- `images/paty-de-sp/Sppaty.jpg`
-- `images/paty-de-sp/Patynortg.jpg`
-- `images/paty-de-sp/Patynorthy.jpg`
-- `images/paty-de-sp/Nordestinapaty.jpg`
-- `images/paty-de-sp/Patynordestinapat.jpg`
-- `images/paty-de-sp/Patynordestina.jpg`
-- `images/paty-de-sp/Patydonordeste6.jpg`
-- `images/paty-de-sp/Patydonordestee.jpg`
-- `images/paty-de-sp/Afropaty9.jpg`
-- `images/paty-de-sp/Lindalind.jpg`
-- `images/paty-de-sp/Afropaty1.jpg`
-- `images/paty-de-sp/Afropaty2.jpg`
-- `images/paty-de-sp/Afropaty3.jpg`
-- `images/paty-de-sp/Afropaty6.jpg`
-- `images/paty-de-sp/Afropaty5.jpg`
-- `images/paty-de-sp/Afropaty7.jpg`
-- `images/paty-de-sp/Patyderj.jpg`
-- `images/paty-de-sp/Patyfromrio.jpg`
-- `images/paty-de-sp/Pattynor.jpg`
-- `images/paty-de-sp/Cariocapaty.jpg`
-- `images/paty-de-sp/Patyrio.jpg`
-- `images/paty-de-sp/Patsyi.jpg`
-- `images/paty-de-sp/Sulpaty.jpg`
-- `images/paty-de-sp/Patyfrio.jpg`
-- `images/paty-de-sp/Patydosul09.jpg`
-- `images/paty-de-sp/Patycrente.jpg`
-- `images/paty-de-sp/Evangelicpaty.jpg`
-- `images/paty-de-sp/Evangeliqpaty.jpg`
-- `images/paty-de-sp/Evanpaty.jpg`
-- `images/paty-de-sp/Cristianapaty.jpg`
-- `images/paty-de-sp/Chrsitpaty.jpg`
-- `images/paty-de-sp/Catholicpaty.jpg`
-- `images/paty-de-sp/Loralo.jpg`
-- `images/paty-de-sp/Sppatyy.jpg`
-- `images/paty-de-sp/Patyfriends.jpg`
-- `images/paty-de-sp/Patiess.jpg`
-- `images/paty-de-sp/Patysuo.jpg`
-- `images/paty-de-sp/Patypic.jpg`
-- `images/paty-de-sp/Patyeus.jpg`
-- `images/paty-de-sp/Skoso.jpg`
-- `images/paty-de-sp/Patyuk.jpg`
-- `images/paty-de-sp/Patycei.jpg`
-- `images/paty-de-sp/Patricinhaestilo.jpg`
-
 ## Source and attribution
 
-Text adapted from "Paty de SP" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Paty_de_SP), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Paty de SP" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Paty_de_SP), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

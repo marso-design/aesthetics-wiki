@@ -10,7 +10,6 @@ related_aesthetics: ["Abstract Tech", "Recession Pop", "Flat Design", "★Frutig
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Aero"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Dark Aero
@@ -188,22 +187,6 @@ the black Wii console
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● **Dark Aero** ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/dark-aero/WiiuWiiu.jpg`
-- `images/dark-aero/S-l1600-3964269024.jpg`
-- `images/dark-aero/L0VpzM.jpg`
-- `images/dark-aero/Skeuo-discord.png`
-- `images/dark-aero/Nfscarbonmenu.png`
-- `images/dark-aero/Skeuoicons.jpg`
-- `images/dark-aero/7fa58987f8e3d7ef4f39df1a9c1f9667.jpg`
-- `images/dark-aero/Blackberry2.webp`
-- `images/dark-aero/WindowsVistaUltimateBox.jpg`
-- `images/dark-aero/Windows7UltimateBox.jpg`
-- `images/dark-aero/956ff72c-9738-4dfe-a941-c5dd8c4140f5.jpg`
-- `images/dark-aero/Aurora-1920x1080-blue-purple-vista-wallpaper-preview.jpg`
-- `images/dark-aero/BelugaHeightsRecords.png`
-
 ## Source and attribution
 
-Text adapted from "Dark Aero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Aero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Aero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Aero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

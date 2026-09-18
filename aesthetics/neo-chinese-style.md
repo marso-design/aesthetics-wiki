@@ -12,7 +12,6 @@ primary_platform: ["Xiaohongshu", "Douyin", "Weibo"]
 source_url: "https://aesthetics.fandom.com/wiki/Neo-Chinese_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Neo-Chinese Style
@@ -65,19 +64,6 @@ South Wing of the National Library of China
 
 ## References
 
-## Images
-
-- `images/neo-chinese-style/NeoChinese-Interior1.jpeg`
-- `images/neo-chinese-style/NeoChinese-Interior2.jpeg`
-- `images/neo-chinese-style/NeoChinese-Interior3.jpeg`
-- `images/neo-chinese-style/14118943601e23f3b9e60c423618402f.jpg`
-- `images/neo-chinese-style/98a5d7c0f074aeb9ec6e55ec4bc06049.jpg`
-- `images/neo-chinese-style/D6c28043fe624fa07153b79bbdb1ab93.jpg`
-- `images/neo-chinese-style/7d6315e4616ef8fdc22fa17c9361bb13.jpg`
-- `images/neo-chinese-style/8db59fc71e72e8cd90ae941a6a56fc74.jpg`
-- `images/neo-chinese-style/0434e41c26c0e2d76abca21550b031ea.jpg`
-- `images/neo-chinese-style/05d51ad45212d5b0c93f61a8deb7e829.jpg`
-
 ## Source and attribution
 
-Text adapted from "Neo-Chinese Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Chinese_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neo-Chinese Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Chinese_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

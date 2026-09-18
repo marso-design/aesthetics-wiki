@@ -11,7 +11,6 @@ related_aesthetics: ["Dungeon Synth", "Industrial", "Neofolk", "Neue Slowenische
 source_url: "https://aesthetics.fandom.com/wiki/Martial_Industrial"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Martial Industrial
@@ -144,29 +143,6 @@ Cover art for "Der Sieg des Lichtes ist des Lebens Heil!" by Der Blutharsch
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/martial-industrial/Laibach-opus-dei-Cover-Art.jpg`
-- `images/martial-industrial/Death-in-rome-hitparade-Cover-Art.jpg`
-- `images/martial-industrial/Die-weisse-rose-a-martyrium-of-white-roses-Cover-Art.jpg`
-- `images/martial-industrial/The-moon-lay-hidden-beneath-a-cloud-the-smell-of-blood-but-victory-Cover-Art.jpg`
-- `images/martial-industrial/Puissance-let-us-lead-Cover-Art.jpg`
-- `images/martial-industrial/Wappenbund-zeitenwende-Cover-Art.jpg`
-- `images/martial-industrial/Puissance-back-in-control-Cover-Art.jpg`
-- `images/martial-industrial/Triarii-ars-militaria-Cover-Art.jpg`
-- `images/martial-industrial/Folkstorm-for-the-love-of-hate-Cover-Art.jpg`
-- `images/martial-industrial/Laibach-nova-akropola-Cover-Art.jpg`
-- `images/martial-industrial/Der-blutharsch-when-did-wonderland-end-Cover-Art.jpg`
-- `images/martial-industrial/Der-blutharsch-the-track-of-the-hunted-Cover-Art.jpg`
-- `images/martial-industrial/Arditi-marching-on-to-victory-Cover-Art.jpg`
-- `images/martial-industrial/The-moon-lay-hidden-beneath-a-cloud-a-new-soldier-follows-the-path-of-a-new-king-Cover-Art.jpg`
-- `images/martial-industrial/Puissance-grace-of-god-Cover-Art.jpg`
-- `images/martial-industrial/Rome-nera-Cover-Art.jpg`
-- `images/martial-industrial/Karjalan-sissit-karjalan-sissit-Cover-Art.jpg`
-- `images/martial-industrial/Blood-axis-the-gospel-of-inhumanity-Cover-Art.jpg`
-- `images/martial-industrial/Derniere-volonte-le-feu-sacre-Cover-Art.jpg`
-- `images/martial-industrial/Der-blutharsch-der-sieg-des-lichtes-ist-des-lebens-heil-Cover-Art.jpg`
-
 ## Source and attribution
 
-Text adapted from "Martial Industrial" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Martial_Industrial), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Martial Industrial" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Martial_Industrial), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

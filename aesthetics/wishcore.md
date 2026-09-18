@@ -11,7 +11,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Wishcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 36
 ---
 
 # Wishcore
@@ -57,45 +56,6 @@ Wishcore differs from similar fantasy aesthetics by prioritizing private emotion
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/wishcore/C6b66137f33807a29483f41a472e647f.jpg`
-- `images/wishcore/B9c2e12efb6797321f68e6e244b7bd61.jpg`
-- `images/wishcore/0954f4a8ef92ce569b79316e9c54633d.jpg`
-- `images/wishcore/08f018f7882420df15924f35fb2c6bbb.jpg`
-- `images/wishcore/27f9ba7c9732b5cc12b64895950aa1bc.jpg`
-- `images/wishcore/A563cd6b35698aa72e195cc1b58f6616.jpg`
-- `images/wishcore/Db9a5c45cedfd3e096003882ec9581a0.jpg`
-- `images/wishcore/A480aef25c0d53323263d9d18e2feb6a.jpg`
-- `images/wishcore/9eec544ee5c0be03d16e49ce231f17af.jpg`
-- `images/wishcore/3c2e19894f0d6a5d5c8105fe1d18a0eb.jpg`
-- `images/wishcore/399879b6398750c91ca02461b64d7ee2.jpg`
-- `images/wishcore/7dcbb5b72c7b4152f812a209dcaa73f4.jpg`
-- `images/wishcore/947a0f868bb68a92b4b022d1b2528fb9.jpg`
-- `images/wishcore/69fbb210265be850d922794f6914f787.jpg`
-- `images/wishcore/74886e441b0094cf4475f074381bebea.jpg`
-- `images/wishcore/7d5d277da5486a3bcda922fff863d967.jpg`
-- `images/wishcore/Ce958bd90fad18d7d5777ee72b80b26c.jpg`
-- `images/wishcore/7ae66569b648e49a166d24c4ed1a2e17.jpg`
-- `images/wishcore/83b6143356417a0974e5db780a389a88.jpg`
-- `images/wishcore/0eba49774cb4e79a2b1cbcc2785ebdd5.jpg`
-- `images/wishcore/C2b1c120a3d66f09d35b112bb7c33183.jpg`
-- `images/wishcore/6dd872c5f1c846685ea3f934ce0ef38e.jpg`
-- `images/wishcore/2791bfd58ef121cf88c232142081b2d4.jpg`
-- `images/wishcore/Bdb69a04deb55ddf97845c9d0b097806.jpg`
-- `images/wishcore/169020e9927f852e301e8903901454cd.jpg`
-- `images/wishcore/5d75db9c65a027c72dde525c4ee556f7.jpg`
-- `images/wishcore/7c17eb426df53e9572165864c5192450.jpg`
-- `images/wishcore/7318f212298ab9d647928630f0430d9b.jpg`
-- `images/wishcore/0ff4648e5b7925ddf6dbfd7d54424ee0.jpg`
-- `images/wishcore/880ecc7a02449e38a06f0f80b32d6def.jpg`
-- `images/wishcore/8668a8a4382e2e0dcae80d5a088fc83b.jpg`
-- `images/wishcore/Cd09436e0409cb35974407a3cd67c512.jpg`
-- `images/wishcore/7fc576ba917b4477bce99b57e8c8d0c1.jpg`
-- `images/wishcore/D0f5dcc35d4ec7978390e2811a1614c0.jpg`
-- `images/wishcore/C65da96436ef1afc3a55989bffa19403.jpg`
-- `images/wishcore/Fbcece9c221bdc2336a366f181661b87.jpg`
-
 ## Source and attribution
 
-Text adapted from "Wishcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wishcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wishcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wishcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

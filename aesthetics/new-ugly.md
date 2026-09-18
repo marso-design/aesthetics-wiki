@@ -10,7 +10,6 @@ related_aesthetics: ["Maximalism", "Dollar Store Vernacular", "Too Cool"]
 source_url: "https://aesthetics.fandom.com/wiki/New_Ugly"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # New Ugly
@@ -34,12 +33,6 @@ image_count: 3
 
 ## References
 
-## Images
-
-- `images/new-ugly/Radii-chinese-new-ugly-style-graphic-design-02.jpg`
-- `images/new-ugly/Radii-chinese-new-ugly-style-graphic-design-06.jpg`
-- `images/new-ugly/Radii-chinese-new-ugly-style-graphic-design-03.jpg`
-
 ## Source and attribution
 
-Text adapted from "New Ugly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Ugly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "New Ugly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Ugly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

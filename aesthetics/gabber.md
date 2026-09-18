@@ -11,7 +11,6 @@ related_aesthetics: ["Rave", "New Beat", "Acid House", "Skinhead", "Tänzelcore"
 source_url: "https://aesthetics.fandom.com/wiki/Gabber"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Gabber
@@ -141,15 +140,6 @@ Hardcore Techno emerged from the Gabber subculture, so pretty much all of its su
 | Fusion Aesthetics |
 | [Acid Design](https://aesthetics.fandom.com/wiki/Acid_Design "Acid Design") ☺ [Cyberdelia](https://aesthetics.fandom.com/wiki/Cyberdelia "Cyberdelia") ☺ [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") ☺ [New Rave](https://aesthetics.fandom.com/wiki/New_Rave "New Rave") |
 
-## Images
-
-- `images/gabber/Artworks-zcYH93w5cOMQn17q-kCYfpA-t500x500.jpg`
-- `images/gabber/Gabber1.jpg`
-- `images/gabber/Gabber2.jpg`
-- `images/gabber/Gabber3.jpg`
-- `images/gabber/Gabber4.jpg`
-- `images/gabber/GabberHeadshots.png`
-
 ## Source and attribution
 
-Text adapted from "Gabber" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gabber), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gabber" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gabber), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["Eat Pray Love", "justgirlythings"]
 source_url: "https://aesthetics.fandom.com/wiki/Live_Laugh_Love"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Live Laugh Love
@@ -79,10 +78,6 @@ Shirts with a combination of stereotyipacl LLL script and very Rae Dunn-esque bl
 * [Why Are the Karens of America So Obsessed With This Home Decor Brand?](https://www.vice.com/en/article/88a37b/why-are-the-karens-of-america-so-obsessed-with-this-home-decor-brand)
 * [Wikipedia: Live, Laugh, Love](https://en.wikipedia.org/wiki/Live,_Laugh,_Love)
 
-## Images
-
-- `images/live-laugh-love/0bf00db8e50f0c3dbd0a7665ef9a24f4.jpg`
-
 ## Source and attribution
 
-Text adapted from "Live Laugh Love" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Live_Laugh_Love), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Live Laugh Love" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Live_Laugh_Love), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

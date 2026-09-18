@@ -12,7 +12,6 @@ primary_platform: ["Lifestyle blogs", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Après-ski"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Après-ski
@@ -45,21 +44,6 @@ In North America, the scene is generally more laid-back. In the United States, r
 
 ## References
 
-## Images
-
-- `images/apr-s-ski/44e47240ec5f8e438a195a32726918b5.jpg`
-- `images/apr-s-ski/Afa6782b01ffaa1de97f066aa93c886b.jpg`
-- `images/apr-s-ski/6685cb1f4b8404f447a0e62afb0e7e7b.jpg`
-- `images/apr-s-ski/Bbbf4b84742f15b682eaeb31a0ab6ae1.jpg`
-- `images/apr-s-ski/4e4ab3f350f8dd210ca319940d4a7c3d.jpg`
-- `images/apr-s-ski/956a990c13e9ee0aa7e7678ec7f060c6.jpg`
-- `images/apr-s-ski/Fcfd0575a98f1d5cc54bfafc62332958.jpg`
-- `images/apr-s-ski/714841ab501b5ac51d43db225bd48be6.jpg`
-- `images/apr-s-ski/84d550bc9a3186bd504a2c3ce1303519.jpg`
-- `images/apr-s-ski/693b14043f5226efbe4d275a52af92ca.jpg`
-- `images/apr-s-ski/1f850c0a8bc38003c4a3e9f8afb44ca4.jpg`
-- `images/apr-s-ski/49b73336f98e8386bcad2446daf38ac5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Après-ski" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Après-ski), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Après-ski" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Après-ski), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

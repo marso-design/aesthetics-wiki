@@ -11,7 +11,6 @@ related_media: ["Koakuma Ageha Magazine", "Popteen Magazine", "Egg Magazine"]
 source_url: "https://aesthetics.fandom.com/wiki/Agejo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Agejo
@@ -71,4 +70,4 @@ Agejo dress
 
 ## Source and attribution
 
-Text adapted from "Agejo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Agejo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Agejo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Agejo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

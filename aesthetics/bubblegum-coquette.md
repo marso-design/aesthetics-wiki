@@ -10,7 +10,6 @@ related_aesthetics: ["Coquette", "Bimbocore", "Bubblegum Bitch", "Candycore", "D
 source_url: "https://aesthetics.fandom.com/wiki/Bubblegum_Coquette"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Bubblegum Coquette
@@ -113,11 +112,6 @@ coquette-club on Tumblr (June 15, 2025)
 | --- | --- | --- |
 | [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") ♡ **Bubblegum Coquette** ♡ [Buckle Bunny](https://aesthetics.fandom.com/wiki/Buckle_Bunny "Buckle Bunny") ♡ [Coconut Girl](https://aesthetics.fandom.com/wiki/Coconut_Girl "Coconut Girl") ♡ [Coquette](https://aesthetics.fandom.com/wiki/Coquette "Coquette") ♡ [Coquette Academia](https://aesthetics.fandom.com/wiki/Coquette_Academia "Coquette Academia") ♡ [Dark Nymphet](https://aesthetics.fandom.com/wiki/Dark_Nymphet "Dark Nymphet") ♡ [Gloomy Coquette](https://aesthetics.fandom.com/wiki/Gloomy_Coquette "Gloomy Coquette") ♡ [Nymphet](https://aesthetics.fandom.com/wiki/Nymphet "Nymphet") ♡ [Trailer Park Princess](https://aesthetics.fandom.com/wiki/Trailer_Park_Princess "Trailer Park Princess") ♡ [Waif](https://aesthetics.fandom.com/wiki/Waif "Waif") |
 
-## Images
-
-- `images/bubblegum-coquette/˚･୨♡୧･˚.png`
-- `images/bubblegum-coquette/⭐️🍭.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bubblegum Coquette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubblegum_Coquette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bubblegum Coquette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubblegum_Coquette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

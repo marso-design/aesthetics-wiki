@@ -13,7 +13,6 @@ related_media: ["The Simple Life", "Mean Girls", "Laguna Beach", "Bling Era Rap 
 source_url: "https://aesthetics.fandom.com/wiki/McBling"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 37
 ---
 
 # McBling
@@ -253,46 +252,6 @@ Young Adult (2011)
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ **McBling** ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/mcbling/0kxYNX.jpg`
-- `images/mcbling/C6C368A2-D7F6-4D48-B6E1-A7E10BA09F8C.jpeg`
-- `images/mcbling/D282641D-C843-4D55-BCF5-82D649D4717A.png`
-- `images/mcbling/B11e289708d8eb1a2dac1f48ef852383.jpg`
-- `images/mcbling/DxuxQaKXgAAUvfe.jpg`
-- `images/mcbling/Ebe27dfa16dfacb91b7ac34e66d4704a.jpg`
-- `images/mcbling/Madonnamusic.png`
-- `images/mcbling/Y2KFashion.jpg`
-- `images/mcbling/2001denim.jpg`
-- `images/mcbling/Nosecretsnicole.jpeg`
-- `images/mcbling/72e2f833c87b737021fae7dd1e85877e.jpg`
-- `images/mcbling/520eb0f56f6a4a1d4ff8ad358c6b4e7c.jpg`
-- `images/mcbling/29a8a7db8dbac1fce7ec08173309b5da.jpg`
-- `images/mcbling/F3d460ba4a1a2af19075c4984e4d9303--pink-wig-pastel-pink-hair.jpg`
-- `images/mcbling/A7e54d22a790a7bc982c7c7a7074cc51.jpg`
-- `images/mcbling/2d6dcbcdac7cb16eb57008727881e6a5f2f258ee.jpg`
-- `images/mcbling/1c4ebe692eec902cbb99bcfc91cd5ea9.gif`
-- `images/mcbling/7e59212053153550ffc32cfe0419d81f.jpg`
-- `images/mcbling/2516710ec086ac873fb7c86e1bf0c462.jpg`
-- `images/mcbling/Dc80e8382ad9fbb34ab15ac54a91b133.jpg`
-- `images/mcbling/הורדה.jpg`
-- `images/mcbling/900104cc74007526a9be06b7431020b1.jpg`
-- `images/mcbling/345FBA10-06DD-4016-B8EB-1CBB7C24B274.jpeg`
-- `images/mcbling/Ffc1c4f275fb183a3e6dc660b7b093ad.jpg`
-- `images/mcbling/91a7c72c814a4db8b79af12e53405aac.jpg`
-- `images/mcbling/71d8e1cd3b5853fee608186fabe9cfc6.jpg`
-- `images/mcbling/A08c140650b6bf1badc2551b11514898.jpg`
-- `images/mcbling/C1e699d10857aa82570b51185024fc4e.jpg`
-- `images/mcbling/F1d187a0dc1a4f4c0cfc3be0988c31a2.jpg`
-- `images/mcbling/P7.jpg`
-- `images/mcbling/122b34700fc87bb3dfdc6cf6a70571c7.jpg`
-- `images/mcbling/9cfeea24c5ef368a031ad97f7c342eb9.gif`
-- `images/mcbling/3285.jpeg`
-- `images/mcbling/A3e53fc7b2ad72d39e79b8e964657806.jpg`
-- `images/mcbling/Brooke.jpg`
-- `images/mcbling/Phonez.jpeg`
-- `images/mcbling/Jean.jpeg`
-
 ## Source and attribution
 
-Text adapted from "McBling" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/McBling), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "McBling" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/McBling), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

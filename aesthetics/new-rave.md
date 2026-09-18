@@ -12,7 +12,6 @@ related_media: ["NME Magazine", "MySpace"]
 source_url: "https://aesthetics.fandom.com/wiki/New_Rave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # New Rave
@@ -159,23 +158,6 @@ The Trash Fashion
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/new-rave/Klaxons.png`
-- `images/new-rave/Newrave12.jpg`
-- `images/new-rave/Newrave11.jpg`
-- `images/new-rave/Newrave9.jpg`
-- `images/new-rave/Newrave4.jpg`
-- `images/new-rave/Newrave8.jpg`
-- `images/new-rave/Newrave10.jpg`
-- `images/new-rave/Newrave.jpg`
-- `images/new-rave/Newrave2.jpg`
-- `images/new-rave/Newrave3.jpg`
-- `images/new-rave/Newrave6.jpg`
-- `images/new-rave/Newrave7.jpg`
-- `images/new-rave/Newrave5.jpg`
-- `images/new-rave/Klaxons2.jpeg`
-
 ## Source and attribution
 
-Text adapted from "New Rave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Rave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "New Rave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_Rave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

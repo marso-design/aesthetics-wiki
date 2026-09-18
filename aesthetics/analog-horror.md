@@ -12,7 +12,6 @@ related_media: ["The Mandela Catalogue", "Gemini Home Entertainment", "Local 58 
 source_url: "https://aesthetics.fandom.com/wiki/Analog_Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Analog Horror
@@ -181,24 +180,6 @@ EAS Brain Control scenario from Alert World on YouTube.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/analog-horror/AnalogHorror2.gif`
-- `images/analog-horror/AnalogHorror1.jpg`
-- `images/analog-horror/AnalogHorror4.jpg`
-- `images/analog-horror/AnalogHorror5.jpg`
-- `images/analog-horror/WorldCorpEnterprises.jpg`
-- `images/analog-horror/Imjustakid.png`
-- `images/analog-horror/AnalogHorror7.png`
-- `images/analog-horror/AnalogHorror6.jpeg`
-- `images/analog-horror/VALWBRB.png`
-- `images/analog-horror/Fnafvhs.jpeg`
-- `images/analog-horror/Blairwitchproject1.jpeg`
-- `images/analog-horror/Gozeta.jpg`
-- `images/analog-horror/Manhuntbox.jpg`
-- `images/analog-horror/Easzombie3.png`
-- `images/analog-horror/Easbraincontrol.png`
-
 ## Source and attribution
 
-Text adapted from "Analog Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Analog_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Analog Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Analog_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

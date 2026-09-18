@@ -1,7 +1,7 @@
 {
   "name": "aesthetics-wiki",
   "displayName": "Aesthetics Wiki",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A deep, queryable knowledge base of 1,201 internet visual aesthetics, each with structured data and a colour palette derived from real reference images. Helps you identify, understand, compare, and apply any aesthetic.",
   "author": {
     "name": "Marso Design",

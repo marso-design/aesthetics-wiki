@@ -9,7 +9,6 @@ palette: ["#37334B", "#080305", "#6B6375", "#365F7B", "#1B282F", "#BE6261"]
 source_url: "https://aesthetics.fandom.com/wiki/Italo_Disco"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 18
 ---
 
 # Italo Disco
@@ -164,27 +163,6 @@ BWH Stop Original 1983
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/italo-disco/Italodisco4.png`
-- `images/italo-disco/Italodisco1.jpg`
-- `images/italo-disco/Italodisco2.jpg`
-- `images/italo-disco/ItaloDisco5.jpeg`
-- `images/italo-disco/ItaloDisco6.jpeg`
-- `images/italo-disco/ItaloDisco7.jpeg`
-- `images/italo-disco/Fresh-color-nightdreams-Cover-Art.jpg`
-- `images/italo-disco/Sabrina-super-sabrina-Cover-Art.jpg`
-- `images/italo-disco/The-flirts-blondes-brunettes-and-redheads-Cover-Art.jpg`
-- `images/italo-disco/Spagna-dedicated-to-the-moon-Cover-Art.jpg`
-- `images/italo-disco/Ex-midi-dla-eli-Cover-Art.jpg`
-- `images/italo-disco/Lime-unexpected-lovers-Cover-Art.jpg`
-- `images/italo-disco/Fancy-get-your-kicks-Cover-Art.jpg`
-- `images/italo-disco/Fun-fun-have-fun-Cover-Art.jpg`
-- `images/italo-disco/Laser-dance-around-the-planet-Cover-Art.jpg`
-- `images/italo-disco/The-flirts-made-in-america-Cover-Art.jpg`
-- `images/italo-disco/Silent-circle-no-1-Cover-Art.jpg`
-- `images/italo-disco/Ab67616d0000b2738f159bcfc1d5b17c6db95c58.jpg`
-
 ## Source and attribution
 
-Text adapted from "Italo Disco" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Italo_Disco), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Italo Disco" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Italo_Disco), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

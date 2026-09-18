@@ -11,7 +11,6 @@ related_aesthetics: ["Streamline Moderne", "Googie", "Space Age", "Atompunk", "B
 source_url: "https://aesthetics.fandom.com/wiki/Mid-Century_Modern"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Mid-Century Modern
@@ -46,16 +45,6 @@ Mammoth Mart store in Raynham, MA. ([image source, Flickr](https://www.flickr.co
 
 ACME Supermarket, operating out of its original 1960s-style building. ([image source, Flickr](https://www.flickr.com/photos/baltimore_retail/31205342293/in/photostream/))
 
-## Images
-
-- `images/mid-century-modern/MCMRoom.png`
-- `images/mid-century-modern/Mid-century-modern-architecture.jpg`
-- `images/mid-century-modern/Mid-century-modern-architecture2.jpg`
-- `images/mid-century-modern/Mid-century-modern-architecture4.jpg`
-- `images/mid-century-modern/MMS.png`
-- `images/mid-century-modern/ACMEM.png`
-- `images/mid-century-modern/BurgerChefRestaurants.png`
-
 ## Source and attribution
 
-Text adapted from "Mid-Century Modern" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mid-Century_Modern), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mid-Century Modern" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mid-Century_Modern), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

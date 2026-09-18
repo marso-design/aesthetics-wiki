@@ -10,7 +10,6 @@ related_aesthetics: ["Cottagecore", "Cryptidcore", "Dragoncore", "Goblincore", "
 source_url: "https://aesthetics.fandom.com/wiki/Crowcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # Crowcore
@@ -105,30 +104,6 @@ this seems to fit nicely.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/crowcore/Crowcore.PNG`
-- `images/crowcore/Shinies.PNG`
-- `images/crowcore/Buttons.PNG`
-- `images/crowcore/Hoard.PNG`
-- `images/crowcore/Sinp.PNG`
-- `images/crowcore/A27D88D8-8B83-414D-98D3-AE72597CE3D8.jpeg`
-- `images/crowcore/CD9494B6-FB0E-42AC-9305-B2E26DC08218.jpeg`
-- `images/crowcore/02300991-8FC4-4DBE-8106-5008BA5B0BFF.jpeg`
-- `images/crowcore/A27A7D30-6E40-4C56-87FC-4EAD40E52F4E.jpeg`
-- `images/crowcore/07FF4265-51BB-4DF9-91E2-F6A549485516.jpeg`
-- `images/crowcore/A6D28D6A-4435-4B77-8001-EF595DBF8226.jpeg`
-- `images/crowcore/Cropinion.jpg`
-- `images/crowcore/15744D37-129F-457D-BFDD-6939254FC9CA.jpeg`
-- `images/crowcore/99A3AB9C-C2E1-4AAC-A4CC-3D8769A1F0E7.jpeg`
-- `images/crowcore/6EF5D16D-A943-4143-AACF-5CC34054E69A.jpeg`
-- `images/crowcore/9ABC3804-EEB8-4F5A-A995-2CB5E2E9C495.jpeg`
-- `images/crowcore/0C87CC92-F11D-4A2E-8082-1CDD4393F589.jpeg`
-- `images/crowcore/Crowcoreoutfit.jpg`
-- `images/crowcore/C445212d677638c04a0d262533f3b82d.jpg`
-- `images/crowcore/Cruw.jpg`
-- `images/crowcore/Ravens.jpg`
-
 ## Source and attribution
 
-Text adapted from "Crowcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Crowcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Crowcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Crowcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

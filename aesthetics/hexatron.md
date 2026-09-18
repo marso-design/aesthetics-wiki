@@ -10,7 +10,6 @@ related_media: ["Tron:Legacy"]
 source_url: "https://aesthetics.fandom.com/wiki/Hexatron"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 26
 ---
 
 # Hexatron
@@ -218,35 +217,6 @@ Muse - The Wow! Signal album artwork (2026)
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● **Hexatron** ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/hexatron/Island2005.png`
-- `images/hexatron/343guiltyspark.png`
-- `images/hexatron/Portal07.jpg`
-- `images/hexatron/New-shield-tablet-k1.jpg`
-- `images/hexatron/Latest.webp`
-- `images/hexatron/Swatch-xlite.jpg`
-- `images/hexatron/Monopolyubuild.webp`
-- `images/hexatron/Metroid-Dread-e1632497860813.webp`
-- `images/hexatron/Alchemiter.png`
-- `images/hexatron/Starcuze.png`
-- `images/hexatron/Vessel.png`
-- `images/hexatron/Neovector9392939.png`
-- `images/hexatron/Karyman.png`
-- `images/hexatron/Gurrrllle.png`
-- `images/hexatron/Expanse.png`
-- `images/hexatron/Doomingtons.png`
-- `images/hexatron/Compootor.png`
-- `images/hexatron/Savoe.PNG`
-- `images/hexatron/Runnerrrr.png`
-- `images/hexatron/Nvidia.png`
-- `images/hexatron/Lungiez.png`
-- `images/hexatron/Bisickle.png`
-- `images/hexatron/Thomuy.png`
-- `images/hexatron/Gravitax.png`
-- `images/hexatron/Lamborghini-ferruccio.png`
-- `images/hexatron/Awpasiimov.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hexatron" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hexatron), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hexatron" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hexatron), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

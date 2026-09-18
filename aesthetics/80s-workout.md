@@ -11,7 +11,6 @@ related_aesthetics: ["Camp", "Mallsoft", "Memphis Design", "Vaporwave"]
 source_url: "https://aesthetics.fandom.com/wiki/80s_Workout"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # 80s Workout
@@ -40,17 +39,6 @@ Music was the driving force of the 80s workout, providing the high-energy beat f
 
 ## References
 
-## Images
-
-- `images/80s-workout/JaneFonda.webp`
-- `images/80s-workout/Istockphoto-157475643-612x612.jpg`
-- `images/80s-workout/80s-Paint-Splatter-Workout-Clothes-1024x978.webp`
-- `images/80s-workout/638502583e2972001d5fefcc.jpg`
-- `images/80s-workout/Womens-work-it-out-80s-costume.jpg`
-- `images/80s-workout/801.webp`
-- `images/80s-workout/Aerobics-group-shot-Mike-Powell-Allsport-Getty-Images-Sport-56a9cb2b5f9b58b7d0ff0948.jpg`
-- `images/80s-workout/31857e3e7bb39662abc79686df1eeba4.jpg`
-
 ## Source and attribution
 
-Text adapted from "80s Workout" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/80s_Workout), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "80s Workout" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/80s_Workout), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

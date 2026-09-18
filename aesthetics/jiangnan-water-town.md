@@ -8,7 +8,6 @@ related_aesthetics: ["Romantic Chinese Village", "Neo-Chinese Style"]
 source_url: "https://aesthetics.fandom.com/wiki/Jiangnan_Water_Town"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 25
 ---
 
 # Jiangnan Water Town
@@ -36,34 +35,6 @@ Local Su-style architecture (苏派建筑) are defined by **white walls, black t
 
 ## References
 
-## Images
-
-- `images/jiangnan-water-town/Jiangnan-Rain3.jpg`
-- `images/jiangnan-water-town/Jiangnan-Bridge1.jpg`
-- `images/jiangnan-water-town/Jiangnan-Bridge2.jpg`
-- `images/jiangnan-water-town/Jiangnan-Bridge3.jpg`
-- `images/jiangnan-water-town/Jiangnan-Bridge4.jpg`
-- `images/jiangnan-water-town/Jiangnan-Building.webp`
-- `images/jiangnan-water-town/Jiangnan-Building1.jpg`
-- `images/jiangnan-water-town/Jiangnan-Building2.jpg`
-- `images/jiangnan-water-town/Jiangnan-Building3.jpg`
-- `images/jiangnan-water-town/Jiangnan-Huachuang.webp`
-- `images/jiangnan-water-town/Jiangnan-Building4.jpg`
-- `images/jiangnan-water-town/Jiangnan-Building5.jpg`
-- `images/jiangnan-water-town/Jiangnan-Rain1.webp`
-- `images/jiangnan-water-town/Jiangnan-Rain2.jpg`
-- `images/jiangnan-water-town/Jiangnan-Rain4.jpg`
-- `images/jiangnan-water-town/Jiangnan-Rain5.jpg`
-- `images/jiangnan-water-town/Jiangnan-Rain6.webp`
-- `images/jiangnan-water-town/Jiangnan-River1.jpg`
-- `images/jiangnan-water-town/Jiangnan-River2.jpg`
-- `images/jiangnan-water-town/Jiangnan-River3.jpg`
-- `images/jiangnan-water-town/Jiangnan-Wupeng2.jpg`
-- `images/jiangnan-water-town/Jiangnan-Wupeng1.webp`
-- `images/jiangnan-water-town/Jiangnan-Wupeng3.webp`
-- `images/jiangnan-water-town/Jiangnan-Wupeng4.webp`
-- `images/jiangnan-water-town/Jiangnan-Wupeng5.webp`
-
 ## Source and attribution
 
-Text adapted from "Jiangnan Water Town" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jiangnan_Water_Town), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Jiangnan Water Town" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jiangnan_Water_Town), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

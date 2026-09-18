@@ -8,7 +8,6 @@ palette: ["#616D77", "#B1AF9D", "#0A0909", "#51443F", "#7D726C", "#353233"]
 source_url: "https://aesthetics.fandom.com/wiki/Anti-Fashion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Anti-Fashion
@@ -40,15 +39,6 @@ Anti-Fashion applies to many trends, but anything in the trend made [avant-garde
 
 Gucci fashion show
 
-## Images
-
-- `images/anti-fashion/F.jpeg`
-- `images/anti-fashion/Ugly-fashion-gucci.jpg`
-- `images/anti-fashion/Purr.jpg`
-- `images/anti-fashion/Stripes.jpg`
-- `images/anti-fashion/Walk.jpg`
-- `images/anti-fashion/Vetements.jpg`
-
 ## Source and attribution
 
-Text adapted from "Anti-Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Anti-Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Anti-Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Anti-Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

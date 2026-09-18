@@ -11,7 +11,6 @@ primary_platform: ["Goth clubs", "fetish events"]
 source_url: "https://aesthetics.fandom.com/wiki/Fetish_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Fetish Goth
@@ -58,18 +57,6 @@ A significant misconception surrounding the Fetish Goth style is the assumption 
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/fetish-goth/D3ea5c69d2adcca1007da9020e7efde6.jpg`
-- `images/fetish-goth/46e60a9589261915a38641e1854a4508.jpg`
-- `images/fetish-goth/86f11888fa41bf2af52d8f5515838b13.jpg`
-- `images/fetish-goth/78831391498fdf1c1e32b72e1feeb063.jpg`
-- `images/fetish-goth/7293fbf39f4125612f147c8c4ad40f91.jpg`
-- `images/fetish-goth/8a53d4e1d19304871125532097758f3d.jpg`
-- `images/fetish-goth/3658d9d5bec6414cdccc6ccb82e37411.jpg`
-- `images/fetish-goth/6b8ffa30ee141e54c7500f24977ef92d.jpg`
-- `images/fetish-goth/6a586d87185682ef3b9cada1f80d9ae3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fetish Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fetish_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fetish Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fetish_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

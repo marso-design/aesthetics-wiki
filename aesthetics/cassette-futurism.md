@@ -10,7 +10,6 @@ related_aesthetics: ["Atompunk", "Cyberpunk", "Dieselpunk", "Early Cyber", "Goog
 source_url: "https://aesthetics.fandom.com/wiki/Cassette_Futurism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 37
 ---
 
 # Cassette Futurism
@@ -298,46 +297,6 @@ Electric Revolution by KEkekekekeke k
 
 ## References
 
-## Images
-
-- `images/cassette-futurism/Cassette3.jpeg`
-- `images/cassette-futurism/0ff6b961daa30eb700baf11d14ff9038.jpg`
-- `images/cassette-futurism/123f56c7ee8793e6b31ee9f591478aac.gif`
-- `images/cassette-futurism/Dca05c75fa68c3d25c948234a07af328.jpg`
-- `images/cassette-futurism/Jhf4klx9a4qf1.jpeg`
-- `images/cassette-futurism/C948a54689d02cddede723ed1e9e96ea.jpg`
-- `images/cassette-futurism/Sega-SG-1000-Console-Set.jpg`
-- `images/cassette-futurism/NES-Console-Set.png`
-- `images/cassette-futurism/Sega-Master-System-Set.png`
-- `images/cassette-futurism/2a8c0a940df409b7730d492a4a768324.gif`
-- `images/cassette-futurism/Game-Boy-FL.png`
-- `images/cassette-futurism/Beigetech.png`
-- `images/cassette-futurism/18mxy1ed02732jpg.jpg`
-- `images/cassette-futurism/Sega-Mega-Drive-EU-Mk1-wController-FL.jpg`
-- `images/cassette-futurism/OtpNwGp.png`
-- `images/cassette-futurism/1280px-Sega-Nomad-Front.jpg`
-- `images/cassette-futurism/Cc67e04bfe13b44e4968e54c6ff5a49f.jpg`
-- `images/cassette-futurism/MegaCDKaraoke.jpg`
-- `images/cassette-futurism/Megadrive2.png`
-- `images/cassette-futurism/F598bf82-7dd8-4b44-8aeb-1777e10140e2.jpg`
-- `images/cassette-futurism/Sega-Saturn-JP-Mk1-Console-Set.jpg`
-- `images/cassette-futurism/32X.jpeg`
-- `images/cassette-futurism/Mega-Jet-Console-Front.jpg`
-- `images/cassette-futurism/Sega-Saturn-Console-Set-Mk1.jpg`
-- `images/cassette-futurism/Nomad-Prototype-Venus.jpg`
-- `images/cassette-futurism/NewAstrocity.jpeg`
-- `images/cassette-futurism/Hrdhisatnavi.jpg`
-- `images/cassette-futurism/Blastc.jpeg`
-- `images/cassette-futurism/Sega-Saturn-JP-Mk2-Console-Set.jpg`
-- `images/cassette-futurism/VsCitysss.jpeg`
-- `images/cassette-futurism/Sega-pluto-1.jpg`
-- `images/cassette-futurism/7bd1f1b67856e5159d229c5e9e69ade5.jpg`
-- `images/cassette-futurism/SegaNeptune.jpeg`
-- `images/cassette-futurism/Cassette1.jpg`
-- `images/cassette-futurism/D13a762eded67878a9d90e05733f7cc8.jpg`
-- `images/cassette-futurism/Cassette2.jpg`
-- `images/cassette-futurism/20110707.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cassette Futurism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cassette_Futurism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cassette Futurism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cassette_Futurism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

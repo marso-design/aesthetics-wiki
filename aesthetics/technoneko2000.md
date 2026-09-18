@@ -11,7 +11,6 @@ related_media: ["OS-tan", "early VOCALOID fanart", "EXIT TRANCE", "Hyperdimensio
 source_url: "https://aesthetics.fandom.com/wiki/TechnoNeko2000"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # TechnoNeko2000
@@ -148,21 +147,6 @@ Art of gijinkas of various electronics.
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● **TechnoNeko2000** |
 
-## Images
-
-- `images/technoneko2000/Neko.Neko.1024.1306900.webp`
-- `images/technoneko2000/C271af7f2e0a6c216ef7a19b53ca85d3.jpg`
-- `images/technoneko2000/HD-wallpaper-hatsune-miku-megurine-luka-magnet-pretty-megurine-nice-butterfly-anime-aqua-beauty-anime-girl-vocaloids-magnet-twintail-black-miku-aqua-eyes-cute-headset-singers-hatsune-cool-thumbnail.jpg`
-- `images/technoneko2000/Sayako.jpg`
-- `images/technoneko2000/MikuMonster.png`
-- `images/technoneko2000/92b5e41787e232c2ac47f9ec3e3801fd.jpg`
-- `images/technoneko2000/0ea5b8951abfa6675ed01319f68b517e.jpg`
-- `images/technoneko2000/773e4c3601579aeb1daf61cc28395562.jpg`
-- `images/technoneko2000/D6010c72da1d40c46f8f2fdf91ae1e2d.jpg`
-- `images/technoneko2000/88ea766b3cec3cd6c459c93eff5cd7ef.jpg`
-- `images/technoneko2000/Eaaf5535ba10560aac69c8f8dd0e94b1.jpg`
-- `images/technoneko2000/8b17b6803df524f7fa5d26e5ec580550.jpg`
-
 ## Source and attribution
 
-Text adapted from "TechnoNeko2000" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/TechnoNeko2000), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "TechnoNeko2000" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/TechnoNeko2000), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

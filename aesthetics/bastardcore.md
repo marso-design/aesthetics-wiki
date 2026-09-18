@@ -12,7 +12,6 @@ primary_platform: ["Reddit", "Tumblr", "Newgrounds", "YouTube", "Novelty Shirt W
 source_url: "https://aesthetics.fandom.com/wiki/Bastardcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 33
 ---
 
 # Bastardcore
@@ -93,42 +92,6 @@ The aesthetic is largely supported by online novelty clothing vendors that speci
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/bastardcore/2bb973676b701cda3b4afaeb60c90b29.jpg`
-- `images/bastardcore/3b990b4aa5bdb529f7203798985f5e7a.jpg`
-- `images/bastardcore/F6874f625778b6af25bd38213c9b0ed4.jpg`
-- `images/bastardcore/D2b5f41c33566bffefe81e87c0c1a385.jpg`
-- `images/bastardcore/1c2fba5016030b635f3dba8efe73187d.jpg`
-- `images/bastardcore/B5a0107127420bb277ace9b7bb6825ac.jpg`
-- `images/bastardcore/F648b9abc96bc56ea989ff3f51338fe1.jpg`
-- `images/bastardcore/03500702c2eeac79afea429baedd61b4.jpg`
-- `images/bastardcore/B247fdffbe36923e8d596e8e4cd21d9d.jpg`
-- `images/bastardcore/93cdf2f82ea61bc8baf0e349c40d974b.jpg`
-- `images/bastardcore/E8ef071a1ca879e152e87bd485037a87.jpg`
-- `images/bastardcore/A4bfe15c5a88d184e82fb494d048a636.jpg`
-- `images/bastardcore/69d0341995b9beaf95192aa6e139041d.jpg`
-- `images/bastardcore/B712cf5bee500e7251258523b67cc39c.jpg`
-- `images/bastardcore/817bdc9d3e39e63d14f76f85321e6593.jpg`
-- `images/bastardcore/Bb534d795caf871b1c516cf7cb33a89d.jpg`
-- `images/bastardcore/F0dd402a17106901272acbe7276e3b54.jpg`
-- `images/bastardcore/C1703193efa45799af1c8dd802a39731.jpg`
-- `images/bastardcore/1700c086acf0830664a96201cbf12b59.jpg`
-- `images/bastardcore/32649729e7e90e0ae6a8c69fb9a10338.jpg`
-- `images/bastardcore/075d0e4c753ba5be49a3820959842d07.jpg`
-- `images/bastardcore/D03e7bb45907d39db01b5a536ca4e75c.jpg`
-- `images/bastardcore/B88eecb1baa28a9663d64e8a11d1c529.jpg`
-- `images/bastardcore/44d99b3d5566bebf5eb096af46b3d448.jpg`
-- `images/bastardcore/E450738e01d811a8b7a3af05b7a50fca.jpg`
-- `images/bastardcore/9181f5dba4d0a96bfc832e4f29350d05.jpg`
-- `images/bastardcore/46ff9ea29d8c70ef916a7510e26d74c4.jpg`
-- `images/bastardcore/4cbeec4122de291e425eaabf41dc275c.jpg`
-- `images/bastardcore/298ab478b5adaa43a6d8db9da25aa07b.jpg`
-- `images/bastardcore/0fb358ccbb5c106863b774623885b4e1.jpg`
-- `images/bastardcore/43062dca075f693ebe6ff48822029bc1.jpg`
-- `images/bastardcore/64aa0de8df14f9797f32bb3e32317135.jpg`
-- `images/bastardcore/1d30d2a63d67161c3fa84c3e18b76920.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bastardcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bastardcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bastardcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bastardcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ related_aesthetics: ["Ancient Egypt"]
 source_url: "https://aesthetics.fandom.com/wiki/Egyptian_Revival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Egyptian Revival
@@ -60,14 +59,6 @@ Candelabrum, by Ferdinand Berbedienne, c.1875, bronze
 
 ## References
 
-## Images
-
-- `images/egyptian-revival/EgyptianRevival-TempleWorks.jpeg`
-- `images/egyptian-revival/EgyptianRevival-GorveStreetCemetery.jpeg`
-- `images/egyptian-revival/EgyptianRevial-TheEgyptianAvenue.jpeg`
-- `images/egyptian-revival/76243717-F830-477A-9039-CA4F0B07B0D9.jpeg`
-- `images/egyptian-revival/B9A88EA8-4108-4224-9E73-FABCAB8936AC.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Egyptian Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Egyptian_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Egyptian Revival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Egyptian_Revival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

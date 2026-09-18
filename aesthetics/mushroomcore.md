@@ -13,7 +13,6 @@ primary_platform: ["Facebook", "TikTok", "Pinterest", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Mushroomcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Mushroomcore
@@ -75,23 +74,6 @@ A key element of the decor is the mushroom-shaped lamp, which has become an icon
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/mushroomcore/Redcapped.jpg`
-- `images/mushroomcore/BBA230C8-5462-4284-9063-C6489D03596B.jpeg`
-- `images/mushroomcore/E848847C-4ED2-44C6-99DF-1452FD42DC92.jpeg`
-- `images/mushroomcore/7EC14C9A-3E98-48F2-BAD6-F50D58D6D694.jpeg`
-- `images/mushroomcore/9A30D882-439E-4B1E-AD14-5A4483B66595.jpeg`
-- `images/mushroomcore/9592A135-C0A7-463D-A36F-094669C39BE7.jpeg`
-- `images/mushroomcore/055B5AFC-5D80-4156-BCF8-4688A5391537.jpeg`
-- `images/mushroomcore/Download-3.jpg`
-- `images/mushroomcore/B285F718-03ED-4A8D-8BBA-3602A2C77F3E.jpeg`
-- `images/mushroomcore/Cottagegore-0.jpg`
-- `images/mushroomcore/C79B3532-AADC-4D94-90B8-354DDA1B93B3.jpeg`
-- `images/mushroomcore/3D9D5E5E-50E5-41C6-9B38-3B2E7286A0B6.jpg`
-- `images/mushroomcore/09503046fd1003c6e89f416e2c8c80f1.jpg`
-- `images/mushroomcore/Cutemushroompic3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Mushroomcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mushroomcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Mushroomcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Mushroomcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

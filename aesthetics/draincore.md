@@ -11,7 +11,6 @@ primary_platform: ["TikTok", "Tumblr", "SoundCloud"]
 source_url: "https://aesthetics.fandom.com/wiki/Draincore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Draincore
@@ -144,19 +143,6 @@ Introduction to the Drain Gang, their influence, and the aesthetic.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/draincore/(6).jpg`
-- `images/draincore/Bladee.jpg`
-- `images/draincore/Fakedrain.jpg`
-- `images/draincore/E08891f706bfe4d804eacc54ac94981e.jpg`
-- `images/draincore/93a0b84564fba3b24d4ef129b5e3208e.jpg`
-- `images/draincore/De077822599213226f7cbe261111656a.jpg`
-- `images/draincore/C901eda7ba94f3a5aa04b06ab182d20f.jpg`
-- `images/draincore/0b9debc6e81af9570358824639fe9d59.jpg`
-- `images/draincore/Cee2a31305fcc9fd6e205c13a7ac5b86.jpg`
-- `images/draincore/@monclerkvinna.jpg`
-
 ## Source and attribution
 
-Text adapted from "Draincore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Draincore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Draincore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Draincore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

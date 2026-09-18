@@ -8,7 +8,6 @@ related_aesthetics: ["Mad Scientist", "Nightcore (aesthetic)", "Science Academia
 source_url: "https://aesthetics.fandom.com/wiki/Fantasy_Astronomy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Fantasy Astronomy
@@ -180,26 +179,6 @@ Anything that involves astronomy can be considered an activity of Fantasy Astron
 
 ## Gallery
 
-## Images
-
-- `images/fantasy-astronomy/Wizardcore4.jpg`
-- `images/fantasy-astronomy/Wizardcore8.jpg`
-- `images/fantasy-astronomy/Wizardcore6.jpg`
-- `images/fantasy-astronomy/8a8e9d4ecfa13c3eedceab31eb6c0737.jpg`
-- `images/fantasy-astronomy/Spacecore.jpg`
-- `images/fantasy-astronomy/Fantastronomy1.jpg`
-- `images/fantasy-astronomy/Fantastronomy2.jpg`
-- `images/fantasy-astronomy/Fantastronomy3.jpg`
-- `images/fantasy-astronomy/Fantastronomy4.jpg`
-- `images/fantasy-astronomy/566d0b6b579401d90d6792114ccc0917.jpg`
-- `images/fantasy-astronomy/7c5bbf48ea27103d1d86yy5ec6690248c2.jpg`
-- `images/fantasy-astronomy/791266232b015b47502c523b7c7513e7.jpg`
-- `images/fantasy-astronomy/7c5bbf48ea27103d1d865ec6690248c2.jpg`
-- `images/fantasy-astronomy/Moon1.png`
-- `images/fantasy-astronomy/Moon2.png`
-- `images/fantasy-astronomy/Moon3.png`
-- `images/fantasy-astronomy/Blue-and-gold-planetarium.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fantasy Astronomy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fantasy_Astronomy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fantasy Astronomy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fantasy_Astronomy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

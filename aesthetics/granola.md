@@ -12,7 +12,6 @@ primary_platform: ["Instagram", "TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Granola"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Granola
@@ -212,26 +211,6 @@ Granola girls love animals
 * [EcoTools](https://www.amazon.com/stores/EcoTools/node/2591080011)
 * [Windflowersdawn](https://windflowersdawn.com/)
 
-## Images
-
-- `images/granola/2-BKPbAQ.jpg`
-- `images/granola/1*JqFgM7CLNIOVkjADyeVKPA.jpg`
-- `images/granola/F5A747FD-6137-454E-A28F-5A80E9EA3745.jpeg`
-- `images/granola/6F9C354D-2A11-40B8-8DC8-09B9590F1F99.png`
-- `images/granola/A1C6D26F-50A8-49CA-AA4E-80977E00745E.png`
-- `images/granola/ED161187-A7B5-4988-8D13-01A4659C2C50.jpeg`
-- `images/granola/7B8F1526-D4CA-46FB-949B-43440F6794FB.jpeg`
-- `images/granola/CC659F33-4A16-4679-93BB-940EE7ABCB4D.jpeg`
-- `images/granola/785AF017-F75D-4D48-99DD-C0BAA3F0153B.jpeg`
-- `images/granola/703BB7DC-53A7-4812-81F5-6C517918CB33.jpeg`
-- `images/granola/8E017BCE-5FBC-47FD-AF19-C1025A4F0A8F.jpeg`
-- `images/granola/0D1E46B3-2C44-4EDC-B975-7210ED1080A6.jpeg`
-- `images/granola/18D6E4B8-04D8-4085-B7AC-F71BF7992467.jpeg`
-- `images/granola/5FFE3891-1916-41A1-8255-49AEF8B6E755.jpeg`
-- `images/granola/025E2DB0-95B9-4098-AD66-B0D019D86B89.jpeg`
-- `images/granola/8f9beb2d07a4bc9bdc0914425071630f.jpg`
-- `images/granola/Health-yoga-sunset.png`
-
 ## Source and attribution
 
-Text adapted from "Granola" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Granola), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Granola" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Granola), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

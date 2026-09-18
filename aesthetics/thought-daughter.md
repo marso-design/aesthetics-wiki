@@ -10,7 +10,6 @@ related_media: ["The Bell Jar by Sylvia Plath", "French existentialism", "1960s 
 source_url: "https://aesthetics.fandom.com/wiki/Thought_Daughter"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Thought Daughter
@@ -215,4 +214,4 @@ Figs are a motif in *The Bell Jar* by Sylvia Plath
 
 ## Source and attribution
 
-Text adapted from "Thought Daughter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Thought_Daughter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Thought Daughter" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Thought_Daughter), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

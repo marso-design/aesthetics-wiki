@@ -9,7 +9,6 @@ related_aesthetics: ["Archive", "Gyaru", "Olderbrothercore", "Onee Gyaru (female
 source_url: "https://aesthetics.fandom.com/wiki/Onii_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Onii Kei
@@ -34,14 +33,6 @@ TBA
 
 ## References
 
-## Images
-
-- `images/onii-kei/Onii-kei.jpg`
-- `images/onii-kei/Onii-kei-style-inspo-v0-vnx67sn3ufce1.webp`
-- `images/onii-kei/Three-Shibuya-Guys-10-2009-001-P2735.webp`
-- `images/onii-kei/Onii.webp`
-- `images/onii-kei/3a4ae3d86ac1ddf0a6ce2d3e68b3b3b1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Onii Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Onii_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Onii Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Onii_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

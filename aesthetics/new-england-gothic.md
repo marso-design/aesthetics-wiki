@@ -11,7 +11,6 @@ related_aesthetics: ["Dark Naturalism", "Dark Nautical", "Gothic", "Midwest Goth
 source_url: "https://aesthetics.fandom.com/wiki/New_England_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # New England Gothic
@@ -178,15 +177,6 @@ Though influential on New England Gothic and horror fiction in general, the fict
 
 ## References
 
-## Images
-
-- `images/new-england-gothic/The-witch-15342-5-1100.jpg`
-- `images/new-england-gothic/Haunted-House-of-the-Seven-Gables-6.jpg`
-- `images/new-england-gothic/WondersoftheInvisibleWorld-1693.jpg`
-- `images/new-england-gothic/Boston-cemetery.jpg`
-- `images/new-england-gothic/Hesper-lutherlittle-3-1976.jpg`
-- `images/new-england-gothic/Salem-Photos-95.webp`
-
 ## Source and attribution
 
-Text adapted from "New England Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_England_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "New England Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/New_England_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

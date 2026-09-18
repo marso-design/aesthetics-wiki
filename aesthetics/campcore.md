@@ -9,7 +9,6 @@ related_aesthetics: ["Cabincore", "Adventurecore", "Comfy/Cozy", "Naturecore", "
 source_url: "https://aesthetics.fandom.com/wiki/Campcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Campcore
@@ -137,19 +136,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 Water Tap for public use
 
-## Images
-
-- `images/campcore/Camp-1.PNG`
-- `images/campcore/Campcore1.jpg`
-- `images/campcore/Campcore2.jpg`
-- `images/campcore/Campcore3.jpg`
-- `images/campcore/Campcore4.jpg`
-- `images/campcore/Campcore5.jpg`
-- `images/campcore/Campcore6.jpg`
-- `images/campcore/Camping.jpg`
-- `images/campcore/Kettle.jpg`
-- `images/campcore/WaterTap.jpg`
-
 ## Source and attribution
 
-Text adapted from "Campcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Campcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Campcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Campcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

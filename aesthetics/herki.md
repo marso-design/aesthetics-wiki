@@ -12,7 +12,6 @@ primary_platform: ["Vkontakte (VK)", "LiveJournal"]
 source_url: "https://aesthetics.fandom.com/wiki/Herki"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Herki
@@ -115,11 +114,6 @@ The term "Herki" itself functions as a pejorative, often used by "true" members 
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 **Herki** 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 [Pastel Goth](https://aesthetics.fandom.com/wiki/Pastel_Goth "Pastel Goth") |
 
-## Images
-
-- `images/herki/Herki.jpg`
-- `images/herki/272.jpg`
-
 ## Source and attribution
 
-Text adapted from "Herki" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Herki), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Herki" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Herki), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

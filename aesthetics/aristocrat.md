@@ -11,7 +11,6 @@ related_aesthetics: ["Dandy", "Gothic Lolita", "Ouji", "Tanbi Kei", "Visual Kei"
 source_url: "https://aesthetics.fandom.com/wiki/Aristocrat"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Aristocrat
@@ -65,18 +64,6 @@ Accessories reflect the historical and gothic influences, adding detail without 
 
 ## References
 
-## Images
-
-- `images/aristocrat/1486727796709.webp`
-- `images/aristocrat/Aristocrat1.jpg`
-- `images/aristocrat/Aristo2.jpg`
-- `images/aristocrat/Aristo3.jpg`
-- `images/aristocrat/Aristo4.jpg`
-- `images/aristocrat/Aristo5.jpg`
-- `images/aristocrat/Aristo6.jpg`
-- `images/aristocrat/Aristo7.png`
-- `images/aristocrat/Aristo8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Aristocrat" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aristocrat), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Aristocrat" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Aristocrat), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

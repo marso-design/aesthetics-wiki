@@ -11,7 +11,6 @@ palette: ["#151E2B", "#383646", "#416B7B", "#D6CFC7", "#EAEDE6", "#A8CFCB"]
 source_url: "https://aesthetics.fandom.com/wiki/Xpiritualism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Xpiritualism
@@ -351,26 +350,6 @@ activedenialsystems - TEXAS CONTINGENCY 666
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/xpiritualism/Radii-chinese-xpiritualism-01-1.jpg`
-- `images/xpiritualism/Yabujin.webp`
-- `images/xpiritualism/Claws.webp`
-- `images/xpiritualism/Jinxibadda.jpg`
-- `images/xpiritualism/SUPR.AWESUM.RAiNBOW.R4VE.jpg`
-- `images/xpiritualism/Youtube.jpg`
-- `images/xpiritualism/Lrtswbcrd.png`
-- `images/xpiritualism/5gradiationtowermeme.png`
-- `images/xpiritualism/EarlyWorksBootleg.jpeg`
-- `images/xpiritualism/Artworks-Aht7bulM6DfYDY0W-EfO4yw-t500x500.jpg`
-- `images/xpiritualism/Cursewebcover.png`
-- `images/xpiritualism/Arabmetalsonic.png`
-- `images/xpiritualism/Silverdragon.png`
-- `images/xpiritualism/Swords.webp`
-- `images/xpiritualism/Inhalinglight.jpg`
-- `images/xpiritualism/Xpiritualismvisuals.gif`
-- `images/xpiritualism/NightGlitch.jpg`
-
 ## Source and attribution
 
-Text adapted from "Xpiritualism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Xpiritualism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Xpiritualism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Xpiritualism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

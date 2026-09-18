@@ -12,7 +12,6 @@ related_media: ["A Brief History of Time", "Mind Hunters", "The Big Bang Theory"
 source_url: "https://aesthetics.fandom.com/wiki/Science_Academia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Science Academia
@@ -199,12 +198,6 @@ As is the case with all academia aesthetics, activities usually involve the purs
 
 Three specimens from the Natural History Museum's wet specimen collection. © Trustees of the NHM, London
 
-## Images
-
-- `images/science-academia/Woman-xray.jpg`
-- `images/science-academia/Tim-roth-all-our-precious-medicines.png`
-- `images/science-academia/Secret.jpg`
-
 ## Source and attribution
 
-Text adapted from "Science Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Science_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Science Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Science_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

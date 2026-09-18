@@ -9,7 +9,6 @@ related_aesthetics: ["Girl Crush", "Cyberpop", "Kandi Raver"]
 source_url: "https://aesthetics.fandom.com/wiki/Bubblegum_Girl_Crush"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Bubblegum Girl Crush
@@ -80,10 +79,6 @@ The difference between the 2 further becomes very apparent, when some Teen Crush
 
 ## Gallery
 
-## Images
-
-- `images/bubblegum-girl-crush/4Minute.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bubblegum Girl Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubblegum_Girl_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bubblegum Girl Crush" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bubblegum_Girl_Crush), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

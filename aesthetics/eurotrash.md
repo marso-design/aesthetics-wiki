@@ -5,7 +5,6 @@ palette: ["#46C7C1", "#101515", "#3B7173", "#8F9292", "#152931", "#4E4742"]
 source_url: "https://aesthetics.fandom.com/wiki/Eurotrash"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Eurotrash
@@ -158,10 +157,6 @@ These aesthetics fall under the broad "Eurotrash" umbrella, representing specifi
 
 ## References
 
-## Images
-
-- `images/eurotrash/Ukraineeurovision2007.jpg`
-
 ## Source and attribution
 
-Text adapted from "Eurotrash" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Eurotrash), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Eurotrash" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Eurotrash), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

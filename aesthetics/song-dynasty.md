@@ -11,7 +11,6 @@ related_aesthetics: ["Hanfu"]
 source_url: "https://aesthetics.fandom.com/wiki/Song_Dynasty"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 70
 ---
 
 # Song Dynasty
@@ -423,79 +422,6 @@ Photo by 茱萸CORNUS (@344926137) on Rednote
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/song-dynasty/SongDynasty-QianLiJiangShanTu.png`
-- `images/song-dynasty/Song-Wan4He4Song1Feng1.jpeg`
-- `images/song-dynasty/SongDynasty-xi1shan1xing2lv3tu2.jpg`
-- `images/song-dynasty/Song-MaYuan.jpeg`
-- `images/song-dynasty/Song-XiaGui.jpeg`
-- `images/song-dynasty/Song-芙蓉锦鸡图.jpg`
-- `images/song-dynasty/Song-chu1shui3fu2rong2tu2.jpg`
-- `images/song-dynasty/Song-WenrenhuaZhaoMengjian.jpeg`
-- `images/song-dynasty/Song-WenrenhuaYangBuzhi.jpg`
-- `images/song-dynasty/Song-qing1ming2shang4he2tu21.webp`
-- `images/song-dynasty/Song-ting1qin2tu2.webp`
-- `images/song-dynasty/Song-shi2ba1xue2shi4tu2part2.png`
-- `images/song-dynasty/Song-汝窑淡天青釉弦纹三足樽式炉.jpg`
-- `images/song-dynasty/Song-汝窑天青釉圆洗.jpg`
-- `images/song-dynasty/Song-汝窑天青釉三足樽承盘.jpg`
-- `images/song-dynasty/Song-官窑青釉方花盆.jpg`
-- `images/song-dynasty/Song-官窑青釉圆洗.jpg`
-- `images/song-dynasty/Song-官窑粉青釉弦纹瓶.jpg`
-- `images/song-dynasty/Song-哥窑青釉菊瓣式盘.jpg`
-- `images/song-dynasty/Song-哥窑青釉弦纹瓶.jpg`
-- `images/song-dynasty/Song-哥窑青釉鱼耳炉.jpg`
-- `images/song-dynasty/Song-钧窑月白釉出戟尊.jpg`
-- `images/song-dynasty/Song-钧窑天蓝釉三足筒式炉.jpg`
-- `images/song-dynasty/Song-钧窑玫瑰紫釉仰钟式花盆.jpg`
-- `images/song-dynasty/Song-钧窑玫瑰紫釉菱花式花盆.jpg`
-- `images/song-dynasty/Song-钧窑玫瑰紫釉葵花式花盆托.jpg`
-- `images/song-dynasty/Song-钧窑玫瑰紫釉渣斗式花盆.jpg`
-- `images/song-dynasty/Song-定窑白釉荷叶式盏托.jpg`
-- `images/song-dynasty/Song-定窑白釉刻花花卉纹梅瓶.jpg`
-- `images/song-dynasty/Song-定窑印花云龙纹盘.jpg`
-- `images/song-dynasty/Song-定窑孩儿枕（残）.jpg`
-- `images/song-dynasty/Song-定窑酱釉花口盘.jpg`
-- `images/song-dynasty/Song-定窑紫金釉葵瓣口盘.jpg`
-- `images/song-dynasty/Song-黄州寒食帖.jpg`
-- `images/song-dynasty/Song-秾芳诗帖.jpg`
-- `images/song-dynasty/Song-松风阁诗帖.jpg`
-- `images/song-dynasty/SongDynastr-SageMotherHall.jpg`
-- `images/song-dynasty/SongDynasty-BaoguoTemple.webp`
-- `images/song-dynasty/SongDynasty-FaxingTemple.jpg`
-- `images/song-dynasty/Song-WomensFashion1.jpg`
-- `images/song-dynasty/Song-WomensFashion2.jpg`
-- `images/song-dynasty/Song-WomensFashion3.jpg`
-- `images/song-dynasty/Song-WomensFashionX.jpg`
-- `images/song-dynasty/Song-WomensFashionY.jpg`
-- `images/song-dynasty/Song-WomensFashion.jpg`
-- `images/song-dynasty/Song-shi2ba1xue2shi4tu2part1.jpg`
-- `images/song-dynasty/Song-MensFashion1.jpg`
-- `images/song-dynasty/Song-MensFashion.jpg`
-- `images/song-dynasty/Song-MensFashion2.jpg`
-- `images/song-dynasty/Song-MenWearingFlower.jpg`
-- `images/song-dynasty/Song-MensFashion3.jpg`
-- `images/song-dynasty/Song-DianchaPainting1.jpeg`
-- `images/song-dynasty/Song-DianchaTeaSet.jpeg`
-- `images/song-dynasty/Song-DianchaPainting2.jpeg`
-- `images/song-dynasty/Song-Guahua.png`
-- `images/song-dynasty/Song-Chahua.jpeg`
-- `images/song-dynasty/Song-qing1ming2shang4he2tu22.webp`
-- `images/song-dynasty/Song-shi2bi4kan4yun2tu2.jpg`
-- `images/song-dynasty/Song-寒雀图.jpg`
-- `images/song-dynasty/Song-shi2bi4kan4yun2tu2correction.jpg`
-- `images/song-dynasty/Song-汝窑天青釉盘.jpg`
-- `images/song-dynasty/Song-哥窑青釉葵瓣口盘.png`
-- `images/song-dynasty/Song-哥窑八方碗.jpg`
-- `images/song-dynasty/Song-哥窑灰青釉八方贯耳壶.jpg`
-- `images/song-dynasty/Song-南宋对襟双蝶串枝纹绫衫.jpg`
-- `images/song-dynasty/Song-南宋褐色罗镶彩绘花边广袖袍.jpg`
-- `images/song-dynasty/Song-MensFashionZ.jpg`
-- `images/song-dynasty/Song-rui4he4tu2.jpg`
-- `images/song-dynasty/Song-ku1mu4guai4shi2tu2.jpg`
-- `images/song-dynasty/Song-Revivals.jpg`
-
 ## Source and attribution
 
-Text adapted from "Song Dynasty" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Song_Dynasty), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Song Dynasty" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Song_Dynasty), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

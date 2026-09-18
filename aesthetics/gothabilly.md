@@ -11,7 +11,6 @@ related_aesthetics: ["Deathrock", "Goth", "Rockabilly", "Psychobilly", "Pin-up"]
 source_url: "https://aesthetics.fandom.com/wiki/Gothabilly"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 25
 ---
 
 # Gothabilly
@@ -143,34 +142,6 @@ HorrorPops
 
 ]
 
-## Images
-
-- `images/gothabilly/Gothabilly55.jpg`
-- `images/gothabilly/25CF0623-F017-40EC-A97F-845D67A8678E.jpg`
-- `images/gothabilly/66F00966-0FDB-47BB-A5E1-CB480A432F46.jpg`
-- `images/gothabilly/8959BB45-684F-4BCC-944E-5A9CFE393542.jpg`
-- `images/gothabilly/5EE3E2FF-E6E3-4EE7-917C-BE4F0769A964.jpg`
-- `images/gothabilly/138333D5-E97E-439B-8DB2-6468BF24E3BE.jpg`
-- `images/gothabilly/049AE6A4-86AF-402C-8823-EAE839F0DAFC.jpg`
-- `images/gothabilly/05E520DA-67DB-426F-BEC4-9E131AB24E33.jpg`
-- `images/gothabilly/ACD9B8C2-D688-44CB-AAD5-B45F9DF6569A.jpg`
-- `images/gothabilly/86504EEF-9E33-4BDE-8B20-8C651E408B34.jpg`
-- `images/gothabilly/3C0F31EE-D192-44A8-A0C1-DEDB0D1E2F82.jpg`
-- `images/gothabilly/3A2FE711-6DDB-4796-81B2-C74D695CDC61.jpg`
-- `images/gothabilly/03B5CC41-844C-4ABC-A35F-231826B68C9F.jpg`
-- `images/gothabilly/F97A456A-2EAC-4D88-8337-AFDB24F02D87.jpg`
-- `images/gothabilly/FBDEAC1E-12D8-4E91-9A2F-4293787E1249.jpg`
-- `images/gothabilly/1936EC67-8F52-419C-A03B-4628BA1B6319.jpg`
-- `images/gothabilly/8E356665-0652-4031-BF3A-232041012D61.jpg`
-- `images/gothabilly/38B06C4E-CBAF-405C-AF11-F79546AA72A9.jpg`
-- `images/gothabilly/29C978F0-88E5-47B7-B620-4A57D1A4A3BB.jpg`
-- `images/gothabilly/3F973679-E20E-42F4-B93D-2AE207F814A0.jpg`
-- `images/gothabilly/96E81D13-7588-435B-92FD-8B833BCA0C80.jpg`
-- `images/gothabilly/7FCB977F-A03F-46F3-990B-D07058CB76F9.jpg`
-- `images/gothabilly/950EEC5A-2828-4A7E-AAEB-31223E9F392D.jpg`
-- `images/gothabilly/5680BD48-56FE-4A82-9C01-7E09BE23AC9D.jpg`
-- `images/gothabilly/C80F5DC8-C291-4ACC-83B6-B4B3CA3FAB49.jpg`
-
 ## Source and attribution
 
-Text adapted from "Gothabilly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gothabilly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gothabilly" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gothabilly), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

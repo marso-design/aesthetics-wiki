@@ -11,7 +11,6 @@ related_media: ["Black Panther", "Sun Ra", "Grace Jones", "Octavia Butler", "Sam
 source_url: "https://aesthetics.fandom.com/wiki/Afrofuturism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Afrofuturism
@@ -122,15 +121,6 @@ Other comic books and characters of importance include Blade (whose style is now
 
 An example of Afrofuturist fashion
 
-## Images
-
-- `images/afrofuturism/180207111906-afrofuturism-david-5-super-169.jpg`
-- `images/afrofuturism/Afrofuture.jpg`
-- `images/afrofuturism/Index56.jpg`
-- `images/afrofuturism/Af2.PNG`
-- `images/afrofuturism/Af1.PNG`
-- `images/afrofuturism/Afrofuture.kk.jpg`
-
 ## Source and attribution
 
-Text adapted from "Afrofuturism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Afrofuturism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Afrofuturism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Afrofuturism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

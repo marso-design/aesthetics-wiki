@@ -11,7 +11,6 @@ related_media: ["The Blue Lagoon", "Castaway", "Nim's Island", "Kon-Tiki", "Retu
 source_url: "https://aesthetics.fandom.com/wiki/Tropical"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # Tropical
@@ -250,30 +249,6 @@ Condé Nast Traveller April 2022 cover
 
 Tropical combined with [Vaporwave](https://aesthetics.fandom.com/wiki/Vaporwave "Vaporwave")
 
-## Images
-
-- `images/tropical/EEC8ACD2-F0CB-495E-ABFB-683E5F2FAC26.webp`
-- `images/tropical/Surf-skate-holiday-gift-guide-2018-th.jpg`
-- `images/tropical/Shiprwreckisland.jpg`
-- `images/tropical/Castawaylucyirvine.jpg`
-- `images/tropical/Bohemiandiesel.jpg`
-- `images/tropical/Primitivetribalcraft.jpg`
-- `images/tropical/Strandedonanisland.jpg`
-- `images/tropical/967a471d4359e01cb84eaf598cdfc387.jpg`
-- `images/tropical/Islandcorecoconut.jpg`
-- `images/tropical/Islandcoreplace.jpg`
-- `images/tropical/Islandcore2.jpg`
-- `images/tropical/838B8E01-2AD3-4931-992C-264B8D10CA48.jpeg`
-- `images/tropical/Pirate-s-cove-ormond.jpg`
-- `images/tropical/Islandcore-fashion01.jpg`
-- `images/tropical/FA81904F-9467-444A-935D-D193DD729C17.jpeg`
-- `images/tropical/0FA82085-457D-4644-AB4C-031B23CCC4F0.jpeg`
-- `images/tropical/387E7E6E-9AC4-422B-BB6E-80E5F70087F1.jpeg`
-- `images/tropical/35B48B9A-C9D3-4BAD-8AC1-F9C652D3AA6D.jpeg`
-- `images/tropical/AB1A48E9-A440-4757-AAE5-AF8B6A0A4964.jpeg`
-- `images/tropical/56A01575-2E2F-4FCC-8892-43427D740C78.jpeg`
-- `images/tropical/Wp1895640.png`
-
 ## Source and attribution
 
-Text adapted from "Tropical" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropical), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tropical" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tropical), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

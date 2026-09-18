@@ -12,7 +12,6 @@ related_media: ["BGMedia", "Grime music", "Arctic Monkeys", "The Full Monty"]
 source_url: "https://aesthetics.fandom.com/wiki/Anglo_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Anglo Gothic
@@ -93,15 +92,6 @@ Anglo Gothic media is distinct from traditionally Gothic media set in England du
 
 ## Gallery
 
-## Images
-
-- `images/anglo-gothic/Anglogothic.jpg`
-- `images/anglo-gothic/Anglogothic2.jpg`
-- `images/anglo-gothic/Angloglothic.jpg`
-- `images/anglo-gothic/2d32bf72e956379b6936a2188d6dc19b.jpg`
-- `images/anglo-gothic/Anglogothic4.jpg`
-- `images/anglo-gothic/Anglogothicc.jpg`
-
 ## Source and attribution
 
-Text adapted from "Anglo Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Anglo_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Anglo Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Anglo_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

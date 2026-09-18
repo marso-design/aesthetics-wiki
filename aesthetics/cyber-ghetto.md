@@ -10,7 +10,6 @@ related_aesthetics: ["2014 Tumblr", "Afrofuturism", "Alien", "Baddie", "Cyberpun
 source_url: "https://aesthetics.fandom.com/wiki/Cyber_Ghetto"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Cyber Ghetto
@@ -43,14 +42,6 @@ The term "Cyber Ghetto" has faced criticism for its use of the word "ghetto" and
 
 ## References
 
-## Images
-
-- `images/cyber-ghetto/0110.jpg`
-- `images/cyber-ghetto/B1rjkr11.jpg`
-- `images/cyber-ghetto/10712811.jpg`
-- `images/cyber-ghetto/Stjohn10.jpg`
-- `images/cyber-ghetto/10809011.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cyber Ghetto" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Ghetto), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyber Ghetto" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Ghetto), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

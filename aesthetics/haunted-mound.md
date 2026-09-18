@@ -11,7 +11,6 @@ related_aesthetics: ["Black Metal", "Chicago Drill", "Deep Fried Meme", "Folk Ho
 source_url: "https://aesthetics.fandom.com/wiki/Haunted_Mound"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Haunted Mound
@@ -78,25 +77,6 @@ While this page focuses strictly on the visual aesthetic pioneered by the collec
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/haunted-mound/78bda1c6b8a6a61a601fab427746e347.jpg`
-- `images/haunted-mound/C2300c5bb9bfea0d8c3e7ad99bcfb74f.jpg`
-- `images/haunted-mound/40ed3fce9670c1e5dfcec03ccfbd9aae.jpg`
-- `images/haunted-mound/4f13c25efcbc3f0b531dc40871b92be3.jpg`
-- `images/haunted-mound/26f08de48b0701e876a195382fb00e18.jpg`
-- `images/haunted-mound/A9d4fb9c8143f272ffb3edda67c2552e.jpg`
-- `images/haunted-mound/6d75cfa312ad9364a04719908c1bebee.jpg`
-- `images/haunted-mound/70a7d2e97dc8896623a3744939291c53.jpg`
-- `images/haunted-mound/9905012c1defdb1c4a32a3af2e5c0594.jpg`
-- `images/haunted-mound/28d592ddcf08d0a1e51e3851bfd65b37.jpg`
-- `images/haunted-mound/F19a2440c26adc38518690c73344041d.jpg`
-- `images/haunted-mound/D10d61d0a829c65bff77369002f0f53b.jpg`
-- `images/haunted-mound/E7cc92118904a70615c48572d74cf917.jpg`
-- `images/haunted-mound/73edd217b5b56dcbafea5baeaaffba97.jpg`
-- `images/haunted-mound/039a2f241de44548573716d2a0adb8a3.jpg`
-- `images/haunted-mound/Cb6b98ff13e24c6e2ae7028871c6da0f.jpg`
-
 ## Source and attribution
 
-Text adapted from "Haunted Mound" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Haunted_Mound), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Haunted Mound" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Haunted_Mound), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

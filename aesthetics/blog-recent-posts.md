@@ -4,7 +4,6 @@ slug: "blog-recent-posts"
 source_url: "https://aesthetics.fandom.com/wiki/Blog:Recent_posts"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Blog:Recent posts
@@ -1090,4 +1089,4 @@ Fetish, because an aesthetic can be sex…
 
 ## Source and attribution
 
-Text adapted from "Blog:Recent posts" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blog:Recent_posts), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Blog:Recent posts" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blog:Recent_posts), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

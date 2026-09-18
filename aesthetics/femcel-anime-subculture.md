@@ -11,7 +11,6 @@ palette: ["#96989F", "#09090D", "#504C50", "#C5C1CC", "#7F7779", "#3F3032"]
 source_url: "https://aesthetics.fandom.com/wiki/Femcel_(anime_subculture)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Femcel (anime subculture)
@@ -142,18 +141,6 @@ Tumblr tags associated with the aesthetic:
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/femcel-anime-subculture/FemcelAesthetic.jpg`
-- `images/femcel-anime-subculture/Povyou'retheproblemmeme.png`
-- `images/femcel-anime-subculture/Asaandyorueditvhs.png`
-- `images/femcel-anime-subculture/Femweb1.png`
-- `images/femcel-anime-subculture/Femweb2.png`
-- `images/femcel-anime-subculture/Femweb3.png`
-- `images/femcel-anime-subculture/Femweb6.png`
-- `images/femcel-anime-subculture/Femweb7.png`
-- `images/femcel-anime-subculture/Lv75g94pr91e1.png`
-
 ## Source and attribution
 
-Text adapted from "Femcel (anime subculture)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Femcel_(anime_subculture)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Femcel (anime subculture)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Femcel_(anime_subculture)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

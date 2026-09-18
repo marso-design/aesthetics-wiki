@@ -4,7 +4,6 @@ slug: "preppy-disambiguation"
 source_url: "https://aesthetics.fandom.com/wiki/Preppy_(disambiguation)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Preppy (disambiguation)
@@ -22,4 +21,4 @@ The term **Preppy** can refer to several distinct but related aesthetics:
 
 ## Source and attribution
 
-Text adapted from "Preppy (disambiguation)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Preppy_(disambiguation)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Preppy (disambiguation)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Preppy_(disambiguation)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

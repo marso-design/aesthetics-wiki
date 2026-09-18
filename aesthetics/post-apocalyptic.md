@@ -12,7 +12,6 @@ related_media: ["Fallout", "Mad Max", "Bird Box", "The Walking Dead", "Most of t
 source_url: "https://aesthetics.fandom.com/wiki/Post-Apocalyptic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Post-Apocalyptic
@@ -261,11 +260,6 @@ External resources can help you learn more about this aesthetic.
 
 1. ↑ <https://en.wikipedia.org/wiki/Apocalyptic_and_Post-Apocalyptic_fiction>
 
-## Images
-
-- `images/post-apocalyptic/Apoc-city.jpg`
-- `images/post-apocalyptic/Capitalwasteland.jpg`
-
 ## Source and attribution
 
-Text adapted from "Post-Apocalyptic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Post-Apocalyptic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Post-Apocalyptic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Post-Apocalyptic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

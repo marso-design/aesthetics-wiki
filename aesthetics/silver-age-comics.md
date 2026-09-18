@@ -5,7 +5,6 @@ palette: ["#C8995F", "#2A1C23", "#FBF7F2", "#BF4035", "#8D5961", "#D9533F"]
 source_url: "https://aesthetics.fandom.com/wiki/Silver_Age_Comics"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Silver Age Comics
@@ -32,12 +31,6 @@ Silver Age Comics visuals usually consist of:
 
 ## Gallery
 
-## Images
-
-- `images/silver-age-comics/Stfurobin.jpg`
-- `images/silver-age-comics/Vintagehero1.webp`
-- `images/silver-age-comics/Vintagehero2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Silver Age Comics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Silver_Age_Comics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Silver Age Comics" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Silver_Age_Comics), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

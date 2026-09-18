@@ -10,7 +10,6 @@ related_aesthetics: ["Arabian Nights", "Arabfunny", "Xpiritualism", "Weirdcore",
 source_url: "https://aesthetics.fandom.com/wiki/Arabian_Driftcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Arabian Driftcore
@@ -42,17 +41,6 @@ Even though Farfoor Albaloushi had been posting these images for many years, it 
 
 ## Gallery
 
-## Images
-
-- `images/arabian-driftcore/Arabicdrift1.jpg`
-- `images/arabian-driftcore/Arabicdrift6.png`
-- `images/arabian-driftcore/Firstarabiandrift1.jpg`
-- `images/arabian-driftcore/Arabicdrift2.jpg`
-- `images/arabian-driftcore/Arabicdrift3.jpg`
-- `images/arabian-driftcore/Arabicdrift4.png`
-- `images/arabian-driftcore/Arabicdrift5.png`
-- `images/arabian-driftcore/A8442aa4-b07f-44fd-a78e-2b3847980117.jpg`
-
 ## Source and attribution
 
-Text adapted from "Arabian Driftcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Arabian_Driftcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Arabian Driftcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Arabian_Driftcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ key_values: ["Disciplined wellness", "balance between motherhood and self-care",
 source_url: "https://aesthetics.fandom.com/wiki/2000s_Yoga_Mom"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # 2000s Yoga Mom
@@ -83,4 +82,4 @@ The soundtrack associated with the aesthetic combines soft pop, adult contempora
 
 ## Source and attribution
 
-Text adapted from "2000s Yoga Mom" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2000s_Yoga_Mom), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2000s Yoga Mom" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2000s_Yoga_Mom), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

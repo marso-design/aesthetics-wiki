@@ -11,7 +11,6 @@ related_media: ["Deee-Lite - Groove Is in the Heart", "Rusted Root - Send Me on 
 source_url: "https://aesthetics.fandom.com/wiki/Groovival"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Groovival
@@ -424,15 +423,6 @@ Example of Polly Pocket Game (Wacky Wardrobe)
 
 ## References
 
-## Images
-
-- `images/groovival/50e5335781694cedf02546a563abca78.jpg`
-- `images/groovival/635ecf41eee95ceb7743337fd2fd0cc1.jpg`
-- `images/groovival/3309485-360.jpeg`
-- `images/groovival/GVTmivrXAAAj501.jpg`
-- `images/groovival/201911300947070.Scan20203.jpg`
-- `images/groovival/241617.jpg`
-
 ## Source and attribution
 
-Text adapted from "Groovival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Groovival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Groovival" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Groovival), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

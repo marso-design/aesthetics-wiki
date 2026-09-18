@@ -11,7 +11,6 @@ related_aesthetics: ["Coastal Cowgirl", "Coastal Grandmother", "Dark Nautical", 
 source_url: "https://aesthetics.fandom.com/wiki/Coastal_Style"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 24
 ---
 
 # Coastal Style
@@ -76,33 +75,6 @@ Spaces designed in this style often feature open-concept layouts, maximizing nat
 
 ## References
 
-## Images
-
-- `images/coastal-style/BordDeMer.jpg`
-- `images/coastal-style/87528f7333ae867eb0be5f6f8df3498a.jpg`
-- `images/coastal-style/805627b19f0019027cdde3f9ade7a55b.jpg`
-- `images/coastal-style/69c2639f55cca208c1341ba25f3f3838.jpg`
-- `images/coastal-style/C1412002e58fb6971c2ab242d13596ab.jpg`
-- `images/coastal-style/4177b0ca23b8e3b8614a244b081d94e5.jpg`
-- `images/coastal-style/88d8e82f2b0552ba62a49140e93942d9.jpg`
-- `images/coastal-style/05d18ad9abc737fc14fff39bde303091.jpg`
-- `images/coastal-style/337ca3d9b9249bb0e86cf546e79b1991.jpg`
-- `images/coastal-style/20d615ec98a0860cebf19e217f13535e.jpg`
-- `images/coastal-style/3e53be5b0db6b6926bdda371ef41784d.jpg`
-- `images/coastal-style/5c67d9b499b2b65e702869d784328b7a.jpg`
-- `images/coastal-style/C12e3c300cd8b789a3a1c4843effb602.jpg`
-- `images/coastal-style/51baa11e3bb20056e24ee1acdb4a1b3f.jpg`
-- `images/coastal-style/17723422a7548527ca5c636f2ad8c977.jpg`
-- `images/coastal-style/D7e5e65bbab236a3fade423663918bee.jpg`
-- `images/coastal-style/D209e7e93649e2496433f70e6b73d7fb.jpg`
-- `images/coastal-style/31214c6fa9112b241782cd4d30ef6750.jpg`
-- `images/coastal-style/8d299a9502867be557306d4ffe029979.jpg`
-- `images/coastal-style/Cab4231fc83041337c289443690c6ee3.jpg`
-- `images/coastal-style/407d63b4b518f7da4488d10c66241cec.jpg`
-- `images/coastal-style/1f95b87e65d7f34df5df71542358f9b6-3767276730.jpg`
-- `images/coastal-style/1606-Culbreath-Isles-Dr-Tampa-large-028-30-Enrique29-1500x994-72dpi.jpg`
-- `images/coastal-style/Pure-salt-master-bedroom.jpg`
-
 ## Source and attribution
 
-Text adapted from "Coastal Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Coastal_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Coastal Style" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Coastal_Style), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

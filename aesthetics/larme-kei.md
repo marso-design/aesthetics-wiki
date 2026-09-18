@@ -11,7 +11,6 @@ related_media: ["Larme Magazine"]
 source_url: "https://aesthetics.fandom.com/wiki/Larme_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Larme Kei
@@ -202,15 +201,6 @@ Art by snow-priestess
 
 ## References
 
-## Images
-
-- `images/larme-kei/Larmekei.jpg`
-- `images/larme-kei/2fce7d5767721bd82a53de2e9388e462.jpg`
-- `images/larme-kei/Larme.jpg`
-- `images/larme-kei/D596pVVUUAE1Q84.jpg`
-- `images/larme-kei/CcgFLwCUcAAomuf.jpg`
-- `images/larme-kei/Larme29.jpg`
-
 ## Source and attribution
 
-Text adapted from "Larme Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Larme_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Larme Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Larme_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

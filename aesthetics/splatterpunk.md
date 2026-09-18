@@ -11,7 +11,6 @@ related_media: ["Books of Blood", "The Light at the End", "Off Season", "The Cip
 source_url: "https://aesthetics.fandom.com/wiki/Splatterpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Splatterpunk
@@ -194,4 +193,4 @@ The genre’s strongest works are not simply “gore for gore’s sake.” They 
 
 ## Source and attribution
 
-Text adapted from "Splatterpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Splatterpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Splatterpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Splatterpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

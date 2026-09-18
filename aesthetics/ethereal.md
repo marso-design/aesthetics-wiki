@@ -10,7 +10,6 @@ related_media: ["Disney", "Barbie"]
 source_url: "https://aesthetics.fandom.com/wiki/Ethereal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 32
 ---
 
 # Ethereal
@@ -82,41 +81,6 @@ Ethereal fashion usually consists of feminine clothing in light pastel colors. C
 
 ## Gallery
 
-## Images
-
-- `images/ethereal/6D8FC3F7-A258-441B-A7FF-4DDF849F7519.jpeg`
-- `images/ethereal/Ethereal30.jpeg`
-- `images/ethereal/Ethereal27.jpeg`
-- `images/ethereal/Ethereal2.jpeg`
-- `images/ethereal/Ethereal1.jpeg`
-- `images/ethereal/Ethereal.jpg`
-- `images/ethereal/DDF837D2-FDFF-442F-9925-344EF10ED538.jpeg`
-- `images/ethereal/⚗️ethreal.19.png`
-- `images/ethereal/⚗️ethreal.18.png`
-- `images/ethereal/⚗️ethreal.17.png`
-- `images/ethereal/⚗️ethreal.16.png`
-- `images/ethereal/⚗️ethreal.15.png`
-- `images/ethereal/⚗️ethreal.14.png`
-- `images/ethereal/⚗️ethreal.13.png`
-- `images/ethereal/⚗️ethreal.12.png`
-- `images/ethereal/⚗️ethreal2.png`
-- `images/ethereal/⚗️ethreal.png`
-- `images/ethereal/⚗️ethreal.3.png`
-- `images/ethereal/⚗️ethreal.7.png`
-- `images/ethereal/⚗️ethreal.9.png`
-- `images/ethereal/⚗️ethreal.5.png`
-- `images/ethereal/⚗️ethreal.10.png`
-- `images/ethereal/⚗️ethreal.11.png`
-- `images/ethereal/⚗️ethreal.6.png`
-- `images/ethereal/⚗️ethreal.4.png`
-- `images/ethereal/0cae2411ec1178057fce1e824436d73d.jpg`
-- `images/ethereal/03fb80475c4390f7f1dde3d264092ff1.jpg`
-- `images/ethereal/Bd684c246eba2919062b87771f8895b1.jpg`
-- `images/ethereal/Ethnn-.jpg`
-- `images/ethereal/Eth1.jpg`
-- `images/ethereal/Eth2.jpg`
-- `images/ethereal/Eth3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ethereal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ethereal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ethereal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ethereal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -9,7 +9,6 @@ palette: ["#3B3A3B", "#151306", "#635E5D", "#282822", "#887F7B"]
 source_url: "https://aesthetics.fandom.com/wiki/Changelingcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Changelingcore
@@ -94,11 +93,6 @@ However, this aesthetic seeks to reclaim the term changeling as a source of prid
 
 ## Gallery
 
-## Images
-
-- `images/changelingcore/Wamen.jpg`
-- `images/changelingcore/Changeling.jpg`
-
 ## Source and attribution
 
-Text adapted from "Changelingcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Changelingcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Changelingcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Changelingcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -6,7 +6,6 @@ palette: ["#35241E", "#D2CABE", "#7C7266", "#A49E91", "#C1B7A7", "#514D46"]
 source_url: "https://aesthetics.fandom.com/wiki/Classic_Lolita"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Classic Lolita
@@ -70,17 +69,6 @@ Florals are one of the most common motifs in Classic Lolita, along with solid co
 
 ## Gallery
 
-## Images
-
-- `images/classic-lolita/Classiclolita.jpg`
-- `images/classic-lolita/Countryloli.jpg`
-- `images/classic-lolita/Classicloli3.jpg`
-- `images/classic-lolita/Classicloli8.jpg`
-- `images/classic-lolita/Classicloli6.jpg`
-- `images/classic-lolita/Classicgirl.jpg`
-- `images/classic-lolita/Classiclolitaaaaaaaaaa.jpg`
-- `images/classic-lolita/Classcilolitaaaaaaaaaaaaaaaaaaa.jpg`
-
 ## Source and attribution
 
-Text adapted from "Classic Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Classic_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Classic Lolita" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Classic_Lolita), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

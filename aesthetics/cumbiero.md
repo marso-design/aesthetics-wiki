@@ -12,7 +12,6 @@ related_media: ["Tumberos (TV Series)", "El Bonaerense (Film)"]
 source_url: "https://aesthetics.fandom.com/wiki/Cumbiero"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Cumbiero
@@ -109,18 +108,6 @@ Cumbia Villera is musically distinct for its heavy use of synthesizers, electron
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/cumbiero/Al-joraca-los-signos-a-qué-tribu-urbana-pertenecías-v0-7xjyuh4m8yje1.webp`
-- `images/cumbiero/Ba4fe655-4488-4882-b352-aa657b93ea3c.jpg`
-- `images/cumbiero/Cumbiero.JPG`
-- `images/cumbiero/Cumbieros.jpg`
-- `images/cumbiero/Lechugawu6.jpg`
-- `images/cumbiero/Cantante-de-cumbia.jpg`
-- `images/cumbiero/Cumbieros-groseros.jpg`
-- `images/cumbiero/Grupo-de-cumbieros.jpg`
-- `images/cumbiero/Cumbieros-violentos.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cumbiero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cumbiero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cumbiero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cumbiero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

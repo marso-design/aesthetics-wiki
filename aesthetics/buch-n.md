@@ -10,7 +10,6 @@ palette: ["#0C080C", "#292527", "#543B2E", "#C5A97E", "#575558", "#815A3C"]
 source_url: "https://aesthetics.fandom.com/wiki/Buchón"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # Buchón
@@ -109,30 +108,6 @@ The aesthetic is inextricably linked to regional Mexican music, specifically **N
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/buch-n/Buchones.jpg`
-- `images/buch-n/Buchon.jpg`
-- `images/buch-n/3c956dcd1fbba5bfd60574fb0c754a22.jpg`
-- `images/buch-n/919bab3f4b804871aad882786aeb2b94.jpg`
-- `images/buch-n/98886cd60ad7c8feac0f8f120c6dc0d6.jpg`
-- `images/buch-n/940612cbb5c7a535c9eb77d6376a0078.jpg`
-- `images/buch-n/385a9f9dfd9863aa37f83efe81ec38a9.jpg`
-- `images/buch-n/6d9685c1baac6882fb3b16a8c308cc5a.jpg`
-- `images/buch-n/F97aab5f9a7ec7fb3c06327293dbd8f2.jpg`
-- `images/buch-n/1a1590bcfab0084fd4532906121ca1ef.jpg`
-- `images/buch-n/Ae38d6a33257de9169d0e5e3ab7a9ee5.jpg`
-- `images/buch-n/D68cf566f232b878470b80a4db1b7f4d.jpg`
-- `images/buch-n/313e18c4571db3971846e0a0c5b0d199.jpg`
-- `images/buch-n/6190c9a81e67729d4dd9e59c74c62675.jpg`
-- `images/buch-n/878c3e7e85f3d9d8e4d2bde281259c7f.jpg`
-- `images/buch-n/2ea8409dbbbe777b78e569f54c3ffb20.jpg`
-- `images/buch-n/4b73417b6209a40583a297b11782e487.jpg`
-- `images/buch-n/15419efbff284e143105282ce2514de0.jpg`
-- `images/buch-n/45a69e0195e72ff44d392c0ee9b1b118.jpg`
-- `images/buch-n/50a8667b504cb8355834b4b750e00ded.jpg`
-- `images/buch-n/71bb066da3aa25ce45c4eb77c907bbc8.jpg`
-
 ## Source and attribution
 
-Text adapted from "Buchón" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Buchón), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Buchón" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Buchón), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

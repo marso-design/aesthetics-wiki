@@ -10,7 +10,6 @@ related_aesthetics: ["Death Metal", "Industrial Gothic", "Metal", "Punk"]
 source_url: "https://aesthetics.fandom.com/wiki/Thrash_Metal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Thrash Metal
@@ -49,4 +48,4 @@ Thrash metal's sound evolved from a combination of the New Wave of British Heavy
 
 ## Source and attribution
 
-Text adapted from "Thrash Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Thrash_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Thrash Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Thrash_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

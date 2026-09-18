@@ -5,7 +5,6 @@ palette: ["#C8B5B3", "#E2D4D2", "#EAE9EC", "#A58D8C"]
 source_url: "https://aesthetics.fandom.com/wiki/How_To_Find_Your_Aesthetic_Overhaul"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # How To Find Your Aesthetic Overhaul
@@ -100,10 +99,6 @@ How to participate in the subculture depends entirely on the community. For exam
 
 ## "I want to be able to describe my aesthetic I have online/irl."
 
-## Images
-
-- `images/how-to-find-your-aesthetic-overhaul/Journaling.jpg`
-
 ## Source and attribution
 
-Text adapted from "How To Find Your Aesthetic Overhaul" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/How_To_Find_Your_Aesthetic_Overhaul), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "How To Find Your Aesthetic Overhaul" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/How_To_Find_Your_Aesthetic_Overhaul), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

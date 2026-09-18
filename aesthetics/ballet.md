@@ -11,7 +11,6 @@ related_media: ["The Red Shoes (1948)", "Black Swan (2010)", "Suspiria (1977)", 
 source_url: "https://aesthetics.fandom.com/wiki/Ballet"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Ballet
@@ -52,11 +51,6 @@ The ballet repertoire consists of a canon of works that have been performed and 
 
 English ballerina Margot Fonteyn, photographed by Cecil Beaton.
 
-## Images
-
-- `images/ballet/Tyu78789.jpg`
-- `images/ballet/Dancer.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ballet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ballet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ballet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ballet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

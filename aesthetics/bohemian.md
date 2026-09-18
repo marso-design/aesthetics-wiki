@@ -11,7 +11,6 @@ related_aesthetics: ["Beatnik", "Boho-Chic", "Gutter Punk", "Hippie", "Arts and 
 source_url: "https://aesthetics.fandom.com/wiki/Bohemian"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Bohemian
@@ -56,10 +55,6 @@ It has also been criticized for often engaging in a romanticization of poverty. 
 
 ## References
 
-## Images
-
-- `images/bohemian/LaBohemienne.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bohemian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bohemian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bohemian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bohemian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

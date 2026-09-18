@@ -11,7 +11,6 @@ related_aesthetics: ["Bubblegum Bling", "Cybercore", "Cybersigilism", "Metalhear
 source_url: "https://aesthetics.fandom.com/wiki/Neo-Y2K"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Neo-Y2K
@@ -92,26 +91,6 @@ Patreon icon (2023) Wolff Olins, Patreon in-house team
 
 ## References
 
-## Images
-
-- `images/neo-y2k/4893f138156363.57575e04e6acb.jpg`
-- `images/neo-y2k/Eec0074e1bc542361e49850db897a123.jpg`
-- `images/neo-y2k/EnHxCt4W8AIPmQZ.jpg`
-- `images/neo-y2k/143.jpg`
-- `images/neo-y2k/ET6mngSUYAAdwpQ.jpg`
-- `images/neo-y2k/27fadc2582c302ae75eceb819ac5fc70.jpg`
-- `images/neo-y2k/Neo-y2k.jpg`
-- `images/neo-y2k/A24.jpg`
-- `images/neo-y2k/Movie.jpg`
-- `images/neo-y2k/Y2kmovie.jpg`
-- `images/neo-y2k/Cosmo11.jpg`
-- `images/neo-y2k/Andypants.jpg`
-- `images/neo-y2k/Metalheart.jpg`
-- `images/neo-y2k/Metalheart2.jpg`
-- `images/neo-y2k/Metalheart3.jpg`
-- `images/neo-y2k/143-.jpg`
-- `images/neo-y2k/QDXeG6TALAGcVBvAsdQWMS-1200-80.jpg`
-
 ## Source and attribution
 
-Text adapted from "Neo-Y2K" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Y2K), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Neo-Y2K" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Neo-Y2K), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

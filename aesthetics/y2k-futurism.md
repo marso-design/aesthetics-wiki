@@ -12,7 +12,6 @@ related_media: ["The Matrix", "Space Channel 5", "Wipeout", "Jet Set Radio", "To
 source_url: "https://aesthetics.fandom.com/wiki/Y2K_Futurism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 44
 ---
 
 # Y2K Futurism
@@ -653,53 +652,6 @@ Space Channel 5 (1999)
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/y2k-futurism/Y2K-Futurism.png`
-- `images/y2k-futurism/78123.png`
-- `images/y2k-futurism/Bc779dc44691ecbea22ca60f70b12940.jpg`
-- `images/y2k-futurism/Cyb.jpg`
-- `images/y2k-futurism/R-267184-1333045868.jpeg.jpg`
-- `images/y2k-futurism/R-5712435-1402080066-6382.jpeg.jpg`
-- `images/y2k-futurism/D2TDIFqU8AIRefz.png`
-- `images/y2k-futurism/4190c569594ae28e211e0ef243fb5895.png`
-- `images/y2k-futurism/D2d51VaUYAAFUGh.png`
-- `images/y2k-futurism/453a8d2e7ccfc4f490ef0745ebdf0f76.png`
-- `images/y2k-futurism/D0ZUOVRUcAAlAci.jpg`
-- `images/y2k-futurism/Y2K2001locomotion.jpeg`
-- `images/y2k-futurism/Smarties.webp`
-- `images/y2k-futurism/8ca8ac36394c04be97ed29fc957474e6.jpg`
-- `images/y2k-futurism/7d546dbbf5ae8eac3ff83b45d721476c.jpg`
-- `images/y2k-futurism/B53b908ec7ad92d129a8932c350aa047.jpg`
-- `images/y2k-futurism/Xboxdesktop.jpeg`
-- `images/y2k-futurism/Mp2.png`
-- `images/y2k-futurism/R44LO0eNhw6iYE1Yu6QI1Axa-Qi1PCQv3Tp-846L1AU.webp`
-- `images/y2k-futurism/Coalescent.jpg`
-- `images/y2k-futurism/Kronlineit.jpg`
-- `images/y2k-futurism/Jkdir94.jpg`
-- `images/y2k-futurism/86.jpg`
-- `images/y2k-futurism/ParadiseAtE.jpg`
-- `images/y2k-futurism/Blueweb2002.jpg`
-- `images/y2k-futurism/Internetexplorer.jpg`
-- `images/y2k-futurism/WindowsExperience.jpg`
-- `images/y2k-futurism/WindowsXP.jpg`
-- `images/y2k-futurism/924.jpg`
-- `images/y2k-futurism/Fresh-3d-animated-wallpaper-for-windows-xp-collection-anime-4xsyyrr9nwfoq93t.jpg`
-- `images/y2k-futurism/Y2ksweetnessforeverflippy.png`
-- `images/y2k-futurism/Y2kdogbluepurple.png`
-- `images/y2k-futurism/Y2kglasses.png`
-- `images/y2k-futurism/Niketown.jpg.jpg`
-- `images/y2k-futurism/Apple-imac-g3-anniversary.jpg`
-- `images/y2k-futurism/Y2ktransluscenttech.png`
-- `images/y2k-futurism/Blob.PNG`
-- `images/y2k-futurism/A8ba2301ee2571e76eb6dfb7a3d09930.jpg`
-- `images/y2k-futurism/R-2138106-1266147421.jpg`
-- `images/y2k-futurism/31666ca3eb6171a3e2e5f1e85665ddf2.jpg`
-- `images/y2k-futurism/ET6mkGWUMAAHard.jpeg`
-- `images/y2k-futurism/3-2-scaled.jpg`
-- `images/y2k-futurism/4aafb8ac5e01f21fbc25f95a0e846330.jpg`
-- `images/y2k-futurism/R4.png`
-
 ## Source and attribution
 
-Text adapted from "Y2K Futurism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Y2K_Futurism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Y2K Futurism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Y2K_Futurism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

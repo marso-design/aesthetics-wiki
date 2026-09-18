@@ -6,7 +6,6 @@ palette: ["#C0B3A8", "#2F1A1C", "#C7957A", "#999386", "#876656", "#A86D56"]
 source_url: "https://aesthetics.fandom.com/wiki/Pițipoancă"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Pițipoancă
@@ -43,13 +42,6 @@ Pițipoancă (sometimes shortened to **Piți** and plurally, **Pițipoance**) is
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/pi-ipoanc/Piti.jpg`
-- `images/pi-ipoanc/Pitipoance.jpg`
-- `images/pi-ipoanc/Pitzi.webp`
-- `images/pi-ipoanc/Miau.jpg`
-
 ## Source and attribution
 
-Text adapted from "Pițipoancă" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pițipoancă), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pițipoancă" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pițipoancă), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ palette: ["#0C0E0D", "#24261E", "#384133", "#5D5346", "#84827E", "#ADB3B3"]
 source_url: "https://aesthetics.fandom.com/wiki/Southern_Gothic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Southern Gothic
@@ -280,16 +279,6 @@ One of the clearest musical parallels to Southern Gothic is the Gothic Country s
 
 ## References
 
-## Images
-
-- `images/southern-gothic/Tcm.jpg`
-- `images/southern-gothic/0a77f05b-c0ad-479d-a9c0-a69e35f21f0a-abandoned-homes-america-dicksonia-plantation-alabama-3.jpg`
-- `images/southern-gothic/Ashley-knedler-108482-unsplash.jpg`
-- `images/southern-gothic/90.jpg`
-- `images/southern-gothic/9qutakjn9jy51.jpg`
-- `images/southern-gothic/Swamp.jpg`
-- `images/southern-gothic/Whispering-in-the-cypresses-house.jpg`
-
 ## Source and attribution
 
-Text adapted from "Southern Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Southern_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Southern Gothic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Southern_Gothic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

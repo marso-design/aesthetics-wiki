@@ -7,7 +7,6 @@ palette: ["#191111", "#9F8076", "#D6BDB5", "#786D66", "#CAAB9F", "#A6958D"]
 source_url: "https://aesthetics.fandom.com/wiki/Chunyu"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Chunyu
@@ -72,14 +71,6 @@ Necklace
 
 ## References
 
-## Images
-
-- `images/chunyu/Chunyu.png`
-- `images/chunyu/Chunyu1.png`
-- `images/chunyu/Chunyu2.png`
-- `images/chunyu/Fei453iUYAEjmZ3.jpg`
-- `images/chunyu/FI4hAu9akAMZ5au.jpg`
-
 ## Source and attribution
 
-Text adapted from "Chunyu" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chunyu), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chunyu" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chunyu), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

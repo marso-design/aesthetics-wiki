@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "Pinterest", "Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Sanriocore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Sanriocore
@@ -92,16 +91,6 @@ Sanrio colored knee high socks
 
 ## References
 
-## Images
-
-- `images/sanriocore/E.PNG`
-- `images/sanriocore/Call.PNG`
-- `images/sanriocore/10.PNG`
-- `images/sanriocore/9297b303e9e5009546027e5436bbdcb5.jpg`
-- `images/sanriocore/Kit.png`
-- `images/sanriocore/Kuromicore-outfit.jpeg`
-- `images/sanriocore/Kuromiota.jpg`
-
 ## Source and attribution
 
-Text adapted from "Sanriocore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sanriocore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sanriocore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sanriocore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

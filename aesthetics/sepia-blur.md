@@ -12,7 +12,6 @@ related_media: ["Twin Peaks (1990-1991)", "Fraiser (1993-2004)", "1990s VH1", "J
 source_url: "https://aesthetics.fandom.com/wiki/Sepia_Blur"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Sepia Blur
@@ -219,4 +218,4 @@ Official poster for the 64th Academy Awards ceremony (1992), designed by Dana Du
 
 ## Source and attribution
 
-Text adapted from "Sepia Blur" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sepia_Blur), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Sepia Blur" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Sepia_Blur), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

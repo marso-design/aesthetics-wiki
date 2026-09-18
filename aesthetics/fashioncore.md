@@ -11,7 +11,6 @@ related_aesthetics: ["Emo", "Horror Punk", "Mallgoth", "Metalhead", "Punk", "Sce
 source_url: "https://aesthetics.fandom.com/wiki/Fashioncore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Fashioncore
@@ -115,14 +114,6 @@ The controversy extended to the music itself. Eighteen Visions singer James Hart
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/fashioncore/Fashioncore.jpg`
-- `images/fashioncore/FXC574765.jpg`
-- `images/fashioncore/Fashioncore2.jpg`
-- `images/fashioncore/Fxc.jpg`
-- `images/fashioncore/Spiky-emo-hair-330x494.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fashioncore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fashioncore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fashioncore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fashioncore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

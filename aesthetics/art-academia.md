@@ -10,7 +10,6 @@ related_media: ["Lust for Life"]
 source_url: "https://aesthetics.fandom.com/wiki/Art_Academia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Art Academia
@@ -150,19 +149,6 @@ All of the following artists contribute to Art Academia:
 
 ## Gallery
 
-## Images
-
-- `images/art-academia/Art.PNG`
-- `images/art-academia/Cinderelsx.jpg`
-- `images/art-academia/Sketchbooks.jpg`
-- `images/art-academia/Chaos.jpg`
-- `images/art-academia/Inspiraion.jpg`
-- `images/art-academia/Arts.jpg`
-- `images/art-academia/Beautiful.jpg`
-- `images/art-academia/Drawings.jpg`
-- `images/art-academia/Statues.jpg`
-- `images/art-academia/Muesum.jpg`
-
 ## Source and attribution
 
-Text adapted from "Art Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Art_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Art Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Art_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

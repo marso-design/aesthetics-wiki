@@ -10,7 +10,6 @@ related_aesthetics: ["Cholo", "Gangsta Rap", "Urbancore", "UrBling"]
 source_url: "https://aesthetics.fandom.com/wiki/Chicano_Lowrider"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 7
 ---
 
 # Chicano Lowrider
@@ -34,16 +33,6 @@ Lowrider culture took a dip in the 2010s as the popularity died down once again.
 
 DUB Magazine is an urban automobile magazine that was popular in the 2000s. DUB was heavily inspired by lowriders and donks as people started customizing their cars and trucks with big rims, underglow and spotty chrome.
 
-## Images
-
-- `images/chicano-lowrider/Lowrider1.jpg`
-- `images/chicano-lowrider/Lowrider2.jpg`
-- `images/chicano-lowrider/Lowrider3.jpg`
-- `images/chicano-lowrider/Lowrider4.jpg`
-- `images/chicano-lowrider/Dub1.jpg`
-- `images/chicano-lowrider/Dub2.jpg`
-- `images/chicano-lowrider/Dub3.jpg`
-
 ## Source and attribution
 
-Text adapted from "Chicano Lowrider" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chicano_Lowrider), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chicano Lowrider" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chicano_Lowrider), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

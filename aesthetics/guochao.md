@@ -13,7 +13,6 @@ related_media: ["Chinese TV programs (e.g., Henan TV's Magical Trip on Mid-Autum
 source_url: "https://aesthetics.fandom.com/wiki/Guochao"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Guochao
@@ -166,22 +165,6 @@ CHAGEE's logo uses *Guochao* design
 
 ## References
 
-## Images
-
-- `images/guochao/Guochao.webp`
-- `images/guochao/Guochao-1.jpeg`
-- `images/guochao/Guochao-2.webp`
-- `images/guochao/Guochao-3.png`
-- `images/guochao/Guochao-4.jpeg`
-- `images/guochao/Guochao-5.jpeg`
-- `images/guochao/Guochao-6.webp`
-- `images/guochao/Guochao-7.jpeg`
-- `images/guochao/Guochao-8.jpeg`
-- `images/guochao/Guochao-LiNingWudao.jpeg`
-- `images/guochao/05d51ad45212d5b0c93f61a8deb7e829.jpg`
-- `images/guochao/Han-yuansu.jpg`
-- `images/guochao/Minzu-feng.jpg`
-
 ## Source and attribution
 
-Text adapted from "Guochao" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Guochao), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Guochao" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Guochao), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

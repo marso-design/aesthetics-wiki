@@ -13,7 +13,6 @@ related_media: ["poofties"]
 source_url: "https://aesthetics.fandom.com/wiki/Delicate_Sweet"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 24
 ---
 
 # Delicate Sweet
@@ -140,33 +139,6 @@ Inside activities are more common within the aesthetic, usually related to craft
 
 ### Delicate Sweet
 
-## Images
-
-- `images/delicate-sweet/Middlepot.jpg`
-- `images/delicate-sweet/Middlepotoutfit1.png`
-- `images/delicate-sweet/Middlepotoutfit2.png`
-- `images/delicate-sweet/Middlepotoutfit3.png`
-- `images/delicate-sweet/Middlepotoutfit4.png`
-- `images/delicate-sweet/Middlepotaesthetic0.jpg`
-- `images/delicate-sweet/Middlepotaesthetic1.jpg`
-- `images/delicate-sweet/Middlepotaesthetic2.png`
-- `images/delicate-sweet/Middlepotaesthetic3.jpg`
-- `images/delicate-sweet/Middlepotaesthetic4.jpg`
-- `images/delicate-sweet/Middlepotlayout.png`
-- `images/delicate-sweet/Middlepotaesthetic5.png`
-- `images/delicate-sweet/Middlepotaesthetic6.jpg`
-- `images/delicate-sweet/Middlepotaesthetic7.jpg`
-- `images/delicate-sweet/Middlepotaesthetic8.jpg`
-- `images/delicate-sweet/Middlepotaesthetic9.png`
-- `images/delicate-sweet/Middlepotcollage.png`
-- `images/delicate-sweet/Middlepotaesthetic11.jpg`
-- `images/delicate-sweet/Middlepotaesthetic12.jpg`
-- `images/delicate-sweet/Middlepotaesthetic13.png`
-- `images/delicate-sweet/Middlepotaesthetic14.jpg`
-- `images/delicate-sweet/Middlepotaesthetic15.png`
-- `images/delicate-sweet/Middlepotaesthetic16.jpg`
-- `images/delicate-sweet/5FDAADEB-AEDD-43C4-A065-E5E80E85F375.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Delicate Sweet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Delicate_Sweet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Delicate Sweet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Delicate_Sweet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

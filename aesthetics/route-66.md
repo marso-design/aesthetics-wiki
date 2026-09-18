@@ -12,7 +12,6 @@ related_media: ["American Graffiti (1973)", "Pixar's CARS (2006)", "Nat King Col
 source_url: "https://aesthetics.fandom.com/wiki/Route_66"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Route 66
@@ -74,13 +73,6 @@ Carsland, at Disney's California Adventure
 
 ## References
 
-## Images
-
-- `images/route-66/Teepeecurios.jpg`
-- `images/route-66/Chicken-basket-neon-sign.jpg`
-- `images/route-66/Carstack.jpg`
-- `images/route-66/Disneys-california-adventure-carsland-16x9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Route 66" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Route_66), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Route 66" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Route_66), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -6,7 +6,6 @@ palette: ["#745457", "#91A3B5", "#343033", "#CEC4C7", "#B3A8AB", "#DDD9DC"]
 source_url: "https://aesthetics.fandom.com/wiki/Jersey_Maid"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Jersey Maid
@@ -20,14 +19,6 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 ## Gallery
 
-## Images
-
-- `images/jersey-maid/42ef7d6a5b1d6e8f68c9d66e903c2063.jpg`
-- `images/jersey-maid/Jerseymaid.jpg`
-- `images/jersey-maid/M1.jpg`
-- `images/jersey-maid/M10.jpg`
-- `images/jersey-maid/M22.jpg`
-
 ## Source and attribution
 
-Text adapted from "Jersey Maid" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jersey_Maid), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Jersey Maid" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Jersey_Maid), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

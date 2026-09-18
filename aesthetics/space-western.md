@@ -12,7 +12,6 @@ related_media: ["Cowboy Bebop", "Outlaw Star", "Trigun", "The Mandalorian", "Out
 source_url: "https://aesthetics.fandom.com/wiki/Space_Western"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Space Western
@@ -113,12 +112,6 @@ Color palettes often lean into earthy tones (sandy browns, tans, dusty reds) mix
 
 ## References
 
-## Images
-
-- `images/space-western/Firefly.jpg`
-- `images/space-western/Frederic-bennett-fred-gotg-r-d-character-04-star-lord-b-e1643916092925.webp`
-- `images/space-western/Marvel-studios-concept-guardians-of-the-galaxy-1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Space Western" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Space_Western), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Space Western" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Space_Western), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

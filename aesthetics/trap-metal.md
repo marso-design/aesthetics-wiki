@@ -12,7 +12,6 @@ primary_platform: ["SoundCloud", "YouTube"]
 source_url: "https://aesthetics.fandom.com/wiki/Trap_Metal"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 27
 ---
 
 # Trap Metal
@@ -233,36 +232,6 @@ Lil Darkie
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/trap-metal/Lildarkie.jpg`
-- `images/trap-metal/SkengAfourteen.png`
-- `images/trap-metal/Teenage-disaster-criminal-song-Cover-Art.jpg`
-- `images/trap-metal/Nypd.jpg`
-- `images/trap-metal/Triple777-trials-and-tribulations-Cover-Art.jpg`
-- `images/trap-metal/Craig-scissorhands-laugh-tracks-Cover-Art.png`
-- `images/trap-metal/Ab67616d0000b2730f30d86d4b2ad0acfb802ccc.jpg`
-- `images/trap-metal/Goth-and-sudzy-k-9-unit-Cover-Art.jpg`
-- `images/trap-metal/Afourteen22.jpg`
-- `images/trap-metal/Gorejit2.jpg`
-- `images/trap-metal/4091f3f816b68a1db3f1942c335e7cf7.jpg`
-- `images/trap-metal/F6a043bf5e3797301c8ebabad8502deb.jpg`
-- `images/trap-metal/8c37e659a85ca653af45b2bd233e5b7d.jpg`
-- `images/trap-metal/2c9b14cf0211a28bb7c31f06610d13d6.jpg`
-- `images/trap-metal/8ecca9c4b8900ab573b81067805117eb.jpg`
-- `images/trap-metal/Aaf46255d85f54f32519fdb1a1bc9906.jpg`
-- `images/trap-metal/25c9b210b9676bc293bdb5780fed016f.jpg`
-- `images/trap-metal/744f31dda6b4efdec0f6219cc98ee0ef.jpg`
-- `images/trap-metal/07032992a1946370644c02fed6f74ee0.jpg`
-- `images/trap-metal/Gorejit.jpg`
-- `images/trap-metal/Afourteen.jpg`
-- `images/trap-metal/Afourteen2.jpg`
-- `images/trap-metal/Sematary.webp`
-- `images/trap-metal/20bb7562d9af14779e99478f17464732.jpg`
-- `images/trap-metal/923a4365ffc75c8369870bee42671979.jpg`
-- `images/trap-metal/Fb2c414f999856cb8e1f08ecb65e7557.jpg`
-- `images/trap-metal/Dfc0c5fcb11ad4e95c1a623d48920a29.jpg`
-
 ## Source and attribution
 
-Text adapted from "Trap Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trap_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Trap Metal" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trap_Metal), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

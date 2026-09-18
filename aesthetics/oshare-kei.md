@@ -9,7 +9,6 @@ related_aesthetics: ["Decora", "Fairy Kei", "Harajuku Fashion", "Visual Kei", "S
 source_url: "https://aesthetics.fandom.com/wiki/Oshare_Kei"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Oshare Kei
@@ -100,19 +99,6 @@ RoNo☆Cro
 
 ## References
 
-## Images
-
-- `images/oshare-kei/43133-baroque-group-photo.jpg`
-- `images/oshare-kei/An-cafe.jpg`
-- `images/oshare-kei/Megamasso.jpg`
-- `images/oshare-kei/SuG.jpg`
-- `images/oshare-kei/Lmc-japanese-band-674bcd9b-f3cb-4819-9403-bfff26c2a52-resize-750.png`
-- `images/oshare-kei/12477-hero-group-shot.jpg`
-- `images/oshare-kei/112522-the-madna-uncategorized.jpg`
-- `images/oshare-kei/30616-colours-group-photo.jpg`
-- `images/oshare-kei/99637-paradeis-group-photo.png`
-- `images/oshare-kei/8922-give-me-a-smile-group-shot.jpg`
-
 ## Source and attribution
 
-Text adapted from "Oshare Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Oshare_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Oshare Kei" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Oshare_Kei), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ primary_platform: ["Bandcamp", "SoundCloud", "Spotify", "YouTube"]
 source_url: "https://aesthetics.fandom.com/wiki/Slushwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Slushwave
@@ -90,13 +89,6 @@ Telepath's album.
 | Conceptual |
 | [Political 'Wave' Aesthetics](https://aesthetics.fandom.com/wiki/Political_%27Wave%27_Aesthetics "Political 'Wave' Aesthetics") ✪ [Signalwave](https://aesthetics.fandom.com/wiki/Signalwave "Signalwave") ✪ [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") |
 
-## Images
-
-- `images/slushwave/Slushwave1.jpg`
-- `images/slushwave/A-5711118-1567546563-2370.jpg`
-- `images/slushwave/Slushwave4.webp`
-- `images/slushwave/Slushwave7.webp`
-
 ## Source and attribution
 
-Text adapted from "Slushwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Slushwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Slushwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Slushwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

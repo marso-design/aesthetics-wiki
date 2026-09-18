@@ -10,7 +10,6 @@ related_aesthetics: ["Classicism", "Gothic Art (influence)", "Medieval", "Romane
 source_url: "https://aesthetics.fandom.com/wiki/Byzantine"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Byzantine
@@ -66,4 +65,4 @@ Byzantine emperors used art and architecture to project their power and legitima
 
 ## Source and attribution
 
-Text adapted from "Byzantine" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Byzantine), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Byzantine" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Byzantine), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

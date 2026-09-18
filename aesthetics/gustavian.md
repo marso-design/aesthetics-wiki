@@ -11,7 +11,6 @@ related_aesthetics: ["Neoclassicism", "French Provincial Style", "Rococo", "Shab
 source_url: "https://aesthetics.fandom.com/wiki/Gustavian"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Gustavian
@@ -59,17 +58,6 @@ Fabrics used in Gustavian interiors were often simple yet elegant. Checked patte
 | 𝕆𝕔𝕖𝕒𝕟𝕚𝕒 |
 | [Oceanian (on Wikipedia)](https://en.wikipedia.org/wiki/Oceanian_art) |
 
-## Images
-
-- `images/gustavian/Masreliez-House-Stockholm-5-1.jpg`
-- `images/gustavian/Lucy-barlow-strand.webp`
-- `images/gustavian/Gustavian-Blog-image.jpg`
-- `images/gustavian/Atsisiųsti.jpg`
-- `images/gustavian/Gustav-iii-pavilion-1.webp`
-- `images/gustavian/Gustav-IIIs-paviljong-foto-Gomer-Swahn.webp`
-- `images/gustavian/Pelarsalen-kungliga-slottet-foto-alexis-daflos.jpg`
-- `images/gustavian/Gustavian-furniture-story-cover.webp`
-
 ## Source and attribution
 
-Text adapted from "Gustavian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gustavian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gustavian" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gustavian), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["French Girl", "Coquette", "Rockstar GF", "Downtown Girl", 
 source_url: "https://aesthetics.fandom.com/wiki/Messy_French_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Messy French Girl
@@ -67,10 +66,6 @@ Lily-Rose Depp
 
 ## References
 
-## Images
-
-- `images/messy-french-girl/Mfg.pinterest.lilyrosedepp1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Messy French Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Messy_French_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Messy French Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Messy_French_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -19,9 +19,13 @@ Cottagecore · Vaporwave · Dark Academia · Cybergoth · Weirdcore · Coquette 
 
 Ask Claude to name a vibe, build a moodboard, compare two aesthetics, or theme an
 outfit / room / brand / playlist / UI, and this skill backs the answer with real,
-structured reference data instead of guesswork. Adapted from the
-[Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) via the
-MediaWiki API, cleaned into portable markdown, and indexed for fast lookup.
+structured reference data instead of guesswork. The text is adapted from the
+[Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) (CC-BY-SA
+4.0), cleaned into portable markdown, and indexed for fast lookup.
+
+It is fully standalone: everything lives in this repo and lookups run locally
+with no network calls. The only optional outside service is an image API you
+bring yourself for photo moodboards.
 
 ## What Claude can do with it
 
@@ -35,7 +39,7 @@ MediaWiki API, cleaned into portable markdown, and indexed for fast lookup.
 ## Moodboards
 
 Ask about any aesthetic and the skill builds a moodboard from its **own data** -
-no scraped third-party photos. Two modes:
+no third-party photos. Two modes:
 
 **Generated** - bring your own image API for rich, photo-based moodboards.
 Examples below from Nano Banana 2 (Gemini 3.1 Flash Image):
@@ -81,11 +85,11 @@ work too via `IMAGE_PROVIDER` / `IMAGE_MODEL` / `IMAGE_API_BASE`.
 | | |
 |---|---|
 | Aesthetics | **1,201** |
-| With structured data (palettes / relations) | **1,125** |
-| Data-derived hex palettes | from 13,464 reference images |
-| Reference images catalogued | **13,464** |
+| With structured data (colours / relations) | **1,125** |
+| With hex palettes | **1,061** |
 | Text size | ~18 MB |
-| Source | Aesthetics Wiki (CC-BY-SA 4.0) |
+| Runs | locally, no network, no dependencies for lookups |
+| Text source | Aesthetics Wiki (CC-BY-SA 4.0) |
 
 ## Install
 
@@ -105,19 +109,8 @@ git clone https://github.com/marso-design/aesthetics-wiki ~/.claude/skills/aesth
 Either way it activates automatically when a request matches its description
 (see the front matter in [`SKILL.md`](SKILL.md)). No manual step needed.
 
-**Images are not shipped in the repo** (they are large and carry their own
-licenses). The text, structured data, and per-image `credits.json` manifests are
-all included. When Claude needs to *see* an aesthetic's images, it fetches just
-those on demand:
-
-```bash
-python scripts/fetch_image.py cottagecore --limit 1   # or --all
-```
-
-> **Heads-up (Sept 2026):** Fandom now sits behind Cloudflare, which blocks
-> scripted downloads, so `fetch_image.py` may return 403. When it does, it prints
-> the wiki page link for each image so you can open it in a browser. The
-> moodboards below are the reliable way to get visuals.
+Lookups need only Python 3. Rendering moodboards needs Pillow (and `requests` for
+the optional image API): `pip install -r requirements.txt`.
 
 ## Usage examples
 
@@ -159,7 +152,7 @@ aka: ["Farmcore", "Countrycore"]
 decade_of_origin: "2010s (inspired by the 19th century)"
 key_motifs: ["Baking", "gardening", "foraging", "picnics", "wildflowers", ...]
 key_colours: ["Earthy and natural tones (brown, moss green, beige)", "soft pastels", ...]
-palette: ["#26311A", "#4D5F2F", "#16170C", "#686846", "#E2DABE", "#B59C6C"]  # derived from images
+palette: ["#26311A", "#4D5F2F", "#16170C", "#686846", "#E2DABE", "#B59C6C"]  # hex, ranked
 key_values: ["Simplicity", "self-sufficiency", "harmony with nature", ...]
 related_aesthetics: ["Fairycore", "Goblincore", "Grandmacore", ...]
 subgenres: ["Bloomcore", "Cottagegoth", "Gardencore", ...]
@@ -169,52 +162,50 @@ source_url: "https://aesthetics.fandom.com/wiki/Cottagecore"
 
 ## How it works
 
-- **Sourced via the MediaWiki API**, not HTML scraping. Polite by design
-  (descriptive User-Agent, `maxlag`, retry-with-backoff) and resumable.
-- **Infobox parsing** normalises each `{{Aesthetic}}` template into typed front matter.
+- **Self-contained**: every entry, the index, and the palettes live in the repo.
+  Lookups are plain Python with no dependencies and no network.
+- **Structured**: each entry's infobox is normalised into typed front matter
+  (motifs, colours, values, relations, era, platforms).
 - **Progressive disclosure**: the skill queries a compact index and reads one
-  entry at a time, so it stays fast at 1,200+ pages instead of loading everything.
+  entry at a time, so it stays fast at 1,200+ entries instead of loading everything.
 
 ## Repository layout
 
 ```
-SKILL.md               # skill definition + the lookup protocol Claude follows
-aesthetics/<slug>.md   # 1,201 entries: structured front matter + full text
-images/<slug>/         # credits.json manifests (binaries fetched on demand)
-data/index.json        # compact search index
-scripts/scrape.py      # pull everything from the wiki (resumable)
-scripts/build_index.py # rebuild data/index.json from the files
-scripts/lookup.py      # query CLI (resolve, search, related, by colour/decade/motif)
-scripts/fetch_image.py # fetch an aesthetic's images on demand for local viewing
-scripts/palette.py     # derive hex palettes from reference images
-scripts/make_showcase.py # render the palette-wall hero (--social: link preview card)
-scripts/make_moodboard.py # render a per-aesthetic moodboard from data/palettes.json
+SKILL.md                  # skill definition + the lookup protocol Claude follows
+aesthetics/<slug>.md      # 1,201 entries: structured front matter + full text
+data/index.json           # compact search index
+data/palettes.json        # hex palettes with coverage percentages
+assets/                   # hero, social card, palette + generated moodboards
+scripts/lookup.py         # query CLI (resolve, search, related, by colour/decade/motif)
+scripts/build_index.py    # rebuild data/index.json after editing entries
+scripts/make_moodboard.py # render a palette moodboard for any aesthetic
+scripts/gen_moodboard.py  # photo moodboard via your own image API (optional)
+scripts/make_showcase.py  # render the palette-wall hero (--social: link card)
+.claude-plugin/           # plugin + marketplace manifests
 ```
 
-## Regenerate from source
+## Development
 
-The data in this repo is a snapshot taken on **2026-07-22** (1,201 aesthetics).
-Fandom's Cloudflare currently blocks scripted API access, so `scrape.py` exits
-with a clear message instead of refreshing. The pipeline is kept for when access
-is available again.
+The corpus is a July 2026 snapshot of the Aesthetics Wiki, now maintained here
+directly. Edit or add entries in `aesthetics/`, then rebuild the index:
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-python scripts/scrape.py            # full pull (text + images), resumable
 python scripts/build_index.py       # rebuild the search index
 python scripts/lookup.py --stats    # sanity check
+python scripts/make_showcase.py     # re-render the hero (--social for the link card)
 ```
 
 ## Licensing
 
-- **Code** (`scripts/`, `SKILL.md`): MIT. See [`LICENSE`](LICENSE).
-- **Text** (`aesthetics/`): CC-BY-SA 4.0, from the Aesthetics Wiki. Attribute and
-  share-alike. See [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md) and [`ATTRIBUTION.md`](ATTRIBUTION.md).
-- **Images**: each carries its own, often unspecified, license. They are excluded
-  from this repo by default; only the `credits.json` manifests are tracked. Verify
-  a given image's license before republishing it.
+- **Code and generated visuals** (`scripts/`, `SKILL.md`, `assets/`): MIT. See [`LICENSE`](LICENSE).
+- **Text** (`aesthetics/`): CC-BY-SA 4.0, adapted from the Aesthetics Wiki. Attribute
+  and share-alike. See [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md) and [`ATTRIBUTION.md`](ATTRIBUTION.md).
+- **No third-party images** are included. Every visual in `assets/` was generated
+  for this repo from its own data.
 
 Not affiliated with, endorsed by, or sponsored by the Aesthetics Wiki or Fandom, Inc.
 

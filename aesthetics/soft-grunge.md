@@ -9,7 +9,6 @@ related_aesthetics: ["Brat Summer", "E-Boy", "E-Girl", "Grunge", "Traumacore", "
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Grunge"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 71
 ---
 
 # Soft Grunge
@@ -225,80 +224,6 @@ Also, like the other aesthetics that include smoking cigarettes as a visual, dep
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/soft-grunge/Girlss.jpg`
-- `images/soft-grunge/Look4.jpg`
-- `images/soft-grunge/Jeans.jpg`
-- `images/soft-grunge/Backpacks.jpg`
-- `images/soft-grunge/Sadangel.jpg`
-- `images/soft-grunge/Couple.jpg`
-- `images/soft-grunge/Air.jpg`
-- `images/soft-grunge/Quote.jpg`
-- `images/soft-grunge/Amap2.jpg`
-- `images/soft-grunge/Boysweater.jpg`
-- `images/soft-grunge/Angelinajolie.jpg`
-- `images/soft-grunge/Chocolatr.jpg`
-- `images/soft-grunge/Concrete.jpg`
-- `images/soft-grunge/Originalkkkk.jpg`
-- `images/soft-grunge/Girlground.jpg`
-- `images/soft-grunge/Gaming.jpg`
-- `images/soft-grunge/Skatist.jpg`
-- `images/soft-grunge/Skullsglass.jpg`
-- `images/soft-grunge/Statueee.jpg`
-- `images/soft-grunge/Sttue.jpg`
-- `images/soft-grunge/Bastards.jpg`
-- `images/soft-grunge/Amamam.jpg`
-- `images/soft-grunge/Whitewall.jpg`
-- `images/soft-grunge/Bubble.jpg`
-- `images/soft-grunge/Ughh.jpg`
-- `images/soft-grunge/Fishnets.jpg`
-- `images/soft-grunge/Groundgirl2.jpg`
-- `images/soft-grunge/Pool.jpg`
-- `images/soft-grunge/Planswater.jpg`
-- `images/soft-grunge/Girlyyy.jpg`
-- `images/soft-grunge/7f699ada7884106a05ca8b919b81f76c.jpg`
-- `images/soft-grunge/2e5753bd7911d536ff29f38087798e0d.jpg`
-- `images/soft-grunge/D85e7c3636477e1dd65b0b86b43c0972.jpg`
-- `images/soft-grunge/Rainyday.jpg`
-- `images/soft-grunge/Superthumb.jpg`
-- `images/soft-grunge/Coolkids.jpg`
-- `images/soft-grunge/Legs.jpg`
-- `images/soft-grunge/144444444444444444444444444444444444444444444444444444.jpg`
-- `images/soft-grunge/D85d670373cfe07a70312ce2819342c8.jpg`
-- `images/soft-grunge/3f0acb0c77ee765a3e096530558d4777.jpg`
-- `images/soft-grunge/951681f222db658121810de79c512ac5.jpg`
-- `images/soft-grunge/87210240919a82d61a1fae2e7a60162e.jpg`
-- `images/soft-grunge/Cbc72002214e79fe59e0153d40eacefc.jpg`
-- `images/soft-grunge/2bfa9e56ad49538a4c7e2bcbb4956e94.jpg`
-- `images/soft-grunge/722f9c0ea3ac0fa3ca52d777cdc9681f.jpg`
-- `images/soft-grunge/Bd8ce0aef7d44c9506609e5b823e54eb.jpg`
-- `images/soft-grunge/202fb0f6dcb5c4f118cea97758e22104.jpg`
-- `images/soft-grunge/82205e72ed6a8ee23b35b7d5c7353ef6.jpg`
-- `images/soft-grunge/Greek.jpg`
-- `images/soft-grunge/Plants.jpg`
-- `images/soft-grunge/Vossandfiji.jpg`
-- `images/soft-grunge/Girl.jpg`
-- `images/soft-grunge/Ground.jpg`
-- `images/soft-grunge/Look2.JPG`
-- `images/soft-grunge/Look3.jpg`
-- `images/soft-grunge/Evian.jpg`
-- `images/soft-grunge/Boxedwater.jpg`
-- `images/soft-grunge/Blackwater.jpg`
-- `images/soft-grunge/Halfdyedhair.jpg`
-- `images/soft-grunge/Gridss.jpg`
-- `images/soft-grunge/Guitarr.jpg`
-- `images/soft-grunge/Xx.jpg`
-- `images/soft-grunge/Gridsheet.jpg`
-- `images/soft-grunge/The1975.jpg`
-- `images/soft-grunge/Sadsongs.jpg`
-- `images/soft-grunge/Lorde.jpg`
-- `images/soft-grunge/Laninha.jpg`
-- `images/soft-grunge/Fe05d4cf40d3ece69456b94a014a9f19.jpg`
-- `images/soft-grunge/Amamamama.jpg`
-- `images/soft-grunge/Spacebuns.jpg`
-- `images/soft-grunge/Music.jpg`
-
 ## Source and attribution
 
-Text adapted from "Soft Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Soft Grunge" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Grunge), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

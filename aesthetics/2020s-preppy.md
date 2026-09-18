@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "Roblox"]
 source_url: "https://aesthetics.fandom.com/wiki/2020s_Preppy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # 2020s Preppy
@@ -131,20 +130,6 @@ Preppy aesthetic guide ✨💕🤩🏖 -preppy - cgttadvice ☆
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/2020s-preppy/51fdb63415ae3442d26f5d972ebae0c7.jpg`
-- `images/2020s-preppy/Preppy12345.jpg`
-- `images/2020s-preppy/Preppy17.jpg`
-- `images/2020s-preppy/Preppy18.jpg`
-- `images/2020s-preppy/Preppy14.jpg`
-- `images/2020s-preppy/Preppy13.jpg`
-- `images/2020s-preppy/Preppy11.jpg`
-- `images/2020s-preppy/Preppyvolleyball.png`
-- `images/2020s-preppy/Preppybasket.jpeg`
-- `images/2020s-preppy/Preppylulu.jpg`
-- `images/2020s-preppy/Preppy-pfp-.jpg`
-
 ## Source and attribution
 
-Text adapted from "2020s Preppy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2020s_Preppy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2020s Preppy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2020s_Preppy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

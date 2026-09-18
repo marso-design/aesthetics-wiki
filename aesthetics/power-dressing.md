@@ -12,7 +12,6 @@ related_media: ["Working Girl (film)", "Dynasty (TV series)"]
 source_url: "https://aesthetics.fandom.com/wiki/Power_Dressing"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Power Dressing
@@ -68,22 +67,6 @@ Several designers were instrumental in defining and popularizing the Power Dress
 
 ## References
 
-## Images
-
-- `images/power-dressing/PowerDress.png`
-- `images/power-dressing/C5632fde4f8379ba148e670caca399b8.jpg`
-- `images/power-dressing/F114adac619f62d7447ff8f9271dda38.jpg`
-- `images/power-dressing/0af9b998ac6bfe34717381dab385c61e.jpg`
-- `images/power-dressing/Ff5cd1cbd5a265696db520141de5a66e.jpg`
-- `images/power-dressing/A081683ea414c64bf29e710adc6883ef.jpg`
-- `images/power-dressing/634b9caaf27514cc97352bf21ec93dc4.jpg`
-- `images/power-dressing/1efd386eb09526ac8198cc12845f5a1b.jpg`
-- `images/power-dressing/A31c6fd84178c376f01c5d3edc024c86.jpg`
-- `images/power-dressing/9791a5f18734fc1fe8dc4165292c8149.jpg`
-- `images/power-dressing/867b0ca1417166677a3c6b4c746c9e20.jpg`
-- `images/power-dressing/675c123c74d63fae65e1e077a5268262.jpg`
-- `images/power-dressing/F9ed0ceda7149c1667dbefd2fff4a766.jpg`
-
 ## Source and attribution
 
-Text adapted from "Power Dressing" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Power_Dressing), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Power Dressing" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Power_Dressing), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

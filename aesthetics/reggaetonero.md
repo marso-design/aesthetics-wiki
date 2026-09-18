@@ -13,7 +13,6 @@ related_media: ["Tumberos (2002 TV Series)", "El Bonaerense (2002 Film)", "El po
 source_url: "https://aesthetics.fandom.com/wiki/Reggaetonero"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Reggaetonero
@@ -173,18 +172,6 @@ montage with several different reggaeton artists
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/reggaetonero/4b5b9c93806.jpg`
-- `images/reggaetonero/Reg1.jpg`
-- `images/reggaetonero/Reg2.webp`
-- `images/reggaetonero/Reg3.png`
-- `images/reggaetonero/Reg4.jpeg`
-- `images/reggaetonero/Reg7.jpg`
-- `images/reggaetonero/Reg6.jpg`
-- `images/reggaetonero/Reg5.jpg`
-- `images/reggaetonero/Reguetoneros-colaboracion.jpg`
-
 ## Source and attribution
 
-Text adapted from "Reggaetonero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Reggaetonero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Reggaetonero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Reggaetonero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

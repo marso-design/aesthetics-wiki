@@ -12,7 +12,6 @@ related_media: ["Boys Over Flowers (K-Drama)", "The City of the Rising Sun (Film
 source_url: "https://aesthetics.fandom.com/wiki/Kkonminam"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Kkonminam
@@ -92,10 +91,6 @@ Some groups blend kkonminam prettiness with more “beast” or hip‑hop mascul
 
 *Under Construction*
 
-## Images
-
-- `images/kkonminam/BTS.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Kkonminam" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kkonminam), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kkonminam" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kkonminam), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

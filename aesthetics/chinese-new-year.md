@@ -12,7 +12,6 @@ related_media: ["The Spring Festival Gala"]
 source_url: "https://aesthetics.fandom.com/wiki/Chinese_New_Year"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 24
 ---
 
 # Chinese New Year
@@ -226,33 +225,6 @@ Big red lanterns on most street lamps and buildings in scenic areas, hung by the
 
 dragon dance
 
-## Images
-
-- `images/chinese-new-year/Chunjie-8.jpeg`
-- `images/chinese-new-year/CNY-GongDengLantern.jpeg`
-- `images/chinese-new-year/CNY-LanternZoumadeng.gif`
-- `images/chinese-new-year/CNY-LanternLotus.jpeg`
-- `images/chinese-new-year/CNY-LanternRabbit.jpeg`
-- `images/chinese-new-year/CNY-Lantern1.jpeg`
-- `images/chinese-new-year/CNY-Lantern2.jpeg`
-- `images/chinese-new-year/CNY-Lantern3.jpeg`
-- `images/chinese-new-year/CNY-LanternArt.png`
-- `images/chinese-new-year/CNY-FuZi.jpg`
-- `images/chinese-new-year/Chunjie-5.jpeg`
-- `images/chinese-new-year/Chunjie-1.jpeg`
-- `images/chinese-new-year/Feng4huang2.png`
-- `images/chinese-new-year/CNY-ZhongGuoJie.jpg`
-- `images/chinese-new-year/Chunjie-2.png`
-- `images/chinese-new-year/Chunjie-6.jpeg`
-- `images/chinese-new-year/Chunjie-Hanfu-2.jpeg`
-- `images/chinese-new-year/Chunjie-3.png`
-- `images/chinese-new-year/Chinesezodiac.png`
-- `images/chinese-new-year/Chunjie-7.jpeg`
-- `images/chinese-new-year/Liondance.jpeg`
-- `images/chinese-new-year/Chunjie-9.webp`
-- `images/chinese-new-year/Chunjie-Hanfu1.jpeg`
-- `images/chinese-new-year/Chunjie-4.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Chinese New Year" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chinese_New_Year), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chinese New Year" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chinese_New_Year), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "Reddit (menswear forums)", "High Fashion Runways (
 source_url: "https://aesthetics.fandom.com/wiki/Hedi_Boy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Hedi Boy
@@ -61,26 +60,6 @@ Accessories and styling are highly important for conveying the necessary "rockst
 
 ## References
 
-## Images
-
-- `images/hedi-boy/Iji-1920x1280.png`
-- `images/hedi-boy/75d74f9233e6110e4220d23d14914bc7.jpg`
-- `images/hedi-boy/3d7344d0a62bc7c448b4ee86ca138673.jpg`
-- `images/hedi-boy/40640ad4fb77025e1783fa24d9d41aa9.jpg`
-- `images/hedi-boy/B99bc9f3de2e6cc63ed1e24b27d43572.jpg`
-- `images/hedi-boy/780aa99f6f37a365144c4036826fedb5.jpg`
-- `images/hedi-boy/0f4db1920c863a3a9eab938a68d1184d.jpg`
-- `images/hedi-boy/A3ec7853c344156515d5d31f0f87aaad.jpg`
-- `images/hedi-boy/A95cf8149a1819375ad6022bdf210d65.jpg`
-- `images/hedi-boy/5662de745e0f2464937657f339c574da.jpg`
-- `images/hedi-boy/5fe84069d3df50405be3166febab95c6.jpg`
-- `images/hedi-boy/426ecdabecff315f858175793bb38732.jpg`
-- `images/hedi-boy/40a6ce390534beb32b6c100a74bb9288.jpg`
-- `images/hedi-boy/F06904165efcd46a311100dd3a28cf40.jpg`
-- `images/hedi-boy/8892caf13505e070d5b1d91ba79c9725.jpg`
-- `images/hedi-boy/Efa16de9840ea2f08d418427262c57b2.jpg`
-- `images/hedi-boy/C64f73de77327897b157beee5837a24e.jpg`
-
 ## Source and attribution
 
-Text adapted from "Hedi Boy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hedi_Boy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hedi Boy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hedi_Boy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

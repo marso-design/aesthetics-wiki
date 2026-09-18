@@ -11,7 +11,6 @@ related_media: ["Classic Mac OS", "Windows 3.x", "Windows 9X (95, 98, ME)", "Win
 source_url: "https://aesthetics.fandom.com/wiki/Pixel_UI"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Pixel UI
@@ -121,18 +120,6 @@ Apple Website (1996)
 
 ## References
 
-## Images
-
-- `images/pixel-ui/Computer-graphics-in-dos-menu-driven-interface-dos-navigator-tetris.webp`
-- `images/pixel-ui/Menuworks.jpg`
-- `images/pixel-ui/Amiga-workbench-dos-10.gif`
-- `images/pixel-ui/OFFICE95-SPLASH.png`
-- `images/pixel-ui/Simcity-1989.jpg`
-- `images/pixel-ui/5278364.png`
-- `images/pixel-ui/Intermediate.png`
-- `images/pixel-ui/I-DaBj4RZxIL6vjgRXO1n3Is8dYCUG7We8sWbR6v1gs.webp`
-- `images/pixel-ui/Apple-1996.png`
-
 ## Source and attribution
 
-Text adapted from "Pixel UI" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pixel_UI), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pixel UI" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pixel_UI), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["8-Bit", "Glitch Art", "Kidcore", "Mallgoth", "Synthwave", 
 source_url: "https://aesthetics.fandom.com/wiki/Arcadecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Arcadecore
@@ -73,17 +72,6 @@ Anamanaguchi - 「MEOW」 (Official Music Video)
 
 ## References
 
-## Images
-
-- `images/arcadecore/ArcadecoreInfobox.jpg`
-- `images/arcadecore/05f95a8e-2b62-41b5-a22f-8bfd78648ac3.octet-stream.jpg`
-- `images/arcadecore/67937f62-11b5-4a15-ae50-d616532763fe.octet-stream.jpg`
-- `images/arcadecore/73018b99-7441-45a3-9b60-01f01b5a6648.octet-stream.jpg`
-- `images/arcadecore/1442257459270.jpg`
-- `images/arcadecore/687474~1.GIF`
-- `images/arcadecore/Source2.gif`
-- `images/arcadecore/Arcadecore.jpg`
-
 ## Source and attribution
 
-Text adapted from "Arcadecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Arcadecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Arcadecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Arcadecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

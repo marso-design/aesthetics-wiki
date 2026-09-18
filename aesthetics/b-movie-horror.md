@@ -7,7 +7,6 @@ palette: ["#546F4E", "#D7C3A3", "#0D0D0E", "#43312C", "#AF916E", "#1F2322"]
 source_url: "https://aesthetics.fandom.com/wiki/B-Movie_Horror"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # B-Movie Horror
@@ -45,12 +44,6 @@ In short, B-horror movies are not high art, but they have been around for a long
 * <https://en.wikipedia.org/wiki/Television_film>
 * <https://www.britannica.com/art/B-film>
 
-## Images
-
-- `images/b-movie-horror/Bela-Lugosi-The-Devil-Bat-300x424.jpg`
-- `images/b-movie-horror/Hexen.jpg`
-- `images/b-movie-horror/Them!.jpg`
-
 ## Source and attribution
 
-Text adapted from "B-Movie Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/B-Movie_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "B-Movie Horror" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/B-Movie_Horror), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

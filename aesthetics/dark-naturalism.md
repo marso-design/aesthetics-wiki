@@ -10,7 +10,6 @@ primary_platform: ["Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Dark_Naturalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Dark Naturalism
@@ -62,24 +61,6 @@ Yearning album Cover
 
 ## References
 
-## Images
-
-- `images/dark-naturalism/Darknature1.jpg`
-- `images/dark-naturalism/Darknature2.jpg`
-- `images/dark-naturalism/Darknature3.jpg`
-- `images/dark-naturalism/Darknature4.jpg`
-- `images/dark-naturalism/Darknature5.jpg`
-- `images/dark-naturalism/Darknature6.jpg`
-- `images/dark-naturalism/Darknature7.jpg`
-- `images/dark-naturalism/Darknature8.jpg`
-- `images/dark-naturalism/Darknature9.jpg`
-- `images/dark-naturalism/Forest-dark.jpg`
-- `images/dark-naturalism/Hdc4zr5havh11.jpg`
-- `images/dark-naturalism/Darknaturalistoutfit.jpeg`
-- `images/dark-naturalism/Darknaturalistoutfit1.jpeg`
-- `images/dark-naturalism/Darknaturalismmood.jpeg`
-- `images/dark-naturalism/Darkmoodboard.png`
-
 ## Source and attribution
 
-Text adapted from "Dark Naturalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Naturalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dark Naturalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dark_Naturalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

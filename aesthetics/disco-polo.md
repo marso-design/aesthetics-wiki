@@ -11,7 +11,6 @@ related_aesthetics: ["Disco", "Dresiarz", "Italo Disco", "Grażynacore", "Vector
 source_url: "https://aesthetics.fandom.com/wiki/Disco_Polo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Disco Polo
@@ -124,20 +123,6 @@ Kolekcja Disco Polo 18: Justyna i Piotr
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • **Disco Polo** • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/disco-polo/DiscoPolo2.jpg`
-- `images/disco-polo/Discopolo11.jpg`
-- `images/disco-polo/Discopolo9.jpg`
-- `images/disco-polo/Discopolo10.jpg`
-- `images/disco-polo/Discopolo6.jpg`
-- `images/disco-polo/Discopolo3.jpg`
-- `images/disco-polo/Polo.jpg`
-- `images/disco-polo/Discopolo1.jpg`
-- `images/disco-polo/Discopolo12.jpg`
-- `images/disco-polo/Discopolologo.jpg`
-- `images/disco-polo/2147644248.png`
-
 ## Source and attribution
 
-Text adapted from "Disco Polo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Disco_Polo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Disco Polo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Disco_Polo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

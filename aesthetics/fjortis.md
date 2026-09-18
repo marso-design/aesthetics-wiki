@@ -11,7 +11,6 @@ related_media: ["Playahead", "LunarStorm", "Bilddagboken (social media)", "Fjort
 source_url: "https://aesthetics.fandom.com/wiki/Fjortis"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Fjortis
@@ -103,29 +102,6 @@ However, unlike the British "Chav" phenomenon, which was explicitly rooted in cl
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/fjortis/1b237cc4b435df2b9a446142c065210d.jpg`
-- `images/fjortis/53b4de4af8b73d295e2c7a8945efbf4a.jpg`
-- `images/fjortis/63c62773362fb4a482c2f3700f386cb3.jpg`
-- `images/fjortis/64888e2ffa01c6e7e59641721c030f17.jpg`
-- `images/fjortis/1fe0ed5c1ad066512890f9de7ba41d53.jpg`
-- `images/fjortis/5e7c283e75e5ea62a4629641eafa7881.jpg`
-- `images/fjortis/Af116348f4b0376a9ceed9d2fdd21cb6.jpg`
-- `images/fjortis/53d567f0994262d5b125fd25fa5bbbbe.jpg`
-- `images/fjortis/8f6484686bdad40a5073e98b97843c50.jpg`
-- `images/fjortis/58f92e634786985895ba9653e9c6fe48.jpg`
-- `images/fjortis/E6d1b8bfba21f88e3c48e1d11e60a46a.jpg`
-- `images/fjortis/D21e0d8969da0a20036bac48389b25c8.jpg`
-- `images/fjortis/844309e6b75b230042d9bb0a7d950ecc.jpg`
-- `images/fjortis/Bcf67d652c83e13fe1487cf9ad2217c2.jpg`
-- `images/fjortis/20b895d6a9177cb8cadf50bc4c387443.jpg`
-- `images/fjortis/C4cca8745b2be9e56980679bc2ac9747.jpg`
-- `images/fjortis/Caf3dcf0666742f85b2ab4ed3b07e7a5.jpg`
-- `images/fjortis/5ca0719e1b11d6146db9a08da8891b98.jpg`
-- `images/fjortis/3ceef572f8f03d1238f43599a3a95a4b.jpg`
-- `images/fjortis/Fa1eb5a306b287fcf5fce34c05576c2a.jpg`
-
 ## Source and attribution
 
-Text adapted from "Fjortis" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fjortis), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Fjortis" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Fjortis), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

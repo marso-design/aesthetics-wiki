@@ -11,7 +11,6 @@ primary_platform: ["TikTok", "Instagram"]
 source_url: "https://aesthetics.fandom.com/wiki/Brazilcore_(fashion_trend)"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Brazilcore (fashion trend)
@@ -56,22 +55,6 @@ Brazilian Miku, a fanart of the famous VOCALOID by @thecat\_mitsu (Doodly) on Tw
 | --- | --- | --- |
 | [Aliyahcore](https://aesthetics.fandom.com/wiki/Aliyahcore "Aliyahcore") • [Avant Basic](https://aesthetics.fandom.com/wiki/Avant_Basic "Avant Basic") • [Barbiecore](https://aesthetics.fandom.com/wiki/Barbiecore "Barbiecore") • [Blokecore](https://aesthetics.fandom.com/wiki/Blokecore "Blokecore") • [Blokette](https://aesthetics.fandom.com/wiki/Blokette "Blokette") • [Blueberry Girl](https://aesthetics.fandom.com/wiki/Blueberry_Girl "Blueberry Girl") • [Brat Summer](https://aesthetics.fandom.com/wiki/Brat_Summer "Brat Summer") • [Brazilian Bombshell](https://aesthetics.fandom.com/wiki/Brazilian_Bombshell "Brazilian Bombshell") • [Brazilcore](https://aesthetics.fandom.com/wiki/Brazilcore "Brazilcore") • [Cacareco Girl](https://aesthetics.fandom.com/wiki/Cacareco_Girl "Cacareco Girl") • [Cayetana](https://aesthetics.fandom.com/wiki/Cayetana "Cayetana") • [Cinnamon Girl](https://aesthetics.fandom.com/wiki/Cinnamon_Girl "Cinnamon Girl") • [Christian Girl Autumn](https://aesthetics.fandom.com/wiki/Christian_Girl_Autumn "Christian Girl Autumn") • [Clean Girl](https://aesthetics.fandom.com/wiki/Clean_Girl "Clean Girl") • [Coastal Cowgirl](https://aesthetics.fandom.com/wiki/Coastal_Cowgirl "Coastal Cowgirl") • [Coastal Grandmother](https://aesthetics.fandom.com/wiki/Coastal_Grandmother "Coastal Grandmother") • [Dopamine Dressing](https://aesthetics.fandom.com/wiki/Dopamine_Dressing "Dopamine Dressing") • [Earthy Black Girl](https://aesthetics.fandom.com/wiki/Earthy_Black_Girl "Earthy Black Girl") • [Eclectic Grandpa](https://aesthetics.fandom.com/wiki/Eclectic_Grandpa "Eclectic Grandpa") • [Female Horror Game Protagonist Fashion](https://aesthetics.fandom.com/wiki/Female_Horror_Game_Protagonist_Fashion "Female Horror Game Protagonist Fashion") • [Frazzled English Woman](https://aesthetics.fandom.com/wiki/Frazzled_English_Woman "Frazzled English Woman") • [Girl Suffix](https://aesthetics.fandom.com/wiki/Category:Girl "Category:Girl") • [Granola Girl](https://aesthetics.fandom.com/wiki/Granola_Girl "Granola Girl") • [Grocery Girl Fall](https://aesthetics.fandom.com/wiki/Grocery_Girl_Fall "Grocery Girl Fall") • [Lulicore](https://aesthetics.fandom.com/wiki/Lulicore "Lulicore") • [Maillard Style](https://aesthetics.fandom.com/wiki/Maillard_Style "Maillard Style") • [Mermaidcore](https://aesthetics.fandom.com/wiki/Mermaidcore "Mermaidcore") • [Mob Wife](https://aesthetics.fandom.com/wiki/Mob_Wife "Mob Wife") • [Office Siren](https://aesthetics.fandom.com/wiki/Office_Siren "Office Siren") • [Peach Girl](https://aesthetics.fandom.com/wiki/Peach_Girl "Peach Girl") • [Pearlcore](https://aesthetics.fandom.com/wiki/Pearlcore "Pearlcore") • [Plazacore](https://aesthetics.fandom.com/wiki/Plazacore "Plazacore") • [Sad Beige](https://aesthetics.fandom.com/wiki/Sad_Beige "Sad Beige") • [Scandi Girl Winter](https://aesthetics.fandom.com/wiki/Scandi_Girl_Winter "Scandi Girl Winter") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Strawberry Girl](https://aesthetics.fandom.com/wiki/Strawberry_Girl "Strawberry Girl") • [Succubus Chic](https://aesthetics.fandom.com/wiki/Succubus_Chic "Succubus Chic") • [Tenniscore](https://aesthetics.fandom.com/wiki/Tenniscore "Tenniscore") • [That Girl](https://aesthetics.fandom.com/wiki/That_Girl "That Girl") • [Tomato Girl](https://aesthetics.fandom.com/wiki/Tomato_Girl "Tomato Girl") • [Tumbette](https://aesthetics.fandom.com/wiki/Tumbette "Tumbette") • [Vanilla Girl](https://aesthetics.fandom.com/wiki/Vanilla_Girl "Vanilla Girl") |
 
-## Images
-
-- `images/brazilcore-fashion-trend/9eaafb7531c9eaed4cdf2a168f4c69c1.jpg`
-- `images/brazilcore-fashion-trend/0bb5d5364597dac55b46b715cb48f78a.jpg`
-- `images/brazilcore-fashion-trend/4d0cb95a771c1597621be13779e487b0.jpg`
-- `images/brazilcore-fashion-trend/D1b1cb9df0eb7440c23a109d7d6d52c1.jpg`
-- `images/brazilcore-fashion-trend/435d8f57939bcb9f41b7149e643c5984.jpg`
-- `images/brazilcore-fashion-trend/D6d53186e3b03ed2ede26167411df04c.jpg`
-- `images/brazilcore-fashion-trend/Fa7f8ceb435ca69bffcf6db5160d891b.jpg`
-- `images/brazilcore-fashion-trend/Dc7f50ecde2f93618f34193170ec846d.jpg`
-- `images/brazilcore-fashion-trend/Fd5a8fe7d991db1c6ba602ba29f673fd.jpg`
-- `images/brazilcore-fashion-trend/5ef5bfefee1a90935fef95b6896eeca8.jpg`
-- `images/brazilcore-fashion-trend/7f04c681bbb84877653cf3ee4ac48cdd.jpg`
-- `images/brazilcore-fashion-trend/Nmixx.jpg`
-- `images/brazilcore-fashion-trend/BrazilianMiku.jpg`
-
 ## Source and attribution
 
-Text adapted from "Brazilcore (fashion trend)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brazilcore_(fashion_trend)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Brazilcore (fashion trend)" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Brazilcore_(fashion_trend)), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

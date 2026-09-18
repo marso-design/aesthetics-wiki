@@ -11,7 +11,6 @@ related_aesthetics: ["Aliencore", "Fantasy Astronomy", "Galaxy Print", "Signalwa
 source_url: "https://aesthetics.fandom.com/wiki/Spacecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 22
 ---
 
 # Spacecore
@@ -135,31 +134,6 @@ Examples of Spacecore are given around the 2:13 mark.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/spacecore/1f481289a59d481cad42630cfa3b7d8a.jpg`
-- `images/spacecore/Faa729602f07c0dc00852f7e3c05768c.jpg`
-- `images/spacecore/5b55f9d53f0ace9130377c459903bee3.jpg`
-- `images/spacecore/277aae0fa52d59fbad33ba8fbd13ad76.jpg`
-- `images/spacecore/1ca757e08953693013e2569ef6fb6727.jpg`
-- `images/spacecore/003b2e5c00a57e339243f5010d80bcfd.jpg`
-- `images/spacecore/76c1a5432d73393398f4373290d5c747.jpg`
-- `images/spacecore/4595dcc8ebffae9742159c42d976a85d.jpg`
-- `images/spacecore/3ef4442a8af6292a782ac5e3f78123fd.jpg`
-- `images/spacecore/32077f46c0c8f74bf1d2878dc849f4a2.jpg`
-- `images/spacecore/Dceb787d6715329d0c2c8040984558ee.jpg`
-- `images/spacecore/7612c5224e0211bf27b2b314daec6605.jpg`
-- `images/spacecore/31d2845d0dc100d6e1896430c4d8a79b.jpg`
-- `images/spacecore/17548777b3041a54e8f444d6a1a44fe3.jpg`
-- `images/spacecore/C5146abb621d70af0f6c4ca7ca462ab1.jpg`
-- `images/spacecore/E7f0e714ece77538c499ea81ddd03f84.jpg`
-- `images/spacecore/70b25ed5408122f38bcf67b724402a33.jpg`
-- `images/spacecore/9d51013e512824120f11f1e9a6daab6b.jpg`
-- `images/spacecore/0b6536c2052ba4e9860886dc2739bd6e.jpg`
-- `images/spacecore/D1c4ffc3377c7a29e32801948138cf0f.jpg`
-- `images/spacecore/8172b5023d40ffd8672405d2fad115df.jpg`
-- `images/spacecore/6490b1ee8bc8ecbc5f2636e1469fcc4d.jpg`
-
 ## Source and attribution
 
-Text adapted from "Spacecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spacecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Spacecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spacecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Over the Garden Wall", "The Witch (2015)", "music by Dead Can D
 source_url: "https://aesthetics.fandom.com/wiki/Cottagegoth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Cottagegoth
@@ -119,18 +118,6 @@ In contrast to the light and airy sounds of folk, baroque pop, and dream pop tha
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/cottagegoth/CCB6531B-1AAF-403B-84D3-E6C6939F85A2.jpeg`
-- `images/cottagegoth/EFB7124F-1A0E-4A48-9F05-A4D826B9C94A.jpeg`
-- `images/cottagegoth/23A389A0-1D8A-4AE6-8A2E-FBDD41AC9677.jpeg`
-- `images/cottagegoth/96C398D2-894B-489E-9254-89C684F22847.jpeg`
-- `images/cottagegoth/82893039-455E-447D-99A2-31DDF07D4A5D.jpeg`
-- `images/cottagegoth/4c9ca30a08dc3206d3da4cf9b4abc3db.jpg`
-- `images/cottagegoth/WitchMarks.jpg`
-- `images/cottagegoth/E509508B-ED29-4DAD-8841-4DFC6953FDE5.jpeg`
-- `images/cottagegoth/81282172-C788-4D3E-9C42-49D3228BEDFC.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Cottagegoth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cottagegoth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cottagegoth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cottagegoth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

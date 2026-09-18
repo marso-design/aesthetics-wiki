@@ -12,7 +12,6 @@ related_media: ["Muse Dash (videogame)", "Promare (anime film)", "Spider-Man: In
 source_url: "https://aesthetics.fandom.com/wiki/Colorful_Pop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 28
 ---
 
 # Colorful Pop
@@ -82,37 +81,6 @@ Noisemaster from Cucumberquest
 
 ## References
 
-## Images
-
-- `images/colorful-pop/SUPERDREAMZONE.jpg`
-- `images/colorful-pop/Static-assets-upload18114403708558334610.webp`
-- `images/colorful-pop/FiTL29zUAAAmTVE.webp`
-- `images/colorful-pop/Wacca.webp`
-- `images/colorful-pop/Static-assets-upload2757398871425981404.webp`
-- `images/colorful-pop/Static-assets-upload17114299779786668089.webp`
-- `images/colorful-pop/Static-assets-upload2741933608207177886.webp`
-- `images/colorful-pop/Static-assets-upload12427949348800019146.webp`
-- `images/colorful-pop/57194847-0.webp`
-- `images/colorful-pop/Static-assets-upload5816086411260812576.webp`
-- `images/colorful-pop/Static-assets-upload16065512886954886966.webp`
-- `images/colorful-pop/Static-assets-upload13093859980614188399.webp`
-- `images/colorful-pop/Static-assets-upload6717921827429466457.webp`
-- `images/colorful-pop/Static-assets-upload13094831547708722782.webp`
-- `images/colorful-pop/Static-assets-upload642683683657086530.webp`
-- `images/colorful-pop/Static-assets-upload16620122095298263152.webp`
-- `images/colorful-pop/4434444.webp`
-- `images/colorful-pop/49a23275c535f21afbafdf673b88ef03.jpg`
-- `images/colorful-pop/B2f0fc658784cf45397f51883d2ca09f.jpg`
-- `images/colorful-pop/9b469af34783e4d1ac01391fcd9c12e0.jpg`
-- `images/colorful-pop/7dd63bc8dd969b98a5c75c47c6b6dfa3.jpg`
-- `images/colorful-pop/F998435d74e4d2ee27c6c026aa431d52.jpg`
-- `images/colorful-pop/F944c54e9f7b0dfa2ea2c906884e7f2d.jpg`
-- `images/colorful-pop/Dbf4a248bf66bf770217ee945f74c232.jpg`
-- `images/colorful-pop/Dab1a91f9b7fa85565791d489f53545c.jpg`
-- `images/colorful-pop/2a8a134341d5ef4bb240c5bba93c2dec.jpg`
-- `images/colorful-pop/5fdd6fef0754c3d3500b9f2a963cc3b8.jpg`
-- `images/colorful-pop/B60e5d2b5011461d10415e06f160e745.jpg`
-
 ## Source and attribution
 
-Text adapted from "Colorful Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Colorful_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Colorful Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Colorful_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

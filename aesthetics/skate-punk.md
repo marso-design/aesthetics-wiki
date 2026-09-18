@@ -10,7 +10,6 @@ palette: ["#373737", "#ECECEC", "#686868", "#B7B7B7", "#525252", "#989898"]
 source_url: "https://aesthetics.fandom.com/wiki/Skate_Punk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Skate Punk
@@ -79,10 +78,6 @@ Pop-Punk would be an evolution from the Skatepunk look, with blink-182, Unwritte
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/skate-punk/Skatepunk.png`
-
 ## Source and attribution
 
-Text adapted from "Skate Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skate_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Skate Punk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Skate_Punk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -12,7 +12,6 @@ related_media: ["Magazines (egg, Ranzuki)"]
 source_url: "https://aesthetics.fandom.com/wiki/Amekaji"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 2
 ---
 
 # Amekaji
@@ -70,11 +69,6 @@ Amekaji gyaru was popular during late 1990s and early 2000s. This substyle is in
 | --- | --- | --- |
 | [Agejo](https://aesthetics.fandom.com/wiki/Agejo "Agejo") ❀ **Amekaji** ❀ Ane Gyaru ❀ B-Gyaru ❀ [Ganguro](https://aesthetics.fandom.com/wiki/Ganguro "Ganguro") ❀ [Gyaruo](https://aesthetics.fandom.com/wiki/Gyaruo "Gyaruo") ❀ [Hime Gyaru](https://aesthetics.fandom.com/wiki/Hime_Gyaru "Hime Gyaru") ❀ [Himekaji](https://aesthetics.fandom.com/wiki/Himekaji "Himekaji") ❀ [Kogal](https://aesthetics.fandom.com/wiki/Kogal "Kogal") ❀ [Manba](https://aesthetics.fandom.com/wiki/Manba "Manba") ❀ Mode Gyaru ❀ [Neo Gyaru](https://aesthetics.fandom.com/wiki/Neo_Gyaru "Neo Gyaru") ❀ [Onee Gyaru](https://aesthetics.fandom.com/wiki/Onee_Gyaru "Onee Gyaru") ❀ Ora Ora Kei ❀ Rokku ❀ [Tsuyome Gyaru](https://aesthetics.fandom.com/wiki/Tsuyome_Gyaru "Tsuyome Gyaru") ❀ Yamanba |
 
-## Images
-
-- `images/amekaji/Amekaji3.jpg`
-- `images/amekaji/Amekajiguys.webp`
-
 ## Source and attribution
 
-Text adapted from "Amekaji" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Amekaji), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Amekaji" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Amekaji), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

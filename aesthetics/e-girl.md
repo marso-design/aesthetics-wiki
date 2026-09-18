@@ -12,7 +12,6 @@ primary_platform: ["TikTok", "Discord"]
 source_url: "https://aesthetics.fandom.com/wiki/E-Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # E-Girl
@@ -230,24 +229,6 @@ blackpink circa 2016 during their debut era
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/e-girl/E-GirlInfobox.png`
-- `images/e-girl/Egirl.jpg`
-- `images/e-girl/Egirl-makeup-green-bangs.jpg`
-- `images/e-girl/Egirl-heart-lock.jpg`
-- `images/e-girl/Purple-black-fishnets-nails.jpg`
-- `images/e-girl/Wp8935351.jpg`
-- `images/e-girl/0810c62091b7975470cc96233cfb71b3.jpg`
-- `images/e-girl/Egirl-stripes-plaid.jpg`
-- `images/e-girl/F993fe308db4ca1640926ab5a63788a2.jpg`
-- `images/e-girl/Aesthetic-grunge-style-chains-186512-8outfits.jpg`
-- `images/e-girl/Egirlfit4.jpg`
-- `images/e-girl/78944b08613f1688c0df83c852fea246.jpg`
-- `images/e-girl/Egirlfit3.jpg`
-- `images/e-girl/Egirlfit1.jpg`
-- `images/e-girl/Egirlfit2.jpg`
-
 ## Source and attribution
 
-Text adapted from "E-Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/E-Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "E-Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/E-Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/Olderbrothercore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 20
 ---
 
 # Olderbrothercore
@@ -187,29 +186,6 @@ PlayStation 3 Commercials Tv Ads Vol1
 
 ## References
 
-## Images
-
-- `images/olderbrothercore/OlderbrothercoreNew.jpg`
-- `images/olderbrothercore/Room2.jpg`
-- `images/olderbrothercore/Shelf.jpg`
-- `images/olderbrothercore/Avatars-FQESSEPaIHlH9Ojg-17xRfA-t500x500.jpg`
-- `images/olderbrothercore/Dhfnsbrgvhgnfgndsg.png.png`
-- `images/olderbrothercore/5273cfb069beddee5aafe9a3.webp.webp`
-- `images/olderbrothercore/Whcvwekhdbwkcbwkjedbkqnbskqw.jpg`
-- `images/olderbrothercore/GTC7fufWwAAmxUr.jpg`
-- `images/olderbrothercore/Cbf209dc9cf372a101a6208d74d7a471.jpg`
-- `images/olderbrothercore/5276af39adf2a4875a0f6f95bc29779d.jpg`
-- `images/olderbrothercore/96b12e1fcd15d9c31a20a4b663ae7c44.jpg`
-- `images/olderbrothercore/275dff5046c5f49e53c39a806d5481ac.jpg`
-- `images/olderbrothercore/707e018e997ed066a22f97723215a82c.jpg`
-- `images/olderbrothercore/2390a85676c816787262e3681468d191.jpg`
-- `images/olderbrothercore/Cbf9303f2ff707977670c7c785938e87.jpg`
-- `images/olderbrothercore/Cddce62e9a1f472890c5e77386f0c8cc.jpg`
-- `images/olderbrothercore/526e78237a2109423310965834d9f2a3.jpg`
-- `images/olderbrothercore/B8c004e121e4466ef0b6dc42b4881890.jpg`
-- `images/olderbrothercore/A866d64d12246a671d2833b8e1cb9a82.jpg`
-- `images/olderbrothercore/4eda0b974b68efaa667692a26d40f502.jpg`
-
 ## Source and attribution
 
-Text adapted from "Olderbrothercore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Olderbrothercore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Olderbrothercore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Olderbrothercore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

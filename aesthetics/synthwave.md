@@ -12,7 +12,6 @@ related_media: ["Drive (2011)", "Hotline Miami (2012)", "Kung Fury", "Stranger T
 source_url: "https://aesthetics.fandom.com/wiki/Synthwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 25
 ---
 
 # Synthwave
@@ -170,34 +169,6 @@ While early Synthwave (Outrun) was almost exclusively electronic, modern iterati
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/synthwave/Synth-sunset-.gif`
-- `images/synthwave/1spTU5.png`
-- `images/synthwave/6LhIQH.jpg`
-- `images/synthwave/6JQcW4.jpg`
-- `images/synthwave/7zlSOB.jpg`
-- `images/synthwave/3lETRc.jpg`
-- `images/synthwave/2UGBkp.png`
-- `images/synthwave/1DjRvk.jpg`
-- `images/synthwave/0U4IPt.jpg`
-- `images/synthwave/8ncj88qz0evy.jpg`
-- `images/synthwave/5UOETr.jpg`
-- `images/synthwave/BIKMGd.jpg`
-- `images/synthwave/Wp1895685.jpg`
-- `images/synthwave/Wp1895665.jpg`
-- `images/synthwave/ALOCeJ.jpg`
-- `images/synthwave/8vKLuQ.png`
-- `images/synthwave/ASGeYv.jpg`
-- `images/synthwave/Dddd220b1458dc3124516aa02528eecb.gif`
-- `images/synthwave/D4153c91c0e1206bffbf61c2dcd3fe19.gif`
-- `images/synthwave/A503bb003d737cc8-.gif`
-- `images/synthwave/R0stFAv.gif`
-- `images/synthwave/Tenor2.gif`
-- `images/synthwave/2023581e3d7c26353e6f0f5ad5b7f609.jpg`
-- `images/synthwave/Synthwave-and-Vaporwave-Tutorial-Look-of-Synthwave.jpg`
-- `images/synthwave/Synthwave-RosePink.gif`
-
 ## Source and attribution
 
-Text adapted from "Synthwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Synthwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Synthwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Synthwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

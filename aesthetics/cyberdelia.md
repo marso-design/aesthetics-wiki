@@ -11,7 +11,6 @@ related_media: ["Hackers", "The Lawnmower Man", "LSD: Dream Emulator", "Worlds.c
 source_url: "https://aesthetics.fandom.com/wiki/Cyberdelia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Cyberdelia
@@ -68,10 +67,6 @@ The sound of Cyberdelia is primarily rooted in the electronic music of the late 
 | Fusion Aesthetics |
 | [Acid Design](https://aesthetics.fandom.com/wiki/Acid_Design "Acid Design") ☺ **Cyberdelia** ☺ [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") ☺ [New Rave](https://aesthetics.fandom.com/wiki/New_Rave "New Rave") |
 
-## Images
-
-- `images/cyberdelia/FMvSo4OVUAMOJww.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cyberdelia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyberdelia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyberdelia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyberdelia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

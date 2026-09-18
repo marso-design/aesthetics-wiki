@@ -10,7 +10,6 @@ related_media: ["Windows Destruction"]
 source_url: "https://aesthetics.fandom.com/wiki/Dollar_Store_Vernacular"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Dollar Store Vernacular
@@ -60,19 +59,6 @@ Commercial for American Freight stores
 
 "Windows Glass Xp Super" startup screen
 
-## Images
-
-- `images/dollar-store-vernacular/777.webp`
-- `images/dollar-store-vernacular/444.webp`
-- `images/dollar-store-vernacular/555.webp`
-- `images/dollar-store-vernacular/888.png`
-- `images/dollar-store-vernacular/Default-large.jpg`
-- `images/dollar-store-vernacular/Helloooo09988888.jpg`
-- `images/dollar-store-vernacular/Okkkkkkkkkkkkk.jpg`
-- `images/dollar-store-vernacular/DSVhalloween1.webp`
-- `images/dollar-store-vernacular/DSVhalloween2.jpg`
-- `images/dollar-store-vernacular/7p46j1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Dollar Store Vernacular" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dollar_Store_Vernacular), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Dollar Store Vernacular" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Dollar_Store_Vernacular), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

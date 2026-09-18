@@ -5,7 +5,6 @@ palette: ["#191313", "#6C2938", "#51698E", "#CCB2A7", "#899FAA", "#9B605B"]
 source_url: "https://aesthetics.fandom.com/wiki/Y2K"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 21
 ---
 
 # Y2K
@@ -72,30 +71,6 @@ The Best of 90s Cool - The Genre that Time Forgot
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ [Cyber Stylin'](https://aesthetics.fandom.com/wiki/Cyber_Stylin%27 "Cyber Stylin'") ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/y2k/Y2kglasses.png`
-- `images/y2k/Apple-imac-g3-anniversary.jpg`
-- `images/y2k/31666ca3eb6171a3e2e5f1e85665ddf2.jpg`
-- `images/y2k/Madonnamusic.png`
-- `images/y2k/D282641D-C843-4D55-BCF5-82D649D4717A.png`
-- `images/y2k/2001denim.jpg`
-- `images/y2k/Gen-X-Soft-Club.jpg`
-- `images/y2k/805d55de1b64170cecb070e2f2d7fd6d.png`
-- `images/y2k/AS3.png`
-- `images/y2k/Wip3out.jpg`
-- `images/y2k/Slazenation1999.png`
-- `images/y2k/Computererror.png`
-- `images/y2k/Osloathletico.png`
-- `images/y2k/EeyQlyXXsAEEUps.jpg`
-- `images/y2k/Whec2uf2uun81.png`
-- `images/y2k/Sonywalkman.webp`
-- `images/y2k/23fd2d0ff9d80d935d9aa8b688643d44.jpg`
-- `images/y2k/D24EBIpU0AADeZt.jpg`
-- `images/y2k/Untitled.design1.png`
-- `images/y2k/Dd8SgohVMAA3kmY.jpg`
-- `images/y2k/Y2KFashion.jpg`
-
 ## Source and attribution
 
-Text adapted from "Y2K" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Y2K), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Y2K" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Y2K), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

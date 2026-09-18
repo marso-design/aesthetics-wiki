@@ -11,7 +11,6 @@ related_aesthetics: ["Babycore", "Frutiger Aero", "Icepunk", "Kawaii", "Kidcore"
 source_url: "https://aesthetics.fandom.com/wiki/Cleancore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 44
 ---
 
 # Cleancore
@@ -60,53 +59,6 @@ Pinkalicious book
 
 ## References
 
-## Images
-
-- `images/cleancore/Soapgel.jpg`
-- `images/cleancore/Aero6.png`
-- `images/cleancore/7943616ff08db059cded3169e331c15f.jpg`
-- `images/cleancore/50607f71c7363f61b34ed48c47c643c2.jpg`
-- `images/cleancore/Toothbrush.jpg`
-- `images/cleancore/Cleancore2.jpg`
-- `images/cleancore/Washwashwash.jpg`
-- `images/cleancore/Cleancore.jpeg`
-- `images/cleancore/Cleancore3.jpg`
-- `images/cleancore/Purrel.png`
-- `images/cleancore/Cleancore-and-frutiger-aero-pastel.jpg`
-- `images/cleancore/Aquajel.jpg`
-- `images/cleancore/61778755bf026319451e4357b450c54e.jpg`
-- `images/cleancore/Ecbd08f23e9b2eb4536476f4b82d45e9.jpg`
-- `images/cleancore/18da138c6ec6b39ac41394dcd6847997.jpg`
-- `images/cleancore/49d3fc55efc213067dc28387aae984d0.jpg`
-- `images/cleancore/F395e5171022b60f7289e75abbea76cf.jpg`
-- `images/cleancore/61b3e84d470c206681f3b3f60a9ff2e7.jpg`
-- `images/cleancore/61747d9b9bf963ef1050e316b9ddc249.jpg`
-- `images/cleancore/89a5eb3e9886641337347825b9966efb.jpg`
-- `images/cleancore/04ac48615bef73176d51207ad00faa35.jpg`
-- `images/cleancore/67ab44c02c90e098e78e49d00358d187.jpg`
-- `images/cleancore/0e765980bf59494f56496c91454266e2.jpg`
-- `images/cleancore/169c4babcea013f125099669a4f31011.jpg`
-- `images/cleancore/Ca09907d9f56d2194af44de17be301af.jpg`
-- `images/cleancore/2bc67fdc3ae2b7102d1c6974fbb71f69.jpg`
-- `images/cleancore/Fa98648991aa47c6063664fc51d3eaff.jpg`
-- `images/cleancore/E7bb44ae5e7d58f9d3604bf339c02e0f.jpg`
-- `images/cleancore/6e5e41a124a1be3288476ba662be81d5.jpg`
-- `images/cleancore/5bf9d0e13f0f13f8e4f165771892c016.jpg`
-- `images/cleancore/Ba68fd78b9c444f84c80e6d3ece1e18c.jpg`
-- `images/cleancore/C2345f89bc7bd1220553a43622ec96fb.jpg`
-- `images/cleancore/B326dcc41c24daf25d199cca8de75d2f.jpg`
-- `images/cleancore/Af088eb4214de3d986ea9672be99c2f8.jpg`
-- `images/cleancore/22666b4b22cff54c7bfd81e823e16f45.jpg`
-- `images/cleancore/Ca63b178689e8bcb9082d9d4b733a6bf.jpg`
-- `images/cleancore/Bd105df4d2bbab327b76e6ee87452690.jpg`
-- `images/cleancore/0cfbb1278ae53732b669eb6ffb900558.jpg`
-- `images/cleancore/Agg.jpg`
-- `images/cleancore/Aggg.jpg`
-- `images/cleancore/Aggggg.jpg`
-- `images/cleancore/Agggg.jpg`
-- `images/cleancore/Bath.gif`
-- `images/cleancore/Surrealcore.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cleancore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cleancore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cleancore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cleancore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

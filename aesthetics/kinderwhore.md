@@ -11,7 +11,6 @@ related_media: ["Hole's \"Miss World\" music video", "Sassy magazine features"]
 source_url: "https://aesthetics.fandom.com/wiki/Kinderwhore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Kinderwhore
@@ -85,22 +84,6 @@ Kat Bjelland of the band Babes in Toyland
 | Related Movements |
 | [Basque Radical Rock](https://aesthetics.fandom.com/wiki/Basque_Radical_Rock "Basque Radical Rock") ✖ [Bravú](https://aesthetics.fandom.com/wiki/Brav%C3%BA "Bravú") ✖ [Deathrock](https://aesthetics.fandom.com/wiki/Deathrock "Deathrock") ✖ [Movida Madrileña](https://aesthetics.fandom.com/wiki/Movida_Madrile%C3%B1a "Movida Madrileña") ✖ [No Wave](https://aesthetics.fandom.com/wiki/No_Wave "No Wave") ✖ [Post-Punk](https://aesthetics.fandom.com/wiki/Post-Punk "Post-Punk") |
 
-## Images
-
-- `images/kinderwhore/KW.jpeg`
-- `images/kinderwhore/553c4f40071da588cc1c4bd4042a4fa6.jpg`
-- `images/kinderwhore/Kinder-whore-red.jpg`
-- `images/kinderwhore/Kinder-whore-pink-skirt.jpg`
-- `images/kinderwhore/Kinder-whore-nasty-gal.jpg`
-- `images/kinderwhore/Kinder-whore-modern.jpg`
-- `images/kinderwhore/Kinder-whore-grunge.jpg`
-- `images/kinderwhore/Kinder-whore-cigarette.jpg`
-- `images/kinderwhore/Kinder-whore-picnic.jpg`
-- `images/kinderwhore/Kinder-whore-heart.jpg`
-- `images/kinderwhore/7262B1E2-3000-40A2-B137-6CC68364B0E3.jpeg`
-- `images/kinderwhore/51C1CEA3-35E7-4C0D-9356-B99EAC96B9B0.jpeg`
-- `images/kinderwhore/1371409.webp`
-
 ## Source and attribution
 
-Text adapted from "Kinderwhore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kinderwhore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kinderwhore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kinderwhore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

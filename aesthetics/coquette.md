@@ -5,7 +5,6 @@ palette: ["#830A1C", "#5F6252", "#A18F7C", "#C8B7AE", "#956A5B", "#D9D4CF"]
 source_url: "https://aesthetics.fandom.com/wiki/Coquette"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 34
 ---
 
 # Coquette
@@ -177,43 +176,6 @@ As a fashion style, it is inspired by the female protagonists of Japanese horror
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/coquette/138441577fc2238cb4fffb44f7991f4d.jpg`
-- `images/coquette/16e4b3c1311001ef72de4ce41f8017fc.jpg`
-- `images/coquette/1d24f0f4135cc3fd65b055530105522d.jpg`
-- `images/coquette/22f05baae1e71a031a5f6866bc533f00.jpg`
-- `images/coquette/422ef6761090c84b9cf5d562bb9f82e1.jpg`
-- `images/coquette/5b51c4569ef3a55a0717956eb1f98f17.jpg`
-- `images/coquette/85afdcbcf2cf27b62c0af67e71a3a150.jpg`
-- `images/coquette/B6f98b72a60e0035181765c390f3299f.jpg`
-- `images/coquette/C53532b85c932403c06cefee54a18023.jpg`
-- `images/coquette/E82ac2dea2855b2c4e0d8abab9022e94.jpg`
-- `images/coquette/Darknymphet4.jpg`
-- `images/coquette/Darknymphet8.jpg`
-- `images/coquette/Darknymphet6.png`
-- `images/coquette/Wonyoung10.jpg`
-- `images/coquette/Dollette1.png`
-- `images/coquette/KWK2.jpg`
-- `images/coquette/KWK3.jpg`
-- `images/coquette/9536e598c74f8eed9168721205a3346b.jpg`
-- `images/coquette/Whisper.jpg`
-- `images/coquette/Mfg.pinterest.lilyrosedepp1.jpg`
-- `images/coquette/Gloomycoquette2.jpeg`
-- `images/coquette/4eddb5e20da2b991577d3bfa683f2743.jpg`
-- `images/coquette/48bb328711d419801b29063fa1b0e983.jpg`
-- `images/coquette/Fd6a19ef7205e5149943ab4fff662152.jpg`
-- `images/coquette/01184d1e21545bf7dd472d18f90545c0.jpg`
-- `images/coquette/4279abba6367a1202f3db998c10d88aa.jpg`
-- `images/coquette/F403909e7d725117b24ceca22127cb16.jpg`
-- `images/coquette/Poetry.jpeg`
-- `images/coquette/4567845678.jpg`
-- `images/coquette/D41eb1ef3560f92be27be693057dbcc3.jpg`
-- `images/coquette/F146b6c11caaddbfaae061130360d0b3.jpg`
-- `images/coquette/69ffe3a1c7c28a130fa36ebff624718e.jpg`
-- `images/coquette/4f3bbbfb80aad4c9a0f2ec64e9e7d5b1.jpg`
-- `images/coquette/Miobio.png`
-
 ## Source and attribution
 
-Text adapted from "Coquette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Coquette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Coquette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Coquette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

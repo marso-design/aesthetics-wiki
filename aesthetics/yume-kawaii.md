@@ -11,7 +11,6 @@ related_aesthetics: ["Animecore", "Babycore", "Decora", "Fairy Kei", "Harajuku F
 source_url: "https://aesthetics.fandom.com/wiki/Yume_Kawaii"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Yume Kawaii
@@ -102,19 +101,6 @@ There are many circle lenses, glitter under the eyes, and pop impressions. There
 
 Tom and Jerry Play
 
-## Images
-
-- `images/yume-kawaii/EHCJw5YUcAA4Rog.jpg`
-- `images/yume-kawaii/EZbdSc-UwAAvS0G.jpg`
-- `images/yume-kawaii/Magical-girl-weapons.jpg`
-- `images/yume-kawaii/027.jpg`
-- `images/yume-kawaii/Pillow-bag.jpg`
-- `images/yume-kawaii/Yumekawaii-girls.jpg`
-- `images/yume-kawaii/020.jpg`
-- `images/yume-kawaii/Magical-girl-syringe.jpg`
-- `images/yume-kawaii/ETyM15zUUAAfRJV.jpg`
-- `images/yume-kawaii/7d4b73df718d8bb9a6183d667671c3fc.jpg`
-
 ## Source and attribution
 
-Text adapted from "Yume Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yume_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Yume Kawaii" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Yume_Kawaii), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

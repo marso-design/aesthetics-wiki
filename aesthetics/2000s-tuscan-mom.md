@@ -11,7 +11,6 @@ primary_platform: ["TikTok"]
 source_url: "https://aesthetics.fandom.com/wiki/2000s_Tuscan_Mom"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # 2000s Tuscan Mom
@@ -118,19 +117,6 @@ a TikTok from user @nostalgialenses posted on April 6th, 2026
 
 ## References
 
-## Images
-
-- `images/2000s-tuscan-mom/TuscanMom1.jpg`
-- `images/2000s-tuscan-mom/TuscanMom4.png`
-- `images/2000s-tuscan-mom/TuscanMom7.jpg`
-- `images/2000s-tuscan-mom/TuscanMom3.jpg`
-- `images/2000s-tuscan-mom/TuscanMom9.jpg`
-- `images/2000s-tuscan-mom/TuscanMom6.jpg`
-- `images/2000s-tuscan-mom/TuscanMom2.jpg`
-- `images/2000s-tuscan-mom/TuscanMom5.jpg`
-- `images/2000s-tuscan-mom/TuscanMom10.jpg`
-- `images/2000s-tuscan-mom/TuscanMom8.jpg`
-
 ## Source and attribution
 
-Text adapted from "2000s Tuscan Mom" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2000s_Tuscan_Mom), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2000s Tuscan Mom" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2000s_Tuscan_Mom), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

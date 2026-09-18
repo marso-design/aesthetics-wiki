@@ -9,7 +9,6 @@ related_aesthetics: ["Baroque", "Orientalism", "Rococo"]
 source_url: "https://aesthetics.fandom.com/wiki/Chinoiserie"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Chinoiserie
@@ -40,4 +39,4 @@ Chinoiserie fashion is characterized by its incorporation of China-inspired elem
 
 ## Source and attribution
 
-Text adapted from "Chinoiserie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chinoiserie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chinoiserie" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chinoiserie), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

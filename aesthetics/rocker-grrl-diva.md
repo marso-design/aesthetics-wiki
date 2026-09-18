@@ -13,7 +13,6 @@ related_media: ["Josie and the Pussycats (2001)", "Bratz Rock Angelz (2005)"]
 source_url: "https://aesthetics.fandom.com/wiki/Rocker_Grrl_Diva"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Rocker Grrl Diva
@@ -44,21 +43,6 @@ In marketing and UI, the aesthetic is characterized by "punky" or handwritten-st
 
 ## References
 
-## Images
-
-- `images/rocker-grrl-diva/BratzRockAngelz.webp`
-- `images/rocker-grrl-diva/RockerGirl3.jpg`
-- `images/rocker-grrl-diva/RockerGirl1.jpg`
-- `images/rocker-grrl-diva/RockerGirl4.jpg`
-- `images/rocker-grrl-diva/RockerGrrlDivaloveme.webp`
-- `images/rocker-grrl-diva/Rockstardivagrrldollface.webp`
-- `images/rocker-grrl-diva/Rocker-grrl-diva.webp`
-- `images/rocker-grrl-diva/PreppyPunkdooll.webp`
-- `images/rocker-grrl-diva/Om51bGx9fQ==Preppypunk.webp`
-- `images/rocker-grrl-diva/BadKittens.webp`
-- `images/rocker-grrl-diva/PreppyPunkSreetchicrockergrrldiva.webp`
-- `images/rocker-grrl-diva/StreetChicPreppyPunkRGD.webp`
-
 ## Source and attribution
 
-Text adapted from "Rocker Grrl Diva" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rocker_Grrl_Diva), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Rocker Grrl Diva" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Rocker_Grrl_Diva), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

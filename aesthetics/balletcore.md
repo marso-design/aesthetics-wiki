@@ -10,7 +10,6 @@ related_aesthetics: ["Ballet", "Coquette", "Cult Party Kei", "Dollcore", "Dollet
 source_url: "https://aesthetics.fandom.com/wiki/Balletcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Balletcore
@@ -73,26 +72,6 @@ Explaining the ballet trend in fashion (balletcore)
 
 ## References
 
-## Images
-
-- `images/balletcore/Balletcore.png`
-- `images/balletcore/Balletcore1.jpg`
-- `images/balletcore/Balletcore2.jpg`
-- `images/balletcore/Balletcore3.jpg`
-- `images/balletcore/Balletcore4.jpg`
-- `images/balletcore/Balletcore5.jpg`
-- `images/balletcore/Balletcore6.jpg`
-- `images/balletcore/Balletcore7.jpg`
-- `images/balletcore/Balletcore8.jpg`
-- `images/balletcore/Balletcore9.jpg`
-- `images/balletcore/Balletcore10.jpg`
-- `images/balletcore/Balletcore11.jpg`
-- `images/balletcore/Ballet1.jpg`
-- `images/balletcore/Ballet2.jpg`
-- `images/balletcore/Ballet3.jpg`
-- `images/balletcore/Ballet4.jpg`
-- `images/balletcore/Ballet5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Balletcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Balletcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Balletcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Balletcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

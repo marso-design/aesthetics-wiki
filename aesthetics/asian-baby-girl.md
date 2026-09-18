@@ -11,7 +11,6 @@ related_aesthetics: ["Baddie", "Femme Fatale", "Sukeban"]
 source_url: "https://aesthetics.fandom.com/wiki/Asian_Baby_Girl"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Asian Baby Girl
@@ -93,18 +92,6 @@ Lil Mariko
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/asian-baby-girl/ABG1.jpg`
-- `images/asian-baby-girl/AGB3.jpg`
-- `images/asian-baby-girl/AGB2.jpg`
-- `images/asian-baby-girl/ABG4.jpg`
-- `images/asian-baby-girl/ABG5.jpg`
-- `images/asian-baby-girl/A341d7e7ef222a9827ec1536c15c8f80.jpg`
-- `images/asian-baby-girl/6d75a2b9bfc99b00ac65cde0a4489f04.jpg`
-- `images/asian-baby-girl/C2ef9173453ace6c1718fb4b4017f3ad.jpg`
-- `images/asian-baby-girl/F43527abca9cbbd7e659b6a6bd8b2006.jpg`
-
 ## Source and attribution
 
-Text adapted from "Asian Baby Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Asian_Baby_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Asian Baby Girl" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Asian_Baby_Girl), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

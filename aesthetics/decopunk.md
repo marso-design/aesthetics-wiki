@@ -9,7 +9,6 @@ palette: ["#4B4138", "#B6ADA1", "#5A685C", "#0F0E0E", "#262221", "#807867"]
 source_url: "https://aesthetics.fandom.com/wiki/Decopunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 4
 ---
 
 # Decopunk
@@ -84,13 +83,6 @@ Other works of fiction associated with Decopunk include the works of H.P. Lovecr
 
 Welcome to the Decopunk Future
 
-## Images
-
-- `images/decopunk/Example.jpeg`
-- `images/decopunk/Empirestate.jpg`
-- `images/decopunk/Debbie-ash-decopunk11.jpg`
-- `images/decopunk/Metropolis-Tower-of-Babel.jpg`
-
 ## Source and attribution
 
-Text adapted from "Decopunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Decopunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Decopunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Decopunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

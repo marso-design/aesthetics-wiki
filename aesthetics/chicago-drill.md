@@ -11,7 +11,6 @@ related_media: ["YouTube (DGainz, A Zae)", "WorldStarHipHop"]
 source_url: "https://aesthetics.fandom.com/wiki/Chicago_Drill"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Chicago Drill
@@ -107,22 +106,6 @@ Vocally, the genre is distinct for its "deadpan" delivery. Artists often rap in 
 | Pop & Global Sounds |
 | [Akibapop](https://aesthetics.fandom.com/wiki/Akibapop "Akibapop") • [City Pop](https://aesthetics.fandom.com/wiki/City_Pop "City Pop") • [Disco Polo](https://aesthetics.fandom.com/wiki/Disco_Polo "Disco Polo") • [K-Pop](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Lithuanian Eurodisco](https://aesthetics.fandom.com/wiki/Lithuanian_Eurodisco "Lithuanian Eurodisco") • [Recession Pop](https://aesthetics.fandom.com/wiki/Recession_Pop "Recession Pop") • [Shibuya-Kei](https://aesthetics.fandom.com/wiki/Shibuya-Kei "Shibuya-Kei") • [Yé-yé](https://aesthetics.fandom.com/wiki/Y%C3%A9-y%C3%A9 "Yé-yé")  [2 Tone](https://aesthetics.fandom.com/wiki/2_Tone "2 Tone") • [Chicha](https://aesthetics.fandom.com/wiki/Chicha "Chicha") • [Country](https://aesthetics.fandom.com/wiki/Country "Country") • [Flamenco](https://aesthetics.fandom.com/wiki/Flamenco "Flamenco") • [Neofolk](https://aesthetics.fandom.com/wiki/Neofolk "Neofolk") • [Neoperreo](https://aesthetics.fandom.com/wiki/Neoperreo "Neoperreo") • [Reggae](https://aesthetics.fandom.com/wiki/Reggae "Reggae") • [Reggaetonero](https://aesthetics.fandom.com/wiki/Reggaetonero "Reggaetonero") • [Tango](https://aesthetics.fandom.com/wiki/Tango "Tango") • [Tumbado](https://aesthetics.fandom.com/wiki/Tumbado "Tumbado") |
 
-## Images
-
-- `images/chicago-drill/ChiefKeef.jpg`
-- `images/chicago-drill/2b95d027e9f61f6111948592929af261.jpg`
-- `images/chicago-drill/52e19b05724fb6462ac5e89dca9a2140.jpg`
-- `images/chicago-drill/A19f53e6bad728d8f35d2d8a445d87eb.jpg`
-- `images/chicago-drill/Ee0d49e084bba7d37057952f2d6245aa.jpg`
-- `images/chicago-drill/A5a5f9f6adf6d73651ae278ab476e88b.jpg`
-- `images/chicago-drill/5f27199ee26432170b7d86a1d411c70d.jpg`
-- `images/chicago-drill/484bffa5cb70d1fd8e9044bb28ae2743.jpg`
-- `images/chicago-drill/51370f864aca53a21774dd341dd6f2b0.jpg`
-- `images/chicago-drill/19018c6091390eb5f9221c4036dab4c3.jpg`
-- `images/chicago-drill/D9ce8ae5d46116cf65003a3c9747ecb9.jpg`
-- `images/chicago-drill/E7205b577b8fc10dab472f023f35a6af.jpg`
-- `images/chicago-drill/3092f0f47c4e313a1b43f4142e9b84d5.jpg`
-
 ## Source and attribution
 
-Text adapted from "Chicago Drill" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chicago_Drill), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Chicago Drill" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Chicago_Drill), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

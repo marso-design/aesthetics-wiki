@@ -12,7 +12,6 @@ related_media: ["Berlin Bouncer (documentary)", "Trainspotting (film)"]
 source_url: "https://aesthetics.fandom.com/wiki/Berlin_Techno_Fashion"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 12
 ---
 
 # Berlin Techno Fashion
@@ -62,21 +61,6 @@ As Berghain co-owner Michael Teufele has described it, the sound of the club is 
 
 ## References
 
-## Images
-
-- `images/berlin-techno-fashion/BERLINSTYLE-VOGUEB-4225-STORY.webp`
-- `images/berlin-techno-fashion/500e0e48a79ad4b22bdc5b94886d4117.jpg`
-- `images/berlin-techno-fashion/94ae9eab1529efe51529e01c18429c06.jpg`
-- `images/berlin-techno-fashion/90er-Techno-Mode-T.-Brembs-700x1043-1.webp`
-- `images/berlin-techno-fashion/Columbist-photoshoot-5-265x370.jpg`
-- `images/berlin-techno-fashion/Image-7.jpg`
-- `images/berlin-techno-fashion/Columbist-photoshoot-4.jpg`
-- `images/berlin-techno-fashion/Ed8c22ab8a82837129127090f4a8088c.jpg`
-- `images/berlin-techno-fashion/9rktryforzw71.webp`
-- `images/berlin-techno-fashion/Fc267b4fddd9516e356b220fec8df0db.jpg`
-- `images/berlin-techno-fashion/Berlin-Waves-Mrt1-1080x1587-960x1411.jpg`
-- `images/berlin-techno-fashion/44LabelGroup-mens-ss23-012.webp`
-
 ## Source and attribution
 
-Text adapted from "Berlin Techno Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Berlin_Techno_Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Berlin Techno Fashion" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Berlin_Techno_Fashion), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

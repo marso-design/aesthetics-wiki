@@ -12,7 +12,6 @@ related_media: ["girlsgogames.com", "MyScene", "Candybar Dollmaker", "Miss Bimbo
 source_url: "https://aesthetics.fandom.com/wiki/Cyber_Stylin'"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 40
 ---
 
 # Cyber Stylin'
@@ -213,49 +212,6 @@ Cover art for "U + Me" by Coco & Clair Clair
 | --- | --- | --- |
 | [90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool "90s Cool") ◉ [Bubblegum Dance](https://aesthetics.fandom.com/wiki/Bubblegum_Dance "Bubblegum Dance") ◉ [Chromecore](https://aesthetics.fandom.com/wiki/Chromecore "Chromecore") ◉ [Cyber Grunge](https://aesthetics.fandom.com/wiki/Cyber_Grunge "Cyber Grunge") ◉ **Cyber Stylin'** ◉ [FantasY2K](https://aesthetics.fandom.com/wiki/FantasY2K "FantasY2K") ◉ [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ◉ [Gen X Soft Club](https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club "Gen X Soft Club") ◉ [Low Poly](https://aesthetics.fandom.com/wiki/Low_Poly "Low Poly") ◉ [McBling](https://aesthetics.fandom.com/wiki/McBling "McBling") ◉ [Metalheart](https://aesthetics.fandom.com/wiki/Metalheart "Metalheart") ◉ [Shibuya Punk](https://aesthetics.fandom.com/wiki/Shibuya_Punk "Shibuya Punk") ◉ [Surf Crush](https://aesthetics.fandom.com/wiki/Surf_Crush "Surf Crush") ◉ [Teenpunk](https://aesthetics.fandom.com/wiki/Teenpunk "Teenpunk") ◉ [UrBling](https://aesthetics.fandom.com/wiki/UrBling "UrBling") ◉ [Vectorheart](https://aesthetics.fandom.com/wiki/Vectorheart "Vectorheart") ◉ [Webcore](https://aesthetics.fandom.com/wiki/Webcore "Webcore") ◉ [Y2K Futurism](https://aesthetics.fandom.com/wiki/Y2K_Futurism "Y2K Futurism") |
 
-## Images
-
-- `images/cyber-stylin/Fd92a20f28707c1184ec65a73bf6cfce(1).jpg`
-- `images/cyber-stylin/0ce7fc70d3216b17cb07758ef8e82264.jpg`
-- `images/cyber-stylin/Fc8a4524522e84c534f1cbaa904b8d63--korean-art-funny-girls.jpg`
-- `images/cyber-stylin/Labeled.gif`
-- `images/cyber-stylin/Animalprint06.gif`
-- `images/cyber-stylin/9507a8af73ad9e2f360ac40b42136c02.jpg`
-- `images/cyber-stylin/2d652540f45147088289a72d3b1e9726.jpg`
-- `images/cyber-stylin/Ff91dba4dcdf426ed35045a9542d724f.jpg`
-- `images/cyber-stylin/F802f82a36b4fe85d805c0a6a4a9e366.jpg`
-- `images/cyber-stylin/89fe26d9f6d3b1016a1e31c8574f44bc.jpg`
-- `images/cyber-stylin/99c908c902606e0cfa00baf71fe63ed9.jpg`
-- `images/cyber-stylin/C70fba69af07090c18bf8b00fd9ac936.jpg`
-- `images/cyber-stylin/747df633a6755dc86291c6173e8eb544.jpg`
-- `images/cyber-stylin/Static-assets-upload6205668691273607054.webp`
-- `images/cyber-stylin/Laneige6.jpg`
-- `images/cyber-stylin/04a6de15faec3721bab6e667746f62cf.jpg`
-- `images/cyber-stylin/67ec36fb1f5f00d40545e603a166ee27.jpg`
-- `images/cyber-stylin/2a8517f0b9ac229edd9af0fd9cf5b83f.jpg`
-- `images/cyber-stylin/Y2kdoll.jpg`
-- `images/cyber-stylin/Fdcd4f38adbd290ef4a9832916691650.jpg`
-- `images/cyber-stylin/434658fb74301eadd5961d27fc53f5da.jpg`
-- `images/cyber-stylin/546d5ddefab00a12138079822ce817b2.jpg`
-- `images/cyber-stylin/2a3a9edc71ee602bd9aeca8ac1972f9a.gif`
-- `images/cyber-stylin/0af683d1fefa576138275700845427f7.jpg`
-- `images/cyber-stylin/Chocobox.png`
-- `images/cyber-stylin/891152842697bdea89a5e0816197ae86.jpg`
-- `images/cyber-stylin/4cf5c5638ab2acbb42211ecbf68a050f.jpg`
-- `images/cyber-stylin/C94cb0e5ff32586474f480b8ab86c7c6.jpg`
-- `images/cyber-stylin/596a468e0c92665e2d04928a930d34ba.jpg`
-- `images/cyber-stylin/Da3fa733c4b212b630867d3a4fae0c54.jpg`
-- `images/cyber-stylin/Love-Berrish!.webp`
-- `images/cyber-stylin/7f9533be4f1535e4a31a8ed750ac26e5(1).jpg`
-- `images/cyber-stylin/Chicalocabeachgirl.jpg`
-- `images/cyber-stylin/Sugarluxebelieve.jpg`
-- `images/cyber-stylin/The-Powerbabe-Project.jpg`
-- `images/cyber-stylin/F8f7c4d70a4143c167be98c0af03d4ab(1).jpg`
-- `images/cyber-stylin/Roiworld.jpg`
-- `images/cyber-stylin/U+Me.jpg`
-- `images/cyber-stylin/Spaday.jpg`
-- `images/cyber-stylin/26e0e79358c2f52cc1e9409e9e1ed791.jpg`
-
 ## Source and attribution
 
-Text adapted from "Cyber Stylin'" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Stylin'), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Cyber Stylin'" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Cyber_Stylin'), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ related_aesthetics: ["Burlesque", "Camp", "Casino", "Googie", "Gogoie Kitsch"]
 source_url: "https://aesthetics.fandom.com/wiki/Kitsch_Las_Vegas"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Kitsch Las Vegas
@@ -39,4 +38,4 @@ Katy Perry - Waking Up In Vegas (Official)
 
 ## Source and attribution
 
-Text adapted from "Kitsch Las Vegas" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kitsch_Las_Vegas), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kitsch Las Vegas" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kitsch_Las_Vegas), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

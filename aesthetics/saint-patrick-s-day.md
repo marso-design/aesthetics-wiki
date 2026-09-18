@@ -12,7 +12,6 @@ related_aesthetics: ["Easter", "Halloween", "Spring"]
 source_url: "https://aesthetics.fandom.com/wiki/Saint_Patrick's_Day"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Saint Patrick's Day
@@ -113,18 +112,6 @@ Vintage postcard featuring a woman with a harp
 
 ## References
 
-## Images
-
-- `images/saint-patrick-s-day/Stpatricks.jpg`
-- `images/saint-patrick-s-day/Spdvintage.jpg`
-- `images/saint-patrick-s-day/Spdmotifs.jpg`
-- `images/saint-patrick-s-day/Wallpaper-green-saintpatricksday.png`
-- `images/saint-patrick-s-day/Clovers.jpg`
-- `images/saint-patrick-s-day/Cloverpng.jpg`
-- `images/saint-patrick-s-day/Clovers2.jpg`
-- `images/saint-patrick-s-day/SPDParade.jpg`
-- `images/saint-patrick-s-day/Stpatricksflag.png`
-
 ## Source and attribution
 
-Text adapted from "Saint Patrick's Day" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Saint_Patrick's_Day), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Saint Patrick's Day" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Saint_Patrick's_Day), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

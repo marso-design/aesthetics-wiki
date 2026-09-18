@@ -9,7 +9,6 @@ related_aesthetics: ["Kidcore", "Decora", "Harajuku"]
 source_url: "https://aesthetics.fandom.com/wiki/Hadeko"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Hadeko
@@ -32,10 +31,6 @@ Another characteristic of the style is overly poofy wigs that are also known as 
 
 ## Gallery
 
-## Images
-
-- `images/hadeko/Hadeko.webp`
-
 ## Source and attribution
 
-Text adapted from "Hadeko" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hadeko), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Hadeko" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Hadeko), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

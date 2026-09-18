@@ -11,7 +11,6 @@ related_aesthetics: ["Cottagecore", "Dark Academia", "Dark Fantasy", "Fairycore"
 source_url: "https://aesthetics.fandom.com/wiki/Medievalcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Medievalcore
@@ -46,20 +45,6 @@ The aesthetic also functions as a form of escapism, allowing wearers to inhabit 
 
 ## References
 
-## Images
-
-- `images/medievalcore/Medievalcore.jpg`
-- `images/medievalcore/Knight.jpg`
-- `images/medievalcore/Castlecore.jpg`
-- `images/medievalcore/Dark-castle.jpg`
-- `images/medievalcore/Chains.jpeg`
-- `images/medievalcore/Weirdieval-tiktok-trend-fashion.jpg`
-- `images/medievalcore/Medeivaleqsue.jpg`
-- `images/medievalcore/Chainmail.jpg`
-- `images/medievalcore/Dress.jpg`
-- `images/medievalcore/Armbands.jpg`
-- `images/medievalcore/Goblets.png`
-
 ## Source and attribution
 
-Text adapted from "Medievalcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Medievalcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Medievalcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Medievalcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

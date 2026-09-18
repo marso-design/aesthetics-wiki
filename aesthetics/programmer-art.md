@@ -11,7 +11,6 @@ primary_platform: ["Sharewares", "indie video-games"]
 source_url: "https://aesthetics.fandom.com/wiki/Programmer_Art"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Programmer Art
@@ -64,22 +63,6 @@ Screenshot from the 2021 indie game *Fractal Block World*
 
 ## References
 
-## Images
-
-- `images/programmer-art/Dwarf-Fortress-Haunted-biomes.gif`
-- `images/programmer-art/Dwarf-Fortress-map.png`
-- `images/programmer-art/SkiFree.png`
-- `images/programmer-art/Minecraft-Indev-Rana.png`
-- `images/programmer-art/Minecraft-items.gif`
-- `images/programmer-art/Mirkwood-Forest.png`
-- `images/programmer-art/HallOfTorturedSouls.png`
-- `images/programmer-art/GDevelop-topdown-car-driving.png`
-- `images/programmer-art/YHTBTR-character.png`
-- `images/programmer-art/Design-Your-Own-Railroad-DOS-controlling-the-train.png`
-- `images/programmer-art/SCADA-Software.jpg`
-- `images/programmer-art/Godzilla-indie-game.jpg`
-- `images/programmer-art/ProgramartexampleFBWorcs.png`
-
 ## Source and attribution
 
-Text adapted from "Programmer Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Programmer_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Programmer Art" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Programmer_Art), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

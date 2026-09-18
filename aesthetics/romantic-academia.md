@@ -12,7 +12,6 @@ related_media: ["Virginia Astley's In Gardens Where We Feel Secure", "Pride and 
 source_url: "https://aesthetics.fandom.com/wiki/Romantic_Academia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Romantic Academia
@@ -344,26 +343,6 @@ Anne Hathaway and Audra McDonald performing "Twelfth Night" at Delacorte Theater
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/romantic-academia/Little-Flowers.jpeg`
-- `images/romantic-academia/Poetry.jpeg`
-- `images/romantic-academia/4567845678.jpg`
-- `images/romantic-academia/54u7438387873878r555.jpg`
-- `images/romantic-academia/3456783456784567845678.jpg`
-- `images/romantic-academia/Camri-Hewie-Instagram.jpg`
-- `images/romantic-academia/Rtyu678.jpg`
-- `images/romantic-academia/Tyu78789.jpg`
-- `images/romantic-academia/Tyuyuuuuu.jpg`
-- `images/romantic-academia/Tyuio56789.jpg`
-- `images/romantic-academia/Romanticacademiamoodboard.png`
-- `images/romantic-academia/566677474744646446445454644474746445444444.jpg`
-- `images/romantic-academia/34567890-087654234567.jpg`
-- `images/romantic-academia/354b7085292c39fe1a8bb95f1cbf964d.jpg`
-- `images/romantic-academia/Mirror-and-Lace.jpg`
-- `images/romantic-academia/Gold-Rose-Mirror.jpg`
-- `images/romantic-academia/2.28.2020.jpg`
-
 ## Source and attribution
 
-Text adapted from "Romantic Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romantic_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Romantic Academia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Romantic_Academia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

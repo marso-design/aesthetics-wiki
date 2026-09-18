@@ -11,7 +11,6 @@ related_aesthetics: ["Bakala", "Cani", "Choni", "Rave"]
 source_url: "https://aesthetics.fandom.com/wiki/Pokero"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 6
 ---
 
 # Pokero
@@ -139,15 +138,6 @@ A digital "tribute" slideshow (dated September 2008) created by a community memb
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/pokero/Pokerus.jpg`
-- `images/pokero/Pokero.jpg`
-- `images/pokero/EFBmegEX4AAuSY6.jpg`
-- `images/pokero/1574759505705-WhatsApp-Image-2019-11-18-at-172007-copia.webp`
-- `images/pokero/1574759539989-WhatsApp-Image-2019-11-18-at-172006.webp`
-- `images/pokero/1574759521785-WhatsApp-Image-2019-11-18-at-172007-copia-2.webp`
-
 ## Source and attribution
 
-Text adapted from "Pokero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pokero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pokero" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pokero), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

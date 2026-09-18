@@ -10,7 +10,6 @@ related_aesthetics: ["Atompunk", "Cyberpunk", "Decopunk", "Dieselpunk", "Retrofu
 source_url: "https://aesthetics.fandom.com/wiki/Teslapunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 15
 ---
 
 # Teslapunk
@@ -48,24 +47,6 @@ In some stories, free-energy technologies are largely forgotten in the present d
 
 ## References
 
-## Images
-
-- `images/teslapunk/Teslapunk.png`
-- `images/teslapunk/Teslapunk3.webp`
-- `images/teslapunk/Tesla.jpg`
-- `images/teslapunk/Lair.jpg`
-- `images/teslapunk/Telsapunk.jpg`
-- `images/teslapunk/What-is-teslapunk-v0-xt0s1ovm6t251.webp`
-- `images/teslapunk/What-is-teslapunk-v0-o567a2es6t251.webp`
-- `images/teslapunk/What-is-teslapunk-v0-qt8urv168t251.webp`
-- `images/teslapunk/What-is-teslapunk-v0-ed0rn7i78t251.webp`
-- `images/teslapunk/What-is-teslapunk-v0-8qa407lq6t251.webp`
-- `images/teslapunk/What-is-teslapunk-v0-3rynjnf28t251.webp`
-- `images/teslapunk/Teslapunk-fisherman-v0-8odmif8i3pge1.webp`
-- `images/teslapunk/By-thomas-chamberlain-on-artstation-v0-vlo1abvy71o51.webp`
-- `images/teslapunk/Teslapunk-commando.webp`
-- `images/teslapunk/Tesla-cannon.webp`
-
 ## Source and attribution
 
-Text adapted from "Teslapunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Teslapunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Teslapunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Teslapunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

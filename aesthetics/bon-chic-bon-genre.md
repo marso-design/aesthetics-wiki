@@ -11,7 +11,6 @@ related_aesthetics: ["Chic Modernist", "Classicism", "Old Money", "Power Dressin
 source_url: "https://aesthetics.fandom.com/wiki/Bon_Chic,_Bon_Genre"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Bon Chic, Bon Genre
@@ -101,22 +100,6 @@ In France, the BCBG subculture is sometimes viewed with skepticism and can be pe
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/bon-chic-bon-genre/Bcbg.jpeg`
-- `images/bon-chic-bon-genre/Bcbg1.png`
-- `images/bon-chic-bon-genre/Bcbg12.png`
-- `images/bon-chic-bon-genre/Bcbg6.png`
-- `images/bon-chic-bon-genre/Bcbg9.png`
-- `images/bon-chic-bon-genre/Bcbg7.png`
-- `images/bon-chic-bon-genre/Bcbg10.png`
-- `images/bon-chic-bon-genre/Bcbg8.png`
-- `images/bon-chic-bon-genre/Bcbg3.png`
-- `images/bon-chic-bon-genre/Bcbg5.png`
-- `images/bon-chic-bon-genre/Bcbg13.png`
-- `images/bon-chic-bon-genre/Bcbg2.png`
-- `images/bon-chic-bon-genre/Bcbg4.png`
-
 ## Source and attribution
 
-Text adapted from "Bon Chic, Bon Genre" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bon_Chic,_Bon_Genre), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bon Chic, Bon Genre" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bon_Chic,_Bon_Genre), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -8,7 +8,6 @@ related_media: ["James Bond", "Mission: Impossible"]
 source_url: "https://aesthetics.fandom.com/wiki/Spycore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Spycore
@@ -84,4 +83,4 @@ Bra with hidden camera (International Spy Museum)
 
 ## Source and attribution
 
-Text adapted from "Spycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Spycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

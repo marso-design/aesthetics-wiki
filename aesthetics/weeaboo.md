@@ -10,7 +10,6 @@ palette: ["#171111", "#8B4735", "#D4BBB1", "#A29093", "#B0725F", "#DAD1CC"]
 source_url: "https://aesthetics.fandom.com/wiki/Weeaboo"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 3
 ---
 
 # Weeaboo
@@ -174,12 +173,6 @@ An anime convention.
 
 ## References
 
-## Images
-
-- `images/weeaboo/Weeb.jpg`
-- `images/weeaboo/Animecore.jpg`
-- `images/weeaboo/Yogurt-AhIQcZwBnrs-unsplash.jpg`
-
 ## Source and attribution
 
-Text adapted from "Weeaboo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Weeaboo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Weeaboo" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Weeaboo), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

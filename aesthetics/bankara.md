@@ -9,7 +9,6 @@ related_aesthetics: ["Yanki", "Taisho Roman (opposite)"]
 source_url: "https://aesthetics.fandom.com/wiki/Bankara"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Bankara
@@ -118,10 +117,6 @@ The demons and monsters hide their shadows, and the sea of golden and silver wav
 
 ## References
 
-## Images
-
-- `images/bankara/Bankara.jpg`
-
 ## Source and attribution
 
-Text adapted from "Bankara" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bankara), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Bankara" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Bankara), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

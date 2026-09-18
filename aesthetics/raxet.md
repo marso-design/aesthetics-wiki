@@ -13,7 +13,6 @@ related_media: ["Trap music"]
 source_url: "https://aesthetics.fandom.com/wiki/Raxet"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Raxet
@@ -75,20 +74,6 @@ Notable singers and artists associated with the aesthetic include:
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/raxet/LaZowi.jpg`
-- `images/raxet/Badgyal.jpg`
-- `images/raxet/Raxet2.jpg`
-- `images/raxet/0edcd53fff891d0afe3ef6bf42138d20.jpg`
-- `images/raxet/9244ea91d4338c2cd89546f2208812c7.jpg`
-- `images/raxet/F94e3c7910b264dcd0438aca4bd58281.jpg`
-- `images/raxet/Raxet7.jpg`
-- `images/raxet/Fcc1e02d6baa18770701ae7dea98d664.jpg`
-- `images/raxet/D9bd21d86ca754a5e896c44c07caf493.jpg`
-- `images/raxet/299c875fad19f946d5d9a84970642790.jpg`
-- `images/raxet/93471bdcf4c5884f9d38f3785ddf539b.jpg`
-
 ## Source and attribution
 
-Text adapted from "Raxet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Raxet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Raxet" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Raxet), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

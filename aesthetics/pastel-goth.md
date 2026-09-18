@@ -10,7 +10,6 @@ related_aesthetics: ["Bohemian", "Galaxy Print", "Goth", "Gurokawa", "Kawaii", "
 source_url: "https://aesthetics.fandom.com/wiki/Pastel_Goth"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Pastel Goth
@@ -143,23 +142,6 @@ Fan art of Usagi Tsukino from Sailor Moon reimagined as a pastel goth; art by gu
 | Goth-Inspired (Aesthetic Only) |
 | [Cybergoth](https://aesthetics.fandom.com/wiki/Cybergoth "Cybergoth") 𓋹 [Health Goth](https://aesthetics.fandom.com/wiki/Health_Goth "Health Goth") 𓋹 [Herki](https://aesthetics.fandom.com/wiki/Herki "Herki") 𓋹 [Mallgoth](https://aesthetics.fandom.com/wiki/Mallgoth "Mallgoth") 𓋹 [Nu-Goth](https://aesthetics.fandom.com/wiki/Nu-Goth "Nu-Goth") 𓋹 **Pastel Goth** |
 
-## Images
-
-- `images/pastel-goth/Baca9acdb959d37a8ace8d44e12c8729.jpg`
-- `images/pastel-goth/Pastel-goth-drippy-cross.jpg`
-- `images/pastel-goth/Meltychocolatemoon.jpg`
-- `images/pastel-goth/Pastel-goth-accessories.jpg`
-- `images/pastel-goth/44f507128e01f63e9a6901b76e1a8773.gif`
-- `images/pastel-goth/74865688cdb845361be8816fb4e7b599.jpg`
-- `images/pastel-goth/Pandollie.jpg`
-- `images/pastel-goth/Cf76847116bdae45e73ff8fb20d9cc06.jpg`
-- `images/pastel-goth/Pastel-goth-bear.jpg`
-- `images/pastel-goth/3912546abfaa8675aa2d81df820d2536.jpg`
-- `images/pastel-goth/Pastel.jpg`
-- `images/pastel-goth/Pastel-goth-ring.jpg`
-- `images/pastel-goth/F1dbf5b609f70160f51b108f5d7a21c6.jpg`
-- `images/pastel-goth/Pastel-goth.jpg`
-
 ## Source and attribution
 
-Text adapted from "Pastel Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pastel_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pastel Goth" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pastel_Goth), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

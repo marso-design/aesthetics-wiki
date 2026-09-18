@@ -10,7 +10,6 @@ related_aesthetics: ["Minet", "Mod", "New Romantic", "Popper", "Raggare", "Rude 
 source_url: "https://aesthetics.fandom.com/wiki/Teddy_Boys"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Teddy Boys
@@ -79,18 +78,6 @@ While rock 'n' roll music was typically associated with Teddies, jazzy, big-band
 | Digital, Internet & Related |
 | [Dead Inside](https://aesthetics.fandom.com/wiki/Dead_Inside "Dead Inside") • [Demoscene](https://aesthetics.fandom.com/wiki/Demoscene "Demoscene") • [E-Girls](https://aesthetics.fandom.com/wiki/E-Girl "E-Girl") and [E-Boys](https://aesthetics.fandom.com/wiki/E-Boy "E-Boy") • [Femboy](https://aesthetics.fandom.com/wiki/Femboy "Femboy") • [Hipster](https://aesthetics.fandom.com/wiki/Hipster "Hipster") • [Otaku](https://aesthetics.fandom.com/wiki/Otaku "Otaku")  [Alternative](https://aesthetics.fandom.com/wiki/Alternative "Alternative") • [Dark Culture](https://aesthetics.fandom.com/wiki/Dark_Culture "Dark Culture") • [Poser](https://aesthetics.fandom.com/wiki/Poser "Poser") • [Underground Culture](https://aesthetics.fandom.com/wiki/Underground_Culture "Underground Culture") |
 
-## Images
-
-- `images/teddy-boys/Teddy-2.jpg`
-- `images/teddy-boys/Teddy-girls.jpg`
-- `images/teddy-boys/Teddy-3.jpg`
-- `images/teddy-boys/Teddy-4.jpg`
-- `images/teddy-boys/440px-Smutty.jpg`
-- `images/teddy-boys/Teddy-5.jpg`
-- `images/teddy-boys/Teddy-6.jpg`
-- `images/teddy-boys/Teddy-7.jpg`
-- `images/teddy-boys/More-teddies.jpg`
-
 ## Source and attribution
 
-Text adapted from "Teddy Boys" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Teddy_Boys), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Teddy Boys" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Teddy_Boys), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

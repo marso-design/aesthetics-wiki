@@ -10,7 +10,6 @@ related_aesthetics: ["Minimalism", "Wabi-Sabi", "Xianxia"]
 source_url: "https://aesthetics.fandom.com/wiki/Qingleng_Feng"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Qingleng Feng
@@ -93,22 +92,6 @@ Chen Duling as Zhang Haimo in *A Lonely Hero's Journey* (2024)
 
 ## References
 
-## Images
-
-- `images/qingleng-feng/QinglengFeng-LuXueqi.webp`
-- `images/qingleng-feng/QinglengFeng-LiQinAsLuXueqi.jpeg`
-- `images/qingleng-feng/QinglengFeng-TangYanAsLuXueqi.jpeg`
-- `images/qingleng-feng/QinglengFeng-ZhouZhiruo.jpeg`
-- `images/qingleng-feng/QinglengFeng-SarielQi.jpeg`
-- `images/qingleng-feng/QinglengFeng-LiHanyi.jpg`
-- `images/qingleng-feng/QinglengFeng-LanWangji.png`
-- `images/qingleng-feng/QinglengFeng-RunYu.jpg`
-- `images/qingleng-feng/QinglengFeng-MeiChangsu.jpg`
-- `images/qingleng-feng/QinglengFeng-LengQingqiu.jpg`
-- `images/qingleng-feng/QinglengFeng-Xiaolongnv.jpg`
-- `images/qingleng-feng/QinglengFeng-WangYuyan.jpg`
-- `images/qingleng-feng/QinglengFeng-ZhangHaimo.jpg`
-
 ## Source and attribution
 
-Text adapted from "Qingleng Feng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Qingleng_Feng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Qingleng Feng" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Qingleng_Feng), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

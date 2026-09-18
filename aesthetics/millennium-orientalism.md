@@ -8,7 +8,6 @@ related_aesthetics: ["Arabian Nights", "Orientalism"]
 source_url: "https://aesthetics.fandom.com/wiki/Millennium_Orientalism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Millennium Orientalism
@@ -46,4 +45,4 @@ This page requires improvement. Please help us by [expanding it](https://aesthet
 
 ## Source and attribution
 
-Text adapted from "Millennium Orientalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Millennium_Orientalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Millennium Orientalism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Millennium_Orientalism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

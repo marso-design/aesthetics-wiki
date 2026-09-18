@@ -11,7 +11,6 @@ primary_platform: ["Reddit (r/streetwear)", "Tumblr"]
 source_url: "https://aesthetics.fandom.com/wiki/Palewave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Palewave
@@ -38,18 +37,6 @@ Essential garments for the look include basic t-shirts in solid, pale colors wit
 
 ## References
 
-## Images
-
-- `images/palewave/Sand-coach-olive-small-768x441.jpg`
-- `images/palewave/5mNy3R4.jpg`
-- `images/palewave/848ab9d5a6a54ebff642b7f822331178.jpg`
-- `images/palewave/E1a812a0e09d1466ba1a28362d686fff.jpg`
-- `images/palewave/6rdpxfy50if21.jpg`
-- `images/palewave/9morehpwbx441.jpg`
-- `images/palewave/B898665cabdc7d011d43252ab79d5ceb.jpg`
-- `images/palewave/3HeoWkC.jpeg`
-- `images/palewave/2b62f5f97a7f6b4d4833e9f7c0c3f412.jpg`
-
 ## Source and attribution
 
-Text adapted from "Palewave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Palewave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Palewave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Palewave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

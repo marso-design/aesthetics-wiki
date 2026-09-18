@@ -8,7 +8,6 @@ related_aesthetics: ["Y2K Futurism", "Cacareco Girl", "Clovercore", "Gyaru", "Jo
 source_url: "https://aesthetics.fandom.com/wiki/Heisei_Retro"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Heisei Retro
@@ -180,4 +179,4 @@ A video showcasing recreations of Heisei fashion trends.
 
 ## Source and attribution
 
-Text adapted from "Heisei Retro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heisei_Retro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Heisei Retro" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Heisei_Retro), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

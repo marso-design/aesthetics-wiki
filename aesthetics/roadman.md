@@ -4,7 +4,6 @@ slug: "roadman"
 source_url: "https://aesthetics.fandom.com/wiki/Roadman"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Roadman
@@ -19,4 +18,4 @@ The term "roadman" refers to someone who is "on the road," a colloquialism for s
 
 ## Source and attribution
 
-Text adapted from "Roadman" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Roadman), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Roadman" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Roadman), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

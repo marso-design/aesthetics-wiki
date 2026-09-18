@@ -10,7 +10,6 @@ related_aesthetics: ["Art Hoe", "E-Boy", "Femboy", "Hallyu", "Kawaii", "Skater",
 source_url: "https://aesthetics.fandom.com/wiki/Soft_Boy"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Soft Boy
@@ -102,26 +101,6 @@ Goto Yutaro (@aaaoe\_\_ on Instagram)
 
 ## References
 
-## Images
-
-- `images/soft-boy/Originaljhbjk.png`
-- `images/soft-boy/Soft-boy.jpg`
-- `images/soft-boy/Ff20f9f46a3e08bf29d50e198a27ec41.jpg`
-- `images/soft-boy/Ee1e4ddbc61c8e3f536a4e431aa8eda9.jpg`
-- `images/soft-boy/50bb2c1b702df9495cf93096bd58eedf.jpg`
-- `images/soft-boy/Ce2358fb883b92075c41f454c2a2e251.jpg`
-- `images/soft-boy/Cb8244ba6043e132b3a4267a4a76d336.jpg`
-- `images/soft-boy/A2a7328717c12b8a138e213c3236182f.jpg`
-- `images/soft-boy/Ac786af04b93e7bb6b72a4cab8fdf27c.jpg`
-- `images/soft-boy/897360abaff385d20d2c85a2043cad3c.jpg`
-- `images/soft-boy/F63bfbdef88981a2e5a0bda1b3b33150.jpg`
-- `images/soft-boy/57fdac4a4ce045d033ed3ffcca945922.jpg`
-- `images/soft-boy/37e9e918d4324145579f8002c9f82e1d.jpg`
-- `images/soft-boy/50f5433a470b5121b4f63c1df6964fc7.jpg`
-- `images/soft-boy/53c2f5a8a5822c9e865db69fe46dd291.jpg`
-- `images/soft-boy/Aa99f85bdb4141183faf009d9feb7e0e.jpg`
-- `images/soft-boy/37f993910ea673e76a6d2a31bb204c02.webp`
-
 ## Source and attribution
 
-Text adapted from "Soft Boy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Boy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Soft Boy" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Soft_Boy), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

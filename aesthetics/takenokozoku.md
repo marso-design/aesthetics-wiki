@@ -11,7 +11,6 @@ related_aesthetics: ["Gyaru"]
 source_url: "https://aesthetics.fandom.com/wiki/Takenokozoku"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Takenokozoku
@@ -45,20 +44,6 @@ The Takenokozoku subculture, though primarily centered on music and fashion, als
 
 ## References
 
-## Images
-
-- `images/takenokozoku/Takenokozoku-4.jpg`
-- `images/takenokozoku/O.jpeg`
-- `images/takenokozoku/KEKENOKO.jpg`
-- `images/takenokozoku/KEKENOKO-2.jpg`
-- `images/takenokozoku/Takenokozoku-tokyo-fashion.jpg`
-- `images/takenokozoku/Haremu-sutsu.jpg`
-- `images/takenokozoku/Takenokozoku-3.jpg`
-- `images/takenokozoku/Takenokozoku-5.jpg`
-- `images/takenokozoku/Takenokozoku-7.jpg`
-- `images/takenokozoku/Takenokozoku-8.jpg`
-- `images/takenokozoku/Takenokozoku-9.jpg`
-
 ## Source and attribution
 
-Text adapted from "Takenokozoku" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Takenokozoku), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Takenokozoku" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Takenokozoku), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

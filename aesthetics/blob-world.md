@@ -9,7 +9,6 @@ palette: ["#340713", "#FBF9F9", "#851A2C", "#808A6B", "#E49C86", "#E47C80"]
 source_url: "https://aesthetics.fandom.com/wiki/Blob_World"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Blob World
@@ -49,14 +48,6 @@ BENEE - Snail (Lyric Video)
 
 Jerry Paper - Cholla
 
-## Images
-
-- `images/blob-world/2tonedisco.png`
-- `images/blob-world/Xcx2.png`
-- `images/blob-world/Xcx3.png`
-- `images/blob-world/Temporex.png`
-- `images/blob-world/Coldtron.png`
-
 ## Source and attribution
 
-Text adapted from "Blob World" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blob_World), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Blob World" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Blob_World), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

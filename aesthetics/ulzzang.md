@@ -11,7 +11,6 @@ palette: ["#C3B0A1", "#130F0E", "#776B5F", "#54483C", "#3F342C", "#DFCCBC"]
 source_url: "https://aesthetics.fandom.com/wiki/Ulzzang"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Ulzzang
@@ -42,18 +41,6 @@ Key garments include oversized sweatshirts, hoodies, and t-shirts, which are oft
 
 ## References
 
-## Images
-
-- `images/ulzzang/C1a266d29b034774849dca740173e1aa.jpg`
-- `images/ulzzang/Ull.PNG`
-- `images/ulzzang/Ulzzang.jpg`
-- `images/ulzzang/07917adee777b8fd62a23e0a0239ad32.jpg`
-- `images/ulzzang/9a71986ce9acf15eb951d1de26357528.jpg`
-- `images/ulzzang/C85d5df817feb59fcec94730f16257a0.jpg`
-- `images/ulzzang/E9cb53b7d56f2b2b7c9ca48d649ad376.jpg`
-- `images/ulzzang/C2e2b0a893d23cff68c8dbfbbef0b1b1.jpg`
-- `images/ulzzang/2fc73f762a7a90d240a29ea758d62087.jpg`
-
 ## Source and attribution
 
-Text adapted from "Ulzzang" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ulzzang), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Ulzzang" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Ulzzang), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

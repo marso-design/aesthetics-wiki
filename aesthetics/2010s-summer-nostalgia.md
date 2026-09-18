@@ -13,7 +13,6 @@ related_media: ["G-Eazy (\"Tumblr Girls,\" \"Lady Killers\")"]
 source_url: "https://aesthetics.fandom.com/wiki/2010s_Summer_Nostalgia"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 33
 ---
 
 # 2010s Summer Nostalgia
@@ -131,42 +130,6 @@ Discussing the aesthetic and a blog that embodied it
 
 ## References
 
-## Images
-
-- `images/2010s-summer-nostalgia/Cdbaa18c681f908547ff7a37f7a2452c.jpg`
-- `images/2010s-summer-nostalgia/24fa791f2730e9101a7ebe67f6ef9d87.jpg`
-- `images/2010s-summer-nostalgia/1d045b61947d4a929cfdb5b2d77e1ad9.jpg`
-- `images/2010s-summer-nostalgia/D49bfda4b6a8f9bbad3e305b876354a1.jpg`
-- `images/2010s-summer-nostalgia/444a8e207f13dbcf16b9080cc7c92fbb.jpg`
-- `images/2010s-summer-nostalgia/F020897d50cc8c25c8e0f1e109da2324.jpg`
-- `images/2010s-summer-nostalgia/D1ad30a8753dbee0552f007f9eadc646.jpg`
-- `images/2010s-summer-nostalgia/9e714d76f01bb9646b02e480f07d604c.jpg`
-- `images/2010s-summer-nostalgia/84d2510387a26f1978fbbdd7772c793b.jpg`
-- `images/2010s-summer-nostalgia/41ac259578760bfd1361e075d092badd.jpg`
-- `images/2010s-summer-nostalgia/725d0d2635b2eb614386db3d429d90b8.jpg`
-- `images/2010s-summer-nostalgia/9af8f7fc3bfb5167c6fdb32a5a40707e.jpg`
-- `images/2010s-summer-nostalgia/Dadc8fe3910b600a9a5a9c1e2ec196a5.jpg`
-- `images/2010s-summer-nostalgia/692349ac5b56b89ac9d0f78351733a61.jpg`
-- `images/2010s-summer-nostalgia/538372fbab660f5c1ea88fb48250fe02.jpg`
-- `images/2010s-summer-nostalgia/70254e107fb33c5a4ee87dbfbe325ede.jpg`
-- `images/2010s-summer-nostalgia/B093fd561748304f5846fd42d8ebfe02.jpg`
-- `images/2010s-summer-nostalgia/61206c6336b057580327e19eba4700dc.jpg`
-- `images/2010s-summer-nostalgia/3d44c0116f740482e7d0d3ab930e82bf.jpg`
-- `images/2010s-summer-nostalgia/A715e0fdd5ed4d14db7c81dadb092d5a.jpg`
-- `images/2010s-summer-nostalgia/B6f1e24160ca7f5702810790b5b0884a.jpg`
-- `images/2010s-summer-nostalgia/B5029ef1c11ee5b6b18f78a82f8c4197.jpg`
-- `images/2010s-summer-nostalgia/902eb52c45dcd7b0561e48b4ea635c64.jpg`
-- `images/2010s-summer-nostalgia/5987cbcbbe5ee3ab8e6a2af8dffbf4b5.jpg`
-- `images/2010s-summer-nostalgia/62c12af9451014fe2e2973a57e7cbace.jpg`
-- `images/2010s-summer-nostalgia/30fedc635b6fa64b242ee9edd52b33f1.jpg`
-- `images/2010s-summer-nostalgia/F22b40cde29ea5bafa31a0c9c6575280.jpg`
-- `images/2010s-summer-nostalgia/E3759d340c67f3a2e9112bdb774d1ad0.jpg`
-- `images/2010s-summer-nostalgia/Add4353d8e027be534e48c7b6aeec1e1.jpg`
-- `images/2010s-summer-nostalgia/B3bdc7f9077b54572757cb7318d7d1e8.jpg`
-- `images/2010s-summer-nostalgia/D0b49c1fefbd78c1194cd7214934407a.jpg`
-- `images/2010s-summer-nostalgia/Cd209d07c6a765f40c267280a8b2e9d4.jpg`
-- `images/2010s-summer-nostalgia/TaylorSwiftSwan.png`
-
 ## Source and attribution
 
-Text adapted from "2010s Summer Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Summer_Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "2010s Summer Nostalgia" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/2010s_Summer_Nostalgia), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

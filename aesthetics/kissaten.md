@@ -4,7 +4,6 @@ slug: "kissaten"
 source_url: "https://aesthetics.fandom.com/wiki/Kissaten"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Kissaten
@@ -28,4 +27,4 @@ A **Kissaten** is a type of tea and coffee shop that serves food in Japan, with 
 
 ## Source and attribution
 
-Text adapted from "Kissaten" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kissaten), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Kissaten" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Kissaten), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

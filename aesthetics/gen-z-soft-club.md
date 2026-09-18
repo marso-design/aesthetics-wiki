@@ -7,7 +7,6 @@ related_aesthetics: ["Neo-Y2K<p>Gen X Soft Club"]
 source_url: "https://aesthetics.fandom.com/wiki/Gen_Z_Soft_Club"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 0
 ---
 
 # Gen Z Soft Club
@@ -33,4 +32,4 @@ CFCF - Heaven feat. Sarah Bonito -Official Visualizer-
 
 ## Source and attribution
 
-Text adapted from "Gen Z Soft Club" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gen_Z_Soft_Club), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Gen Z Soft Club" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Gen_Z_Soft_Club), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

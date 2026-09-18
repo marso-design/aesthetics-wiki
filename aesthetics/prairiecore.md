@@ -12,7 +12,6 @@ related_media: ["Little House on the Prairie series", "O Pioneers!", "The Oregon
 source_url: "https://aesthetics.fandom.com/wiki/Prairiecore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 9
 ---
 
 # Prairiecore
@@ -129,18 +128,6 @@ Although this aesthetic has regained popularity since the late 2010's, it initia
 * [Pioneer Clothing on Recollections](https://recollections.biz/blog/pioneer-clothing-what-women-wore-in-the-western-frontier/)
 * [Prairie Fashion Trend by Emily Henderson](https://stylebyemilyhenderson.com/blog/fashion-trend-2019-prairie)
 
-## Images
-
-- `images/prairiecore/Prarie.jpg`
-- `images/prairiecore/Prairiefarm.jpg`
-- `images/prairiecore/Prairiecottage.jpg`
-- `images/prairiecore/Demeter.jpg`
-- `images/prairiecore/P08gp4dm.jpg.webp`
-- `images/prairiecore/P08gk0vl.jpg.webp`
-- `images/prairiecore/Prairiecore.jpg`
-- `images/prairiecore/Westworld.jpg`
-- `images/prairiecore/5d9c408129487fab2f58784f20caa2b7.jpg`
-
 ## Source and attribution
 
-Text adapted from "Prairiecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Prairiecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Prairiecore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Prairiecore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_aesthetics: ["Abstract Tech", "Hexatron", "Old Web", "Vaporwave", "Y2K F
 source_url: "https://aesthetics.fandom.com/wiki/Robotcore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 5
 ---
 
 # Robotcore
@@ -143,14 +142,6 @@ glitched screen
 
 ## References
 
-## Images
-
-- `images/robotcore/Alonerobotwithwires.jpg`
-- `images/robotcore/Bluebinarycode.jpg`
-- `images/robotcore/Bluegltichedscreen.jpg`
-- `images/robotcore/Blueboltss.jpg`
-- `images/robotcore/Existentialrobothand.jpg`
-
 ## Source and attribution
 
-Text adapted from "Robotcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Robotcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Robotcore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Robotcore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

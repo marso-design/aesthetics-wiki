@@ -12,7 +12,6 @@ related_media: ["macOS Tahoe", "Windows 11", "iOS 26"]
 source_url: "https://aesthetics.fandom.com/wiki/Glassmorphism"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 13
 ---
 
 # Glassmorphism
@@ -137,22 +136,6 @@ Xbox's New Logo (2026)
 
 iOS 26 (2025)
 
-## Images
-
-- `images/glassmorphism/553df1120444215.60b17e33cc614.png`
-- `images/glassmorphism/Df3myp7-487c73d7-fe7a-443a-92d2-dfae31514cfb.png`
-- `images/glassmorphism/IOS72013Panel.webp`
-- `images/glassmorphism/Screenshot-2023-06-05-at-2.26.08-PM.webp`
-- `images/glassmorphism/3d620d113924121.6031698927cac.png`
-- `images/glassmorphism/D49c8a126024707.6131fb70e828d.jpg`
-- `images/glassmorphism/1920x1080-Copilot-Blog-Image-1536x864-1.jpg`
-- `images/glassmorphism/77a29ca20be9f3e5a0e679f2857a927b.jpg`
-- `images/glassmorphism/Visionpro-work.png`
-- `images/glassmorphism/Add0e3c8c3788f7e98df1873b5e342ad-720x540.png`
-- `images/glassmorphism/How-to-upgrade-to-macos-tahoe-hero.png`
-- `images/glassmorphism/Deepin.png`
-- `images/glassmorphism/Xbox2026Logo.jpeg`
-
 ## Source and attribution
 
-Text adapted from "Glassmorphism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glassmorphism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Glassmorphism" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Glassmorphism), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -10,7 +10,6 @@ related_aesthetics: ["Aesthetic Similarities:", "Cottagecore", "Easter", "Mori K
 source_url: "https://aesthetics.fandom.com/wiki/Spring_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 11
 ---
 
 # Spring Aesthetic
@@ -76,20 +75,6 @@ The new wave of heat makes it not too cold but not too hot, so a blend of both l
 
 ## Gallery
 
-## Images
-
-- `images/spring-aesthetic/Spring.PNG`
-- `images/spring-aesthetic/Spring13.jpg`
-- `images/spring-aesthetic/Spring12.jpg`
-- `images/spring-aesthetic/Spring11.jpg`
-- `images/spring-aesthetic/Spring10.jpg`
-- `images/spring-aesthetic/Spring9.jpg`
-- `images/spring-aesthetic/Spring8.jpg`
-- `images/spring-aesthetic/Spring7.jpg`
-- `images/spring-aesthetic/Spring5.jpg`
-- `images/spring-aesthetic/Spring4.jpg`
-- `images/spring-aesthetic/Spring2.jpg`
-
 ## Source and attribution
 
-Text adapted from "Spring Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spring_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Spring Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Spring_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

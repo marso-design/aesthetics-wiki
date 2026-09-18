@@ -12,7 +12,6 @@ primary_platform: ["Online image boards", "social media (Pinterest, Tumblr, Inst
 source_url: "https://aesthetics.fandom.com/wiki/Puppycore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 10
 ---
 
 # Puppycore
@@ -63,19 +62,6 @@ Visuals consistently feature puppies (particularly small breeds like Corgis, Pug
 
 ## Gallery
 
-## Images
-
-- `images/puppycore/Af38463353fc69897ad23b1b1c34ddce.jpg`
-- `images/puppycore/E9a9eb6afcfdfe93211693e9cc0eaa03.jpg`
-- `images/puppycore/Cutecards.jpg`
-- `images/puppycore/Wancoredog.jpg`
-- `images/puppycore/Pigeonposter.jpg`
-- `images/puppycore/Cuddlesbabyanimals.jpg`
-- `images/puppycore/Puppyposter.jpg`
-- `images/puppycore/Bunnychick.jpg`
-- `images/puppycore/Sealstickers.jpg`
-- `images/puppycore/Snapart.png`
-
 ## Source and attribution
 
-Text adapted from "Puppycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Puppycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Puppycore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Puppycore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

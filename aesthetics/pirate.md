@@ -8,7 +8,6 @@ related_aesthetics: ["Adventurecore", "Crowcore", "Dark Nautical", "Nautical"]
 source_url: "https://aesthetics.fandom.com/wiki/Pirate"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Pirate
@@ -217,17 +216,6 @@ Movies with visuals of oceans, boats, treasure or sea myths:
 
 ## Gallery
 
-## Images
-
-- `images/pirate/Piratecore.jpg`
-- `images/pirate/Nautical.PNG`
-- `images/pirate/Pirate-s-cove-ormond.jpg`
-- `images/pirate/D2gzxva-2b113f3c-bd30-415a-a9e4-22a7bf41a541.jpg`
-- `images/pirate/185f9f58fe9297c3d033fe565e0808a6.jpg`
-- `images/pirate/503580e3c052b034e965b7f3514cb63c.jpg`
-- `images/pirate/B209c01bb03347c2c3ffd95956e35080.jpg`
-- `images/pirate/540d8ddf87ece7629092c2ce5d3fda17.jpg`
-
 ## Source and attribution
 
-Text adapted from "Pirate" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pirate), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Pirate" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Pirate), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

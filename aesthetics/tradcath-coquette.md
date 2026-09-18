@@ -12,7 +12,6 @@ related_media: ["Red Scare podcast"]
 source_url: "https://aesthetics.fandom.com/wiki/Tradcath_Coquette"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 16
 ---
 
 # Tradcath Coquette
@@ -81,25 +80,6 @@ Dasha Nekrasova.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • **Tradcath Coquette** |
 
-## Images
-
-- `images/tradcath-coquette/TradcathCoquette.png`
-- `images/tradcath-coquette/3568b41747988ee8bc565e7d9def6bb5.jpg`
-- `images/tradcath-coquette/D41eb1ef3560f92be27be693057dbcc3.jpg`
-- `images/tradcath-coquette/F146b6c11caaddbfaae061130360d0b3.jpg`
-- `images/tradcath-coquette/69ffe3a1c7c28a130fa36ebff624718e.jpg`
-- `images/tradcath-coquette/4f3bbbfb80aad4c9a0f2ec64e9e7d5b1.jpg`
-- `images/tradcath-coquette/B6843158335a786ce13bb15e8b3ca780.jpg`
-- `images/tradcath-coquette/Fb73dc115691579b48e2d47f92b71c61.jpg`
-- `images/tradcath-coquette/818bf905dd6341d81d3b056cfdabe3a7.jpg`
-- `images/tradcath-coquette/DashaNekrasovaFrance.jpg`
-- `images/tradcath-coquette/Coquettecath2.png`
-- `images/tradcath-coquette/0fa86a3b67783575c6e5df44af2bf419.jpg`
-- `images/tradcath-coquette/Coquettecath.jpeg`
-- `images/tradcath-coquette/D69ce4cae568f2a6c852e6b7a22e9163.jpg`
-- `images/tradcath-coquette/4f34506b5e77f80c0d1d716e8a3da6c8.jpg`
-- `images/tradcath-coquette/Tradcathcoquette78.png`
-
 ## Source and attribution
 
-Text adapted from "Tradcath Coquette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tradcath_Coquette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Tradcath Coquette" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Tradcath_Coquette), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

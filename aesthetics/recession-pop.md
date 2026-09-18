@@ -11,7 +11,6 @@ related_aesthetics: ["2010s Summer Nostalgia", "Avantropop", "Bloghouse", "Dark 
 source_url: "https://aesthetics.fandom.com/wiki/Recession_Pop"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Recession Pop
@@ -170,26 +169,6 @@ DEV - Bass Down Low (Explicit) ft. The Cataracs (Official Music Video)
 | --- | --- | --- |
 | Aero (Gloss & Nature) [Frutiger Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero "Frutiger Aero") ● [Frutiger Eco](https://aesthetics.fandom.com/wiki/Frutiger_Eco "Frutiger Eco") ● [Dark Aero](https://aesthetics.fandom.com/wiki/Dark_Aero "Dark Aero") ● [Technozen](https://aesthetics.fandom.com/wiki/Technozen "Technozen") ● [Bright Tertiaries](https://aesthetics.fandom.com/wiki/Bright_Tertiaries "Bright Tertiaries") ● [Four Colors](https://aesthetics.fandom.com/wiki/Four_Colors "Four Colors") ● [DORFic](https://aesthetics.fandom.com/wiki/DORFic "DORFic")  Vector (Flat & Graphic) [Vectordelia](https://aesthetics.fandom.com/wiki/Vectordelia "Vectordelia") ● [Vectorbloom](https://aesthetics.fandom.com/wiki/Vectorbloom "Vectorbloom") ● [Vector Música](https://aesthetics.fandom.com/wiki/Vector_M%C3%BAsica "Vector Música") ● **Recession Pop** ● [Superflat Pop](https://aesthetics.fandom.com/wiki/Superflat_Pop "Superflat Pop")  Related Topics [Abstract Tech](https://aesthetics.fandom.com/wiki/Abstract_Tech "Abstract Tech") ● [Category](https://aesthetics.fandom.com/wiki/Category:Frutiger_Family "Category:Frutiger Family") ● [Hands Up](https://aesthetics.fandom.com/wiki/Hands_Up "Hands Up") ● [Hexatron](https://aesthetics.fandom.com/wiki/Hexatron "Hexatron") ● [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") ● [Skeuomorphism](https://aesthetics.fandom.com/wiki/Skeuomorphism "Skeuomorphism") ● [TechnoNeko2000](https://aesthetics.fandom.com/wiki/TechnoNeko2000 "TechnoNeko2000") |
 
-## Images
-
-- `images/recession-pop/Amber.jpeg`
-- `images/recession-pop/Electropoplogo.jpg`
-- `images/recession-pop/78e0cf01.jpg`
-- `images/recession-pop/110201-black-eyed-peas.jpg`
-- `images/recession-pop/78ccb7a1a4546379c2b31d515e2bcafc.jpg`
-- `images/recession-pop/1c84c467d5666361286762978892bd8f.jpg`
-- `images/recession-pop/7a2db9c013320b401588fa64837bc13e--japan-fashion-d-fashion.jpg`
-- `images/recession-pop/Glasseyes2.jpg`
-- `images/recession-pop/EU88.jpeg`
-- `images/recession-pop/Vma-katy-perry-yellow-block.jpg`
-- `images/recession-pop/Keri.jpg`
-- `images/recession-pop/Maison-martin-margiela-crazy-glasses-2.jpg`
-- `images/recession-pop/Pokerfacesingle.jpeg`
-- `images/recession-pop/Disney.png`
-- `images/recession-pop/Dancecrew.png`
-- `images/recession-pop/Taylor.jpg`
-- `images/recession-pop/Robynbodytalk.jpg`
-
 ## Source and attribution
 
-Text adapted from "Recession Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Recession_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Recession Pop" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Recession_Pop), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

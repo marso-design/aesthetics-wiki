@@ -12,7 +12,6 @@ related_media: ["Popee The Performer", "Homestuck"]
 source_url: "https://aesthetics.fandom.com/wiki/Clowncore"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 19
 ---
 
 # Clowncore
@@ -220,28 +219,6 @@ Zippy the Pinhead strip by Bill Griffith
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/clowncore/2cf59aca-5595-4373-aa2f-e7fdf3080675.octet-stream.jpg`
-- `images/clowncore/Dotty-the-Clown-Tumblr.jpg`
-- `images/clowncore/Clowncoretat.jpg`
-- `images/clowncore/52f7dc0a6812ff0fe7c4624f0ca17b40.jpg`
-- `images/clowncore/Pidgeon.jpg`
-- `images/clowncore/Clown2.jpg`
-- `images/clowncore/B418948E-2EAB-4D3E-85C4-CEF0B472A21D.jpeg`
-- `images/clowncore/A25a438c566b3425a408bf0c2cf3f726.jpg`
-- `images/clowncore/Unnamed.jpg`
-- `images/clowncore/Clownnurse.jpg`
-- `images/clowncore/093C99C1-F1D0-442C-B3CB-0EC399CBC862.png`
-- `images/clowncore/229C92FB-31D0-4746-996C-94B2BCB98E87.jpeg`
-- `images/clowncore/Horror-clown-bjd.jpg`
-- `images/clowncore/Uwumars-clowncore-makeup.jpg`
-- `images/clowncore/Oc.png`
-- `images/clowncore/G5392306.jpg`
-- `images/clowncore/10972.jpg`
-- `images/clowncore/71729-arlequin-musician.jpg`
-- `images/clowncore/Douxicecreamclown.jpg`
-
 ## Source and attribution
 
-Text adapted from "Clowncore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Clowncore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Clowncore" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Clowncore), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

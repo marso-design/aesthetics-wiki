@@ -11,7 +11,6 @@ primary_platform: ["SoundCloud", "Bandcamp"]
 source_url: "https://aesthetics.fandom.com/wiki/Trillwave"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 48
 ---
 
 # Trillwave
@@ -414,57 +413,6 @@ Local Forecast - AMU Henry Smalls (2025)
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/trillwave/Trillw4ve.gif`
-- `images/trillwave/TrillTrump.jpg`
-- `images/trillwave/GBTrill.png`
-- `images/trillwave/Etherealmix.jpg`
-- `images/trillwave/Tokyoghost.jpg`
-- `images/trillwave/Dreams4sale.jpg`
-- `images/trillwave/Artworks-000073471497-cki7u1-t500x500.jpg`
-- `images/trillwave/E18d30284d0986c79d3a901ee9ca5f39.jpg`
-- `images/trillwave/Lara180x156spezzonedecizf4.gif`
-- `images/trillwave/7ed917430f48cdb71aea6d45cd03a795.png`
-- `images/trillwave/DORI1.jpg`
-- `images/trillwave/DORI2.jpg`
-- `images/trillwave/Trillkang.jpg`
-- `images/trillwave/Df3704cc44949daf43273445896ba5f8.jpg`
-- `images/trillwave/DigThemGraves.jpg`
-- `images/trillwave/BasedKuroCollectionII.png`
-- `images/trillwave/Retro4Evr.png`
-- `images/trillwave/CLOUDTHEBLVD-OTAKUMOB.png`
-- `images/trillwave/CLVDTHEBLVD.jpg`
-- `images/trillwave/Neptuneexe.png`
-- `images/trillwave/Mista.jpg`
-- `images/trillwave/Mizukageclear.jpg`
-- `images/trillwave/Manitee.jpeg`
-- `images/trillwave/Lilnetzerocruisecontrol.jpg`
-- `images/trillwave/Lilnetzero4000lf.jpg`
-- `images/trillwave/Gloquexcightexodus.jpg`
-- `images/trillwave/Cightxklnvrememberme.jpg`
-- `images/trillwave/Brothelpolo.jpg`
-- `images/trillwave/Blvcsvndconvival.jpg`
-- `images/trillwave/58025-blue-flame.jpg`
-- `images/trillwave/452457-vrt-mxney-n-lvt.jpg`
-- `images/trillwave/159025-young-mifit.webp`
-- `images/trillwave/276404-coc4ine-icecre4m.jpg`
-- `images/trillwave/Liveloveasap-3.webp`
-- `images/trillwave/76182-hell-on-earth.jpg`
-- `images/trillwave/93612-blvcklvnd-rvdix-666.jpg`
-- `images/trillwave/Animazing.jpg`
-- `images/trillwave/Faeru.png`
-- `images/trillwave/Smokewave.png`
-- `images/trillwave/0x1900-000000-80-0-0.jpg`
-- `images/trillwave/現地予報.png`
-- `images/trillwave/BrokenHalo1995.png`
-- `images/trillwave/NardoAkaruRXIXP.jpg`
-- `images/trillwave/Bazoooka.png`
-- `images/trillwave/Junglewavee.jpg`
-- `images/trillwave/Pricless.jpg`
-- `images/trillwave/Misfortune.png`
-- `images/trillwave/Traphouseexe.png`
-
 ## Source and attribution
 
-Text adapted from "Trillwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trillwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Trillwave" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Trillwave), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

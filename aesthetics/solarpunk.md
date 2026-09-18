@@ -11,7 +11,6 @@ related_aesthetics: ["Afrofuturism", "Art Nouveau", "Avant Apocalypse", "Biopunk
 source_url: "https://aesthetics.fandom.com/wiki/Solarpunk"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 17
 ---
 
 # Solarpunk
@@ -281,26 +280,6 @@ Criticisms of Solarpunk.
 | Regional & Niche |
 | [Brazilian Phonk](https://aesthetics.fandom.com/wiki/Brazilian_Phonk "Brazilian Phonk") • [Chinese Nostalgiacore](https://aesthetics.fandom.com/wiki/Chinese_Nostalgiacore "Chinese Nostalgiacore") • [Epunk](https://aesthetics.fandom.com/wiki/Epunk "Epunk") • [Hallyu](https://aesthetics.fandom.com/wiki/Hallyu "Hallyu") • [Hyperborean](https://aesthetics.fandom.com/wiki/Hyperborean "Hyperborean") • [Korean Cozy Beige](https://aesthetics.fandom.com/wiki/Korean_Cozy_Beige "Korean Cozy Beige") • [Mizuiro](https://aesthetics.fandom.com/wiki/Mizuiro "Mizuiro") • [Neo-Aero](https://aesthetics.fandom.com/wiki/Neo-Aero "Neo-Aero") • [Russian 2K17](https://aesthetics.fandom.com/wiki/Russian_2K17 "Russian 2K17") • [Slavic Bimbo](https://aesthetics.fandom.com/wiki/Slavic_Bimbo "Slavic Bimbo") • [Slavic Doll](https://aesthetics.fandom.com/wiki/Slavic_Doll "Slavic Doll") • [Slavic Violence Tumblr](https://aesthetics.fandom.com/wiki/Slavic_Violence_Tumblr "Slavic Violence Tumblr") • [Sovietwave](https://aesthetics.fandom.com/wiki/Sovietwave "Sovietwave") • [Spainwave](https://aesthetics.fandom.com/wiki/Spainwave "Spainwave") • [Tradcath Coquette](https://aesthetics.fandom.com/wiki/Tradcath_Coquette "Tradcath Coquette") |
 
-## Images
-
-- `images/solarpunk/Solarpunkimg2.png`
-- `images/solarpunk/8mjj8b5n77381.jpg`
-- `images/solarpunk/1c1chzn.png`
-- `images/solarpunk/9f1f0b40576155.5784e2baa4c28.jpg`
-- `images/solarpunk/62bedc97756777.5ecce4edc9879.jpg`
-- `images/solarpunk/612e7abe9d5c92009bc79a11.png`
-- `images/solarpunk/NEOLOGISM-SOLARPUNK-SMITH.jpg`
-- `images/solarpunk/3b6ef971fd11572b88bc5aace95714ab.jpg`
-- `images/solarpunk/21b.jpg`
-- `images/solarpunk/38851da60d75560070efa32c04e2d568.jpg`
-- `images/solarpunk/Gavin-o-donnell-archipelago9.jpg`
-- `images/solarpunk/Terraform-studios-030822-xaya-floating-islands-alt-2-qm.jpg`
-- `images/solarpunk/Jessica-woulfe-solarpunk-jessicawoulfe.jpg`
-- `images/solarpunk/Marina-ovchinnikova-utopia-skillsup-1.jpg`
-- `images/solarpunk/Solarpunkarchifutur.png`
-- `images/solarpunk/Solarpunk.png`
-- `images/solarpunk/Detroit-become-human-concept-art.png`
-
 ## Source and attribution
 
-Text adapted from "Solarpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Solarpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Solarpunk" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Solarpunk), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -11,7 +11,6 @@ related_media: ["Alice in Wonderland", "The Wizard of Oz"]
 source_url: "https://aesthetics.fandom.com/wiki/Wonderland"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 14
 ---
 
 # Wonderland
@@ -91,23 +90,6 @@ Furthermore, the aesthetic's reliance on Alice in Wonderland symbolism sometimes
 
 ## Gallery
 
-## Images
-
-- `images/wonderland/21CD2A41-7DAA-4B68-A282-D1560C7AA20A.jpeg`
-- `images/wonderland/Greetings66.jpg`
-- `images/wonderland/Cardtrick.jpg`
-- `images/wonderland/9307abfd40e9514303987d375c4bcd93.jpg`
-- `images/wonderland/1c5c36487af7a8d3dc47e63110d1f71b.jpg`
-- `images/wonderland/Wonderland9.JPG`
-- `images/wonderland/Wonderland10.JPG`
-- `images/wonderland/Rabbitcult.jpg`
-- `images/wonderland/Tulgeywood.jpg`
-- `images/wonderland/Wonderlandcollage.png`
-- `images/wonderland/Wonderlandgif.gif`
-- `images/wonderland/62a353a9-a41c-4c8b-aadd-49f533db37a9.jpg`
-- `images/wonderland/35b17a51a43a9b9bc98c01c16255e07e.jpg`
-- `images/wonderland/59daccbe553e7af3769eb1199e82aaf1.jpg`
-
 ## Source and attribution
 
-Text adapted from "Wonderland" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wonderland), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Wonderland" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Wonderland), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

@@ -5,7 +5,6 @@ palette: ["#C8B5B3", "#E2D4D2", "#EAE9EC", "#A58D8C"]
 source_url: "https://aesthetics.fandom.com/wiki/Helping_You_Find_Your_Aesthetic"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 1
 ---
 
 # Helping You Find Your Aesthetic
@@ -246,10 +245,6 @@ While many people believe that finding their aesthetic is the end of their joune
 
 2. <https://powgoddess.com/blogs/spiritual-blogs/how-to-find-your-core-aesthetic-in-2023>
 
-## Images
-
-- `images/helping-you-find-your-aesthetic/Journaling.jpg`
-
 ## Source and attribution
 
-Text adapted from "Helping You Find Your Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Helping_You_Find_Your_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Helping You Find Your Aesthetic" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Helping_You_Find_Your_Aesthetic), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.

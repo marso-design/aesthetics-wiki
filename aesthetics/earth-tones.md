@@ -10,7 +10,6 @@ related_aesthetics: ["American Thanksgiving", "Autumn", "Flat Design", "Frasurba
 source_url: "https://aesthetics.fandom.com/wiki/Earth_Tones"
 license: "CC-BY-SA-4.0"
 retrieved: "2026-07-22"
-image_count: 8
 ---
 
 # Earth Tones
@@ -61,17 +60,6 @@ Generic stock image
 
 Burger King 2021 Rebrand - Wordmark (via [StirWorld](https://www.stirworld.com/see-news-burger-king-reveals-new-visual-identity-in-its-first-rebranding-in-over-20-years))
 
-## Images
-
-- `images/earth-tones/EtRoom.png`
-- `images/earth-tones/Earthtones.png`
-- `images/earth-tones/Matchbook.png`
-- `images/earth-tones/Zayre.png`
-- `images/earth-tones/LogoForPaulHarrisStores.png`
-- `images/earth-tones/BellPCS.png`
-- `images/earth-tones/SherWil.png`
-- `images/earth-tones/StockImage.png`
-
 ## Source and attribution
 
-Text adapted from "Earth Tones" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Earth_Tones), licensed CC-BY-SA 4.0. Retrieved 2026-07-22. Images retain their individual licenses; see the local `credits.json`.
+Text adapted from "Earth Tones" on the Aesthetics Wiki (https://aesthetics.fandom.com/wiki/Earth_Tones), licensed CC-BY-SA 4.0. Retrieved 2026-07-22.
