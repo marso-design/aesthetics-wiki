@@ -78,9 +78,70 @@ def rounded_strip(colors, w, h, radius):
     return strip
 
 
+SOCIAL_BOARDS = ["vaporwave", "cyberpunk", "coquette"]
+
+
+def cover(im, w, h):
+    """Resize to fill w x h, then centre-crop."""
+    scale = max(w / im.width, h / im.height)
+    im = im.resize((round(im.width * scale), round(im.height * scale)),
+                   Image.LANCZOS)
+    x, y = (im.width - w) // 2, (im.height - h) // 2
+    return im.crop((x, y, x + w, y + h))
+
+
+def render_social(out, palettes, names):
+    """1280x640 GitHub social preview: title + 3 generated moodboards."""
+    W, H = 1280, 640
+    margin, gap = 56, 20
+    img = Image.new("RGB", (W, H), BG)
+    d = ImageDraw.Draw(img)
+
+    tracked(d, (margin, 44), "AESTHETICS WIKI", load_font("display", 58), INK, 5)
+    d.text((margin + 2, 118),
+           "1,201 internet aesthetics  .  palettes  .  moodboards  .  a Claude skill",
+           font=load_font("text", 24), fill=MUTE)
+
+    gen_dir = os.path.join(ROOT, "assets", "generated")
+    boards = [s for s in SOCIAL_BOARDS
+              if os.path.exists(os.path.join(gen_dir, s + ".png")) and s in palettes]
+    n = max(len(boards), 1)
+    tile_w = (W - 2 * margin - (n - 1) * gap) // n
+    tile_h = 300
+    y = 172
+    f_label = load_font("text", 18)
+    for i, slug in enumerate(boards):
+        x = margin + i * (tile_w + gap)
+        src = Image.open(os.path.join(gen_dir, slug + ".png")).convert("RGB")
+        tile = cover(src, tile_w, tile_h).convert("RGBA")
+        mask = Image.new("L", tile.size, 0)
+        ImageDraw.Draw(mask).rounded_rectangle([0, 0, tile_w - 1, tile_h - 1],
+                                               radius=14, fill=255)
+        tile.putalpha(mask)
+        img.paste(tile, (x, y), tile)
+        cols = [c["hex"] for c in palettes[slug]["colors"][:6]]
+        strip = rounded_strip(cols, tile_w, 20, radius=8)
+        img.paste(strip, (x, y + tile_h + 14), strip)
+        tracked(d, (x + 2, y + tile_h + 44), names.get(slug, slug).upper(),
+                f_label, MUTE, 3)
+
+    d.line([(margin, H - 70), (W - margin, H - 70)], fill=(34, 34, 42), width=2)
+    f_foot = load_font("text", 22)
+    d.text((margin + 2, H - 52), "MARSO  DESIGN", font=f_foot, fill=INK)
+    tail = "marso.design"
+    d.text((W - margin - d.textlength(tail, font=f_foot), H - 52), tail,
+           font=f_foot, fill=FAINT)
+
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    img.save(out, optimize=True)
+    print("wrote %s  (%d boards, %dx%d)" % (out, len(boards), W, H))
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default=os.path.join(ROOT, "assets", "palette-wall.png"))
+    ap.add_argument("--out", default=None)
+    ap.add_argument("--social", action="store_true",
+                    help="render the 1280x640 GitHub social preview instead")
     ap.add_argument("--cols", type=int, default=4)
     ap.add_argument("--width", type=int, default=1800)
     args = ap.parse_args()
@@ -89,6 +150,12 @@ def main():
         palettes = json.load(f)
     with open(os.path.join(DATA, "index.json"), encoding="utf-8") as f:
         names = {r["slug"]: r.get("name", r["slug"]) for r in json.load(f)}
+
+    if args.social:
+        render_social(args.out or os.path.join(ROOT, "assets", "social-preview.png"),
+                      palettes, names)
+        return
+    args.out = args.out or os.path.join(ROOT, "assets", "palette-wall.png")
 
     cards = [(names.get(s, s), [c["hex"] for c in palettes[s]["colors"][:6]])
              for s in FEATURED if s in palettes][:24]

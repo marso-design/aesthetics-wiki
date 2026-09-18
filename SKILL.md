@@ -101,6 +101,11 @@ for republishing. To view them:
    python scripts/fetch_image.py cottagecore --all       # every image for it
    ```
 
+3. If the fetch prints "Fandom blocked ... (HTTP 403)", Fandom's Cloudflare is
+   refusing scripted downloads. Do not retry or try other download methods. Give
+   the user the printed wiki links to open in their browser, and use a moodboard
+   for visuals (`make_moodboard.py`, or `gen_moodboard.py` if an image API is set).
+
 Fetch only the handful of images relevant to the task. Do not republish or embed
 these images in an external deliverable without checking each one's license in
 `credits.json`.
@@ -120,5 +125,8 @@ externally without checking its individual license first.
 
 ## Regenerating the data
 
-`python scripts/scrape.py` re-pulls from the wiki; `python scripts/build_index.py`
-rebuilds `data/index.json` from the files. See README.md.
+The corpus is a snapshot from 2026-07-22. The live wiki may have newer
+aesthetics; if a user asks for one that is not in the index, say so and link the
+wiki search rather than guessing. `python scripts/scrape.py` re-pulls from the
+wiki when Fandom allows scripted access (it currently exits with a 403 notice);
+`python scripts/build_index.py` rebuilds `data/index.json` from the files.

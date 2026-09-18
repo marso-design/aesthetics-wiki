@@ -1,0 +1,15 @@
+{
+  "name": "marso-design",
+  "description": "Claude Code plugins from Marso Design.",
+  "owner": {
+    "name": "Marso Design",
+    "url": "https://marso.design"
+  },
+  "plugins": [
+    {
+      "name": "aesthetics-wiki",
+      "source": "./",
+      "description": "A deep, queryable knowledge base of 1,201 internet visual aesthetics, with data-derived colour palettes and moodboards."
+    }
+  ]
+}

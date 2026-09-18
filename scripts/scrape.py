@@ -87,12 +87,24 @@ def make_session():
     return s
 
 
+class BlockedError(RuntimeError):
+    """Fandom's Cloudflare refused the request (scripted access blocked)."""
+
+
+BLOCKED_MSG = (
+    "Fandom's Cloudflare blocked scripted API access (HTTP 403). The data in "
+    "this repo is a snapshot from 2026-07-22; see README 'Regenerate from source'."
+)
+
+
 def api_get(session, params):
     params = dict(params)
     params.setdefault("format", "json")
     params.setdefault("formatversion", "2")
     params.setdefault("maxlag", "5")
     r = session.get(API_URL, params=params, timeout=60)
+    if r.status_code == 403 and "cloudflare" in r.headers.get("server", "").lower():
+        raise BlockedError(BLOCKED_MSG)
     r.raise_for_status()
     return r.json()
 
@@ -430,7 +442,10 @@ def main():
         titles = [t.strip() for t in args.titles.split("|") if t.strip()]
     else:
         print("Fetching article list ...", flush=True)
-        titles = get_all_titles(session)
+        try:
+            titles = get_all_titles(session)
+        except BlockedError as exc:
+            sys.exit(str(exc))
         print("  %d articles" % len(titles), flush=True)
     if args.limit:
         titles = titles[:args.limit]

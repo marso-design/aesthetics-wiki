@@ -89,10 +89,11 @@ work too via `IMAGE_PROVIDER` / `IMAGE_MODEL` / `IMAGE_API_BASE`.
 
 ## Install
 
-As a Claude Code **plugin** (one command):
+As a Claude Code **plugin**:
 
 ```bash
-claude plugin install github:marso-design/aesthetics-wiki
+claude plugin marketplace add marso-design/aesthetics-wiki
+claude plugin install aesthetics-wiki@marso-design
 ```
 
 Or as a plain **skill** (clone into your skills directory):
@@ -113,19 +114,33 @@ those on demand:
 python scripts/fetch_image.py cottagecore --limit 1   # or --all
 ```
 
-To bulk-populate every image locally instead, run `python scripts/scrape.py`.
+> **Heads-up (Sept 2026):** Fandom now sits behind Cloudflare, which blocks
+> scripted downloads, so `fetch_image.py` may return 403. When it does, it prints
+> the wiki page link for each image so you can open it in a browser. The
+> moodboards below are the reliable way to get visuals.
 
 ## Usage examples
 
 ```console
-$ python scripts/lookup.py "what's it called: nostalgic 90s shopping mall muzak"
-Mallsoft   aesthetics/mallsoft.md
-  decade_of_origin: 2010s
-  key_colours: muted pastels, fluorescent lighting, washed-out tones
-  Mallsoft is a subgenre of vaporwave evoking the ambience of empty shopping malls...
+$ python scripts/lookup.py --find "empty shopping mall muzak" --limit 3
+Mallsoft                     aesthetics/mallsoft.md
+Kawaii                       aesthetics/kawaii.md
+After Hours                  aesthetics/after-hours.md
 
-$ python scripts/lookup.py --related Cottagecore
-Fairycore, Goblincore, Grandmacore, Naturecore, Mori Kei, Bloomcore, Cottagegoth ...
+$ python scripts/lookup.py --get mallsoft
+Mallsoft                     aesthetics/mallsoft.md
+  aka: Mallwave
+  decade_of_origin: 2010s
+  key_colours: Pink, teal, mint green, purple, white, gold
+  key_motifs: Shopping malls, atrium architecture, food courts, indoor fountains, neon signage, consumerist decay
+  related_aesthetics: After Hours, Liminal Space, Memphis Design, Vaporwave
+  Mallsoft is a musical and visual subgenre of Vaporwave that emerged in the early 2010s...
+
+$ python scripts/lookup.py --related Cottagecore --limit 4
+Cozy Gamer                   aesthetics/cozy-gamer.md
+Edwardian                    aesthetics/edwardian.md
+Grandmacore                  aesthetics/grandmacore.md
+Fairycore                    aesthetics/fairycore.md
 
 $ python scripts/lookup.py --color pastel --limit 5
 $ python scripts/lookup.py --decade 1990s
@@ -172,11 +187,16 @@ scripts/build_index.py # rebuild data/index.json from the files
 scripts/lookup.py      # query CLI (resolve, search, related, by colour/decade/motif)
 scripts/fetch_image.py # fetch an aesthetic's images on demand for local viewing
 scripts/palette.py     # derive hex palettes from reference images
-scripts/make_showcase.py # render the palette-wall hero from data/palettes.json
+scripts/make_showcase.py # render the palette-wall hero (--social: link preview card)
 scripts/make_moodboard.py # render a per-aesthetic moodboard from data/palettes.json
 ```
 
 ## Regenerate from source
+
+The data in this repo is a snapshot taken on **2026-07-22** (1,201 aesthetics).
+Fandom's Cloudflare currently blocks scripted API access, so `scrape.py` exits
+with a clear message instead of refreshing. The pipeline is kept for when access
+is available again.
 
 ```bash
 python -m venv .venv && source .venv/bin/activate

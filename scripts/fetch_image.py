@@ -16,6 +16,7 @@ import argparse
 import json
 import os
 import sys
+import urllib.error
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -45,7 +46,7 @@ def main():
         records = records[:args.limit]
 
     os.makedirs(slug_dir, exist_ok=True)
-    paths = []
+    paths, blocked = [], []
     for rec in records:
         dest = os.path.join(slug_dir, rec["file"])
         if not (os.path.exists(dest) and os.path.getsize(dest) > 0):
@@ -55,6 +56,12 @@ def main():
                 with urllib.request.urlopen(req, timeout=60) as r, \
                         open(dest, "wb") as out:
                     out.write(r.read())
+            except urllib.error.HTTPError as exc:
+                if exc.code == 403:
+                    blocked.append(rec)
+                else:
+                    sys.stderr.write("fail %s: %s\n" % (rec["file"], exc))
+                continue
             except Exception as exc:  # noqa: BLE001
                 sys.stderr.write("fail %s: %s\n" % (rec["file"], exc))
                 continue
@@ -62,8 +69,13 @@ def main():
 
     for p in paths:
         print(p)
+    if blocked:
+        print("\nFandom blocked %d download(s) (HTTP 403, scripted access). "
+              "Open in a browser instead:" % len(blocked))
+        for rec in blocked:
+            print("  " + (rec.get("page") or rec["source_url"]))
     if not paths:
-        sys.exit("nothing fetched")
+        sys.exit(2 if blocked else "nothing fetched")
 
 
 if __name__ == "__main__":
